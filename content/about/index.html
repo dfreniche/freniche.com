@@ -1,0 +1,52 @@
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+  <head> 
+	<title>www.freniche.com</title> 
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<style media="screen" type="text/css">/*<![CDATA[*/@import 'stylesheet.css';/*]]>*/</style>
+	
+	
+ </head> 
+<body onload="blue()"> 
+<script>
+	
+function blue() {
+  var sheet = document.createElement('style')
+  sheet.innerHTML = "body { background-color: #000080;color: #FFFFFF;}a {color: #00FF00;}";
+  document.body.appendChild(sheet);
+}
+
+function green() {
+	var sheet = document.createElement('style')
+	sheet.innerHTML = "body { background-color: #008000;color: #00FF00;} a {color: #00FF00;}";
+	document.body.appendChild(sheet);
+}
+
+function changeImage(a) {
+	document.getElementById("img").src=a;
+	green();
+}
+</script>
+	
+
+<h1>About</h1>
+	
+<h2>BASIC 1.1</h2>
+
+<p>LIST</p>
+
+<ul>
+<li><a href="/">10 [BLOG&nbsp;&nbsp;&nbsp;&nbsp;]</a> WORK IN PROGRESS. Here's the new, shiny blog.</li>
+<li><a href="http://blog.freniche.com">20 [OLD BLOG]</a> My old blog. In Spanish. Not writing in it anymore.</li>
+<li><a href="http://www.github.com/dfreniche/cv">30 [CV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;]</a> DO a git clone of my CV. On Github.</li>
+<li><a href="https://twitter.com/dfreniche">40 [Twitter&nbsp;]</a> This Twitter thing I use a lot</li>
+<li><a href="https://es.linkedin.com/in/dfreniche">50 [LinkedIn]</a> For work related stuff</li>
+<li><a onclick="blue()" >60 select: [COLOUR CPC MONITOR - CTM 644]</a> / <a onclick="green()">[GREEN CPC MONITOR - GT 65]</a> </li>
+</ul>
+
+<p>Ready</p>
+<p class="cursor">&#9632;</p>
+
+No, sadly you can´t type anything here. My web skills are limited, to say the least. This About is based on my 1st computer, the AMSTRAD CPC 464, which my parents bought me with Green Screen Monitor and 8 cassette programs. It´s that computer´s fault that I eneded up making a living out of programming...
+
+</body>
