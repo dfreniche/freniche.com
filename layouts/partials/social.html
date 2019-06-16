@@ -1,0 +1,29 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<section class="social">
+	{{ with .Site.Params.social.twitter }}
+	<a href="https://twitter.com/{{.}}" class="fa fa-twitter"></a>
+	{{ end }}
+	{{ with .Site.Params.social.github }}
+	<a href="https://github.com/{{.}}" class="fa fa-github"></a>
+	{{ end }}
+	{{ with .Site.Params.social.bitbucket }}
+	<a href="https://bitbucket.org/{{.}}" rel="me"><i class="fa fa-bitbucket" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ $gitlab_domain := "gitlab.com" }}
+	{{ with .Site.Params.social.custom_gitlab_domain }}
+		{{ $gitlab_domain = . }}
+	{{ end }}
+	{{ with .Site.Params.social.gitlab }}
+	<a href="https://{{ $gitlab_domain }}/{{.}}" rel="me"><i class="fa fa-gitlab" aria-hidden="true"></i></a>
+	{{ end }}
+	{{ with .Site.Params.social.linkedin }}
+	<a href="https://linkedin.com/in/{{.}}" class="fa fa-linkedin" />
+	{{ end }}
+	{{ with .Site.Params.social.stackoverflow }}
+	<a href="https://stackoverflow.com/users/{{.}}" class="fa fa-stack-overflow"></a>
+	{{ end }}
+	{{ with .Site.Params.social.telegram }}
+	<a href="https://t.me/{{.}}" class="fa fa-telegram "></a>
+	{{ end }}
+</section>

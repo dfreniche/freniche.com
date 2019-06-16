@@ -1,0 +1,69 @@
+baseurl = "/"
+languageCode = "en-us"
+theme = "terminal"
+paginate = 10
+
+[params]
+  # dir name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "green"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 3
+  # set theme to full screen width
+  fullWidthTheme = false
+  # center theme with default width
+  centerTheme = true
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+[languages]
+  [languages.en]
+    title = "BASIC"
+    subtitle = "was my 1st language"
+    keywords = ""
+    copyright = "&copy; Diego Freniche"
+    menuMore = "More"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "BASIC Was My 1st Language"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/posts"
+        weight = -10
+
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+        weight = 1
+
+      [[languages.en.menu.main]]
+        identifier = "wiki"
+        name = "Wiki"
+        url = "/wiki"
+
+    [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
+        weight = -5
+
+
+## Social Accounts
+[params.social]
+    github = "dfreniche"
+    instagram = "<username>"
+    xing = "<username>"
+    linkedin = "dfreniche"
+    twitter = "dfreniche"
+    facebook = "<username>"
+    stackoverflow = "<username>"
+    email = "your-email@example.com"
+    # gravatar = "your-email@example.com"
