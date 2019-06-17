@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "https://dfreniche.github.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 10
@@ -19,8 +19,8 @@ paginate = 10
 
 [languages]
   [languages.en]
-    title = "BASIC"
-    subtitle = "was my 1st language"
+    title = "www.freniche.com"
+    subtitle = "www.freniche.com // BASIC was my 1st language"
     keywords = ""
     copyright = "&copy; Diego Freniche"
     menuMore = "More"
@@ -28,7 +28,7 @@ paginate = 10
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "BASIC Was My 1st Language"
+      logoText = "freniche.com: Diego Freniche´s Internet homepage"
       logoHomeLink = "/"
 
     [languages.en.menu]
