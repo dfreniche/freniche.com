@@ -1,4 +1,4 @@
-baseurl = "http://www.freniche.com"
+baseurl = ""
 languageCode = "en-us"
 theme = "terminal"
 paginate = 10
