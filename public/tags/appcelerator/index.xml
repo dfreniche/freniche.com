@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>appcelerator on BASIC</title>
+    <link>/tags/appcelerator/</link>
+    <description>Recent content in appcelerator on BASIC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Diego Freniche</copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/appcelerator/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appcelerator</title>
+      <link>/wiki/appcelerator/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/wiki/appcelerator/</guid>
+      <description>Create a quick example project  create Mobile Alloy project put all code in alloy.js, creating a window and showing it remove the controller .xml file from views leave an empty controllers/index.js  WebView in Android with content that scrolls Key is Titanium.UI.Android.OVER_SCROLL_ALWAYS
+var win = Titanium.UI.createWindow({ backgroundColor:&#39;#fff&#39; }); var Webheight=Ti.Platform.displayCaps.platformHeight; var webview = Ti.UI.createWebView({ top : 10, height : &amp;quot;100%&amp;quot;, overScrollMode: Titanium.UI.Android.OVER_SCROLL_ALWAYS, url : &#39;https://blog.freniche.com&#39;	}); win.add(webview); win.open();  User Defaults http://docs.</description>
+    </item>
+    
+  </channel>
+</rss>
