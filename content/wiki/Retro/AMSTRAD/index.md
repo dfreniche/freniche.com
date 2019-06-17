@@ -1,5 +1,10 @@
-AMSTRAD
-=======
+---
+date: 2019-06-01
+title: AMSTRAD
+description: ""
+tags: [AMSTRAD]
+
+---
 
 ## GAMES
 

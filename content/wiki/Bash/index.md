@@ -6,8 +6,6 @@ tags: [bash]
 
 ---
 
-Bash
-======
 
 ## Run command after n seconds
 

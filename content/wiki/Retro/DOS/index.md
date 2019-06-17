@@ -1,6 +1,10 @@
-DOS
-===
+---
+date: 2019-06-01
+title: DOS
+description: ""
+tags: [DOS]
 
+---
 ## DOS GAMES
 
 [Games](dos-games.md)

@@ -1,5 +1,11 @@
-macOS
-=====
+---
+date: 2019-06-01
+title: macOS
+description: ""
+tags: [macOS]
+
+---
+
 
 ## Run AppleScript from command line
 

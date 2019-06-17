@@ -1,13 +1,11 @@
 ---
 date: 2019-06-01
-title: Appc
+title: Appcelerator
 description: ""
 tags: [coffeescript, appcelerator]
 
 ---
 
-Appcelerator
-============
 
 ## Create a quick example project
 
