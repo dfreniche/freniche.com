@@ -9,11 +9,14 @@ script:
     - hugo
 
 after_success: |
-    if [ -n "$GITHUB_API_KEY" ]; then
-    git rm -rf .
-    mv public/* .
-    rm -rf public hugo_*
-    git add -f --ignore-errors --all
-    git -c user.name='travis' -c user.email='travis' commit -m init
-    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG master
-    fi
+    git submodule add -f -b master git@github.com:dfreniche/dfreniche.github.io.git public
+
+    echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+
+    cd public
+    git add .
+
+    msg="rebuilding site `date`"
+    git commit -m "$msg"
+
+    git push origin master
