@@ -4,7 +4,7 @@ install:
     - wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.deb
     - sudo dpkg -i hugo*.deb
     - pip install Pygments
-    - git submodule add -f -b master git@github.com:dfreniche/dfreniche.github.io.git public
+    - git submodule add -f -b master https://$GITHUB_USER:$GITHUB_API_KEY@github.com/dfreniche.github.io public
 
 
 script:
@@ -21,4 +21,4 @@ after_success: |
     msg="rebuilding site `date`"
     git commit -m "$msg"
 
-    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$TRAVIS_REPO_SLUG master
+    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/dfreniche.github.io master
