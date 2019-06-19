@@ -1,3 +1,11 @@
+---
+date: 2019-06-01
+title: ARKOS ROM
+description: ""
+tags: [AMSTRAD]
+
+---
+
 ARKOS ROM V1.0
 
 

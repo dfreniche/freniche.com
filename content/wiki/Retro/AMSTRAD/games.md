@@ -1,5 +1,10 @@
-GAMES
-=====
+---
+date: 2019-06-01
+title: AMSTRAD GAMES
+description: ""
+tags: [AMSTRAD]
+
+---
 
 ## Modern games
 

@@ -1,3 +1,11 @@
+---
+date: 2019-06-01
+title: X-MEM
+description: ""
+tags: [AMSTRAD]
+
+---
+
 ****************************************
                X - M E M 
               GET STARTED!
