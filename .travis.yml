@@ -1,9 +1,14 @@
 language: python
+cache: pip
 
-install:
+before_install:
     - wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.deb
     - sudo dpkg -i hugo*.deb
     - pip install Pygments
+
+install:
+    - rm -rf public
+    - mkdir public
     - git submodule add -f -b master https://$GITHUB_USER:$GITHUB_API_KEY@github.com/dfreniche.github.io public
 
 
