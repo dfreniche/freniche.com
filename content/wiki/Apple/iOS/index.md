@@ -12,7 +12,7 @@ iOS
 
 ## Swift
 
-[Swift](swift.md)
+[Swift](swift)
 
 ## Stopping the responder chain
 

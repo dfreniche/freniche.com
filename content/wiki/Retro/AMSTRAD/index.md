@@ -8,14 +8,14 @@ tags: [AMSTRAD]
 
 ## GAMES
 
-[Games](games.md)
+[Games](games)
 
 
 ## X-MEM
 
-[x-mem](x-mem.md)
+[x-mem](x-mem)
 
-[arkos rom](arkos-rom.md)
+[arkos rom](arkos-rom)
 
 
 ## Disk drive belt

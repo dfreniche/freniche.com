@@ -1,5 +1,10 @@
-SWIFT
-=====
+---
+date: 2019-06-01
+title: SWIFT
+description: ""
+tags: [swift, iOS]
+
+---
 
 ## Using a class' method as default parameter in Swift
 
