@@ -1,5 +1,6 @@
 language: python
 cache: pip
+python: 3.6
 
 before_install:
     - wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_0.55.6_Linux-64bit.deb
@@ -8,8 +9,7 @@ before_install:
 
 install:
     - rm -rf public
-    - mkdir public
-    - git submodule add -f -b master https://$GITHUB_USER:$GITHUB_API_KEY@github.com/dfreniche.github.io public
+    - git submodule add -f -b master https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$GITHUB_USER/dfreniche.github.io public
 
 
 script:
@@ -26,4 +26,4 @@ after_success: |
     msg="rebuilding site `date`"
     git commit -m "$msg"
 
-    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/dfreniche.github.io master
+    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$GITHUB_USER/dfreniche.github.io master
