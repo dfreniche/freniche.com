@@ -8,7 +8,6 @@ before_install:
 
 install:
     - rm -rf public
-    - mkdir public
     - git submodule add -f -b master https://$GITHUB_USER:$GITHUB_API_KEY@github.com/dfreniche.github.io public
 
 
@@ -26,4 +25,4 @@ after_success: |
     msg="rebuilding site `date`"
     git commit -m "$msg"
 
-    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/dfreniche.github.io master
+    git push -f -q https://$GITHUB_USER:$GITHUB_API_KEY@github.com/$GITHUB_USER/dfreniche.github.io master
