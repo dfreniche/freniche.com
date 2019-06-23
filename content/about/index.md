@@ -10,4 +10,4 @@ This is my web page, my little corner in the Internet. I’m putting here my blo
 
 All this is powered by [Hugo](https://gohugo.io/), the static site generator and the beautiful [Terminal theme](https://github.com/panr/hugo-theme-terminal). So it’s just a bunch of HTML, CSS and very few JavaScript. No ads, no annoying pop-ups and specially no trackers. I respect you, the reader, and think you need places where your time is valued (fast loading), your privacy is a Basic Human Right and nobody is spying on you. This is inspired by the values of [Ethical Design](https://2017.ind.ie/ethical-design/)
 
-This is my other, rather funky, 80s AMSTRAD inspired [About page](old-index.html). Enter at your own risk.
+This is my other, rather funky, 80s AMSTRAD inspired [About page](/old-about/). Enter at your own risk.
