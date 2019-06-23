@@ -59,6 +59,11 @@ paginate = 10
         identifier = "old_blog"
         name = "My old blog"
         url = "http://blog.freniche.com"
+
+      [[languages.en.menu.main]]
+        identifier = "cv"
+        name = "My CV"
+        url = "/cv/"
         
 
 
