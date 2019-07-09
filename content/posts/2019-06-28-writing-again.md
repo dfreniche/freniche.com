@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing again
-description: "Writing again"
+description: "OK, seems like I'm writing again"
 tags: [writing, blog]
 date: 2019-06-28
 ---
