@@ -10,7 +10,7 @@ At Teamwork’s Mobile Team we hold a Standup meeting every day, at 11:00 AM Iri
 
 Since my 1st day at Teamwork I got into the habit of writing the bullet points of my standup status update in a Markdown document. This way I just read instead of remembering and stuttering through the _Virtual Meeting Software Of Choice_. Also, it serves as a handy diary with _everything_ I’ve been doing.
 
-![](/img/standup-script.png)
+![Visual Studio Code showing a preview of my standup document](/img/standup-script.png)
 
 But you know: each day, open that doc. Add a new section with what I’ve done yesterday and what I want to do today. Fill those. Open the browser. Go to the meeting URL... too much effort. I needed something easier and with less friction. So I decided to write a small script that does all of the above... and a bit more. Right now it even adds the date, the weather at  my location and takes a picture using my MBP’s webcam. 
 
