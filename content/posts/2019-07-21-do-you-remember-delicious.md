@@ -12,7 +12,7 @@ Because that was the problem Delicious solved: accessing your favorite links fro
 
 Today, reviewing my old accounts and changing passwords I bumped into it, and logged in just to see if it still works. Well, sort of, because logging out was causing internal server errors and various HTTP 500 statuses were the most common page I could load while trying Delicious again. 
 
-![Exporting my Delicious links](img/delicious.png)
+![Exporting my Delicious links](/img/delicious.png)
 
 Somehow I managed to click on my profile without the thing crashing on me and surprisingly I could export all my old links and download them in a nice HTML file. All this was done in my iPad running iPadOS 13 Beta 4, so I have access to that file thanks to the download manager Apple finally included in Safari for iOS. 
 
