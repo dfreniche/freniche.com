@@ -1,6 +1,6 @@
 ---
 date: 2019-06-01
-title: AMSTRAD GAMES
+title: AMSTRAD / GAMES
 description: ""
 tags: [AMSTRAD]
 

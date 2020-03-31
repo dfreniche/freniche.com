@@ -18,3 +18,9 @@ https://www.addictivetips.com/mac-os/use-the-color-picker-in-macos-as-a-stand-al
 ## Create an App from a shell script
 
 https://mathiasbynens.be/notes/shell-script-mac-apps
+
+## Hide/Show OS updates 
+
+
+sudo softwareupdate --ignore "macOS Catalina"
+sudo softwareupdate --reset-ignored

@@ -26,6 +26,18 @@ https://medium.com/@nguyenminhphuc/how-to-pass-ui-events-through-views-in-ios-c1
 ln -s /Applications/Xcode-10.2.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport/12.2\ \(16E226\) /Applications/Xcode-10.1.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 ```
 
+## Dark mode
+
+- [How to turn Dark Mode on in the Simulator](https://technikales.com/how-to-turn-on-dark-mode-in-ios-13-simulator/)
+- [Apple's Dark Mode docs](https://developer.apple.com/documentation/appkit/supporting_dark_mode_in_your_interface/choosing_a_specific_interface_style_for_your_ios_app)
+- Opt out of Dark Mode [SO](https://stackoverflow.com/a/56546554/225503)
+
+```
+<key>UIUserInterfaceStyle</key>
+<string>Light</string>
+```
+
+
 ## App Store Connect
 
 ### Testflight Open link beta
