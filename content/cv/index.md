@@ -1,4 +1,4 @@
-# Diego Freniche Brito - Mobile Apps Developer / Teacher
+# Diego Freniche Brito - Mobile Apps Developer, sometimes Teacher
 
 ![](difb.jpg)
 
@@ -16,13 +16,31 @@
 	- ☀️ El Saucejo, Seville (Spain)
 	- 🌍 Travelling sometimes
 
+---
+
 ## Current Position
 
-(Jan 2018 - ) __Mobile developer at [Teamwork.com](https://www.teamwork.com)__. 
+(Jan 2018 - ) __Senior Mobile developer at [Teamwork.com](https://www.teamwork.com)__. 
 
-Maintaining the existing Projects & Desk Mobile Apps, written in CoffeeScript / Titanium Appcelerator. Technologies used: Node.js, CoffeeScript, Axway Appcelerator, Swift, Java (for the native modules and extensions), gulp, bash, Ruby.
+For two years I've been maintaining the existing Projects & Desk Mobile Apps, written in CoffeeScript / Titanium Appcelerator. Technologies used: 
 
-Also developing native iOS Apps with Swift. 
+- Node.js
+- CoffeeScript
+- Axway Appcelerator
+- Swift / Java (for the native modules and extensions)
+- gulp, bash, Ruby for the tooling
+
+Right now I've been helping with the native/Swift Chat App and currently I'm working on the new native iOS App for Teamwork, using:
+
+- Xcode (off course)
+- RxSwift
+- Realm
+- Cocoa Pods
+- Bitrise as CI
+- SwiftLint
+- Sourcery 
+
+---
 
 ## Past experience
 
@@ -115,5 +133,3 @@ September 1997 – August 1999 (2 years)
 University of Seville - Bachelor on Computer Science (Informática SS.FF.)
 
 ---
-
-If you need a PDF version of this CV, go [here](https://gitprint.com/dfreniche/freniche.com/blob/master/content/cv/index.md)
