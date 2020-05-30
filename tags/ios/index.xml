@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ios on www.freniche.com</title>
+    <link>https://dfreniche.github.io/tags/ios/</link>
+    <description>Recent content in ios on www.freniche.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dfreniche.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sharing your Swiftlint config file among projects</title>
+      <link>https://dfreniche.github.io/posts/2019-10-30-swiftlint-config-sharing/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-10-30-swiftlint-config-sharing/</guid>
+      <description>At Teamwork iOS team we believe code has to be consistent throughout projects. So we have decided upon (and documented in a fairly long markdown doc) our code style, something we all agree and (sometimes) like. The good part is that now all code looks similar, which makes it easier for the eye/brain to spot parts of the code. Also, no more time wasted debating whether we&amp;rsquo;ll use tabs or spaces, vertical spacing or if opening curly braces should be placed in its own line or at the end.</description>
+    </item>
+    
+  </channel>
+</rss>

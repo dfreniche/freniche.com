@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on www.freniche.com</title>
+    <link>https://dfreniche.github.io/tags/markdown/</link>
+    <description>Recent content in Markdown on www.freniche.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Sun, 21 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dfreniche.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Do you remember del.icio.us?</title>
+      <link>https://dfreniche.github.io/posts/2019-07-21-do-you-remember-delicious/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-07-21-do-you-remember-delicious/</guid>
+      <description>Yep, this is old. Del.icio.us was a link-sharing / personal link storage system that existed wayyyy in the past. Before Chrome, Firefox, Safari or Edge had profiles and the ability to store your favorite pages and access them from different computers.
+Because that was the problem Delicious solved: accessing your favorite links from your work’s computer or at home. Back when that was cool.
+Today, reviewing my old accounts and changing passwords I bumped into it, and logged in just to see if it still works.</description>
+    </item>
+    
+  </channel>
+</rss>
