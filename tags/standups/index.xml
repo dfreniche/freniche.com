@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>standups on www.freniche.com</title>
+    <link>https://dfreniche.github.io/tags/standups/</link>
+    <description>Recent content in standups on www.freniche.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dfreniche.github.io/tags/standups/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My standup Shell Script</title>
+      <link>https://dfreniche.github.io/posts/2019-07-10-my-standup-shell-script/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-07-10-my-standup-shell-script/</guid>
+      <description>At Teamwork’s Mobile Team we hold a Standup meeting every day, at 11:00 AM Irish Time. That’s Noon for me, here in Spain. And more than a Standup is a “Status Update” to let other members of the Mobile sub-teams know roughly what I’m doing and if I have some errand to run, or won’t be available for several hours, etc. It&amp;rsquo;s also a good way to keep the connection with the rest of the team.</description>
+    </item>
+    
+  </channel>
+</rss>

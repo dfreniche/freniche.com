@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>terminal on www.freniche.com</title>
+    <link>https://dfreniche.github.io/tags/terminal/</link>
+    <description>Recent content in terminal on www.freniche.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 10 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dfreniche.github.io/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My standup Shell Script</title>
+      <link>https://dfreniche.github.io/posts/2019-07-10-my-standup-shell-script/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-07-10-my-standup-shell-script/</guid>
+      <description>At Teamwork’s Mobile Team we hold a Standup meeting every day, at 11:00 AM Irish Time. That’s Noon for me, here in Spain. And more than a Standup is a “Status Update” to let other members of the Mobile sub-teams know roughly what I’m doing and if I have some errand to run, or won’t be available for several hours, etc. It&amp;rsquo;s also a good way to keep the connection with the rest of the team.</description>
+    </item>
+    
+    <item>
+      <title>Reaching iCloud from the command line</title>
+      <link>https://dfreniche.github.io/posts/2019-07-09-reaching-icloud-from-the-command-line/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-07-09-reaching-icloud-from-the-command-line/</guid>
+      <description>Recently I’ve abandoned Dropbox and switched over iCloud. I’ll talk about the reasons in another post, but sounds crazy to me that right now iCloud is a better option than Dropbox in the Mac&amp;hellip;
+I have different things stored in my Cloud Storage. Some repos from unfinished projects, living proof of that moment’s abandoned hype, some personal documents, all my iPad Apps docs, shared configuration for Bash / Zsh and lots of small scripts.</description>
+    </item>
+    
+  </channel>
+</rss>

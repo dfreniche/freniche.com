@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>icloud on www.freniche.com</title>
+    <link>https://dfreniche.github.io/tags/icloud/</link>
+    <description>Recent content in icloud on www.freniche.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 09 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dfreniche.github.io/tags/icloud/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reaching iCloud from the command line</title>
+      <link>https://dfreniche.github.io/posts/2019-07-09-reaching-icloud-from-the-command-line/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-07-09-reaching-icloud-from-the-command-line/</guid>
+      <description>Recently I’ve abandoned Dropbox and switched over iCloud. I’ll talk about the reasons in another post, but sounds crazy to me that right now iCloud is a better option than Dropbox in the Mac&amp;hellip;
+I have different things stored in my Cloud Storage. Some repos from unfinished projects, living proof of that moment’s abandoned hype, some personal documents, all my iPad Apps docs, shared configuration for Bash / Zsh and lots of small scripts.</description>
+    </item>
+    
+  </channel>
+</rss>

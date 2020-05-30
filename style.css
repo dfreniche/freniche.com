@@ -1,0 +1,21 @@
+.fa {
+    padding: 0x;
+    font-size: 30px;
+    width: 25px;
+    text-align: center center;
+    text-decoration: none;
+    margin: 0px 1px;
+    color: lightgreen;
+  }
+  
+  .fa:hover {
+    opacity: 0.7;
+}
+
+  .social {
+    margin: 0px 40px;
+  }
+
+  .contents li {
+    margin: 25px 10px;
+  }

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on www.freniche.com</title>
+    <link>https://dfreniche.github.io/tags/writing/</link>
+    <description>Recent content in writing on www.freniche.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dfreniche.github.io/tags/writing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Writing again</title>
+      <link>https://dfreniche.github.io/posts/2019-06-28-writing-again/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-06-28-writing-again/</guid>
+      <description>This time in English!
+OK, I love to write. My old blog (in Spanish) is a testament to this. Lots of words were written there over many, many years. I also like to write fiction, but I’m so ashamed of everything I figure out that often I just compose things in my mind, where Facebook can’t read them (for now at least)
+Wanted to write again for a while now, but been agonizing (and procrastinating over) deciding the most stupid of things.</description>
+    </item>
+    
+  </channel>
+</rss>

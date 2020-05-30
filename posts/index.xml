@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on www.freniche.com</title>
+    <link>https://dfreniche.github.io/posts/</link>
+    <description>Recent content in Posts on www.freniche.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 15 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dfreniche.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>We don&#39;t need quotas in tech</title>
+      <link>https://dfreniche.github.io/posts/2019-15-10-i-also-had-bias/</link>
+      <pubDate>Tue, 15 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-15-10-i-also-had-bias/</guid>
+      <description>Many, many years ago I was in the &amp;ldquo;I don&amp;rsquo;t want women/PoC/minorities quotas in Tech. That&amp;rsquo;s not needed. After all, this is a meritocracy, so if you&amp;rsquo;re good at programming that&amp;rsquo;s all that counts&amp;rdquo;.
+Boy was I wrong&amp;hellip;
+It&amp;rsquo;s a meritocracy if you don&amp;rsquo;t feel attacked. If you feel safe. If you can be yourself. If you don&amp;rsquo;t have to waste that much time/energy pretending to be a different person. If you don&amp;rsquo;t hate going to the bathroom and finding someone else inside.</description>
+    </item>
+    
+    <item>
+      <title>Do you remember del.icio.us?</title>
+      <link>https://dfreniche.github.io/posts/2019-07-21-do-you-remember-delicious/</link>
+      <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-07-21-do-you-remember-delicious/</guid>
+      <description>Yep, this is old. Del.icio.us was a link-sharing / personal link storage system that existed wayyyy in the past. Before Chrome, Firefox, Safari or Edge had profiles and the ability to store your favorite pages and access them from different computers.
+Because that was the problem Delicious solved: accessing your favorite links from your work’s computer or at home. Back when that was cool.
+Today, reviewing my old accounts and changing passwords I bumped into it, and logged in just to see if it still works.</description>
+    </item>
+    
+    <item>
+      <title>My standup Shell Script</title>
+      <link>https://dfreniche.github.io/posts/2019-07-10-my-standup-shell-script/</link>
+      <pubDate>Wed, 10 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-07-10-my-standup-shell-script/</guid>
+      <description>At Teamwork’s Mobile Team we hold a Standup meeting every day, at 11:00 AM Irish Time. That’s Noon for me, here in Spain. And more than a Standup is a “Status Update” to let other members of the Mobile sub-teams know roughly what I’m doing and if I have some errand to run, or won’t be available for several hours, etc. It&amp;rsquo;s also a good way to keep the connection with the rest of the team.</description>
+    </item>
+    
+    <item>
+      <title>Reaching iCloud from the command line</title>
+      <link>https://dfreniche.github.io/posts/2019-07-09-reaching-icloud-from-the-command-line/</link>
+      <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-07-09-reaching-icloud-from-the-command-line/</guid>
+      <description>Recently I’ve abandoned Dropbox and switched over iCloud. I’ll talk about the reasons in another post, but sounds crazy to me that right now iCloud is a better option than Dropbox in the Mac&amp;hellip;
+I have different things stored in my Cloud Storage. Some repos from unfinished projects, living proof of that moment’s abandoned hype, some personal documents, all my iPad Apps docs, shared configuration for Bash / Zsh and lots of small scripts.</description>
+    </item>
+    
+    <item>
+      <title>Writing again</title>
+      <link>https://dfreniche.github.io/posts/2019-06-28-writing-again/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2019-06-28-writing-again/</guid>
+      <description>This time in English!
+OK, I love to write. My old blog (in Spanish) is a testament to this. Lots of words were written there over many, many years. I also like to write fiction, but I’m so ashamed of everything I figure out that often I just compose things in my mind, where Facebook can’t read them (for now at least)
+Wanted to write again for a while now, but been agonizing (and procrastinating over) deciding the most stupid of things.</description>
+    </item>
+    
+    <item>
+      <title>How To Recover A Deleted Git Stash</title>
+      <link>https://dfreniche.github.io/posts/2016-08-30-how-to-recover-a-deleted-git-stash/</link>
+      <pubDate>Tue, 30 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2016-08-30-how-to-recover-a-deleted-git-stash/</guid>
+      <description>This is a scary story, not like a horror movie, but frightening enough to give any developer the shivers. The story goes a little something like this…
+A customer directs your attention to a bug you know you’ve solved, tested and shipped. You fixed it one day ago so the bug can’t be there, the customer must be wrong?!
+After running the application, waiting to not see the bug, it’s there again!</description>
+    </item>
+    
+    <item>
+      <title>Not Good At Teamwork</title>
+      <link>https://dfreniche.github.io/posts/2016-08-10-not-good-at-teamwork/</link>
+      <pubDate>Wed, 10 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2016-08-10-not-good-at-teamwork/</guid>
+      <description>Are you good at teamwork? Yes, of course
+ Who would say something different at a job interview? This question, or something similar, almost always appears when you are talking with people you want to work with at a new company. It’s natural to ask, because almost every project is a team effort, with many people involved: designers, project managers, product owners, customers, users of the product, developers etc. They call it “stakeholders” meaning “people interested in building something together”.</description>
+    </item>
+    
+    <item>
+      <title>Maintain Your Sourcetree Bookmarks Throught Several Machines</title>
+      <link>https://dfreniche.github.io/posts/2016-02-29-maintain-your-sourcetree-bookmarks-throught-several-machines/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2016-02-29-maintain-your-sourcetree-bookmarks-throught-several-machines/</guid>
+      <description>If you use git, you probable have heard about SourceTree, the superb Atlassian git client, that solves 99% of your day-to-day git needs, connects to Github &amp;amp; Bitbucket repos and works on Mac and Windows. On top of that: it&amp;rsquo;s free, as in beer.
+Keep reading this post in the Mobile Jazz Blog</description>
+    </item>
+    
+  </channel>
+</rss>

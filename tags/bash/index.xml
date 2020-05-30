@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bash on www.freniche.com</title>
+    <link>https://dfreniche.github.io/tags/bash/</link>
+    <description>Recent content in bash on www.freniche.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright> </copyright>
+    <lastBuildDate>Mon, 29 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dfreniche.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maintain Your Sourcetree Bookmarks Throught Several Machines</title>
+      <link>https://dfreniche.github.io/posts/2016-02-29-maintain-your-sourcetree-bookmarks-throught-several-machines/</link>
+      <pubDate>Mon, 29 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://dfreniche.github.io/posts/2016-02-29-maintain-your-sourcetree-bookmarks-throught-several-machines/</guid>
+      <description>If you use git, you probable have heard about SourceTree, the superb Atlassian git client, that solves 99% of your day-to-day git needs, connects to Github &amp;amp; Bitbucket repos and works on Mac and Windows. On top of that: it&amp;rsquo;s free, as in beer.
+Keep reading this post in the Mobile Jazz Blog</description>
+    </item>
+    
+  </channel>
+</rss>
