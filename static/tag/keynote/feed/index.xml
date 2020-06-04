@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Keynote &#8211; freniche.com</title>
+	<atom:link href="/tag/keynote/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Un día en «Teacher&#8217;s Hell»</title>
+		<link>/2012/11/09/un-dia-en-teachers-hell/</link>
+		<comments>/2012/11/09/un-dia-en-teachers-hell/#comments</comments>
+		<pubDate>Fri, 09 Nov 2012 10:44:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[Infraestructura]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[presentaciones]]></category>
+
+		<guid isPermaLink="false">/?p=1794</guid>
+		<description><![CDATA[He impartido muchos cursos a lo largo de mi vida profesional. Muchos. Muchas horas de formación. Es algo que me gusta mucho y me llena. Puedo explotar mi faceta de abuelo cebolleta y contar todas las batallitas que me apetezcan a un público cautivo que no puede huir a ninguna otra parte. Y encima me [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="width: 362px" class="wp-caption aligncenter"><img title="Credit: http://www.flickr.com/photos/barkbud/4257136773/" src="http://farm5.staticflickr.com/4044/4257136773_5634a21fa2.jpg" alt="Credit: http://www.flickr.com/photos/barkbud/4257136773/" width="352" height="500" /><p class="wp-caption-text">Credit: http://www.flickr.com/photos/barkbud/4257136773/</p></div>
+<p style="text-align: justify;">He impartido muchos cursos a lo largo de mi vida profesional. Muchos. Muchas horas de formación. Es algo que me gusta mucho y me llena. Puedo explotar mi faceta de abuelo cebolleta y contar todas las batallitas que me apetezcan a un público cautivo que no puede huir a ninguna otra parte. Y encima me pagan por ello. Así qué todos contentos (menos los alumnos que tienen que aguantarme, claro)</p>
+<p style="text-align: justify;">Debido a esta experiencia acumulada, suelo preparar con mucho esmero cada curso. Reviso mi bolsa para comprobar que llevo el cargador del portátil, los cables de conexión al proyector, si llevo algún bolígrafo o libreta, el mando a distancia para pasearme mientras pongo alguna presentación en Keynote. Y voy preparado para todo. Bueno, para casi todo. Hace poco viví un completo<em> Teacher&#8217;s Hell</em>, una de las peores situaciones que he vivido. Hasta perder el avión de ida en el viaje a Panamá para el curso de Android que impartí en Julio me parece menos grave. Por la acumulación de problemas.</p>
+<p style="text-align: justify;">Llegué al aula con tiempo. Al menos, 40 minutos antes de empezar el curso. Empezamos a las 16:00 y acabamos a las 21:00, y son las 15:20. Así tengo tiempo de encender el equipo, probar el proyector, conectarme a la red, beber un café&#8230; Entro en el aula y todos los alumnos ya están allí, sentados. El proyector encendido. En tono de sorna digo «bueno, parece que hay ganas de empezar, ¿no?. ¡Eso es bueno, venís con ganas!». Mirada sería del responsable. «Diego, empezábamos a las 15:00».</p>
+<p style="text-align: justify;">De pronto, una sensación de caer en el vacío. El mundo se me viene encima. Una vez me presenté para un curso en la dirección equivocada y tuve que recorrer media Córdoba a la carrera. Pero llegar tarde, nunca, si puedo evitarlo. En mi calendario, apuntado el inicio a las 16:00. En la presentación del curso, igual. En mi mente, las 16:00. Reviso el correo, y efectivamente no aparece ninguna hora. Hablamos de «por la tarde». Probablemente asumí mal el horario, pero me extraña.</p>
+<p style="text-align: justify;">Me rehago. Saco el ordenador con una sonrisa nerviosa mientras me disculpo, lo enciendo y lo conecto al proyector. No se ve. Miro el cable de conexión al proyector: hay un bifurcador extraño, uno de esos cables en Y que permiten ver el proyector y la imagen en un monitor a la vez. Desconecto y conecto el proyector directamente al portátil. Se ve en la pantalla. Uf.</p>
+<p style="text-align: justify;">Tengo que dejarles los ejemplos a los alumnos, y además ellos deben conectarse a una B.D. MySQL que llevo en mi MacBook Pro. Es un curso de Hibernate. No MySQL == No curso. Pregunto por la WiFi. No hay WiFi. Bueno, sin problema, pienso: «me conecto con un cable Ethernet y listo». No, no tan rápido, la dirección de sistemas no te deja conectarte a la red, y además no vas a obtener IP con tu portátil. Bien. El entorno de desarrollo que traigo montado y la base de datos MySQL al infierno.</p>
+<p style="text-align: justify;">Bueno, aunque todo se tuerce, puedo montarlo todo durante el curso, mientras hablo de la teoría con mi keynote del Mac. El ordenador del profesor es un Dell con Windows XP. A fin de cuentas, me han dejado usuario y contraseña. Los introduzco y me sale el típico «<em>tu contraseña ha caducado, y como veo que no tienes mucha prisa ahora mismo voy a molestarte un poco más obligándote a cambiarla</em>«. Evito la tentación creciente de gritar y golpear algo. Me concentro e introduzco una contraseña segura, para evitar chorradas con el criterio de generación de contraseñas: «la contraseña es corta, debe tener mayúsculas, minúsculas y el Emoji de un <a href="http://es.wikipedia.org/wiki/Caganer">caganet</a>«. El ordenador me dice que no puedo cambiar la contraseña, que no tengo permisos para ello, pero que o la cambio o no puedo iniciar sesión. Llamo a soporte. Comento el problema, y lo solucionan de forma remota. Inicio sesión y se lanza un logon script de esos que tardan en una red corporativa medio año mientras un intérprete de comandos realiza tareas misteriosas. Tras lo que me parece una eternidad, llego al escritorio de XP.</p>
+<p style="text-align: justify;">Bueno, vamos a descargarlo todo: MySQL, etc. La velocidad de descarga se mide en Kbs, no en Mbs. Y son pocos. Estoy en el CiberDespacio. La descarga comienza a alargarse ante mis ojos, cansados y tristes. Los nervios aumentan. Se me acaba la teoría. No tengo BD. Tengo he pasar a los alumnos los ejemplos, esos que ya están en la carpeta pública de mi Mac, esa a la que no pueden acceder. Empiezo a pensar en preguntar por un cable serie <a href="http://es.wikipedia.org/wiki/Null-módem">Null-Módem</a> para pasar las cosas, pero me muerdo la lengua. No hay red, y me acuerdo de la cita de Tanenbaum: «Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway». Tiro de USB.</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-1796" title="Disco Kaput" src="/wp-content/uploads/2012/11/disco-kaput.png" alt="Disco Kaput" width="534" height="306" srcset="/wp-content/uploads/2012/11/disco-kaput.png 534w, /wp-content/uploads/2012/11/disco-kaput-300x171.png 300w" sizes="(max-width: 534px) 100vw, 534px" /></p>
+<p style="text-align: justify;">Vamos con el pendrive. Saco mi flamante pendrive de 4GB. «Lo copio todo aquí, se lo paso a un alumno, lo pone en la red y listo». Parece que hay un servidor de ficheros, así que probablemente lo use. Introduzco el pendrive en el Mac. Aparece un error en pantalla. Algo de que copie los datos, que está mal el pendrive. No me lo creo. Parece que lo voy a tener que formatear. Ya formalmente cabreado, abro la Utilidad de Discos. Voy a darle formato FAT, que luego hay que usarlo en un XP y no quiero más problemas a estas alturas. No puedo. Me dice que el sector cero está defectuoso y que tire el pendrive. A estas alturas, empiezo a mirar alrededor buscando la cámara oculta. He llegado a la hora que no era, estoy sin WiFi, sin posibilidad de conectarme a la red, sin pendrive&#8230; Pregunto a los alumnos. Ninguno tiene uno encima. Quiero morir.</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/11/utilidad-discos.png"><img class="aligncenter size-medium wp-image-1797" title="Utilidad de discos no puede formatear el disco" src="/wp-content/uploads/2012/11/utilidad-discos-300x229.png" alt="Utilidad de discos no puede formatear el disco" width="300" height="229" srcset="/wp-content/uploads/2012/11/utilidad-discos-300x229.png 300w, /wp-content/uploads/2012/11/utilidad-discos-1024x784.png 1024w, /wp-content/uploads/2012/11/utilidad-discos.png 1179w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p style="text-align: justify;">Hablo con el responsable del curso, que amablemente me ofrece uno. Lo uso para copiarlo todo en el pendrive y se lo paso a los alumnos. Mientras copian, mi mente procesa a toda velocidad. Vale, tienen los ejemplos, pueden ver la teoría en pantalla, pero me falta la B.D. Puedo instalarla en el ordenador del profesor, pero creo que lleva 20 Kb descargados o algo así. ¡Al menos podría <a href="http://www.youtube.com/watch?v=gsNaR6FRuO0">pitar como pitaban los módems antiguos</a>!.</p>
+<p style="text-align: justify;">De pronto, me viene la inspiración. Desde informática me han dicho que no puedo conectarme y que no obtendría una IP en mi equipo. Eso es lo que me han dicho. Pero no lo he comprobado. Busco el cable Ethernet conectado al ordenador del profesor y lo conecto a mi MacBook Pro. ¡<em>Voilà</em>!. Tengo acceso a la red local y a Internet. Todo cambia, al fin, para bien. Continuamos con el curso y se acaban los incidentes.</p>
+<p style="text-align: justify;">Cosas que he aprendido de esta experiencia:</p>
+<ul>
+<li>por bien que creas que llevas preparadas las cosas, piensa mal, hasta que te parezca que es de manera absurda. Todo puede torcerse, todo. Y varias veces.</li>
+<li>las presentaciones las debo llevar en dos pendrives. Si muere uno, tengo el otro.</li>
+<li>las presentaciones debería copiarlas en formato PDF. Si se muere mi MBP siempre puedo usar cualquier otro ordenador que muestre un PDF.</li>
+<li>siempre copiarlo todo en Dropbox. Aunque recientemente, en otro curso, me falló Dropbox al ir a bajar una presentación <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>antes de impartir una charla o un curso en un sitio nuevo, confirmar el equipamiento de que dispongo. Me ahorro sustos luego.</li>
+<li>confirmar las horas y fechas (algo que siempre hago, pero en este caso se ve que no&#8230;)</li>
+<li>no cabrearse es mejor. Solucionas los problemas y te sientes bien por duplicado: porque has solventado el marrón y porque te has controlado a ti mismo.</li>
+</ul>
+<p>Por cierto, recuperamos todo el tiempo perdido, de forma que los alumnos no perdieron nada. Eso nunca: lo primero son mis alumnos.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/09/un-dia-en-teachers-hell/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Vídeo de mi intervención en eTic</title>
+		<link>/2010/10/08/video-de-mi-intervencion-en-etic/</link>
+		<comments>/2010/10/08/video-de-mi-intervencion-en-etic/#comments</comments>
+		<pubDate>Fri, 08 Oct 2010 15:58:33 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[presentaciones]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[Vimeo]]></category>
+
+		<guid isPermaLink="false">/?p=1147</guid>
+		<description><![CDATA[Pues aquí está el vídeo de mi intervención en el encuentro eTic 2010: Mobile Development y que se titula: «Crea ¡ya! tu equipo de trabajo para Apple iOS» En la intervención hablo de todo lo necesario para crear o reconvertir un equipo de programadores y que escriban apps para iOS. Está grabado con mi cámara [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pues aquí está el vídeo de mi intervención en el encuentro eTic 2010: Mobile Development y que se titula: «Crea ¡ya! tu equipo de trabajo para Apple iOS»</p>
+<p style="text-align: justify;">En la intervención hablo de todo lo necesario para crear o reconvertir un equipo de programadores y que escriban apps para iOS. Está grabado con mi cámara y la calidad no es profesional (gracias, Walter!), pero al menos así está a la altura del contenido <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://vimeo.com/15657007">Crea ¡ya! tu equipo de desarrollo en iOS</a> from <a href="http://vimeo.com/user1606809">Diego Freniche</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+<p><iframe src="//player.vimeo.com/video/15657007" width="640" height="360" frameborder="0" title="Crea &iexcl;ya! tu equipo de desarrollo en iOS" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>La <a href="https://docs.google.com/present/edit?id=0AYEGfwZYXjY3YWpmNGJuZHRidnNiXzRmY3Q4a2dkMg&amp;hl=en">presentación</a> que utilicé está en Google Docs</p>
+<p>La cobertura de los medios del evento:</p>
+<ul>
+<li>En <a href="http://www.20minutos.es/noticia/836984/0/">20 minutos</a></li>
+<li>En <a href="http://www.cibersur.com/portada/andalucia/006147/etic/mobile/develoment">Cibersur</a></li>
+</ul>
+<p>En el vídeo podéis verme con la <a href="/2010/08/30/pequenos-detalles/">camiseta que me preparé de Fanboy</a> gracias a los <a href="http://www.macniacos.com/">Macniacos</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/08/video-de-mi-intervencion-en-etic/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Controlar una presentación de KeyNote con tu iPhone</title>
+		<link>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/</link>
+		<comments>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/#comments</comments>
+		<pubDate>Fri, 21 May 2010 13:48:31 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[presentaciones]]></category>
+
+		<guid isPermaLink="false">/?p=514</guid>
+		<description><![CDATA[Controlar una presentación de KeyNote con tu iPhone Estoy asistiendo a un curso de Presentaciones Eficaces que me está gustando bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas miles de horas de formación, no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno cree que hace bien. O mejor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Controlar una presentación de KeyNote con tu iPhone</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Estoy asistiendo a un curso de Presentaciones Eficaces que me está gustando bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas miles de horas de formación, no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno cree que hace bien. O mejor debería decir que es imprescindible revisar precisamente lo que se piensa que es una fortaleza. Ya conocéis el dicho: «dime de qué presumes&#8230;».</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">El caso es que a mi me gusta aprender. Tanto cosas técnicas como habilidades personales. Suelo estar dispuesto a escuchar a aquel que pienso  que merece la pena escucharle. El problema suele ser convencerme. A medida que se cumplen años se tiende a pensar que «ésto ya lo he visto», etc. Y con el curso el profesor lo ha conseguido. Valentín nos ha enganchado con su hablar suave, su dominio del escenario, el contenido adecuado del curso. Vamos, con su saber hacer. Y nos ha puesto deberes.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Concretamente debemos presentar frente a la clase un proyecto para convencer a un jurado de que nos escoja. Apoyados por una presentación multimedia. Y es aquí donde me ha surgido la necesidad. Hasta ahora he utilizado para las presentaciones PowerPoint e Impress (de la suite OpenOffice.org). PP me parece demasiado complicado de usar en ocasiones, aunque con buenos resultados. E Impress da buenos resultados para una guardería, pero se aleja del toque pulido y postindustrial de las Keynotes de Apple. Así que la opción que me quedaba era Keynote, de Apple. Lo estoy usando desde hace poco, pero creo que han dado en el clavo. De manera sencilla tienes acceso a las principales funciones y los diseños predeterminados, así como las transiciones y animaciones de las diapositivas tienen «ese toque» Apple. Vamos, que voy a usarlo para esta presentación.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Hablamos de una presentación. Luego necesitamos más cosas. Una son las diapositivas / slides que aparezcan como apoyo a mi discurso. Esto ya lo tenemos. Otra es el discurso en sí y mi actuación frente al público. De eso me encargo yo. Me queda un detalle: el iPhone. Quiero decir, el control remoto de la presentación multimedia. Cuando hablas frente a un auditorio puedes quedarte clavado en un sitio, tras un atril, parapetado en una mesa, o bien usar el entorno y dominar el escenario de forma que apoye a tu discurso. A mi lo que me gusta es esto último. En mis cursos rompo muchas veces la distancia con mis alumnos, paseando por el aula, sentándome en la mesa, en una silla al lado de alguno, etc. Y para hacer todas estas cosas con estilo se precisa de un cacharro que permita ir pasando las diapositivas a medida que uno habla.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">El truco en sí</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Para controlar la presentación necesitamos:</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un Mac donde pondremos la presentación de KeyNote. En mi caso es mi querido MacBook Pro.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un proyector (lo pone el profesor)</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un iPhone para controlar KeyNote de forma remota</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">una aplicación para el iPhone, concretamente Mocha VNC Lite, que encima es gratis</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Los pasos a dar son:</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">1. crea tu presentación con KeyNote y tenla a mano. Sí, esto puede parecerte una chorrada, pero eres tú el que ha pedido un paso a paso.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">2. activa el acceso remoto al escrito de tu Mac, AKA VNC, mediante Preferencias del Sistema -&gt; Compartir -&gt; Compartir escritorio</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Una vez tengamos instalada la aplicación en el iPhone, bajada desde el AppStore, necesitaremos controlar la pantalla del Mac desde el iPhone. Para eso, Mocha VNC Lite nos permite introducir la dirección IP de nuestro Mac y ¡listo!. Pero claro, estamos suponiendo que hay un punto de acceso WiFi al que nos hemos podido conectar, tanto con nuestro Mac como con el iPhone, y que ambos están en la misma subred (sus direcciones IP son similares, por ejemplo son 192.168.1.10 la del Mac y 192.168.1.15 la del iPhone).</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">pondremos a ejecutarse la presentación en el ordenador. Se quedarátendremos que conseguir que veamos en la pantalla del</div>
+<p style="text-align: justify;">He asistido a un curso de Presentaciones Eficaces que me ha gustado bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas <em>miles</em> de horas de formación, que no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno se cree que hace bien. O mejor debería decir que es imprescindible revisar precisamente lo que se piensa que es una fortaleza. Ya conocéis el dicho: «dime de qué presumes&#8230;».</p>
+<p style="text-align: justify;">El caso es que a mi me gusta aprender. Tanto cosas técnicas como habilidades personales. Suelo estar dispuesto a escuchar a aquel que pienso  que merece la pena escucharle. El problema suele ser convencerme. A medida que se cumplen años se tiende a pensar que «ésto ya lo he visto», etc. Y con el curso el profesor lo ha conseguido. <a href="http://www.twitter.com/comunicatin">Valentín</a> nos ha enganchado con su hablar suave, su dominio del escenario, el contenido adecuado del curso. Vamos, con su saber hacer. Y nos ha puesto deberes.</p>
+<p style="text-align: justify;">Concretamente debemos presentar frente a la clase un proyecto para convencer a un jurado de que nos escoja. Apoyados por una presentación multimedia. Y es aquí donde me ha surgido la necesidad. Hasta ahora he utilizado para las presentaciones PowerPoint e Impress (de la suite OpenOffice.org). PowerPoint me parece demasiado complicado de usar (en ocasiones), aunque con buenos resultados. No le he dedicado el tiempo necesario, creo. E Impress da buenos resultados para una guardería, pero se aleja del toque pulido y postindustrial de las Keynotes de Apple. Así que la opción que me quedaba era Keynote, de Apple. Lo estoy usando desde hace poco, pero creo que han dado en el clavo. De manera sencilla tienes acceso a las principales funciones y los diseños predeterminados, así como las transiciones y animaciones de las diapositivas tienen «ese toque» Apple. Vamos, que voy a usarlo para esta presentación.</p>
+<p style="text-align: justify;">Hablamos de una presentación. Luego necesitamos más cosas:</p>
+<ul>
+<li>Una son las diapositivas / slides que aparezcan como apoyo a mi discurso. Esto ya lo tenemos. No confundamos nunca una presentación con un PowerPoint. Si no, llegamos rápidamente a la muerte por PowerPoint.</li>
+<li>Otra es el discurso en sí y mi actuación frente al público. De eso me encargo yo.</li>
+<li>Me queda un detalle: el iPhone. Quiero decir, el control remoto de la presentación multimedia.</li>
+</ul>
+<p style="text-align: justify;">Cuando hablas frente a un auditorio puedes quedarte clavado en un sitio, tras un atril, parapetado en una mesa, o bien usar el entorno y dominar el escenario de forma que apoye a tu discurso. A mi lo que me gusta es esto último. En mis cursos rompo muchas veces la distancia con mis alumnos, paseando por el aula, sentándome en la mesa, en una silla al lado de alguno, etc. Y para hacer todas estas cosas con estilo se precisa de un cacharro que permita ir pasando las diapositivas a medida que uno habla.</p>
+<h1>El truco en sí: controlar la presentación con el iPhone</h1>
+<p>Para controlar la presentación necesitamos:</p>
+<ul>
+<li>un Mac donde pondremos la presentación de KeyNote. En mi caso es mi querido MacBook Pro. Si no tienes un Mac, puedes hacer lo mismo con OO.org y Windows, o con Office y Windows. Es una pena, pero esta vez no hay truco para Linux <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>un proyector (lo pone el profesor)</li>
+<li>un iPhone para controlar KeyNote de forma remota</li>
+<li>una aplicación para el iPhone, concretamente <a href="itms://itunes.apple.com/us/app/touch-mouse/id338237450?mt=8">Logitech Air Mouse</a> que encima es gratis</li>
+<li>la parte servidora de la App de iPhone, el <a href="http://www.logitech.com/touchmouse">Logitech Touch Mouse Server</a></li>
+</ul>
+<p>Los pasos a dar son:</p>
+<ol>
+<li>crea tu presentación con KeyNote y tenla a mano. Sí, esto puede parecerte una chorrada, pero eres tú el que ha pedido un <em>paso a paso</em>. Pon un enlace en el escritorio.</li>
+<li>instala la aplicación Logitech Air Mouse en el iPhone.</li>
+<li>descarga el Logitech Touch Mouse Server para Mac. Es una imagen de disco (fichero DMG). No hace falta ni instalarla: haces doble click, se abre, arrancas el programa servidor y a esperar conexión del iPhone.</li>
+<li>necesitamos conectar con el Mac desde el iPhone. Para ello, hay que activar la WiFi en el iPhone (y en el Mac, claro)</li>
+<li>arrancamos la App en el iPhone. Una vez que nos aparece el Mac en la lista de servidores nos conectamos. Ya podemos mover el ratón por la pantalla del Mac tocando la pantalla del iPhone. Y hacer click. Y encima, como el iPhone es multitouch, tenemos los gestos de los Trackpads Mac en el iPhone.</li>
+<li>Arrancamos la presentación y listo: click izquierdo avanza y click derecho retrocede. ¡Misión cumplida!</li>
+</ol>
+<p>Y por si no ha quedado suficientemente claro, aquí os pongo un <a href="http://www.youtube.com/watch?v=Wh2rq2UvijI">vídeo que muestra cómo manejar el portátil con el Logitech Air Mouse</a>.  La noticia original la vi en el <a href="http://blog.logitech.com/2010/01/29/new-logitech-touch-mouse-turns-your-iphone-or-ipod-touch-into-a-wireless-trackpad-and-keyboard/">Blog oficial de Logitech</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+	</channel>
+</rss>

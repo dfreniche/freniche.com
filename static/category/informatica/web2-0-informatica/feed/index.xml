@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web2.0 &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/web2-0-informatica/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Crear un sitio web WordPress con una máquina virtual local</title>
+		<link>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/</link>
+		<comments>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/#comments</comments>
+		<pubDate>Wed, 13 Apr 2011 09:16:04 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Web2.0]]></category>
+		<category><![CDATA[LAMP]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/?p=1466</guid>
+		<description><![CDATA[En el último post comenté que estaba usando una máquina virtual de Bitnami para hacer sitios web con WordPress y me pidió Fernando que explicara cómo subir el resultado de ese sitio web a un servidor que tengamos contratado en hosting. Ya que lo estoy haciendo esta semana, voy a anotarlo (para que no se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">En el <a href="/2011/04/05/una-manana-de-trabajo-cualquiera/">último post </a>comenté que estaba usando una máquina virtual de Bitnami para hacer sitios web con WordPress y me pidió <a href="/2011/04/05/una-manana-de-trabajo-cualquiera/comment-page-1/#comment-13164">Fernando</a> que explicara cómo subir el resultado de ese sitio web a un servidor que tengamos contratado en hosting. Ya que lo estoy haciendo esta semana, voy a anotarlo (para que no se me olvide), pero me gustaría empezar por el principio. Y ya advierto: este post está lleno de frikismo, comando UNIX de terminal y cosas ininteligibles. Luego no te quejes.</p>
+<h1>¿Por qué una máquina virtual? ¿Y qué es Bitnami?</h1>
+<p style="text-align: justify;">Una máquina virtual es un programa que me permite ejecutar un S.O. completo dentro de otro. Por ejemplo, puedo arrancar Linux dentro de Windows 7, o Windows XP dentro de Mac OS X. Las máquinas virtuales tienen múltiples usos, pero a mi me encantan para no llenar de programas mi S.O. base. Así no se ralentiza, ni tengo el disco duro lleno de programas de «usar y tirar».</p>
+<p style="text-align: justify;">En el caso de crear un sitio web con WordPress es aún peor. Sin la máquina virtual necesitas:</p>
+<ul>
+<li>un servidor web, como Apache, que soporte PHP</li>
+<li>un servidor de BB.DD., como MySQL</li>
+<li>configurarlo todo</li>
+<li>instalar WordPress</li>
+<li>y luego, claro, crear tu sitio con WP, es decir, instalar plugins, ponerlo en Español, crear contenido, probar diferentes temas, etc.</li>
+</ul>
+<p style="text-align: justify;">Todo esto se podría hacer directamente en nuestro servidor (ese que tenemos contratado en hosting), pero los inconvenientes son varios:</p>
+<p style="text-align: justify;">el sitio está visible mientras lo preparamos (a no ser que lo protejamos, por ej. mediante autenticación HTTP, pero eso exige <em>aún</em> más trabajo)</p>
+<p style="text-align: justify;">si la conexión que tenemos a Internet es <em>mejorable</em>, vamos a tardar bastante</p>
+<p style="text-align: justify;">Por eso, lo ideal es disponer de una máquina virtual, por ejemplo con Linux ya instalado y que lo traiga todo (Linux, Apache, MySQL, PHP y WordPress). Esto es lo que se llama un servidor LAMP + WordPress. Buscando en el <a href="http://www.vmware.com/appliances/">catálogo de máquinas virtuales gratuítas que tiene VMWare</a> me encontré con la <a href="http://bitnami.org/stack/wordpress">Appliance de Bitnami</a>. Es una máquina virtual VMWare con todo lo anterior ya instalado y configurado, gracias a la empresa Bitnami. Para instalarla, la descargamos y descomprimidos, y listo: ya podemos abrirla con VMWare. En mi caso, me he bajado la versión basada en Ubuntu, porque dominio mejor los Linux Debian-based que otros.</p>
+<h1>Manejando la máquina virtual de Bitnami</h1>
+<p style="text-align: justify;">La máquina cuando arranca nos muestra una pantalla poco espectacular. Termina con un mensaje que nos indica cómo nos podemos conectar al WordPress que tiene dentro, y poco más.</p>
+<p style="text-align: justify;">
+<div id="attachment_1469" style="width: 589px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/04/bitnami.png"><img class="size-full wp-image-1469" title="MV Bitnami" src="/wp-content/uploads/2011/04/bitnami.png" alt="MV Bitnami" width="579" height="438" srcset="/wp-content/uploads/2011/04/bitnami.png 579w, /wp-content/uploads/2011/04/bitnami-300x226.png 300w" sizes="(max-width: 579px) 100vw, 579px" /></a><p class="wp-caption-text">MV Bitnami</p></div>
+<p style="text-align: justify;">En mi caso me indica que conectándome a la IP http://10.0.1.25/ me aparecerá la interfaz web de la máquina virtual. Esa interfaz es una página web con información y el acceso al WP que está instalado dentro. Inicialmente el usuario es «user» y el password «bitnami». Al entrar, llegamos a un WP vacío, que podemos proceder a adaptar. En mi caso, lo que he estado haciendo ha sido:</p>
+<ul>
+<li>traducirlo al Español. Abajo lo cuento con detalle.</li>
+<li>instalar un tema de pago que queda bonito y que tenía por ahí abandonado. Me lo compré en el bundle de diseño <a href="http://bundlehunt.com/">Bundlehunt</a>.</li>
+<li>instalar unos cuantos plugins, para tener un formulario de contacto, mapas de Google, etc.</li>
+<li>crear las páginas necesarias y copiar el contenido (texto y fotos) del sitio web antiguo</li>
+</ul>
+<p style="text-align: justify;">Probablemente lo más «complicado» sea traducir WP a español. Pero es muy sencillo. Sólo hay que ir a la página que tiene la traducción de WordPress y bajarse el ZIP.  Lo descomprimimos y veremos que un WP completo, sólo que ya traducido. Como a mí me gustan las cosas complicadas, prefiero pasar sólo los ficheros de localización al Español y decirle a WP que está en Español <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Para eso, debemos iniciar sesión en la máquina virtual, e ir a la carpeta: /opt/bitnami/apps/wordpress/htdocs/wp-content/ con un:</p>
+<pre>$ cd  /opt/bitnami/apps/wordpress/htdocs/wp-content/</pre>
+<p>Bitnami guarda en /opt/bitnami/apps las aplicaciones web que lleva el appliance, concretamente PhpMyAdmin y WP.</p>
+<p>Ahora, vamos a copiar los ficheros que antes descomprimimos. Los vamos a copiar por scp (suponiendo que te conectes a una máquina *NIX), con algo como:</p>
+<pre>$ scp usuario@la-ip-de-tu-maquina-real:/Users/tu-usuario/Desktop/wordpress/wp-content/languages/* .</pre>
+<p style="text-align: justify;">Lo que hace la «frase mágica» anterior es conectarse a tu ordenador real (debes indicar la IP), con tu usuario (con el que has iniciado sesión). Te pedirá tu clave. Lo que hace es copiar los ficheros de la ruta que le hemos indicado, en la carpeta de la máquina virtual en la que estábamos.</p>
+<p style="text-align: justify;">Bueno, WP tiene los ficheros en su sitio, pero no los va a usar hasta que no se lo digamos. Para ello, hay que modificar el fichero wp-config.php  (en nuestro caso, está en /opt/bitnami/apps/wordpress/htdocs, por lo que bastará con hacer un cd ..). Yo lo he modificado con vi, que para eso estoy en modo <em>geek</em> :-). Hay que buscar la línea que pone:</p>
+<p style="text-align: justify;">
+<pre>define ('WPLANG', 'xxxx');</pre>
+<div>y dejarla así:</div>
+<pre>define ('WPLANG', 'es_ES');</pre>
+<p>Una vez que hemos acabado, grabamos y listo. Yo reinicié la máquina virtual completa (con reboot) para comprobar que todo estaba OK.</p>
+<h1>Subiendo todo esto a mi servidor en hosting</h1>
+<p>Ahora que todo funciona como queremos y hemos terminado en local ¿cómo subimos todo esto a mi servidor web?. Supongo que tienes un dominio, pongamos www.misuperwebquemevaahacerrico.com y su alojamiento asociado. Hay que tener claro lo que hay que subir:</p>
+<ul>
+<li>por un lado, el sitio web de WordPress. Nada más en el apartado web. Es decir, ni la configuración de Apache, ni otras cosas. En el caso de bitnami, sería la carpeta /opt/bitnami/apps/wordpress de la máquina virtual</li>
+<li>por otro, la base de datos asociada a esta web. Esa BD está en el MySQL que tiene la máquina virtual de bitnami.</li>
+</ul>
+<h2>Subiendo el wordpress</h2>
+<p>Lo primero que vamos a hacer va a ser comprimir la carpeta. En la máquina virtual tecleamos:</p>
+<pre>$ cd /opt/bitnami/apps</pre>
+<p>una vez en la carpeta apps, nos convertimos en root (ya que si no no podremos leer algunas de las carpetas del WP), con:</p>
+<pre>$ sudo su</pre>
+<p>comprimimos con el proverbial tar:</p>
+<pre>tar cvfz wp.tgz wordpress</pre>
+<p>esto va a comprimir la carpeta wordpress completa en un fichero llamado wp.tgz. Ahora hay que subir ese fichero a nuestro proveedor de alojamiento. Para eso, primero lo voy a copiar a la máquina física, usando de nuevo scp:</p>
+<pre>$ scp wp.tgz usuario@la-ip-de-tu-maquina-real:/Users/tu-usuario/Desktop/</pre>
+<p>Eso debería dejar el fichero wp.tgz en tu escritorio. Espero <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Ahora sólo te queda subirlo, usando el interfaz que te de tu proveedor de alojamiento. En mi caso, esto va a <a href="http://www.redcoruna.com/">RedCoruna</a> y tienen, como todo el mundo, CPanel, que viene con un explorador de ficheros integrado en el navegador que permite subir cosas. Cuando lo tengas en la carpeta que te interesa, descomprímelo. Podrás acceder mediante: http://www.tudominioesequetevaahacerrico.com/wordpress. Y te va a fallar. Recuerda: no hay base de datos aún.</p>
+<h2>Subiendo la BD</h2>
+<p style="text-align: justify;">Para subir la BD, primero vamos a exportarla. Para ello, necesitamos activar una aplicación que viene en la máquina virtual, pero que por razones de seguridad está desabilitada. Es PhpMyAdmin, una aplicación web para administrar el servidor de BB.DD. MySQL. Para activarlo, vamos a /opt/bitnami/apps/phpmyadmin/conf/ y editamos phpmyadmin.conf</p>
+<pre>$ cd /opt/bitnami/apps/phpmyadmin/conf/</pre>
+<pre>$ vi phpmyadmin.conf</pre>
+<p>y cambiamos la línea que pone</p>
+<pre>Allow from 127.0.0.1</pre>
+<p>por</p>
+<pre>Allow from all</pre>
+<div id="attachment_1481" style="width: 770px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/04/allow-from-all.png"><img class="size-full wp-image-1481" title="Configurando phpMyAdmin" src="/wp-content/uploads/2011/04/allow-from-all.png" alt="Configurando phpMyAdmin" width="760" height="539" srcset="/wp-content/uploads/2011/04/allow-from-all.png 760w, /wp-content/uploads/2011/04/allow-from-all-300x212.png 300w" sizes="(max-width: 760px) 100vw, 760px" /></a><p class="wp-caption-text">Configurando phpMyAdmin</p></div>
+<p>Debemos reiniciar el servidor Apache para que este cambio entre en funcionamiento. En el caso de la máquina virtual de bitnami lo hacemos con:</p>
+<pre>$ /opt/bitnami/ctlscript.sh restart apache</pre>
+<p>Ahora, apuntando un navegador a http://10.0.1.25/phpmyadmin nos aparecerá una pantalla de login. Usuario: administrator, clave: bitnami y al fin se abre el PhpMyAdmin</p>
+<p>Dentro de PhpMyAdmin veremos la lista de BB.DD. a la izquierda:</p>
+<div id="attachment_1483" style="width: 188px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/04/bbdds.png"><img class="size-full wp-image-1483" title="Lista de BB.DD." src="/wp-content/uploads/2011/04/bbdds.png" alt="Lista de BB.DD." width="178" height="72" /></a><p class="wp-caption-text">Lista de BB.DD.</p></div>
+<p style="text-align: justify;">Escogemos la nuestra (bitnami_wordpress) y nos vamos a la solapa «Exportar». Tal como viene debe funcionar. Marcamos la opción «Enviar (genera un archivo descargable)» y se nos descargará, al pulsar Continuar, un fichero con extensión .sql en nuestra máquina. ¡Esa es nuestra BD!</p>
+<p style="text-align: justify;">Ojo: en ese fichero (que es la BD de WordPress) las URLs están metidas «a pelo». Es decir, está lleno de 10.1.0.25 por todos lados. Y no queremos eso. En mi caso, he usado TextEdit de Mac para buscar y sustituir todas las ocurrencias de 10.0.1.25 por www.viajescarrasco.com, que es el dominio que estaba usando. Es un poco lamentable que WP meta en su BD referencias al dominio «hardcoded» en lugar de usar una variable, pero es lo que hay.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Ahora sólo nos queda subirla a nuestro dominio (probablemente usando el PhpMyAdmin de nuestro CPanel). Pista importante: ahora hay que buscar la pestaña «importar» de PhpMyAdmin e indicarle el fichero .sql anterior :-). Casi seguro que tendremos que crear la BD, un usuario para la misma y darle permisos a ese usuario para esa BD. Todo se hace en CPanel.</p>
+<h2>Configurar el sitio web</h2>
+<p>Pero aún no funciona nada. ¿Por qué?. Porque hemos subido un sitio web WordPress que piensa que está instalado en http://10.0.1.25,/ en lugar de en http://www.midominioetcetc.com./ Hay que configurar eso. Para ello, buscamos el fichero wp-config.php (sí, el mismo que tocamos para el idioma) y cambiar el nombre de la BD, usuario y password. Nos debe quedar algo como:</p>
+<pre>define('DB_NAME', 'minombrededb');
+
+/** MySQL database username */
+define('DB_USER', 'usuarioquehecreado');
+
+/** MySQL database password */
+define('DB_PASSWORD', 'laclave');
+
+/** MySQL hostname */
+define('DB_HOST', 'localhost:3306');</pre>
+<p>Además, debemos cambiar el fichero .htaccess que viene con bitnami y dejarlo así:</p>
+<pre># BEGIN WordPress</pre>
+<pre>&lt;IfModule mod_rewrite.c&gt;</pre>
+<pre>RewriteEngine On</pre>
+<pre>RewriteBase /</pre>
+<pre>RewriteRule ^index\.php$ - [L]</pre>
+<pre>RewriteCond %{REQUEST_FILENAME} !-f</pre>
+<pre>RewriteCond %{REQUEST_FILENAME} !-d</pre>
+<pre>RewriteRule . /index.php [L]</pre>
+<pre>&lt;/IfModule&gt;</pre>
+<pre># END WordPress</pre>
+<div style="text-align: justify;">Este fichero hace la «magia negra» de la reescritura de URLs, de forma que funcionen los nombres de página en WP, por ej., cuando escribimos blog.freniche.com/formacion y nos lleva a la página correcta. No existe una carpeta llamada formación: se «traduce» al vuelo de forma que el WP lo interprete correctamente.</div>
+<h2>Conclusión</h2>
+<div style="text-align: justify;">Como puedes ver, el proceso de traslado del sitio web es un poco laborioso. Lo bueno que es esto te serviría para mover tu WordPress entre diferentes proveedores de alojamiento. Y lo mejor de todo es que con la máquina virtual puedes hacer todas las pruebas que quieras, sin riesgos.</div>
+<div style="text-align: justify;">EOF.</div>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Cómo uso las redes sociales</title>
+		<link>/2010/03/08/como-uso-las-redes-sociales/</link>
+		<comments>/2010/03/08/como-uso-las-redes-sociales/#comments</comments>
+		<pubDate>Mon, 08 Mar 2010 15:40:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Web2.0]]></category>
+		<category><![CDATA[del.icio.us]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Flickr]]></category>
+		<category><![CDATA[Redes Sociales]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[web2.0]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=872</guid>
+		<description><![CDATA[Las redes sociales están de moda. Es lo más in dentro del boom 2.0. Personalmente, me parece una chorrada esta manera de hablar. Las redes sociales son servicios útiles, que en muchos casos he comenzado ignorando (incluso despreciando) pero que al final se han revelado como bastante útiles. Eso sí, si las utilizas para ayudarte [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/nationallibrarynz_commons/3326203787/"><img class="aligncenter size-full wp-image-873" title="Pulsa para ir a esta foto en Flickr" src="/wp-content/uploads/2010/03/people.jpg" alt="" width="500" height="350" srcset="/wp-content/uploads/2010/03/people.jpg 500w, /wp-content/uploads/2010/03/people-300x210.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p style="text-align: justify;">Las redes sociales están de moda. Es lo más <em>in</em> dentro del <em>boom 2.0</em>. Personalmente, me parece una chorrada esta manera de hablar. Las redes sociales son servicios útiles, que en muchos casos he comenzado ignorando (incluso despreciando) pero que al final se han revelado como bastante útiles. Eso sí, si las utilizas para ayudarte y de forma controlada, porque si no pueden convertirse en fuente de estrés, trabajo e interrupciones.</p>
+<p style="text-align: justify;">Llevo bastante tiempo asistiendo a la aparición de estas redes. En <a href="/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/">este post de 2006</a>, comentaba:</p>
+<blockquote>
+<p style="text-align: justify;">En fin, otro juguete que hará las delicias de los que usen habitualmente Flickr, Blogger, YouTube y Del.icio.us. Por cierto, uniendo todos estos “juguetes” se puede hacer una estupenda web… aunque eso es tema para otro post.</p>
+</blockquote>
+<p style="text-align: justify;">Bueno, pues ha llegado la hora de ese <em>otro post</em>&#8230; cuatro años después.</p>
+<p style="text-align: justify;"><span id="more-872"></span></p>
+<p style="text-align: justify;">Es innegable la influencia que todo lo social está teniendo en la web. Ahora mismo, uno no sabe si está en una red social que permite subir contenido (fotos, vídeos, enlaces) como Facebook o en una aplicación web que poco a poco se va socializando (como GMail con Google Buzz integrado). Inicialmente, Youtube era un servicio para compartir vídeos. Pero poco a poco, se ha convertido en una red social más: se pueden puntuar vídeos (y compartir estas acciones en muchas otras redes sociales), seguir a <em>Tubers</em>, mandarles mensajes, etc.</p>
+<p>No soy ningún Gurú de esto, ni pretendo sentar cátedra. Sólo quiero contarte:</p>
+<ul>
+<li>cuáles uso (y cuales no). Hay tantas que a mí me surgieron dudas sobre cual escoger, en cuántas estar, etc.</li>
+<li>cómo las uso yo. Se pueden usar para muchas cosas comunes, lo cual aumenta la confusión. ¿Subo las fotos que quiero compartir a Facebook o a Flickr? ¿Pongo los vídeos en Vimeo o en Tuenti? Y dudas por el estilo.</li>
+<li>cómo se integran en mi flujo de trabajo diario</li>
+<li>en la lista aparecerán por igual servicios web 2.0 socializados y redes sociales con pedigree. Para mi son lo mismo: herramientas que me permiten hacer tal o cual cosa.</li>
+</ul>
+<p>¡Vamos a ello!</p>
+<h2>Flickr</h2>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-888" src="/wp-content/uploads/2010/03/logo-flickr.jpeg" alt="" width="400" height="135" srcset="/wp-content/uploads/2010/03/logo-flickr.jpeg 400w, /wp-content/uploads/2010/03/logo-flickr-300x101.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">Un servicio de almacenamiento de fotos, orientado a compartirlas con todo el mundo. La alternativa (que no uso) es Google Picasa. Tengo cuenta en Picasa, pero puesto a usar uno de los dos he escogido el que mejor se integraba con mi aplicación de gestión de mi biblioteca de fotos, iPhoto.</p>
+<p style="text-align: justify;">Uso <a href="http://www.flickr.com/photos/dfreniche">Flickr</a> por los impresionantes pases de diapositivas que crea. Y porque me resulta sencillo de usar (aunque su interfaz no es de los más intuitivos al principio). No tengo una cuenta premium, aunque es para pensárselo, porque por 25 $ al año puedes tener una copia de seguridad en la nube de todas tus fotos.</p>
+<p style="text-align: justify;">Uso fundamental: mostrar en el blog un conjunto de fotos, sin machacar mi WordPress. Inicialmente me planteé la opción de tener todas las fotos en mi dominio y de instalar un software para los grupos de fotos. Pero mi <em>negocio</em> no es gestionar software de almacenamiento de fotos, sino escribir en el blog, así que preferí dejar las fotos a los profesionales. Como segundo uso, cada vez utilizo más las excelentes fotos de Flickr en mis posts, ya que, además de ser buenas, muchas de ellas están bajo licencia Creative Commons, lo que me permite insertarlas en el blog sin miedo a Royalties.</p>
+<p>Qué no uso: la capacidad de Flickr de subir vídeos. Para los vídeos, ya está YouTube.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157623019094387%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157623019094387%2F&amp;set_id=72157623019094387&amp;jump_to=" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157623019094387%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157623019094387%2F&amp;set_id=72157623019094387&amp;jump_to="></embed></object></p>
+<h2>Youtube</h2>
+<p><img class="aligncenter size-full wp-image-889" src="/wp-content/uploads/2010/03/youtube_logo1.jpg" alt="" width="400" height="283" srcset="/wp-content/uploads/2010/03/youtube_logo1.jpg 400w, /wp-content/uploads/2010/03/youtube_logo1-300x212.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">¿Hay que explicar qué es YouTube? Gracias. Lo uso para subir los vídeos que voy haciendo de mis máquinas, en <a href="http://www.youtube.com/dfreniche">mi canal de YouTube</a>. Hay varias alternativas a YouTube, pero básicamente tenemos Blip.tv y Vimeo. No considero Google Vídeo. Ni lo he probado.</p>
+<p>Utilizo YouTube porque es la que llega a más personas. Si pones un vídeo en Internet, y quieres que se encuentre, lo mejor es subirlo a YouTube.</p>
+<p style="text-align: justify;">Uso fundamental: subir los vídeos que voy creando para el blog. Ni me podría imaginar el hospedarlos en mi propio dominio :-). Los problemas técnicos (ancho de banda, no disponer de visualizador flash, etc.) serían demasiados.</p>
+<p style="text-align: justify;">Problema que tiene: que sólo te permite subir vídeos de 10 min. como máximo. Ahora también se pueden subir en HD, pero hasta hace poco esa capacidad sólo la tenían Vimeo y Blip.tv. Si tengo que subir un vídeo largo, uso estos otros dos servicios, pero por su difusión y por el tipo de clips que hago (y voy a hacer), prefiero YouTube.</p>
+<h1>Delicious</h1>
+<p><img class="aligncenter size-full wp-image-890" src="/wp-content/uploads/2010/03/delicious_logo.png" alt="" width="401" height="119" srcset="/wp-content/uploads/2010/03/delicious_logo.png 401w, /wp-content/uploads/2010/03/delicious_logo-300x89.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></p>
+<p style="text-align: justify;">Es probablemente el servicio web 2.0 más antiguo que utilizo (junto con GMail, Hotmail y Yahoo). El almacén de enlaces definitivo. Hace unos años (muchos ya, me parece el <a href="http://es.wikipedia.org/wiki/Cretácico">Cretácico</a>) andaba con un fichero de bookmarks que exportaba desde Firefox. Lo grababa en una llave USB de las primeras (aterradores 32 MB de almacenamiento pero ya era más que un disquette) y andaba importando y exportando aquí y allí. Esto no funcionaba, así que me puse a buscar en Internet ya que suponía que este problema debía estar resuelto. Utilicé durante un tiempo Foxmarks, pero, <a href="/2008/05/04/¿delicious-esta-caido/">como cuento en este post</a>, la combinación definitiva es usar Firefox con la extensión de Delicious, que hace el buscar y añadir enlaces un juego de niños.</p>
+<p style="text-align: justify;">El uso fundamental que tiene es almacenar enlaces que he encontrado con información interesante y que no considero «perecederos». Me explico. Cuando estoy reuniendo información para algo, por ej. buscando una película para descargarme  de Internet (que es LEGAL en España para uso privado, a ver si nos enteramos), o investigando para un post del blog, voy encontrándome con páginas interesantes que debo ir guardando. Hay páginas que caducan, como las de descargas, y otras que no, con artículos o ensayos que me parecen muy buenos. Estas últimas son las que van a Delicious. Las primeras acaban temporalmente en <a href="http://thinkwasabi.com/evernote/">Evernote</a>, y cuando ya no sirven se borran.</p>
+<p style="text-align: justify;">Usar <a href="http://delicious.com/dfreniche">Delicious</a> no sólo ha cambiado mi flujo de trabajo a la hora de almacenar y compartir enlaces. Gracias a <a href="http://thinkwasabi.com/2010/01/razones-buscar-delicious/">estupendos artículos como el de Berto en ThinkWasabi</a>, veo que una tendencia actualmente es buscar entre los enlaces de Delicious, que ya han sido almacenados, etiquetados y filtrados por personas, en lugar de lanzar búsquedas con Google, que serían un poco de <em>fuerza bruta</em>. Además, ya no encuentro sentido a poner los enlaces que me interesan directamente en el Blog. Creo que es mejor compartir los enlaces que me voy encontrando y ponerlos en Delicious accesibles desde el menú de tu derecha.</p>
+<h1>Facebook</h1>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-891" src="/wp-content/uploads/2010/03/facebook-logo.jpg" alt="" width="400" height="150" srcset="/wp-content/uploads/2010/03/facebook-logo.jpg 400w, /wp-content/uploads/2010/03/facebook-logo-300x112.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">La red social por excelencia. Éste no es un servicio web travestido, sino algo que nació para conectar a personas que se conocían y retomar viejos contactos. La uso sólo para personas que conozco «en carne y hueso». No me gusta tener miles de amigos, porque no es verdad. Quiero estar informado de gente que conozco y me interesa. Pero no añadir muescas a mi cuenta de amigos.</p>
+<p style="text-align: justify;">Inicialmente probé algunas de las aplicaciones que hay en Facebook, como entretenimiento. Y parece que por aquí van los tiros de su popularidad: es el sitio perfecto para perder el tiempo en el trabajo o echar unos minutos jugando a algún jueguecito de los que tiene (me acuerdo ahora de los granjeros de Farm Land). Hoy en día, lo utilizo casi en exclusiva desde el iPhone, con su excelente aplicación de Facebook. He eliminado las notificaciones por correo y ahora me permite ver lo que de verdad me interesa: qué hace la gente que conozco y poder estar en contacto con ellos rápidamente.</p>
+<p style="text-align: justify;">Las actualizaciones de estado en Facebook han sustituido a muchos pequeños posts del Blog que hacía antes, para indicar que <a href="/2006/05/23/afrontando-el-exilio/">estaba de viaje</a>, o dando un curso, o que <a href="/2006/01/26/gonzalo-ya-esta-aqui/">había sido padre</a>. Todo esto ahora está en Facebook y así el contenido del blog está más centrado en temas interesantes para ti que me lees.</p>
+<h1>Twitter</h1>
+<p><img class="aligncenter size-full wp-image-892" src="/wp-content/uploads/2010/03/twitter-logo.jpg" alt="" width="300" height="138" /></p>
+<p style="text-align: justify;">Soy un recién llegado a Twitter. Lo conocía desde hacía tiempo, pero me resistía a utilizarlo: <em>ya tengo bastantes servicios, sociales o no en uso, como para meterme en otro</em>. <em>¿Y total, Twitter qué es, sino SMSs vía HTTP y glorificados?</em>.</p>
+<p style="text-align: justify;">Al final, he caído con todo el equipo y Twitter me está permitiendo estar en contacto con gente interesante. Lo utilizo principalmente para temas «serios»: actualizaciones de mi Blog (un poquito de SPAM), enlaces interesantes que veo y que pueden interesar a los que me siguen, intercambio de opiniones con otros programadores, etc. Ha sustituido a algunos posts en los que quiero contar algo breve. En algunos casos, lo uso también como medio de comunicación (suplantando al email). Y como la cosa del SPAM siga por donde va, al final tendremos que dejar de usar email todos&#8230;</p>
+<p>Empecé a usarlo a partir del <a href="/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/">EBE 09</a>, para contactar con los <a href="/2009/11/24/¡al-fin-video-de-la-grabacion-de-macniacos-en-el-ebe09-subido/">@macniacos</a>, y desde entonces lo veo a diario.</p>
+<p>Por supuesto, siempre puedes <a href="http://twitter.com/dfreniche">seguirme en Twitter</a>.</p>
+<h1>LinkedIn</h1>
+<p><img class="aligncenter size-full wp-image-900" src="/wp-content/uploads/2010/03/linkedin-logo.png" alt="" width="400" height="113" srcset="/wp-content/uploads/2010/03/linkedin-logo.png 400w, /wp-content/uploads/2010/03/linkedin-logo-300x84.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">La red social de trabajo por excelencia. Es el <em>Facebook</em> de las redes sociales de trabajo. Me gusta mucho la facilidad que te da para editar el <a href="http://es.linkedin.com/in/dfreniche/en">perfil</a>, disponer de varios perfiles en varios idiomas, etc. Es mi red de trabajo preferida, muy por delante de Xing. Aparte de estas dos, no me planteo usar ninguna otra.</p>
+<p style="text-align: justify;">Antes, en mi web hablaba de trabajo y de mis ocupaciones, por si alguien necesitaba un formador en Java, Linux u Objective-C. Ahora simplemente mantengo actualizado el perfil de LinkedIn y de vez en cuando alguien contacta conmigo.</p>
+<p style="text-align: justify;">El unirte a grupos de interés para tu trabajo es otro de los puntos fuertes de LinkedIn. Y encima, la cuenta gratuita es casi 100% funcional: no hay nada de la cuenta premium que me llame la atención. La aplicación de iPhone está bastante bien, pero suelo usar LinkedIn desde un navegador.</p>
+<h1>Xing</h1>
+<p><img class="aligncenter size-full wp-image-895" src="/wp-content/uploads/2010/03/xing-logo.png" alt="" width="400" height="158" srcset="/wp-content/uploads/2010/03/xing-logo.png 400w, /wp-content/uploads/2010/03/xing-logo-300x118.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">La segunda red social <em>profesional</em> que utilizo. Por completitud, porque se usa bastante en España (parece, aunque LinkedIn está creciendo enormemente aquí). La tengo un poco abandonada y debería retomarla. Me han llegado contactos interesantes por ella. Pero la aplicación de iPhone de Xing es de risa. ¡Tienes que ser premium (pagar) para poder dejar un mensaje de estado :-S!</p>
+<p style="text-align: justify; padding-left: 30px;"><strong>ACTUALIZACIÓN (12/03/2010):</strong><strong> </strong>Al César lo que es del César. Este post lo publiqué el Lunes 8. No tengo idea de cómo, pero en XING España se lo han leído y se pusieron en contacto conmigo vía Twitter el Martes 9. En <a href="http://twitter.com/XING_Spain/status/10211322569">este tweet </a>me animaban a no dejar la red. Al igual que la aplicación de iPhone es muuuy criticable, el márketing social de XING España me ha parecido soberbio. No tengo ni idea de cómo en un día han podido leerse mi post y tener el detalle de querer rescatarme. Esto es, desde luego, entender cómo funcionan las redes sociales. Y, además, han conseguido su objetivo: le voy a dedicar la semana que viene unas horas a mi perfil de XING, para potenciarlo y ponerlo a la par con el de LinkedIn. Desde luego, si todas las empresas escucharan así a sus usuarios&#8230;</p>
+<h1>Vark</h1>
+<p><img class="aligncenter size-full wp-image-899" src="/wp-content/uploads/2010/03/vark-logo1.jpg" alt="" width="327" height="143" srcset="/wp-content/uploads/2010/03/vark-logo1.jpg 327w, /wp-content/uploads/2010/03/vark-logo1-300x131.jpg 300w" sizes="(max-width: 327px) 100vw, 327px" /></p>
+<p style="text-align: justify;">Muy interesante, <a href="http://vark.com/">Vark</a> es básicamente el Twitter de las preguntas y respuestas. Te registras y haces una pregunta. Y alguien en la otra parte del mundo te contesta. Muy útil para encontrar información concreta. ¿Merece la pena la película que vas a ver?. ¿Un buen bar de tapas en NYC?. ¿Billetes baratos de avión?.</p>
+<p style="text-align: justify;">He visto de todo preguntado en Vark, desde planes para visitar España hasta segundas opiniones médicas, pasando por ideas de negocio, sitios para salir&#8230; Debe ser una buena idea, porque lo acaba de comprar Google <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h1>Gowalla</h1>
+<p><img class="aligncenter size-full wp-image-897" src="/wp-content/uploads/2010/03/gowalla-logo.png" alt="" width="228" height="66" /></p>
+<p style="text-align: justify;">Todos tenemos un amigo que se conoce los mejores bares. O mesones. O restaurantes. A quien le preguntas cuando vas de viaje dónde se come bien en tal o cual sitio. Eso es Gowalla: una red social donde la gente crea sitios de interés y los geolocaliza (mediante el GPS que llevan ya casi todos los móviles), añadiendo después comentarios. Tiene una mecánica también de juego, en el que a medida que añades sitios desbloqueas trofeos y te dan puntos. Hay un competidor, que es FourSquare, que también está pegando fuerte. Al final no se cuál de los dos quedará (o los dos). Yo, de momento, me quedo con Gowalla y así podré ir registrando los bares por los que paso. De esta forma, luego es más fácil buscar aquel que te gustó (o evitar entrar en el que no te trataron bien).</p>
+<h1>StackOverflow</h1>
+<p><img class="aligncenter size-full wp-image-898" src="/wp-content/uploads/2010/03/stackoverflow-logo-300.png" alt="" width="300" height="84" /></p>
+<p>Mi más reciente incorporación. Una <a href="http://stackoverflow.com/">red social orientada a los programadores</a>, para obtener respuestas a los problemas que nos encontramos todos los días. Y buscar en Google genera demasiado ruido: es mejor ver la respuesta de alguien, votada como correcta por otros programadores. Si desarrollas, tienes que darte de alta. Y si eres administrador de sistemas, tu sitio es <a href="http://serverfault.com/">ServerFault</a>.</p>
+<h1>¿Y tú?</h1>
+<p>¿Qué redes sociales usas? ¿Para qué? ¿Me he dejado alguna en el tintero (seguro que muchas)? ¿Me recomiendas alguna? ¡Te espero en los comentarios!</p>
+<address>&lt;lawyers-disclaimer&gt;todos los logotipos anteriores son propiedad y marca registrada de sus respectivos dueños.&lt;/lawyers-disclaimer&gt;</address>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/08/como-uso-las-redes-sociales/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

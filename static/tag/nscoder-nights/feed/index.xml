@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NSCoder Nights &#8211; freniche.com</title>
+	<atom:link href="/tag/nscoder-nights/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Voy a aprender Git</title>
+		<link>/2013/04/02/voy-a-aprender-git/</link>
+		<comments>/2013/04/02/voy-a-aprender-git/#comments</comments>
+		<pubDate>Tue, 02 Apr 2013 07:49:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[aprender]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[Mercurial]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1905</guid>
+		<description><![CDATA[Git. Ese sistema de control de versiones para superdotados. Es un hijo de Linus (el creador de Linux). Por ello, la sencillez no es una de sus características. Si alguna vez has configurado y compilado un kernel de Linux, sabrás que a este señor no le gusta ningún programa sin al menos cincuenta opciones en [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://git-scm.com/">Git</a>. Ese sistema de control de versiones para superdotados. Es un <em>hijo de <a href="http://en.wikipedia.org/wiki/Linus_Torvalds">Linus</a></em> (el creador de Linux). Por ello, la <strong>sencillez</strong> no es una de sus características. Si alguna vez has configurado y compilado un kernel de Linux, sabrás que a este señor no le gusta ningún programa sin al menos cincuenta opciones en la línea de comandos: veinticinco empezando por <code>-</code>y otras veinticinco por <code>--</code>. Y diez más que no están documentadas. Para usar Git se asume que ya tienes de antemano una serie de habilidades (manejo de la Terminal, uso de ssh, resistencia innata al desaliento ante una documentación fea como un demonio, coeficiente intelectual de 300, &#8230;)</p>
+<p>Así que uso habitualmente <a href="http://mercurial.selenic.com/">Mercurial</a> (siempre que puedo, antes que Git) por varias razones:</p>
+<ul>
+<li>me resultó muy sencillo aprender a usar Mercurial gracias al <a href="http://hginit.com/">excelente tutorial de Joel Spolsky</a> </li>
+<li>el 80% de las cosas que haces habitualmente es muy sencillo de hacer con HG</li>
+<li>no necesitas configurar nada: te lo bajas, lo instalas, vas a una carpeta, escribes <code>hg init</code> y listo</li>
+<li>tanto BitBucket como SourceTree lo soportan. Luego es perfecto para mi.</li>
+<li>si funciona, no lo toques</li>
+</ul>
+<p><em>Pero claro, no se Git. Y me siento estúpido.</em></p>
+<p>Hay varias cosas que considero «la maratón mental del informático». Lo que distingue a los buenos de los que tienen que seguir esforzándose. Cosas difíciles, que te obligan a aprender y a exprimirte el cerebro. Por supuesto, no he hecho ninguna de ellas, autocolocándome en uno de los dos anteriores grupos. Estos retos son:</p>
+<ul>
+<li>dominar el uso de expresiones regulares (sin mirar en StackOverflow)</li>
+<li>escribir una pequeña aplicación o demo completamente en ensamblador</li>
+<li>hacer una aplicación web en un lenguaje funcional, como Clojure</li>
+<li>hacer un juego usando OpenGL</li>
+<li>entender qué demonios hace git con las ramas y git flow</li>
+</ul>
+<p>Pues bien, una de ellas voy a tacharla de la lista, pero ya. El uso de Git está muy extendido, y soluciones que uso habitualmente como Cocoa Pods lo utilizan de forma extensa. Tengo que aprender a usarlo, quiera o no. Además, en varios proyectos se necesita Git y aunque con SourceTree puedo ir tirando, quiero comprender qué se cuece tras la interfaz bonita y ser capaz de manejar este DCVS yo solito.</p>
+<p>La opción de leer un libro me aterrorizaba: demasiado esfuerzo tras tanto esfuerzo con otras cosas. Así que la mejor solución va a ser asistir al curso <a href="http://www.cursodegit.com/">Entendiendo Git</a> que <a href="https://twitter.com/aalbagarcia">Alfonso Alba</a> imparte en Las Rozas. Creo que aún estás a tiempo de conseguir un descuento por compra anticipada. Voy con muchas esperanzas puestas en el curso, para tener una base que me permita manejar en el día a día este DCVS sin problemas, y explorar por mi cuenta. Vamos, que espero entrar chapurreando un par de palabras en Git y salir <em>hablando</em>, con acento y poco vocabulario, Git. Pero entendiéndolo al menos.</p>
+<p>Escribiré qué he aprendido en el curso cuando lo termine. Pero conociendo a Alfonso de las <a href="http://nscoder-mad.tumblr.com/">NSCoder Night de Madrid</a> creo que la duda no está en la calidad del curso, sino en si mi mente será capaz de pasar por la <em>maratón</em>. Espero que si.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/02/voy-a-aprender-git/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>La NSConf11 de Vilanova i La Geltrú</title>
+		<link>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/</link>
+		<comments>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 12:43:17 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cataluña]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1630</guid>
+		<description><![CDATA[Este pasado fin de semana tuve el placer de asistir a la primera Conferencia que ha organizado a nivel nacional la Asociación NSCoders España. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Este pasado fin de semana tuve el placer de asistir a la <a href="http://nsconf.nscoders.org/">primera Conferencia</a> que ha organizado a nivel nacional la <a href="http://nscoders.org/">Asociación NSCoders España</a>. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el error de dejarme hablar. Y claro, me dediqué a desvariar un rato y, entre chiste y chiste, contaba cómo hacer un cliente RSS para iPhone.</p>
+<p style="text-align: justify;">Aún no se si realmente alguien aprendió algo de mi charla. Yo me lo pasé muy bien, aunque no las tenía todas conmigo. El Viernes anterior había estado toda la mañana programando con JavaScript y el framework Enyo para la HP TouchPad. Y por la tarde había estado viendo detalles intrincados de Java en un curso de preparación para el OCP Java SE 6 que estoy impartiendo. Y Cocoa ya no me cabía en mis maltrechas neuronas. Al final parece que Cocoa fluyó (con ayuda de muchos cafés) y me pude escapar sin demasiados tomatazos. Y aquí es donde empezó realmente lo bueno.</p>
+<p style="text-align: justify;">Este año he ido a otra conferencia, el iOSDevUK en Gales, que me encantó. Pero comparando ambas, en la NSConf11 he <em>escrito</em> código. No sólo he escuchado, aprendido y charlado de código. He <em>trabajado</em> el código. Como en el increíble taller de TDD que impartió <a href="http://nsconf.nscoders.org/ponentes/pedro-santos">Pedro Santos</a>, tras su charla sobre Behaviour Driven Development. Aquí tuve el privilegio de picar código mientras hacíamos pair programming aplicando el proceso paso a paso de TDD. O la charla sobre Chipmunk de <a href="http://nsconf.nscoders.org/ponentes/oscar-cardona">Óscar Cardona</a>, que nos dejó a todos atontados y pensando «esto no puede ser así de simple, o hay más código o este tío explica muy bien esto». O el taller de Core Plot, donde vimos cómo hacer gráficas complejas con esta librería, gracias a la demo de <a href="http://nsconf.nscoders.org/ponentes/victor-jalencas">Víctor Jalencas</a>. Y tantas y tantas ponencias interesantes. La única pena: las que me perdí mientras yo hablaba, y las que tuve que elegir, perdiendo la que se presentaba en paralelo.</p>
+<p style="text-align: justify;">Lo mejor, la gente que he conocido. Gente con muchas ganas de aprender, compartir y enseñar. Gente encantadora y que, como los miembros de la NSCoder_bcn que han organizado el evento, se han matado para que todo estuviera perfecto, como al final ha sido. Creo que nadie pensaba que en una primera conferencia íbamos a tener tanto público. Esto puede llegar a ser una WWDC hispana. Trabajaremos por ello. Gracias a José Juan, nuestro presidente, o a Guillem o Leandro, o Xabi, o&#8230; por la paliza enorme que se han dado.</p>
+<p style="text-align: justify;">He podido conocer en persona (yo no «desvirtualizo» a las personas: las conozco) a José Lobato, ídolo de masas Geeks y gran bebedor de cerveza :-D. El tío en persona es para comérselo, y gran parte de la «culpa» de que todo esto se originara es la semilla plantada desde 85% Cocoa con las NSCoder Nights. Otro que me ha impresionado y he podido escuchar con respeto reverencial es Iván Leider. Él es un Maestro Jedi del desarrollo. Yo, ni Padawan&#8230;</p>
+<p style="text-align: justify;">Y demostrando que el mundo geek también es un pañuelo, conocí a <a href="http://www.fillito.com/blog/">Daniel García</a>, el programador de la App de <a href="http://www.minube.com/">Minube</a> para la TouchPad. Creo que allí estábamos los dos únicos programadores Enyo de toda España :-). Bueno, alguno más habrá, pero no creo que más de 10&#8230;</p>
+<p style="text-align: justify;">Y claro, me he hinchado a comer, he visto algo de Vilanova i La Geltrú (principalmente de noche) y no he parado de hablar. La experiencia no merece la pena: es imprescindible si desarrollas en Cocoa. Yo el año que viene, repito. Espero que alguien recapacite y no me dejen hablar.</p>
+<p style="text-align: justify;">Os dejo con un Vídeo de Vilanova Digital en la que «el presi» de la Asociación explica (en Catalán, pero se entiende perfectamente) qué es la NSConf11</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/esHvZC-VpE4" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/esHvZC-VpE4"></param></object></div>
+</div>
+<p style="text-align: justify;">Y el que quiera el código del RSS Reader que utilicé de ejemplo, lo tiene en: <a href="https://github.com/dfreniche/SimpleRSSReader">https://github.com/dfreniche/SimpleRSSReader</a></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Conferencia NSCoders Apple Conference 2011, ¡ya casi está aquí!</title>
+		<link>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/</link>
+		<comments>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/#comments</comments>
+		<pubDate>Thu, 20 Oct 2011 18:04:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+		<category><![CDATA[Objective C]]></category>
+
+		<guid isPermaLink="false">/?p=1626</guid>
+		<description><![CDATA[¿Cómo? ¿Que aún no te has apuntado a la NSCoders Apple Conference 2011? ¡Pues ya estás tardando! Podrás ver allí a lo más granado de las distintas NSCoder Nights de toda España. Yo voy a impartir una de las sesiones. Así que ya sabes: no hay excusa para no invitarme a un café, o a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1627" style="width: 680px" class="wp-caption aligncenter"><a href="http://nsconf.nscoders.org/"><img class="size-full wp-image-1627" title="NSCoders Apple Conference 2001" src="/wp-content/uploads/2011/10/nsconf11.gif" alt="NSCoders Apple Conference 2001" width="670" height="260" srcset="/wp-content/uploads/2011/10/nsconf11.gif 670w, /wp-content/uploads/2011/10/nsconf11-300x116.gif 300w" sizes="(max-width: 670px) 100vw, 670px" /></a><p class="wp-caption-text">NSCoders Apple Conference 2001</p></div>
+<p style="text-align: justify;">¿Cómo? ¿Que aún no te has apuntado a la NSCoders Apple Conference 2011? ¡Pues ya estás tardando! Podrás ver allí a lo más granado de las distintas NSCoder Nights de toda España. Yo voy a impartir una de las sesiones. Así que ya sabes: no hay excusa para no invitarme a un café, o a un MacBook Air, lo que te venga mejor.</p>
+<p style="text-align: justify;">Por si esto de la NSCoder te deja frío y no sabes de qué te hablo, <a href="/2011/10/04/primera-conferencia-de-la-asociacion-nscoders-espana/">te recuerdo</a> que las NSCoder Nights son reuniones de programadores, diseñadores, gente interesada en el desarrollo en plataforma Apple, que se juntan en un bar a charlar, tomar unas copas, e incluso programar. En <a href="/2010/11/12/nscoder-nights-sevilla/">Sevilla tenemos una muy animada</a>, a la que te invito a venir, si te pasas por la ciudad. Incluso <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">puedes montar la tuya propia</a>.</p>
+<p style="text-align: justify;">El caso es que la idea ha cuajado, y han surgido como setas las NSCoders. Y claro, todos queremos más. Realmente nos da envidia la WWDC, pero es que es una pasta ir a San Francisco :-D. Y aquí va a ir gente de auténtico nivel. Yo voy de relleno.</p>
+<p>No le des más vueltas y reserva ya. ¡Es gratis!. Vente en barco, en avión o en burro, pero vente con tu Mac.</p>
+<p><strong>Keep coding!</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>NSCoder Nights Sevilla</title>
+		<link>/2010/11/12/nscoder-nights-sevilla/</link>
+		<comments>/2010/11/12/nscoder-nights-sevilla/#comments</comments>
+		<pubDate>Fri, 12 Nov 2010 09:58:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1239</guid>
+		<description><![CDATA[Me ha tocado organizar el capítulo de Sevilla de las NSCoder Nights, y en ello estamos. El próximo Lunes 15, a las 19:00 estaremos en la ETSII Facultad de Matemáticas de Reina Mercedes. El aula aún está por confirmar, pero si después de leer esto te interesa venir, toda la información se va a ir publicando de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me ha tocado organizar el capítulo de Sevilla de las NSCoder Nights, y en ello estamos. El próximo Lunes 15, a las 19:00 estaremos en la ETSII Facultad de Matemáticas de Reina Mercedes. El aula aún está por confirmar, pero si después de leer esto te interesa venir, toda la información se va a ir publicando de dos formas:</p>
+<ul>
+<li>en la <a href="http://nscoder-sev.tumblr.com/">web de NSCoder Nights Sevilla</a></li>
+<li>en la <a href="http://twitter.com/nscoder_sev">cuenta de Twitter NSCoder_sev</a></li>
+</ul>
+<blockquote><p>&#8211; Bueno, ¡ya está bien con los anuncios!. ¿Pero qué es esto de los NSCoder Nights? ¿Algo porno? ¿Y porqué el nombre en Inglés, pedantes, que sois unos pedantes?</p></blockquote>
+<p>Las dudas se resuelven en las FAQ, que puedes consultar aquí. Por responder rápido a tus tres preguntas:</p>
+<ul>
+<li>es una reunión periódica de programadores para tomar café / cerveza / whatever y hablar de nuestras cosas</li>
+<li>no, no es nada porno, ni ilegal. Pero si alguien se trae un disco duro lleno de pelis, seguro que le encontramos utilidad</li>
+<li>somos unos pedantes, pero es que estas reuniones <a href="http://nscodernight.com/">las inventaron en EE.UU.</a> y queremos montar algo similar en España (ya ha empezado en <a href="http://nscoder-vlc.tumblr.com/">Valencia</a>, pronto en <a href="http://nscoder-mlg.tumblr.com/">Málaga</a>, <a href="http://twitter.com/nscoder_bcn">Barcelona</a>, <a href="http://twitter.com/#!/nscoder_gjn">Gijón</a> y <a href="http://nscoder-mad.tumblr.com/">Madrid</a>) de forma que si viajas a una ciudad con NSCoder Night y te apetece, te pases. <em>Sí, es una secta</em>.</li>
+</ul>
+<p>Pero ahora, de mi cosecha, te explico de qué va esto.</p>
+<p style="text-align: justify;">La informática es una profesión vocacional. Cierto, hay gente que no ha estudiado esto y programa (o lo intenta), o que trabaja en el sector sin ser Informático. Pero es algo vocacional. De otra manera nadie aguantaría unos estudios en los que no hay nadie del otro sexo, sólo tíos raros y feos y frikis (¡horror, que yo soy otro de esos!). Y encima, cada 10 años ¡vuelta a empezar!. ¿O alguien usa el S.O. de hace 10 años? ¿Windows 98, alguien se acuerda? Con XP (que salió en 2001) parecía que se iba a romper esta tendencia de cambiarlo todo cada 10 años, al personal empieza a gustarle lo <em>vintage</em>. ¡Cambiad ya a Windows 7 por lo menos y tened un S.O. moderno!</p>
+<p style="text-align: justify;">En fin, que me pierdo. Una vocación, decía. Un ritmo de aprendizaje muy alto. Y algo en lo que no trabajas, es algo que vives. Porque luego llegas a casa y te pones con los chismes. A hacer lo que sea, pero con <em>tus</em> ordenadores de casa. ¡Después de haber estado 10 h en el trabajo delante de una pantalla!. No tenemos arreglo. Yo digo que  hay dos tipos de informáticos: los que van 8 horas al días a su trabajo y luego quieren tener «su vida social» y los que no podemos evitarlo y seguimos en casa <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Pues bien, si tienes pasión por esto, si de verdad te gusta ¿has notado lo que te frustra no poderle contar tus frikadas a nadie? Vale, que le cuento a mi mujer que la arquitectura MVC y la delegación en Cocoa son la leche, y que el KVC es brutal. Pero como que me mira como si le hablase en Chino, y me sonríe por apoyarme, pero no porque le interese. Esa es la razón de que tantos informáticos tengamos blogs: tenemos una necesidad reprimida de enseñar nuestros juguetes y nadie nos entiende. Echamos de menos esas charlas de café, en la facultad, cuando alguna eminencia de compañero te enseñaba cómo programar en Pascal orientado a objetos (era el 92-93, ¿verdad <a href="http://www.arquired.es/users/aldelgado/proy/default.htm">Antonio</a>?), u otro friki extremo te hablaba de su Commodore 64 y te enseñaba a taladrar placas y a quemar circuitos para hacernos conversores analógico-digitales caseros con los que escuchar MODs a través de un radio-cassette (era el 93-94, una Sound Blaster costaba 30.000 pelas de la época, ¿verdad <a href="http://www.terron.org/">Migue</a>?)</p>
+<p style="text-align: justify;">Bueno, voy a dejar las <em>loving memories</em> que me pongo tontorrón y se me salta una lágrima. El caso es que los informáticos precisamos de una terapia de grupo, donde poder curarnos de todo eso que queremos contar y no podemos. Queremos ver que alguien se «pone <em>bruto</em>» cuando le enseñamos nuestro código, o sentir envidia sana cuando llega otro que sabe 10 lenguajes más que tú. Y ver los portátiles, qué herramientas llevas instaladas, qué trucos sabes, etc.</p>
+<p style="text-align: justify;">Pues nada, que si sabes mucho Cocoa o no sabes nada. Si quieres empezar a programar tus apps para iOS o si eres diseñador gráfico y quieres ver qué se necesita para hacer tus trabajos para el iPhone. O si buscas contratar a un programador iOS. O si te apetece hablar de programación en general, te esperamos el Lunes. Tengo confirmada al menos a otra persona, así que ya tengo charla garantizada. ¡Nos vemos!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/12/nscoder-nights-sevilla/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+	</channel>
+</rss>

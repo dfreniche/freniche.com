@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GSOD &#8211; freniche.com</title>
+	<atom:link href="/tag/gsod/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>YSOD: Youtube Screen Of Death</title>
+		<link>/2012/11/15/ysod-youtube-screen-of-death/</link>
+		<pubDate>Thu, 15 Nov 2012 09:49:06 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=1804</guid>
+		<description><![CDATA[Es enfermizo, pero me gusta recopilar las pantallas con los servicios que uso cuando fallan. Al estilo de los pantallazos azules de Windows (Blue Screen Of Death, BSOD), creo que acuñé el término GSOD para Google. Hoy he ido a ver un vídeo en Youtube y me he encontrado con esto. Disfrutadlo 😉]]></description>
+				<content:encoded><![CDATA[<p>Es enfermizo, pero me gusta recopilar las pantallas con los servicios que uso cuando fallan. Al estilo de los pantallazos azules de Windows (Blue Screen Of Death, BSOD), creo que acuñé el término GSOD para Google. Hoy he ido a ver un vídeo en Youtube y me he encontrado con esto. Disfrutadlo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="/wp-content/uploads/2012/11/ysod.png"><img class="aligncenter  wp-image-1805" title="Youtube Screen Of Death" src="/wp-content/uploads/2012/11/ysod.png" alt="Pantalla de Youtube mostrando un mensaje de error" width="480" height="419" srcset="/wp-content/uploads/2012/11/ysod.png 800w, /wp-content/uploads/2012/11/ysod-300x262.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Nueva GSOD</title>
+		<link>/2011/04/01/nueva-gsod/</link>
+		<comments>/2011/04/01/nueva-gsod/#comments</comments>
+		<pubDate>Fri, 01 Apr 2011 15:29:06 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">/?p=1448</guid>
+		<description><![CDATA[Sabiendo mi afición por las Google Screen Of Death (GSOD), me manda Francisco Páez (gracias!) esta de un error 404 en Google: Increíblemente a Francisco, tras sufrirme como profesor Stasi-Style en el curso de preparación para la certificación SCJP que impartí el pasado verano, le han quedado ganas de leerme y ayudarme con mis neuras. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Sabiendo mi afición por las Google Screen Of Death (GSOD), me manda Francisco Páez (gracias!) esta de un error 404 en Google:</p>
+<div id="attachment_1449" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/04/gsod-android.jpg"><img class="size-medium wp-image-1449" title="GSOD" src="/wp-content/uploads/2011/04/gsod-android-300x213.jpg" alt="GSOD" width="300" height="213" srcset="/wp-content/uploads/2011/04/gsod-android-300x213.jpg 300w, /wp-content/uploads/2011/04/gsod-android-1024x729.jpg 1024w, /wp-content/uploads/2011/04/gsod-android.jpg 1498w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">GSOD</p></div>
+<p style="text-align: justify;">Increíblemente a Francisco, tras sufrirme como profesor <a href="http://es.wikipedia.org/wiki/Stasi">Stasi</a>-Style en el curso de preparación para la certificación SCJP que impartí el pasado verano, le han quedado ganas de leerme y ayudarme con mis neuras.</p>
+<p style="text-align: justify;">Y por cierto, si quieres certificar en tu empresa a un grupo de programadores, no lo dudes: <a href="/formacion/">mi método</a> de ser el más pesado del mundo funciona <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/01/nueva-gsod/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Oops, Google! Menos darle cañita a Apple y más mirar estas cosas&#8230;</title>
+		<link>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/</link>
+		<comments>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/#comments</comments>
+		<pubDate>Wed, 26 May 2010 18:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Bugs]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">/?p=1018</guid>
+		<description><![CDATA[Ha vuelto la Google Screen Of Death (TM Diego Freniche), o GSOD. Que cuando sale un kernel panic en Linux o una pantalla azul en Windows bien que nos reímos. Bueno, pues a Google también le pasa: Google: menos Buzz y Wave, y más hacer que el buscador sea lo que fue y que no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Ha vuelto la Google Screen Of Death (TM Diego Freniche), o GSOD. Que cuando sale un kernel panic en Linux o una pantalla azul en Windows bien que nos reímos. Bueno, pues a Google también le pasa:</p>
+<div id="attachment_1019" style="width: 410px" class="wp-caption aligncenter"><img class="size-full wp-image-1019" title="GSOD" src="/wp-content/uploads/2010/05/GSOD-e1274899109968.png" alt="" width="400" height="319" /><p class="wp-caption-text">Google Screen Of Death, también conocida por ERROR 500 HTTP</p></div>
+<p>Google: menos Buzz y Wave, y más hacer que el buscador sea lo que fue y que no pasen estas cosas&#8230; aunque tú ya lo sabes <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Por cierto, te sigo amando <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Youtube: Google, shit happens, again</title>
+		<link>/2008/03/19/youtube-google-shit-happens-again/</link>
+		<pubDate>Wed, 19 Mar 2008 16:22:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[ERROR_500]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">/2008/03/19/youtube-google-shit-happens-again/</guid>
+		<description><![CDATA[Probablemente el mensaje de error interno de servidor (ERROR 500) más divertido que he leido nunca: Sorry, something went wrong. A team of highly trained monkeys has been dispatched to deal with this situation. Traducido: Lo sentimos, algo ha ido mal. Un equipo de monos altamente entrenados ha sido enviado para tratar con esta situación. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Probablemente el mensaje de error interno de servidor (ERROR 500) más divertido que he leido nunca:</p>
+<blockquote><p>Sorry, something went wrong.</p>
+<p>A team of highly trained monkeys has been dispatched to deal with this situation.</p></blockquote>
+<p>Traducido: Lo sentimos, algo ha ido mal. Un equipo de monos altamente entrenados ha sido enviado para tratar con esta situación.</p>
+<p><a href="/wp-content/uploads/2008/03/error_500_youtube.png" title="error_500_youtube.png"><img src="/wp-content/uploads/2008/03/error_500_youtube.png" alt="error_500_youtube.png" /></a></p>
+<p>Como siga coleccionando pantallas de error de los servidores más conocidos, voy a tener que crear una categoría especial&#8230;Algo como The Google White Screen Of  Death, al estilo de la <a href="http://en.wikipedia.org/wiki/Blue_Screen_of_Death">Blue Screen Of Death (BSoD) de Windows</a>. De momento, voy a aplicar la etiqueta ERROR_500. ¿Llegará a ser la más popular?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Google &#8211; Shit Happens!</title>
+		<link>/2008/03/13/google-shit-happens/</link>
+		<pubDate>Thu, 13 Mar 2008 15:34:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[ERROR_500]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/13/google-shit-happens/</guid>
+		<description><![CDATA[Pues eso, que Google también falla. Esta pantalla concretamente me ha aparecido al intentar importar un ISBN dentro de la biblioteca de Google, un nuevo servicio que te permite tener en línea tus libros (favoritos, o los que tienes). &#160; El servicio se encuentra aún en su fase Beta, pero tiene ya muy buena pinta.]]></description>
+				<content:encoded><![CDATA[<p align="justify">Pues eso, que Google también falla. Esta pantalla concretamente me ha aparecido al intentar importar un ISBN dentro de la biblioteca de Google, un nuevo servicio que te permite tener en línea tus libros (favoritos, o los que tienes).</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">El servicio se encuentra aún en su fase Beta, pero tiene ya muy buena pinta.</p>
+<p><a href="http://freniche.com/wp/wp-content/uploads/2008/03/google-shit-happens.png" title="Google - Shit happens"><img src="http://freniche.com/wp/wp-content/uploads/2008/03/google-shit-happens.thumbnail.png" alt="Google - Shit happens" height="137" width="171" /></a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>A Google también le puede ocurrir</title>
+		<link>/2005/10/23/a-google-tambien-le-puede-ocurrir/</link>
+		<pubDate>Sun, 23 Oct 2005 18:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Bugs]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">/2005/10/23/a-google-tambien-le-puede-ocurrir/</guid>
+		<description><![CDATA[En la Wikipedia hay un par de artículos para los típicos fallos de Windows (los de Win3.11 eran los Black screen of Death y los de Win98 en adelante son los Blue Screen of Death). Mucho nos hemos reído los informáticos a costa de esto. Bueno, cuando te pasaba tres veces en una hora y [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">
+<p class="bodytext" style="text-align: justify;"><a href="/wp-content/uploads/2005/10/gsod.png"><img class="aligncenter size-full wp-image-744" title="Google Screen Of Death" src="/wp-content/uploads/2005/10/gsod.png" alt="" width="500" height="375" srcset="/wp-content/uploads/2005/10/gsod.png 500w, /wp-content/uploads/2005/10/gsod-300x225.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p class="bodytext" style="text-align: justify;">En la Wikipedia hay un par de artículos para los <a href="http://foldoc.org/Blue+Screen+of+Death">típicos fallos de Windows</a> (los de Win3.11 eran los <a href="http://en.wikipedia.org/wiki/Black_screen_of_death" target="_blank">Black screen of Death</a> y los de Win98 en adelante son los <a href="http://en.wikipedia.org/wiki/Blue_screen_of_death" target="_blank">Blue Screen of Death</a>). Mucho nos hemos reído los informáticos a costa de esto. Bueno, cuando te pasaba tres veces en una hora y no habías grabado el código del programa que estabas escribiendo, no te reías tanto.</p>
+<p class="bodytext">Pues a Google también le pasa. Y como muestra la imagen de al lado. ¿Cómo se llamará esto? ¿GSoD?</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

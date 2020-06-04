@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cocos2D &#8211; freniche.com</title>
+	<atom:link href="/tag/cocos2d/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>La BcnDevCon</title>
+		<link>/2012/12/13/la-bcndevcon/</link>
+		<comments>/2012/12/13/la-bcndevcon/#comments</comments>
+		<pubDate>Thu, 13 Dec 2012 10:54:50 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Cocos2D]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=1815</guid>
+		<description><![CDATA[Acabo de volver de Barcelona de la BcnDevCon, una conferencia de desarrollo en la que he participado como desarrollador aprendiz (siempre hay que estar aprendiendo algo) y como ponente. Al paso de visitas que llevo a Barcelona me voy a tener que acabar empadronando allí. Aunque me gustaría variar un poco la zona de la ciudad, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Acabo de volver de Barcelona de la <a href="http://bcndevcon.org/">BcnDevCon</a>, una conferencia de desarrollo en la que he participado como <em>desarrollador aprendiz</em> (<a href="/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/">siempre hay que estar aprendiendo algo</a>) y como ponente. Al paso de visitas que llevo a Barcelona me voy a tener que acabar empadronando allí. Aunque me gustaría variar un poco la zona de la ciudad, porque siempre me toca aproximadamente por El paralel y me gustaría hacer algo de turismo.</p>
+<p style="text-align: justify;">En esta ocasión he estado hablando de <a href="http://bcndevcon.org/master-sessions/C-mo-entrar-en-el-comercio-m-vil">como integrar la biblioteca de pagos móviles de PayPal en una App nativa iOS</a>. Quizás no sea lo más <em>apasionante</em> de mundo, pero hay que pagar facturas. Y ya que estábamos en ello, intentamos pasarlo bien. Con <a href="http://www.linkedin.com/in/hernanrodriguez">Hernán Rodríguez</a> y Jesús Arias, de PayPal montamos un pequeño <em>teatrillo</em> en el que Hernán era un cliente con una web de venta de canagers que me contrataba para hacerle una App iOS de venta de sus figuritas. Yo hacia de programador Friki desbordado (es decir, me interpretaba a mi mismo, como Antonio Resines en todas sus películas) que contactaba con Paypal y creaba la App. Nos echamos unas risas en el escenario con las típicas coñas(quien halla asistido a uno de mis cursos sabe a lo que me refiero) y mostramos un ejemplo casi real. Que además <a href="https://bitbucket.org/dfreniche/caganets">he subido a Bitbucket</a> y puedes bajar para verlo y usarlo. Es un ejemplo sencillo de cómo usar JSON, leyendo en un hilo en paralelo para mostrar los caganers en un UITableView. Nos quedó una sesión creo que entretenida, aunque el tema (pagos móviles) no parece a priori el más divertido.</p>
+<p style="text-align: justify;">Así que mi experiencia ha tenido tres partes: el Jueves, antes de actuar, el Viernes con la actuación y el Sábado de relax.</p>
+<h2 style="text-align: justify;">El Jueves</h2>
+<p style="text-align: justify;">Viaje con un madrugón mortal (me levanté a las 5 de la mañana, y lo pongo aquí porque creo que a Hernán no le quedó claro del todo ;-)). En el avión, roncando desde antes de despegar. Llegué en taxi a la conferencia y dejé la maleta en el «cuarto» donde la organización tenía las cosas. Y me senté en una de las mesas donde luego tuvo lugar el hackathon a terminar la App de demostración del Viernes.</p>
+<p style="text-align: justify;">Además de programar, me dio tiempo a asistir al taller de introducción a OpenGL que impartió <a href="http://www.cocoaosx.com/">Fernando Rodríguez</a>. Ahora OpenGL ya me suena a Inglés, no a Chino. Seguiré intentándolo, porque no tengo ni idea y es una asignatura pendiente (como el dominar las expresiones regulares, o ser dueño de una isla en el Caribe).</p>
+<p style="text-align: justify;">En la comida coincidimos muchos y con gente que ya conocía de la NSCoder Night de BCN y de verlos en Vilanova i La Geltrú, especialmente @acuarioverde y @risalba. Buena charla, geek como corresponde, y una paliza de comer: pedimos menú para dos en un chino y éramos dos. Resultado: sobró comida. En un chino, si pides menú siempre debe ser: (número de comensales)-1.</p>
+<p style="text-align: justify;">Me encontré también (la pena es que fue de pasada) con Pedro Santos, crack Agile y con mis ex-alumnos de Code D&#8217;Azur, Tamara y Gerardo, que son para comérselos a besos. Ya han superado al maestro. Se iban a su cena de navidad, a Holanda. Ventajas de estar en una empresa como Dios manda. Saludé de pasada a <a href="http://www.bonillaware.com/">David Bonilla</a>, pero no pude fagocitar su tiempo, primero porque tenía cosas que hacer y segundo porque estaba rodeado de gente que lo querían <em>todo para ellos</em>.</p>
+<h2 style="text-align: justify;">La cena con BB10</h2>
+<p style="text-align: justify;">El jueves tuve una cena de lujo en la Barceloneta. Con Hernán,<a href="https://twitter.com/jcmrim"> John Murray</a> y <a href="https://twitter.com/jorgecasar">Jorge del Casar</a>, dos <em>developer evangelists</em> de RIM estuvimos hablando de muchas cosas, todas muy frikis, pero sobre todo de BB10. Cada vez me gusta más esta plataforma. Tengo que meterme a fondo y en serio y empezar a <em>parir</em> Apps con Cascades. El caso es que al lado de estos de RIM te sientes un enano mental: saben muuuucho y son «developers, developers, developers» hardcore como el resto. Nada de encorbatados. Que la imagen que yo tenía de RIM se está revelando muy equivocada. Y que tengo que leerme mucho libros y comerme muchos <em>bollicaos</em> para ponerme al nivel de estos tres.</p>
+<p style="text-align: justify;">Nos tomamos dos botellas de Albariño mientras John nos explicaba las bases de NFC. Alucinante. La copa posterior me dejó en malas condiciones para la charla del Viernes.</p>
+<h2 style="text-align: justify;">Viernes y Sábado</h2>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/12/Scumm_Bar.jpg"><img class="aligncenter  wp-image-1820" title="Scumm Bar de Attlasian. Las cosas de David Bonilla" src="/wp-content/uploads/2012/12/Scumm_Bar-1024x768.jpg" alt="Scumm Bar de Attlasian. Las cosas de David Bonilla" width="614" height="461" srcset="/wp-content/uploads/2012/12/Scumm_Bar-1024x768.jpg 1024w, /wp-content/uploads/2012/12/Scumm_Bar-300x225.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a></p>
+<p style="text-align: justify;">El Viernes apelé a mis <em>superpoderes de conferenciante y feriante</em> para que no se notara la resaca. Y creo que conseguí engañar al auditorio. Ayudado por la cafeína y un bocata de atún que compré en el stand de Attlasian (por cierto, unos cachondos estos con el nombre del bar) aguanté hasta la una. Luego nos fuimos al apartamento, comimos por el camino y me regalé una tarde en pijama trabajando con el portátil en el sofá tras una siesta de tres horas. Luego una carrerita de 7 Km para mover el barrigón y a cenar.</p>
+<p style="text-align: justify;">El Sábado acudí a dos talleres muy buenos. El de Unity, donde me enteré de qué va el motor y el de <a href="http://albertogonzalez.net/es/2012/12/12/taller-de-cocos2d-en-barcelona-developers-conference/">Cocos 2D</a>, donde aprendí sobre la versión 2 del framework, de la mano del crack <a href="http://albertogonzalez.net/">Alberto González</a>. Luego la comida en Can Eusebio (excelente) y ya de vuelta a la BcnDevCon a continuar con el café y la charla política.</p>
+<h2 style="text-align: justify;">Conclusión</h2>
+<p style="text-align: justify;">La conferencia en sí me ha gustado, pero como todas las cosas, se puede hacer mejor. La Wifi ha dado bastantes problemas y ha sido una queja constante. No disponer de badges para identificarnos era un rollo. Con unas pegatinas para poner el nombre y tu Twitter hubiera bastado. Y la insonorización del Museo era nula (aunque esto se entiende que era muy difícil de conseguir). Pero tras haber estado en las instalaciones del CCCB veo que hay otras alternativas en BCN. Otra cosa son los precios, claro. Otra sugerencia: un «muro» para que gente que busca y ofrece empleo se encuentre, dejando sus tarjetas de visita.</p>
+<p style="text-align: justify;">Ya se que es muy fácil criticar y más difícil hacer, crear y currar. Por eso propongo mejoras, para que sea una mejor conferencia el año que viene. En cualquier caso: gracias.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/13/la-bcndevcon/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

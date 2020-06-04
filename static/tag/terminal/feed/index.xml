@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Terminal &#8211; freniche.com</title>
+	<atom:link href="/tag/terminal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Borrar un AVD que se niega a morir</title>
+		<link>/2013/08/26/borrar-un-avd-que-se-niega-a-morir/</link>
+		<pubDate>Mon, 26 Aug 2013 06:31:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Terminal]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1999</guid>
+		<description><![CDATA[Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje: En este caso, he tenido claro desde el principio cual era el problema sin consultar con StackOverflow. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje:</p>
+<p><a href="/wp-content/uploads/2013/08/emulator-cant-delete.png"><img src="/wp-content/uploads/2013/08/emulator-cant-delete.png" alt="AVD no se puede borrar" width="526" height="145" class="aligncenter size-full wp-image-2000" srcset="/wp-content/uploads/2013/08/emulator-cant-delete.png 526w, /wp-content/uploads/2013/08/emulator-cant-delete-300x82.png 300w" sizes="(max-width: 526px) 100vw, 526px" /></a></p>
+<p>En este caso, he tenido claro desde el principio cual era el problema <em>sin consultar con StackOverflow</em>. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado algún fichero indicando que el emulador estaba en marcha, y por eso ahora al intentar borrarlo pensaba que seguía <em>encendido</em>.</p>
+<p>Nada que un poco de Terminal no pueda arreglar. Debemos ir, en una terminal, a la carpeta .android/avd que está dentro de nuestra carpeta $HOME. En mi caso, como mi usuario es dfreniche, la carpeta está en la ruta:</p>
+<pre><code>/Users/dfreniche/.android/avd/
+</code></pre>
+<p>Para llegar a ella, usamos a nuestro viejo amigo <code>cd</code>:</p>
+<pre><code>cd /Users/dfreniche/.android/avd
+</code></pre>
+<p>Una vez allí, veremos una carpeta por cada AVD que tengamos creado en Eclipse. Si hacemos <code>ls</code>:</p>
+<pre><code>Tesla:avd dfreniche$ ls -al
+total 24
+drwxr-xr-x   8 dfreniche  staff  272 22 ago 12:58 .
+drwxr-xr-x  17 dfreniche  staff  578 19 ago 19:41 ..
+drwxr-xr-x  12 dfreniche  staff  408 22 ago 12:58 Intel.avd
+-rw-r--r--   1 dfreniche  staff  114 22 ago 12:58 Intel.ini
+drwxr-xr-x  11 dfreniche  staff  374 20 ago 06:48 Nexus4.avd
+-rw-r--r--   1 dfreniche  staff  116 19 ago 19:32 Nexus4.ini
+drwxr-xr-x  10 dfreniche  staff  340 22 ago 11:22 Nexus4_API4.3.avd
+-rw-r--r--   1 dfreniche  staff  130 20 ago 06:47 Nexus4_API4.3.ini
+</code></pre>
+<p>Podemos ver que los terminados en .avd son carpetas (en los atributos empiezan con una <em>d</em> de directory) mientras que los .ini son ficheros normales.</p>
+<p>Si entramos en el AVD problemático (en este caso, Intel.avd) con un <code>cd Intel.avd</code> y hacemos <code>ls</code> veremos unos cuantos ficheros <em>sospechosos</em> acabados en .lock.</p>
+<pre><code>Tesla:Intel.avd dfreniche$ ls
+cache.img       hardware-qemu.ini.lock  userdata-qemu.img.lock
+cache.img.lock  sdcard.img      userdata.img
+config.ini      sdcard.img.lock
+hardware-qemu.ini   userdata-qemu.img
+</code></pre>
+<p>Con borrar estos ficheros, basta: <code>rm *.lock</code></p>
+<p>Tras esto, Eclipse nos dejará borrar tranquilamente el AVD desde su interfaz:</p>
+<div id="attachment_2001" style="width: 534px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2013/08/emulator-fixed.png"><img src="/wp-content/uploads/2013/08/emulator-fixed.png" alt="AVD arreglado para ser borrado" width="524" height="141" class="size-full wp-image-2001" srcset="/wp-content/uploads/2013/08/emulator-fixed.png 524w, /wp-content/uploads/2013/08/emulator-fixed-300x80.png 300w" sizes="(max-width: 524px) 100vw, 524px" /></a><p class="wp-caption-text">AVD arreglado para ser borrado</p></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¡Estan locos estos de SiteGround!</title>
+		<link>/2007/12/28/estan-locos-estos-de-siteground-2/</link>
+		<pubDate>Fri, 28 Dec 2007 12:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Terminal]]></category>
+
+		<guid isPermaLink="false">/2007/12/28/%c2%a1estan-locos-estos-de-siteground-2/</guid>
+		<description><![CDATA[Hace ya un tiempo comenté que me había cambiado a SiteGround, entre otras cosas, por los 500 GB que ofertaban. Ahora, totalmente gratis y sin hacer nada, me han actualizado la cuenta y ¡dispongo de 750 GB de almacenamiento online!. Si junto todos los discos duros que tengo por casa creo que no llego a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Hace ya un tiempo <a class="external-link-new-window" title="Opens external link in new window" href="noticias/noticia/?tx_ttnews%5Btt_news%5D=158&amp;tx_ttnews%5BbackPid%5D=37&amp;cHash=9b508b3331">comenté que me había cambiado</a> a SiteGround, entre otras cosas, por los 500 GB que ofertaban. Ahora, totalmente gratis y sin hacer nada, me han actualizado la cuenta y ¡dispongo de 750 GB de almacenamiento online!.</p>
+<p class="bodytext">Si junto todos los discos duros que tengo por casa creo que no llego a los 3/4 de TB que tengo ahora online. Algo tendré que hacer con tanto espacio. De momento, he estado mirando <a class="external-link-new-window" title="Opens external link in new window" href="http://blog.tarotoast.com/2006/04/02/242/" target="_blank">cómo montar una carpeta ftp como si fuera local</a> y, aunque es lento, permite manejar los ficheros de manera bastante cómoda.</p>
+<p class="bodytext">Si quieres probarlo y tienes Ubuntu es fácil:</p>
+<p class="bodytext">&#8211; te instalas curlftpfs (con Synaptic o con un apt-get install curlftpfs, como prefieras)</p>
+<p class="bodytext">&#8211; montas la carpeta mediante algo como:</p>
+<pre>curlftpfs -o user=USERNAME:PASSWORD ftp://FTPHost/ MountPoint/</pre>
+<p class="bodytext">A partir de entonces dispones del espacio ftp en /MountPont/. Yo, para que vaya rápido, estoy usando un clásico, el Midnight Commander (mc). Las cosas buenas no pasan de moda&#8230;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

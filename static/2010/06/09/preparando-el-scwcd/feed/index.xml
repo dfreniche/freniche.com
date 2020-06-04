@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Preparando el SCWCD</title>
+	<atom:link href="/2010/06/09/preparando-el-scwcd/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/06/09/preparando-el-scwcd/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: SCWCD aprobado!</title>
+		<link>/2010/06/09/preparando-el-scwcd/comment-page-1/#comment-5023</link>
+		<dc:creator><![CDATA[SCWCD aprobado!]]></dc:creator>
+		<pubDate>Fri, 25 Jun 2010 21:05:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1027#comment-5023</guid>
+		<description><![CDATA[[...] poco (más) de autobombo. Comentaba hace unos días que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] poco (más) de autobombo. Comentaba hace unos días que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/06/09/preparando-el-scwcd/comment-page-1/#comment-4778</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2010 10:01:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1027#comment-4778</guid>
+		<description><![CDATA[Pues como tantas cosas, depende. Depende de los conocimientos previos que tengas de estas tecnologías, de los libros que te tragaste previamente, de los proyectos en los que has usado estos conocimientos, de la curiosidad innata...
+En mi caso, le voy a dedicar en tiempo neto dos semanas casi completas. Pero eso porque yo lo voy a hacer del tirón, y puedo planteármelo así ahora. Las otras certificaciones las estudiaba por las noches, los fines de semana o cuando podía. Lo ideal es ponerse una fecha, comprar y leer el libro de preparación y hacer muchos tests. La dedicación variará de unos de a otros, pero espero que estas dos semanas den sus resultados.
+
+... y en Julio toca actualizar a SCJP 1.6...]]></description>
+		<content:encoded><![CDATA[<p>Pues como tantas cosas, depende. Depende de los conocimientos previos que tengas de estas tecnologías, de los libros que te tragaste previamente, de los proyectos en los que has usado estos conocimientos, de la curiosidad innata&#8230;<br />
+En mi caso, le voy a dedicar en tiempo neto dos semanas casi completas. Pero eso porque yo lo voy a hacer del tirón, y puedo planteármelo así ahora. Las otras certificaciones las estudiaba por las noches, los fines de semana o cuando podía. Lo ideal es ponerse una fecha, comprar y leer el libro de preparación y hacer muchos tests. La dedicación variará de unos de a otros, pero espero que estas dos semanas den sus resultados.</p>
+<p>&#8230; y en Julio toca actualizar a SCJP 1.6&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/06/09/preparando-el-scwcd/comment-page-1/#comment-4777</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2010 09:01:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1027#comment-4777</guid>
+		<description><![CDATA[Suerte Diego, ya contarás por aquí qué tal el examen :)
+Por curiosidad. ¿Cuánto tiempo, de media aproximada, hace falta para prepararse una cosa de estas?]]></description>
+		<content:encoded><![CDATA[<p>Suerte Diego, ya contarás por aquí qué tal el examen 🙂<br />
+Por curiosidad. ¿Cuánto tiempo, de media aproximada, hace falta para prepararse una cosa de estas?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

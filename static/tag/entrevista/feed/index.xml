@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>entrevista &#8211; freniche.com</title>
+	<atom:link href="/tag/entrevista/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Expectativas salariales</title>
+		<link>/2016/08/24/expectativas-salariales/</link>
+		<pubDate>Wed, 24 Aug 2016 14:18:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[trabajo]]></category>
+
+		<guid isPermaLink="false">/?p=2689</guid>
+		<description><![CDATA[Muy a menudo recibo ofertas de recruiters, con tal o cual puesto que buscan cubrir. Antes de seguir, un apunte. Ponerse tiquis-miquis con el paro que hay podría parecer prepotencia, pero la realidad es esta: no se me concedió en la cuna el privilegio Papal de estudiar informática y la automática prohibición al resto. Quien [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Muy a menudo recibo ofertas de <em>recruiters</em>, con tal o cual puesto que buscan cubrir. Antes de seguir, un apunte.</p>
+<p>Ponerse <em>tiquis-miquis</em> con el paro que hay podría parecer prepotencia, pero la realidad es esta: no se me concedió en la cuna el privilegio Papal de estudiar informática y la automática prohibición al resto. Quien quiera puede estudiar esta carrera. En la universidad pública, nada de Oxford ni Yale. Vamos, que si se quiere se puede. No soy hijo del Marqués de Cubas. Si hay trabajo en esto y el personal se empeña en seguirse matriculando en carreras con 100% de paro la culpa encima no va a ser mía&#8230;</p>
+<p>Los recruiters. Las ofertas. Sigamos. Siempre he pensado que cuando ofertas un puesto debes tener claro:</p>
+<ul>
+<li>qué problema tiene que resolver la persona que venga (no basta con un «estoy agobiado de trabajo y necesito alguien que me <em>eche una mano</em>«). </li>
+<li>con quién va a trabajar esa persona, en qué equipo va a estar y quien va a ser su responsable. Quién se va a encargar de ayudarle a adaptarse.</li>
+<li>que contratar a alguien cuesta. Tiempo y dinero. Y cuando lo contratas pasará un tiempo hasta que sea productivo, entendiendo por eso que aporte a la facturación neta de la empresa más de lo que te cuesta tenerlo por allí. </li>
+<li>el coste de contratar. No sólo el salario neto (que no lo puedes conocer sin saber las circunstancias particulares de la persona), ni el bruto. Además, los costes sociales, o el coste del puesto de trabajo. Un gran empresario amigo mío dijo una vez que «los trabajadores comen, cagan y mean». Desde la mesa hasta el ordenador, pasando por el coste de luz eléctrica, limpieza, etc. Tener a alguien siempre incrementa los costes. Y muchos son ocultos: línea de movil, costes de Gestoría, papel higiénico en el baño, costes de despedir a esa persona si te has equivocado, etc.</li>
+</ul>
+<p>Todo esto se aleja mucho de la retórica brillante de los libros tipo «monta tu startup como en Silicon Valley» o «Silicon Valley Spanish Style». Aquí no hay «realismo mágico» sino «neorealismo cazurro». Sin mesas de Ping-Pong. Pero es que yo a lo más que he llegado es a ser empresario en mi vida. No he alcanzado los puntos de Hype necesarios ni para llegar a <em>entrepreneur</em>. Lo de <em>Serial Entrepreneur</em> (especialista en <em>dar el pase</em>) requiere de muchos puntos más de Karma.</p>
+<p>Pues bien, de los puntos anteriores, el coste laboral para la empresa lo puedes calcular de antemano. Lo <em>debes</em> calcular de antemano. Si no, ¿qué empresario eres? Por eso me matan las ofertas de trabajo tipo:</p>
+<blockquote>
+<p>«Cárnica Incorporated te ofrece incorporarte en Cojo-Empresa Líder en su sector, pero que no te decimos el nombre para que no vayas directamente a ellos y perder la comisión, y tan buena que no es capaz de seleccionar a su propia gente porque no sabe responder a las sencillas preguntas de arriba.</p>
+<p>Ni idea de lo que harás allí, pero por sí acaso aquí va una lista de buzz-words para ver si puedes preparar un CV mentiroso que las incluya y así todos nos engañamos: nosotros por pedir la luna a precio de coste y tú porque piensas que vamos a contar contigo.</p>
+<ul>
+<li>jQuery mobile, iOS (10 Años de experiencia), Java EE, SQL, Arduino y por sí acaso saber programar la TDT. </li>
+</ul>
+<p>Ya, sabemos que hemos contactado contigo a través de LinkedIn y podríamos leernos tu perfil, pero es que nos da pereza y a fin de cuentas esto es recruiting al por mayor. Sabemos que a los mejores no los pescaremos con este tipo de correos, pero si a fin de cuentas la gente sigue usando Infojobs eso significa que el <em>batallón de los tristes</em> es amplio.</p>
+<p>Indica tus expectativas salariales «</p>
+</blockquote>
+<p>Vaya. Así qué ofreces un puesto pero no sabes lo que vas a pagar por el. O eso, o quieres «retribuir según valía del candidato». Lo que normalmente suele ser una subasta a la baja, a ver a quien encontramos más desesperado que acceda al salario más miserable. Porque sí tu salario es digno, o no lo es, pero es lo que estás dispuesto a ofertar, pues eso, lo ofertas. Pero no entras en estas tonterías.</p>
+<p>A partir de ahora voy a participar en todas estas ofertas. Expectativas salariales: 120.000€ al año, netos. Y una Gameboy advance SP.</p>
+<p>Para decir tonterías ya me basto yo solito.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Entrevista para el «Developer soportlight» de la WIPJam</title>
+		<link>/2014/05/14/entrevista-para-el-developer-soportlight-de-la-wipjam/</link>
+		<pubDate>Wed, 14 May 2014 15:40:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[WIPJam]]></category>
+
+		<guid isPermaLink="false">/?p=2182</guid>
+		<description><![CDATA[Este pasado MWC 2014 tuve la suerte de poder acudir y dar una de las charlas del nuevo formato de la WIPJam. La charla fue sobre Core Data, aunque no me dio tiempo a casi nada. Lo mejor (para mí) fue la gente y proyectos que conocí, y los días que pasé en Barcelona. En [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/">Este pasado MWC 2014 tuve la suerte de poder acudir y dar una de las charlas del nuevo formato de la WIPJam</a>. La charla fue sobre Core Data, aunque no me dio tiempo a casi nada. Lo mejor (para mí) fue la gente y proyectos que conocí, y los días que pasé en Barcelona.</p>
+<p>En el portal de la WIPJam entrevistan a desarrolladores de Apps móviles y nos ponen «bajo el foco». <a href="http://wip.org/blog/developer-spotlight-diego-frenciche/">Esta vez me ha tocado a mi</a>. Espero que os guste.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Cómo desarrollar Apps móviles en iOS y Android. Entrevista</title>
+		<link>/2012/11/12/como-desarrollar-apps-moviles-en-ios-y-android-entrevista/</link>
+		<pubDate>Mon, 12 Nov 2012 12:18:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Telar del Geek]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Daniel ha tenido a bien entrevistarme vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste. Si tenéis dudas comentad allí y aquí, que si no no os puedo responder 😀]]></description>
+				<content:encoded><![CDATA[<p>Daniel <a href="http://eltelardelgeek.com/2012/11/11/comenzando-a-desarrollar-app-con-dfreniche/">ha tenido a bien entrevistarme</a> vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste.</p>
+<p>Si tenéis dudas comentad allí y aquí, que si no no os puedo responder <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Entrevista en iPhoneA2</title>
+		<link>/2012/08/23/entrevista-en-iphonea2/</link>
+		<pubDate>Thu, 23 Aug 2012 05:21:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[iPhoneA2]]></category>
+
+		<guid isPermaLink="false">/?p=1772</guid>
+		<description><![CDATA[Pues eso, que tuvieron el detalle de entrevistarme por mail. Aquí está el resultado, en el que reflexiono sobre varias cosas. Por supuesto, todas interesantísimas, que para eso soy yo el que hablo 😉]]></description>
+				<content:encoded><![CDATA[<p>Pues eso, que tuvieron el detalle de entrevistarme por mail. <a href="http://iphonea2.com/2012/08/22/entrevista-con-diego-freniche-programador-profesional/">Aquí está el resultado</a>, en el que reflexiono sobre varias cosas.</p>
+<p>Por supuesto, todas interesantísimas, que para eso soy yo el que hablo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

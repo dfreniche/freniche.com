@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Acelera el emulador de Android</title>
+	<atom:link href="/2013/01/23/acelera-el-emulador-de-android/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/01/23/acelera-el-emulador-de-android/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-254296</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 24 Nov 2013 18:49:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-254296</guid>
+		<description><![CDATA[Hola
+
+¿Has activado el soporte de VT-x en la BIOS de tu máquina? ¿Tiene una CPU Intel (con AMD no te va a funcionar, este es un producto Intel)?
+
+Te recomiendo que leas la instalación para Windows:
+http://software.intel.com/en-us/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-windows
+
+Los 64 bits no sólo no son un problema, sino que el problema van a empezar a serlo los 32 por antiguos.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola</p>
+<p>¿Has activado el soporte de VT-x en la BIOS de tu máquina? ¿Tiene una CPU Intel (con AMD no te va a funcionar, este es un producto Intel)?</p>
+<p>Te recomiendo que leas la instalación para Windows:<br />
+<a href="http://software.intel.com/en-us/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-windows" rel="nofollow">http://software.intel.com/en-us/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-windows</a></p>
+<p>Los 64 bits no sólo no son un problema, sino que el problema van a empezar a serlo los 32 por antiguos.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dudoso</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-252048</link>
+		<dc:creator><![CDATA[dudoso]]></dc:creator>
+		<pubDate>Thu, 21 Nov 2013 20:51:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-252048</guid>
+		<description><![CDATA[Buenas, muchas gracias por el tuto, 
+pero no consigo que me funcionen las máquinas :-(
+¿puede ser porque estoy en windows 64 bits?
+
+me sale en la consola:
+&quot;HAX is not working and emulator runs in emulation mode&quot;]]></description>
+		<content:encoded><![CDATA[<p>Buenas, muchas gracias por el tuto,<br />
+pero no consigo que me funcionen las máquinas 🙁<br />
+¿puede ser porque estoy en windows 64 bits?</p>
+<p>me sale en la consola:<br />
+«HAX is not working and emulator runs in emulation mode»</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-162653</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 16 Jul 2013 10:42:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-162653</guid>
+		<description><![CDATA[Hola Anónimo :-D
+
+Si te has bajado el instalador del HAXM probablemente no te deja instalarlo porque diga que tu equipo NO es compatible con la tecnología VT-x. ¿Es un modelo antiguo? Desde un Core2Duo en adelante te debería valer.
+
+¿Estás instalando en Windows, Linux, Mac...?
+
+Saludos!]]></description>
+		<content:encoded><![CDATA[<p>Hola Anónimo 😀</p>
+<p>Si te has bajado el instalador del HAXM probablemente no te deja instalarlo porque diga que tu equipo NO es compatible con la tecnología VT-x. ¿Es un modelo antiguo? Desde un Core2Duo en adelante te debería valer.</p>
+<p>¿Estás instalando en Windows, Linux, Mac&#8230;?</p>
+<p>Saludos!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Anonimo</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-160556</link>
+		<dc:creator><![CDATA[Anonimo]]></dc:creator>
+		<pubDate>Tue, 09 Jul 2013 17:00:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-160556</guid>
+		<description><![CDATA[Ya tengo el instalador de IntelHaxm. Pero no lo puedo instalar, porque me sale:
+
+Este equipo es compatible con la tecnología de virtualización de Intel (VT-x) Haxm no se puede instalar. Por favor, consulte la documentación de Intel Haxm para más información.
+
+¿Como puedo solucionar este problema?
+
+Responder]]></description>
+		<content:encoded><![CDATA[<p>Ya tengo el instalador de IntelHaxm. Pero no lo puedo instalar, porque me sale:</p>
+<p>Este equipo es compatible con la tecnología de virtualización de Intel (VT-x) Haxm no se puede instalar. Por favor, consulte la documentación de Intel Haxm para más información.</p>
+<p>¿Como puedo solucionar este problema?</p>
+<p>Responder</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-141020</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 15 Apr 2013 09:05:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-141020</guid>
+		<description><![CDATA[@Jairo:
+El emulador de Intel funciona bien porque Intel fabrica:
+- teléfonos Android con Intel Atom
+- tu ordenador con procesador Intel
+de modo que puede hacer un &quot;puente&quot; entre el Atom y tu Intel Core (si soporta VT-X)
+
+Si tienes AMD debes buscar otra forma de optimizar el Emulador. Con esta, desde luego, no vas a poder: Intel no va a trabajar para AMD :-D]]></description>
+		<content:encoded><![CDATA[<p>@Jairo:<br />
+El emulador de Intel funciona bien porque Intel fabrica:<br />
+&#8211; teléfonos Android con Intel Atom<br />
+&#8211; tu ordenador con procesador Intel<br />
+de modo que puede hacer un «puente» entre el Atom y tu Intel Core (si soporta VT-X)</p>
+<p>Si tienes AMD debes buscar otra forma de optimizar el Emulador. Con esta, desde luego, no vas a poder: Intel no va a trabajar para AMD 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jairo Sánchez</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-140940</link>
+		<dc:creator><![CDATA[Jairo Sánchez]]></dc:creator>
+		<pubDate>Sun, 14 Apr 2013 21:38:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-140940</guid>
+		<description><![CDATA[y para AMD?
+
+Gracias de antemano.]]></description>
+		<content:encoded><![CDATA[<p>y para AMD?</p>
+<p>Gracias de antemano.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: ely</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-127107</link>
+		<dc:creator><![CDATA[ely]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2013 09:54:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-127107</guid>
+		<description><![CDATA[1º)  el de intel es el que no me funciona
+2º)  Este creo que es el mejor ;-)
+3º)  lo probare
+
+thanks]]></description>
+		<content:encoded><![CDATA[<p>1º)  el de intel es el que no me funciona<br />
+2º)  Este creo que es el mejor 😉<br />
+3º)  lo probare</p>
+<p>thanks</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-127106</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2013 09:43:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-127106</guid>
+		<description><![CDATA[Siendo pesado... Tienes 3 opciones para acelerar el emulador:
+- usar el de Intel. No te sirve si tienes AMD o usas las APIs de Google
+- usar un dispositivo físico (trampa: no usamos el emulador)
+- usar VMware + emulador, como cuentan &lt;a href=&quot;http://www.spkaa.com/how-to-android-4-0-ice-cream-sandwich-using-vmware-player&quot; title=&quot;aquí&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;. Disclaimer: no lo he probado
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Siendo pesado&#8230; Tienes 3 opciones para acelerar el emulador:<br />
+&#8211; usar el de Intel. No te sirve si tienes AMD o usas las APIs de Google<br />
+&#8211; usar un dispositivo físico (trampa: no usamos el emulador)<br />
+&#8211; usar VMware + emulador, como cuentan <a href="http://www.spkaa.com/how-to-android-4-0-ice-cream-sandwich-using-vmware-player" title="aquí" rel="nofollow"></a>. Disclaimer: no lo he probado</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: ely</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-127091</link>
+		<dc:creator><![CDATA[ely]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2013 08:08:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-127091</guid>
+		<description><![CDATA[NO !! , el tema es lo de ganar velocidad !! por desarrollar no hay problema y pense que alguin me podria ayudar. Si lo logro solucionar os informo !!]]></description>
+		<content:encoded><![CDATA[<p>NO !! , el tema es lo de ganar velocidad !! por desarrollar no hay problema y pense que alguin me podria ayudar. Si lo logro solucionar os informo !!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-127088</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 13 Feb 2013 06:44:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-127088</guid>
+		<description><![CDATA[Y ¿necesitas el emulador ABI? Lo digo porque si estás desarrollando en Java es indiferente usar uno u otro, ¿no?. El emulador sólo influye si desarrollas con el NDK o para ganar velocidad.]]></description>
+		<content:encoded><![CDATA[<p>Y ¿necesitas el emulador ABI? Lo digo porque si estás desarrollando en Java es indiferente usar uno u otro, ¿no?. El emulador sólo influye si desarrollas con el NDK o para ganar velocidad.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: ely</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-126920</link>
+		<dc:creator><![CDATA[ely]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2013 16:23:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-126920</guid>
+		<description><![CDATA[Los he desinstalado y vuelto a instalar y nada, solo falla en el emulador de ABI x83 el del arm va bien , y solo en la version 10 :-( No encuentro nada por ningun sitio !!!]]></description>
+		<content:encoded><![CDATA[<p>Los he desinstalado y vuelto a instalar y nada, solo falla en el emulador de ABI x83 el del arm va bien , y solo en la version 10 🙁 No encuentro nada por ningun sitio !!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-126919</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2013 16:17:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-126919</guid>
+		<description><![CDATA[No, no me ha pasado nunca. Tiene pinta de que no se han bajado bien los paquetes del SDK, o que te falta alguno. Consejo: borrarlos (desde el SDK manager) y volver a bajarlos.
+
+Al menos, es lo que cuentan en &lt;a href=&quot;http://stackoverflow.com/questions/7848386/android-cant-create-new-v4-0-avd&quot; rel=&quot;nofollow&quot;&gt;StackOverflow&lt;/a&gt;]]></description>
+		<content:encoded><![CDATA[<p>No, no me ha pasado nunca. Tiene pinta de que no se han bajado bien los paquetes del SDK, o que te falta alguno. Consejo: borrarlos (desde el SDK manager) y volver a bajarlos.</p>
+<p>Al menos, es lo que cuentan en <a href="http://stackoverflow.com/questions/7848386/android-cant-create-new-v4-0-avd" rel="nofollow">StackOverflow</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: ely</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-126915</link>
+		<dc:creator><![CDATA[ely]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2013 15:57:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-126915</guid>
+		<description><![CDATA[Hola , tengo un problemilla creando un dispositivo en la version 10 ,Android 2.3.3 me falla dice &quot;Unable to find a &#039;userdata.img&#039; file for ABI x86 to copy into the AVD folder&quot; , en la version 17 va bien.
+
+¿ os pasa lo mismo ?]]></description>
+		<content:encoded><![CDATA[<p>Hola , tengo un problemilla creando un dispositivo en la version 10 ,Android 2.3.3 me falla dice «Unable to find a &#8216;userdata.img&#8217; file for ABI x86 to copy into the AVD folder» , en la version 17 va bien.</p>
+<p>¿ os pasa lo mismo ?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-122682</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 25 Jan 2013 20:33:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-122682</guid>
+		<description><![CDATA[@Paco: muchas gracias por el enlace, servirá de ayuda a los que intenten poner en marcha el emulador.]]></description>
+		<content:encoded><![CDATA[<p>@Paco: muchas gracias por el enlace, servirá de ayuda a los que intenten poner en marcha el emulador.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Paco</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/comment-page-1/#comment-122622</link>
+		<dc:creator><![CDATA[Paco]]></dc:creator>
+		<pubDate>Fri, 25 Jan 2013 15:47:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1856#comment-122622</guid>
+		<description><![CDATA[Fantástico post Diego! 
+
+Te paso la URL de Intel para comprobar si tenemos VT en nuestros Chips: http://ark.intel.com/Products/VirtualizationTechnology
+
+Y un truco adicional para MacUsers: desde SystemPreference-&#062;Spotligth-&#062;Pestaña adicional-&#062; excluir el directorio donde se instaló Eclipse y el SDK para ganar ciclos de CPU y que no se indexen archivos temporales del emulador.]]></description>
+		<content:encoded><![CDATA[<p>Fantástico post Diego! </p>
+<p>Te paso la URL de Intel para comprobar si tenemos VT en nuestros Chips: <a href="http://ark.intel.com/Products/VirtualizationTechnology" rel="nofollow">http://ark.intel.com/Products/VirtualizationTechnology</a></p>
+<p>Y un truco adicional para MacUsers: desde SystemPreference-&gt;Spotligth-&gt;Pestaña adicional-&gt; excluir el directorio donde se instaló Eclipse y el SDK para ganar ciclos de CPU y que no se indexen archivos temporales del emulador.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

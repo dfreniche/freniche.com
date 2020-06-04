@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Enlaces simbólicos (junctions) en Win2K, XP y posteriores</title>
+	<atom:link href="/articulos/enlaces-simbolicos-junctions-en-win2k-xp-y-posteriores/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Cuholvke</title>
+		<link>/articulos/enlaces-simbolicos-junctions-en-win2k-xp-y-posteriores/comment-page-1/#comment-417787</link>
+		<dc:creator><![CDATA[Cuholvke]]></dc:creator>
+		<pubDate>Fri, 18 Jul 2014 17:16:21 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=856#comment-417787</guid>
+		<description><![CDATA[No se si es porque los nombres tienen espacios o el Junction es una versión distinta al utilizado en esta nota, en mi caso necesitaba crear un enlace a Program Files (Windows XP lenguaje inglés) llamado Archivos de Programa y no me salía como lo indica la nota, pero logré hacerlo así:
+
+Inicio &#062; Ejecutar &#062;&#062; cmd
+C:\&#062;junction &quot;C:\Archivos de Programa&quot; &quot;C:\Program Files&quot;
+
+Esto creó el enlace llamado &quot;Archivos de Programa&quot; dirigido a la carpeta &quot;Program Files&quot;]]></description>
+		<content:encoded><![CDATA[<p>No se si es porque los nombres tienen espacios o el Junction es una versión distinta al utilizado en esta nota, en mi caso necesitaba crear un enlace a Program Files (Windows XP lenguaje inglés) llamado Archivos de Programa y no me salía como lo indica la nota, pero logré hacerlo así:</p>
+<p>Inicio &gt; Ejecutar &gt;&gt; cmd<br />
+C:\&gt;junction «C:\Archivos de Programa» «C:\Program Files»</p>
+<p>Esto creó el enlace llamado «Archivos de Programa» dirigido a la carpeta «Program Files»</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

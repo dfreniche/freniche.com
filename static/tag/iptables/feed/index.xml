@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iptables &#8211; freniche.com</title>
+	<atom:link href="/tag/iptables/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>iptables, ipchains y Netfilter ? Diferencias ?</title>
+		<link>/2005/10/20/iptables-ipchains-y-netfilter-diferencias/</link>
+		<pubDate>Thu, 20 Oct 2005 07:59:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[iptables]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/iptables-ipchains-y-netfilter-diferencias/</guid>
+		<description><![CDATA[Extraído de la página oficial de Shorewall firewall Netfilter &#8211; the packet filter facility built into the 2.4 and later Linux kernels. ipchains &#8211; the packet filter facility built into the 2.2 Linux kernels. Also the name of the utility program used to configure and control that facility. Netfilter can be used in ipchains compatibility [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Extraído de la página oficial de Shorewall firewall</p>
+<blockquote><p>Netfilter &#8211; the packet filter facility built into the 2.4 and later Linux kernels.<br />
+ipchains &#8211; the packet filter facility built into the 2.2 Linux kernels. Also the name of the utility program used to configure and control that facility. Netfilter can be used in ipchains compatibility mode.<br />
+iptables &#8211; the utility program used to configure and control Netfilter. The term &#8216;iptables&#8217; is often used to refer to the combination of iptables+Netfilter (with Netfilter not in ipchains compatibility mode).</p></blockquote>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>RIM &#8211; freniche.com</title>
+	<atom:link href="/tag/rim/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>BlackBerry Jam en Barcelona</title>
+		<link>/2012/06/02/blackberry-jam-en-barcelona/</link>
+		<comments>/2012/06/02/blackberry-jam-en-barcelona/#comments</comments>
+		<pubDate>Sat, 02 Jun 2012 18:08:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Blackberry]]></category>
+		<category><![CDATA[Developers]]></category>
+		<category><![CDATA[RIM]]></category>
+
+		<guid isPermaLink="false">/?p=1719</guid>
+		<description><![CDATA[El pasado Jueves 31 de Mayo estuve en la BlackBerry Jam que se celebró en Barcelona. Un evento en el que RIM está mostrando a los desarrolladores de todo el mundo su nueva plataforma, BlackBerry 10. Me invitaron a ir y no pude evitar aparecer. Encima, como bonus a todo un día viendo esta nueva [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">El pasado Jueves 31 de Mayo estuve en la <a href="http://www.blackberryjamworldtour.com/">BlackBerry Jam</a> que se celebró en Barcelona. Un evento en el que RIM está mostrando a los desarrolladores de todo el mundo su nueva plataforma, BlackBerry 10. Me invitaron a ir y no pude evitar aparecer. Encima, como bonus a todo un día viendo esta nueva tecnología, a los desarrolladores que nos registrábamos nos entregaban un dispositivo para hacer pruebas, un prototipo. El BlackBerry 10 Alpha Device.</p>
+<p style="text-align: justify;">Entre lo poco que dormí la noche anterior, el viaje ida y vuelta desde Sevilla a Barcelona, la alergia y alimentarme casi exclusivamente de azúcar y cafeína (dieta sana) la experiencia fue extenuante, pero muy, muy interesante. En el MWC acudí a las presentaciones del App Planet, que estuvieron bien. Pero aquí pude ver y probar código. Y preguntar cosas. Y eso sube el nivel de adicción de la sesión muchos puntos (al menos para mí).</p>
+<p style="text-align: justify;">Estuve con un montón de gente muy interesante. A algunos, como a <a href="http://blogs.lavozdegalicia.es/serantes/">Serantes</a>, ya lo conocía del <a href="/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/">EBE</a>. Con <a href="http://twitter.com/#!/rodriguezhernan">Hernán</a>, de Aecomo he trabajado y da gusto tener un <em>jefe</em> que sabe tanto de programar como tú. Pude conocer fugazmente a <a href="http://a1200.wordpress.com/">NeuroFlip</a>. La rabia es que, con el atontamiento que tenía encima no pude hablar con él de lo que de verdad me interesa: los Amiga :-).  Y otro montón de gente como @rallat, @jorgecasar, @ClaraCorretge, Pilar Bernat&#8230;</p>
+<div id="attachment_1728" style="width: 728px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/06/WP_000090.jpg"><img class="size-full wp-image-1728" title="Reunión de cracks" src="/wp-content/uploads/2012/06/WP_000090.jpg" alt="Reunión de cracks" width="718" height="538" srcset="/wp-content/uploads/2012/06/WP_000090.jpg 718w, /wp-content/uploads/2012/06/WP_000090-300x224.jpg 300w" sizes="(max-width: 718px) 100vw, 718px" /></a><p class="wp-caption-text">Reunión de cracks</p></div>
+<p style="text-align: justify;">El día comenzó con las típicas charlas para mostrarte lo comprometida que está RIM, y cómo se está volcando con los desarrolladores. Y debo decir que me ha sorprendido mucho su cambio de actitud. <strong>Cualquiera que me halla escuchado en los últimos años sabe que no tengo demasiado cariño por BB7</strong>. Incluso me mofé de la PlayBook antes de que saliera, llamándola en el <a href="/2010/10/08/video-de-mi-intervencion-en-etic/">evento eTic</a> «PlaySmoke». No me gusta que se hable de algo que no se puede tocar, y compararlo con un producto que se puede comprar en una tienda me parece ridículo. Toda idea que no se ha llevado a cabo tiene una posibilidad no finita de no hacerse nunca. Y luego estaba la actitud de RIM hacia los desarrolladores: o eras una gran empresa, o eras escoria. Ningún cariño hacia los desarrolladores indies e independientes. ¿Quieres un certificado para subir Apps a su tienda? ¡Paga 20 $ por él!. ¿Lo pierdes?. Pagas otros 20 $. Y el SDK ni te cuento&#8230; Muchas barreras puestas a los programadores. La guinda es que encima sólo se podía programar en Java&#8230; No demasiado excitante, vamos.</p>
+<p style="text-align: justify;">Pero el <strong>2007 lo cambió todo</strong>. Y ahora <strong>lo importante de una plataforma</strong> no es su hardware, ni la marca. Lo importante <strong>es lo que las personas pueden hacer con ella</strong>. Y para ello, se usan Apps. Luego es algo central en la estrategia de cualquier plataforma el tener a cuantos más desarrolladores de tu parte, en tu ecosistema. Cierto es que todas quieren a los Rovio (Angry Birds) de turno, a los desarrolladores RockStar. Pero también hace falta crear comunidad, y tener a los menos importantes y torpes como yo, porque hacemos preguntas en StackOverflow, o subimos código a GitHub, o usamos la plataforma porque nos gusta y hablamos de ella. Todas las gotas cuentan para llenar un vaso.</p>
+<p style="text-align: justify;">Y debo decir que <strong>RIM se ha dado cuenta</strong>. Y ha creado una plataforma, usando <a href="http://www.qnx.com/">QNX</a> como base, que tiene una pinta increíble, tanto para el usuario como para el programador. Para el usuario, espero que BB10 sea la primera plataforma móvil mainstream que lleve los gestos de webOS o Meego a las masas. La multitarea real de QNX funciona muy bien, y el cambio de tareas mediante gestos (copiado de webOS) hace que sea muy sencillo e intuitivo. Y es algo que engancha, además de ser algo distinto: al final acabas haciendo gestos en el iPad. Al que esté aburrido de iOS o Android y de ver las filas de iconos típicas en la pantalla, BB10 le va a encantar. Luego está el teclado predictivo, que te permite rellenar las palabras según escribes con un swipe del dedo. O las notificaciones, implementadas de manera muy visual y sencilla de usar.</p>
+<p style="text-align: justify;">Y para los programadores, BB10 es una maravilla. <strong>Es la plataforma para el desarrollador inquieto</strong>. Puedes hacer aplicaciones nativas con C/C++. Si quieres construir los interfaces de usuario de manera más rápida, puedes usar Qt y Qml/Cascades, una implementación propia de RIM de Qt. O puedes desarrollar en HTML5 usando WebWorks, el framework HTML5 de BB10. Yo, por ejemplo, he portado las Apps que hice para webOS de manera muy rápida y sencilla. O si vienes de Android puedes empaquetar tu App para BB10 sin tocar una línea de código. Lo que va a permitir que muchas Apps de Android aparezcan en BB10. RIM se ha volcado y ha puesto los diferentes SDKs al alcance de la mano. Ya no te cobra por nada. Y hay montones de ejemplos de código fuente en su repositorio de GitHub.</p>
+<p style="text-align: justify;">Pero todo no puede ser de color de rosa, por desgracia. <strong>Como programador y geek, la plataforma me atrae</strong> y me tiene genuinamente excitado ante las cosas que se pueden hacer. Eso de volver a C++ para el desarrollo nativo, y poder escribir JavaScript dentro de los ficheros Qml que describen las vistas de los programas me encanta. Pero <strong>aprender cualquier plataforma supone una inversión</strong>. En tiempo, esfuerzo y, lo más importante, en ilusión. El año pasado empecé con webOS y, gracias a mi aura gafe, la plataforma se hundió, por mucho que <a href="http://enyojs.com/">Enyo</a> siga avanzando como proyecto Software Libre. Ahora RIM dispone de la tecnología adecuada, y la usabilidad correcta. Y puede disponer de aplicaciones para su ecosistema, ya que BB10 va a correr casi cualquier cosa. La pregunta es ¿demasiado tarde?. Los primeros dispositivos BB10 aparecerán en el mercado probablemente para la campaña navideña. Y se van a encontrar con nuevos Android Nexus, creados por Google y Motorola mobile, ahora que ya autorizaron la compra. Y con Windows Phone 8 y las nuevas tabletas con Windows 8. Y, claro, el nuevo iPhone con iOS 6&#8230; Va a ser muy duro. Muy, muy complicado. Por eso mismo me gusta. Por lo mismo que sigo usando un Amiga 1200 o intento programar para MorphOS.</p>
+<p style="text-align: justify;"><em>Porque me gustan las causas perdidas.</em></p>
+<p>Aquí o consigues triunfar, o te hundes. Sin riesgo no hay gloria. Steve tampoco lo tenía fácil en el 97 cuando volvió a Apple, ¿no?. Nadie daba un duro por Apple. Así que yo voy a usar las plataformas que más me atraigan. Porque esto es cuestión de conocimiento y vocación. Y porque soy gilipollas.</p>
+<h2> Actualización 4 de Junio</h2>
+<p>Otras reacciones a la BBJam que he leído son las de <a href="http://blogs.lavozdegalicia.es/serantes/?p=9581">Serantes</a> y <a href="http://zonamovilidad.es/news-mainmenu-2/1-latest/3946-blackberry-muestra-su-revolucionario-so-bb10-que-saldra-antes-de-fin-de-ano.html">Pilar Bernat</a>.  Y en el lado más técnico, las de <a href="http://www.android.es/instalar-aplicaciones-barapk-en-blackberry-10-dev-alpha.html#axzz1wobP4aj3">Android.es</a> y <a href="http://jorgedelcasar.com/blackberry-10-un-smartphone-que-dara-que-hablar/">Jorge del Casar</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/06/02/blackberry-jam-en-barcelona/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

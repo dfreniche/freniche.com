@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Escribir &#8211; freniche.com</title>
+	<atom:link href="/tag/escribir/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi nuevo ordenador es un iPad</title>
+		<link>/2018/12/29/mi-nuevo-ordenador-es-un-ipad/</link>
+		<pubDate>Sat, 29 Dec 2018 13:11:07 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[iPad]]></category>
+
+		<guid isPermaLink="false">/?p=2794</guid>
+		<description><![CDATA[Escribo esto en mi «poor man´s iPad Pro». Es un iPad normal, modelo 2018, color Space Gray. Eso sí, con 128 GB de almacenamiento interno, porque la nube no siempre está disponible. Prefiero controlar mi almacenamiento. Cosas de abuelete. Es un «iPad Pro para pobres» porque me he comprado el Apple Pencil (1ª generación, que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Escribo esto en mi «poor man´s iPad Pro». Es un iPad normal, modelo 2018, color Space Gray. Eso sí, con 128 GB de almacenamiento interno, porque <em>la nube</em> no siempre está disponible. Prefiero controlar mi almacenamiento. Cosas de abuelete. Es un «iPad Pro para pobres» porque me he comprado el Apple Pencil (1ª generación, que es el que soporta este iPad), y un teclado/funda de Logitech. Y, la verdad, el <em>combo</em> me está encantando.</p>
+<p><img src="/wp-content/uploads/img_0502.jpg" class="aligncenter size-medium wp-image-2799" width="4032" height="3024" alt="Mi nuevo iPad" srcset="/wp-content/uploads/img_0502.jpg 4032w, /wp-content/uploads/img_0502-300x225.jpg 300w, /wp-content/uploads/img_0502-768x576.jpg 768w, /wp-content/uploads/img_0502-1024x768.jpg 1024w, /wp-content/uploads/img_0502-920x690.jpg 920w" sizes="(max-width: 4032px) 100vw, 4032px" /></p>
+<p>En casa siempre hemos tenido un iPad. Desde el iPad 1 (que era <em>oficialmente</em> de mi mujer). Mi primer iPad fue un iPad 3, el primero con pantalla retina. Lo compré para leer libros y comics, entre otras cosas. Pero la verdad es que mi relación con el iPad siempre ha sido de indiferencia/aburrimiento total. No se por qué, pero no era capaz de encajarlo en mi flujo de trabajo habitual. Como muchos informáticos, veía la potencia del hardware del iPad desaprovechada por su software. ¿De qué me sirve tener un procesador y GPU tan potente, o esos resultados en benchmarks, si luego no puedo ejecutar un simple emulador o un entorno de desarrollo en el iPad? Así que siempre volvía al portátil, que para eso tiene teclado y <em>es un ordenador de verdad</em>. El iPad, para que los niños jueguen al Minecraft.</p>
+<p>A todo esto siempre han ayudado dos cosas. La primera, que soy un abuelete y prefiero un ordenador en el que pueda <em>trastear</em> por encima de todas las cosas. La segunda, que cuando antes trabajaba usaba mi portátil, por supuesto siempre sincronizado con mi Hackintosh y mi iMac usando <a href="https://syncthing.net/" target="_blank" rel="noopener">Syncthing</a>, Al tener en el ordenador las cosas de trabajo y mis cosas personales <em>mezcladas</em>, era sencillo echarle un ojo al correo o mirar esto o aquello en un momento. La frontera entre trabajo y usar mi ordenador para cosas personales era complicada. Siempre estaba <em>usando el ordenador</em>. Para algo.</p>
+<p>Pero todo esto ha cambiado en 2018. El iMac está fuera de servicio actualmente (tarjeta gráfica <em>kaput</em>). Empecé a trabajar en Teamwork.com (la mejor compañía del mundo, en la que estoy súper contento, por cierto, <a href="https://careers.teamwork.com/jobs/" target="_blank" rel="noopener">buscamos gente</a>) y me dieron un MBP para el trabajo. Decidí tener completamente separadas las cosas de trabajo y las personales. No instalar en el portátil de trabajo nada que no fuese <em>de trabajo</em>. Por aquello de separar mentalmente los contextos, algo importante si, como yo, trabajas desde casa. Ahora, abrir el portátil de Teamwork significa «cerebro, vamos a trabajar». cerrarlo significa «esto se acabó, ahora tus cosas». Pero la realidad es que <em>mis cosas</em> no han funcionado este año.</p>
+<p>Sólo el hecho de tener que ir a por el otro portátil, que a veces esté sin batería, subir una mochila, bajar otra&#8230; Me daba una pereza infinita. Y cuando me sentaba frente al Hackintosh lo único que me apetecía era arrancarlo en Windows 10 y jugar. Así que ya no tengo Hackintosh. Resultado: he dejado de escribir en el blog, he reducido mi presencia en redes sociales, no voy a meetups y tengo ahora mismo 178 correos sin leer, mis tareas personales, antes organizadas en Things son ahora un desastre&#8230; Incluso importar fotos, organizar mi música se ha convertido en un problema. Todo, porque hay que <em>ir a por el ordenador</em>. El ordenador me impide hacer cosas.</p>
+<p>Así que me he comprado este iPad. Le tenía ganas al Pencil. Siempre me ha gustado dibujar, pero volvemos a lo mismo: ir a por los lápices, libreta, etc. me suponía una barrera. Y también me frenaba mucho una estupidez mental muy mía: dibujar mal y ¡oh, no!, no poder corregirlo, emborronar el papel&#8230; Esto es una tontería, porque lo que yo busco dibujando (como cuando escribo) no es tanto el resultado, sino el placer que me reporta tener el cerebro haciendo sólo una cosa durante un rato. Siempre te gusta dibujar algo bonito, pero lo importante es la práctica, no el resultado (al menos para mí). Obligar al cerebro a hacer sólo una cosa y que el tiempo vuele es el descanso definitivo. Se ve que esto se me había olvidado. El caso es que no dibujaba.</p>
+<p>Con el teclado puedo escribir sin limitaciones. Me gustan los teclados físicos, qué le vamos a hacer. Y con este iPad puedo abrirlo y en segundos estar escribiendo en mi WordPress. Fricción cero. Espero que eso se traduzca en volver a escribir.</p>
+<p>Así que ahora mismo mi ordenador principal para mis cosas privadas es este iPad. Quiero forzarme a que así lo sea. Aunque tenga problemas y me encuentre con ciertas estrecheces al usarlo. Limitaciones casi siempre debidas al software, bien por la calidad de las apps o por las limitaciones que Apple nos impone. Ya, problemas del primer mundo. Pero para bien o para mal son <em>mis</em> problemas.</p>
+<p>Quiero ver si, aún con estas limitaciones, la inmediatez de uso, la menor fricción y la disponibilidad que me da el iPad me ayudan a hacer cosas. Y me quite la manía de <em>tengo que hacer cosas en un ordenador de verdad</em>. De momento, la sensación de liberación es enorme: puedo hacer casi todo lo que hacía con el portátil, excepto programar (ya se, puedo usar Playgrounds o Pythonista, pero para programar sí o sí quiero una consola a mano). Y para programar me estoy planteando una serie de herramientas y workflows que darán para unos cuantos posts. Y puedo hacer otras muchas cosas que en el ordenador no podía hacer o no me apetecía hacer.</p>
+<p>Quién me lo iba a decir&#8230;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mi máquina de escribir minimalista</title>
+		<link>/2013/09/08/mi-maquina-de-escribir-minimalista/</link>
+		<comments>/2013/09/08/mi-maquina-de-escribir-minimalista/#comments</comments>
+		<pubDate>Sun, 08 Sep 2013 09:04:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[filosofía]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[zen]]></category>
+
+		<guid isPermaLink="false">/?p=2011</guid>
+		<description><![CDATA[O gafapasta, que parece que viene a ser lo mismo. Pero no lo es. El gafapastismo es un término que ha venido a sustituir al snob de toda la vida. Es el listo que adopta una estética determinada y habla de unos temas determinados, casi siempre como dándole asco el mundo. Se es gafa pasta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<img src="/wp-content/uploads/2013/09/iPad-keyboard1.jpg" alt="Mi iPad con teclado Logitech" class="size-full wp-image-2052" srcset="/wp-content/uploads/2013/09/iPad-keyboard1.jpg 1024w, /wp-content/uploads/2013/09/iPad-keyboard1-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-keyboard1-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>O <a href="http://www.frikipedia.es/friki/Gafapasta"><em>gafapasta</em></a>, que parece que viene a ser lo mismo. Pero no lo es. El <em>gafapastismo</em> es un término que ha venido a sustituir al <em>snob</em> de toda la vida. Es el <em>listo</em> que adopta una estética determinada y habla de unos temas determinados, casi siempre <em>como dándole asco el mundo</em>. Se es gafa pasta por querer destacar y, como las animadoras de los institutos americanos, por querer ser más popular.</p>
+<p>El movimiento minimalista (o la moda, como prefieras) tiene raíces filosóficas mucho más profundas, basadas en el budismo y, muchas veces, en el budismo Zen. Dado que el sufrimiento lo provoca el deseo, la forma más rápida y efectiva de ser feliz es no sufrir, atacando a la causa (no al síntoma). Si somos infelices, podemos comer de más, o sufrir estrés. Podemos ponernos a dieta, o ir a que nos den un masaje, pero es más efectivo <em>entender</em> qué nos está pasando, por qué no estamos a gusto ahora mismo con nuestra vida y darnos cuenta, muchas veces, que sólo es porque deseamos cosas que no tenemos. Y que no nos hacen falta. Ser más alto, más guapo, tener el último coche o teléfono. Tener cosas no va a tapar el vacío que muchas veces sentimos dentro. Lo único que puede taparlo es conocerlo, comprender que se está creando por el deseo de una fantasía que nosotros imaginamos (que seremos más felices con ese nuevo pantalón o ligaremos más con el desodorante). Y entonces eliminar el deseo y ser felices <em>con lo que ya tenemos</em>.</p>
+<p>Como comenta <a href="http://zenhabits.net/">Leo Babauta</a> (unos de los <em>Gurús</em> en esto del minimalismo) la clave no está tampoco en no tener nada y dar la espalda al mundo. La clave está en tener aquellas cosas que realmente nos sirven, tienen un propósito en nuestra vida y nos hacen felices. Si quieres leer más sobre este tema, te recomiendo <a href="http://zenhabits.net/little-book/">este e-book de Leo Babauta</a> (que encima es gratis)</p>
+<p>El caso es que mi iPad 3 ha encontrado su ocupación definitiva. Aunque lo uso para muchas otras cosas, como ver vídeos en su pantalla retina, vídeos de Youtube, o leer cómics, es como <em>máquina de escribir</em> como realmente lo aprecio. Me encanta sentarme ante una pantalla en blanco, con un cursor parpadeante, y empezar a escribir. Apago las notificaciones y sólo estamos la página en blanco y yo.</p>
+<p>Bueno, e <a href="http://www.iawriter.com/mac/">iA Writer</a>, la App que utilizo para escribir y que <em>adoro</em>. Además de guardar los documentos en local y en Dropbox, de tener una tipografía clara y limpia, de funcionar perfectamente con mi teclado/funda Logitech tiene algo especial: el modo foco. En este modo el texto ocupa toda la pantalla y se resaltan sólo tres líneas, quedando el resto en un gris claro. Esto me permite enfocarme en lo que estoy escribiendo, con cero distracciones.</p>
+<img src="/wp-content/uploads/2013/09/iPad-focus.jpg" alt="iAWriter - modo foco"  class="size-full wp-image-2057" srcset="/wp-content/uploads/2013/09/iPad-focus.jpg 1024w, /wp-content/uploads/2013/09/iPad-focus-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-focus-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Mucho está teniendo que ver con esta <em>adoración</em> la comodidad de llevar un teclado físico junto con el iPad a todas partes. Gracias a un aviso de <a href="http://emilcar.es/">Emilcar</a> por Twitter este verano me compré en Macníficos una funda de aluminio Zagg con teclado Logitech, por un precio de risa, 25 Eur. Sí, es un modelo antiguo, y es cierto que ahora los hay más sencillos, más bonitos, <em>que te harán más feliz</em>. Pero volvemos a lo del minimalismo: este teclado es muy bonito y funciona perfectamente. No necesito comprar el último que ha salido por 80 € si puedo tener este por un tercio del precio. Este ya me hace feliz. Antes usaba uno de mis teclados BT Apple para escribir con el iPad. Pero eran dos cosas <em>sueltas</em> en la mochila. Ahora, una vez cerrado, el iPad queda protegido y forma un conjunto muy sólido y compacto con el teclado. Lo que le añade peso, claro (estamos hablando de otra capa de aluminio), pero algo malo había de tener. El teclado es fantástico para escribir, tiene atajos para copiar, cortar y pegar, para <em>despertar</em> el iPad y se empareja instantáneamente. Te puedes mover por el texto con los cursores. Hasta funcionan los atajos de Safari. Además, dispone de unos imanes para que el iPad se suspenda y despierte al separarlo del teclado.</p>
+<img src="/wp-content/uploads/2013/09/iPad-closed.jpg" alt="iPad cerrado en su funda" class="size-full wp-image-2059" srcset="/wp-content/uploads/2013/09/iPad-closed.jpg 1024w, /wp-content/uploads/2013/09/iPad-closed-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-closed-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Esta es mi máquina de escribir <em>portable</em>. Cierto es que un iPad más un teclado cuestan <em>mucho más</em> que una máquina de escribir. Cierto es también que pesan y ocupan mucho menos y me sirven para otra infinidad de cosas. Todos los posts del blog se escriben aquí. Y el resto de cosas que voy escribiendo (desde emails largos hasta material para mis cursos) poco a poco van acabando aquí.</p>
+<p>Una pantalla en blanco y un cursor parpadeando. Me recuerda a mi AMSTRAD CPC después de hacer un CLS. Hay veces que hace falta poco para ser feliz.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/08/mi-maquina-de-escribir-minimalista/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Especial MacWorld Mountain Lion</title>
+		<link>/2013/02/21/especial-macworld-mountain-lion/</link>
+		<comments>/2013/02/21/especial-macworld-mountain-lion/#comments</comments>
+		<pubDate>Thu, 21 Feb 2013 06:55:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[MacWorld]]></category>
+
+		<guid isPermaLink="false">/?p=1883</guid>
+		<description><![CDATA[No es ninguna novedad y, probablemente ya no quede ninguno en los quioscos. Pero sentía que tenía una deuda conmigo mismo y quería hablar acerca de lo último que escribí para la ahora difunta MacWorld España. Concretamente, este número especial sobre cómo usar OS X Mountain Lion que se publicó en Enero. Mi legendario efecto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/02/MacWorld-practico-mountain-lion.jpg"><img src="/wp-content/uploads/2013/02/MacWorld-practico-mountain-lion.jpg" alt="MacWorld Práctico Especial Mountain Lion" title="MacWorld Práctico Especial Mountain Lion" width="500"  class="aligncenter size-full wp-image-1889" /></a></p>
+<p>No es ninguna novedad y, probablemente ya no quede ninguno en los quioscos. Pero sentía que tenía una deuda conmigo mismo y quería hablar acerca de lo último que escribí para la ahora difunta MacWorld España. Concretamente, este número especial sobre cómo usar OS X Mountain Lion que se publicó en Enero. Mi legendario <strong>efecto gafe</strong>, capaz de acabar con webOS o poner en serio aprieto a Nokia, ha sido capaz de acabar con la revista para la que a veces escribía como colaborador.</p>
+<p>El caso es que estuve dedicado a escribir este <strong>tocho</strong> durante Agosto de 2012, esperando que si me enfocaba y esforzaba lo suficiente finalmente lo acabaría para primeros de Septiembre. A punto de llegar Septiembre vi que no lo tenía listo del todo, pero sí que había reunido un tocho considerable y que no me quedaría tanto: había cumplido con el plan de trabajo. Una vez enviado el borrador, me dieron la mala noticia de que el enfoque no era el esperado: se necesitaba un tutorial paso a paso, y no una review y opinión sobre el nuevo sistema operativo de Apple. <strong>Patinazo en toda regla</strong>.</p>
+<p>Durante Septiembre y Octubre estuve muchas horas, <em>muchas</em>, dedicado a ir avanzando el <strong>libro</strong>. Finalmente lo entregué. <em>Parir</em> cualquier cosa escrita siempre es más duro de lo que uno espera. Pero cuando hablamos de un documento de este tamaño (más de 140 páginas de revista escrita casi sin publicidad, lo que haría un librito de unas 200 páginas o más) cualquier previsión que hago siempre se me cae al suelo. Y debería tener experiencia: en 2011 estuve escribiendo unos manuales para cursos de teleformación, he escritos <a href="http://dialnet.unirioja.es/servlet/busquedadoc?t=Diego%20Freniche&amp;db=1&amp;td=ARTREV">algunos artículos</a> para MacWorld y PCWorld y <a href="/2005/12/08/pcworld-practico-n-6-exprime-linux/">hace mucho se publicó un especial sobre Linux</a> (era mi época <em>Linuxera</em>) que tecleé enterito.</p>
+<p>Con una suerte digna de mejor causa, en Enero me encontré al pasar por un kiosko, en Madrid, con la revista. Iba a impartir una de las jornadas del curso a medida avanzado de iOS que tuve el gusto de dar a la gente de Redsys junto con Mobile Business School. Cuando tuve la revista en las manos, no la reconocía. Claro, yo sólo la había visto en la pantalla de mi iMac dentro de Pages, pero no había visto la versión final. Supe que era la mía por el artículo sobre accesibilidad que Jonathan Chacón tuvo la deferencia de escribirme para que apareciera en el especial (¡gracias, Jonathan!). Y ahora, aquí la tengo.</p>
+<p>Es un recordatorio de varias cosas, y con el <em>ansia de automachaque</em> que define a todo buen informático, para empezar todas las que me recuerda son malas:</p>
+<ul>
+<li>la próxima vez no uses Pages para escribir un libro. Si tienes una licencia de Scrivener, aprende a usarlo. Es la aplicación definitiva para escritores. Ahora me he dado cuenta, tarde, pero mejor que nunca. </li>
+<li>si te encargan escribir sobre algo, pregunta antes de empezar por el enfoque. Define los requisitos, como con un programa. Si al cliente no le gusta lo que has hecho, vas a tener que empezar de nuevo y no va a ser divertido. </li>
+<li>se pesimista con las estimaciones, y después de eso, aplica un factor de corrección de +50% del tiempo que has estimado. Y aún así <em>ni te acercarás</em>. Escribir lleva mucho tiempo, y por mucho que invoque mis capacidades <strong>super heroicas</strong>, luego no se avanza al ritmo que se quiere, sino al que se puede. </li>
+</ul>
+<p>Pero también he aprendido mucho sobre mí mismo y sobre las herramientas que he usado. Vamos, que algunas cosas he hecho bien:</p>
+<ul>
+<li>ya que tenía que escribir sobre OS X Mountain Lion, he aprendido mucho sobre el OS. Ahora hay un montón de cosas más que se hacer. </li>
+<li>he mantenido un ritmo constante de escritura. He sido bastante disciplinado y todos los días escribía un par de horas. Ni yo me lo creo. </li>
+<li>me he agobiado, pero dentro de un límite. Cuando me dieron la mala noticia, en lugar de cabrearme y gritar saqué mi libreta y me hice un mapa mental para <strong>comerme</strong> ese marrón. Y convertí el problema amorfo en una lista de tareas que podía ir resolviendo.</li>
+<li>tengo a mi lado un recordatorio en papel, algo físico, de que soy capaz de escribir un librito si me pongo a ello. No me he dado el tiempo para disfrutar de esto, quizás es ahora la primera vez que estoy reflexionando sobre ello. </li>
+<li>he aprendido a usar algo más de Pixelmator, para editar las imagenes de las capturas. Mola.</li>
+</ul>
+<p>Así que ya está. El libro está en mi mesa. El trabajo terminado. Pero MacWorld ha cerrado, mucha gente ha perdido su trabajo y probablemente nadie lea este número, al que he dedicado tantas horas. Al no estar en edición digital (en Zinio, por ejemplo) poca gente lo va a leer. Y eso me deja un poco triste.</p>
+<p>Ahora tendré que <strong>matar el gusanillo de escribir</strong> de alguna manera. <strong>Probablemente escribiendo un libro para enseñar a desarrollar Apps para iOS</strong>. ¿Alguien interesado? Acepto ideas y sugerencias. Luego haré lo que me de la gana, pero prometo tenerlas en cuenta <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/21/especial-macworld-mountain-lion/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Escribir en lugar de leer</title>
+		<link>/2013/02/17/escribir-en-lugar-de-leer/</link>
+		<comments>/2013/02/17/escribir-en-lugar-de-leer/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 20:12:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Autoayuda del todo a 100]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[Fortune Cookies]]></category>
+
+		<guid isPermaLink="false">/?p=1879</guid>
+		<description><![CDATA[Leer el correo. Los feeds. Consultar Twitter. Mirar mi grupo de Amiga and friends en Facebook. Ver un vídeo en Youtube. Consumir. Leer. No reflexionar. Sin pretenderlo, a lo largo de los años he terminado escribiendo bastante. No sólo en el blog, ni en el correo, que eso lo hacemos todos. En revistas, como PCWorld [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Leer el correo. Los feeds. Consultar Twitter. Mirar mi grupo de <a href="http://www.amigaandfriends.org/">Amiga and friends</a> en Facebook. Ver un vídeo en Youtube. Consumir. Leer. No reflexionar.</p>
+<p>Sin pretenderlo, a lo largo de los años he terminado escribiendo bastante. No sólo en el blog, ni en el correo, que eso lo hacemos todos. En revistas, como PCWorld o MacWorld (un minuto de silencio por esta última). O preparando material para algún curso. El caso es que es algo que me gusta, además de tener que hacerlo para ganarme la vida.</p>
+<p>Cuando era adolescente, además de leer mucho escribía algunas cosas. Y es algo que me gustaría volver a hacer. Por eso, me voy a proponer lo siguiente: escribir antes de leer. Escribir el mismo tiempo que dedico a consumir información. Aprovechar los huecos del día escribiendo algo, lo que sea, para fomentar el hábito. Hacer eso, en lugar de dejar a mi mente vagabundear por Twitter y Youtube. Y si lo que sale es basura, borrarlo, pero si es aceptable publicarlo. Creo que dedicamos mucho tiempo a <strong>anestesiarnos</strong> el cerebro haciendo lo sencillo. Leer en lugar de escribir, escuchar en vez de pensar, dudar en lugar de tomar decisiones. Así que voy a centrarme y escribir más.</p>
+<p>Dejad de leerme y haced lo mismo.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/17/escribir-en-lugar-de-leer/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>El pertinaz iPad (o iPhone) killer</title>
+		<link>/2011/04/20/el-pertinaz-ipad-o-iphone-killer/</link>
+		<comments>/2011/04/20/el-pertinaz-ipad-o-iphone-killer/#comments</comments>
+		<pubDate>Wed, 20 Apr 2011 09:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[Tablets]]></category>
+
+		<guid isPermaLink="false">/?p=1489</guid>
+		<description><![CDATA[pertinaz. (Del lat. pertinax, -acis). adj. Obstinado, terco o muy tenaz en su dictamen o resolución. adj. Muy duradero o persistente. Enfermedad pertinaz. Sea el iPad, el iPhone o lo que sea de Apple, últimamente la blogosfera tecnológica me parece la sección de necrológicas del periódico. Sólo les falta empezar con aquello de «La familia [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote><p><a href="http://buscon.rae.es/draeI/SrvltConsulta?LEMA=pertinaz">pertinaz</a>.</p>
+<p>(Del lat. pertinax, -acis).</p>
+<ol>
+<li>adj. Obstinado, terco o muy tenaz en su dictamen o resolución.</li>
+<li>adj. Muy duradero o persistente. Enfermedad pertinaz.</li>
+</ol>
+</blockquote>
+<p style="text-align: justify;">Sea el iPad, el iPhone o lo que sea de Apple, últimamente la blogosfera tecnológica me parece la sección de necrológicas del periódico. Sólo les falta empezar con aquello de «La familia y amigos de Steve piden un ruego por el alma de esta pobre tablet&#8230;» cada vez que otro fabricante anuncia que <em>va a publicar las especificaciones futuras de algo que a lo mejor a finales de año empiezan a fabricar</em>.</p>
+<p style="text-align: justify;">Porque es así de esperpéntico. Imaginemos esto en otra industria, por ejemplo la del automóvil. ¿Alguien se imagina cómo caerían las acciones de Renault si se descolgaran diciendo que van a fabricar un coche que va a ser el Ferrari-killer, sin mostrarlo?. Porque al menos en este sector, en las ferias, te enseñan un prototipo, en un stand dando vueltas y rodeado de niñas monas que no se qué hacen ahí, porque ni te explican cómo funciona el coche ni nada. Es decir, no se atreven a hacer anuncios de humo y esperan a tener algo más o menos tangible. No acabado, prototipos, pero algo.</p>
+<p style="text-align: justify;">En el sector del software / hardware, como es <em>virtual</em> (o eso se piensa más de uno al que la corbata le constriñe el riego del tronco cerebral) se puede anunciar cualquier parida y salir ante la prensa con un PowerPoint, dos papelitos y un PNG pasado por PhotoShop y listo. Y esto no sería demasiado grave, si no estuviera ahí el coro de palmeros blogueros. Porque empresas moribundas como Nokia o RIP (digoooo, RIM) pueden hacer todas las tonterías que quieran. Pero al que escribe su opinión desde su independencia se le debe exigir un mínimo criterio.</p>
+<p style="text-align: justify;">Pero claro, esto de los blogs se ha convertido en un negocio (para algunos, yo soy demasiado torpe para ni siquiera pagar el alojamiento de esto, que a fin de cuentas es mi página personal). Y ves comparativas del iPad2 y el Motorola Xoom junto con los modelos que los fabricantes dicen que van a sacar, que sí que sí, que verdad de la buena, para el Verano, o luego, o ya veremos, que te haremos una actualización OTA, y si no me tocas lo que rima&#8230; Entiendo que los grandes blogs viven de las visitas a sus sitios y de la publicidad, y que si pones dos semanas seguidas: «Últimas noticias en la guerra de las tablets: no hay guerra, el iPad sigue machacando a sus no-competidores, porque ni se ven» la gente deja de acudir porque total, para que me cuentes lo mismo semana tras semana&#8230;</p>
+<p style="text-align: justify;">Y nada crea más expectación que una buena pelea, aunque en realidad esa pelea no exista, porque de momento es uno pegando y los demás recibiendo. Y se inventan que si han visto el iPhone blanco, el de colores, te hablan de los rumores de lo que traerá, comparan cosas con precio y duración de la batería con papeles, etc. Pues eso no son «noticias tecnológicas». Es basura. Es el equivalente a los programas de chismorreo de los famosos, llevado a las máquinas. Son el Hola del periodismo tecnológico. Ni aprendes, ni ves nada tangible. Sólo noticias sacadas apresuradamente repitiendo como papagayos lo que las relaciones públicas de los fabricantes les pasan en las ferias (donde por cierto les pagan los viajes, comidas, etc.) o traduciendo rumores del Inglés al Español.</p>
+<p style="text-align: justify;">¿Qué me gustaría a mí, que me creo tan listo para criticar al resto? Dos cosas:</p>
+<ul>
+<li>menos prisa por escribir chorradas y más profundidad en los análisis. No hay que ser el primero en la fiesta, sino el mejor, que decía el tito Steve.</li>
+<li>una competencia seria y creíble al iPad. La competencia nos hará más fuertes, es lo que siempre digo. Hará un mejor iPad para los que queramos usarlo y mejores productos para los que no. La situación actual de monopolio de facto de Apple no es buena para nadie, ni siquiera para Apple, que aunque gane pasta a camiones se acaba relajando y, por ejemplo, nos mantiene el sistema de notificaciones de iOS, que está claramente diseñado por un <em>retard</em>.</li>
+</ul>
+<pre>&lt;/rant&gt;</pre>
+<pre>&lt;feed-the-troll-in-the-comments-section&gt;</pre>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/20/el-pertinaz-ipad-o-iphone-killer/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SCJP &#8211; freniche.com</title>
+	<atom:link href="/tag/scjp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>SCWCD aprobado!</title>
+		<link>/2010/06/25/scwcd-aprobado/</link>
+		<comments>/2010/06/25/scwcd-aprobado/#comments</comments>
+		<pubDate>Fri, 25 Jun 2010 21:05:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+		<category><![CDATA[certificaciones]]></category>
+		<category><![CDATA[SCWCD]]></category>
+
+		<guid isPermaLink="false">/?p=1050</guid>
+		<description><![CDATA[Un poco (más) de autobombo. Comentaba hace unos días que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. Hoy, tras un par de semanas intensas y más sufrimiento del que esperaba, lo he aprobado con un 79%. Un poco raspado, ya que el aprobado está en el 70%, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Un poco (más) de autobombo. <a href="/2010/06/09/preparando-el-scwcd/">Comentaba hace unos días</a> que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. Hoy, tras un par de semanas intensas y más sufrimiento del que esperaba, lo he aprobado con un 79%. Un poco raspado, ya que el aprobado está en el 70%, pero&#8230; está aprobado, ¿no?</p>
+<p style="text-align: justify;">Esta certificación se une al Sun Certified Java Programmer 1.5 y Sun Certified Business Component Developer 1.3 que ya tenía. Y, si todo va bien, a finales de Julio me presentaré al SCJP 1.6, para así tener estas cuatro certificaciones y poder cobrar mis horas a precio de <em>Gurú</em> :-). No, ahora en serio, voy a intentar aplicar estas certificaciones en algo que quiero preparar en los próximos meses. Permanezcan atentos a sus receptores&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/06/25/scwcd-aprobado/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Ya ha pasado el mes de descanso mental</title>
+		<link>/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/</link>
+		<comments>/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/#comments</comments>
+		<pubDate>Sun, 01 Mar 2009 15:57:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+
+		<guid isPermaLink="false">/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/</guid>
+		<description><![CDATA[Cuando aprobé el SCBCD, el pasado Enero, terminé con el cerebro como si tuviera a Bob Esponja en lugar de meninges. Decidí darme un mes para recuperar la temperatura de funcionamiento normal de mi cabeza. Ese mes ha pasado, y hoy voy a empezar con el SCWCD. Otra sopa de letras. Esta es la certificación [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Cuando <a href="/2009/02/05/scbcd-aprobado-tambien/trackback/">aprobé el SCBCD</a>, el pasado Enero, terminé con el cerebro como si tuviera a <a href="http://es.wikipedia.org/wiki/Enfermedad_de_Creutzfeldt-Jakob">Bob Esponja</a> en lugar de meninges. Decidí darme un mes para recuperar la temperatura de funcionamiento normal de mi cabeza. Ese mes ha pasado, y hoy voy a empezar con el SCWCD. Otra sopa de letras. Esta es la certificación de Java EE sobre Servlets y JSP, y alguna tecnología web más.</p>
+<p align="justify">No tengo ni idea de cuándo me voy a presentar. Esta vez quiero dedicar un mes a leerme el libro y, cuando lo tenga visto, hacer exámenes de prueba tranquilamente. Y luego presentarme.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>SCBCD aprobado, también</title>
+		<link>/2009/02/05/scbcd-aprobado-tambien/</link>
+		<comments>/2009/02/05/scbcd-aprobado-tambien/#comments</comments>
+		<pubDate>Thu, 05 Feb 2009 13:41:24 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+		<category><![CDATA[certificaciones]]></category>
+
+		<guid isPermaLink="false">/2009/02/05/scbcd-aprobado-tambien/</guid>
+		<description><![CDATA[Ya comenté en Diciembre que había aprobado el SCJP (Certificación de Sun como Programador Java, v1.5). Pues bien, hace una semana aprobé la SCBCD, la certificación de desarrollador de componentes de negocio, v1.3. ¿Bueno, y qué es ésto?. Una manera de demostrar que medio empiezo a entender qué es un Enterprise Java Bean (EJB), que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ya comenté en Diciembre que <a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/trackback/">había aprobado el SCJP</a> (Certificación de Sun como Programador Java, v1.5). Pues bien, hace una semana aprobé la SCBCD, la certificación de desarrollador de componentes de negocio, v1.3.</p>
+<p>¿Bueno, y qué es ésto?. Una manera de demostrar que medio empiezo a entender qué es un Enterprise Java Bean (EJB), que es, explicado muy llanamente, un componente (un conjunto de clases java, archivos de configuración XML y otras muchas cositas y reglas) que se comprime en formato ZIP y que permite representar datos, tratar mensajes o bien gestionar los procesos de una web. Supongo que los puristas se estarán removiendo en su silla por esta explicación, pero es que no quiero extenderme ni largar un rollo sobre EJBs.</p>
+<p>Este año, 2009, me quiero dedicar a «coleccionar» certificaciones. Me explico. Durante unos años he sido profesor errante de diversas materias. Desde Java básico a gestión de proyectos. Y he tenido que leer un par de libros. Creo que ahora es tiempo de recoger y plasmar en <em>titulitos</em> del fabricante lo que se supone que medio controlo.</p>
+<div id="attachment_434" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/02/libros1.jpg"><img class="size-full wp-image-434" title="libros" src="/wp-content/uploads/2009/02/libros1.jpg" alt="Algunos de los libros frikis que poseo" width="800" height="531" srcset="/wp-content/uploads/2009/02/libros1.jpg 800w, /wp-content/uploads/2009/02/libros1-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Algunos de los libros frikis que poseo</p></div>
+<p>La siguiente certificación va a ser el Desarrollador de Componentes Web (SCWCD). Probablemente después venga el SCJD y a lo mejor alguna certificación Linux, como la LPI-1 (la sencillita).</p>
+<p>Pero antes, me voy a dar un mes de reposo mental, que falta me hace, mientras espero el suspenso en la certificación de ITIL Service Manager <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/05/scbcd-aprobado-tambien/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+		<item>
+		<title>SCJP 1.5 aprobado con un pírrico 70%, pero aprobado al fin</title>
+		<link>/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/</link>
+		<comments>/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/#comments</comments>
+		<pubDate>Mon, 22 Dec 2008 19:25:21 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+		<category><![CDATA[certificaciones]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/</guid>
+		<description><![CDATA[Probablemente los SCJPs entre el público piensen «pues vaya nota», «tampoco es para sacar pecho publicándola», etc. Y tienen razón. Para aprobar el SCJP es necesario sacar al menos un 59%, y con un 70% uno está más que aprobado. Con lo que una buena nota sería del 80% para arriba. Pero considerando mi situación [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Probablemente los SCJPs entre el público piensen «pues vaya nota», «tampoco es para sacar pecho publicándola», etc. Y tienen razón. Para aprobar el SCJP es necesario sacar al menos un 59%, y con un 70% uno está más que aprobado. Con lo que una buena nota sería del 80% para arriba. Pero considerando mi situación actual:</p>
+<ul>
+<li>con dos niños de menos de 3 años el mayor. Vamos, que no duermo mucho.</li>
+<li>viviendo a 120 Km del lugar de trabajo (3 h. de desplazamientos diarios, para que luego digan que la juventud no queremos trabajar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )</li>
+<li>con unos años ya, ¡que la costumbre de estudiar se pierde!</li>
+<li>con el nuevo rol que desempeño en Isotrol de Service Manager, que me exige un 120% de dedicación.</li>
+</ul>
+<p>estoy feliz de haber <em>cumplido</em>, como me exigía a mi mismo <a href="/2008/01/02/preparando-el-scjp-2/trackback/">en éste post</a>.</p>
+<p>Y al final lo que cuenta es, al final, tenerlo o no. Y ya lo tengo. Algo más tarde de lo que comentaba <a href="/2008/06/04/fecha-para-el-scjp/trackback/">en un post pasado</a>, pero al final lo que bien acaba&#8230;</p>
+<p>Para prepararlo, he seguido todo lo que comentaba <a href="/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/trackback/">en éste post</a>, pero además he añadido los test de preparación de <a href="http://www.enthuware.com/">Enthuware</a>, tests que recomiendo encarecidamente (no me llevo comisión) ya que imitan a la perfección el entorno que después te encuentras en el examen. Y el coste es de risa, comparado con lo que te ayudan a estudiar.</p>
+<p>Durante la certificación he generado mucho, pero que mucho código fuente de ejemplo. No estaría mal subirlo por aquí cuando tenga un rato.</p>
+<p>Y ahora, a preparar el SCBCD, Sun Certified Business Component Developer, el de los EJBs&#8230; y el Service Manager de ITIL&#8230; a la vez&#8230; y en Navidades&#8230; si es que&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Fecha para el SCJP</title>
+		<link>/2008/06/04/fecha-para-el-scjp/</link>
+		<comments>/2008/06/04/fecha-para-el-scjp/#comments</comments>
+		<pubDate>Wed, 04 Jun 2008 18:33:34 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[SCJP]]></category>
+
+		<guid isPermaLink="false">/2008/06/04/fecha-para-el-scjp/</guid>
+		<description><![CDATA[Ya comenté en entradas anteriores que quería sacarme el SCJP, y con qué armas estaba afrontando el lance. Pero el tiempo pasa, y no hay examen a la vista. Por eso, hoy me he comprometido con un compañero a presentarnos ambos el 1 de Septiembre. Con una fecha límite todo es más sencillo. &#60; p [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Ya comenté en entradas anteriores que quería sacarme el <a href="/2008/01/02/preparando-el-scjp-2/">SCJP</a>, y <a href="/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/">con qué armas estaba afrontando el lance</a>. Pero el tiempo pasa, y no hay examen a la vista. Por eso, hoy me he comprometido con un compañero a presentarnos ambos el 1 de Septiembre. Con una fecha límite todo es más sencillo.</p>
+<p>&lt;</p>
+<p>p align=»justify»>Ahora hay que mantener la <em>machada</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/04/fecha-para-el-scjp/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Herramientas que estoy usando para conseguir el SCJP</title>
+		<link>/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/</link>
+		<comments>/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/#comments</comments>
+		<pubDate>Sun, 20 Jan 2008 18:54:17 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/?p=13</guid>
+		<description><![CDATA[Se podría pensar que para superar el SCJP, que a fin de cuentas no es más que un examen, bastaría con disponer de papel, lápiz, neuronas y cafeína en abundancia. Sin más misterios, lo más importante es estudiar, con todo lo que conlleva: entender, comprender, aprehender, memorizar, practicar&#8230;Pero lo cierto es que estoy usando algunas [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span class="Apple-style-span" style="color: #444444; font-family: 'Lucida Sans Unicode'; font-size: 10px; line-height: normal"></span></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em" align="justify">Se podría pensar que para superar el SCJP, que a fin de cuentas no es más que un examen, bastaría con disponer de papel, lápiz, neuronas y cafeína en abundancia. Sin más misterios, lo más importante es estudiar, con todo lo que conlleva: entender, comprender, aprehender, memorizar, practicar&#8230;<br style="margin: 0px; padding: 0px" />Pero lo cierto es que estoy usando algunas otras<em style="margin: 0px; padding: 0px"> herramientas</em>, bien en la forma de libros, o de programas, que me están ayudando a conseguir alguno de los anteriores objetivos.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><strong style="margin: 0px; padding: 0px">Libros<br style="margin: 0px; padding: 0px" /></strong><br style="margin: 0px; padding: 0px" />&#8211; en primer lugar me estoy leyendo los libros oficiales de Sun, correspondientes a los cursos SL-110: Fundamentals of the Java Programming Language, y SL-275 El lenguaje de programación Java. Estos libros, que en apariencia son muy sencillos y hasta inocentes, hacen hincapié en temas muy sensibles para la certificación. Por ejemplo, se deja caer que l<a href="http://java.sun.com/j2se/1.5.0/docs/api/java/lang/String.html" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">os Strings en Java son inmutables</a>. Esta afirmación encierra mucho<em style="margin: 0px; padding: 0px"> dolor</em> si no se entiende, ya que el funcionamiento de los literales String y de la clase String es fundamental, tanto para programar con Java como para superar el SCJP.<br style="margin: 0px; padding: 0px" />&#8211; tras estos libros voy a pasar a leerme el libro de Kathy Sierra y Bert Bates, <a href="http://www.amazon.com/Certified-Programmer-310-055-Certification-Guides/dp/0072253606/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1200846605&amp;sr=8-1" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">SCJP Sun Certified Programmer for Java 5 Study Guide</a>. De momento lo he hojeado y tiene muy buena pinta, pero nada más.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">&#8211; hoy he realizado la reserva de <a href="http://www.amazon.com/Certified-Programmer-Practice-310-055-Certification/dp/0072260882/ref=pd_sim_b_title_2" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">SCJP Sun Certified Programmer for Java 5 Practice Exams</a>, para hacer exámenes por un tubo una vez acabemos con la teoría.<br style="margin: 0px; padding: 0px" /></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><strong style="margin: 0px; padding: 0px">Un grupo de estudio</strong></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">En <a href="https://www.isotrol.com/" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">Isotrol</a> hay actualmente varias personas preparándose para obtener el SCJP. Pocas cosas motivan más a la hora de estudiar que hacerlo en grupo. Al compartir experiencias, uno pone el foco en algo que a los demás les ha pasado desapercibido, otro ha descubierto una web que merece la pena, un tercero dispone de unos apuntes o ejemplos geniales&#8230; La idea es disponer de una lista de correo, una página en la Wiki de Isotrol y tener reuniones periódicas para hablar de Java.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><strong style="margin: 0px; padding: 0px">Programas</strong></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">Por supuesto. Además del JDK y el vi, algo más vendría bién.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">En primer lugar, para tomar apuntes, <a href="http://freemind.sourceforge.net/wiki/index.php/Main_Page" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">FreeMind</a> es ideal. Una vez se acostumbra uno de nuevo a hacer esquemas, no puedes pasar sin él. Algunos ejemplos de los mapas, exportados a swf están en: <a href="http://www.freniche.com/noticias/noticia/que-me-interesa/java/scjp/apuntes/" title="Opens internal link in current window" class="internal-link" style="margin: 0px; padding: 0px; color: #3366cc">apuntes SCJP</a><br style="margin: 0px; padding: 0px" />Por otro lado, el entorno Eclipse, para mi el único entorno para programar en Java (aunque NetBeans tampoco está mal)</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">Aunque no exactamente un programa (a fin de cuentas es un servicio), los Blocks de Notas de Google me ayudan a no olvidar enlaces interesantes para posterior lectura. Aquí tienes un enlace a mi <a href="http://www.google.com/notebook/public/05755056901245864311/BDSdwQwoQ7Puu2vEi?hl=es" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">block de notas de SCJP, oficialmente declarado zona de desastre.</a></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">Moodle. Además de ser una plataforma de e-learning, Moodle permite generar exámenes con preguntas aleatorias. Perfecto para ir apuntando cosas y luego repasarlas de forma divertida. Pronto dispondré de un Moodle operativo en freniche.com, con preguntas del SCJP. Por supuesto, será libre de usar, como el resto de la web.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><strong style="margin: 0px; padding: 0px">Mi iPaq HW6915</strong></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><a href="http://www.freniche.com/noticias/noticia/que-me-interesa/hp-ipaq-hw6915/" title="Opens internal link in current window" class="internal-link" style="margin: 0px; padding: 0px; color: #3366cc">Esta es mi gran baza</a> para aprovechar el tiempo en el tren, en la espera de los desayunos, en cualquier sitio. Su capacidad de leer el correo, documentos en formato HTML / PDF / DOC y poder navegar por Internet le hacen el compañero ideal para estudiar arañando minutos al día.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

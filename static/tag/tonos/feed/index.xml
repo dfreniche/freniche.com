@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tonos &#8211; freniche.com</title>
+	<atom:link href="/tag/tonos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Audiko: tonos gratis para el móvil, y el iPhone</title>
+		<link>/2009/01/04/audiko-tonos-gratis-para-el-movil-y-el-iphone/</link>
+		<pubDate>Sun, 04 Jan 2009 14:48:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[tonos]]></category>
+
+		<guid isPermaLink="false">/2009/01/04/audiko-tonos-gratis-para-el-movil-y-el-iphone/</guid>
+		<description><![CDATA[Cada vez me sorprenden mas los servicios que hay disponibles por Internet. Aunque debería de estar ya curado de espanto, no es así. Siempre hay algo que te sorprende. He aprovechado estos días para buscar una solución a la teórica limitación del iPhone para cambiar los tonos de llamada (ringtones). Ya sabes, poder poner alguna [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #0000ee; text-decoration: underline;"><img src="/wp-content/uploads/2009/01/tonos-itunes.png" alt="iTunes con tonos para pasar al iPhone" hspace="10" align="right" /></span></p>
+<p style="text-align: justify">Cada vez me sorprenden mas los servicios que hay disponibles por Internet. Aunque debería de estar ya curado de espanto, no es así. Siempre hay algo que te sorprende. He aprovechado estos días para buscar una solución a la teórica limitación del iPhone para cambiar los tonos de llamada (ringtones). Ya sabes, poder poner alguna música hortera, pero que a tí te hace gracia, cuando te llama tu jefe, tu suegra, tu mujer&#8230; <a href="http://news.cnet.com/8301-10784_3-9736272-7.html">Las quejas venían de que se pueden comprar ringtones en iTunes</a>, pero no crear los tuyos propios, y además iTunes no es gratis.</p>
+<p style="text-align: justify">Un poco de «Googling around» me enseñó varias maneras. Desde instalar una aplicación dedicada para Windows (aaargh!, vía sin retorno), hasta <a href="http://theappleblog.com/2008/08/07/free-custom-iphone-ringtones-using-only-itunes/">crear los tonos directamente en iTunes</a> con mi MacBook Pro. Pero el más rápido, e independiente de la plataforma es usar <a title="Ringtones para descargar" href="http://audiko.net/">Audiko</a>.</p>
+<p style="text-align: justify"><img src="/wp-content/uploads/2009/01/audiko.jpg" alt="Logo Audiko" /></p>
+<p style="text-align: justify">Audiko es una web desde la que se puede buscar directamente, ya sea por nombre de canción o por artista, localizar, escuchar y, si te gusta, descargar un tono de llamada con calidad mp3. Además, se pueden bajar en tres formatos:</p>
+<ul>
+<li>mp3, para los móviles / pdas que soportan este formato (como los Nokia que están por los cajones de mi casa, o mi iPaq HW6915)</li>
+<li>formato iPhone: lo que andaba buscando</li>
+<li>formato para los móviles antiguos. Éste no lo he probado, pero supongo que será una especie de síntesis como los antiguos ficheros MIDI.</li>
+</ul>
+<p>Una vez descargado el tono, basta con pulsarlo (doble click) para que se lance iTunes y podamos escucharlo. Aparece en iTunes un icono de Tonos que antes no existía :-). Y ya se pueden pasar al iPhone.</p>
+<p style="text-align: justify">Una vez tenemos los tonos en el iPhone, en cada contacto podemos asignarle el tono que nos apetezca. Yo me he bajado los imprescindibles para cualquier Friki que se precie, como se puede apreciar en la imagen.</p>
+<p><img src="/wp-content/uploads/2009/01/tonos-iphone.png" alt="tonos-iphone.png" align="middle" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

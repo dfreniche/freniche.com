@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dhcp &#8211; freniche.com</title>
+	<atom:link href="/tag/dhcp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>¿Cómo paso de dhcp a ip fija?</title>
+		<link>/2005/10/20/como-paso-de-dhcp-a-ip-fija/</link>
+		<pubDate>Thu, 20 Oct 2005 10:53:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[dhcp]]></category>
+
+		<guid isPermaLink="false">/2005/10/20/%c2%bfcomo-paso-de-dhcp-a-ip-fija/</guid>
+		<description><![CDATA[Puede ser que en nuestro sistema tengamos configurado por defecto una ip automática (con dhcp). El cliente dhcp es dhclient. Para confirmar que tenemos el direccionamiento automático activo, podemos ver con ifconfig cómo están configurados los diferentes interfaces de red. # ifconfig Otra forma es mirar el fichero /etc/network/interfaces que almacena la configuración de los [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Puede ser que en nuestro sistema tengamos configurado por defecto una ip automática (con dhcp). El cliente dhcp es dhclient. Para confirmar que tenemos el direccionamiento automático activo, podemos ver con ifconfig cómo están configurados los diferentes interfaces de red.</p>
+<pre># ifconfig</pre>
+<p align="justify">Otra forma es mirar el fichero /etc/network/interfaces que almacena la configuración de los diferentes interfaces de red del sistema. Lo lee ifup, de modo que ifup -a inicia todos nuestros interf. Un ejemplo de fichero interfaces es:</p>
+<pre>auto lo
+iface lo inet loopback
+autoeth0
+iface eth0 inet dhcp</pre>
+<p align="justify">que establece configuración automática del interfaz de loopback y del eth0. El direcc. automático está activo porque aparece dhcp al final. (más info con man interfaces)</p>
+<p align="justify">Para cambiar a direcc. estático debemos cambiar el fichero interfaces y, para establecer la IP 10.1.1.69 con máscara de red 255.255.255.0, deberá quedar:</p>
+<pre>auto lo
+iface lo inet loopback
+autoeth0
+iface eth0 inet static
+address 10.1.1.69
+netmask 255.255.255.0</pre>
+<p>TRUCO:</p>
+<p align="justify">modificar el fichero interfaces una y otra vez no es la mejor estrategia. En vez de eso, yo tengo el /etc/network/interfaces por defecto con dhcp. Si me conecto en casa, tengo un fichero /etc/network/interfaces.ip-fija, que activo con la secuencia:</p>
+<pre>#ifdown eth0
+# ifup -i interfaces.ip-fija eth0</pre>
+<p>la opción -i le indica a ifup que no use el fichero interfaces por defecto, sino el que configura la IP estática.<br />
+Todo lo relativo a la conexión se comprueba con ifconfig.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

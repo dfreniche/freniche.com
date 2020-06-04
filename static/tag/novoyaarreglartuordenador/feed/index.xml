@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>NoVoyAArreglarTuOrdenador &#8211; freniche.com</title>
+	<atom:link href="/tag/novoyaarreglartuordenador/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Preguntas inocentes</title>
+		<link>/2005/07/26/preguntas-inocentes/</link>
+		<pubDate>Tue, 26 Jul 2005 18:05:41 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[NoVoyAArreglarTuOrdenador]]></category>
+
+		<guid isPermaLink="false">/?p=831</guid>
+		<description><![CDATA[Sucedió el pasado Domingo 24 de Julio. Mi mujer se había descargado de Internet unos documentos en formato PDF que quería imprimir. Mala suerte, porque el autor de los PDF los había protegido para que no se pudieran imprimir, de forma que tuvieras que leerlos en la pantalla del ordenador. Yo estoy acostumbrado a mirar [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Sucedió el pasado Domingo 24 de Julio. Mi mujer se había descargado de Internet unos documentos en formato PDF que quería imprimir. Mala suerte, porque el autor de los PDF los había protegido para que no se pudieran imprimir, de forma que tuvieras que leerlos en la pantalla del ordenador. Yo estoy acostumbrado a mirar la pantalla durante horas, por lo que no entiendo que a alguien le cueste. Pero les cuesta. Además, a mi me gusta leer los libros de informática con forma de libro.</p>
+<p style="text-align: justify;"><img class="alignright size-full wp-image-835" style="margin: 5px;" src="/wp-content/uploads/2005/07/Chat_01.png" alt="" width="48" height="48" />Es entonces cuando surgió la pregunta inocente: «Diego, ¿estos PDF no se pueden imprimir de alguna manera?». Yo aún no sabía cuánto dolor estaba encerrado en esas diez palabras.</p>
+<p style="text-align: justify;">«Bueno, puedo intentarlo» &#8211; le contesté.</p>
+<p style="text-align: justify;">Sencillo, a fin de cuentas, para un freaky de la informática como yo. Bastaba con copiar uno de los PDF a la carpeta compartida pública de mi servidor Linux (mi mujer usa Windows XP). Para ser totalmente ordenado, dentro de /public creé una carpeta Paqui. Una vez situado, desde una terminal tecleé:</p>
+<pre>
+<blockquote>$ cd /public/Paqui
+
+$ pdf2ps nombre-fichero.pdf</blockquote>
+</pre>
+<p style="text-align: justify;">¡Exito! El fichero se había convertido de PDF a PS (<a href="http://en.wikipedia.org/wiki/PostScript" target="_blank">PostScript</a>) y ahora sí que se podía imprimir usando el visor de PostScript de GNOME gvv (Gnome Ghostview). Ahora mismo alguien de la audiencia estará pensando «bueno, sí, eres muy listo, pero eso es precisamente lo que el autor del PDF quería impedir». Pues sí, me confieso. Los casados entre la audiencia me entenderán.</p>
+<h1>Un momento de triunfo</h1>
+<p style="text-align: justify;"><img class="alignright size-full wp-image-836" style="margin: 10px;" src="/wp-content/uploads/2005/07/triunfo.jpg" alt="" width="176" height="183" />Exultante por mi triunfo (conseguido en apenas cinco minutos) me dirigí a la mesa de mi mujer con los papeles prueba de mi triunfo en la mano. «Listo» &#8211; le dije con una gran sonrisa.</p>
+<p style="text-align: justify;">«Gracias, está muy bien, pero&#8230; ¿y cuándo tú no estés?. ¿No hay alguna manera de automatizar el proceso para que lo pueda hacer yo sola?»</p>
+<p style="text-align: justify;">El mundo pareció enmudecer. Me sentía cada vez más pequeño. Ese es el tipo de preguntas inocentes que suelen hacer los usuarios y que normalmente suelen llevar aparejados un tremendo marrón.</p>
+<p style="text-align: justify;">Volví cabizbajo a mi servidor Linux y pensé. «Bueno, probablemente con un pdf2ps *.pdf esté todo solucionado. Me equivocaba. pdf2ps no admite comodines. Luego para procesar varios ficheros hay que hacerse un pequeño script.</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-837" src="/wp-content/uploads/2005/07/Shout.png" alt="" width="67" height="68" /></p>
+<h1>«Ese peaso de script»</h1>
+<p>Bueno, nada más fácil que un pequeño script. En cinco minuto (más) tuve escrito algo como ésto:</p>
+<blockquote>
+<pre>#!/bin/bash</pre>
+<pre> PROGRAM=pdf2ps</pre>
+<pre>for f in $1</pre>
+<pre>do</pre>
+<pre>echo $PROGRAM $f $f.ps</pre>
+<pre>$PROGRAM $f $f.ps</pre>
+<pre>done</pre>
+<pre>nautilus /public/Paqui</pre>
+</blockquote>
+<p>El lector avezado en programación de la BASH Linux sabrá que el bucle for recorre todos los ficheros que coincidan con un patrón, pasado como parámetro en $1. Luego este script se usa así:</p>
+<blockquote>
+<pre>$ multiple-pdf2ps.sh *.pdf</pre>
+</blockquote>
+<p>generando un fichero pdf.ps por cada pdf.</p>
+<p>¡Bueno, segundo momento de triunfo! Ya estaba todo listo. O casi. Subí el nuevo script a la rama correspondiente del CVS y me puse a pensar.</p>
+<h1>Mi reino por un visor de PostScript para Xp</h1>
+<p>Pues eso. La conversión había tenido éxito. Pero no quería que mi mujer tuviera que lidiar con CUPS y la impresión desde Linux (entre otras cosas porque aún no he configurado el driver de impresión para sacar dos páginas por hoja, pero ese es otro tema). Luego necesitaba un visor de PostScript para XP.</p>
+<p><img class="alignright size-full wp-image-839" style="margin-left: 5px; margin-right: 5px;" src="/wp-content/uploads/2005/07/ghost64.gif" alt="" width="56" height="64" />Sencillo: Google me llevó a <a href="http://www.cs.wisc.edu/~ghost/" target="_blank">http://www.cs.wisc.edu/~ghost/</a> de donde me descargué el visor Ghostview para Windows y el propio GhostScript (un intérprete de PostScript Software Libre; PostScript es de Adobe y los visores de PostScript valen pasta o en cualquier caso no son Software Libre). Dejé los ficheros en /public/Paqui y desde el XP instalé ambos ficheros (por cierto, la conexión por red a &#92;einstein\public la había automatizado con una unidad de red, F: concretamente: otra tarea de «un minuto»).</p>
+<p>La prueba fue un éxito absoluto: podía imprimir dos páginas por hoja abriendo el .PS desde XP. ¡Triunfo! ¿Ya? No, falta algo&#8230;</p>
+<h1>Un usuario en Linux</h1>
+<p>Claro. Si quiero que mi mujer pueda hacer ésto cuando yo no esté, debe poder entrar en el servidor. Bueno, sencillo, adduser Paqui, le pongo una clave, entro en su sesión de GNOME, le pongo un escritorio bonito, le creo un lanzador en el escritorio que ponga «convertir los PDFs» y que llame al script y listo. <em>Otros</em> cinco minutos.</p>
+<p>Probemos. ¡Cómo!?. No puedo acceder a los ficheros de /public/Paqui. Horror. Al montar la unidad en Linux, tengo una línea en el /etc/fstab como:</p>
+<blockquote>
+<pre>/dev/hdc1 /mnt/hdc1-xp vfat auto,user,exec,uid=1000,gid=1000 0 0</pre>
+</blockquote>
+<p>que, entre otras cosas, monta la unidad /dev/hdc1 con el usuario de uid 1000 como propietario, o sea, yo. Por eso el usuario de mi mujer no puede leer /public</p>
+<p>Solución: meter a los dos usuarios en el grupo users (de GID 100) y en el fstab poner:</p>
+<blockquote>
+<pre>/dev/hdc1 /mnt/hdc1-xp vfat auto,user,exec,gid=100,umask=002 0 0</pre>
+</blockquote>
+<p>de ésta forma, el propietario de la carpeta es ahora el grupo 100 (al que pertenecen los dos usuarios de Linux) y la umask permite unos permisos de lectura y escritura para el grupo. Todo solucionado.</p>
+<h1>Epílogo</h1>
+<p>Hay que ver lo que puede originar una preguntita inocente. Son los «poyaques». Es decir «po ya que puedo convertir de pdf a ps, vamos a convertir en masa», «po ya que he convertido en masa, que se haga con otro usuario», «po ya que &#8230;».</p>
+<p>Muchas veces los «poyaques» ocupan más tiempo en los proyectos que las especificaciones originales. Ojo con los «poyaques» y las preguntas inocentes. Antes de decir «sí, si eso son sólo cinco minutos» piensa no vaya a ser que sean cinco tras otros cinco tras otros cinco&#8230;.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

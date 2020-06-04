@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PowerMac &#8211; freniche.com</title>
+	<atom:link href="/tag/powermac/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Review de Drobo, hardware y software (Dashboard) en Español</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/</link>
+		<comments>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/#comments</comments>
+		<pubDate>Sun, 09 May 2010 19:03:14 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Drobo]]></category>
+		<category><![CDATA[PowerMac]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=982</guid>
+		<description><![CDATA[Después de muchas peticiones que me han llegado por diversos medios (Twitter, Youtube, esta web, &#8230;) al fin me he puesto y he cocinado, a la carrera, un vídeo en el que muestro cómo es el hardware de mi Drobo 2ª edición (con Firewire 800, sin Ethernet) y cómo funciona el software que lo controla. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Después de muchas peticiones que me han llegado por diversos medios (Twitter, Youtube, esta web, &#8230;) al fin me he puesto y he cocinado, a la carrera, un vídeo en el que muestro cómo es el hardware de mi Drobo 2ª edición (con Firewire 800, sin Ethernet) y cómo funciona el software que lo controla.</p>
+<p style="text-align: justify;">Comento un poco cómo lo utilizo, principalmente para hacer copias de seguridad y guardar los datos principales que no puedo perder: mis fotos, los vídeos, el código fuente, etc. Falta por hacer una segunda parte con VMWare «tirando» del Drobo desde mi Macbook Pro.</p>
+<p style="text-align: justify;">Espero que os guste y espero vuestras sugerencias, como siempre, en los comentarios.</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/UzAyNhmmHTg" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/UzAyNhmmHTg"></param></object></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

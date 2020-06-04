@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Convertir efectos de sonido entre distintos formatos con iTunes</title>
+	<atom:link href="/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/comment-page-1/#comment-14418</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 13 May 2011 07:05:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1498#comment-14418</guid>
+		<description><![CDATA[Aceptamos afconvert como herramienta :-)
+Aunque yo me lío mucho con los formatos de codec y contenedores. Por eso uso iTunes: porque soy un inútil absoluto en lo que se refiere a edición de audio. Bueno, y en otras cosas, claro ;-)]]></description>
+		<content:encoded><![CDATA[<p>Aceptamos afconvert como herramienta 🙂<br />
+Aunque yo me lío mucho con los formatos de codec y contenedores. Por eso uso iTunes: porque soy un inútil absoluto en lo que se refiere a edición de audio. Bueno, y en otras cosas, claro 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/comment-page-1/#comment-14393</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Thu, 12 May 2011 21:58:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1498#comment-14393</guid>
+		<description><![CDATA[Yo siempre he usado la utilidad afconvert que viene &quot;de serie&quot; :)
+
+De hecho, copiopego desde la url que has puesto:
+
+- - - - -
+
+You can package the audio data in an aiff, wav, or caf file. Then, in Xcode, add the sound file to your project as a nonlocalized resource of the application bundle.
+
+You may use the afconvert tool to convert sounds. For example, to convert the 16-bit linear PCM system sound Submarine.aiff to IMA4 audio in a CAF file, use the following command in the Terminal application:
+
+afconvert /System/Library/Sounds/Submarine.aiff ~/Desktop/sub.caf -d ima4 -f caff -v
+
+
+Y para más información:
+
+http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/afconvert.1.html
+
+:)]]></description>
+		<content:encoded><![CDATA[<p>Yo siempre he usado la utilidad afconvert que viene «de serie» 🙂</p>
+<p>De hecho, copiopego desde la url que has puesto:</p>
+<p>&#8211; &#8211; &#8211; &#8211; &#8211;</p>
+<p>You can package the audio data in an aiff, wav, or caf file. Then, in Xcode, add the sound file to your project as a nonlocalized resource of the application bundle.</p>
+<p>You may use the afconvert tool to convert sounds. For example, to convert the 16-bit linear PCM system sound Submarine.aiff to IMA4 audio in a CAF file, use the following command in the Terminal application:</p>
+<p>afconvert /System/Library/Sounds/Submarine.aiff ~/Desktop/sub.caf -d ima4 -f caff -v</p>
+<p>Y para más información:</p>
+<p><a href="http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/afconvert.1.html" rel="nofollow">http://developer.apple.com/library/mac/#documentation/Darwin/Reference/ManPages/man1/afconvert.1.html</a></p>
+<p>🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

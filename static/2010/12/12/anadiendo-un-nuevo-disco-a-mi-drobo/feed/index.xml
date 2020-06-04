@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Añadiendo un nuevo disco a mi Drobo</title>
+	<atom:link href="/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Miguel Ángel</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-39790</link>
+		<dc:creator><![CDATA[Miguel Ángel]]></dc:creator>
+		<pubDate>Mon, 09 Apr 2012 09:01:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-39790</guid>
+		<description><![CDATA[Muchas gracias por el aviso, Diego.
+
+Anoche leí en algún blog una advertencia similar y lo cierto es que alguien inexperto en la materia puede cometer este error fatal, de hecho, si no me sigo informando o no me avisas, yo mismo habría hecho tal locura...
+
+Ya tengo encargada la carcasa para el disco duro y por ahí sacaré la información, no obstante seguiré poniéndome al día con respecto al Drobo, me parece un sistema muy interesante. 
+
+También estoy recopilando información sobre los NAS de synology, aunque tras esta anécdota lo que busco es básicamente un sistema de copias de seguridad ampliable, la experiencia me dice que tenerlo todo en el mismo equipo y sitio puede convertirse en una pesadilla.
+
+Gracias de nuevo y por aquí te sigo.]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias por el aviso, Diego.</p>
+<p>Anoche leí en algún blog una advertencia similar y lo cierto es que alguien inexperto en la materia puede cometer este error fatal, de hecho, si no me sigo informando o no me avisas, yo mismo habría hecho tal locura&#8230;</p>
+<p>Ya tengo encargada la carcasa para el disco duro y por ahí sacaré la información, no obstante seguiré poniéndome al día con respecto al Drobo, me parece un sistema muy interesante. </p>
+<p>También estoy recopilando información sobre los NAS de synology, aunque tras esta anécdota lo que busco es básicamente un sistema de copias de seguridad ampliable, la experiencia me dice que tenerlo todo en el mismo equipo y sitio puede convertirse en una pesadilla.</p>
+<p>Gracias de nuevo y por aquí te sigo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-39784</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 09 Apr 2012 07:57:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-39784</guid>
+		<description><![CDATA[Hola Miguel Ángel
+
+No se te ocurra meter un HD con algún dato que valores dentro de un Drobo: ¡lo borrará y no podrás recuperar esos datos!
+
+Tras el aviso apocalíptico, te cuento. Drobo es una cabina de almacenamiento RAID (usa varios discos y distribuye los datos entre ellos) de manera que, si falla un disco (en la versión que yo tengo, en la actual soporta fallo simultáneo de hasta dos discos duros) no pierdes nada. Para conseguir esa &quot;magia&quot; Drobo formatea los discos y usa su propio sistema de ficheros interno.
+
+Esto ocasiona que no pueda usarse como disco de arranque y que, si metes cualquier disco dentro lo formatee para usarlo como almacenamiento propio.
+
+En tu caso, y dado que los discos con SATA normales, lo mejor es que te compres una caja USB donde meterlos. Por 20 Eur. las tienes de todos los colores, y con eso sí podrás arrancar desde él (o bien pincharlo en otro Mac / PC y sacarle los datos)
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Miguel Ángel</p>
+<p>No se te ocurra meter un HD con algún dato que valores dentro de un Drobo: ¡lo borrará y no podrás recuperar esos datos!</p>
+<p>Tras el aviso apocalíptico, te cuento. Drobo es una cabina de almacenamiento RAID (usa varios discos y distribuye los datos entre ellos) de manera que, si falla un disco (en la versión que yo tengo, en la actual soporta fallo simultáneo de hasta dos discos duros) no pierdes nada. Para conseguir esa «magia» Drobo formatea los discos y usa su propio sistema de ficheros interno.</p>
+<p>Esto ocasiona que no pueda usarse como disco de arranque y que, si metes cualquier disco dentro lo formatee para usarlo como almacenamiento propio.</p>
+<p>En tu caso, y dado que los discos con SATA normales, lo mejor es que te compres una caja USB donde meterlos. Por 20 Eur. las tienes de todos los colores, y con eso sí podrás arrancar desde él (o bien pincharlo en otro Mac / PC y sacarle los datos)</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguel Ángel</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-39716</link>
+		<dc:creator><![CDATA[Miguel Ángel]]></dc:creator>
+		<pubDate>Sun, 08 Apr 2012 18:52:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-39716</guid>
+		<description><![CDATA[Hola Diego.
+
+Enhorabuena por el blog y gracias por la valiosa información que aquí compartes, consejos, ayuda, etc.
+
+Quería contarte que hoy me he levantado y mi Mac Pro Intel de 2008 no arranca, llevaba varios meses fallando en el arranque, típico fallo del Mac Pro de esa generación según he leído en varios foros (gráfica defectuosa) pero por motivos de trabajo no podía prescindir de él 1 semana y ni lo apagaba... ahora necesito urgentemente recuperar la información que tengo en 2 discos duros, ambos son booteables.
+Mi pregunta es, si adquiero un Drobo, ¿podré arrancar los discos duros desde otro Mac Intel, por ejemplo un Mac Book Pro prestado?, ¿o este dispositivo solamente permite hacer copias de seguridad y mover datos pero no arrancar desde los discos duros?.
+
+Gracias de antemano y un saludo.]]></description>
+		<content:encoded><![CDATA[<p>Hola Diego.</p>
+<p>Enhorabuena por el blog y gracias por la valiosa información que aquí compartes, consejos, ayuda, etc.</p>
+<p>Quería contarte que hoy me he levantado y mi Mac Pro Intel de 2008 no arranca, llevaba varios meses fallando en el arranque, típico fallo del Mac Pro de esa generación según he leído en varios foros (gráfica defectuosa) pero por motivos de trabajo no podía prescindir de él 1 semana y ni lo apagaba&#8230; ahora necesito urgentemente recuperar la información que tengo en 2 discos duros, ambos son booteables.<br />
+Mi pregunta es, si adquiero un Drobo, ¿podré arrancar los discos duros desde otro Mac Intel, por ejemplo un Mac Book Pro prestado?, ¿o este dispositivo solamente permite hacer copias de seguridad y mover datos pero no arrancar desde los discos duros?.</p>
+<p>Gracias de antemano y un saludo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-20206</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 02 Aug 2011 21:02:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-20206</guid>
+		<description><![CDATA[Hola Antonio, gracias por tu comentario.
+
+Mala suerte la pérdida del disco, pero esa es precisamente la utilidad del Drobo. Los HDs se van a romper. Todos mueren. Es cuestión de tiempo. Pero no tus datos. Es un rollo tener que comprar otro, pero sería peor perder tus fotos, vídeos, etc., ¿no? :-)
+
+El Drobo no tiene interruptor de apagado, aunque (tras apagar el ordenador) puedes quitarle la alimentación si lo tienes conectado a una regleta. No es mala idea. En mi caso, está siempre conectado a la red y hay veces en que entro en la habitación y aunque está apagado los ventiladores funcionan. Igual tu HD se ha &quot;muerto&quot; por el calor. Aunque estoy aventurando conclusiones.
+
+Lo que te puedo decir es que yo no lo apago nunca, y de momento 0 HDs muertos. Y creo que me voy a comprar un par de ellos en breve. Otro video ;-)]]></description>
+		<content:encoded><![CDATA[<p>Hola Antonio, gracias por tu comentario.</p>
+<p>Mala suerte la pérdida del disco, pero esa es precisamente la utilidad del Drobo. Los HDs se van a romper. Todos mueren. Es cuestión de tiempo. Pero no tus datos. Es un rollo tener que comprar otro, pero sería peor perder tus fotos, vídeos, etc., ¿no? 🙂</p>
+<p>El Drobo no tiene interruptor de apagado, aunque (tras apagar el ordenador) puedes quitarle la alimentación si lo tienes conectado a una regleta. No es mala idea. En mi caso, está siempre conectado a la red y hay veces en que entro en la habitación y aunque está apagado los ventiladores funcionan. Igual tu HD se ha «muerto» por el calor. Aunque estoy aventurando conclusiones.</p>
+<p>Lo que te puedo decir es que yo no lo apago nunca, y de momento 0 HDs muertos. Y creo que me voy a comprar un par de ellos en breve. Otro video 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Antonio</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-20200</link>
+		<dc:creator><![CDATA[Antonio]]></dc:creator>
+		<pubDate>Tue, 02 Aug 2011 20:11:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-20200</guid>
+		<description><![CDATA[Gracias por el video, por compartir tus experiencias y por ayudarnos a tantos...
+Yo también tengo un DROBO, y estoy encantado con lo que puedo guardar en él... pero termino de &#039;fundir&#039; un HD de 2 TB... y la verdad, podría ser por el motivo que ahora te expongo... y por si puede servir... 
+El DROBO, ¿se apaga después de apagar el ordenador?... o simplemente él mismo se autodesconecta, y reinicia cuando el computer se vuelve a encender? 
+Lo digo porque yo, hasta ahora jhacía así: apagada el ordenador y después apagada el DROBO, encendía el ordenador y después encendía el DROBO... ¿Puede que estos encendidos y apagados, me hayan fundido un HD???????]]></description>
+		<content:encoded><![CDATA[<p>Gracias por el video, por compartir tus experiencias y por ayudarnos a tantos&#8230;<br />
+Yo también tengo un DROBO, y estoy encantado con lo que puedo guardar en él&#8230; pero termino de &#8216;fundir&#8217; un HD de 2 TB&#8230; y la verdad, podría ser por el motivo que ahora te expongo&#8230; y por si puede servir&#8230;<br />
+El DROBO, ¿se apaga después de apagar el ordenador?&#8230; o simplemente él mismo se autodesconecta, y reinicia cuando el computer se vuelve a encender?<br />
+Lo digo porque yo, hasta ahora jhacía así: apagada el ordenador y después apagada el DROBO, encendía el ordenador y después encendía el DROBO&#8230; ¿Puede que estos encendidos y apagados, me hayan fundido un HD???????</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-10094</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 06 Jan 2011 21:42:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-10094</guid>
+		<description><![CDATA[Hola Migue
+
+Lo puedes usar como almacenamiento externo, sin problemas. El modelo con FW800 da un muy buen rendimiento como unidad de almacenamiento. Además de las copias de Time Machine, todo el software que me bajo de Internet y las máquinas virtuales las almaceno en el Drobo
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Migue</p>
+<p>Lo puedes usar como almacenamiento externo, sin problemas. El modelo con FW800 da un muy buen rendimiento como unidad de almacenamiento. Además de las copias de Time Machine, todo el software que me bajo de Internet y las máquinas virtuales las almaceno en el Drobo</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguel</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-10086</link>
+		<dc:creator><![CDATA[Miguel]]></dc:creator>
+		<pubDate>Thu, 06 Jan 2011 20:20:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-10086</guid>
+		<description><![CDATA[Buenas Diego y el Drobo también se puede usar para
+almacenamiento externo o solo para copias de seguridad? Un saludo.
+GRACIAS]]></description>
+		<content:encoded><![CDATA[<p>Buenas Diego y el Drobo también se puede usar para<br />
+almacenamiento externo o solo para copias de seguridad? Un saludo.<br />
+GRACIAS</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-9648</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 19 Dec 2010 10:05:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-9648</guid>
+		<description><![CDATA[Hola David.
+
+Lo compré en macnificos, creo recordar. Como enseñé en el &lt;a href=&quot;/2009/09/06/video-del-unboxing-de-mi-drobo-en-espanol/&quot; rel=&quot;nofollow&quot;&gt;Unboxing del Drobo&lt;/a&gt;, viene con todos los cables eléctricos preparados para España, con su cable USB y uno FW800.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola David.</p>
+<p>Lo compré en macnificos, creo recordar. Como enseñé en el <a href="/2009/09/06/video-del-unboxing-de-mi-drobo-en-espanol/" rel="nofollow">Unboxing del Drobo</a>, viene con todos los cables eléctricos preparados para España, con su cable USB y uno FW800.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: David</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/comment-page-1/#comment-9586</link>
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Thu, 16 Dec 2010 23:18:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1315#comment-9586</guid>
+		<description><![CDATA[Hola.
+
+Estoy interesado en comprar un Drobo también estas navidades. Me gustaría saber si los que compraste tanto en Expansys como en Macníficos vinieron de serie con los cables y adaptadores de red eléctrica europeos, o si vinieron con cables americanos y tal.
+
+Un saludo.]]></description>
+		<content:encoded><![CDATA[<p>Hola.</p>
+<p>Estoy interesado en comprar un Drobo también estas navidades. Me gustaría saber si los que compraste tanto en Expansys como en Macníficos vinieron de serie con los cables y adaptadores de red eléctrica europeos, o si vinieron con cables americanos y tal.</p>
+<p>Un saludo.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

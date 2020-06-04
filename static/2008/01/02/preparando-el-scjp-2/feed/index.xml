@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Preparando el SCJP</title>
+	<atom:link href="/2008/01/02/preparando-el-scjp-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/01/02/preparando-el-scjp-2/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: freniche.com &#187; SCJP 1.5 aprobado con un pírrico 70%, pero aprobado al fin</title>
+		<link>/2008/01/02/preparando-el-scjp-2/comment-page-1/#comment-1971</link>
+		<dc:creator><![CDATA[freniche.com &#187; SCJP 1.5 aprobado con un pírrico 70%, pero aprobado al fin]]></dc:creator>
+		<pubDate>Mon, 22 Dec 2008 19:25:25 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/02/preparando-el-scjp-2/#comment-1971</guid>
+		<description><![CDATA[[...] estoy feliz de haber cumplido, como me exigía a mi mismo en éste post. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] estoy feliz de haber cumplido, como me exigía a mi mismo en éste post. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: freniche.com &#187; Fecha para el SCJP</title>
+		<link>/2008/01/02/preparando-el-scjp-2/comment-page-1/#comment-27</link>
+		<dc:creator><![CDATA[freniche.com &#187; Fecha para el SCJP]]></dc:creator>
+		<pubDate>Wed, 04 Jun 2008 18:33:38 +0000</pubDate>
+		<guid isPermaLink="false">/2008/01/02/preparando-el-scjp-2/#comment-27</guid>
+		<description><![CDATA[[...] comenté en entradas anteriores que quería sacarme el SCJP, y con qué armas estaba afrontando el lance. Pero el tiempo pasa, y no hay examen a la vista. Por [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] comenté en entradas anteriores que quería sacarme el SCJP, y con qué armas estaba afrontando el lance. Pero el tiempo pasa, y no hay examen a la vista. Por [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HP &#8211; freniche.com</title>
+	<atom:link href="/tag/hp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi TouchPad</title>
+		<link>/2011/12/13/mi-touchpad/</link>
+		<comments>/2011/12/13/mi-touchpad/#comments</comments>
+		<pubDate>Tue, 13 Dec 2011 17:57:14 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Enyo]]></category>
+		<category><![CDATA[HP]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[TouchPad]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[WebOS]]></category>
+
+		<guid isPermaLink="false">/?p=1644</guid>
+		<description><![CDATA[Llevo usando una tablet TouchPad de HP desde mediados de Agosto. Si, si, justo esa: la que HP comenzo a vender con WebOS a precio de iPad, que luego rebajó y acabo poniendo a precios de saldo, casi suplicando que se la quitaran de las manos. Esa que esta en estado de zombie: es un [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Llevo usando una tablet <a href="http://es.wikipedia.org/wiki/HP_TouchPad">TouchPad</a> de HP desde mediados de Agosto. Si, si, justo esa: la que HP comenzo a vender con WebOS a precio de iPad, que luego rebajó y acabo poniendo a precios de saldo, casi suplicando que se la quitaran de las manos. Esa que esta en estado de <em>zombie</em>: es un no-muerto que camina. Esa que el anterior CEO de HP, Leo Apotheker (un genio en esto de quebrar empresas, por lo visto) decidio cancelar de un plumazo, dejando a propios y extraños con cara de tontos.</p>
+<p style="text-align: justify;">El caso es que en Agosto me propusieron desarrollar algunas Apps para <a href="http://es.wikipedia.org/wiki/HP_webOS">WebOS</a>, el S.O. de la TouchPad. Y no pude negarme. La idea de <a href="/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/">aprender un nuevo lenguaje (JavaScript)</a>, con un framework de desarrollo desconocido (Enyo) sobre un S.O. del que habia escuchado maravillas (pero nunca había probado) y poder cacharrear con un nuevo chisme me hicieron aceptar sin pensar. La unica condicion que puse era poder disponer de un dispositivo real sobre el que probar, y poder quedármelo. Y así ha sido: ahora soy el orgulloso propietario de una TP de 32 GB, con la que estoy muy contento.</p>
+<p style="text-align: justify;">En tres meses he desarrollado tres aplicaciones que ya estan en la tienda de aplicaciones de HP para la TouchPad (HP App Catalog). Por motivos de acuerdos de confidencialidad no puedo decir cuales son. Busca las tres mas bonitas, y esas son las mias :-). Por si alguien no lo ha <em>pillado</em>, repito: <strong>en tres meses</strong>, partiendo desde conocimientos nulos en todo (S.O., lenguaje, framework, herramientas) <strong>tres aplicaciones acabadas</strong>. WebOS / Enyo es un entorno increiblemente sencillo, potente y productivo para desarrollar, cuando le coges el tranquillo. Es una autentica pena que se cargasen este S.O. Pero asi es la vida.</p>
+<p style="text-align: justify;">Y antes de seguir hablando de mis experiencias y usos de la tableta, quiero dejar este punto bien claro.<strong> WebOS esta muerto sin posibilidad de resucitar</strong>. Seguira existiendo, en una medio vida, mantenido por una fiel comunidad de aficionados. Pero no va a existir ningun «comeback» triunfal de WebOS, ni va a destronar a iOS, ni nada de nada. He visto esto mismo montones de veces en el tiempo que llevo alrededor de esta industria. Lo vi cuando Amstrad acabo comprando Spectrum, que en su epoca fueron de los pioneros en las micros. O cuando Amiga sucumbio ante Windows. O cuando OS/2 Warp desaparecio de escena. O, año tras año, cuando se anuncia, ya de broma, que sí, que de verdad <a href="http://www.techrepublic.com/blog/tr-out-loud/there-will-never-be-a-year-of-linux-on-the-desktop-os/2131">este va a ser el ano de Linux en el Escritorio</a> y se va a desbancar a Windows.</p>
+<p style="text-align: justify;">Ser mejor tecnicamente que otros no es garantia de exito. Vender mucho y con buen margen si. Eso es lo que tendrian que haber pensado antes de sacar la HP TouchPad. Pero da la impresion de que Leo queria que la tableta fracasase rapidito para quitar «esta tonteria de Palm» lo antes de la idea que tenia de la nueva HP, una empresa enfocada solo al sector profesional. Al final, Leo ha dejado de ser CEO de HP antes que WebOS muera, pero el daño ya está hecho. Ahora deshojan una margarita para ver cómo malvender Palm. Al final, WebOS creo que acabará siendo Software Libre. Como Maemo o Meego. Ambos, dos excelentes productos. Y sí, con esas cotas de popularidad.</p>
+<address style="text-align: justify;">(Nota: esto lo había escrito antes de que <a href="http://en.wikipedia.org/wiki/WebOS#Open_source_and_future">HP anunciase que, efectivamente, va a liberar el código de WebOS y Enyo</a>. Pero a día de hoy no se conoce ni el proceso, ni la licencia, ni nada)</address>
+<p style="text-align: justify;">El caso es que disfruto mucho con mi TouchPad. Su factor de forma es parecido al del iPad 1. De hecho, las fundas de iPad 1 son compatibles con la TouchPad. Usan el mismo display (1024 x 768, el mismo del iPad 2 por cierto). Y tiene muchas cosas chulas. Por ejemplo, al conectarla por USB aparece como una unidad mas y puedo intercambiar ficheros sin limitacion. Puedo usarla de disco USB de 32 GB, lo cual no esta mal. Creo que esto, para un usuario no avanzado es un problema. Para un geek como yo, es una puerta abierta al cacharreo.</p>
+<p style="text-align: justify;">Otra cosa que me encanta es que puedo pasar los videos de iTunes directamente ya que reproduce sin problemas H.264. Asi que puedo ver los vídeos de la WWDC o de formacion de Stanford simplemente copiándolos. Y tiene algo que odio, pero que debo reconocer que he usado en no pocas ocasiones para ver video: Flash. Puedo ver videos directamente en la pagina de YouTube o en Vimeo sin problemas. Y es una gozada cuando no quieres bajarte nada, directamente te vas al video y listo, lo ves en streaming. Comiéndote la batería, eso sí.</p>
+<p style="text-align: justify;">Cuando te compras la TouchPad viene en una caja con todo muy «apretado». Y vienen pocas cosas: la tableta, un cargador de pared (que es también cable USB para sincronizarla) y poco más. Pero aprovechando que en Septiembre estuve en el iOS Dev UK tuve la suerte de encontrarme en un Carphone Warehouse un teclado inalámbrico HP y la base de carga TouchStone. He grabado este vídeo mostrando la tableta y sus accesorios. Grabado con el iPhone 4 y poca luz, pero creo que se ve.</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/ErMeY7kUI1U" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/ErMeY7kUI1U"></param></object></div>
+</div>
+<p style="text-align: justify;">Como se puede ver en el vídeo, la TouchPad admite «dual boot» de WebOS y Android. Tengo instalado CyanoGen Mod 7 con un Android 2.3.7 que va francamente bien. Aunque la experiencia no es igual de pulida que en WebOS, pero está bien el poder usar más de un S.O. en la TP. Si no encuentro suficientes juegos para los niños, reinicio en Android y listo.</p>
+<p style="text-align: justify;">Si puedo y tengo tiempo, voy a seguir desarrollando mis propios proyectos para WebOS 3.0 / Enyo. Quiero profundizar en JavaScript y aprender Node.js. Igualmente, me gustaría tener una App con mi nombre en una segunda Store. Y así, irlas colonizando todas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/12/13/mi-touchpad/feed/</wfw:commentRss>
+		<slash:comments>57</slash:comments>
+		</item>
+	</channel>
+</rss>

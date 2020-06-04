@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WWDC &#8211; freniche.com</title>
+	<atom:link href="/tag/wwdc/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El lamentable estado de las herramientas de desarrollo iOS</title>
+		<link>/2017/06/01/el-lamentable-estado-de-las-herramientas-de-desarrollo-ios/</link>
+		<pubDate>Thu, 01 Jun 2017 10:36:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">/?p=2782</guid>
+		<description><![CDATA[Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen en las que ya hay. Y que las herramientas funcionen. No que añadan cosas. Que arreglen bugs.</p>
+<p>Hace tres años escribí sobre <a href="/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/">El lamentable estado de las herramientas de desarrollo Android</a>. En aquella época, lo que existía para desarrollo Android (oficial) era el plugin ADT para Eclipse. Y, como relato en el post, no funcionaba algo que era un simple ZIP. Eclipse, Java 6, fallos en las herramientas, un Android Studio que estaba en Alpha, una documentación horrorosa, una API discutible (ver p.ej. el método <code>isUserAGoat</code> en <a href="https://developer.android.com/reference/android/os/UserManager.html#//apple_ref/clm/isUserAGoat%28%29">UserManager</a>), la lentitud de Gradle si probabas AS&#8230; Esto era la muerte por mil cortes, comparado con el mundo iOS, con esas APIs Cocoa tan consistentes, un Xcode tan bonito y que entonces no fallaba tanto&#8230;</p>
+<p>Y encima Apple presentó Swift en Junio de 2014. La promesa de un nuevo lenguaje, compatible con Objective-C, con C, C++, pero funcional, con inmutabilidad, Opcionales, genéricos, &#8230; Todo se veía de color de rosa desde el mundo iOS, comparado con el cenagal que era el desarrollo Android.</p>
+<h2>Apple: Non-Pro Macs</h2>
+<p>Apple <a href="/2017/05/08/apple-tenemos-que-hablar/">ya no hace ordenadores para desarrolladores</a>. Y me parece muy bien, si así gana más dinero. Pero debe entonces afrontar las cosecuencias, que van a ser (porque esto ya ha lo he visto antes en otras plataformas):</p>
+<ul>
+<li>los desarrolladores se compran otras máquinas y se montan un Hackintosh para seguir desarrollando en iOS / Mac. MacOS se convierte en «ese sistema operativo que te ves obligado a usar por el trabajo». Apple no gana dinero con las máquinas. Tienes dual-boot y cada vez usas más Windows. Peligro.</li>
+<li>los desarrolladores directamente se pasan a Windows 10 / Linux con mejores portátiles (y a mejores precios, que no todos tenemos una mina de oro en el sótano de casa) y usan MacOS en una máquina virtual (cosa que prohíbe la licencia, como el Hackintosh, pero ponle puertas a ese campo&#8230;). Goto 1</li>
+<li>algunos desarrolladores se cabrean tanto con el poco aprecio que sienten desde Apple que <a href="https://twitter.com/spolsky/status/833082540995014656">directamente abandonan la plataforma</a>, algo que a dia de hoy se puede hacer ya que el mercado de trabajo tiene ofertas casi para todo tipo de perfiles de desarrollo. </li>
+</ul>
+<p>Si los programadores se van de una plataforma, esta se muere. Lo he visto con OS/2, con Amiga, con Linux (¿este es el año de Linux en el escritorio? Y sí, ya se que se usa mucho Linux en Android, que es Linux, y en la RaspberryPi, y que llevo usando Linux desde el 93, que no me cuentes de qué va eso que yo voté porque Tux fuera la mascota de Linux y tú no).</p>
+<p>Casi le pasa a Microsoft. El rechazo que generó con sus Internet Explorers le ha llevado a ceder casi toda la cuota de mercado a Chrome. Y no hablemos del patinazo Vista, que enmendó con Windows 7. Es por eso el titánico esfuerzo que está haciendo ahora mismo Microsoft, permitiéndote ejecutar <a href="https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/">Linux en Windows</a> de forma nativa, o dándote la <a href="https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/#zyguw3uS8gw66FL3.97">bash</a>. Atraer programadores que son los que riegan este campo con sus aplicaciones.</p>
+<h2>2017</h2>
+<p>Es 2017. Swift va a sacar la versión 4, con nuevos cambios que te obliguen a actualizar tu código, o no compila. Con ese asistente que tiene Xcode tan bueno. Si no tenías listo el lenguaje en 2014&#8230; ¿para qué sacarlo? ¿Porque Chris Latter estaba harto y se <a href="http://www.businessinsider.com/chris-lattner-swift-creator-leaves-apple-2017-1">quería ir</a>? Pero bueno, era 2014 y podíamos entenderlo, Apple. Pasamos por Swift 1, 1.1, 1.2, y los cambios a Swift 2. Y Swift 3. Contínuamente cambiando una base de código que funciona para hacer que siga funcionando. Es decir, gastar horas para seguir en el mismo punto. No añadir nuevas funcionalidades. Que <em>compile</em>. Coding is fun.</p>
+<p>Al menos el compilador de Swift es rápido. Tanto, que cuando ejecuto Gradle en Android me parece instantáneo. Gradle, quiero decir. Pero en cada WWDC nos dicen que «ahora el compilador de Swift es un 20% más rápido». Con tantos avances en velocidad mi código debería terminar de compilar&#8230; en 1984. De lo rápido que compila. Pero la realidad es la realidad, y Swift es <strong>horriblemente</strong> más lento compilando que su equivalente en Objective C. Y es una pena, porque el lenguaje es muy bonito. Apple ha hecho un <a href="https://en.wikipedia.org/wiki/Sherlock_(software)">Sherlock</a> de Kotlin con Swift, lo que está bien. Si ahora hiciese un Sherlock de IntelliJ, todos contentos.</p>
+<p>Porque cansa ver cómo se arrastra el compilador. Cómo haces Cmd+click en un símbolo y no lo encuentra (es una función de ámbito global <em>y no la encuentra</em>). O cómo el autocompletado es totalmente random. O cómo pones un punto de ruptura dentro de una clausura y no puedes depurar el valor de las variables de la clausura. Bueno, sí puedes&#8230; usando println. NSlog oriented debugging FTW!</p>
+<p>Al menos podemos refactorizar nuestro código. Esto significa que puedes cambiar el nombre a una clase. Fin de los refactors. Y en Objective-C. En Swift nada. Zero. Nil. Y de generar código ni hablamos. Últimamente Xcode no es capaz ni de comentar líneas de código con Cmd + / o <em>acertar</em> y autocompletarte los nombres de las librerías en los imports.</p>
+<p>O cómo la comunidad ha tenido que solucionar problemas básicos que Apple se niega a ver. ¿Resolución de dependencias y librerías de terceros? En Android: Gradle. Soportado. En iOS: CocoaPods, Carthage, o a mano. Todos proyectos de la comunidad. ¿Plugins? En Android: Android Studio tiene de todo. En iOS: han metido un sistema de plugins tan restringido que, la verdad, no conozco a nadie que esté usando algún plugin que merezca la pena (indicadme por Twitter los mejores, por favor). Y de paso se han cargado un proyecto como Alcatraz, que sí que ofrecía un montón de plugins, temas y plantillas de ficheros porque, ¿quién quiere algo mejor cuando mi versión inferior patentada por Apple ya viene con Xcode? Y sí, entiendo los problemas de seguridad de los plugins, y que Xcode viene firmado y todo eso. Pero digo yo que habrá alguna solución intermedia colocando los plugins en otro proceso fuera del sandbox de Xcode&#8230;</p>
+<h2>WWDC</h2>
+<p>Así que, en esta próxima <strong>Developers Conference</strong>, vamos a abrir la Keynote hablando de lo mucho que vendemos, de lo buenos que son los portátiles con la ToyBar, de lo chulos que son los auriculares Beats, de todas esas cosas que nos interesan muchísimo a los programadores, <strong>que es a los que debe ir dirigida la Keynote</strong>. Nuevos colores para las correas del reloj. Nuevas animaciones en macOS para organizar tus ventanas en 15 espacios para que nadie lo use nunca, porque todos usamos un monitor externo. Y Apple Music, que todo programador necesita música de fondo y eso. Pagando.</p>
+<p>Pues no. Este año no renové mi Apple Membership por primera vez en 6 años. Y cada vez me cuesta más y me duele más abrir Xcode. Porque veo lo que podría ser, lo comparo con un excelente IDE (con sus problemas, pero mucho mejor para <em>escribir</em> código) como IntelliJ y me sangra el corazón. Quiero seguir programando en un Mac en 2027. No me eches de tu jardín, Apple.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Cómo ver los vídeos de la WWDC 2015</title>
+		<link>/2015/06/29/como-ver-los-videos-de-la-wwdc-2015/</link>
+		<pubDate>Mon, 29 Jun 2015 16:16:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">/?p=2631</guid>
+		<description><![CDATA[&#8230;y no dejar que Twitter, y los sobrehumanos que por allí pululan, me machaquen con sus capacidades heroicas de ver en una semana todas las sesiones. Terminó la WWDC 2015, y como todos los años, me he echo un firme propósito: ver todos los vídeos antes de que llegue la WWDC 2016. Si miro mi [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote>
+<p>&#8230;y no dejar que Twitter, y los <em>sobrehumanos</em> que por allí pululan, me machaquen con sus capacidades heroicas de ver en una semana todas las sesiones.</p>
+</blockquote>
+<p>Terminó la WWDC 2015, y como todos los años, me he echo un firme propósito: <em>ver todos los vídeos antes de que llegue la WWDC 2016</em>. Si miro mi <em>track record</em> en este tema, no es para ser optimista: siempre he fracasado. Esto es mi <em>voy a dejar de fumar</em> o <em>tengo que aprender alemán</em>. Lo de los kilos, es evidente a simple vista que tampoco lo llevo bien del todo.</p>
+<p>Sí, lo confieso, voy por el mundo desarrollando para iOS y a veces enseñando sobre ello y no he visto todos los vídeos de todas las WWDCs. Una vergüenza, ya lo se. Últimamente, mi síndrome del impostor está súper-desarrollado y tengo muy asumido que soy una <em>estafa con patas</em>, pero eso es tema para otro post. Así que esta vez va a ser diferente. <em>Tiene</em> que ser diferente. Me voy a organizar de manera diferente y quizás alguna de estas ideas os sirva para algo. O no.</p>
+<h2>Good Ol&#8217; Streaming</h2>
+<p>El streaming y todas estas cosas <em>modernas</em> están muy bien y tal. Hasta que tienes que ver un vídeo y se ha caído tu conexión. O quieres copiar unas cuantas sesiones a tu iPad para estar entretenido en un vuelo, y necesitas tenerlas en tu Mac primero. Y en cualquier caso, porque mañana puede estar caído el servidor de Apple o pueden retirar los vídeos a voluntad. Mi estrategia es sencilla: aquellas cosas de Internet que <em>de verdad</em> me interesan van a mi Drobo o a cualquiera de mis HDs externos. Al coste por GB actual, ni me lo pienso. Para bajar los vídeos os recomiendo <a href="https://github.com/ohoachuck/wwdc-downloader">este script</a>, que además se baja los PDFs con las presentaciones y el código fuente de los ejemplos. Todo lo necesario para explorar las sesiones. Es bastante configurable y puede bajarse los vídeos de otros años, grabar en la carpeta que le indiques, descargar en calidad SD o HD&#8230;</p>
+<p>Para instalar el script, debes mostrarlo en formato «raw», es decir, en texto plano (pulsando <a href="https://github.com/ohoachuck/wwdc-downloader">en este enlace</a> lo tienes, de nada, soy así de majo), seleccionar todo el texto y copiar y pegarlo en un fichero de solo texto. En mi caso, uno que me creado con vi. Lo llamas como quieras, pero <code>download-wwdc-videos.sh</code> no es mal nombre. Te quedaría por darle permisos de ejecución con la orden: <code>$ chmod a+x download-wwdc-videos.sh</code>.</p>
+<p>Para bajar los vídeos la orden que he usado es:</p>
+<pre><code>./download-videos.sh -f HD -o ./
+</code></pre>
+<p>que significa: «baja los vídeos de la WWDC 2015 (por defecto), en calidad HD (<em>caballo grande, ande o no ande</em>) y me los pones en la carpeta actual». Previamente me había creado esa carpeta en el Drobo y había ido en <a href="https://www.iterm2.com/">iTerm</a> con <code>cd /Volumes/Video-Drobo/WWWDC-2015</code> hasta la carpeta en cuestión.</p>
+<h2>Separar la paja del grano</h2>
+<p>No todas las sesiones me interesan. Y a ti tampoco deberían. Hay que tener foco y empezar por aquellas que realmente te van a aportar más. Por ejemplo, la entrega de los Apple Design Awards es algo que no me va a hacer más feliz. Las nuevas características de Swift 2.0, sí. Así que hay sesiones que me interesan seguro, otras que ya habré visto y otras que, o seguro no quiero ver o estoy en duda. Primera criba resuelta: <strong>si dudas, es que no quieres verlo</strong>. No pasa nada, no borres el vídeo (yo no lo hago), no se va a ir de ahí. Pero si no tienes claro de entrada si te sirve para algo, es que no te sirve verlo ahora.</p>
+<div id="attachment_2634" style="width: 1027px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/06/videos-etiquetas.png"><img src="/wp-content/uploads/2015/06/videos-etiquetas.png" alt="Videos WWDC 2015 con etiquetas" width="1017" height="667" class="size-full wp-image-2634" srcset="/wp-content/uploads/2015/06/videos-etiquetas.png 1017w, /wp-content/uploads/2015/06/videos-etiquetas-300x196.png 300w, /wp-content/uploads/2015/06/videos-etiquetas-920x603.png 920w" sizes="(max-width: 1017px) 100vw, 1017px" /></a><p class="wp-caption-text">Videos WWDC 2015 con etiquetas</p></div>
+<p>Para distinguirlos he usado las etiquetas del Finder, que puedes cambiar y crear en preferencias del Finder. Me he creado tres nuevas: Ya vistos, en color verde, pendientes, en color naranja (que destaque) y en gris no me interesan. Marco todas en gris y a partir de ahí selecciono con mucho cuidado las que quiero ver. Es mejor marcar sólo cinco vídeos, verlos, y tener la sensación de <em>he cumplido esta etapa</em> y poder volver y añadir más vídeos luego <em>para subir nota</em>. Mucho mejor que marcar cincuenta vídeos y <em>cargarte con una obligación más</em> todo un año. Además de todas las otras cosas <em>imprescindibles</em> que ya <em>tienes</em> que hacer: leer todos los feeds RSS, leer completo tu <em>timeline</em> de Twitter, leer las noticias diarias, etc.</p>
+<p><strong>Pista: no lo hagas. Sobrecarga de información inútil == ruido.</strong></p>
+<div id="attachment_2636" style="width: 466px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/06/finder-prefs.png"><img src="/wp-content/uploads/2015/06/finder-prefs.png" alt="Preferencias del Finder para gestionar las etiquetas" width="456" height="656" class="size-full wp-image-2636" srcset="/wp-content/uploads/2015/06/finder-prefs.png 456w, /wp-content/uploads/2015/06/finder-prefs-208x300.png 208w" sizes="(max-width: 456px) 100vw, 456px" /></a><p class="wp-caption-text">Preferencias del Finder para gestionar las etiquetas</p></div>
+<h2>Ver los vídeos</h2>
+<p>En mi caso, si puedo, los veo en el iMac. Porque estos vídeos no basta con «verlos». A mi me gusta tener abierto Xcode y los ejemplos de código, y cuando veo algo que me llama la atención pauso el vídeo, tomo notas, pruebo código, etc. Sin hacer esto, a los dos minutos de terminar el vídeo no recuerdo nada. Si no intento repetir la demo que estoy viendo, no voy a aprender nada.</p>
+<p>Así que en mi caso, nada de verlos <em>a 2x</em> para marcarlos como vistos. <strong>A mi me interesa marcarlos como <em>aprovechados</em>, que es distinto</strong>. Lo otro es como visitar 10 ciudades en 7 días e ir <em>de Turista</em>. Yo prefiero ver una y <em>vivir</em> 10 días en ella.</p>
+<p>Para verlos, los añado a iTunes. Pero con cuidado. Si arrastras la carpeta de los vídeos a iTunes se van a copiar dentro de la biblioteca, duplicando el número de GB. Que puede ser que sea lo que quieres. O no. Siempre puedes borrarlos. En mi caso, los vídeos se quedan en su carpeta del Drobo y sólo <em>enlazo</em> el contenido. Para ello, en las preferencias de iTunes debemos desmarcar la opción <em>Avanzado > Copiar en iTunes Medio los archivos añadidos a la biblioteca</em> que copia por defecto los ficheros dentro de nuestra biblioteca. Ahora podemos arrastrar los ficheros y no se copiarán. Pero podremos sincronizarlos con nuestros dispositivos (en mi caso, mi iPad), para verlos sin conexión. Win!</p>
+<h2>Programar y tomar notas</h2>
+<p>No te quedes sólo con los vídeos. Crea tus proyectos de prueba, escribe código usando los Playgrounds de Xcode. Usa las betas de Xcode 7. Y si encuentras errores <a href="http://bugreport.apple.com/"><em>file a radar</em></a>. En mi caso, por cada vídeo que voy a ver, creo una tarea en Things, que es lo que uso para llevar un sistema más o menos GTD. En esta tarea anoto cosas que me llaman la atención, de forma que siempre puedo volver y buscar esta tarea para revisar las notas. Si las notas crecen mucho, o van a un Playground junto con código de ejemplo, o a un fichero de texto markdown que luego presento con <a href="http://www.decksetapp.com/">Deckset</a>.</p>
+<h2>End</h2>
+<p>Y esto es todo. Espero esta vez no sentirme culpable cuando compruebe que es Junio de 2016 de nuevo y no he visto más que tres vídeos. Pero una cosa es segura: tampoco voy a poder verlos en una semana. Hay muchas cosas que aprender, y una vida que vivir.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

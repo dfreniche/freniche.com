@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Cómo crear un entorno de desarrollo Android portable</title>
+	<atom:link href="/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: coloto</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-490366</link>
+		<dc:creator><![CDATA[coloto]]></dc:creator>
+		<pubDate>Fri, 29 Aug 2014 10:27:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-490366</guid>
+		<description><![CDATA[Hola
+
+Muy bueno el post, el primero que sale buscando &quot;portable android sdk&quot; me ha sido de mucha utilidad.
+Un pequeño apunte, el fichero .exe del jsdk para windows tambien puede descomprimirse (con 7-zip por ejemplo) como si fuese un fichero .zip, no es necesario realizar la instalacion del jsdk
+
+Saludos]]></description>
+		<content:encoded><![CDATA[<p>Hola</p>
+<p>Muy bueno el post, el primero que sale buscando «portable android sdk» me ha sido de mucha utilidad.<br />
+Un pequeño apunte, el fichero .exe del jsdk para windows tambien puede descomprimirse (con 7-zip por ejemplo) como si fuese un fichero .zip, no es necesario realizar la instalacion del jsdk</p>
+<p>Saludos</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-257851</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2014 11:57:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-257851</guid>
+		<description><![CDATA[Hola Miguel
+
+Esa carpeta no viene de ningún lado. Son los paquetes originales de cada cosa usada, por si las &quot;rompo&quot; en el proceso de unirlas. Es la carpeta en la que descargo todo lo necesario. Siempre guardo los paquetes originales de todo. Manías de viejo :-D
+
+Por otro lado, este post ya no tiene sentido desde que Google lanzó el ADT Bundle. Todo lo que se hacía aquí (que no era muy difícil) lo incorporó Google en un &quot;pack&quot; listo para descargar que es el ADT Bundle. Te recomiendo que te lo bajes y te dejes de historias. Y si te sientes muy aventurero, puedes probar con la siguiente versión del entorno de desarrollo, aún no lanzada, que es Android Studio. Promete mucho.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Miguel</p>
+<p>Esa carpeta no viene de ningún lado. Son los paquetes originales de cada cosa usada, por si las «rompo» en el proceso de unirlas. Es la carpeta en la que descargo todo lo necesario. Siempre guardo los paquetes originales de todo. Manías de viejo 😀</p>
+<p>Por otro lado, este post ya no tiene sentido desde que Google lanzó el ADT Bundle. Todo lo que se hacía aquí (que no era muy difícil) lo incorporó Google en un «pack» listo para descargar que es el ADT Bundle. Te recomiendo que te lo bajes y te dejes de historias. Y si te sientes muy aventurero, puedes probar con la siguiente versión del entorno de desarrollo, aún no lanzada, que es Android Studio. Promete mucho.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguel</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-257850</link>
+		<dc:creator><![CDATA[Miguel]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2014 09:29:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-257850</guid>
+		<description><![CDATA[Hola Diego!
+Gracias por el aporte, estoy iniciándome en el mundo android y me viene muy bien este post.
+Me queda una duda, respecto a la imagen de cómo queda tu carpeta Android Portable, ¿de dónde sale la carpeta &quot;original-packages&quot;?
+Un saludo.]]></description>
+		<content:encoded><![CDATA[<p>Hola Diego!<br />
+Gracias por el aporte, estoy iniciándome en el mundo android y me viene muy bien este post.<br />
+Me queda una duda, respecto a la imagen de cómo queda tu carpeta Android Portable, ¿de dónde sale la carpeta «original-packages»?<br />
+Un saludo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-135073</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2013 10:11:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-135073</guid>
+		<description><![CDATA[Si me contratan voy a donde me llamen ;-) 
+Es cuestión de tener un número suficiente de alumnos para dividir los costes y buscar fechas. Si quieres comentar algo más concreto enviame un email desde el formulario de contacto 
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Si me contratan voy a donde me llamen 😉<br />
+Es cuestión de tener un número suficiente de alumnos para dividir los costes y buscar fechas. Si quieres comentar algo más concreto enviame un email desde el formulario de contacto<br />
+Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: carlos ondarza</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-134264</link>
+		<dc:creator><![CDATA[carlos ondarza]]></dc:creator>
+		<pubDate>Wed, 20 Mar 2013 22:32:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-134264</guid>
+		<description><![CDATA[Hola
+
+No das cursos en México de creacion de apps para android?
+
+Gracias]]></description>
+		<content:encoded><![CDATA[<p>Hola</p>
+<p>No das cursos en México de creacion de apps para android?</p>
+<p>Gracias</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: 49 Comenzando a desarrollar en Android con @dfreniche &#124; Telar del Geek</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-83794</link>
+		<dc:creator><![CDATA[49 Comenzando a desarrollar en Android con @dfreniche &#124; Telar del Geek]]></dc:creator>
+		<pubDate>Sun, 02 Sep 2012 09:02:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-83794</guid>
+		<description><![CDATA[[...] Post del blog de Diego en el que cuenta cómo montar un entorno de desarrollo portable: /2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/ [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Post del blog de Diego en el que cuenta cómo montar un entorno de desarrollo portable: <a href="/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/" rel="nofollow">/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/</a> [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-49627</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 01 Jun 2012 08:23:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-49627</guid>
+		<description><![CDATA[Hola Celso.
+
+Antes de nada, si eres programador, NO te recomiendo que hagas el examen de Asociado. Ese examen es para Jefes de Proyecto o alguien que quiera tener una imagen general de la plataforma Java. Pero no se valora demasiado en la industria. El antiguo SCJP (hoy Oracle Certified Professional) sí que es un examen &quot;de verdad&quot; que, sin ser imposible de aprobar sí que te exige estudiar.
+
+He escrito en el pasado bastante sobre las certificaciones (/?s=scjp) y en uno de los posts cuento &lt;a href=&quot;/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/&quot; rel=&quot;nofollow&quot;&gt;las herramientas que recomendaba para aprobar&lt;/a&gt;. Habría que añadir el simulador de exámenes de Enthuware y poco más. Aunque claro, si se quiere tener éxito seguro, nada mejor que organizar conmigo un curso de preparación para el OCP Java SE. ¡Éxito garantizado! :-)]]></description>
+		<content:encoded><![CDATA[<p>Hola Celso.</p>
+<p>Antes de nada, si eres programador, NO te recomiendo que hagas el examen de Asociado. Ese examen es para Jefes de Proyecto o alguien que quiera tener una imagen general de la plataforma Java. Pero no se valora demasiado en la industria. El antiguo SCJP (hoy Oracle Certified Professional) sí que es un examen «de verdad» que, sin ser imposible de aprobar sí que te exige estudiar.</p>
+<p>He escrito en el pasado bastante sobre las certificaciones (<a href="/?s=scjp" rel="nofollow">/?s=scjp</a>) y en uno de los posts cuento <a href="/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/" rel="nofollow">las herramientas que recomendaba para aprobar</a>. Habría que añadir el simulador de exámenes de Enthuware y poco más. Aunque claro, si se quiere tener éxito seguro, nada mejor que organizar conmigo un curso de preparación para el OCP Java SE. ¡Éxito garantizado! 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Celso Javier Guzman Diaz</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-49476</link>
+		<dc:creator><![CDATA[Celso Javier Guzman Diaz]]></dc:creator>
+		<pubDate>Thu, 31 May 2012 17:09:15 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-49476</guid>
+		<description><![CDATA[Hola, leo tu blog ya desde hace un tiempo y hace unas semanas me he animado a prepararme de manera Autodidacta para rendir el Examen de Java, Pero empezare por el mas Básico que es el de Asociación, Espero que me puedas aconsejar sobre como debo de estudiar para rendir. Gracias.]]></description>
+		<content:encoded><![CDATA[<p>Hola, leo tu blog ya desde hace un tiempo y hace unas semanas me he animado a prepararme de manera Autodidacta para rendir el Examen de Java, Pero empezare por el mas Básico que es el de Asociación, Espero que me puedas aconsejar sobre como debo de estudiar para rendir. Gracias.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Abel (daferpi)</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-47214</link>
+		<dc:creator><![CDATA[Abel (daferpi)]]></dc:creator>
+		<pubDate>Wed, 23 May 2012 19:51:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-47214</guid>
+		<description><![CDATA[Al final, a nosotros nos pasaba igual, siempre estabamos pasando el entorno los unos a los otros y un poco por unificar, se creo esta alternativa, Si es cierto que cuando lo conoces es rapido y simple hacerlo, pero nunca viene de más tener alguna opción &#039;a mano&#039; por si algún dia necesitas algo rápido.
+
+Me hizo gracia ver el post y ver que al final, todos llegamos a las mismas conclusiones.
+
+Por cierto, yo a ti ya te tengo visto en alguna reunion de los NSCoders de BCN que tambien les doy el coñazo a ellos, pobres!!]]></description>
+		<content:encoded><![CDATA[<p>Al final, a nosotros nos pasaba igual, siempre estabamos pasando el entorno los unos a los otros y un poco por unificar, se creo esta alternativa, Si es cierto que cuando lo conoces es rapido y simple hacerlo, pero nunca viene de más tener alguna opción &#8216;a mano&#8217; por si algún dia necesitas algo rápido.</p>
+<p>Me hizo gracia ver el post y ver que al final, todos llegamos a las mismas conclusiones.</p>
+<p>Por cierto, yo a ti ya te tengo visto en alguna reunion de los NSCoders de BCN que tambien les doy el coñazo a ellos, pobres!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-47156</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 23 May 2012 15:22:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-47156</guid>
+		<description><![CDATA[¡Jeje! No hay nada como reinventar la rueda, ¿no? Si lo hubiera sabido... Pero ya sabes, si sabes de lo que estás tocando, hay veces que acabas antes haciéndolo tú en lugar de buscándolo...
+Muy bueno el recurso, para formación. Me lo apunto y lo usaré.
+
+Y eso de &quot;si algún día me paso por BCN&quot;... ¡si me voy a empadronar allí! :-D. Este próximo 31 de Mayo, por ejemplo, voy al BlackBerry Jam (http://www.blackberryjamworldtour.com/barcelona). Y en Septiembre probablemente vuelva a ir... Me escaparé para ir a una de vuestras reuniones, eso seguro.
+
+Mil gracias por el comentario!]]></description>
+		<content:encoded><![CDATA[<p>¡Jeje! No hay nada como reinventar la rueda, ¿no? Si lo hubiera sabido&#8230; Pero ya sabes, si sabes de lo que estás tocando, hay veces que acabas antes haciéndolo tú en lugar de buscándolo&#8230;<br />
+Muy bueno el recurso, para formación. Me lo apunto y lo usaré.</p>
+<p>Y eso de «si algún día me paso por BCN»&#8230; ¡si me voy a empadronar allí! :-D. Este próximo 31 de Mayo, por ejemplo, voy al BlackBerry Jam (<a href="http://www.blackberryjamworldtour.com/barcelona" rel="nofollow">http://www.blackberryjamworldtour.com/barcelona</a>). Y en Septiembre probablemente vuelva a ir&#8230; Me escaparé para ir a una de vuestras reuniones, eso seguro.</p>
+<p>Mil gracias por el comentario!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Abel (daferpi)</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/comment-page-1/#comment-47154</link>
+		<dc:creator><![CDATA[Abel (daferpi)]]></dc:creator>
+		<pubDate>Wed, 23 May 2012 15:14:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1702#comment-47154</guid>
+		<description><![CDATA[Hola Diego,
+
+en catdroid.org (un grupo de usuarios de android en Catalunya) esta todo empaquetado y versionado para descargarlo y ponerlo a funcionar sin mayores dificultades que descomprimir un zip y tocar un par de cosas.
+Normalmente tambien se facilita el proceso de puesta en marcha y el zip contiene un hola mundo para verificar que todo ha ido OK. Ahora mismo hay versiones de windows (32 y 64 bits), linux y OSX y lo se va evolucionando a medida que se actualizan los sdk de google y eclipse, puedes hecharle un vistazo en la siguiente url http://catdroid.org/blog/category/catclipse/ tambien hay una pagina en facebook https://www.facebook.com/catclipse y un grupo de google groups donde intercambiamos informacion sobre android https://groups.google.com/forum/#!forum/catdroid
+
+Si algun dia te pasas por Barcelona, puedes hacerles una visita]]></description>
+		<content:encoded><![CDATA[<p>Hola Diego,</p>
+<p>en catdroid.org (un grupo de usuarios de android en Catalunya) esta todo empaquetado y versionado para descargarlo y ponerlo a funcionar sin mayores dificultades que descomprimir un zip y tocar un par de cosas.<br />
+Normalmente tambien se facilita el proceso de puesta en marcha y el zip contiene un hola mundo para verificar que todo ha ido OK. Ahora mismo hay versiones de windows (32 y 64 bits), linux y OSX y lo se va evolucionando a medida que se actualizan los sdk de google y eclipse, puedes hecharle un vistazo en la siguiente url <a href="http://catdroid.org/blog/category/catclipse/" rel="nofollow">http://catdroid.org/blog/category/catclipse/</a> tambien hay una pagina en facebook <a href="https://www.facebook.com/catclipse" rel="nofollow">https://www.facebook.com/catclipse</a> y un grupo de google groups donde intercambiamos informacion sobre android <a href="https://groups.google.com/forum/#!forum/catdroid" rel="nofollow">https://groups.google.com/forum/#!forum/catdroid</a></p>
+<p>Si algun dia te pasas por Barcelona, puedes hacerles una visita</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

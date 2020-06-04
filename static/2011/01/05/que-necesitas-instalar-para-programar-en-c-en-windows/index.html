@@ -1,0 +1,733 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Qué necesitas instalar para programar en C en Windows | freniche.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/readly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; RSS de los comentarios" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Qué necesitas instalar para programar en C en Windows RSS de los comentarios" href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-style-css'  href='/wp-content/themes/readly/fancybox/jquery.fancybox.css?v=2.1.5&#038;ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='readly-style-css'  href='/wp-content/themes/readly/style.css?ver=4.8.13' type='text/css' media='all' />
+<style id='readly-style-inline-css' type='text/css'>
+.gallery .gallery-item {
+	max-width: 150px;
+}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-markdown-prettify-css'  href='/wp-content/plugins/wp-markdown/css/prettify.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery-ui-1.10.2.custom.min.js?ver=20130317'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/readly.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/prettify.min.js?ver=1.5.1'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel='prev' title='Problemas con el disco duro de mi iMac' href='/2010/12/29/problemas-con-el-disco-duro-de-mi-imac/' />
+<link rel='next' title='Windows 7 corre que se las pela en mi viejo MacBook Pro' href='/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/' />
+<meta name="generator" content="WordPress 4.8.13" />
+<link rel="canonical" href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/" />
+<link rel='shortlink' href='/?p=1331' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2011%2F01%2F05%2Fque-necesitas-instalar-para-programar-en-c-en-windows%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2011%2F01%2F05%2Fque-necesitas-instalar-para-programar-en-c-en-windows%2F&#038;format=xml" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.6';
+</script>
+<style type="text/css" media="screen">
+/* Begin WPvideo CSS */
+.wpv_videoc {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+/* border: 1px solid #aaa; */
+}
+
+.wpv_video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px 0 4px 0;
+	width: 425px;
+	height: 350px;
+}
+
+.wpv_rating {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+	font: 8pt "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	text-align: right;	
+}
+
+.wpv_titleauthor, .wpv_durationdate, .wpv_description {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #666;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+}
+
+.wpv_download {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+}
+
+.wpv_download a {
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #f44;
+}
+
+.wpv_download a:hover {
+	text-decoration: none;
+}
+
+.wpv_download img {
+	border: 0;
+}
+
+.wpv_self {
+	text-align: left;
+}
+
+.wpv_self a {
+	font: bold 9px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #000;
+}
+/* End WPvideo CSS */
+</style>
+
+<style type="text/css" id="custom-background-css">
+a {
+	color: #1e83cb;
+}
+.entry-content a {
+	-webkit-transition: border-bottom-color 0.2s linear;
+	-moz-transition: border-bottom-color 0.2s linear;
+	-o-transition: border-bottom-color 0.2s linear;
+	transition: border-bottom-color 0.2s linear;
+}
+.entry-content a:hover {
+	border-bottom-color: #1e83cb;
+}
+#masthead .site-title a, #site-navigation a, .sub-menu a, #nav-below a, .entry-title a, #image-navigation a {
+	-webkit-transition: color 0.2s linear;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+#masthead .site-title a:hover, #nav-below a:hover, .entry-title a:hover, #image-navigation a:hover {
+	color: #1e83cb;
+}
+#s, #commentform input[type="text"], #commentform textarea, .password_protected, #social a, a.more-link {
+	-webkit-transition: background-color 0.2s linear;
+	-moz-transition: background-color 0.2s linear;
+	-o-transition: background-color 0.2s linear;
+	transition: background-color 0.2s linear;
+}
+a.more-link span {
+	-webkit-transition: border-left-color 0.2s linear;
+	-moz-transition: border-left-color 0.2s linear;
+	-o-transition: border-left-color 0.2s linear;
+	transition: border-left-color 0.2s linear;
+}
+#s:focus, #commentform input[type="text"]:focus, #commentform textarea:focus, .password_protected:focus {
+	background-color: #fff;
+}
+#social a:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover span {
+	border-left-color: #1e83cb;
+}
+.entry-meta a, footer .site-info a, #comments a, .link_post_p a {
+	-webkit-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-moz-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-o-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	transition: color 0.2s linear, border-bottom-color 0.2s linear;
+}
+.entry-meta a:hover, footer .site-info a:hover, #comments a:hover, #comments a#cancel-comment-reply-link:hover, .link_post_p a:hover {
+	color: #1e83cb;
+	border-bottom-color: #1e83cb;
+}
+@media only screen and (min-width : 641px) {
+	#site-navigation a:hover, .sub-menu a:hover {
+		color: #1e83cb;
+	}
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+.hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #1e83cb;
+}
+</style>
+<script type="text/javascript">
+var hover_color = "#1e83cb";
+</script></head>
+
+<body class="post-template-default single single-post postid-1331 single-format-standard">
+<header id="masthead" class="site-header" role="banner">
+	<div id="header-wrapper">
+		<hgroup>
+			<div id="hgroup-wrapper">
+				<div id="hgroup-wrapper2">
+					<h1 class="site-title"><a href="/" title="freniche.com" rel="home">freniche.com</a></h1>
+					<h2 class="site-description">Another personal blog about everything tech-related</h2>
+				</div>
+			</div>
+		</hgroup>
+
+		<nav id="site-navigation" class="navigation-main" role="navigation">
+			<div id="site-navigation-wrapper">
+				<div id="site-navigation-wrapper2">
+					<h1 class="menu-toggle">Menu<span>m</span></h1>
+					<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2650"><a href="/about">Acerca de&#8230;</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://www.github.com/dfreniche/cv">CV</a></li>
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="/ios-apps/">iOS Apps</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="/formacion/">Formación</a></li>
+</ul>
+</li>
+<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="/contactar/">Contactar</a></li>
+<li id="menu-item-2649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2649"><a href="/mis-entradas-favoritas/">Lo mejor del blog</a></li>
+<li id="menu-item-2648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="/archivo-blog/">Archivo</a></li>
+<li id="menu-item-1993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1993"><a href="http://www.cafeycocoa.com.es/">Otros Proyectos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2652"><a href="http://wedevelopers.com/">Podcast We.Developers</a></li>
+	<li id="menu-item-2051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2051"><a href="http://readthencode.tumblr.com/">Read Then Code</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1996"><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a></li>
+	<li id="menu-item-1995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1995"><a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.youtube.com/dfreniche">YouTube</a></li>
+	<li id="menu-item-1992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1992"><a href="https://www.flickr.com/photos/dfreniche">Flickr</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</div>
+</header><!-- #masthead -->
+
+<div id="page" class="hfeed site">
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+		
+			
+<article id="post-1331" class="post-1331 post type-post status-publish format-standard hentry category-informatica category-programacion category-windows tag-c tag-formacion tag-informatica tag-programacion">
+	<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/" title="12:21 pm" rel="bookmark"><time class="entry-date" datetime="enero 5th, 2011">enero 5th, 2011</time></a>		</div><!-- .entry-meta -->
+				<h1 class="entry-title">Qué necesitas instalar para programar en C en Windows</h1>
+			</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<p style="text-align: justify;">Tengo que impartir un curso de introducción a la programación, utilizando el lenguaje C, dentro de unos días. ¡Bien!. Ya hacía años que no podía disfrutar con un curso así, en el que puedes enseñar los fundamentos a un grupo de personas, y ves cómo aprenden desde el principio y cómo van evolucionando. Encima, para mayor regocijo del docente, el lenguaje elegido es C. Siempre he considerado C como mi lenguaje totem, el <em>hogar</em> a la que volver, con el que me siento más a gusto. En los 90 programé bastante en C y C++. Pero a finales de la década, llegaron primero Visual Basic y luego Java, y no volví a programar en C. Hasta que el año pasado empecé a aprender Cocoa y Objective C para hacer Apps en Apple iOS. Y me ilusioné al descubrir que Objective C es un superconjunto estricto de C, es decir, que tiene todo lo que tiene C, y más cosas.</p>
+<p style="text-align: justify;">Así que el curso pinta bien. Si lo pudiera impartir en Linux, ya sería la repera (porque en Mac ni me lo planteo: <a href="/2010/11/06/los-dos-tipos-de-negocio-de-desarrollo-de-software/"><span style="color: #000000;">las empresas cárnicas aún no lo usan</span></a>). Pero todo no puede ser perfecto. El cliente quiere Windows. Bueno, sin problemas, yo no soy anti-nada. Windows 7, <a href="/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/"><span style="color: #000000;">como ya he comentado antes</span></a>, me parece un buen S.O. No es mi elección para el día a día, porque me siento más cómodo en UNIX (Mac en este caso), pero la última versión es una buena elección para sus usuarios. El problema entonces era encontrar un compilador y entorno integrado que fuese cómodo para programar y que ya conociese. Y si fuera Software Libre, perfecto.</p>
+<p style="text-align: justify;">Con estos requisitos, <a href="http://www.microsoft.com/express/"><span style="color: #000000;">Visual Studio</span></a> queda fuera. Cierto, llevas el IDE y el compilador integrados de una vez, pero no lo he usado nunca. Y aunque ahora es gratis la versión exprés (o podría usar una de prueba para el curso) no me apetecía pelearme con otro IDE. Netbeans cumple casi todo, pero no lleva integrado el compilador. Ni Eclipse, pero ya que conozco razonablemente Eclipse tras todo el tiempo que le he dedicado <a href="/formacion/"><span style="color: #000000;">impartiendo cursos de Java</span></a> y preparando <a href="/category/informatica/programacion/java/scjp/"><span style="color: #000000;">certificaciones</span></a>, me parecía la mejor opción. Así que vamos con la instalación de Eclipse para programar en C en Windows.</p>
+<h2>Instalar el compilador de C</h2>
+<p style="text-align: justify;">Lo primero que hay que tener claro es que Eclipse sólo es un Entorno Integrado de Desarrollo. Un IDE. Un editor potente, un programa para organizar tus proyectos de software y no pelearte con ficheros sueltos en una carpeta, un sitio donde ver los errores de compilación y leer la ayuda. Un aglutinador de herramientas. Pero no es un compilador. No lo incluye. E igual que cuando preparas un Elcipse para programar en Java hay que instalar previamente el JDK, que incluye el compilador de Java, aquí hay que instalar el compilador de C.</p>
+<p style="text-align: justify;">Buscando uno libre y moderno (el último compilador de C que usé en S.O. Microsoft fue el <a href="http://www.delorie.com/djgpp/history.html"><span style="color: #000000;">djgpp</span></a> sobre MSDOS), di con <a href="http://www.mingw.org/"><span style="color: #000000;">MinGW</span></a>, Minimalist GNU for Windows, un conjunto de herramientas GNU (las mismas que se encuentran en GNU/Linux) pero compiladas para Windows. ¡Perfecto!. Instalando esto ya tengo GCC (el compilador de C en Linux y Mac de toda la vida), make y el resto de herramientas de desarrollo desde la linea de comandos. Instalarlo es descargar el ejecutable y pulsar en Siguiente, Siguiente hasta el final. Ojo: instala MinGW en C:\MinGW para evitar problemas posteriores. Es el sitio que aparece por defecto al instalar, así que déjalo como esté.</p>
+<p style="text-align: justify;">Tras la instalación, y para que Eclipse pueda encontrarlo, tendremos que añadir la carpeta con los ejecutables de MinGW al PATH del sistema (<a href="http://www.mingw.org/wiki/InstallationHOWTOforMinGW"><span style="color: #000000;">instrucciones en Inglés</span></a>, o bien sigues leyendo). Para poder usar cualquier programa en Windows tenemos dos opciones: o bien vamos a la carpeta donde está el programa y lo lanzamos desde ahí, o incluímos la carpeta en la variable PATH del sistema de forma que cada vez que se necesite ejecutar ese programa Windows lo encuentre. Vamos a ello. Abrimos un explorador de Windows (Tecla Windows + E) y pulsamos con el botón derecho del ratón sobre Equipo.</p>
+<div style="text-align: justify;">
+<div id="attachment_1333" style="width: 962px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/config.-sistema.png"><img class="size-full wp-image-1333" title="Configuración del Sistema" src="/wp-content/uploads/2011/01/config.-sistema.png" alt="Configuración del Sistema" width="952" height="731" srcset="/wp-content/uploads/2011/01/config.-sistema.png 952w, /wp-content/uploads/2011/01/config.-sistema-300x230.png 300w" sizes="(max-width: 952px) 100vw, 952px" /></a><p class="wp-caption-text">Configuración del Sistema</p></div>
+</div>
+<p style="text-align: justify;">Si pulsamos en «Configuración Avanzada del Sistema» nos aparecerá la ventana clásica de «Propiedades del Sistema» de XP. Si no está abierta, hacemos click sobre la pestaña «Opciones avanzadas» y veremos un botón abajo del todo que pone «Variables de entorno». Entrando, veremos dos tipos de variables: del Sistema y de nuestro usuarios. Las variables del Sistema tienen efecto para cualquier usuario que inicie sesión en esta máquina, mientras que las del usuario sólo nos afectan a nosotros mismos. Cuando añado algo al PATH, me gusta que sea a nivel del Sistema, así que buscamos PATH y doble click. En la ventana que se abre, debemos ir al final de la lista de directorios, añadir un punto y coma y la carpeta donde está MinGW.</p>
+<div style="text-align: justify;">
+<div id="attachment_1334" style="width: 389px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/path.png"><img class="size-full wp-image-1334" title="Configurando PATH" src="/wp-content/uploads/2011/01/path.png" alt="Configurando PATH" width="379" height="153" srcset="/wp-content/uploads/2011/01/path.png 379w, /wp-content/uploads/2011/01/path-300x121.png 300w" sizes="(max-width: 379px) 100vw, 379px" /></a><p class="wp-caption-text">Configurando PATH</p></div>
+</div>
+<div style="text-align: justify;">Mi PATH queda algo como:</div>
+<pre>%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;...;C:\MinGW\bin</pre>
+<p style="text-align: justify;">
+<p style="text-align: justify;">La prueba definitiva de que todo está OK es abrir un intérprete de comandos de Windows, pulsando la Tecla Windows + R y escribiendo «cmd» en el diálogo que aparece. Si escribimos gcc -v y nos aparece información sobre nuestra versión instalada del compilador de C GCC, felicidades. Ya podemos compilar.</p>
+<div id="_mcePaste">
+<div id="attachment_1335" style="width: 687px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/prueba-mingw.png"><img class="size-full wp-image-1335" title="MinGW funciona!" src="/wp-content/uploads/2011/01/prueba-mingw.png" alt="MinGW funciona!" width="677" height="342" srcset="/wp-content/uploads/2011/01/prueba-mingw.png 677w, /wp-content/uploads/2011/01/prueba-mingw-300x151.png 300w" sizes="(max-width: 677px) 100vw, 677px" /></a><p class="wp-caption-text">MinGW funciona!</p></div>
+</div>
+<h2>Instalar un entorno JRE de Java</h2>
+<p style="text-align: justify;">Eclipse es un programa que está escrito en Java. Luego para poder ejecutarlo necesitamos <a href="http://www.java.com/es/download/">instalar en nuestro Windows el JRE</a> (Java Runtime Environment). Una vez que lo tengamos, podremos ejecutar cualquier programa Java, así como Applets en el navegador. Probablemente ya lo tengas instalado (puedes ver si tienes en Archivos de Programa una carpeta llamada Java) pero si tienes dudas, instálate el último JRE de la página de Sun (ahora Oracle). Para comprobarlo, desde una terminal, escribe java -version.</p>
+<h2>Instalar Eclipse CDT</h2>
+<p style="text-align: justify;">Siguente paso: descargar Eclipse. Para ello, buscaremos la versión correcta, ya que Eclipse es un IDE que sirve para todo. Con Eclipse podemos programar en C, C++, Java, PHP, &#8230; casi en cualquier cosa. Por ello, hay paquetes ya precreados con un Eclipse totalmente configurado para un uso determinado. El que nos hace falta en este caso es el <a href="http://www.eclipse.org/cdt/">Eclipse CDT</a></p>
+<p style="text-align: justify;">Descargamos el fichero (tardará un rato, pesa unos cuantos MB) y una vez lo tengamos, lo movemos a la carpeta que queramos. Aunque Eclipse sea un programa no se «instala» en Archivos de Programa, aunque podemos moverlo ahí. Realmente se descomprime, se abre, se pulsa sobre el icono de Eclipse y listo.</p>
+<p style="text-align: justify;">Si todo ha ido bien, podremos crear un nuevo proyecto C, añadir un fichero y compilar sin problemas. Pero esto va a ser material para otro post.</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		Posted in <a href="/category/informatica/" rel="category tag">Informática</a>, <a href="/category/informatica/programacion/" rel="category tag">Programación</a>, <a href="/category/informatica/windows/" rel="category tag">Windows</a><span class="sep"> &#183; </span>Tagged <a href="/tag/c/" rel="tag">C</a>, <a href="/tag/formacion/" rel="tag">Formación</a>, <a href="/tag/informatica/" rel="tag">Informática</a>, <a href="/tag/programacion/" rel="tag">Programación</a>
+			</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+			
+	<nav role="navigation" id="nav-below" class="navigation-post">
+		<div id="nav-below-separator">
+			<h1 class="assistive-text">Post navigation</h1>
+
+		
+			<div class="previous"><a href="/2010/12/29/problemas-con-el-disco-duro-de-mi-imac/" rel="prev"><span class="meta-nav">Previous Article</span><br />Problemas con el disco duro de mi iMac</a></div>
+			<div class="next"><a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/" rel="next"><span class="meta-nav">Next Article</span><br />Windows 7 corre que se las pela en mi viejo MacBook Pro</a></div>
+
+				</div>
+	</nav><!-- #nav-below -->
+	
+			
+
+	<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			17 comments		</h2>
+
+		
+		<ol class="comment-list">
+				<li class="comment even thread-even depth-1" id="li-comment-10063">
+		<article id="comment-10063" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Jose Hidalgo</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-10063"><time datetime="enero 5th, 2011">
+								2011 / enero / 5, miércoles 9:41 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Mirate esta: <a href="http://www.codeblocks.org/" rel="nofollow">http://www.codeblocks.org/</a> Yo la uso en la UPO<br />
+para enseñar C a los alumnos y es una herramienta bastante<br />
+extendida en el mundillo del C. A mi me gusta mucho&#8230;</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-10064">
+		<article id="comment-10064" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-10064"><time datetime="enero 5th, 2011">
+								2011 / enero / 5, miércoles 10:02 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Gracias, Jose</p>
+<p>La miraré 🙂</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-10077">
+		<article id="comment-10077" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">juanma71</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-10077"><time datetime="enero 6th, 2011">
+								2011 / enero / 6, jueves 11:59 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>No te compliques, compañero. El otro día tuve que programar<br />
+una pequeña aplicación para nuestra red Windows (en concreto, un<br />
+salvapantallas con unas características muy concretas) y lo hice<br />
+con Turbo C. Tamaño del ejecutable: 68 KB, sin el problema de la<br />
+dependencia de archivos DLL ni cosas parecidas. Es un alivio que<br />
+Windows siga ejecutando antiguos programas de MS-DOS.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-10091">
+		<article id="comment-10091" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-10091"><time datetime="enero 6th, 2011">
+								2011 / enero / 6, jueves 10:36 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Si fuera para mi, probablemente lo usaría, más que nada porque todavía me acuerdo de los atajos de teclado<br />
+Creo que los alumnos preferirán algo con ratón, ya que aprender C y a la vez un entorno retro va a ser demasiado 🙂</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='/2011/04/05/una-manana-de-trabajo-cualquiera/' rel='external nofollow' class='url'>Una mañana de trabajo cualquiera</a></p>
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-23728">
+		<article id="comment-23728" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">mvnet</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-23728"><time datetime="septiembre 25th, 2011">
+								2011 / septiembre / 25, domingo 10:00 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola, he instalado windows 7 64 bits en la partición bootcamp de mi macbook, ¿es posible instalar todo esto que comentas siendo mi sistema de 64 bits, o esto es solo para 32?<br />
+Muchas gracias</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt thread-odd thread-alt depth-1" id="li-comment-23729">
+		<article id="comment-23729" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-23729"><time datetime="septiembre 25th, 2011">
+								2011 / septiembre / 25, domingo 10:09 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola, mvnet</p>
+<p>Claro que puedes instalarlo todo. Si dispones de versiones específicas de 64bits es mejor que instales esas. Aunque creo que no tendrías demasiados problemas corriendo software de 32 en un S.O. de 64. Al revés no es tan fácil 😉</p>
+<p>¿Planteándote programar en C? Buen lenguaje</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-34283">
+		<article id="comment-34283" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">dm89</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-34283"><time datetime="febrero 17th, 2012">
+								2012 / febrero / 17, viernes 6:26 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola,<br />
+Interesante post. Soy estudiante de master y la verdad que siempre que he programado en C, C++, o sea el lenguaje que sea, lo he hecho con el gedit de Linux y utilizando los compiladores correspondientes gcc, g++,&#8230;</p>
+<p>En fin, la cuestión es que ahora quiero programar en Windows 7 en C++, utilizando librerías de OpenCV. </p>
+<p>Se adapta tu post a mis necesidades? Basicamente la pregunta es&#8230; el compilador de C que has mencionado compila tambien C++ y las librerías de OpenCV? </p>
+<p>Gracias</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-34286">
+		<article id="comment-34286" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-34286"><time datetime="febrero 17th, 2012">
+								2012 / febrero / 17, viernes 6:42 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola Dani</p>
+<p>El compilador de C que incorpora MinGW es gcc. Y la biblioteca OpenCV tiene versión para Windows: <a href="http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.3.1/" rel="nofollow">http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.3.1/</a>. Que funcione, es decir, que puedas crear un ejecutable enlazando tu código con esta biblioteca depende de si OpenCV tiene otras dependencias que debas instalar (otras bibliotecas).</p>
+<p>Para solucionar esa duda, tendrás que instalarlo todo y probar. </p>
+<p>Un saludo</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-36021">
+		<article id="comment-36021" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Lulú</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-36021"><time datetime="marzo 10th, 2012">
+								2012 / marzo / 10, sábado 11:35 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>¡Hola!</p>
+<p>Está muy bueno tu post. Tengo un problema para usar el eclipse, me pide el JDK o el JRE pero ya los tengo instalados y me dice que no los encuentra en el path, ya lo modifique y no abre, espero  que me puedas ayudar&#8230;. Gracias</p>
+<p>Saludos 🙂</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-36134">
+		<article id="comment-36134" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-36134"><time datetime="marzo 12th, 2012">
+								2012 / marzo / 12, lunes 8:45 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Si no te arranca Eclipse, probablemente sea porque la ruta que has puesto en PATH del JDK tenga espacios. Puedes probar a ponerla entre comillas dobles.<br />
+Pero la forma «definitiva» de hacer que Eclipse se inicie es copiar la carpeta JRE que tienes dentro de la carpeta en la que se ha instalado el JDK (algo como c:\Program Files\Java\jdk1.6.0_23\jre) dentro de la carpeta de Eclipse. Eclipse, si encuentra una carpeta jre «a mano» la usa 😀<br />
+Un saludo</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-63756">
+		<article id="comment-63756" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Fernando</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-63756"><time datetime="julio 13th, 2012">
+								2012 / julio / 13, viernes 6:33 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>¿Cual es el problema si el terminal no me reconoce el comando cgg -v?</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-64003">
+		<article id="comment-64003" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-64003"><time datetime="julio 14th, 2012">
+								2012 / julio / 14, sábado 9:09 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola Fernando</p>
+<p>El compilador es el Gnu C Compiler == GCC. Luego el comando es gcc -v. Mira si lo escribes bien 😉</p>
+<p>Un saludo</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-64905">
+		<article id="comment-64905" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Fernando</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-64905"><time datetime="julio 16th, 2012">
+								2012 / julio / 16, lunes 12:16 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola dfreniche</p>
+<p>Gracias por describirme el comando pero el problema es que no me lo reconoce. No tengo claro si me he saltado algun paso antes del path. De todas formas en el path tampoco estoy seguro que direccion hay que escribir en el.</p>
+<p>Gracias 🙂</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-130316">
+		<article id="comment-130316" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Nelson</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-130316"><time datetime="marzo 3rd, 2013">
+								2013 / marzo / 3, domingo 7:04 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>El PATH es: C:\MinGW\bin\     con la barra al final, sinó no te va a reconocer los comandos</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor even depth-2" id="li-comment-131785">
+		<article id="comment-131785" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-131785"><time datetime="marzo 10th, 2013">
+								2013 / marzo / 10, domingo 7:00 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola Nelson</p>
+<p>En los Windows que he usado, desde el 3.1 al 7, no. Para añadir una carpeta al PATH basta con poner PATH=%PATH%;c:\mi-path<br />
+No se qué versión estás usando, o qué problema te da, pero «a mi me funciona» © 😀</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-204125">
+		<article id="comment-204125" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Fabiana</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comment-204125"><time datetime="septiembre 4th, 2013">
+								2013 / septiembre / 4, miércoles 2:31 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola, no se si puedes ayudarme, pero cualquier informacion al respecto me puede ayudar. En el trabajo me pidieron implementar un IDE para el lenguaje de programación que crearon. Intente hacerlo con Visual Studio Shell Isolated pero no he logrado que funcione correctamente.<br />
+Actualmente estan usando Xtext, pero no estan conformes.<br />
+Me dijeron que lo puedo hacer con DLTK en Eclipse, ¿es correcto?.<br />
+No tengo mucha experiencia trabajando con java ni con Eclipse, pero por lo que encontre en estos dias creo que se puede hacer con plugin, si pudes ayudarme o referirme algun sitio que me brinde dicha información te lo agradeceria.</p>
+<p>Desde ya muchas gracias.<br />
+Fabiana.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+			<p class="no-comments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search" class="widget widget_search">
+				<form method="get" id="searchform" class="searchform" action="/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" id="searchsubmit" value="Search" />
+	</form>
+		</aside>
+	</div><!-- #secondary -->
+
+	</div><!-- #main -->
+</div><!-- #page -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div id="footer-wrapper">
+		<div class="site-info">
+			<div id="site-info-wrapper">
+				<div id="site-info-wrapper2">
+										&#169; Copyright 2014 <a href="/">freniche.com</a>. Powered By <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">WordPress</a>.
+					<br />
+					Designed & Crafted by <a href="http://wpshower.com/">Wpshower</a>.
+				</div>
+			</div>
+		</div><!-- .site-info -->
+		<div id="social">
+			<div id="social_wrapper">
+				<div id="social_wrapper2">
+						<a href="https://twitter.com/dfreniche">w</a>
+						<a href="http://feeds.feedburner.com/dfreniche">r</a>
+					</div>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"es-ES","strings":{"Close":"Cerrar","Fullscreen":"Pantalla completa","Turn off Fullscreen":"Salir de pantalla completa","Go Fullscreen":"Ver en pantalla completa","Download File":"Descargar archivo","Download Video":"Descargar v\u00eddeo","Play":"Reproducir","Pause":"Pausa","Captions\/Subtitles":"Pies de foto \/ Subt\u00edtulos","None":"Ninguno","Time Slider":"Control de tiempo","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Reproductor de v\u00eddeo","Audio Player":"Reproductor de audio","Volume Slider":"Control de volumen","Mute Toggle":"Desactivar sonido","Unmute":"Activar sonido","Mute":"Silenciar","Use Up\/Down Arrow keys to increase or decrease volume.":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.13'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/wpshower-responsive-videos.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery.mousewheel.js?ver=3.1.6'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/fancybox/jquery.fancybox.js?ver=3b1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/markdown.min.js?ver=1.5.1'></script>
+
+</body>
+</html>

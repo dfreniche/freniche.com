@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Internet &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/internet/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>YSOD: Youtube Screen Of Death</title>
+		<link>/2012/11/15/ysod-youtube-screen-of-death/</link>
+		<pubDate>Thu, 15 Nov 2012 09:49:06 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=1804</guid>
+		<description><![CDATA[Es enfermizo, pero me gusta recopilar las pantallas con los servicios que uso cuando fallan. Al estilo de los pantallazos azules de Windows (Blue Screen Of Death, BSOD), creo que acuñé el término GSOD para Google. Hoy he ido a ver un vídeo en Youtube y me he encontrado con esto. Disfrutadlo 😉]]></description>
+				<content:encoded><![CDATA[<p>Es enfermizo, pero me gusta recopilar las pantallas con los servicios que uso cuando fallan. Al estilo de los pantallazos azules de Windows (Blue Screen Of Death, BSOD), creo que acuñé el término GSOD para Google. Hoy he ido a ver un vídeo en Youtube y me he encontrado con esto. Disfrutadlo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="/wp-content/uploads/2012/11/ysod.png"><img class="aligncenter  wp-image-1805" title="Youtube Screen Of Death" src="/wp-content/uploads/2012/11/ysod.png" alt="Pantalla de Youtube mostrando un mensaje de error" width="480" height="419" srcset="/wp-content/uploads/2012/11/ysod.png 800w, /wp-content/uploads/2012/11/ysod-300x262.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El sistema de control de versiones de Dropbox</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/</link>
+		<comments>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comments</comments>
+		<pubDate>Thu, 09 Sep 2010 17:26:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1072</guid>
+		<description><![CDATA[Que Dropbox es una maravilla y que me encanta no es nada nuevo. Es sorprendente que te den, gratis, hasta 8 GB sincronizados en la nube y poder acceder a ellos desde Windows, Mac, Linux, tu iPad o tu iPhone. Se ha convertido en una de mis herramientas básicas, de esas que instalas en una [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Que <a href="https://www.dropbox.com/">Dropbox</a> es una maravilla <a href="/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/">y que me encanta</a> no es nada nuevo. Es sorprendente que te den, gratis, hasta 8 GB sincronizados en la nube y poder acceder a ellos desde Windows, Mac, Linux, tu iPad o tu iPhone. Se ha convertido en una de mis herramientas básicas, de esas que instalas en una máquina nueva en cuanto te la dan.</p>
+<p style="text-align: justify;">Y una de las características de Dropbox mejores, pero de las que extrañamente menos se habla, es su <strong>sistema de control de versiones integrado</strong> y automático. Si eres programador, estarás habituado a usar un <a href="http://en.wikipedia.org/wiki/Revision_control">SCM</a>, bien sea CVS, svn, git o Mercurial. Si no, voy a explicar con un ejemplo lo que supone tener ese sistema en Dropbox.</p>
+<p style="text-align: justify;">Supongamos que necesitas dibujar un nuevo icono para esa aplicación de iPhone que ya estás terminando. Abres tu programa de retoque fotográfico y dibujo favorito (en mi caso Pixelmator) y creas el nuevo icono en una carpeta de tu Dropbox. Inmediatamente ves que en el icono de tu Dropbox se activa la sincronización: Dropbox está subiendo esa primera versión de tu archivo (vacío y sin nada dibujado aún) a sus servidores. Dibujas, retocas y cambias cosas durante una hora, sin pulsar la combinación de teclas de grabar. Eso, desde luego, es una invitación al desastre: <em>no lo hagas</em>. Seguro que cuando tengas el icono, o el documento, o lo que sea en lo que estás trabajando se te cuelga el programa y no te deja grabar. <em>Así que graba más a menudo</em>. Bueno, pues al grabar antes de irte a por tu merecido café, Dropbox sube la versión tal y como está ahora: casi perfecta. Hay dos versiones de tu icono entonces, la primera que creaste y que está vacía, y esta segunda casi terminada de antes del café.</p>
+<p style="text-align: justify;">Tras el descanso y de discutir con tus compañeros (es <em>increíble</em> que la gente piense que Java es mejor que Objective C!), vuelves un poco enfadado y te pones a experimentar con un nuevo filtro que se carga tu icono, y «sin querer», grabas el icono. ¡Desastre!. En otro caso habrías perdido una mañana de trabajo. Pero ahora, Dropbox al rescate. Cierras tu programa de dibujo, para no liarla más, navegas hasta el fichero y pulsas con el botón derecho del ratón. Dentro del menú contextual de Dropbox, te encuentras con un pequeño menú como este:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/09/dropbox-menu1.png"><img class="aligncenter size-full wp-image-1077" title="dropbox-menu" src="/wp-content/uploads/2010/09/dropbox-menu1.png" alt="" width="279" height="80" /></a><a href="/wp-content/uploads/2010/09/dropbox-menu.png"><br />
+</a>Pulsando sobre la segunda opción (View Previous Versions) podremos consultar nuestro histórico de versiones para ese fichero, en la web de Dropbox. Y lo mejor, podemos convertir en la versión última (la que veremos en nuestra carpeta de Dropbox) cualquiera de esas. Así que nuestro sufrimiento se soluciona simplemente marcando la versión que grabamos antes del café y pulsando Restore. ¡Ya está!. Volvemos a tener la versión casi buena y podemos volver a estropearla las veces que sea necesario: siempre tendremos a Dropbox que vendrá pacientemente a nuestro rescate.</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2010/09/dropbox-versions.png"><img class="aligncenter size-full wp-image-1079" title="dropbox-versions" src="/wp-content/uploads/2010/09/dropbox-versions.png" alt="" width="544" height="199" srcset="/wp-content/uploads/2010/09/dropbox-versions.png 906w, /wp-content/uploads/2010/09/dropbox-versions-300x109.png 300w" sizes="(max-width: 544px) 100vw, 544px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Pequeños detalles</title>
+		<link>/2010/08/30/pequenos-detalles/</link>
+		<comments>/2010/08/30/pequenos-detalles/#comments</comments>
+		<pubDate>Mon, 30 Aug 2010 17:51:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[humor]]></category>
+
+		<guid isPermaLink="false">/?p=1066</guid>
+		<description><![CDATA[Ayer, mientras buscaba en Google algún sitio donde hacerme una camiseta con el diseño de Fanboy que ha puesto en el Blog de Macniacos José (La Voz), me apareció entre los enlaces patrocinados este que no pude evitar capturar, cortar y pegar aquí. Es increíble lo que puede cambiar el sentido de una frase por [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ayer, mientras buscaba en Google algún sitio donde hacerme una <a href="http://www.macniacos.com/2010/07/29/fanboy-fangirl-las-camisetas/">camiseta con el diseño de Fanboy</a> que ha puesto en el Blog de Macniacos José (La Voz), me apareció entre los enlaces patrocinados este que no pude evitar capturar, cortar y pegar aquí. Es increíble lo que puede cambiar el sentido de una frase por un pequeño detalle <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="/wp-content/uploads/2010/08/detalles.png"><img class="aligncenter size-full wp-image-1067" title="detalles" src="/wp-content/uploads/2010/08/detalles.png" alt="" width="233" height="68" /></a></p>
+<p>En cualquier caso consiguió lo que buscaba: llamó mi atención. Y voy a hacerme una camiseta de estas, al menos, para ir a la <a href="http://www.opensourceworldconference.com/malaga10/">Conferencia Internacional del Software Libre</a>, a ver qué me dicen <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/08/30/pequenos-detalles/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Oops, Google! Menos darle cañita a Apple y más mirar estas cosas&#8230;</title>
+		<link>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/</link>
+		<comments>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/#comments</comments>
+		<pubDate>Wed, 26 May 2010 18:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Bugs]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">/?p=1018</guid>
+		<description><![CDATA[Ha vuelto la Google Screen Of Death (TM Diego Freniche), o GSOD. Que cuando sale un kernel panic en Linux o una pantalla azul en Windows bien que nos reímos. Bueno, pues a Google también le pasa: Google: menos Buzz y Wave, y más hacer que el buscador sea lo que fue y que no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Ha vuelto la Google Screen Of Death (TM Diego Freniche), o GSOD. Que cuando sale un kernel panic en Linux o una pantalla azul en Windows bien que nos reímos. Bueno, pues a Google también le pasa:</p>
+<div id="attachment_1019" style="width: 410px" class="wp-caption aligncenter"><img class="size-full wp-image-1019" title="GSOD" src="/wp-content/uploads/2010/05/GSOD-e1274899109968.png" alt="" width="400" height="319" /><p class="wp-caption-text">Google Screen Of Death, también conocida por ERROR 500 HTTP</p></div>
+<p>Google: menos Buzz y Wave, y más hacer que el buscador sea lo que fue y que no pasen estas cosas&#8230; aunque tú ya lo sabes <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Por cierto, te sigo amando <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Manifiesto: En defensa de los derechos fundamentales en Internet</title>
+		<link>/2009/12/03/manifiesto-en-defensa-de-los-derechos-fundamentales-en-internet/</link>
+		<pubDate>Thu, 03 Dec 2009 21:29:06 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[chorizos]]></category>
+		<category><![CDATA[políticos]]></category>
+		<category><![CDATA[porquevivirtranquilopudiendovivircrispado]]></category>
+		<category><![CDATA[ramoncines]]></category>
+		<category><![CDATA[Rants&Flames]]></category>
+
+		<guid isPermaLink="false">/?p=501</guid>
+		<description><![CDATA[Ante la inclusión en el Anteproyecto de Ley de Economía sostenible de modificaciones legislativas que afectan al libre ejercicio de las libertades de expresión, información y el derecho de acceso a la cultura a través de Internet, los periodistas, bloggers, usuarios, profesionales y creadores de Internet manifestamos nuestra firme oposición al proyecto, y declaramos que: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Ante la inclusión en el Anteproyecto de Ley de Economía sostenible de modificaciones legislativas que afectan al libre ejercicio de las libertades de expresión, información y el derecho de acceso a la cultura a través de Internet, los periodistas, bloggers, usuarios, profesionales y creadores de Internet manifestamos nuestra firme oposición al proyecto, y declaramos que:</p>
+<ol>
+<li style="text-align: justify;"><strong>Los derechos de autor no pueden situarse por encima de los derechos fundamentales de los ciudadanos</strong>, como el derecho a la privacidad, a la seguridad, a la presunción de inocencia, a la tutela judicial efectiva y a la libertad de expresión.</li>
+<li style="text-align: justify;"><strong>La suspensión de derechos fundamentales es y debe seguir siendo competencia exclusiva del poder judicial</strong>. Ni un cierre sin sentencia. Este anteproyecto, en contra de lo establecido en el artículo 20.5 de la Constitución, pone en manos de un órgano no judicial -un organismo dependiente del ministerio de Cultura-, la potestad de impedir a los ciudadanos españoles el acceso a cualquier página web.</li>
+<li style="text-align: justify;"><strong>La nueva legislación creará inseguridad jurídica en todo el sector tecnológico español</strong>, perjudicando uno de los pocos campos de desarrollo y futuro de nuestra economía, entorpeciendo la creación de empresas, introduciendo trabas a la libre competencia y ralentizando su proyección internacional.</li>
+<li style="text-align: justify;"><strong>La nueva legislación propuesta amenaza a los nuevos creadores y entorpece la creación cultural</strong>. Con Internet y los sucesivos avances tecnológicos se ha democratizado extraordinariamente la creación y emisión de contenidos de todo tipo, que ya no provienen prevalentemente de las industrias culturales tradicionales, sino de multitud de fuentes diferentes.</li>
+<li style="text-align: justify;"><strong>Los autores</strong>, como todos los trabajadores, <strong>tienen derecho a vivir de su trabajo con nuevas ideas creativas, modelos de negocio y actividades asociadas a sus creaciones</strong>. <strong>Intentar sostener con cambios legislativos a una industria obsoleta que no sabe adaptarse a este nuevo entorno no es ni justo ni realista</strong>. Si su modelo de negocio se basaba en el control de las copias de las obras y en Internet no es posible sin vulnerar derechos fundamentales, deberían buscar otro modelo.</li>
+<li style="text-align: justify;">Consideramos que las industrias culturales necesitan para sobrevivir alternativas modernas, eficaces, creíbles y asequibles y que se adecuen a los nuevos usos sociales, en lugar de limitaciones tan desproporcionadas como ineficaces para el fin que dicen perseguir.</li>
+<li style="text-align: justify;"><strong>Internet debe funcionar de forma libre y sin interferencias políticas</strong> auspiciadas por sectores que pretenden perpetuar obsoletos modelos de negocio e imposibilitar que el saber humano siga siendo libre.</li>
+<li style="text-align: justify;"><strong>Exigimos que el Gobierno garantice por ley la neutralidad de la Red en España</strong>, ante cualquier presión que pueda producirse, como marco para el desarrollo de una economía sostenible y realista de cara al futuro.</li>
+<li style="text-align: justify;">Proponemos una verdadera reforma del derecho de propiedad intelectual orientada a su fin: devolver a la sociedad el conocimiento, promover el dominio público y limitar los abusos de las entidades gestoras.</li>
+<li style="text-align: justify;">En democracia las leyes y sus modificaciones deben aprobarse tras el oportuno debate público y habiendo consultado previamente a todas las partes implicadas. No es de recibo que se realicen cambios legislativos que afectan a derechos fundamentales en una ley no orgánica y que versa sobre otra materia.</li>
+</ol>
+<p><em>Me uno al Manifiesto en defensa de los derechos fundamentales de Internet. Ya está bien de tanto canon, de considerarnos chorizos de forma preventiva, de que una entidad privada aterrorice a toda España como los nuevos matones del barrio cobrando por su protección digital y a que nos tomen por tontos.</em></p>
+<p style="text-align: justify;"><em>Este Manifiesto está por toda Internet. Os animo a copiarlo y difundirlo si estáis de acuerdo. En mi caso, lo he copiado de </em><a href="http://www.microsiervos.com/archivo/internet/en-defensa-de-los-derechos-fundamentales-en-internet.html"><em>Microsiervos</em></a><em>.</em></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¡Al fin! Vídeo de la grabación de Macniacos en el EBE09, subido</title>
+		<link>/2009/11/24/al-fin-video-de-la-grabacion-de-macniacos-en-el-ebe09-subido/</link>
+		<pubDate>Tue, 24 Nov 2009 22:38:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[macniacos]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">/?p=478</guid>
+		<description><![CDATA[Ha costado lo suyo. Pero, al final, parece que se ha subido el vídeo. En el Evento Blog España 2009 (EBE09 para acortar) que tuvo lugar del pasado 13 al 15 de Noviembre conocí a mucha gente y estuve en bastantes sitios. Pero lo que marcó con diferencia el EBE09 para mi fue el conocer [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Ha costado lo suyo. Pero, al final, parece que se ha subido el vídeo. En el <a href="http://eventoblog.com/">Evento Blog España 2009</a> (EBE09 para acortar) que tuvo lugar del pasado 13 al 15 de Noviembre conocí a mucha gente y estuve en bastantes sitios. Pero lo que marcó con diferencia el EBE09 para mi fue el conocer a José y Valen, las dos voces del podcast <a href="http://www.macniacos.com/">Macniacos</a>. Tras unos tuiteos previos, quedamos el Sábado 14 y grabamos, en directo, cómo se hace un podcast. Bueno, lo han bautizado como <em>tertulia podcastera</em>, porque realmente no hablaron de nada concreto.</p>
+<p style="text-align: justify;">En este episodio participaron Valen y José, de Macniacos, Berto Pena (<a href="http://thinkwasabi.com/">ThinkWasabi</a>), Serantes (del <a href="http://www.serantes.es/">Blog de Serantes</a>) y Rubén (<a href="http://www.tazzito.com/">Tazzito</a>). Lo grabamos entre Juaco y yo, con mi vieja cámara SD Sony, que tan buen servicio me está dando. De momento lo he subido a Blip.tv, y necesitas tener instalado algún plug-in de quicktime para ver el vídeo. Por desgracia, hay algún error al convertirlo a Flash. Intentare en los próximos días subirlo a algún otro sitio, ya que en Youtube los vídeos sólo pueden tener 10 minutos de duración máxima y en Vimeo las cuentas gratuítas sólo pueden subir 500 MB por semana. Y este videocast, con su 59 min. y 640 MB sobrepasa todo lo esperado. Aunque casi cumple con la Ley Emilcar :-). Si consigo ponerlo en Flash en algún otro sitio actualizaré el post y lo comunicaré por <a href="http://twitter.com/dfreniche">Twitter</a>.</p>
+<p style="text-align: justify;">
+<div id="attachment_483" style="width: 606px" class="wp-caption aligncenter"><a href="http://blip.tv/file/2889752"><img class="size-full wp-image-483" title="macniacosEBE09live" src="/wp-content/uploads/2009/11/macniacosEBE09live.png" alt="Pulsa para ver el vídeo en Blip.tv" width="596" height="337" srcset="/wp-content/uploads/2009/11/macniacosEBE09live.png 596w, /wp-content/uploads/2009/11/macniacosEBE09live-300x169.png 300w" sizes="(max-width: 596px) 100vw, 596px" /></a><p class="wp-caption-text">Pulsa para ver el vídeo en Blip.tv</p></div>
+<p style="text-align: justify;">
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¡Ya puedes seguirme en Twitter!</title>
+		<link>/2009/11/16/ya-puedes-seguirme-en-twitter/</link>
+		<pubDate>Mon, 16 Nov 2009 07:33:34 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[freniche.com]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[web2.0]]></category>
+
+		<guid isPermaLink="false">/?p=462</guid>
+		<description><![CDATA[Si quieres mantenerte informado de en qué ando metido, recibir URLs interesantes en tu timeline o contactar rápidamente conmigo, puedes seguirme en Twitter. Ya llevo publicados unos cuantos Tweets, sobre todo para ir probando la herramienta. Aunque la cosa se ha desbocado un poco en el EBE09. Tenía incontinencia Twittera 🙂 Yo era de los [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Si quieres mantenerte informado de en qué ando metido, recibir URLs interesantes en tu <em>timeline</em> o contactar rápidamente conmigo, puedes <a href="http://twitter.com/dfreniche">seguirme en Twitter</a>.<br />
+<a href="http://www.flickr.com/photos/matthamm/3383916444/"><img class="size-medium wp-image-463 alignright" title="Pulsar para ver al autor" src="/wp-content/uploads/2009/11/twitter_bird_01-299x187.png" alt="twitter_bird_01" width="299" height="187" srcset="/wp-content/uploads/2009/11/twitter_bird_01-299x187.png 299w, /wp-content/uploads/2009/11/twitter_bird_01.png 562w" sizes="(max-width: 299px) 100vw, 299px" /></a></p>
+<p>Ya llevo publicados unos cuantos Tweets, sobre todo para ir probando la herramienta. Aunque la cosa se ha desbocado un poco en el EBE09. Tenía incontinencia Twittera <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+Yo era de los que no tenían claro para qué demonios sirve esto de Twitter, que a fin de cuentas no es más que un servicio que te permite colgar en una web SMSs glorificados. Aunque lo use mucha gente, las ideas detrás de Twitter no son nuevas, aunque sí que lo es la forma de usarlas:</p>
+<ul>
+<li>los cambios de estado existen desde que hay clientes de mensajería instantánea. Aunque antes no quedaban registrados en ningún sitio y se perdían. Y no podías consultar que tu prima, hace dos meses, «acababa de bajarse del autobús»</li>
+<li>los chats nos ofrecían comunicación directa con un grupo de amigos. Pero esta comunicación es síncrona: nuestros amigos deben estar conectados a la misma vez que nosotros para poder charlar. Twitter es asíncrono. Uno Twittea algo y ya lo verán luego sus compañeros de sala de chat, transformados ahora en followers. Y aunque nos sorprenda, las comunicaciones asíncronas siempre son más rápidas que las síncronas (especialmente con tantas personas) porque no hay que esperar turno de palabra.</li>
+<li>Twitter es bastante cutre con sus 140 caracteres de máximo. Hay que apoyarse en otros servicios para <a href="http://twitpic.com/">subir una foto</a> o <a href="http://bit.ly/">acortar un enlace</a>. Pero quizá esto se transforma en virtud: hay que ser directo. Supongo que en el infierno a Fidel Castro lo van a condenar a Twittear sus discursos por toda la eternidad.</li>
+</ul>
+<p>Yo no quiero usar Twitter para quedar con los amigos, o para los cambios de estado. Para eso, prefiero Facebook, que es público, pero entre un grupo de gente con la que me relaciono. Twitter lo voy a usar de forma «profesional», para hacer SEO personal. Creo que debe ser una forma de descubrir a los demás contenido interesante con el que te has topado, contar qué estás haciendo en el trabajo, qué nuevos proyectos arrancas, cuándo has escrito algo en tu blog, etc.</p>
+<p>Bueno, me uno a esta nueva red social, con cierto atraso y un poco de reluctancia, pero viendo <a href="http://twitter.com/dfreniche/status/5743017559">los cuatro primeros Followers que tengo</a>, ¡se le sube a uno a moral!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>De curso por Madrid (I)</title>
+		<link>/2009/05/27/de-curso-por-madrid-i/</link>
+		<pubDate>Wed, 27 May 2009 22:42:07 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Formación]]></category>
+
+		<guid isPermaLink="false">/2009/05/27/de-curso-por-madrid-i/</guid>
+		<description><![CDATA[Escribo esto justo antes de irme a la cama, en el hotel en el que estoy parando en Madrid. Las conexiones 3G son una maravilla y nos han cambiado la idea de lo que es estar conectado. En el AVE he venido conectado sin interrupciones desde Sevilla, trabajando, respondiendo correos, cerrando incidentes con el otrs&#8230; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Escribo esto justo antes de irme a la cama, en el hotel en el que estoy parando en Madrid. Las conexiones 3G son una maravilla y nos han cambiado la idea de lo que es estar conectado. En el AVE he venido conectado sin interrupciones desde Sevilla, trabajando, respondiendo correos, cerrando incidentes con el <a href="http://otrs.org/">otrs</a>&#8230; Algo impensable hace bien poco. Y encima, en el hotel, me permite conectarme y hacerle un corte de mangas a la conexión esta que cobran a precio de oro. ¿Dos Euros por una hora de conexión, a través de una Wifi no segura?. No, aún no estamos locos, no.</p>
+<p align="justify">Estoy en Madrid para asistir a un curso de IDC sobre consolidación de CPDs mediante virtualización. Pinta bien. Y vengo de otro curso sobre cableado estructural esta tarde, en Sevilla, cortesía de Ortronics. He decidido unir todo lo relativo a formarme sobre CPDs en un par de días o tres, lo que me permite enfocarme sobre los problemas y las posibles soluciones del CPD del que soy responsable en Isotrol. Así que ahora estoy «en modo CPD». Es otra manera de ser más productivo, como no para de machacar Berto en su blog, <a href="http://thinkwasabi.com/">Thinkwasabi</a>, que recomiendo para todos aquellos que les guste el trabajo bien hecho. Ese blog es una gozada de leer.</p>
+<p align="justify"><img src="/wp-content/uploads/2009/05/img_0221.JPG" alt="La Gran Vía Madrileña" width="600" /></p>
+<p align="justify">Estoy en el hotel Tryp Cibeles. La entrada, en la calle Mesonero Romanos (a un lado de la Gran Vía), no inspira demasiada confianza. Al llegar, hay un vigilante y dos ascensores. Das el santo y seña y te dejan subir. Parece un poco la oficina del Superagente 86. Pero luego la habitación que me han dado está genial. Con tres camas, enorme. Y lo mejor de todo: con un balcón sobre la Gran Vía. Sin quejas del hotel, todo lo contrario.</p>
+<p align="justify">Me he ido a dar una vuelta por Madrid, paseando. No se qué me pasa cuando vengo, pero tengo que ir a ver la Puerta de Alcalá. Igual, en aquella canción de los 80 grabaron algún tipo de orden subsconciente, pero es que no puedo evitarlo. Y ya me he paseado por los sitios típicos. Hablando de cosas típicas, si vengo a Madrid y no me como una bravas es como si no hubiera venido. Y he querido inmortalizar el momento <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p align="justify"><img src="/wp-content/uploads/2009/05/img_0223.JPG" alt="Papas Bravas" width="600" /></p>
+<p align="justify">Para ser de noche, y estar usando la vituperada cámara del iPhone, tampoco están mal estas fotos. ¡Tengo pulso para robar panderetas!</p>
+<p align="justify">Bueno, mañana la parte interesante del curso. A ver qué vemos que se pueda emplear para mejorar los servicios de TI de Isotrol. Buenas noches.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El vicio de los juegos de estrategia</title>
+		<link>/2009/05/19/el-vicio-de-los-juegos-de-estrategia/</link>
+		<pubDate>Tue, 19 May 2009 18:38:33 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Juegos]]></category>
+
+		<guid isPermaLink="false">/2009/05/19/el-vicio-de-los-juegos-de-estrategia/</guid>
+		<description><![CDATA[Desde siempre me han gustado los juegos de estrategia. De estrategia por turnos. Que eso del tiempo real es un poco estresante, un poco «maricón el último» y que cuando me siento a jugar quiero relajarme y disfrutar, y no estar en tensión pensando que va a venir alguien a destruirme mi imperio construido con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify">Desde siempre me han gustado los juegos de estrategia. De estrategia por turnos. Que eso del tiempo real es un poco estresante, un poco <em>«maricón el último»</em> y que cuando me siento a jugar quiero relajarme y disfrutar, y no estar en tensión pensando que va a venir alguien a destruirme mi imperio construido con tanto cariño. Por eso, desde los tiempos del Civilization primitivo, he jugado un montón de horas de mi vida a la estrategia por turnos: Civ 1,2,3 y 4, sus expansiones, Colonization, Heroes Of Might and Magic, &#8230; Yo tengo un dicho, que uso en las entrevistas de trabajo: no te fíes del informático que no juegue. No se porqué, pero todos los grandes técnicos y profesionales que conozco, al final <em>le dan a algo</em> (hablo de juegos, claro, de otros temas no me parece el sitio apropiado para hablar :-))</p>
+<p style="text-align: justify"> Y desde hace la tira existen los juegos online, multi jugador, masivos, de rol, de estrategia, etc. Pero nunca había probado ninguno. Hasta que he probado <a href="http://www.imperiaonline.org/">Imperia On Line</a>. Es en tiempo real. Eso significa que estoy traicionando mis raíces. Y cuando digo tiempo real, es tiempo real. Si mandas construir algo y tarda 24 h., aunque cierres el navegador en el mundo virtual de Imperia aquello sigue construyéndose. Incluso te pueden atacar cuando no estés frente al ordenador.</p>
+<p><img src="/wp-content/uploads/2009/05/jugando-a-imperia.png" alt="Imperia on line" /></p>
+<p style="text-align: justify">Una de las mayores ventajas que le veo a este tipo de juegos es que siempre puedes abrir una pestaña en tu navegador, y en un par de minutos, dar las órdenes pertinentes en tu imperio. No hay que dejar lo que estás haciendo y lanzar un juego, lo que es una actividad monotarea. Y tampoco me resulta tan absorbente como los juegos tradicionales. Al menos de momento. Creo que la clave está en ser muy disciplinado, ya que estos juegos pueden ser una fuente importante de interrupciones y pérdida de productividad, convirtiéndose en un come-horas. Yo lo uso para recompensarme por hacer una tarea que me resulta desagradable, para cambiar de tarea <em>gorda</em> (una especie de cambio de contexto mental) y antes de irme del trabajo (siempre después de mi hora oficial, que no se preocupe nadie)</p>
+<p style="text-align: justify">En fin, que lo recomiendo, si quieres un entretenimiento pausado y con vistas a obtener frutos en semanas, no en minutos.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Will it blend?</title>
+		<link>/2009/04/26/will-it-blend/</link>
+		<pubDate>Sun, 26 Apr 2009 21:10:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">/2009/04/26/will-it-blend/</guid>
+		<description><![CDATA[Por Internet corren muchas cosas, algunas curiosas, otras aburridas, otras frikis. Vamos, como la vida misma. Pero creo que la serie Will it blend?, que se proyecta en Youtube, es de las frikadas más gordas que he visto nunca. Con una batidora por bandera, se dedican a triturar todo aquello que cae entre sus manos. Y [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify">Por Internet corren muchas cosas, algunas curiosas, otras aburridas, otras frikis. Vamos, como la vida misma. Pero creo que la serie <a href="http://www.youtube.com/user/Blendtec">Will it blend</a>?, que se proyecta en Youtube, es de las frikadas más gordas que he visto nunca. Con una batidora por bandera, se dedican a triturar todo aquello que cae entre sus manos. Y lo hacen con muchos iconos del <em>Geekeismo</em> contemporáneo. Entre ellos el iPhone. En este caso, una imagen vale más que cualquier cosa que cuente, así que&#8230; ¡dentro vídeo!</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/qg1ckCkm8YI" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/qg1ckCkm8YI"></param></object></div>
+</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¡Están locos estos de Apple!</title>
+		<link>/2009/04/18/estan-locos-estos-de-apple/</link>
+		<pubDate>Sat, 18 Apr 2009 11:15:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+
+		<guid isPermaLink="false">/2009/04/18/%c2%a1estan-locos-estos-de-apple/</guid>
+		<description><![CDATA[O algo así diría Obélix al ver el número de aplicaciones del iPhone Apple Store que se han descargado desde su creación. Y recordemos que esa apertura fue en Agosto de 2008 (hace 8 meses). Es curioso ver que, como en otras muchas ocasiones, Apple se ha adelantado en esta idea al resto de su [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">O algo así diría Obélix al ver el número de aplicaciones del iPhone Apple Store que se han descargado desde su creación. Y recordemos que <a href="http://arstechnica.com/apple/news/2008/06/rumor-app-store-and-iphone-2-0-on-june-27th.ars" title="Rumores de la apertura del iPhone App Store">esa apertura fue en Agosto de 2008</a> (hace 8 meses).</p>
+<p><img src="/wp-content/uploads/2009/04/cuenta-atras-1000-millones.png" alt="Contador descargas Apple Store" /></p>
+<p align="justify">Es curioso ver que, como en otras muchas ocasiones, Apple se ha adelantado en esta idea al resto de su competencia. Forzados por la repercusión que ha tenido el poder descargarte cómodamente las aplicaciones directamente a tu dispositivo móvil, tanto Nokia como RIM (Blackberry) han sacado apresuradamente sus tiendas, tanto de música como de aplicaciones. Windows Mobile sigue con su filosofía de «busca por ahí, que nosotros no centralizamos nada». Probablemente porque a Microsoft no se le dan demasiado bien los servicios que se prestan a través de una web (alguien ahí fuera usa la búsqueda web de Microsoft?).</p>
+<p align="justify">Apple se ha adelantado en el display táctil multitouch. Y en simplificar el diseño, tomando decisiones arriesgadas (y muy criticadas), eliminando funcionalidades a cambio de que cualquiera (no sólo los <a href="/category/geeks-freaks-nerds/"><em>geeks</em></a>) puedan usar un iPhone. Con el nuevo iPhone 3.0, parece que van a ser los primeros en incorporar varios núcleos en un dispositivo móvil. Y el resto de empresas de este sector, que no se esperaban este <em>i-Tsunami</em>, están reaccionando tarde y mal, sacando cada mes un <a href="http://www.iphonekiller.com/">iPhone-killer</a> distinto, que ya suena a cachondeo cada vez que lo anuncian. Mil millones de descargas en 8 meses. Ésto es complicado de matar.</p>
+<p>Es muy divertido ver el contador y cómo avanza a base de docenas de descargas por segundo:<br />
+<a href="http://www.apple.com/es/itunes/billion-app-countdown/">Apple &#8211; iTunes &#8211; Cuenta atrás para la aplicación mil millones</a><br />
+<a href="http://www.apple.com/es/itunes/billion-app-countdown/"><br />
+</a><a href="http://www.apple.com/es/itunes/billion-app-countdown/"> </a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Una de enlaces con delicious, en mi Mac y en mi Web</title>
+		<link>/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/</link>
+		<comments>/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/#comments</comments>
+		<pubDate>Sun, 05 Apr 2009 16:07:24 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[del.icio.us]]></category>
+
+		<guid isPermaLink="false">/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/</guid>
+		<description><![CDATA[Entre los múltiples hilos de ejecución que se mueven por mi mente en paralelo habitualmente, hay uno que me machacaba especialmente la parte consciente de mi masa gris: mejorar un poco mis enlaces de delicious, por orden y porque aparecen publicados por aquí abajo. Delicious (supongo que todo el mundo lo sabrá, pero lo explico [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Entre los múltiples hilos de ejecución que se mueven por mi mente en paralelo habitualmente, hay uno que me machacaba especialmente la parte consciente de mi masa gris: mejorar un poco <a href="http://delicious.com/dfreniche">mis enlaces de delicious</a>, por orden y porque aparecen publicados por aquí abajo.</p>
+<p align="justify">Delicious (supongo que todo el mundo lo sabrá, pero lo explico por si acaso) es un servicio de gestión de enlaces / favoritos que guarda esa información en un servidor de Internet, en lugar de localmente en tu navegador. De esta forma, puedes «llevarte» tus favoritos allí donde quieras, símplemente iniciando sesión en Delicious. Antes, tenía el impronunciable (e <em>inescribible</em>, si es que existe este palabro) de del.icio.us, jugando con el nombre de dominio de primer nivel nacional de EE.UU (.us), con el nombre de dominio propio de segundo nivel (icio) y con el nombre la maquina que alberga el servicio web (del). Es decir, del.icio.us  representa a una máquina, llamada <em>del</em>, dentro del dominio <em>icio</em>, que pertenece al dominio nacional <em>us</em>.</p>
+<p align="justify">El caso es que Delicious por si mismo tampoco es para tanto. Hay gente que dice que ha creado el concepto de social bookmarking, refiriéndose a que se pueden encontrar enlaces relacionados con algún tema en concreto buscando por tags, o que se pueden leer las descripciones de los enlaces de otros usuarios. Bueno, al final no es más que una web en la que guardar favoritos. Pero funciona. Y lo hace de Delicious una killer-application son las extensiones que existen para guardar los enlaces directamente desde el navegador, sin necesidad de entrar en el sitio web.</p>
+<p align="justify">Yo utilizo a diario la extensión de Firefox <a href="https://addons.mozilla.org/es-ES/firefox/addon/3615">Delicious Bookmarks</a>. Su búsqueda es muy potente, y tengo grabada en el cerebro la combinación Ctrl+D para guardar un nuevo favorito. Para Safari no existe un plug-in con la misma funcionalidad (un problema para mí, desde luego). Pero me he buscado un poco la vida y, para grabar en Delicious lo que estoy viendo en Safari uso <a href="http://protagonist.co.uk/dashLicious/">dashLicious</a>, una extensión del Dashboard de Mac.</p>
+<p align="justify">&nbsp;</p>
+<p style="text-align: center"><img src="/wp-content/uploads/2009/04/dashlicious.png" alt="DashLicious" /></p>
+<p align="justify">Claro, que ésto deja pendiente un problema: cómo incorporar los favoritos de vuelta a Safari. Para eso, la pequeña aplicación <a href="http://tuxtina.de/software/">delicious2safari</a> viene al rescate, permitieno que en Safari disfrutemos de todo lo que hemos ido apuntando (y que, además, estará disponible al buscar en Spotlight <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )</p>
+<p align="justify">&nbsp;</p>
+<p style="text-align: center"><img src="/wp-content/uploads/2009/04/delicious2safari.png" alt="Delicious 2 Safari" /></p>
+<p>En este Blog decidí ir publicando los enlaces que guardo como públicos, por si a alguien le servían. Y la verdad es que no les he dedicado mucho más tiempo que hacer Ctrl+D y ponerles algunas etiquetas. Pero como comentan en <a href="http://www.currybet.net/cbet_blog/2008/02/10_delicious_blog_tips.php">éste artículo</a>, es mucho mejor si se comentan o se pone un pequeño extracto de los mismos. De esta forma, se pueden aprovechar sin necesidad de abrirlos uno a uno y realmente pueden aportar algo al que busca información concreta.</p>
+<p align="justify">Claro, que el primer paso es comprobar que siguen existiendo. Internet cambia, como todo, pero más rápido, y hay que actualizar bookmarks frecuentemente. El problema es que ya tengo 694 enlaces, y no los voy a mirar uno a uno. Estaba pensando hacerme un programita en Java que los fuera comprobando, pero veo que <a href="http://freshdelicious.googlepages.com/download">alguien ha tenido ya la misma idea</a>. Voy a lanzarlo y luego iré repasando enlaces. Seguro que me reencuentro con cosas interesantes que hace una eternidad que subí a Delicious y que no he visto ni yo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p align="justify">&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>RandomPose: para los artistas, alucinante</title>
+		<link>/2009/01/10/randompose-para-los-artistas-alucinante/</link>
+		<pubDate>Sat, 10 Jan 2009 17:37:07 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[iphone]]></category>
+
+		<guid isPermaLink="false">/2009/01/10/randompose-para-los-artistas-alucinante/</guid>
+		<description><![CDATA[Otro servicio más de Internet que me parece increíble. La idea es sencilla. Cuando se quieren hacer dibujos de figuras humanas al natural hay pocas opciones: se contrata un modelo, que debe desnudarse y adoptar una pose durante horas, cosa incómoda y cara para el que contrata (incluso embarazosa, depende de lo timorato que se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Otro servicio más de Internet que me parece increíble. La idea es sencilla. Cuando se quieren hacer dibujos de figuras humanas al natural hay pocas opciones: se contrata un modelo, que debe desnudarse y adoptar una pose durante horas, cosa incómoda y cara para el que contrata (incluso embarazosa, depende de lo timorato que se sea), o se usan esos muñecos de madera que podemos ajustar a la postura que nos convenga.</p>
+<p align="justify">Mirando entre las distintas aplicaciones gratuítas que hay para mi nuevo iPhone me he encontrado con <a href="http://www.apptism.com/apps/random-pose">RandomPose</a>. La aplicación para iPhone muestra cada vez una pose aleatoria que extrae de la web <a href="http://www.posemaniacs.com/">PoseManiacs</a>. Pero lo bueno está en la web. Podemos buscar una pose por género (hombre o mujer), postura, etc. Las posibilidades, para el quiera aprender a dibujar la figura humana son ilimitadas. Encima, con el iPhone, puedes generar una pose aleatoria y dibujarla en cualquier parte. Internet es alucinante.</p>
+<p><img src="/wp-content/uploads/2009/01/randompose.png" alt="randompose.png" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Audiko: tonos gratis para el móvil, y el iPhone</title>
+		<link>/2009/01/04/audiko-tonos-gratis-para-el-movil-y-el-iphone/</link>
+		<pubDate>Sun, 04 Jan 2009 14:48:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[tonos]]></category>
+
+		<guid isPermaLink="false">/2009/01/04/audiko-tonos-gratis-para-el-movil-y-el-iphone/</guid>
+		<description><![CDATA[Cada vez me sorprenden mas los servicios que hay disponibles por Internet. Aunque debería de estar ya curado de espanto, no es así. Siempre hay algo que te sorprende. He aprovechado estos días para buscar una solución a la teórica limitación del iPhone para cambiar los tonos de llamada (ringtones). Ya sabes, poder poner alguna [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #0000ee; text-decoration: underline;"><img src="/wp-content/uploads/2009/01/tonos-itunes.png" alt="iTunes con tonos para pasar al iPhone" hspace="10" align="right" /></span></p>
+<p style="text-align: justify">Cada vez me sorprenden mas los servicios que hay disponibles por Internet. Aunque debería de estar ya curado de espanto, no es así. Siempre hay algo que te sorprende. He aprovechado estos días para buscar una solución a la teórica limitación del iPhone para cambiar los tonos de llamada (ringtones). Ya sabes, poder poner alguna música hortera, pero que a tí te hace gracia, cuando te llama tu jefe, tu suegra, tu mujer&#8230; <a href="http://news.cnet.com/8301-10784_3-9736272-7.html">Las quejas venían de que se pueden comprar ringtones en iTunes</a>, pero no crear los tuyos propios, y además iTunes no es gratis.</p>
+<p style="text-align: justify">Un poco de «Googling around» me enseñó varias maneras. Desde instalar una aplicación dedicada para Windows (aaargh!, vía sin retorno), hasta <a href="http://theappleblog.com/2008/08/07/free-custom-iphone-ringtones-using-only-itunes/">crear los tonos directamente en iTunes</a> con mi MacBook Pro. Pero el más rápido, e independiente de la plataforma es usar <a title="Ringtones para descargar" href="http://audiko.net/">Audiko</a>.</p>
+<p style="text-align: justify"><img src="/wp-content/uploads/2009/01/audiko.jpg" alt="Logo Audiko" /></p>
+<p style="text-align: justify">Audiko es una web desde la que se puede buscar directamente, ya sea por nombre de canción o por artista, localizar, escuchar y, si te gusta, descargar un tono de llamada con calidad mp3. Además, se pueden bajar en tres formatos:</p>
+<ul>
+<li>mp3, para los móviles / pdas que soportan este formato (como los Nokia que están por los cajones de mi casa, o mi iPaq HW6915)</li>
+<li>formato iPhone: lo que andaba buscando</li>
+<li>formato para los móviles antiguos. Éste no lo he probado, pero supongo que será una especie de síntesis como los antiguos ficheros MIDI.</li>
+</ul>
+<p>Una vez descargado el tono, basta con pulsarlo (doble click) para que se lance iTunes y podamos escucharlo. Aparece en iTunes un icono de Tonos que antes no existía :-). Y ya se pueden pasar al iPhone.</p>
+<p style="text-align: justify">Una vez tenemos los tonos en el iPhone, en cada contacto podemos asignarle el tono que nos apetezca. Yo me he bajado los imprescindibles para cualquier Friki que se precie, como se puede apreciar en la imagen.</p>
+<p><img src="/wp-content/uploads/2009/01/tonos-iphone.png" alt="tonos-iphone.png" align="middle" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El iJam de Shackleton</title>
+		<link>/2008/11/09/el-ijam-de-shackleton/</link>
+		<pubDate>Sun, 09 Nov 2008 09:17:32 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[geek]]></category>
+		<category><![CDATA[humor]]></category>
+
+		<guid isPermaLink="false">/2008/11/09/el-ijam-de-shackleton/</guid>
+		<description><![CDATA[Viendo el logo sobran las palabras. Todo aficionado (o no) a las máquinas de Apple debería verse la visita guiada en vídeo de la página del iJam. Imprescindible tener buen humor y no ser seguidor talibán de los Mac. De lo mejorcito: el manual del iJam, disponible en PDF y el iJam nano.]]></description>
+				<content:encoded><![CDATA[<p><img src="/wp-content/uploads/2008/11/ijam-logo.png" alt="Logo iJam" /></p>
+<p style="text-align: justify">Viendo el logo sobran las palabras. Todo aficionado (o no) a las máquinas de Apple debería verse la visita guiada en vídeo de la página del <a href="http://www.ijam.es/">iJam</a>. Imprescindible tener buen humor y no ser seguidor talibán de los Mac. De lo mejorcito: el manual del iJam, disponible en PDF y el iJam nano.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

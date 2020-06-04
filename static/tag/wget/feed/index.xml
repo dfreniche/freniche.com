@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wget &#8211; freniche.com</title>
+	<atom:link href="/tag/wget/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>¿Cómo descargar rápido imágenes?</title>
+		<link>/2005/10/20/como-descargar-rapido-imagenes/</link>
+		<pubDate>Thu, 20 Oct 2005 17:32:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[wget]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/%c2%bfcomo-descargar-rapido-imagenes/</guid>
+		<description><![CDATA[Supongamos que necesitas descargar de una web todos los archivos de un mismo tipo: imágenes, documentos, películas, mp3s&#8230; que aparecen como enlaces pero no quieres ir uno a uno descargándolos. En Windows existen una serie de programas que se descargan webs completas. En Linux tenemos wget. Un script de ejemplo que se bajaría todos los [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Supongamos que necesitas descargar de una web todos los archivos de un mismo tipo: imágenes, documentos, películas, mp3s&#8230; que aparecen como enlaces pero no quieres ir uno a uno descargándolos.</p>
+<p>En Windows existen una serie de programas que se descargan webs completas. En Linux tenemos wget. Un script de ejemplo que se bajaría todos los mpgs de una página es:</p>
+<p>&#8212;&#8212; CORTAD POR AQUI, EL CONTENIDO A UN FICHERO descarga.sh &#8212;&#8212;-</p>
+<pre># permite descargar todos los archivos de tipo .mpg de </pre>
+<pre># la URL pasada como primer parámetro </pre>
+<p>wget -r -l1 &#8211;no-parent -A.mpg $1 </p>
+<p>&#8212;&#8212;- FIN CORTAD, RECORDAD HACERLE UN chmod a+x descarga.sh &#8212;&#8211;Para entender la frase mágica, man wget</p>
+<p> </p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

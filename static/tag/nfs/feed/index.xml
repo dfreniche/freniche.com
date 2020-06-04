@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nfs &#8211; freniche.com</title>
+	<atom:link href="/tag/nfs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Error al instalar NFS: invoke-rc.d: initscript nfs-kernel-server, action «restart» failed.</title>
+		<link>/2005/10/20/error-al-instalar-nfs-invoke-rcd-initscript-nfs-kernel-server-action-restart-failed/</link>
+		<pubDate>Thu, 20 Oct 2005 20:12:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[nfs]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/error-al-instalar-nfs-invoke-rcd-initscript-nfs-kernel-server-action-restart-failed/</guid>
+		<description><![CDATA[Tras actualizar el servidor NFS nfs-kernel-daemon, nos encontramos con éste error.Este error se debe muchas veces a la prisa con la que se instalan los paquetes. Probablemente hemos dejado los ficheros de configuración que ya teníamos y no los que trae el nuevo paquete. Si no cambiamos nada, el nuevo NFS intenta utilizar el servidor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tras actualizar el servidor NFS nfs-kernel-daemon, nos encontramos con éste error.Este error se debe muchas veces a la prisa con la que se instalan los paquetes. Probablemente hemos dejado los ficheros de configuración que ya teníamos y no los que trae el nuevo paquete. Si no cambiamos nada, el nuevo NFS intenta utilizar el servidor sgss, que si no está configurado hace que no se inicie el servidor nfs.<br />
+Para solucionarlo iremos a la carpeta /etc/defaults que es donde nfsd guarda su configuración. Una vez allí, es posible que tengamos un fichero llamado nfs-kernel-server y otro nfs-kernel-server.dpkg-dist. Este último es el que nos ha instalado apt-get, con la configuración del paquete. En el caso que nos ocupa, no vamos a usar gssd, pero no se lo hemos dicho (en el fichero de configuración antiguo no lo teniamos). La solución:<br />
+NEED_SVCGSSD=no</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Cómo se monta una carpeta en red NFS?</title>
+		<link>/2005/10/20/como-se-monta-una-carpeta-en-red-nfs/</link>
+		<pubDate>Thu, 20 Oct 2005 11:00:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[nfs]]></category>
+
+		<guid isPermaLink="false">/2005/10/20/%c2%bfcomo-se-monta-una-carpeta-en-red-nfs/</guid>
+		<description><![CDATA[Si queremos montar una carpeta (en Linux, un directorio) que está compartida en una máquina, con IP 10.1.1.1 , debemos añadir a /etc/fstab una línea como: 10.1.1.1:/publico /mnt/publico nfs defaults,user,noauto 0 0 aquí indicamos que en la IP 10.1.1.1, hay una carpeta /publico y que se monte en el pto. de montaje /mnt/publico. La opción [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Si queremos montar una carpeta (en Linux, un directorio) que está compartida en una máquina, con IP 10.1.1.1 , debemos añadir a /etc/fstab una línea como:</p>
+<pre>10.1.1.1:/publico /mnt/publico nfs defaults,user,noauto 0 0</pre>
+<p>aquí indicamos que en la IP 10.1.1.1, hay una carpeta /publico y que se monte en el pto. de montaje /mnt/publico. La opción user permite que cualquier usuario (no sólo root) pueda montar/desmontar la carpeta.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Cómo añado una carpeta compartida con NFS</title>
+		<link>/2005/10/20/como-anado-una-carpeta-compartida-con-nfs/</link>
+		<pubDate>Thu, 20 Oct 2005 08:08:59 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[nfs]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/como-anado-una-carpeta-compartida-con-nfs/</guid>
+		<description><![CDATA[Primero, hay que definir en /etc/exports los directorios que vamos a exportar en NFS. Un ejemplo puede ser: # /etc/exports: the access control list for filesystems which may be exported # to NFS clients. See exports(5). /home/dfreniche/inout 10.1.1.0/255.255.255.255(sync,no_root_squash,rw) Definimos que el directorio /home/dfreniche/inout estará disponible via NFS Para que se exporten los directorios de forma [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Primero, hay que definir en /etc/exports los directorios que vamos a exportar en NFS. Un ejemplo puede ser:</p>
+<pre># /etc/exports: the access control list for filesystems which may be exported
+
+# to NFS clients. See exports(5).</pre>
+<pre>/home/dfreniche/inout 10.1.1.0/255.255.255.255(sync,no_root_squash,rw)</pre>
+<p>Definimos que el directorio /home/dfreniche/inout estará disponible via NFS</p>
+<p>Para que se exporten los directorios de forma efectiva, queda ejecutar</p>
+<pre># exportfs -a</pre>
+<p>Si queremos ver los directorios que tenemos exportados:</p>
+<pre># exportfs</pre>
+<pre>/home/dfreniche/inout</pre>
+<pre>10.1.1.0/255.255.255.255</pre>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>NFS a través de un firewall</title>
+		<link>/2005/10/20/nfs-a-traves-de-un-firewall/</link>
+		<pubDate>Thu, 20 Oct 2005 08:02:39 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[nfs]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/nfs-a-traves-de-un-firewall/</guid>
+		<description><![CDATA[El cliente de nfs al conectarse es comprobado mediante las reglas que tenga el servidor en su fichero /etc/exports. Si estamos entre las IPs que se pueden conectar, el portmapper (/sbin/portmap del servidor) nos dará el siguiente puerto libre para montar (mountd) la carpeta nfs. Este es el funcionamiento por defecto, pero podemos forzar a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>El cliente de nfs al conectarse es comprobado mediante las reglas que tenga el servidor en su fichero /etc/exports. Si estamos entre las IPs que se pueden conectar, el portmapper (/sbin/portmap del servidor) nos dará el siguiente puerto libre para montar (mountd) la carpeta nfs.</p>
+<p>Este es el funcionamiento por defecto, pero podemos forzar a mountd a ligarse a un puerto determinado. Si cambiamos /etc/default/nfs-kernel-server (en el servidor) y ponemos algo como:</p>
+<pre># Number of servers to start up
+
+RPCNFSDCOUNT=8</pre>
+<pre># Options for rpc.mountd
+
+RPCMOUNTDOPTS="--port 2000"</pre>
+<p>Obligamos a mountd a ligarse a ese puerto. De esa forma, en el firewall, bastará con abrir el puerto 2000 (además del 2049 nfs y el 111 del portmap) para que todo funcione,</p>
+<p>Un par de utilidades: pmap_dump (o bien rcpinfo -p localhost) que muestra los puertos a los que están ligados el portmapper, mountd, etc. y pmap_set que los cambia.</p>
+<pre># pmap_dump
+
+100000 2 tcp 111 portmapper
+
+100000 2 udp 111 portmapper
+
+100024 1 udp 793 status
+
+100024 1 tcp 796 status
+
+100003 2 udp 2049 nfs
+
+100003 3 udp 2049 nfs
+
+100003 4 udp 2049 nfs
+
+100003 2 tcp 2049 nfs
+
+100003 3 tcp 2049 nfs
+
+100003 4 tcp 2049 nfs
+
+100021 1 udp 32773 nlockmgr
+
+100021 3 udp 32773 nlockmgr
+
+100021 4 udp 32773 nlockmgr
+
+100021 1 tcp 38611 nlockmgr
+
+100021 3 tcp 38611 nlockmgr
+
+100021 4 tcp 38611 nlockmgr
+
+100005 1 udp 2000 mountd
+
+100005 1 tcp 2000 mountd
+
+100005 2 udp 2000 mountd
+
+100005 2 tcp 2000 mountd
+
+100005 3 udp 2000 mountd
+
+100005 3 tcp 2000 mountd</pre>
+<p>Enlaces relacionados</p>
+<p>nfs.sourceforge.net/nfs-howto/security.html</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

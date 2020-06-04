@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Ya está disponible de forma pública la actualización a Ubuntu 9.04</title>
+	<atom:link href="/2009/04/23/ya-esta-disponible-de-forma-publica-la-actualizacion-a-ubuntu-904/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/04/23/ya-esta-disponible-de-forma-publica-la-actualizacion-a-ubuntu-904/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2009/04/23/ya-esta-disponible-de-forma-publica-la-actualizacion-a-ubuntu-904/comment-page-1/#comment-2242</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 24 Apr 2009 15:56:26 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/23/ya-esta-disponible-de-forma-publica-la-actualizacion-a-ubuntu-904/#comment-2242</guid>
+		<description><![CDATA[A ver si se deja, Antonio, porque ayer estaban saturadas las descargas y tuve que pararlo. Sigo intentándolo hoy, a ver si acaba (ahora parece que va mejor).
+La Guadalinex Edu estoy por probarla para mis niños :-)]]></description>
+		<content:encoded><![CDATA[<p>A ver si se deja, Antonio, porque ayer estaban saturadas las descargas y tuve que pararlo. Sigo intentándolo hoy, a ver si acaba (ahora parece que va mejor).<br />
+La Guadalinex Edu estoy por probarla para mis niños 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Antonio Sánchez</title>
+		<link>/2009/04/23/ya-esta-disponible-de-forma-publica-la-actualizacion-a-ubuntu-904/comment-page-1/#comment-2241</link>
+		<dc:creator><![CDATA[Antonio Sánchez]]></dc:creator>
+		<pubDate>Thu, 23 Apr 2009 19:57:35 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/23/ya-esta-disponible-de-forma-publica-la-actualizacion-a-ubuntu-904/#comment-2241</guid>
+		<description><![CDATA[Si te animas puedes meterle Guadalinex Edu encima (www.guadalinexedu.org).]]></description>
+		<content:encoded><![CDATA[<p>Si te animas puedes meterle Guadalinex Edu encima (www.guadalinexedu.org).</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

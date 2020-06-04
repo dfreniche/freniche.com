@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>C &#8211; freniche.com</title>
+	<atom:link href="/tag/c/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Qué necesitas instalar para programar en C en Windows</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/</link>
+		<comments>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comments</comments>
+		<pubDate>Wed, 05 Jan 2011 11:21:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[C]]></category>
+		<category><![CDATA[Formación]]></category>
+
+		<guid isPermaLink="false">/?p=1331</guid>
+		<description><![CDATA[Tengo que impartir un curso de introducción a la programación, utilizando el lenguaje C, dentro de unos días. ¡Bien!. Ya hacía años que no podía disfrutar con un curso así, en el que puedes enseñar los fundamentos a un grupo de personas, y ves cómo aprenden desde el principio y cómo van evolucionando. Encima, para [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Tengo que impartir un curso de introducción a la programación, utilizando el lenguaje C, dentro de unos días. ¡Bien!. Ya hacía años que no podía disfrutar con un curso así, en el que puedes enseñar los fundamentos a un grupo de personas, y ves cómo aprenden desde el principio y cómo van evolucionando. Encima, para mayor regocijo del docente, el lenguaje elegido es C. Siempre he considerado C como mi lenguaje totem, el <em>hogar</em> a la que volver, con el que me siento más a gusto. En los 90 programé bastante en C y C++. Pero a finales de la década, llegaron primero Visual Basic y luego Java, y no volví a programar en C. Hasta que el año pasado empecé a aprender Cocoa y Objective C para hacer Apps en Apple iOS. Y me ilusioné al descubrir que Objective C es un superconjunto estricto de C, es decir, que tiene todo lo que tiene C, y más cosas.</p>
+<p style="text-align: justify;">Así que el curso pinta bien. Si lo pudiera impartir en Linux, ya sería la repera (porque en Mac ni me lo planteo: <a href="/2010/11/06/los-dos-tipos-de-negocio-de-desarrollo-de-software/"><span style="color: #000000;">las empresas cárnicas aún no lo usan</span></a>). Pero todo no puede ser perfecto. El cliente quiere Windows. Bueno, sin problemas, yo no soy anti-nada. Windows 7, <a href="/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/"><span style="color: #000000;">como ya he comentado antes</span></a>, me parece un buen S.O. No es mi elección para el día a día, porque me siento más cómodo en UNIX (Mac en este caso), pero la última versión es una buena elección para sus usuarios. El problema entonces era encontrar un compilador y entorno integrado que fuese cómodo para programar y que ya conociese. Y si fuera Software Libre, perfecto.</p>
+<p style="text-align: justify;">Con estos requisitos, <a href="http://www.microsoft.com/express/"><span style="color: #000000;">Visual Studio</span></a> queda fuera. Cierto, llevas el IDE y el compilador integrados de una vez, pero no lo he usado nunca. Y aunque ahora es gratis la versión exprés (o podría usar una de prueba para el curso) no me apetecía pelearme con otro IDE. Netbeans cumple casi todo, pero no lleva integrado el compilador. Ni Eclipse, pero ya que conozco razonablemente Eclipse tras todo el tiempo que le he dedicado <a href="/formacion/"><span style="color: #000000;">impartiendo cursos de Java</span></a> y preparando <a href="/category/informatica/programacion/java/scjp/"><span style="color: #000000;">certificaciones</span></a>, me parecía la mejor opción. Así que vamos con la instalación de Eclipse para programar en C en Windows.</p>
+<h2>Instalar el compilador de C</h2>
+<p style="text-align: justify;">Lo primero que hay que tener claro es que Eclipse sólo es un Entorno Integrado de Desarrollo. Un IDE. Un editor potente, un programa para organizar tus proyectos de software y no pelearte con ficheros sueltos en una carpeta, un sitio donde ver los errores de compilación y leer la ayuda. Un aglutinador de herramientas. Pero no es un compilador. No lo incluye. E igual que cuando preparas un Elcipse para programar en Java hay que instalar previamente el JDK, que incluye el compilador de Java, aquí hay que instalar el compilador de C.</p>
+<p style="text-align: justify;">Buscando uno libre y moderno (el último compilador de C que usé en S.O. Microsoft fue el <a href="http://www.delorie.com/djgpp/history.html"><span style="color: #000000;">djgpp</span></a> sobre MSDOS), di con <a href="http://www.mingw.org/"><span style="color: #000000;">MinGW</span></a>, Minimalist GNU for Windows, un conjunto de herramientas GNU (las mismas que se encuentran en GNU/Linux) pero compiladas para Windows. ¡Perfecto!. Instalando esto ya tengo GCC (el compilador de C en Linux y Mac de toda la vida), make y el resto de herramientas de desarrollo desde la linea de comandos. Instalarlo es descargar el ejecutable y pulsar en Siguiente, Siguiente hasta el final. Ojo: instala MinGW en C:\MinGW para evitar problemas posteriores. Es el sitio que aparece por defecto al instalar, así que déjalo como esté.</p>
+<p style="text-align: justify;">Tras la instalación, y para que Eclipse pueda encontrarlo, tendremos que añadir la carpeta con los ejecutables de MinGW al PATH del sistema (<a href="http://www.mingw.org/wiki/InstallationHOWTOforMinGW"><span style="color: #000000;">instrucciones en Inglés</span></a>, o bien sigues leyendo). Para poder usar cualquier programa en Windows tenemos dos opciones: o bien vamos a la carpeta donde está el programa y lo lanzamos desde ahí, o incluímos la carpeta en la variable PATH del sistema de forma que cada vez que se necesite ejecutar ese programa Windows lo encuentre. Vamos a ello. Abrimos un explorador de Windows (Tecla Windows + E) y pulsamos con el botón derecho del ratón sobre Equipo.</p>
+<div style="text-align: justify;">
+<div id="attachment_1333" style="width: 962px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/config.-sistema.png"><img class="size-full wp-image-1333" title="Configuración del Sistema" src="/wp-content/uploads/2011/01/config.-sistema.png" alt="Configuración del Sistema" width="952" height="731" srcset="/wp-content/uploads/2011/01/config.-sistema.png 952w, /wp-content/uploads/2011/01/config.-sistema-300x230.png 300w" sizes="(max-width: 952px) 100vw, 952px" /></a><p class="wp-caption-text">Configuración del Sistema</p></div>
+</div>
+<p style="text-align: justify;">Si pulsamos en «Configuración Avanzada del Sistema» nos aparecerá la ventana clásica de «Propiedades del Sistema» de XP. Si no está abierta, hacemos click sobre la pestaña «Opciones avanzadas» y veremos un botón abajo del todo que pone «Variables de entorno». Entrando, veremos dos tipos de variables: del Sistema y de nuestro usuarios. Las variables del Sistema tienen efecto para cualquier usuario que inicie sesión en esta máquina, mientras que las del usuario sólo nos afectan a nosotros mismos. Cuando añado algo al PATH, me gusta que sea a nivel del Sistema, así que buscamos PATH y doble click. En la ventana que se abre, debemos ir al final de la lista de directorios, añadir un punto y coma y la carpeta donde está MinGW.</p>
+<div style="text-align: justify;">
+<div id="attachment_1334" style="width: 389px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/path.png"><img class="size-full wp-image-1334" title="Configurando PATH" src="/wp-content/uploads/2011/01/path.png" alt="Configurando PATH" width="379" height="153" srcset="/wp-content/uploads/2011/01/path.png 379w, /wp-content/uploads/2011/01/path-300x121.png 300w" sizes="(max-width: 379px) 100vw, 379px" /></a><p class="wp-caption-text">Configurando PATH</p></div>
+</div>
+<div style="text-align: justify;">Mi PATH queda algo como:</div>
+<pre>%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;...;C:\MinGW\bin</pre>
+<p style="text-align: justify;">
+<p style="text-align: justify;">La prueba definitiva de que todo está OK es abrir un intérprete de comandos de Windows, pulsando la Tecla Windows + R y escribiendo «cmd» en el diálogo que aparece. Si escribimos gcc -v y nos aparece información sobre nuestra versión instalada del compilador de C GCC, felicidades. Ya podemos compilar.</p>
+<div id="_mcePaste">
+<div id="attachment_1335" style="width: 687px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/prueba-mingw.png"><img class="size-full wp-image-1335" title="MinGW funciona!" src="/wp-content/uploads/2011/01/prueba-mingw.png" alt="MinGW funciona!" width="677" height="342" srcset="/wp-content/uploads/2011/01/prueba-mingw.png 677w, /wp-content/uploads/2011/01/prueba-mingw-300x151.png 300w" sizes="(max-width: 677px) 100vw, 677px" /></a><p class="wp-caption-text">MinGW funciona!</p></div>
+</div>
+<h2>Instalar un entorno JRE de Java</h2>
+<p style="text-align: justify;">Eclipse es un programa que está escrito en Java. Luego para poder ejecutarlo necesitamos <a href="http://www.java.com/es/download/">instalar en nuestro Windows el JRE</a> (Java Runtime Environment). Una vez que lo tengamos, podremos ejecutar cualquier programa Java, así como Applets en el navegador. Probablemente ya lo tengas instalado (puedes ver si tienes en Archivos de Programa una carpeta llamada Java) pero si tienes dudas, instálate el último JRE de la página de Sun (ahora Oracle). Para comprobarlo, desde una terminal, escribe java -version.</p>
+<h2>Instalar Eclipse CDT</h2>
+<p style="text-align: justify;">Siguente paso: descargar Eclipse. Para ello, buscaremos la versión correcta, ya que Eclipse es un IDE que sirve para todo. Con Eclipse podemos programar en C, C++, Java, PHP, &#8230; casi en cualquier cosa. Por ello, hay paquetes ya precreados con un Eclipse totalmente configurado para un uso determinado. El que nos hace falta en este caso es el <a href="http://www.eclipse.org/cdt/">Eclipse CDT</a></p>
+<p style="text-align: justify;">Descargamos el fichero (tardará un rato, pesa unos cuantos MB) y una vez lo tengamos, lo movemos a la carpeta que queramos. Aunque Eclipse sea un programa no se «instala» en Archivos de Programa, aunque podemos moverlo ahí. Realmente se descomprime, se abre, se pulsa sobre el icono de Eclipse y listo.</p>
+<p style="text-align: justify;">Si todo ha ido bien, podremos crear un nuevo proyecto C, añadir un fichero y compilar sin problemas. Pero esto va a ser material para otro post.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+	</channel>
+</rss>

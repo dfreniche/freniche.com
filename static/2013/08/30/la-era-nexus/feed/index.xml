@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: La era Nexus</title>
+	<atom:link href="/2013/08/30/la-era-nexus/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/08/30/la-era-nexus/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/08/30/la-era-nexus/comment-page-1/#comment-202290</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 02 Sep 2013 17:55:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2005#comment-202290</guid>
+		<description><![CDATA[Hola Eduardo
+
+Como soy malo, estaba esperando a que alguien sacara el Nexus media importer para pegarle otra puñalada a Google :-D
+
+Me explico. Nexus Media Importer no es un programa desarrollado por Google. Es de un tercero. Y hace, curiosamente, lo mismo que un iPad con el adaptador lector de tarjetas SD que hay por ahí: leer los ficheros, conectar un teclado y poco más. Si quieres algo más avanzado (como conectar un HD externo), ya tienes que rootear, lo que me parece una barbaridad para algo que presume tanto de ser &quot;open&quot;. No lo veo mal, es una decisión de diseño el dejarlo más cerrado. Pero entonces no vayas por ahí todo el día hablando de los jardines vallados de Apple cuando Google hace lo mismo.
+
+Curiosamente esto lo he podido hacer sin problemas en mi N900 con Maemo 5. Eso sí es un S.O. Software Libre, y no el pastiche de &quot;openness&quot; que es Android.
+
+Saludos y gracias por comentar. Y perdona el &quot;momento troll&quot; :-D]]></description>
+		<content:encoded><![CDATA[<p>Hola Eduardo</p>
+<p>Como soy malo, estaba esperando a que alguien sacara el Nexus media importer para pegarle otra puñalada a Google 😀</p>
+<p>Me explico. Nexus Media Importer no es un programa desarrollado por Google. Es de un tercero. Y hace, curiosamente, lo mismo que un iPad con el adaptador lector de tarjetas SD que hay por ahí: leer los ficheros, conectar un teclado y poco más. Si quieres algo más avanzado (como conectar un HD externo), ya tienes que rootear, lo que me parece una barbaridad para algo que presume tanto de ser «open». No lo veo mal, es una decisión de diseño el dejarlo más cerrado. Pero entonces no vayas por ahí todo el día hablando de los jardines vallados de Apple cuando Google hace lo mismo.</p>
+<p>Curiosamente esto lo he podido hacer sin problemas en mi N900 con Maemo 5. Eso sí es un S.O. Software Libre, y no el pastiche de «openness» que es Android.</p>
+<p>Saludos y gracias por comentar. Y perdona el «momento troll» 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Eduardo</title>
+		<link>/2013/08/30/la-era-nexus/comment-page-1/#comment-202121</link>
+		<dc:creator><![CDATA[Eduardo]]></dc:creator>
+		<pubDate>Mon, 02 Sep 2013 14:21:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2005#comment-202121</guid>
+		<description><![CDATA[Hola, estoy de acuerdo con el artículo en general. Sólo quería hacer una precisión sobre este párrafo:
+&lt;cite&gt;siguiendo con el USB, vale, que no tengan entrada USB “gorda”. Pero podrían soportar el modo USB On The Go con adaptadores microUSB-USB. Google es muy open con Android, pero para hacer esto necesitas hacerle root al teléfono. Fail.&lt;/cite&gt;
+
+Comentar que no hace falta rootear el teléfono (o al menos la tablet, yo tengo una Nexus10). Con el cable adaptador te vale para usar, por ejemplo un ratón o un teclado. Para utilizar un pendrive o un adaptador de SD sin necesidad de rootear, hay una app  &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.homeysoft.nexususb.importer&quot; rel=&quot;nofollow&quot;&gt;Nexus Media Importer&lt;/a&gt; de pago.]]></description>
+		<content:encoded><![CDATA[<p>Hola, estoy de acuerdo con el artículo en general. Sólo quería hacer una precisión sobre este párrafo:<br />
+<cite>siguiendo con el USB, vale, que no tengan entrada USB “gorda”. Pero podrían soportar el modo USB On The Go con adaptadores microUSB-USB. Google es muy open con Android, pero para hacer esto necesitas hacerle root al teléfono. Fail.</cite></p>
+<p>Comentar que no hace falta rootear el teléfono (o al menos la tablet, yo tengo una Nexus10). Con el cable adaptador te vale para usar, por ejemplo un ratón o un teclado. Para utilizar un pendrive o un adaptador de SD sin necesidad de rootear, hay una app  <a href="https://play.google.com/store/apps/details?id=com.homeysoft.nexususb.importer" rel="nofollow">Nexus Media Importer</a> de pago.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/08/30/la-era-nexus/comment-page-1/#comment-201782</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 02 Sep 2013 08:22:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2005#comment-201782</guid>
+		<description><![CDATA[@Iván:
+
+Efectivamente, la pena es que Google no quiere que sus Nexus sean producto para las masas, sino para los Geeks. Esto hace que la fragmentación entre versiones del S.O. aumente, lo que a la larga es malo para Android. Ellos sabrán. &quot;Doctores tiene la Iglesia...&quot;]]></description>
+		<content:encoded><![CDATA[<p>@Iván:</p>
+<p>Efectivamente, la pena es que Google no quiere que sus Nexus sean producto para las masas, sino para los Geeks. Esto hace que la fragmentación entre versiones del S.O. aumente, lo que a la larga es malo para Android. Ellos sabrán. «Doctores tiene la Iglesia&#8230;»</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Iván</title>
+		<link>/2013/08/30/la-era-nexus/comment-page-1/#comment-201761</link>
+		<dc:creator><![CDATA[Iván]]></dc:creator>
+		<pubDate>Mon, 02 Sep 2013 08:04:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2005#comment-201761</guid>
+		<description><![CDATA[Genial el artículo, no podía estar más de acuerdo. Después de llevar años dedicándome al análisis de apps y móviles para todos los SO&#039;s, con experiencia en cada una de las plataformas, lo único que sacas en claro es que cada una posee unos toques que la hacen diferente, pero, por lo general, todas dan un uso eficiente de lo que la gente espera en un smartphone. No existe mejor opción que un Nexus 4, y yo lo llevo recomendando desde que salió. Pero es como darse de cabezazos contra una pared: el usuario normal no sabe nada de teléfonos, sólo va a la tienda y pide que le &quot;regalen&quot; uno. No hay más, es ésta la simpleza: lo veo a diario. Y después no es de extrañar las facturas de 40 o 50 euros por unas llamadas y 1 GB de internet que se ven por doquier. Luego, cuando les cuentas que tú pagas 8 euros por lo mismo en una OMV se quedan con unos ojos como platos. Pero da igual: si les sale &quot;gratis&quot; el teléfono ya está.]]></description>
+		<content:encoded><![CDATA[<p>Genial el artículo, no podía estar más de acuerdo. Después de llevar años dedicándome al análisis de apps y móviles para todos los SO&#8217;s, con experiencia en cada una de las plataformas, lo único que sacas en claro es que cada una posee unos toques que la hacen diferente, pero, por lo general, todas dan un uso eficiente de lo que la gente espera en un smartphone. No existe mejor opción que un Nexus 4, y yo lo llevo recomendando desde que salió. Pero es como darse de cabezazos contra una pared: el usuario normal no sabe nada de teléfonos, sólo va a la tienda y pide que le «regalen» uno. No hay más, es ésta la simpleza: lo veo a diario. Y después no es de extrañar las facturas de 40 o 50 euros por unas llamadas y 1 GB de internet que se ven por doquier. Luego, cuando les cuentas que tú pagas 8 euros por lo mismo en una OMV se quedan con unos ojos como platos. Pero da igual: si les sale «gratis» el teléfono ya está.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

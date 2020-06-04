@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Telar del Geek &#8211; freniche.com</title>
+	<atom:link href="/tag/telar-del-geek/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo desarrollar Apps móviles en iOS y Android. Entrevista</title>
+		<link>/2012/11/12/como-desarrollar-apps-moviles-en-ios-y-android-entrevista/</link>
+		<pubDate>Mon, 12 Nov 2012 12:18:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Telar del Geek]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Daniel ha tenido a bien entrevistarme vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste. Si tenéis dudas comentad allí y aquí, que si no no os puedo responder 😀]]></description>
+				<content:encoded><![CDATA[<p>Daniel <a href="http://eltelardelgeek.com/2012/11/11/comenzando-a-desarrollar-app-con-dfreniche/">ha tenido a bien entrevistarme</a> vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste.</p>
+<p>Si tenéis dudas comentad allí y aquí, que si no no os puedo responder <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

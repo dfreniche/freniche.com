@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HTML5 &#8211; freniche.com</title>
+	<atom:link href="/tag/html5/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Podcast El Telar del Geek</title>
+		<link>/2012/06/22/podcast-el-telar-del-geek/</link>
+		<comments>/2012/06/22/podcast-el-telar-del-geek/#comments</comments>
+		<pubDate>Fri, 22 Jun 2012 11:47:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Enyo]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[podcast]]></category>
+
+		<guid isPermaLink="false">/?p=1733</guid>
+		<description><![CDATA[He tenido el placer de que Daniel me invitase a su Podcast, El Telar del Geek, y grabar un par de episodios hablando de temas de tecnología, que es lo mío. El primero ya se ha publicado, es el nº 37 y hablamos de aplicaciones web y, como no podía ser de otra manera, aparece [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1734" style="width: 180px" class="wp-caption aligncenter"><img class="size-full wp-image-1734" title="Logo Telar del Geek. Usado sin consentimiento del autor. Esperemos que no me denuncie :-)" src="/wp-content/uploads/2012/06/logo_telar_geek.jpg" alt="Logo Telar del Geek. Usado sin consentimiento del autor. Esperemos que no me denuncie :-)" width="170" height="170" srcset="/wp-content/uploads/2012/06/logo_telar_geek.jpg 170w, /wp-content/uploads/2012/06/logo_telar_geek-150x150.jpg 150w" sizes="(max-width: 170px) 100vw, 170px" /><p class="wp-caption-text">Logo Telar del Geek. Usado sin consentimiento del autor. Esperemos que no me denuncie <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;">He tenido el placer de que Daniel me invitase a su Podcast, <a href="http://eltelardelgeek.com/">El Telar del Geek</a>, y grabar un par de episodios hablando de temas de tecnología, que es lo mío. El primero ya se ha publicado, es el <a href="http://eltelardelgeek.com/2012/06/20/37-aplicaciones-web-con-dfreniche/">nº 37 y hablamos de aplicaciones web</a> y, como no podía ser de otra manera, aparece Enyo en la conversación.</p>
+<p style="text-align: justify;">Del segundo, no voy a desvelar de qué hablamos, por mantener el hype y por no reventar a Daniel su podcast. Que si no, no cuenta conmigo nunca más :-D. Y cuando alguien como él, que ha creado podcasts como <a href="http://www.elarcadelaalianza.es/">El arca de la alianza</a>, <a href="http://disculpequemeria.ivoox.com/">Disculpe que me ría</a> y <a href="http://masquerol.ivoox.com/">Más que rol</a>, te llama, hay que atenderle.</p>
+<p>Se nota que es un experto en esto del podcasting. Pero pasó un mal rato intentando que me callase, lo que es difícil <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">A lo tonto a lo tonto, entre colaboraciones como esta, <a href="http://wedevelopers.com/">We.Developers</a> y <a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a> (ya, ya, tengo que retomarlo) estoy todo el día dándole caña a mi Blue SnowBall. Menos mal que me lo compré (gracias a las indicaciones del maestro J.A.Blanco, claro).</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/06/22/podcast-el-telar-del-geek/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Mi primer Mobile World Congress</title>
+		<link>/2012/03/06/mi-primer-mobile-world-congress/</link>
+		<comments>/2012/03/06/mi-primer-mobile-world-congress/#comments</comments>
+		<pubDate>Tue, 06 Mar 2012 20:50:24 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Blackberry]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[HTML5]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[WebOS]]></category>
+
+		<guid isPermaLink="false">/?p=1674</guid>
+		<description><![CDATA[Entre los objetivos que me había planteado para este año estaba el asistir a algunos eventos relacionados con el desarrollo móvil. Pues bien, cumpliendo con ello he estado en el MWC de Barcelona por primera vez y quería compartir algunas impresiones. Ya, ya se que hace un mes que acabó el MWC. Pero vamos, si [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Entre los objetivos que me había planteado para este año estaba el asistir a algunos eventos relacionados con el desarrollo móvil. Pues bien, cumpliendo con ello he estado en el MWC de Barcelona por primera vez y quería compartir algunas impresiones. Ya, ya se que hace un mes que acabó el MWC. Pero vamos, si lees habitualmente mi blog sabrás que hablo de lo que me apetece, no de lo que es noticia. Que para eso es mío <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div id="attachment_1679" style="width: 727px" class="wp-caption aligncenter"><img class=" wp-image-1679" title="La Fira el Domingo antes de abrir el MWC" src="/wp-content/uploads/2012/03/2012-02-26-12.36.49-1024x764.jpg" alt="La Fira el Domingo antes de abrir el MWC" width="717" height="535" srcset="/wp-content/uploads/2012/03/2012-02-26-12.36.49-1024x764.jpg 1024w, /wp-content/uploads/2012/03/2012-02-26-12.36.49-300x224.jpg 300w" sizes="(max-width: 717px) 100vw, 717px" /><p class="wp-caption-text">La Fira el Domingo antes de abrir el MWC</p></div>
+<p style="text-align: justify;">El MWC es grande. Muy grande. Lo esperaba grande, pero no tanto. Hay mucho para ver durante el día. Muchos pabellones, algunos de dos plantas y llenos de stands para visitar.¡ Y qué stands! Uno piensa inicialmente en una mesita dentro de la típica caseta de exposición. De esos también hay. Pero las grandes marcas (Nokia, RIM, Samsung, Huawei, Google/Android) tenían montajes absolutamente espectaculares. Sitios llenos de pantallas y chismes, que puedes tocar y probar. El sueño de todo Geek. Pero en lugar de contar lo mismo que ya ha contado todo el mundo, te recomiendo que <a href="http://blogs.lavozdegalicia.es/serantes/?p=9203">escuches a Serantes explicar en este capítulo de su podcast cómo es un MWC</a>. Lo cuenta tal y como es.</p>
+<div id="attachment_1682" style="width: 810px" class="wp-caption aligncenter"><img class="size-full wp-image-1682" title="La zona Developer del Pabellón de Nokia" src="/wp-content/uploads/2012/03/2012-02-27-10.32.57.jpg" alt="La zona Developer del Pabellón de Nokia" width="800" height="598" srcset="/wp-content/uploads/2012/03/2012-02-27-10.32.57.jpg 800w, /wp-content/uploads/2012/03/2012-02-27-10.32.57-300x224.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /><p class="wp-caption-text">La zona Developer del Pabellón de Nokia</p></div>
+<p>&nbsp;</p>
+<div id="attachment_1683" style="width: 810px" class="wp-caption aligncenter"><img class="size-full wp-image-1683" title="Samsung. Sobran las palabras" src="/wp-content/uploads/2012/03/samsung.jpg" alt="Samsung. Sobran las palabras" width="800" height="598" srcset="/wp-content/uploads/2012/03/samsung.jpg 800w, /wp-content/uploads/2012/03/samsung-300x224.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /><p class="wp-caption-text">Samsung. Sobran las palabras</p></div>
+<p style="text-align: justify;">Llegué a BCN el Domingo antes del MWC, y me quedé el Viernes y el Sábado tras el evento, por ver Barcelona en modo turista y porque el Viernes tenía una reunión. Creo que me curé una gripe en pie, porque del Domingo al Miércoles estuve francamente mal. Pero «<a href="http://www.youtube.com/watch?v=8oP2F5CM30k">no hay piedad en este Dojo</a>«, y mi querencia geek no me permitía parar.</p>
+<div id="attachment_1685" style="width: 774px" class="wp-caption aligncenter"><img class="size-large wp-image-1685" title="Echo polvo, pero en pie. ¡Para que luego me digan Fanboy!" src="/wp-content/uploads/2012/03/android-764x1024.jpg" alt="Echo polvo, pero en pie. ¡Para que luego me digan Fanboy!" width="764" height="1024" srcset="/wp-content/uploads/2012/03/android-764x1024.jpg 764w, /wp-content/uploads/2012/03/android-224x300.jpg 224w, /wp-content/uploads/2012/03/android.jpg 800w" sizes="(max-width: 764px) 100vw, 764px" /><p class="wp-caption-text">Echo polvo, pero en pie. ¡Para que luego me digan Fanboy!</p></div>
+<p style="text-align: justify;">En mi caso, iba con la gorra de desarrollador (literalmente). Acompañado de <a href="http://twitter.com/#!/josehidrom">@josehidrom</a> y escoltado por <a href="http://twitter.com/#!/rais38">@rais38</a> y sus compañeros «Androideros», nos dejamos la piel durante esos 4 días en el pabellón 7, que es donde estaba el App World, el sitio de los programadores. Un sitio alucinante, donde estaban Nokia, RIM (BlackBerry), gente de Firefox (presentando su tienda de aplicaciones), Ubuntu (mostrando Ubuntu on Android), Intel (enseñando también su tienda de Aplicaciones), &#8230;Todo el mundo quiere ahora tener su tienda de aplicaciones y su ecosistema de desarrolladores.</p>
+<div id="attachment_1687" style="width: 650px" class="wp-caption aligncenter"><a href="https://twitter.com/#!/pedromsantos"><img class="size-full wp-image-1687" title="Literalmente con la Gorra de Programador. Y con el gran Pedro M. Santos a mi lado" src="/wp-content/uploads/2012/03/2012-03-01-10.14.28.jpg" alt="Literalmente con la Gorra de Programador. Y con el gran Pedro M. Santos a mi lado" width="640" height="480" srcset="/wp-content/uploads/2012/03/2012-03-01-10.14.28.jpg 640w, /wp-content/uploads/2012/03/2012-03-01-10.14.28-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a><p class="wp-caption-text">Literalmente con la Gorra de Programador. Y con el gran Pedro M. Santos a mi lado</p></div>
+<p style="text-align: justify;">Vi mucho HTML5 (aunque a lo que se refieren en realidad es a una nueva manera de escribir aplicaciones web de una sola página usando HTML5 + CSS3 + JavaScript, se necesitan los tres) por todos lados. Y mucha necesidad. Necesidad de desarrolladores. Quitando Android e iOS, el resto lloran por las esquinas del MWC para conmover las almas de los programadores que por allí se mueven. Hay mucho trabajo ahora en el espacio móvil. Así que ya sabes: no hay excusas.</p>
+<p style="padding-left: 30px;">&lt;SPAM&gt;</p>
+<p style="padding-left: 30px;">Y además, si no sabes cómo escribir Apps para iOS siempre puedes ver los <a href="http://www.cafeycocoa.com.es/">vídeos de Café y Cocoa, mi Video Podcast</a>, o <a href="/formacion/">contratarme</a> para que imparta algún curso en tu empresa. Tu karma te lo agradecerá.</p>
+<p style="padding-left: 30px;">&lt;/SPAM&gt;</p>
+<p style="text-align: justify;">Hubo fiestas, tanto en la Fira como por toda BCN. Fui a algunas, pero no a muchas. No tenía el cuerpo en condiciones, y además, cada día en el MWC es como una semana. La próxima vez tendré que dosificarme un poco más (porque espero poder ir de nuevo el año que viene). En una de las fiestas del buscador Dolphin conocimos a gente de Evernote, y me encantó, la verdad. Siempre gusta conocer a la gente que está detrás de un producto que usas casi a diario.</p>
+<p>Además de hacer turismo, el Jueves pude asistir a una reunión de la NSCoder Night de Barcelona, en el mítico iFrankfurt, como ellos lo llaman. Muy buena experiencia, aunque no hay quien se coma lo que te ponen, por cantidad, que bueno estaba un rato.</p>
+<p style="text-align: justify;">La entrada de este año fue cortesía de RIM, quienes encima me regalaron una Blackberry Playbook por asistir a su charla. Es un chisme muy interesante, que me recuerda mucho a mi HP TouchPad con webOS, del que escribiré algo más adelante y para la que espero hacer algo con HTML5. El S.O. QNX que lleva no tiene nada que ver con esa antigualla de BB7.</p>
+<p style="text-align: justify;">Así que, como experiencia, muy buena. He pecado bastante de ser novato y no le he sacado todo el partido que podría, pero espero que lo visto me ayude durante este año. Bueno, la siguiente conferencia será el <a href="http://www.iosdevuk.com/">iOSDevUK 2012</a>, del que ya tengo la entrada pagada. Si alguien se anima, que se venga conmigo.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/03/06/mi-primer-mobile-world-congress/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

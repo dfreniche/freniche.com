@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>osx &#8211; freniche.com</title>
+	<atom:link href="/tag/osx/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo instalar Xcode 6 GM (o cualquier versión final de Xcode) sin sobreescribir la anterior</title>
+		<link>/2014/09/10/como-instalar-xcode-6-gm-o-cualquier-version-final-de-xcode-sin-sobreescribir-la-anterior/</link>
+		<pubDate>Wed, 10 Sep 2014 08:11:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=2233</guid>
+		<description><![CDATA[De nuevo es esa época del año. Vuelta al cole. Fin del verano. Nuevo Xcode. Me encanta el olor a nuevo Xcode por la mañana Y siempre, el mismo temor: ¿qué pasa al instalar? ¿Voy a sobreescribir mi Xcode actual? Un poco de teoría Una App en OS X no es más que una carpeta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>De nuevo es esa época del año. Vuelta al cole. Fin del verano. Nuevo Xcode.</p>
+<blockquote>
+<p>Me encanta el olor a nuevo Xcode por la mañana</p>
+</blockquote>
+<p>Y siempre, el mismo temor: ¿qué pasa al instalar? ¿Voy a sobreescribir mi Xcode actual?</p>
+<h2>Un poco de teoría</h2>
+<p>Una App en OS X no es más que una carpeta (un <em>bundle</em>) que contiene los ficheros ejecutables y recursos que la App necesita. Podemos verlo más claro desde el Finder pulsando con el botón derecho del ratón y escogiendo <em>Mostrar contenido del paquete</em>. Desde la terminal es aún más evidente. Si hacemos:</p>
+<pre><code>$ cd /Applications/ 
+$ ls -d Xcode*
+
+drwxr-xr-x@ 3 dfreniche admin 102B 10 sep 09:47 Xcode.app/ 
+drwxr-xr-x  3 root wheel 102B 16 abr 10:30 Xcode5.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 2 jul 02:52 Xcode6-Beta3.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 1 ago 23:17 Xcode6-Beta5.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 16 ago 00:35 Xcode6-Beta6.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 28 ago 09:01 Xcode6-Beta7.app/
+</code></pre>
+<p>veremos todas las versiones de Xcode que tenemos instaladas. No son más que directorios UNIX normales</p>
+<h2>La práctica</h2>
+<p>Durante la fase de Betas la imagen de disco con Xcode que descargamos contiene una carpeta con un nombre como Xcode6-Beta5. Este nombre es distinto de <code>Xcode</code>, con lo que no hay conflicto.</p>
+<p>Cuando llega la GM y la versión definitiva, Apple distribuye un DMG con una App que ya se llama Xcode. Es Xcode 6, pero tiene <em>el mismo nombre de carpeta que el Xcode 5 que ya tienes instalado en tu disco duro</em>. Si lo copias, vas a perder Xcode 5.</p>
+<div id="attachment_2234" style="width: 1467px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/09/Xcode5-antes-copiar.png" alt="Xcode5 antes de copiar Xcode6 GM" width="1457" height="700" class="size-full wp-image-2234" srcset="/wp-content/uploads/2014/09/Xcode5-antes-copiar.png 1457w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-300x144.png 300w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-1024x491.png 1024w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-920x442.png 920w" sizes="(max-width: 1457px) 100vw, 1457px" /><p class="wp-caption-text">]Xcode5 antes de copiar Xcode6 GM</p></div>
+<p>Solución sencilla: <em>antes</em> de copiar nada a la carpeta Applications, renombra Xcode (como si fuera un fichero o carpeta normal, probablemente tengas que introducir tu clave de administrador) y ponle de nombre Xcode 5 (o el que prefieras, yo tengo por ahí una llamada <em>Ye olde Xcode 4.3</em>)</p>
+<div id="attachment_2235" style="width: 1467px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/09/Installing-Xcode6.png" alt="Instalando Xcode 6 tras renombrar Xcode 5" width="1457" height="700" class="size-full wp-image-2235" srcset="/wp-content/uploads/2014/09/Installing-Xcode6.png 1457w, /wp-content/uploads/2014/09/Installing-Xcode6-300x144.png 300w, /wp-content/uploads/2014/09/Installing-Xcode6-1024x491.png 1024w, /wp-content/uploads/2014/09/Installing-Xcode6-920x442.png 920w" sizes="(max-width: 1457px) 100vw, 1457px" /><p class="wp-caption-text">]Instalando Xcode 6 tras renombrar Xcode 5</p></div>
+<p>Fácil, ¿no?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Las prisas por Lion</title>
+		<link>/2011/08/06/las-prisas-por-lion/</link>
+		<comments>/2011/08/06/las-prisas-por-lion/#comments</comments>
+		<pubDate>Sat, 06 Aug 2011 10:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Magic Mouse]]></category>
+		<category><![CDATA[Magic Trackpad]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[SO]]></category>
+
+		<guid isPermaLink="false">/?p=1562</guid>
+		<description><![CDATA[Lion, la versión 10.7 de OS X (ya no se llama Mac OS X), ya está aquí. Bueno, lleva ya un tiempo aquí, porque salió a la venta el 20 de Julio, así que ya tiene unas semanas de vida. Unas semanas en la que la gente que usa Macs parece que se han vuelto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1409" style="width: 624px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg"><img class="size-full wp-image-1409 " title="Download Snow Leopard &amp; Lion :-)" src="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg" alt="Download Snow Leopard &amp; Lion :-)" width="614" height="461" srcset="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg 1024w, /wp-content/uploads/2011/02/SnowLeopardLion11-300x225.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">Download Snow Leopard &amp; Lion <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;">Lion, la versión 10.7 de OS X (ya no se llama <em>Mac</em> OS X), ya está aquí. Bueno, lleva ya un tiempo aquí, porque salió a la venta el 20 de Julio, así que ya tiene unas semanas de vida. Unas semanas en la que la gente que usa Macs parece que se han vuelto locos y se han lanzado en no se qué concurso de a ver quién descarga e instala primero el S.O. Se han comentado muchas cosas, se han escrito ya muchas reviews (la mayor parece que es <a href="http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars">esta</a>, aunque seguramente poco a poco iremos aprendiendo cosas nuevas que hace el sistema) y se ha hablado de muchas obviedades. Aunque hay algunos temas que no he visto tratados por ahí, y que a mí me han sorprendido, y que voy a comentar junto con mi actual situación respecto a Lion.</p>
+<h2>La descarga del S.O.</h2>
+<p style="text-align: justify;">Hace ya tiempo que se venía hablando del super centro de proceso de datos que había construido Apple. Pero no se sabía a ciencia cierta para qué era. Ahora está claro: para descargar cosas como Lion, y para dar cobertura a todos los datos que se van a subir con iCloud. Y nadie ha comentado que, dado el tamaño de la descarga y la avidez del personal, el volumen del tráfico iba a ser morrocotudo y lo normal es que hubiera cortes. Pero no, parece que las descargas de Lion en general han ido bien y no he visto quejas.</p>
+<p style="text-align: justify;">Aunque el día 20 me conecté a la Mac App Store y se «atragantó» un poco, mostrándome esta pantalla :-). Tras refrescarla ya todo funcionó sin problemas.</p>
+<div id="attachment_1567" style="width: 305px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-atascado.png"><img class="size-medium wp-image-1567" title="Lion atascado en la Mac App Store" src="/wp-content/uploads/2011/08/Lion-atascado-295x300.png" alt="Lion atascado en la Mac App Store" width="295" height="300" srcset="/wp-content/uploads/2011/08/Lion-atascado-295x300.png 295w, /wp-content/uploads/2011/08/Lion-atascado-1007x1024.png 1007w, /wp-content/uploads/2011/08/Lion-atascado.png 1374w" sizes="(max-width: 295px) 100vw, 295px" /></a><p class="wp-caption-text">Lion atascado en la Mac App Store</p></div>
+<h2>El Magic Mouse es inútil</h2>
+<p style="text-align: justify;">Tímidamente empiezo a leer por ahí que si Apple lo va a abandonar, que si lo va a rediseñar, etc. El Magic Mouse es un producto revolucionario en su concepción: un ratón con una superficie multitouch. Pero la verdad es que a la hora de usarlo no es cómodo. No tan cómodo como un ratón normal. Y ejecutar muchos gestos en su superficie no es fácil. Pero fue un primer paso y en este caso, como muchas veces, los early adopters no nos llevamos el producto mejor acabado. En mi caso, tengo dos Magic Mouse, y los voy a conservar como un «eslabón perdido» que mostrar dentro de 10 años, cuando usemos superficies táctiles proyectadas sobre las mesas, o en el aire, o lo que usemos.</p>
+<p style="text-align: justify;">Curiosamente, para usar Lion lo ideal es un Magic Trackpad. Un producto que, antes de Lion, no tenía mucho sentido. Ahora con Lion los gestos ganan terreno, el Magic Trackpad se convierte en algo básico y empieza a servir de algo. Yo aún no tengo uno, pero probablemente acabe usándolo como comentaba <a href="http://www.terron.org/">Terrón</a>: Magic mouse a la derecha y Magic Trackpad a la izquierda para los gestos.</p>
+<h2 style="text-align: justify;">El coste de Lion</h2>
+<p style="text-align: justify;">Esta es una de las cosas que me encantan de Apple, pese a todas las quejas existentes. Te dan un hard de excelente calidad, con un S.O. que es el que más me gusta. Y encima, cuando lo actualizan, es muy barato. Mucho. Lion cuesta 23,99 € en la Mac App Store. Dado que se puede instalar hasta en 5 máquinas que tengas por casa no te sale cada instalación ni a 5 €. Igualito que en otros sistemas. Ya, ya se que Linux es más <em>barato</em>, pero hablamos de productos comerciales :-).</p>
+<p style="text-align: justify;">En mi caso, Lion me ha costado exactamente 0 €. Aproveché el pasado 6 de Junio el Día Sin Iva de MediaMarkt y me compré un Mac Mini, que uso de Mediacenter (o eso pretendo, que no lo tengo configurado en condiciones, pero bueno&#8230;). El caso es que Apple tiene un <a href="http://www.apple.com/es/macosx/uptodate/">programa de actualización gratuita del S.O. a los clientes recientes</a>. Concretamente, si te has comprado un Mac entre el 6 de Junio (acerté!)  y la fecha de lanzamiento de Lion, te dan un código para que te lo bajes de la Mac App Store. Llamé a Apple Care para enterarme y los machaqué a preguntas. Y ha sido todo cierto. Me mandaron un correo con el código, que canjeé en la Mac App Store y pude ver esta deliciosa pantalla:</p>
+<div id="attachment_1569" style="width: 625px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-gratis.png"><img class="size-full wp-image-1569" title="Lion bajada gratis de la Mac App Store" src="/wp-content/uploads/2011/08/Lion-gratis.png" alt="Lion bajada gratis de la Mac App Store" width="615" height="171" srcset="/wp-content/uploads/2011/08/Lion-gratis.png 615w, /wp-content/uploads/2011/08/Lion-gratis-300x83.png 300w" sizes="(max-width: 615px) 100vw, 615px" /></a><p class="wp-caption-text">Lion bajada gratis de la Mac App Store</p></div>
+<p style="text-align: justify;">Encima esta descarga, como todas de la Mac App Store, me va a permitir actualizar el Mac Mini, el iMac 27&#8243; y mi MacBook Pro por 0 €. La pena es que el Macbook «blanquito» de mi mujer no es «apto» para Lion: es un CoreDuo de los primeros Intel que se usaron. Pero bueno, mi mujer tiene totalmente cubiertas sus necesidades de computación con Snow Leopard, su «blanquito», su iPhone 4 y su iPad 1.</p>
+<h2 style="text-align: justify;">Estado actual de instalaciones</h2>
+<p style="text-align: justify;">Lion 0 &#8211; Snow Leopard 3. Así podría resumirse. No me he actualizado. Ninguna máquina. Ni lo voy a hacer, al menos, hasta que aparezca la primera actualización 10.7.1. Prefiero dejar que la comunidad se dedique al «Beta testing», y no interrumpir mi trabajo parcheando cosas, o viendo si alguna aplicación ha dejado de funcionar, o lo hace de manera extraña. Estoy ahora con varios proyectos simultáneos de desarrollo en iOS, con Java, usando máquinas virtuales Windows y desarrollando para WebOS. Y no me apetece meterme en más problemas de los que ya me dan las herramientas. Así que me bajé Lion, lo he grabado en un DVD (para instalarlo cómodamente, sin tener que bajarlo en las otras máquinas) y todas las mañanas veo al León esperando pacientemente en mi Dock. No te preocupes. ¡Ya te llegará tu hora, Simba!</p>
+<div id="attachment_1573" style="width: 486px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-Dock.png"><img class="size-full wp-image-1573" title="Lion en mi Dock" src="/wp-content/uploads/2011/08/Lion-Dock.png" alt="Lion en mi Dock" width="476" height="62" srcset="/wp-content/uploads/2011/08/Lion-Dock.png 476w, /wp-content/uploads/2011/08/Lion-Dock-300x39.png 300w" sizes="(max-width: 476px) 100vw, 476px" /></a><p class="wp-caption-text">Lion en mi Dock</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/06/las-prisas-por-lion/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Buscar archivos ISO o DMG en Mac OS X</title>
+		<link>/2009/03/01/buscar-archivos-iso-o-dmg-en-mac-os-x/</link>
+		<pubDate>Sun, 01 Mar 2009 15:49:11 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[osx]]></category>
+
+		<guid isPermaLink="false">/2009/03/01/buscar-archivos-iso-o-dmg-en-mac-os-x/</guid>
+		<description><![CDATA[Supongo que todos nos bajamos cosas de Internet. En estos días de despilfarro extremo, uno se baja una distro de Linux en un momento. Y suele pasar que los ficheros con extensión ISO (un fichero que guarda una imagen de un CD-ROM o DVD, de forma que luego podemos copiarlo a un CD real) se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Supongo que todos nos bajamos cosas de Internet. En estos días de despilfarro extremo, uno se baja una distro de Linux en un momento. Y suele pasar que los ficheros con extensión ISO  (un fichero que guarda una imagen de un CD-ROM o DVD, de forma que luego podemos copiarlo a un CD real) se amontonen en el disco duro. En mi caso, esperando el momento para usarlo. Y, claro, cuando vas a usarlo ¿adivinas qué pasa?. ¡Que no lo encuentras!</p>
+<p align="justify">En el caso que os comento, andaba buscando una Ubuntu 8.10 y nada, ni en Descargas, ni en Documentos, que no la encontraba. Y se me ocurrió una cosa. ¿Y si pongo en el Finder .ISO? ¿Será el Mac OS X tan listo como para mostrarme una lista con todos los ficheros que acaben en ISO que tengo, independientemente de donde los tenga guardados?</p>
+<p align="justify"><img src="/wp-content/uploads/2009/03/buscando-iso.png" alt="Buscando archivos .ISO" /></p>
+<p align="justify"> Pues sí, como se puede ver. Basta con escribir .ISO en la búsqueda e indicar que se quiere buscar en el nombre de los ficheros. Y por cierto, la misma técnica sirve para localizar archivos DMG, que es como se distribuyen la mayoría de los programas en el mundo Mac. En este caso, me gustó tanto la búsqueda que me la guardé, y ahora localizar todos los .DMG me supone pulsar en una búsqueda guardada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p align="justify"><img src="/wp-content/uploads/2009/03/buscando-dmg.png" alt="Búsqueda guardada de DMGs" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Eliminar el icono de MobileMe de la barra de menú de Leopard</title>
+		<link>/2009/02/23/eliminar-el-icono-de-mobileme-de-la-barra-de-menu-de-leopard/</link>
+		<comments>/2009/02/23/eliminar-el-icono-de-mobileme-de-la-barra-de-menu-de-leopard/#comments</comments>
+		<pubDate>Mon, 23 Feb 2009 22:31:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/2009/02/23/eliminar-el-icono-de-mobileme-de-la-barra-de-menu-de-leopard/</guid>
+		<description><![CDATA[Yo no uso MobileMe (un servicio de sincronización de Apple, de pago, que te permite tener tus contactos, citas, correo, etc. sincronizados en varios ordenadores, tu iPhone, &#8230;) pero aún así tenía que sufrir en silencio el iconito en la barra de menú superior. Hoy Googleando me he encontrado con la forma de quitar el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Yo no uso <a href="http://www.apple.com/es/mobileme/">MobileMe</a> (un servicio de sincronización de Apple, de pago, que te permite tener tus contactos, citas, correo, etc. sincronizados en varios ordenadores, tu iPhone, &#8230;) pero aún así tenía que sufrir en silencio el iconito en la barra de menú superior.</p>
+<p>Hoy Googleando me <a href="http://www.hacktheday.com/get-rid-of-the-mobileme-sync-icon-in-leopards-menu-bar-3/">he encontrado con la forma de quitar el icono</a>: basta con pulsar la tecla comando, pulsar y arrastrar fuera de la barra de menú el icono: se borra solo. A veces se tarda más en saber cómo hacer algo que en hacerlo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Actualización 04/01/2010</strong></p>
+<p style="text-align: justify;">He visto (bueno, escuchado) en el <a href="http://www.macniacos.com/2009/12/06/macniacos-60-navidades-en-27-pulgadas/">Podcast Macniacos #60</a> que también se puede hacer lanzando iSync y mirando en sus Propiedades. Hay una opción que podemos desactivar llamada «Mostrar estado en la barra de Menus»</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/23/eliminar-el-icono-de-mobileme-de-la-barra-de-menu-de-leopard/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+		<item>
+		<title>Cómo montar un volumen en el arranque de Mac OS X</title>
+		<link>/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/</link>
+		<comments>/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/#comments</comments>
+		<pubDate>Sun, 02 Nov 2008 22:45:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/</guid>
+		<description><![CDATA[Como creo que ya he comentado antes, soy el orgulloso propietario de una Time Capsule de 500 GB. Este gadget es un producto extraordinario, ya que me sirve como punto de acceso WiFi, router hacia Internet, disco duro en red y disco para las copias de seguridad de Time Machine. Como dispone de una entrada [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify"> Como creo que ya he comentado antes, soy el orgulloso propietario de una <a href="http://www.apple.com/es/timecapsule/">Time Capsule</a> de 500 GB. Este <em>gadget</em> es un producto extraordinario, ya que me sirve como punto de acceso WiFi, router hacia Internet, disco duro en red y disco para las copias de seguridad de Time Machine. Como dispone de una entrada USB, le he conectado un HUB USB y tengo conectado un disco duro Maxtor de 750 GB y una impresora (también es servidor de impresión). Pero mi TC no es el motivo de este post.</p>
+<p align="justify">Utilizo iPhoto para almacenar y gestionar mi colección de fotos personales. Mi mujer tiene un Macbook y, lógicamente, tambien tiene las fotos de la familia, los niños y los viajes en su equipo. Toda persona que utilice dos ordenadores sabe que, si quieres mantener la información sincronizada necesitas de algún programa que te ayude, ya que el estado natural de las cosas es desordenarse. En este caso la solución fue sencilla tras un poco de <em>Googling</em>: crear una carpeta en la TC, pasar allí la biblioteca de iPhoto y usarla en modo compartido. iPhoto permite abrir una biblioteca compartida y las fotos que se graben en ella se copian también en el ordenador desde el que se usa.</p>
+<p align="justify">Claro, que para que eso funcione, el volumen de la TC en el que está la biblioteca compartida debe estar montado. Y es un engorro montarlo cada vez que voy a usar iPhoto. Siempre se me olvida y al final sale una ventana preguntándome por la biblioteca de fotos. Así que necesitaba automontar ese volumen en el arranque. Google me ha mostrado muchos métodos, con automount, tocando ficheros desde la línea de comandos, etc. etc. Pero creo que el método más sencillo (y efectivo) es ir a Preferencias del Sistema, Cuentas y en Arranque podemos añadir los programas que queremos que se lancen al iniciar sesión. En mi caso, con añadir la carpeta ShareTC (donde está la biblioteca de iPhoto) ha bastado. Tan sencillo que no lo encontraba&#8230;</p>
+<p><img src="/wp-content/uploads/2008/11/login_apps.png" alt="Aplicaciones de inicio" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

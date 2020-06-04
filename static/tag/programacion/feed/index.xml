@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Programación &#8211; freniche.com</title>
+	<atom:link href="/tag/programacion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Fraudismo 101 &#8211; The Silver Bullet</title>
+		<link>/2015/08/02/fraudismo-101-the-silver-bullet/</link>
+		<pubDate>Sun, 02 Aug 2015 21:46:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[fraudismo]]></category>
+
+		<guid isPermaLink="false">/?p=2657</guid>
+		<description><![CDATA[Este post pertenece a la serie Fraudismo 101, dedicada a las fobias y filias del informático. Tras leer que Todos lo saben todo siempre puedes saber el por qué de tener siempre El agobio de repuesto Te ha costado dominar este lenguaje. Bueno, dominar, dominar, tampoco, sin empujar, que para eso somos fraudistas, claro. Pero [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote>
+<p>Este post pertenece a la serie Fraudismo 101, dedicada a las fobias y filias del informático. Tras leer que <a href="/2015/07/28/fraudismo-101-todos-lo-saben-todo/">Todos lo saben todo</a> siempre puedes saber el por qué de tener siempre <a href="/2015/07/23/el-agobio-de-repuesto/">El agobio de repuesto</a></p>
+</blockquote>
+<p>Te ha costado dominar este lenguaje. Bueno, dominar, dominar, tampoco, sin empujar, que para eso somos <em>fraudistas</em>, claro. Pero ya <em>controlas</em> algo y cuando miras en Stack Overflow hasta comprendes el código que vas a copiar y pegar. El IDE empieza a <em>estar dominado</em>. Igual que las librerías y frameworks que usas habitualmente.</p>
+<p>Y entonces el mundo conspira contra ti y tu lenguaje deja de ser <em>cool</em>. Y tu jefe contrata un proyecto con una tecnología diferente que nadie en la empresa domina porque lo leyó en un blog. O tu cliente quiere hacer experimentos con una tecnología tan nueva que es inestable. Y quieres morir.</p>
+<p>A recomenzar. Otra vez. Y van n. De nuevo eres novato AKA un inútil. Te lo han cambiado todo, pero total, como <em>sólo es programar</em> y tú <em>eres un crack que esto en dos semanas te lo meriendas</em> pues ahí lo llevas: nuevo proyecto con todo nuevo y más apretado en tiempo que los tornillos de un submarino.</p>
+<p>Tu jefe te lo propondrá como un <em>reto</em>.</p>
+<p>Un inciso: siempre que tu jefe use la palabra <em>reto</em>, corre en la dirección opuesta lo más rápido que puedas, sin mirar atrás. En silencio, pero sin parar. Ya te enviarán el finiquito a casa. Como si tu jefe fuera un <em>infectado</em>: huye. <em>Reto</em> significa en su idioma que ha vendido algo que no sabe cómo ejecutar y que ha encontrado al que se va comer ese marrón por el mismo sueldo: tú. Porque eso es un <em>reto</em> para ellos: arriesgar tu prestigio profesional haciendo algo totalmente nuevo sin formación ni apoyo. Sin planificación ni margen para error. Por supuesto por la misma pasta. Y lo harás, claro, porque <em>eres el mejor, crack</em></p>
+<p>Y cuando empieces y los problemas se amontonen, acabarás maldiciendo y soltando la frase mágica: «estoy harto de cambiar de lenguajes cada 5 años. ¿Es que no puedo aprender uno que me dure para siempre?»</p>
+<h2>The Silver Bullet.</h2>
+<p>La primera vez que llegué a esta conclusión fue al empezar a trabajar justo al terminar los estudios. Hasta ahora aprender lenguajes había sido en parte por necesidad (para aprobar) en parte por placer. Conocía o había visto BASIC, Pascal, C, C++, LISP, ADA, Prolog&#8230; Pero todo desde la teoría, proyectos personales, etc.</p>
+<p>Cuando empecé <em>en serio</em> me pusieron con Access y VBA. Y tuve que desarrollar una App para hacer presupuestos y ventas, stock y demás en Access que corría en ¡15 puestos! De locos. Viniendo de C++ con mi proyecto fresco VB me parecía muy chulo porque era sencillo crear interfaces de usuario pero una calamidad como lenguaje. ¿Quién se ha llevado mis punteros a funciones? Cuando me empecé a enterar me moví de empresa y en unos meses tuve que programar en C, ver HTML (ni idea por entonces), hacer una App en Delphi, tocar VB 5.0 (no VBA ni Access, VB con Visual Studio). Y la presión subía y subía. ¡Estoy harto, quiero aprender de una vez ese único lenguaje multiplataforma, multiparadigma, que con darle a un botón genere desde una web hasta una aplicación Windows o Linux!</p>
+<p>The Silver Bullet es una vieja aspiración que he aprendido a no desear. No desear lo que es imposible tener ayuda bastante a no frustrarte y no ser infeliz. Budismo básico de manual. Sí, hay que aspirar a más, a ser mejor persona y profesional: <em>esto no es desear en negativo</em>. Pero en mi caso querer tener la altura de Gasol sólo me generaría frustración: eso sí es <em>desear</em> con toda su carga peyorativa. Y con los años me he dado cuenta de una verdad inmutable:</p>
+<blockquote>
+<p>una vez que aprendes un nuevo concepto de programación, el lenguaje con el que lo apliques es irrelevante.</p>
+</blockquote>
+<p>Es lo que yo llamo «carpintería». Lo difícil es entender el concepto, «hacer los planos». La ejecución debe ser sencilla (si te gusta programar, claro).</p>
+<p>Por eso, aprende sobre patrones. Lee sobre cómo otros escriben el código. Consulta guías de estilo de tu lenguage, y sobre todo pruébalas en pequeños proyectos. Descarta lo que no encaje contigo, tras reflexionarlo. Aprende lenguajes que no tengan nada que ver con lo que haces ahora: te <em>inocularán</em> conceptos que desconocías y que te gustaría que tu lenguaje tuviera. Pero ¡oh sorpresa!, casi seguro que o ya existen en tu lenguaje actual o hay una manera de simularlos. Así, aprendiendo otro lenguaje siempre acabas sabiendo más del «tuyo», con el que empezaste.</p>
+<p>Nunca vas a encontrar ese lenguaje que te llene al 100%, que nunca se cuelgue su IDE, que sea ultrarápido compilando, que tengba todas las librerías que necesitas, que se ajuste a todos los problemas&#8230; Bueno, ahora unos cuantos trolls estarán abalanzándose sobre Twitter para decirme «pero mi lenguaje hace». Ya, pero otras cosas las hará peor, o no las hará. Nunca vamos a poder escaparnos de aprender distintos lenguajes ya que los lenguajes son sólo herramientas para el programador. Ni más, ni menos. Lo más importante: que el cliente sea feliz, que tu código sea todo lo bueno y bonito que puedas escribir con tu actual nivel de conocimientos, que sea económicamente rentable. Que lo hagas con Python o con COBOL poco importa: con ambos puedes escribir maravillas o cometer aberraciones contra natura.</p>
+<p>Así que no busques esa <em>Silver Bullet</em>. Ya la has encontrado. Es tu cabeza y tu capacidad de programar. En cualquier lenguaje que te echen, que para eso <em>eres un crack</em></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Fraudismo 101: todos lo saben todo</title>
+		<link>/2015/07/28/fraudismo-101-todos-lo-saben-todo/</link>
+		<pubDate>Tue, 28 Jul 2015 08:12:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[fraudismo]]></category>
+		<category><![CDATA[Programadores]]></category>
+		<category><![CDATA[tarados]]></category>
+
+		<guid isPermaLink="false">/?p=2653</guid>
+		<description><![CDATA[Quiero iniciar una serie de posts que desde hace mucho tiempo cuento, de forma verbal, en cursos, charlas o tomando cerveza. Adelanto esto porque si hablas de la tradición verbal de una fábula inmediatamente ganas puntos de gafapastismo. Estas historias son la constatación de un hecho: que todos los informáticos (plural genérico) somos unos tarados. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Quiero iniciar una serie de posts que desde hace mucho tiempo <em>cuento</em>, de forma verbal, en cursos, charlas o tomando cerveza. Adelanto esto porque si hablas de la <em>tradición verbal</em> de una fábula inmediatamente ganas puntos de <strong>gafapastismo</strong>.</p>
+<p>Estas historias son la constatación de un hecho: que <strong>todos los informáticos</strong> (plural genérico) <strong>somos unos tarados</strong>. A todos nos falla un fusible, normalmente el mismo. He decido escribirlos tras ver que la mayoría necesitamos <a href="/2015/07/23/el-agobio-de-repuesto/">un club de autoayuda</a> ya que este trabajo estresa y agobia bastante, por razones que ahora presentaré. Compartir y descubrir estas manías te ayudará a superarlas. La corriente filosófica/psicológica que trata estas taras se llama <em>Fraudismo</em></p>
+<blockquote>
+<p>Fraudismo: disciplina que trata de explicar por qué personas normales, bastante inteligentes (más que nada porque realizan un trabajo intelectualmente complejo como es programar) se sienten como una mierda a diario y piensan que son un fraude con patas y un fracaso con DNI.</p>
+</blockquote>
+<p>Como último aviso, advertir que algunos van a estar bastante basados en las ideas que el genial <a href="http://www.joelonsoftware.com/">Joel Spolsky volcó en su blog</a>, de obligada lectura, más alguna pizca personal. Como buen Fraudista me limito a regurgitar las ideas de otro y a esperar con pánico a ser descubierto. Os ahorro el esfuerzo de descubrirme y, si no has leído a Joel (yo hasta he comprado sus libros), deja todo lo que estés haciendo y ponte a ello. De nada.</p>
+<h2>Todos lo saben todo</h2>
+<blockquote>
+<p>You are comparing your backstage self with spotlight others</p>
+</blockquote>
+<p>Esto seguro que lo has sentido muchas veces. Ser el más tonto de la habitación. Escuchar a todos hablar y darte cuenta de que o están hablando de otras cosas, o te has quedado irremisiblemente atrás. Junto con 50 puntos de tu CI. A mi me pasa mucho cuando voy a conferencias.</p>
+<p>Bueno, eso y cuando <a href="http://www.programaraciegas.net/">Jonathan Chacón</a> da alguna charla en una <a href="http://nscoder-sev.tumblr.com/">NSCoder Night de Sevilla</a>. Porque alguna vez se podría llevar algún ejemplo en modo texto, algo feo y simple, vamos, <em>lo que yo entiendo que debe programar un ciego</em>. Y no juegos en 2D y ejemplos con SceneKit en 3D. Que acaba uno machacado y preguntándole «Jonathan, alguna vez te vas a traer algo <em>de ciegos</em> y dejar de humillar a los que no sabemos hacer juegos ni animaciones. Que tú eres el ciego pero yo el discapacitado para SceneKit&#8230;». Qué le vamos a hacer: Jonathan es demasiado bueno en todo.</p>
+<p>Me pierdo. El tonto de la habitación. Seguimos.</p>
+<p>En una conferencia ya extinta (BCNDevCon) acudí a un taller de iniciación de Unity. Pensé «Unity debe molar», así que preparé lo necesario (instalé Unity, leí algún tutorial, esas cosas) y me senté a escuchar. El instructor era un valiente, porque aquello estaba lleno de gente. Pasó unos recursos en un pendrive y empezamos a hacer cosas. Yo estaba maravillado porque podía «pintar» un mundo en 3D con aquella herramienta. Casi era magia. Pero entonces mi cerebro empezó <em>a hacer cosas</em>. Empecé a mirar a mi alrededor de soslayo. «Vaya, parece que soy el más viejo del lugar. Sí todos son chavales. ¡Lo que yo habría dado por aprender estas cosas a su edad!. Anda que me van a llevar un ventajón&#8230;»</p>
+<p>Me sobrepuse y continué con el taller. Pero mi cerebro empezó a pensar «parece que todos lo llevan bien. Es más, <em>mejor</em> que yo. Parece como si todos tuvieran ya experiencia con Unity. <em>¡Eso es!</em>. Estos ya han terminado sus primeros juegos con Unity y viene aquí a <em>repasar</em>«. Y es en estas situaciones cuando el pánico se apodera de ti y empiezas a pensar «no, no es que desarrollen con Unity, es que estos son los que desarrollan <em>el propio Unity</em>. Seguro que vienen de la empresa que escribe Unity. O eso, o lo hacen todo a pelo con OpenGL. Eso es: ¡OpenGL y ensamblador!. Y su procesador de textos es Emacs&#8230; ¡Y manejan vi con el ratón!»</p>
+<p>Cuando llegó la pausa del café corrí a una mesa. No por necesidad de cafeína, que también, sino por escapar de la <em>sala de los expertos</em>, donde era el más tonto del grupo. Cuando se fueron formando grupos de café, tímidamente vas charlando, tanteando el hielo para que no se rompa bajo tus pies. Y lo que encuentras te sorprende: <em>todos pensamos que los otros ya lo saben todo</em>. Más que nada porque no podemos meternos en sus cabezas. Y siempre nos ponemos en lo peor.</p>
+<p>Me ha pasado en clases magistrales de Core Data con <a href="http://www.cimgf.com/">Marcus Zarra</a>, y <a href="https://twitter.com/accannis">Alan Cannistraro</a> preguntando sobre multi hilo. O en la NSSpain escuchando a <a href="http://petersteinberger.com/">Peter Steinberger</a> hablar de desarrollo en C pelón con Cocoa.</p>
+<p>Pero resulta que esa es la mejor situación en la que puedes estar. Una vez identificado el autoengaño de tu cerebro, cada vez que he sentido lo mismo he pensado:</p>
+<blockquote>
+<p>«Bien, si soy el más tonto de la habitación lo único que puede pasar aquí es que salga aprendiendo algo».</p>
+</blockquote>
+<p>Sólo invocar este <em>mantra</em> aleja el pánico. Porque es cierto que uno sabe PHP, y otra C++, y la de más allá Perl. Pero no es cierto lo que nuestro cerebro nos hace: que pensamos que ya deberíamos saber <em>a la vez</em> PHP, C++ y Perl porque <em>ellos</em> ya lo saben, que a ver qué has estado haciendo con tu tiempo, que tienes que <em>ponerte al día</em>. Reunimos lo mejor de cada uno y lo convertimos en un <em>yo ya debería saber todo esto</em>.</p>
+<p>¿Y qué podemos hacer una vez localizado el engaño?</p>
+<p>En mi caso, lo primero que hago es preguntarme si realmente es necesario que sepa R, Ruby, Cocos2D y Scala. Hay que decir no a todos menos a uno. Y escojo el que, de los que me atraen más, pienso que me puede ayudar mejor en mi trabajo. Quizás porque me enseña cosas desde un punto de vista distinto.</p>
+<p>Una vez localizados los objetivos lo siguiente es crearme proyectos en Things con cosas que quiero aprender y acciones concretas: ver este vídeo, leer este post, hacer un ejemplo de tal cosa. Y así voy aprendiendo. No tanto como quisiera, pero este miedo lo he superado. Y tú puedes, también, siendo consciente de que <em>todos pensamos lo mismo: que todos lo saben ya todo</em>. Y es mentira.</p>
+<p>Aprende y disfruta <em>mientras</em> aprendes. GOTO 10. No hay más.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El lamentable estado de las herramientas de desarrollo Android</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/</link>
+		<comments>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/#comments</comments>
+		<pubDate>Thu, 26 Jun 2014 12:19:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Amateur]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chapuzas]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Payasos]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=2213</guid>
+		<description><![CDATA[Advertencia: si le tienes mucho cariño a Google, mejor que no sigas leyendo. Si desarrollas Apps como es mi caso (para iOS y Android) y no tomas como dogma de fe todo lo que dice Google (ni Apple, ni Microsoft, ni nadie), adelante. Segunda advertencia: leed el update de abajo del todo, por favor. Para [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Advertencia</strong>: si le tienes mucho cariño a Google, mejor que no sigas leyendo. Si desarrollas Apps como es mi caso (para iOS y Android) y no tomas como <em>dogma de fe</em> todo lo que dice Google (ni Apple, ni Microsoft, ni nadie), adelante.</p>
+<p><strong>Segunda advertencia</strong>: leed el update de abajo del todo, por favor. Para que os hagáis una idea de lo grave que es este asunto&#8230;</p>
+<p>Ahora mismo estamos en pleno Google I/O, la conferencia para desarrolladores de Google. Se están presentando muchas novedades de consumo, lo que me parecen muy bien. Hay incluso un nuevo <em>lenguaje visual</em> llamado Material (que, por desgracia no veremos mas que en los Nexus, ya que los fabricantes se lo van a cargar; y aún así habrá que ver en qué Nexus y cuándo).</p>
+<p>Todo muy bien, pero ¿qué pasa con las herramientas <strong>de verdad</strong> para desarrolladores?</p>
+<p>Estas herramientas, no nos engañemos, son: el compilador, el lenguaje y el IDE. Eso es lo que usamos el 90% del tiempo mientras desarrollamos Apps. Pues parece que, en 2014, todo sigue como en 2013. En la edad de la piedra. <strong>En el más absoluto desprecio de Google hacia sus desarrolladores</strong>.</p>
+<p>Sí señores: <strong>desprecio</strong>. No es de recibo las herramientas que proporciona Google, insisto, en 2014. Revisemos.</p>
+<h2>El lenguaje de programación</h2>
+<p>Es Java. Ni creado ni controlado por Google. Conste que no odio Java (he invertido mucho tiempo en aprenderlo y <a href="/2010/06/25/scwcd-aprobado/">certificarme</a> como para no tomarle cariño). Pero seguir en Java 6 cuando ha salido Java 8 con un montón de novedades interesantes me <em>escuece</em>. Mucho. Quiero esos tipos opcionales, clausuras y funciones de primer orden. En Android. Y lo quiero ya. Llámame caprichoso, pero creo que ya toca avanzar.</p>
+<p>Seguir con esta versión de Java se debe seguramente al <a href="http://es.wikipedia.org/wiki/Oracle_v._Google">litigio que Oracle le está ganando a Google sobre la <em>copia</em> de Java para la máquina virtual Dalvik</a>. Es ese el motivo de <em>aguantar</em> mientras puedan con Dalvik, cambiar a ART (el runtime que se va a usar a partir de ahora) y en cuanto puedan (probablemente la I/O de 2015) presentar el desarrollo de Android con <a href="http://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>. Que es un lenguaje creado por Google. Lo cual, por cierto, tampoco me disgustaría.</p>
+<p>El cambio de Dalvik por ART no se debe a que incorpore 64 bits. Ni a que sea más óptimo. Si Dalvik es ya abierto ¿por qué no incorporar esas novedades y mejoras en la máquina virtual que ya tienen todos los Android? Probablemente por huir de un barco que se hunde. Y además: ¿para qué darle a todos los que están haciendo <em>clones</em> de Android (Nokia X, Amazon, Barnes &amp; Noble Nook, Aliyun) estas mejoras? Me juego algo a que al final ART sólo lo podrán usar los miembros de la Open Handset Alliance. <em>¿Open?</em></p>
+<h2>IDE</h2>
+<p>Controlar el lenguaje es algo importante para crear un buen ecosistema de desarrollo. Microsoft creó C#, escribe su runtime, compilador y tiene el que probablemente sea el mejor IDE de todos: Visual Studio. Apple escribe su propio IDE, Xcode, que es una maravilla (como editor es mejorable y le faltan refactors, pero en Xcode se pueden hacer cosas que Eclipse no hará en la vida y Android Studio dentro de 100 años; ante las dudas ver un Storyboard, el diseñador de efectos de partículas con SpriteKit, los PlayGrounds de Xcode 6 o los <a href="https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/DebugYourApp/DebugYourApp.html">Gauges</a>). Apple influye poderosamente en el compilador, llvm, hasta el punto de haber creado un nuevo lenguaje de programación (Swift) para avanzar tras usar casi en exclusiva Objective-C los últimos 20 años.</p>
+<p>Google, por contra, empezó creando un plugin de Eclipse para añadir algunos refactors, un asistente aquí y allá, un visualizador del XML de los layouts y poco más. Eclipse ni es de Google, ni Google puede influir en su desarrollo para hacerlo más <em>Android</em>. Luego, esperaron a que la comunidad demostrase que IntelliJ Idea era una alternativa viable para el desarrollo Android y propusieron Android Studio con mucho bombo y platillo&#8230; en Mayo de 2013. Es casi Julio de 2014 y seguimos con una herramienta en versión Alpha, que no ha alcanzado aún la versión 1.0.</p>
+<h2>Excusas</h2>
+<p>No, no me valen excusas sobre «es que Google ya se sabe, pone las cosas en Beta y tal». Google no es una startup montada por cuatro chavales. Es la compañía más valiosa del planeta. Tienen pasta y tienen cerebros. <strong>Lo que no tienen es ningún interés en mejorar las herramientas de desarrollo</strong>.</p>
+<p><strong>Google sólo se preocupa de aquellos productos en los que puede vender su publicidad</strong>. Todo lo que no sirva para imprimir anuncios, sigue el camino de Google Reader y del Dodo. Y como no pueden imprimir anuncios mientras compilas, tenemos lo que tenemos.</p>
+<h2>Modelos de negocio distintos</h2>
+<p>Hay que entender el modelo de negocio de cada una de estas tres empresas para comprender cómo actúan:</p>
+<ul>
+<li>Microsoft quiere venderte licencias. Por eso hacen el software que hacen, sólo para Windows, porque quieren venderte las licencias de Visual Studio, Team Foundation Server y Windows. Lo tomas o lo dejas, pero son claros.</li>
+<li>Apple quiere meterte en su ecosistema y venderte chismes, que es donde ganan pasta, no con software (que ahora lo dan gratis, desde el S.O. hasta Xcode pasando por la suite ofimática). Ellos quieren que te compres un iPad, un iPhone, un MacBook Pro retina con AppleCare y que sigas y sigas comprando sus productos. Hacen buen software para apoyar la venta de sus productos hardware.</li>
+<li>Google vende publicidad. Es con lo que gana dinero. No es nada innoble ni lo de que avengonzarse, pero todo esto de ir de salvapatrias de los open y darse aires de ir curando el cáncer cuando lo que hacen es espiarte para vender mejores anuncios me resulta muy gracioso. Google <strong>nunca</strong> ha sido pro software libre. </li>
+</ul>
+<h2>Open no es Libre</h2>
+<p><em>Open</em> no significa nada y me molesta el uso torticero que Google hace de este término. No dicen <em>libre</em> porque se le echaría encima todo el mundo del Software ídem, dicen <em>open</em> como en <em>voy a tirarte las migajas de los repositorios de código fuente de Android para que veas lo bueno que soy</em>.</p>
+<p>Eso <em>no</em> es libre.</p>
+<p>En un proyecto Software Libre se puede ver el código <em>mientras</em> se desarrolla, y no después. Se puede aportar código. Es una meritocracia.</p>
+<p>Aquí tenemos un desarrollo totalmente propietario y cerrado creado por una compañía que libera código al terminar. Y, por cierto, sólo parte de ese código. Google Maps o Gmail no lo liberan. Ahí lo <em>open</em> no entra, que eso es parte de mi maquinaria de vender anuncios&#8230; Llevo usando, aportando y tratando de comprender a la comunidad del Software Libre desde el 94. Me molesta que la gente se confunda y crea que Google nos defiende de las «Megacorporaciones» como Microsoft o Apple. Como si ellos fueran Teresa de Calcuta.</p>
+<p>Las tres son iguales: compañías que tratan de imponer sus productos en el mercado. Ninguna tiene como misión salvar al mundo. No le demos más vueltas.</p>
+<h2>Gradle</h2>
+<p>Así que para poner la guinda al pastel, tras usar un lenguaje que no es suyo y ofrecerte dos IDEs que tampoco hacen, han cambiado a Gradle, un sistema de construcción que tiene muy buena pinta, pero que de salida es <em>muuuucho</em> más lento que Ant. Es decir: tu proyecto en Eclipse compila más rápido que en Android Studio. Que sí, que se puede acelerar Gradle. Entonces ¿por qué no viene de salida ya configurado correctamente? ¿Por qué machacar a los devs que ya tenemos bastante al migrar un proyecto de Eclipse a AS? Es en estas cosas donde veo la desidia de Google.</p>
+<p>Y ese es el meollo de la cuestión. Que el equipo de desarrollo de AS en Google deben ser un programador y un becario. Y el becario a tiempo parcial. Sólo así se puede explicar el ritmo de no-avance de la herramienta. De nuevo, sin excusas: si Apple puede en un año sacar una nueva versión de Xcode, digo yo que Google podrá. Pero claro, si pierdes el foco creando gafas, relojes, coches, drones y mil cosas más pero no vas a lo fundamental pasan estas cosas.</p>
+<h2>Costes</h2>
+<p>Y ahora es cuando alguien pensará: «ya, pero es que en Apple hay que pagar 80 € anuales y en Microsoft el Visual Studio <em>de verdad</em> cuesta pasta, mientras que en Google pagas una vez en la vida 25 dólares y ya».</p>
+<p>Efectivamente: ¿ves una tendencia?. Pagas por un producto == calidad. No pagas y no pueden ponerte publicidad == Google Reader, digo herramientas de desarrollo.</p>
+<h2>Tú es que eres un Fanboy de Apple</h2>
+<p>Vaaaale, venga, sí, soy un Fanboy de Apple. Los tiempos de compilación de Gradle me los invento. Y tener un IDE más de un año en Alpha es de lo más normal. O que para lanzar el emulador tengamos que andar con trucos como la aceleración Intel o usar Genymotion (de nuevo, nada de esto de Google). De paso, que nada de lo que usa Google Play Services (que cada vez son más cosas) no funcione en el emulador y tengamos que tirar de dispositivo también es un <em>triunfo</em>.</p>
+<p>Quizá tu problema es que no has tratado de desarrollar con otro entorno que no sea Android Studio. En mi caso, sí. Uso Xcode, Eclipse y Android Studio a diario. Y antes usé Visual Studio, Aptana, Delphi, Turbo C y vim. ¡Hasta Blackberry ha hecho un mejor trabajo con Eclipse para BB10 que Google!</p>
+<p>Creo que hablo con cierto conocimiento de causa. Pero si tienes argumentos en contra de algo que lo que digo (que no sean <em>es que a mi me gusta más X en lugar de Y</em>) sino cosas como «resulta que el roadmap de Gradle muestra que Z y Android Studio se puede mejorar de tal y cual forma» bienvenidos sean. Si quieres ponerme a parir, no comentes: escribe un post en tu propio blog. Gracias.</p>
+<p>Y, por cierto ¿en qué parte de I/O se está hablando de las mejoras del lenguaje, IDE o compilador, más allá de ART?</p>
+<p>Pues eso.</p>
+<h2>Actualización del 1 de Julio, 2014</h2>
+<p>Escribí esta entrada en el avión, mientras me dirigía al <a href="/2014/06/24/imparto-dos-talleres-en-el-gctic-ios-y-android/">GCTIC a impartir unos talleres</a>, uno de ellos de Android. El día antes tuve la precaución de copiarme el ADT Bundle que proporciona Google para todas las plataformas, por si alguien no lo tenía instalado. Tuve que usarlo: algunos de los asistentes no lo tenían instalado, y se lo proporcioné. Total, es descomprimir un ZIP en el que va Eclipse y el SDK. Es tan sencillo, que incluso escribí en este blog <a href="/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/">cómo crearte tu propio entorno de desarrollo Android portable con Eclipse</a>.</p>
+<p>Pues no. No era tan sencillo. Nada funcionaba. Lo instalé en mi máquina con cierta sonrisa de desdén pensando «novatillos&#8230;». Y no. No funcionaba. Ningún ADT Bundle funcionaba. Ni en Mac, ni en Windows, ni en Linux. Pensé que estarían mal descargados y empezamos a bajarlos de nuevo. Hasta que nos dimos cuenta de que la culpa era de Google:</p>
+<p><strong>En la página oficial de descargas del ADT Bundle han colgado versiones que no funcionan</strong></p>
+<p>Y no avisan. A día de hoy puedes seguir bajándote una versión <em>rota</em> de ADT Bundle de la página de Google. Y sabiéndolo, no la quitan de en medio ni ponen un aviso. No. Juegan con tu tiempo. ¿Tienes una entrega de una App? Me da igual. ¿Vas a impartir un taller? No me importa. Soy Google, la prepotencia con patas, y me importa [inserta aquí un adjetivo colorido] mi comunidad de desarrolladores. Ellos son muy listos, que se busquen la vida. Total, la culpa es suya <em>por fiarse de mi página oficial de descargas</em>.</p>
+<p>Eso sí, en su <a href="https://code.google.com/p/android/issues/detail?id=72419">bug tracker</a> sí que parece que lo saben. Y dicen que lo arreglarán en uno o dos días. Después de una semana.</p>
+<p>Estoy harto.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+		<item>
+		<title>Imparto dos talleres en el GCTIC: iOS y Android</title>
+		<link>/2014/06/24/imparto-dos-talleres-en-el-gctic-ios-y-android/</link>
+		<pubDate>Tue, 24 Jun 2014 18:21:48 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Canarias]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[GCTIC]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2210</guid>
+		<description><![CDATA[El #CGTIC es el Foro de Nuevas Tecnologías de la Información y la Comunicación que va a tener lugar en Las Palmas de Gran Canaria este próximo fin de semana (del 26 al 29 de Junio). Y tengo la enorme suerte de poder asistir e impartir un par de talleres: uno sobre cómo crear tu [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>El #CGTIC es el <a href="http://www.gctic.eu/">Foro de Nuevas Tecnologías de la Información y la Comunicación</a> que va a tener lugar en Las Palmas de Gran Canaria este próximo fin de semana (del 26 al 29 de Junio). Y tengo la <strong>enorme suerte</strong> de poder asistir e impartir un par de talleres:</p>
+<ul>
+<li>uno sobre <a href="http://www.gctic.eu/#/detalle/Mios">cómo crear tu primera App con iOS</a></li>
+<li>lo mismo, pero con <a href="http://www.gctic.eu/#/detalle/Mandroid">Android</a> </li>
+</ul>
+<p>Esta es mi tercera visita a las Islas Canarias, y la tercera isla en la que voy a estar, tras Tenerife y Lanzarote. Muchas ganas no sólo de ir al GCTIC, sino de estar por Las Palmas al menos el Jueves y echar un paseo en condiciones. No tendré tiempo de mucho más (recordemos que voy a <em>trabajar</em>, no de vacaciones) pero la verdad es no que se puede ir a mejor sitio. Se puede estar igual de bien, pero mejor es complicado.</p>
+<p>Ambos talleres son gratuitos, y el Foro ha tenido la amabilidad de hacerse cargo de los gastos de transporte. Aparte de esto, yo voy «de gratis» porque creo que hay que apoyar a la comunidad de desarrollo. Este año ya he participado en dos iniciativas similares: el <a href="/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/">Curso de iOS en Cádiz</a> con el inimitable Jorge Galindo y el taller que hice con la ayuda del Ironhack en Madrid.</p>
+<p>Si me ves, saluda. Y te invitas a algo. Si pongo cara rara, es que no estoy acostumbrado a que me saluden gente que no conozco <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mi primer post en Objective-C.es</title>
+		<link>/2014/01/12/mi-primer-post-en-objective-c-es/</link>
+		<pubDate>Sun, 12 Jan 2014 19:21:21 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cocoa]]></category>
+
+		<guid isPermaLink="false">/?p=2101</guid>
+		<description><![CDATA[Ayer por fin cumplí la promesa que le hice hace casi un año a Rafa (el creador de Objective-C.es) de escribir un post sobre el script que uso para lanzar Xcode. Por cierto, si programas con Cocoa y no conocías este blog, ya puedes ir leyendo: te va a encantar. Más vale tarde que nunca, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ayer por fin cumplí la promesa que le hice hace casi un año a Rafa (el creador de <a href="http://objective-c.es/">Objective-C.es</a>) de escribir <a href="http://objective-c.es/compilando-los-proyectos-de-xcode-en-memoria/">un post sobre el script que uso para lanzar Xcode</a>.</p>
+<p>Por cierto, si programas con Cocoa y no conocías este blog, ya puedes ir leyendo: te va a encantar.</p>
+<p>Más vale tarde que nunca, ¿no?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Notación Húngara: contrapost</title>
+		<link>/2014/01/10/notacion-hungara-contrapost/</link>
+		<comments>/2014/01/10/notacion-hungara-contrapost/#comments</comments>
+		<pubDate>Fri, 10 Jan 2014 09:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Objective C]]></category>
+		<category><![CDATA[Polémicas]]></category>
+
+		<guid isPermaLink="false">/?p=2091</guid>
+		<description><![CDATA[¿A quién no le gusta una buena polémica? Esta semana en Twitter Sendoa Portuondo planteó una conversación bastante interesante sobre si era conveniente (o estaba de moda) usar prefijos en las variables de nuestros programas Objective-C. Mi respuesta fue que, a veces los usaba. Especialmente uso los prefijos para los IBOutlets, de forma que puedo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h1>¿A quién no le gusta una buena polémica?</h1>
+<p><a href="/wp-content/uploads/2014/01/polemica-tuitera.png"><img src="/wp-content/uploads/2014/01/polemica-tuitera.png" alt="Polémica Tuitera" width="558" height="624" class="aligncenter size-full wp-image-2096" srcset="/wp-content/uploads/2014/01/polemica-tuitera.png 558w, /wp-content/uploads/2014/01/polemica-tuitera-268x300.png 268w, /wp-content/uploads/2014/01/polemica-tuitera-535x598.png 535w" sizes="(max-width: 558px) 100vw, 558px" /></a></p>
+<p>Esta semana en Twitter <a href="http://www.punteroavoid.com/">Sendoa Portuondo</a> planteó una conversación bastante interesante sobre si era conveniente (o estaba de moda) usar prefijos en las variables de nuestros programas Objective-C. Mi respuesta fue que, a veces los usaba. Especialmente uso los prefijos para los <code>IBOutlets</code>, de forma que puedo completar el código rápidamente (o encontrar un Outlet sin tener que hacer un viaje al<code>@interface</code> correspondiente.</p>
+<p>Fernando Rodríguez (<a href="http://www.cocoaosx.com/">Cocoa Mental</a>, Big Nerd Ranch, <em>super Bad-Ass Master of the Universe</em>) argumentaba totalmente en contra y <a href="http://www.cocoaosx.com/2014/01/09/nomenclatura-hungara-objective-c/">ha escrito un artículo en Cocoa Mental</a> al respecto. Normalmente estoy de acuerdo con las cosas que publica Fernando, más que nada porque voy al blog a <em>leer para aprender</em> y puedo aportar poco. Pero en este tema concreto (el uso o no de prefijos para identificar <em>qué</em> es una variable), no estoy de acuerdo.</p>
+<p>Sus argumentos, que he visto esgrimidos en muchos sitios, se basan en la horrenda interpretación que se hizo de la Notación Húngara propuesta por <a href="http://es.wikipedia.org/wiki/Charles_Simonyi">Charles Simonyi</a>. Nadie lo explica mejor que Joel Spolsky en el artículo <a href="http://www.joelonsoftware.com/articles/Wrong.html">Doing it wrong</a>, pero por si no tenéis ganas de leerlo (<em>mal!, dejad en este momento todo esto y leed el blog de Joel de cabo a rabo</em>), voy a intentar explicarlo.</p>
+<h1>Notación Húngara</h1>
+<p>Si lees el <a href="http://msdn.microsoft.com/en-us/library/aa260976(VS.60).aspx"><em>paper</em> original de Simonyi</a>, encontrarás que la idea que presenta es: «pongamos el <em>qué es</em> de una variable en el prefijo, de forma que sepamos de qué estamos hablando al usarlo luego». Probablemente por no ser el Inglés su lengua materna Simonyi usó la palabra <em>type</em>. Pero no se refiere al tipo que el compilador asigna a una variable, sino a su forma, características, esencia, chi o como lo llames. Su <em>Kind</em>. En un párrafo hablando de cómo prefijar cantidades (índices, filas, etc.) podemos leer:</p>
+<blockquote>
+<p>Quantities are named by their type possibly followed by a qualifier. A convenient (and legal) punctuation is recommended to separate the type and qualifier part of a name. (In C, we use a capital initial for the qualifier as in rowFirst: row is the type; First is the qualifier.)</p>
+</blockquote>
+<p>Si os fijáis atentamente, para dar nombre aquí a una variable que representa una fila, la llama *row_First, y no longFirst o intFirst. Es decir, usa &#95;qué&#95; es esa variable y no el &#95;tipo&#95; de nuestro lenguaje elegido para representar a ese elemento. Los grandes detractores de la notación húngara han visto código escritos por otros que no la han entendido y que les obligaban a hacer tonterías como:</p>
+<pre><code>int *ptrFirstNumber;        // ¡ya sabemos que el tipo es un puntero a int!
+char *strName;              // con leer la declaración, basta...
+NSString stringAddress;     // esto es de nota
+</code></pre>
+<h1>Apple Will Never Do That</h1>
+<p>Por cierto y como nota <em>inocente</em>. Dado que esto lo extendió Microsoft y dado que Apple nunca se equivoca, Cocoa es elegante, etc. etc. en Cocoa no encontraremos <strong>nunca</strong> esta horrible notación, ¿no?. Bueno, no esta, sino <em>notación húngara a la inversa</em> (HungarianNotation^-1): usando sufijos <strong>en los tipos</strong>. Por ejemplo estas cositas:</p>
+<pre><code>AboutViewController *vc;    // ¡ejem! Ya sabemos que vc es de tipo "Pantalla About". 
+</code></pre>
+<p>¿Pero realmente es necesario poner «ViewController» al final de un tipo que extiende de UIViewController? Ya puesto así, que se llame <code>AboutViewControllerUIResponderNSObject</code>, y vemos todas las clases de las que hereda, ¿no?. ¡Error!.</p>
+<p>Aquí Apple está <em>marcando</em> en el nombre de la clase <em>qué</em> es, y no su tipo. Para Apple, un ViewController es una <em>pantalla</em> en un programa iOS. Fijáos que el sufijo no es <code>UIViewController</code>, que sería el tipo. Además, sólo leyendo AboutViewController no sabes si es un <code>UIViewController</code>, un <code>UITableViewController</code>, &#8230; lo que sí entiendes es que es una pantalla.</p>
+<p>Hungarian Notation at its best!</p>
+<h1>Un ejemplo, que me duermo</h1>
+<p>Quiero cerrar con un pequeño ejemplo. Supongamos que tenemos una clase que nos devuelve Usuarios (de un servicio web o una BD). Es la clase <code>Users</code>. Esta clase dispone de dos métodos:</p>
+<pre><code>+ (NSDictionary *)allUsers;
++ (NSDictionary *)allUsersOrderedByName;
+</code></pre>
+<p>Los nombres de los métodos son <em>autoexplicativos</em>. Usamos un diccionario en el que buscaremos usando una clave (en este caso, el nº de usuario).</p>
+<p>Si en mi código, más adelante, quiero guardar estos dos diccionarios (uno está ordenado por los valores de sus claves, que ya que estamos es la forma de ordenar un diccionario, el otro no) podría usar <em>Hungarian Notation Dark Side Style</em>, la criticada por Fernando:</p>
+<pre><code>NSDictionary *dictionaryAllUsers = [Users allUsers];
+NSDictionary *dictionaryAllUsersOrdered = [Users allUsersOrderedByName];
+</code></pre>
+<p>Aquí, el ver que son un NSDictionary no me aporta nada. Es una tontería redundante poner estos prefijos. Mucho mejor usando <em>Hungarian Notation Luke Style</em>:</p>
+<pre><code>NSDictionary *listUsers;
+NSDictionary *orderedListUsers;
+</code></pre>
+<p>Aquí usamos <em>qué</em> es para nosotros estas variables, qué representan en el flujo del programa. Son listas de usuarios. Que utilizaremos para mostrar en pantalla, buscar o lo que sea. Me da igual su tipo. Pueden ser NSDictionary, NSArray, un tipo propio, un B-Tree&#8230; Lo que me interesa es comprender de un vistazo que a) son listas y b) una de ellas viene ordenada.</p>
+<h1>Conclusión</h1>
+<p>Así que, sí, estoy de acuerdo con Fernando en que poner el tipo del compilador al identificador de una variable es una chorrada. Pero eso no es Notación Húngara. Es la mala interpretación que se hizo de ella. La Notación Húngara tal y como se definió es valiosa.</p>
+<h1>Vale, pero al final, ¿tú lo usas?</h1>
+<p>Pues creo que sí. Pero no de una manera consciente. Este tipo de discusiones, que algunos obsesionados por «hacer que funcione» verán como una pérdida de tiempo son las que nos permiten aprender y entender por qué hacemos las cosas como las hacemos. Es lo que nos hace Informáticos. Que no Ingenieros. Los Ingenieros no entenderían esto :-D. Pero esta polémica la dejo para otro post.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/10/notacion-hungara-contrapost/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Borrar un AVD que se niega a morir</title>
+		<link>/2013/08/26/borrar-un-avd-que-se-niega-a-morir/</link>
+		<pubDate>Mon, 26 Aug 2013 06:31:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Terminal]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1999</guid>
+		<description><![CDATA[Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje: En este caso, he tenido claro desde el principio cual era el problema sin consultar con StackOverflow. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje:</p>
+<p><a href="/wp-content/uploads/2013/08/emulator-cant-delete.png"><img src="/wp-content/uploads/2013/08/emulator-cant-delete.png" alt="AVD no se puede borrar" width="526" height="145" class="aligncenter size-full wp-image-2000" srcset="/wp-content/uploads/2013/08/emulator-cant-delete.png 526w, /wp-content/uploads/2013/08/emulator-cant-delete-300x82.png 300w" sizes="(max-width: 526px) 100vw, 526px" /></a></p>
+<p>En este caso, he tenido claro desde el principio cual era el problema <em>sin consultar con StackOverflow</em>. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado algún fichero indicando que el emulador estaba en marcha, y por eso ahora al intentar borrarlo pensaba que seguía <em>encendido</em>.</p>
+<p>Nada que un poco de Terminal no pueda arreglar. Debemos ir, en una terminal, a la carpeta .android/avd que está dentro de nuestra carpeta $HOME. En mi caso, como mi usuario es dfreniche, la carpeta está en la ruta:</p>
+<pre><code>/Users/dfreniche/.android/avd/
+</code></pre>
+<p>Para llegar a ella, usamos a nuestro viejo amigo <code>cd</code>:</p>
+<pre><code>cd /Users/dfreniche/.android/avd
+</code></pre>
+<p>Una vez allí, veremos una carpeta por cada AVD que tengamos creado en Eclipse. Si hacemos <code>ls</code>:</p>
+<pre><code>Tesla:avd dfreniche$ ls -al
+total 24
+drwxr-xr-x   8 dfreniche  staff  272 22 ago 12:58 .
+drwxr-xr-x  17 dfreniche  staff  578 19 ago 19:41 ..
+drwxr-xr-x  12 dfreniche  staff  408 22 ago 12:58 Intel.avd
+-rw-r--r--   1 dfreniche  staff  114 22 ago 12:58 Intel.ini
+drwxr-xr-x  11 dfreniche  staff  374 20 ago 06:48 Nexus4.avd
+-rw-r--r--   1 dfreniche  staff  116 19 ago 19:32 Nexus4.ini
+drwxr-xr-x  10 dfreniche  staff  340 22 ago 11:22 Nexus4_API4.3.avd
+-rw-r--r--   1 dfreniche  staff  130 20 ago 06:47 Nexus4_API4.3.ini
+</code></pre>
+<p>Podemos ver que los terminados en .avd son carpetas (en los atributos empiezan con una <em>d</em> de directory) mientras que los .ini son ficheros normales.</p>
+<p>Si entramos en el AVD problemático (en este caso, Intel.avd) con un <code>cd Intel.avd</code> y hacemos <code>ls</code> veremos unos cuantos ficheros <em>sospechosos</em> acabados en .lock.</p>
+<pre><code>Tesla:Intel.avd dfreniche$ ls
+cache.img       hardware-qemu.ini.lock  userdata-qemu.img.lock
+cache.img.lock  sdcard.img      userdata.img
+config.ini      sdcard.img.lock
+hardware-qemu.ini   userdata-qemu.img
+</code></pre>
+<p>Con borrar estos ficheros, basta: <code>rm *.lock</code></p>
+<p>Tras esto, Eclipse nos dejará borrar tranquilamente el AVD desde su interfaz:</p>
+<div id="attachment_2001" style="width: 534px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2013/08/emulator-fixed.png"><img src="/wp-content/uploads/2013/08/emulator-fixed.png" alt="AVD arreglado para ser borrado" width="524" height="141" class="size-full wp-image-2001" srcset="/wp-content/uploads/2013/08/emulator-fixed.png 524w, /wp-content/uploads/2013/08/emulator-fixed-300x80.png 300w" sizes="(max-width: 524px) 100vw, 524px" /></a><p class="wp-caption-text">AVD arreglado para ser borrado</p></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>La NSSpain</title>
+		<link>/2013/07/24/la-nsspain/</link>
+		<pubDate>Wed, 24 Jul 2013 08:22:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Logroño]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[NSSpain]]></category>
+		<category><![CDATA[Programadores]]></category>
+		<category><![CDATA[Saraos]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=1917</guid>
+		<description><![CDATA[La NSSpain es una conferencia dirigida a programadores Cocoa, tanto iOS como Mac. Al final, todo lo que empieza por NS* viene a ser un aviso del estilo de esto va de programar con el lenguaje ese raro de los corchetes. Por cierto, la insistencia en el prefijo NS (como las NSCoder Night) viene del [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>La <a href="http://nsspain.com/">NSSpain</a> es una conferencia dirigida a programadores Cocoa, tanto iOS como Mac. Al final, todo lo que empieza por NS* viene a ser un aviso del estilo de <em>esto va de programar con el lenguaje ese raro de los corchetes</em>. Por cierto, la insistencia en el prefijo NS (como las <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">NSCoder Night</a>) viene del S.O. NextStep donde se gestó el framework Cocoa y donde estuvo mantenido en <a href="http://es.halo.wikia.com/wiki/C%C3%A1mara_Criog%C3%A9nica">crio sueño</a> hasta su popularización, primero en el mundo Mac y luego definitivamente gracias al iPhone.</p>
+<p>La NSSpain va a tener lugar en Logroño (La Rioja &#8211; España), aunque es una conferencia internacional. Viene gente de diferentes países y los ponentes son nacionales (los menos) y muchos extranjeros. La <a href="http://nsspain.com/speakers/">lista de ponentes</a> es excepcional (dado que yo soy la excepción que confirma la regla) y van maestros como <a href="http://www.cocoaosx.com/autor/">Fernando Rodríguez</a>, de AGBO (el gran Jedi Master Cocoa) o Alfonso Alba (mi maestro Git, <a href="/2013/04/02/voy-a-aprender-git/">que me hizo abrir los ojos</a> y cuyo <a href="http://cursos.aprendegit.com/">curso de Git</a> no deberías perderte si en 12 h quieres enterarte <em>al fin</em> de qué va Git). Por el precio que tiene la NSSpain es un regalo, viendo la gente que viene.</p>
+<p>Se desarrolla íntegra en Inglés (por aquello de que es internacional).</p>
+<pre><code>&lt;English-fear-rant&gt;
+</code></pre>
+<p>Acabo de sentir una conmoción en la parte <em>cateta</em> de la fuerza <em>«¡oh, Dios, mi Inglés no es lo suficientemente bueno para enterarme de las ponencias! Es más, todos se van a dar cuenta y se van reír de mi. Me sacarán al escenario desnudo a leer trabalenguas, y finalmente vendrá Godzilla y me arrancará la cabeza»</em>. Vamos a ver, que se va a estar hablando de punteros, bucles, bloques, objetos&#8230; <strong>que nadie se va a poner a declamar a Shakespeare</strong>. Que con un vocabulario mínimo puedes perfectamente seguir una de estas charlas. Hay que perderle definitivamente el miedo al Inglés: es el primer lenguaje que debes aprender si quieres programar.</p>
+<pre><code>&lt;/English-fear-rant&gt;
+</code></pre>
+<p>Así que este Septiembre nos veremos allí (del 16 al 19). Yo acudo como ponente (tras varios intercambios de correo, logré <em>engañarles</em> y hacerles creer que podía impartir una charla con cierto criterio; ahora lo malo es que hay que impartirla). En mi caso, voy a <em>actuar</em> dos veces: el día previo a la conferencia, con un taller de Core Data fundamentos, para explicar lo necesario (y algo más) para funcionar con Core Data. El primer día de la conferencia, vuelvo hablando de Core Data con algunos trucos avanzados, librerías y utilidades que suelo usar para mis proyectos.</p>
+<p>Y claro, como en toda conferencia, además de los ponentes lo mejor suele ser la gente, la comunidad Cocoa. Gente que conozco físicamente o sólo por Twitter, pero que aprecio y respeto, de la que siempre aprendes y con la que quieres estar. No me voy a poner a nombrarlos uno a uno, porque sería una pesadez y de todas formas les voy a ver allí.</p>
+<p>Lo que me lleva al último punto: que nunca he estado en Logroño. Así que este viaje me va a permitir ver algo (supongo que no mucho, que yo se cómo son estas cosas luego) pero al menos darme un paseo por la ciudad y tomarme un café en el centro, que es lo que me gusta.</p>
+<p>Ya sabes: Logroño está cerca de todos lados (al menos, más cerca que Cupertino para muchos), el precio es de risa comparado con lo que vas a aprender, conocerás a gente alucinante y te lo pasarás <em>pipa</em> con <strong>personas que te entienden cuando les hablas excitado de programación</strong>. No como tu pareja, que te escucha y asiente, pero que realmente no sabe de qué le hablas.</p>
+<p>Nos vemos en la NSSpain.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Volver a empezar</title>
+		<link>/2013/07/22/volver-a-empezar/</link>
+		<pubDate>Mon, 22 Jul 2013 04:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[mejora personal]]></category>
+		<category><![CDATA[organización personal]]></category>
+
+		<guid isPermaLink="false">/?p=1913</guid>
+		<description><![CDATA[No, no me refiero al hecho de que dijera que tenía que escribir más y leer menos, y luego no he escrito desde hace meses. Me refiero a que tengo que volver a empezar a programar, después de tres semanas largas de vacaciones totalmente desconectado de un teclado. Y me cuesta. Programar es como cualquier [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, no me refiero al hecho de que dijera que <a href="/2013/02/17/escribir-en-lugar-de-leer/">tenía que escribir más y leer menos</a>, y luego no he escrito desde hace meses. Me refiero a que tengo que volver a <em>empezar</em> a programar, después de tres semanas largas de vacaciones totalmente desconectado de un teclado. Y me cuesta.</p>
+<p>Programar es como cualquier otro trabajo / afición. Es igual que correr, o escribir en tu blog (si lo haces, claro, no como yo ahora) y supongo que será como tocar un instrumento. Cuanto más practiques, mejor sabes hacerlo. Y más sencillo te resulta, con lo que tienes más ganas de volver a ello. Y practicas otro montón. Se crea ese <em>círculo virtuoso</em> que habrá sentido todo el que, tras tres semanas de correr de forma regular, siente la adicción a las endorfinas. Por cierto, que esa es otra cosa que tengo que volver a empezar a hacer&#8230;</p>
+<p>Recientemente he leído varios artículos sobre <a href="http://blog.brazencareerist.com/2013/07/19/5-secrets-to-learning-new-skills-more-quickly-than-you-ever-thought-possible/">cómo aprender a hacer cosas mucho más rápido</a>. Todos estos artículos tienen una idea común: practica mucho, «comprime» en el mínimo tiempo posible la práctica de un año de formación <em>normal</em> y obtendrás los resultados de un año de experiencia. Siempre he sido reacio a esta idea, y he pensado que aprender las cosas <em>lleva su tiempo</em>. Pero, ¿y si estoy equivocado, y con una forma distinta de ver las cosas puedo aprender un lenguaje nuevo de programación, tocar un instrumento, correr mejor o aprender un idioma más rápido? Este verano, voy a hacer algunos experimentos sobre la forma en que hasta ahora he tratado de aprender las cosas. A ver cómo me va.</p>
+<p>Y eso me devuelve a la idea inicial: que tengo que ponerme de nuevo a programar. Pese a lo que puedan pensar los que quieren aprender a programar, a todos nos cuesta, a los que empiezan o a los que llevamos algo más de tiempo. Siempre cuesta empezar. Lo bueno, es que como dijo Pitágoras de Samos, «el principio es la mitad del todo».</p>
+<p>¡Así que, menos llorar, y más programar! (Empecemos procastrinando viendo vídeos de la WWDC 2013, cuando vuelva a estar operativo el portal de Apple para Desarrolladores, claro <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Acelera el emulador de Android</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/</link>
+		<comments>/2013/01/23/acelera-el-emulador-de-android/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 16:32:11 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Eclipse]]></category>
+
+		<guid isPermaLink="false">/?p=1856</guid>
+		<description><![CDATA[«El Emulador de Android es lento». Mucho. Es una de las quejas recurrentes que tenemos los que tenemos que desarrollar para Android, bien sea por afición, devoción u obligación. Comparado con el simulador de iOS, el Emulador de Android es una tortuga. Pero claro, la comparación no es justa: Android emula un teléfono completo, con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>«El Emulador de Android es lento». Mucho. Es una de las quejas recurrentes que tenemos los que tenemos que desarrollar para Android, bien sea por afición, devoción u obligación. Comparado con el simulador de iOS, el Emulador de Android es una tortuga. Pero claro, la comparación no es justa: Android emula un teléfono completo, con su CPU, GPU, memoria, tarjeta SD, etc. Está ejecutando código real que podríamos instalar en un teléfono, compilado para una CPU de una arquitectura que no tenemos en el escritorio (como es ARM p.ej.). El simulador de iOS crea un ejecutable x86 que «simula» comportarse dentro de un teléfono, pero realmente es un programa de Mac «travesti». La fidelidad no es la misma.</p>
+<p>Por eso, en teoría el desarrollo con el Emulador de Android debe ser más sencillo, al tener una mejor herramienta con la que probar. Eso, si eres capaz de aguantar el tiempo insoportable que tarda en arrancar. Y si no se desconecta de adb (Android Debugger Bridge) y tienes que reiniciarlo.</p>
+<h1>HAXM</h1>
+<p>Para mejorar esto, Intel pone a nuestra disposición HAXM (Hardware Accelerated Execution Manager). Gracias a este programa, instalaremos una capa de aceleración para el Emulador de Android, que realmente se ejecuta en como una máquina virtual <a href="http://wiki.qemu.org/Main_Page">qEmu</a>. qEmu es un emulador de CPUs, es decir, nos permite ejecutar en nuestros equipos basados en Intel x86 (como un Core i5 por ejemplo) S.O. que corren en Intel (como Windows, Linux, Mac) o bien otros S.O. que necesitan otras CPUs y arquitecturas (como es el caso de Android con ARM).</p>
+<p>HAXM es un driver (o un módulo del kernel en Linux / extensión del kernel en Mac) que concede a qEmu acceso directo al hardware en el que se ejecuta. Eso sí, como es un programa de Intel, sólo funciona con las CPUs Intel. Vamos, que si tu máquina tiene una CPU AMD ya puedes ir cerrando el post. Además, la CPU debe soportar VT-x (las modernas lo soportan, no pruebes con un Pentium II). Puedes consultar los requisitos en la <a href="http://software.intel.com/en-us/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-mac-os-x">página detallada de Intel sobre cómo instalar HAXM</a>.</p>
+<h1>Instalación de HAXM</h1>
+<p>Si estás usando el nuevo ADT Bundle (es decir, el Eclipse + plugin ADT + SDK Android que ha sacado hace poco Google, que ya era hora por cierto) y abres el Android SDK Manager, al final encontrarás un grupo llamado «Extras» en el que está el Intel x86 HAXM Emulator Accelerator. Si estás en Windows / Linux, bájatelo desde aquí. Si estás en OS X Mountain Lion 10.8.2 <strong>no te lo bajes desde aquí, debes ir a la <a href="http://software.intel.com/en-us/articles/intel-hardware-accelerated-execution-manager">página de descargas de HAXM</a></strong>, ya que existe un bug que hará que tu querido Mac se cuelgue. Sí, has leído bien: los Macs también se cuelgan. Cuando te lo bajes, ya sea desde el SDK Manager o a mano (por cierto, en el enlace anterior están las versiones de Linux y Windows de HAXM) debes instalarlo.</p>
+<p>En el caso del Mac, bajas un DMG que al montar te muestra un programa de instalación. Tras instalarlo (no exige reiniciar) podemos confirmar que está en funcionamiento escribiendo en una Terminal:</p>
+<pre><code>$ kextstat | grep haxm
+</code></pre>
+<p>Debe aparecer algo como esto:</p>
+<pre><code>Tesla:~ dfreniche$ kextstat | grep haxm
+115  0 0xffffff7f81e29000 0x13000 0x13000  com.intel.kext.intelhaxm (1.0.4)
+</code></pre>
+<p>Si te has bajado el paquete usando el SDK manager, puedes encontrar el programa de instalación en <code>$SDK_HOME/extras/intel/</code></p>
+<h1>Uso de HAXM</h1>
+<p>Una vez instalado HAXM, debemos descargar las imágenes de Android que también nos proporciona Intel. La idea es que en lugar de acelerar un emulador ARM (que sería muy complicado) Intel nos da Android para Intel Atom. De esta manera, cuando qEmu ejecuta instrucciones en el Intel Atom emulado realmente se pasan a nuestra CPU directamente, con la consiguiente mejora en rendimiento.</p>
+<p>Estas imágenes aparecen como «Intel x86 Atom System Image» en el SDK Manager. A bajarlas. No las tenemos para todos los API levels, pero sí para los más usados (API 10, 15 y 17 y supongo que en breve sacarán para el 18).</p>
+<p><a href="/wp-content/uploads/2013/01/intel-images.png"><img src="/wp-content/uploads/2013/01/intel-images-300x251.png" alt="SDK Manager mostrando las imágenes Intel ya instaladas" title="Imágenes Intel en el Android SDK Manager" width="300" height="251" class="aligncenter size-medium wp-image-1860" srcset="/wp-content/uploads/2013/01/intel-images-300x251.png 300w, /wp-content/uploads/2013/01/intel-images.png 933w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Ahora tendremos que crear una definición de AVD que utilice esta imagen de Intel. En lugar de un emulador con CPU ARM, vamos a escoger uno con CPU Intel Atom. De cara a nuestros programas da igual, ya que a fin de cuentas se van a ejecutar en la máquina virtual Dalvik. Si vamos a probar código Android nativo (escrito en C con el NDK) entonces lo mejor es leer la documentación de HAXM.</p>
+<p><a href="/wp-content/uploads/2013/01/ADV-intel.png"><img src="/wp-content/uploads/2013/01/ADV-intel.png" alt="Creando un AVD con CPU Intel seleccionada" title="ADV con CPU intel" width="542" height="575" class="aligncenter size-full wp-image-1862" srcset="/wp-content/uploads/2013/01/ADV-intel.png 542w, /wp-content/uploads/2013/01/ADV-intel-282x300.png 282w" sizes="(max-width: 542px) 100vw, 542px" /></a></p>
+<p>Cuando arranquemos nuestro AVD notaremos dos cosas. En la consola debe aparecer un mensaje que indique que «HAX is working» y casi sin darnos cuenta nuestro Emulador estará operativo. Se acabó el arrastrarse. Yo ni marco que arranque de un snapshot porque es tan rápido que no me merece la pena.</p>
+<h1>Bonus level</h1>
+<p>Si usas API level 15 ó 17 puedes usar la aceleración de hardware de la GPU, lo que hará que todavía sea más rápido. Avisado quedas de que puede no funcionar (el emulador se vería en negro y tendrías que cerrarlo). <a href="http://developer.android.com/tools/devices/emulator.html#acceleration">Consulta el apartado de aceleración de la GPU</a> de la documentación Emulador para más detalles. Para activarla, marca el checkbox «Use host GPU» en la definición del AVD.</p>
+<h1>Ultra bonus level</h1>
+<p>Y si necesitas un emulador de Android «en la nube», para probar algo o mostrar en una visita a un cliente, y no tienes tu máquina pero te puedes bajar el APK de Dropbox, mira <a href="https://app.manymo.com/emulators">Manymo</a>. Si con esto no te pones <em>palote</em>&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/23/acelera-el-emulador-de-android/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>BlackBerry Jam en Barcelona</title>
+		<link>/2012/06/02/blackberry-jam-en-barcelona/</link>
+		<comments>/2012/06/02/blackberry-jam-en-barcelona/#comments</comments>
+		<pubDate>Sat, 02 Jun 2012 18:08:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Blackberry]]></category>
+		<category><![CDATA[Developers]]></category>
+		<category><![CDATA[RIM]]></category>
+
+		<guid isPermaLink="false">/?p=1719</guid>
+		<description><![CDATA[El pasado Jueves 31 de Mayo estuve en la BlackBerry Jam que se celebró en Barcelona. Un evento en el que RIM está mostrando a los desarrolladores de todo el mundo su nueva plataforma, BlackBerry 10. Me invitaron a ir y no pude evitar aparecer. Encima, como bonus a todo un día viendo esta nueva [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">El pasado Jueves 31 de Mayo estuve en la <a href="http://www.blackberryjamworldtour.com/">BlackBerry Jam</a> que se celebró en Barcelona. Un evento en el que RIM está mostrando a los desarrolladores de todo el mundo su nueva plataforma, BlackBerry 10. Me invitaron a ir y no pude evitar aparecer. Encima, como bonus a todo un día viendo esta nueva tecnología, a los desarrolladores que nos registrábamos nos entregaban un dispositivo para hacer pruebas, un prototipo. El BlackBerry 10 Alpha Device.</p>
+<p style="text-align: justify;">Entre lo poco que dormí la noche anterior, el viaje ida y vuelta desde Sevilla a Barcelona, la alergia y alimentarme casi exclusivamente de azúcar y cafeína (dieta sana) la experiencia fue extenuante, pero muy, muy interesante. En el MWC acudí a las presentaciones del App Planet, que estuvieron bien. Pero aquí pude ver y probar código. Y preguntar cosas. Y eso sube el nivel de adicción de la sesión muchos puntos (al menos para mí).</p>
+<p style="text-align: justify;">Estuve con un montón de gente muy interesante. A algunos, como a <a href="http://blogs.lavozdegalicia.es/serantes/">Serantes</a>, ya lo conocía del <a href="/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/">EBE</a>. Con <a href="http://twitter.com/#!/rodriguezhernan">Hernán</a>, de Aecomo he trabajado y da gusto tener un <em>jefe</em> que sabe tanto de programar como tú. Pude conocer fugazmente a <a href="http://a1200.wordpress.com/">NeuroFlip</a>. La rabia es que, con el atontamiento que tenía encima no pude hablar con él de lo que de verdad me interesa: los Amiga :-).  Y otro montón de gente como @rallat, @jorgecasar, @ClaraCorretge, Pilar Bernat&#8230;</p>
+<div id="attachment_1728" style="width: 728px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/06/WP_000090.jpg"><img class="size-full wp-image-1728" title="Reunión de cracks" src="/wp-content/uploads/2012/06/WP_000090.jpg" alt="Reunión de cracks" width="718" height="538" srcset="/wp-content/uploads/2012/06/WP_000090.jpg 718w, /wp-content/uploads/2012/06/WP_000090-300x224.jpg 300w" sizes="(max-width: 718px) 100vw, 718px" /></a><p class="wp-caption-text">Reunión de cracks</p></div>
+<p style="text-align: justify;">El día comenzó con las típicas charlas para mostrarte lo comprometida que está RIM, y cómo se está volcando con los desarrolladores. Y debo decir que me ha sorprendido mucho su cambio de actitud. <strong>Cualquiera que me halla escuchado en los últimos años sabe que no tengo demasiado cariño por BB7</strong>. Incluso me mofé de la PlayBook antes de que saliera, llamándola en el <a href="/2010/10/08/video-de-mi-intervencion-en-etic/">evento eTic</a> «PlaySmoke». No me gusta que se hable de algo que no se puede tocar, y compararlo con un producto que se puede comprar en una tienda me parece ridículo. Toda idea que no se ha llevado a cabo tiene una posibilidad no finita de no hacerse nunca. Y luego estaba la actitud de RIM hacia los desarrolladores: o eras una gran empresa, o eras escoria. Ningún cariño hacia los desarrolladores indies e independientes. ¿Quieres un certificado para subir Apps a su tienda? ¡Paga 20 $ por él!. ¿Lo pierdes?. Pagas otros 20 $. Y el SDK ni te cuento&#8230; Muchas barreras puestas a los programadores. La guinda es que encima sólo se podía programar en Java&#8230; No demasiado excitante, vamos.</p>
+<p style="text-align: justify;">Pero el <strong>2007 lo cambió todo</strong>. Y ahora <strong>lo importante de una plataforma</strong> no es su hardware, ni la marca. Lo importante <strong>es lo que las personas pueden hacer con ella</strong>. Y para ello, se usan Apps. Luego es algo central en la estrategia de cualquier plataforma el tener a cuantos más desarrolladores de tu parte, en tu ecosistema. Cierto es que todas quieren a los Rovio (Angry Birds) de turno, a los desarrolladores RockStar. Pero también hace falta crear comunidad, y tener a los menos importantes y torpes como yo, porque hacemos preguntas en StackOverflow, o subimos código a GitHub, o usamos la plataforma porque nos gusta y hablamos de ella. Todas las gotas cuentan para llenar un vaso.</p>
+<p style="text-align: justify;">Y debo decir que <strong>RIM se ha dado cuenta</strong>. Y ha creado una plataforma, usando <a href="http://www.qnx.com/">QNX</a> como base, que tiene una pinta increíble, tanto para el usuario como para el programador. Para el usuario, espero que BB10 sea la primera plataforma móvil mainstream que lleve los gestos de webOS o Meego a las masas. La multitarea real de QNX funciona muy bien, y el cambio de tareas mediante gestos (copiado de webOS) hace que sea muy sencillo e intuitivo. Y es algo que engancha, además de ser algo distinto: al final acabas haciendo gestos en el iPad. Al que esté aburrido de iOS o Android y de ver las filas de iconos típicas en la pantalla, BB10 le va a encantar. Luego está el teclado predictivo, que te permite rellenar las palabras según escribes con un swipe del dedo. O las notificaciones, implementadas de manera muy visual y sencilla de usar.</p>
+<p style="text-align: justify;">Y para los programadores, BB10 es una maravilla. <strong>Es la plataforma para el desarrollador inquieto</strong>. Puedes hacer aplicaciones nativas con C/C++. Si quieres construir los interfaces de usuario de manera más rápida, puedes usar Qt y Qml/Cascades, una implementación propia de RIM de Qt. O puedes desarrollar en HTML5 usando WebWorks, el framework HTML5 de BB10. Yo, por ejemplo, he portado las Apps que hice para webOS de manera muy rápida y sencilla. O si vienes de Android puedes empaquetar tu App para BB10 sin tocar una línea de código. Lo que va a permitir que muchas Apps de Android aparezcan en BB10. RIM se ha volcado y ha puesto los diferentes SDKs al alcance de la mano. Ya no te cobra por nada. Y hay montones de ejemplos de código fuente en su repositorio de GitHub.</p>
+<p style="text-align: justify;">Pero todo no puede ser de color de rosa, por desgracia. <strong>Como programador y geek, la plataforma me atrae</strong> y me tiene genuinamente excitado ante las cosas que se pueden hacer. Eso de volver a C++ para el desarrollo nativo, y poder escribir JavaScript dentro de los ficheros Qml que describen las vistas de los programas me encanta. Pero <strong>aprender cualquier plataforma supone una inversión</strong>. En tiempo, esfuerzo y, lo más importante, en ilusión. El año pasado empecé con webOS y, gracias a mi aura gafe, la plataforma se hundió, por mucho que <a href="http://enyojs.com/">Enyo</a> siga avanzando como proyecto Software Libre. Ahora RIM dispone de la tecnología adecuada, y la usabilidad correcta. Y puede disponer de aplicaciones para su ecosistema, ya que BB10 va a correr casi cualquier cosa. La pregunta es ¿demasiado tarde?. Los primeros dispositivos BB10 aparecerán en el mercado probablemente para la campaña navideña. Y se van a encontrar con nuevos Android Nexus, creados por Google y Motorola mobile, ahora que ya autorizaron la compra. Y con Windows Phone 8 y las nuevas tabletas con Windows 8. Y, claro, el nuevo iPhone con iOS 6&#8230; Va a ser muy duro. Muy, muy complicado. Por eso mismo me gusta. Por lo mismo que sigo usando un Amiga 1200 o intento programar para MorphOS.</p>
+<p style="text-align: justify;"><em>Porque me gustan las causas perdidas.</em></p>
+<p>Aquí o consigues triunfar, o te hundes. Sin riesgo no hay gloria. Steve tampoco lo tenía fácil en el 97 cuando volvió a Apple, ¿no?. Nadie daba un duro por Apple. Así que yo voy a usar las plataformas que más me atraigan. Porque esto es cuestión de conocimiento y vocación. Y porque soy gilipollas.</p>
+<h2> Actualización 4 de Junio</h2>
+<p>Otras reacciones a la BBJam que he leído son las de <a href="http://blogs.lavozdegalicia.es/serantes/?p=9581">Serantes</a> y <a href="http://zonamovilidad.es/news-mainmenu-2/1-latest/3946-blackberry-muestra-su-revolucionario-so-bb10-que-saldra-antes-de-fin-de-ano.html">Pilar Bernat</a>.  Y en el lado más técnico, las de <a href="http://www.android.es/instalar-aplicaciones-barapk-en-blackberry-10-dev-alpha.html#axzz1wobP4aj3">Android.es</a> y <a href="http://jorgedelcasar.com/blackberry-10-un-smartphone-que-dara-que-hablar/">Jorge del Casar</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/06/02/blackberry-jam-en-barcelona/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Cómo crear un entorno de desarrollo Android portable</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/</link>
+		<comments>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/#comments</comments>
+		<pubDate>Wed, 23 May 2012 14:38:11 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1702</guid>
+		<description><![CDATA[Algún día me tenía que pasar. Después de ver tanto backend Java en cursos de todos los colores y de coleccionar certificaciones Java, después de desarrollar para iOS y webOS, alguna vez me tenía que poner en serio con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1710" style="width: 323px" class="wp-caption aligncenter"><img class="size-full wp-image-1710" title="Logo de Android" src="/wp-content/uploads/2012/05/android_resources.png" alt="Logo de Android" width="313" height="343" srcset="/wp-content/uploads/2012/05/android_resources.png 313w, /wp-content/uploads/2012/05/android_resources-273x300.png 273w" sizes="(max-width: 313px) 100vw, 313px" /><p class="wp-caption-text">Logo de Android</p></div>
+<p style="text-align: justify;">Algún día me tenía que pasar. Después de ver tanto backend Java en <a href="/formacion/">cursos de todos los colores</a> y de <a href="/category/informatica/programacion/java/scjp/">coleccionar certificaciones Java</a>, después de <a href="/ios-apps/">desarrollar para iOS</a> y <a href="/2012/05/17/enyo-faq-en-espanol/">webOS</a>, alguna vez me tenía que poner <em>en serio</em> con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de desarrollo móvil «de cabecera». Quizás porque estaba saturado de Java. O porque, <a href="http://wedevelopers.com/2012/03/11/we-developers-003-los-mundos-de-java/">como comentaba en We.Developers</a>, Java es un lenguaje que no me genera excesivas alegrías (sobre todo cuando lees la mayoría del código que hay por ahí, que es bastante feo, fruto del desconocimiento del lenguaje).</p>
+<p style="text-align: justify;">El caso es que estoy actualmente desarrollando una App para Android (de la que daré más datos cuando se suba a Google Play) y me ha surgido la oportunidad de impartir un curso a los programadores de RTVA. Como en todo curso, me gusta instalar el entorno de desarrollo. Y si vas a desarrollar para Android, sabes que tienes que instalarte:</p>
+<ul>
+<li>un JDK para poder compilar todo el código Java que escribimos como parte de nuestras Apps Android</li>
+<li>un JRE, necesario para ejecutar Eclipse</li>
+<li>Eclipse, como IDE para escribir nuestros programas</li>
+<li>el SDK de Android, que pone a nuestra disposición las bibliotecas necesarias para crear los programas Android, así como el Emulador, herramientas e imágenes para ejecutar ese emulador.</li>
+<li>el plug-in ADT para Eclipse, que nos permite gestionar el SDK cómodamente desde Eclipse</li>
+</ul>
+<p style="text-align: justify;">Este curso se imparte en dos semanas, dejando varios días por medio. Y el tiempo que se tarda en descargar las distintas partes del SDK de Android y el plugin ADT (ambos hay que descargarlos para instalarlos) no es despreciable cuando lo intentamos hacer con 10 portátiles todos conectados a la misma Wifi. Además de la limitación inherente a compartir la conexión HTTP, el medio físico (el canal de radio usado por el punto de acceso WiFi) es el mismo para todos los portátiles. Luego hay colisiones. Y cuantos más portátiles, peor para todos.</p>
+<p>En una primera opción, llevaba el JDK, Eclipse y el paquete de instalación del SDK en un pendrive, para irlo instalando todo. Pero de estas dos últimas descargas no me podía librar&#8230; ¿o si? Y mi miedo es volver la segunda semana y encontrarme los portátiles formateados&#8230;</p>
+<h1>Cómo crear un entorno de desarrollo Android Portable</h1>
+<p>En este caso, me centro en cómo crear el entorno portable para Windows 32 bits, que corre en XP y Windows 7. Al final comento las diferencias con Mac.</p>
+<ul>
+<li>Lo primero es bajar todo lo que necesitamos a una carpeta:</li>
+</ul>
+<blockquote>
+<ul>
+<li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java JDK</a> para Windows es un ejecutable, y escogeremos, de la versión 6, el saber que nos interese: 32 bits (i586) o 64 (x64).</li>
+<li>De Eclipse nos interesa la última versión de la distribución <a href="http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/indigosr2">Eclipse IDE for Java developers</a>. No la versión para Java EE, ya que no vamos a usar servets ni nada de eso. A fecha de escritura de este post, la última versión es la Indigo.</li>
+<li>La última versión del <a href="http://developer.android.com/sdk/index.html">SDK de Android</a>. Nos bajamos la versión en ZIP, no la instalable.</li>
+</ul>
+</blockquote>
+<ul>
+<li>Una vez que tenemos todo esto bajado, debemos instalar el JDK en la máquina. Realmente queremos las carpetas que van dentro, pero al no disponer de un ZIP no tenemos más remedio que instalar. Lo dejará en C:\Archivos de Programa\Java</li>
+<li>Una vez termine la instalación del JDK, nos crearemos una carpeta en el escritorio que podemos llamar Android-Portable, o como más nos guste.</li>
+<li>Debemos descomprimir dentro de esta carpeta el ZIP de Eclipse.</li>
+<li>Ahora, copiaremos la carpeta JRE que está en C:\Archivos de Programa\Java\Jre6\ dentro de la carpeta de Eclipse, justo donde está Elipse.exe. Así, al arrancar Eclipse usará ese JRE que le hemos instalado «tan a mano»</li>
+<li>Igualmente descomprimiremos el SDK de Android dentro de Android-Portable.</li>
+<li>Como necesitaremos el JDK para compilar, vamos a copiarnos en Android-portable la carpeta C:\Archivos de programa\Java\jdk1.6.0_31</li>
+<li>Ahora debemos tener dentro de Android-Portable: una carpeta con Eclipse, otra con el JDK y el SDK de Android.</li>
+<li>Ya podemos arrancar Eclipse. Necesitamos instalar el <a href="http://developer.android.com/sdk/eclipse-adt.html">plugin ADT</a>, para lo cual iremos a Help &gt; Install Software e instalaremos ADT indicando como repositorio https://dl-ssl.google.com/android/eclipse/</li>
+<li>Tras reiniciar Eclipse, nos pedirá que instalemos un SDK de Android, o que le indiquemos dónde tenemos uno instalado. Le indicamos que dentro de Android-Portable tenemos uno. Nos muestra el Android SDK Manager para descargar las imágenes de los emuladores para las versiones de Android que nos interesen, así como los SDKs propiamente dichos. Yo me los bajaría todos.</li>
+</ul>
+<div id="attachment_1711" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/05/pidiendo-sdk.png"><img class="size-medium wp-image-1711" title="Eclipse nos pide un SDK de Android (click para agrandar)" src="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png" alt="Eclipse nos pide un SDK de Android (click para agrandar)" width="300" height="190" srcset="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png 300w, /wp-content/uploads/2012/05/pidiendo-sdk-1024x651.png 1024w, /wp-content/uploads/2012/05/pidiendo-sdk.png 1475w" sizes="(max-width: 300px) 100vw, 300px" /></a></dt>
+</dl>
+<p>Eclipse nos pide un SDK de Android (click para agrandar)</p>
+</div>
+<ul>
+<li>¡Listo! Ahora podemos copiar la carpeta Android-Portable y todo lo que necesitamos lo llevamos dentro. Para arrancar Eclipse bastará con entrar en su carpeta y hacer doble click en Eclipse.exe. Si quieres, siempre te puedes crear un acceso directo, pero que sepas que al mover la carpeta tendrás que volver a crearlo.</li>
+</ul>
+<p>&lt;</p>
+<p>div class=»mceTemp mceIEcenter»></p>
+<p>&lt;</p>
+<p>dl id=»attachment_1707&#8243; class=»wp-caption aligncenter» style=»width: 470px;»></p>
+<dt class="wp-caption-dt"><img class="size-full wp-image-1707" title="Así debe quedar la carpeta Android-Portable" src="/wp-content/uploads/2012/05/android-portable.png" alt="Así debe quedar la carpeta Android-Portable" width="460" height="187" srcset="/wp-content/uploads/2012/05/android-portable.png 460w, /wp-content/uploads/2012/05/android-portable-300x121.png 300w" sizes="(max-width: 460px) 100vw, 460px" /><p class="wp-caption-text">Así debe quedar la carpeta Android-Portable</p></div>
+<p>Esta carpeta ya la podemos poner en un pendrive, comprimirla, copiarla de un equipo a otro, etc. Funcionará con los distintos Windows.</p>
+<p>Si tienes un Mac el proceso es el mismo, salvo que:</p>
+<ul>
+<li>no tienes que instalarte Java, ya que el JDK viene instalado con OS X (es una instalación opcional del S.O.). No puedes «bajarlo» de la página de Oracle.</li>
+<li>debes bajar el Eclipse de Mac</li>
+<li>debes bajar el SDK de Android de Mac</li>
+</ul>
+<p>Ahora, a ver alguien compra las Apps que hagamos <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>We.Developers</title>
+		<link>/2011/11/28/we-developers/</link>
+		<comments>/2011/11/28/we-developers/#comments</comments>
+		<pubDate>Mon, 28 Nov 2011 10:22:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cafe y cocoa]]></category>
+		<category><![CDATA[Developers]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Programadores]]></category>
+		<category><![CDATA[We.Developers]]></category>
+
+		<guid isPermaLink="false">/?p=1638</guid>
+		<description><![CDATA[Que soy gran fan y seguidor de José Antonio Blanco (y de su otra mitad, Valen) del podcast Macniacos no es ningún secreto. Desde que Juaco me comentara que escuchaba a dos pesados hablando dos horas seguidas sobre Mac y lo mucho que le servía, empecé a escucharles y me aficioné a su podcast. Cuando [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1639" style="width: 180px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/11/ps.avpcodgc.170x170-75.jpg"><img class="size-full wp-image-1639" title="Logo de We.Developers" src="/wp-content/uploads/2011/11/ps.avpcodgc.170x170-75.jpg" alt="Logo de We.Developers" width="170" height="170" srcset="/wp-content/uploads/2011/11/ps.avpcodgc.170x170-75.jpg 170w, /wp-content/uploads/2011/11/ps.avpcodgc.170x170-75-150x150.jpg 150w" sizes="(max-width: 170px) 100vw, 170px" /></a><p class="wp-caption-text">Logo de We.Developers</p></div>
+<p style="text-align: justify;">Que soy gran fan y seguidor de <a href="http://twitter.com/#!/jablanco">José Antonio Blanco</a> (y de su otra mitad, <a href="http://twitter.com/#!/valenjimeno">Valen</a>) del podcast Macniacos no es ningún secreto. Desde que <a href="http://twitter.com/#!/juaconet">Juaco</a> me comentara que escuchaba a dos <em>pesados</em> hablando dos horas seguidas sobre Mac y lo mucho que le servía, empecé a escucharles y me aficioné a su podcast. Cuando en el <a href="/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/">EBE 09 pude grabar su episodio en directo, junto con TaZZiTo, Serantes y Berto Pena</a> (vaya lujo de equipo) lo pasé como un enano.</p>
+<p style="text-align: justify;">Por eso, cuando Jose me comentó que tenía ganas de empezar un podcast en paralelo con Macnicacos, pero más hardcore, más orientado a informáticos / programadores, donde poder hablar sin tapujos de frikadas de las que no puedes contarle a tus amigos no informáticos no lo dudé ni un segundo y dije que cuando y donde fuera, pero que yo quería participar. Y así ha nacido <a href="http://wedevelopers.com/">We.Developers</a>, un podcast coral (Jose será el hilo conductor, e irán desfilando distintas personas que irán hablando de temas diversos de programación) sólo apto para programadores. Un sitio donde comentar que te gusta hacerlo todo con void * en C sin que nadie te mire raro. O en el que defiendas a COBOL y su espíritu de hacer un código que se autodocumente, escribiendo sentencias muy, muy largas. Mira, justo como se hace en Cocoa hoy en día&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">De momento se ha grabado el episodio piloto, pero como hay ganas seguiremos. Por culpa de esto (y de <a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a>) me he comprado un micrófono Blue SnowBall, para sonar algo mejor en las grabaciones. En el podcast, en su web y en el logo se nota (mucho) la mano y el cariño que Jose le pone a sus proyectos.</p>
+<p style="text-align: justify;">Así que ya sabes: si te gusta programar, escúchalo y anímate a proponer temas. De cualquier lenguaje y plataforma. Ver el mundo desde distintos puntos de vista ayuda mucho a comprenderlo mejor.</p>
+<p style="text-align: justify;">:wq *</p>
+<p style="text-align: justify;">* he robado hoy el cierre del post a otro <a href="http://antoniosanchez.wordpress.com/">maestro</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/11/28/we-developers/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>La NSConf11 de Vilanova i La Geltrú</title>
+		<link>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/</link>
+		<comments>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 12:43:17 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cataluña]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1630</guid>
+		<description><![CDATA[Este pasado fin de semana tuve el placer de asistir a la primera Conferencia que ha organizado a nivel nacional la Asociación NSCoders España. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Este pasado fin de semana tuve el placer de asistir a la <a href="http://nsconf.nscoders.org/">primera Conferencia</a> que ha organizado a nivel nacional la <a href="http://nscoders.org/">Asociación NSCoders España</a>. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el error de dejarme hablar. Y claro, me dediqué a desvariar un rato y, entre chiste y chiste, contaba cómo hacer un cliente RSS para iPhone.</p>
+<p style="text-align: justify;">Aún no se si realmente alguien aprendió algo de mi charla. Yo me lo pasé muy bien, aunque no las tenía todas conmigo. El Viernes anterior había estado toda la mañana programando con JavaScript y el framework Enyo para la HP TouchPad. Y por la tarde había estado viendo detalles intrincados de Java en un curso de preparación para el OCP Java SE 6 que estoy impartiendo. Y Cocoa ya no me cabía en mis maltrechas neuronas. Al final parece que Cocoa fluyó (con ayuda de muchos cafés) y me pude escapar sin demasiados tomatazos. Y aquí es donde empezó realmente lo bueno.</p>
+<p style="text-align: justify;">Este año he ido a otra conferencia, el iOSDevUK en Gales, que me encantó. Pero comparando ambas, en la NSConf11 he <em>escrito</em> código. No sólo he escuchado, aprendido y charlado de código. He <em>trabajado</em> el código. Como en el increíble taller de TDD que impartió <a href="http://nsconf.nscoders.org/ponentes/pedro-santos">Pedro Santos</a>, tras su charla sobre Behaviour Driven Development. Aquí tuve el privilegio de picar código mientras hacíamos pair programming aplicando el proceso paso a paso de TDD. O la charla sobre Chipmunk de <a href="http://nsconf.nscoders.org/ponentes/oscar-cardona">Óscar Cardona</a>, que nos dejó a todos atontados y pensando «esto no puede ser así de simple, o hay más código o este tío explica muy bien esto». O el taller de Core Plot, donde vimos cómo hacer gráficas complejas con esta librería, gracias a la demo de <a href="http://nsconf.nscoders.org/ponentes/victor-jalencas">Víctor Jalencas</a>. Y tantas y tantas ponencias interesantes. La única pena: las que me perdí mientras yo hablaba, y las que tuve que elegir, perdiendo la que se presentaba en paralelo.</p>
+<p style="text-align: justify;">Lo mejor, la gente que he conocido. Gente con muchas ganas de aprender, compartir y enseñar. Gente encantadora y que, como los miembros de la NSCoder_bcn que han organizado el evento, se han matado para que todo estuviera perfecto, como al final ha sido. Creo que nadie pensaba que en una primera conferencia íbamos a tener tanto público. Esto puede llegar a ser una WWDC hispana. Trabajaremos por ello. Gracias a José Juan, nuestro presidente, o a Guillem o Leandro, o Xabi, o&#8230; por la paliza enorme que se han dado.</p>
+<p style="text-align: justify;">He podido conocer en persona (yo no «desvirtualizo» a las personas: las conozco) a José Lobato, ídolo de masas Geeks y gran bebedor de cerveza :-D. El tío en persona es para comérselo, y gran parte de la «culpa» de que todo esto se originara es la semilla plantada desde 85% Cocoa con las NSCoder Nights. Otro que me ha impresionado y he podido escuchar con respeto reverencial es Iván Leider. Él es un Maestro Jedi del desarrollo. Yo, ni Padawan&#8230;</p>
+<p style="text-align: justify;">Y demostrando que el mundo geek también es un pañuelo, conocí a <a href="http://www.fillito.com/blog/">Daniel García</a>, el programador de la App de <a href="http://www.minube.com/">Minube</a> para la TouchPad. Creo que allí estábamos los dos únicos programadores Enyo de toda España :-). Bueno, alguno más habrá, pero no creo que más de 10&#8230;</p>
+<p style="text-align: justify;">Y claro, me he hinchado a comer, he visto algo de Vilanova i La Geltrú (principalmente de noche) y no he parado de hablar. La experiencia no merece la pena: es imprescindible si desarrollas en Cocoa. Yo el año que viene, repito. Espero que alguien recapacite y no me dejen hablar.</p>
+<p style="text-align: justify;">Os dejo con un Vídeo de Vilanova Digital en la que «el presi» de la Asociación explica (en Catalán, pero se entiende perfectamente) qué es la NSConf11</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/esHvZC-VpE4" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/esHvZC-VpE4"></param></object></div>
+</div>
+<p style="text-align: justify;">Y el que quiera el código del RSS Reader que utilicé de ejemplo, lo tiene en: <a href="https://github.com/dfreniche/SimpleRSSReader">https://github.com/dfreniche/SimpleRSSReader</a></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Café y Cocoa</title>
+		<link>/2011/08/30/cafe-y-cocoa/</link>
+		<comments>/2011/08/30/cafe-y-cocoa/#comments</comments>
+		<pubDate>Tue, 30 Aug 2011 13:10:22 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[Cafe y cocoa]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=1605</guid>
+		<description><![CDATA[Así, sin más fanfarrias ni historias, le doy el pistoletazo de salida a algo que hace mucho tiempo tenía ganas de hacer: un videocast. Concretamente este se llama Café y Cocoa, y no es un curso, ni un tutorial. Es un «voy a hablar hoy de lo que me apetezca», así que, aunque parezca que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1607" style="width: 610px" class="wp-caption aligncenter"><a href="http://www.cafeycocoa.com.es/"><img class="size-full wp-image-1607" title="Cafe y cocoa" src="/wp-content/uploads/2011/08/cafeycocoa2.png" alt="Cafe y cocoa" width="600" height="600" srcset="/wp-content/uploads/2011/08/cafeycocoa2.png 600w, /wp-content/uploads/2011/08/cafeycocoa2-150x150.png 150w, /wp-content/uploads/2011/08/cafeycocoa2-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">Cafe y cocoa</p></div>
+<p style="text-align: justify;">Así, sin más fanfarrias ni historias, le doy el pistoletazo de salida a algo que hace mucho tiempo tenía ganas de hacer: un videocast. Concretamente este se llama <a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a>, y no es un curso, ni un tutorial. Es un «voy a hablar hoy de lo que me apetezca», así que, aunque parezca que va a tener un orden lógico, estad preparados para lo peor <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Quedan muchas cosas por hacer. Me gustaría publicarlo en iTunes. Y traducir el tema al Español. Y mejorar muchas cosas. Pero como ando escaso de tiempo, y al final lo fundamental es que al que le guste, que se vea los vídeos, voy a hacer un «release early» pero ya. Así que consideradlo en Beta, como todos los servicios de Google <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>He procurado hacer vídeos cortos, y esa va a ser la tónica, para no aburrir a las ovejas. Se agradece feedback, aquí, en Café y Cocoa, por correo, en Twitter o por señales de humo. Ánimos e insultos son bienvenidos, como siempre.</p>
+<p>¡Mamá, ya soy videocaster! ¡Y cumplo la Ley Emilcar!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/30/cafe-y-cocoa/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Usando XCode 3.2.5 con dispositivos iOS 4.2.1</title>
+	<atom:link href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Kaisser</title>
+		<link>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/comment-page-1/#comment-10519</link>
+		<dc:creator><![CDATA[Kaisser]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2011 10:22:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1276#comment-10519</guid>
+		<description><![CDATA[PERFECTO !!
+
+ Era eso, que mi &quot;target&quot; estaba en un SDK más antiguo y claro, no podía desplegar ese tarjet en el dispositivo.  Que melón !! Mira que no intentar cambiar las propiedades del target ....
+
+ MIL GRACIAS !!
+
+Pd: Si hay &quot;night&quot; en Madrid te invito a algo  ;-)]]></description>
+		<content:encoded><![CDATA[<p>PERFECTO !!</p>
+<p> Era eso, que mi «target» estaba en un SDK más antiguo y claro, no podía desplegar ese tarjet en el dispositivo.  Que melón !! Mira que no intentar cambiar las propiedades del target &#8230;.</p>
+<p> MIL GRACIAS !!</p>
+<p>Pd: Si hay «night» en Madrid te invito a algo  😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Kaisser</title>
+		<link>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/comment-page-1/#comment-10518</link>
+		<dc:creator><![CDATA[Kaisser]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2011 10:20:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1276#comment-10518</guid>
+		<description><![CDATA[Añado info a mi último &quot;post&quot;, no, no es de los &quot;perfiles&quot;. 
+ 
+ Los he vuelto a descargar, eliminar del xcode, insertar en xcode y nada, me sigue faltando la opción para desplegar en el dispositivo.
+
+ Creo que es algo de la configuración de mi proyecto, que le dice al xcode &quot;algo&quot; que este interpreta y no me deja desplegar en el dispositivo.
+
+ Gracias, un saludo.]]></description>
+		<content:encoded><![CDATA[<p>Añado info a mi último «post», no, no es de los «perfiles». </p>
+<p> Los he vuelto a descargar, eliminar del xcode, insertar en xcode y nada, me sigue faltando la opción para desplegar en el dispositivo.</p>
+<p> Creo que es algo de la configuración de mi proyecto, que le dice al xcode «algo» que este interpreta y no me deja desplegar en el dispositivo.</p>
+<p> Gracias, un saludo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/comment-page-1/#comment-10517</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2011 10:17:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1276#comment-10517</guid>
+		<description><![CDATA[Tu problema tiene pinta de ser lo siguiente: creaste un proyecto con una versión anterior del SDK y ahora te aparece &quot;No base SDK&quot; en el desplegable y no puedes instalarlo. ¿No?. Si es así, pincha en el proyecto, Cmd+I (Info), marca la pestaña Build y busca en los settings &quot;Base SDK&quot;. Debes desplegarlo y asignarlo al último SDK que tiene tu nuevo XCode. Repite este proceso pero pinchando ahora en la App que cuelga de Targets en tu proyecto.
+El Base SDK es el SDK que se usa para compilar el proyecto. Si actualizas XCode la metainformación que está almacenada en el proyecto no lo sabe y sigue teniendo &quot;grabado&quot; el SDK antiguo. Hay que decirle de forma manual que cambie.
+Puedes ver también el iOS Deployment target, que es la versión de iOS más antigua en la que vas a dejar funcionar tu App.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Tu problema tiene pinta de ser lo siguiente: creaste un proyecto con una versión anterior del SDK y ahora te aparece «No base SDK» en el desplegable y no puedes instalarlo. ¿No?. Si es así, pincha en el proyecto, Cmd+I (Info), marca la pestaña Build y busca en los settings «Base SDK». Debes desplegarlo y asignarlo al último SDK que tiene tu nuevo XCode. Repite este proceso pero pinchando ahora en la App que cuelga de Targets en tu proyecto.<br />
+El Base SDK es el SDK que se usa para compilar el proyecto. Si actualizas XCode la metainformación que está almacenada en el proyecto no lo sabe y sigue teniendo «grabado» el SDK antiguo. Hay que decirle de forma manual que cambie.<br />
+Puedes ver también el iOS Deployment target, que es la versión de iOS más antigua en la que vas a dejar funcionar tu App.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Kaisser</title>
+		<link>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/comment-page-1/#comment-10516</link>
+		<dc:creator><![CDATA[Kaisser]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2011 10:09:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1276#comment-10516</guid>
+		<description><![CDATA[Hola de nuevo.
+
+ La verdad es que hay problemas con el tema del 4.2.1, el foro de soporte esta repleto, el oficial, me refiero.
+
+ Bueno, tengo instalado el 3.2.5 y el problema que me encuentro es que un proyecto realizado con 3.2.4 no me permite desplegarlo/probarlo en un dispositivo fisico, no me aparece ni la opción.
+Sin embargo, esta mañana me ha dado por crear un proyecto nuevo, vacío y en este caso SI me aparece la posibilidad de desplegar en un dispositivo. Lo he hecho y correcto.
+
+ Entonces, ¿qué tiene de &quot;malo&quot; mi proyecto &quot;viejo&quot; que el xcode 3.2.5 no me deja desplegar en un dispositivo?.  ¿Será por los profiles? ¿En serio?  :S
+
+ Voy a ir intentandolo  :D
+
+ Muchas gracias, un saludo.]]></description>
+		<content:encoded><![CDATA[<p>Hola de nuevo.</p>
+<p> La verdad es que hay problemas con el tema del 4.2.1, el foro de soporte esta repleto, el oficial, me refiero.</p>
+<p> Bueno, tengo instalado el 3.2.5 y el problema que me encuentro es que un proyecto realizado con 3.2.4 no me permite desplegarlo/probarlo en un dispositivo fisico, no me aparece ni la opción.<br />
+Sin embargo, esta mañana me ha dado por crear un proyecto nuevo, vacío y en este caso SI me aparece la posibilidad de desplegar en un dispositivo. Lo he hecho y correcto.</p>
+<p> Entonces, ¿qué tiene de «malo» mi proyecto «viejo» que el xcode 3.2.5 no me deja desplegar en un dispositivo?.  ¿Será por los profiles? ¿En serio?  :S</p>
+<p> Voy a ir intentandolo  😀</p>
+<p> Muchas gracias, un saludo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/comment-page-1/#comment-10515</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2011 09:45:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1276#comment-10515</guid>
+		<description><![CDATA[Hola
+
+Siempre debes intentar usar la última versión estable de XCode (y del último SDK que soporte), de forma que Apple no pueda rechazar tu App al revisarla. Ahora mismo puedes usar la 3.2.5 sin problemas con la v4.2.1 de iOS. No entiendo cuando me dices que no puedes desplegar en el dispositivo. ¿No será que necesitas borrar los provisioning profiles antiguos, ir al provisioning portal, volver a crearlos y reinstalarlos? Prueba. Y nos cuentas.]]></description>
+		<content:encoded><![CDATA[<p>Hola</p>
+<p>Siempre debes intentar usar la última versión estable de XCode (y del último SDK que soporte), de forma que Apple no pueda rechazar tu App al revisarla. Ahora mismo puedes usar la 3.2.5 sin problemas con la v4.2.1 de iOS. No entiendo cuando me dices que no puedes desplegar en el dispositivo. ¿No será que necesitas borrar los provisioning profiles antiguos, ir al provisioning portal, volver a crearlos y reinstalarlos? Prueba. Y nos cuentas.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Kaisser</title>
+		<link>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/comment-page-1/#comment-10483</link>
+		<dc:creator><![CDATA[Kaisser]]></dc:creator>
+		<pubDate>Wed, 19 Jan 2011 16:03:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1276#comment-10483</guid>
+		<description><![CDATA[Hola, me viene al pelo esta explicación pero ...
+
+ ¿qué pasa si no nos sale el aviso del organizer? Vamos, que a mi no me sale eso de &quot;Collect&quot; y al abrir el organizer sólo obtengo el mensaje de que el 4.2.1 no lo conoce.
+ Uso XCode 3.2.4 ya que con el 3.2.5 me quedé sin poder &quot;deploy&quot; en el &quot;device&quot;
+
+ En fin, a ver si me puedes orientar.
+
+ Un saludo.]]></description>
+		<content:encoded><![CDATA[<p>Hola, me viene al pelo esta explicación pero &#8230;</p>
+<p> ¿qué pasa si no nos sale el aviso del organizer? Vamos, que a mi no me sale eso de «Collect» y al abrir el organizer sólo obtengo el mensaje de que el 4.2.1 no lo conoce.<br />
+ Uso XCode 3.2.4 ya que con el 3.2.5 me quedé sin poder «deploy» en el «device»</p>
+<p> En fin, a ver si me puedes orientar.</p>
+<p> Un saludo.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

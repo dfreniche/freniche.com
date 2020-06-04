@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mac &#8211; freniche.com</title>
+	<atom:link href="/tag/mac/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Accediendo a todos los iconos de la barra de menús del Mac</title>
+		<link>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/</link>
+		<comments>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/#comments</comments>
+		<pubDate>Sun, 16 Mar 2014 17:40:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trucos]]></category>
+		<category><![CDATA[utilidades]]></category>
+
+		<guid isPermaLink="false">/?p=2134</guid>
+		<description><![CDATA[Una de las cosas que siempre me ha gustado más del Mac es que la barra de menús no está pegada a la ventana. Siempre en su sitio, sabes dónde tienes que mirar para encontrar una opción. Como en el Amiga OS, por cierto. Estoy tan acostumbrado, que las ventanas de Windows con los menús [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Una de las cosas que siempre me ha gustado más del Mac es que la barra de menús no está <em>pegada</em> a la ventana. Siempre en su sitio, sabes dónde tienes que mirar para encontrar una opción. Como en el Amiga OS, por cierto. Estoy tan acostumbrado, que las ventanas de Windows con los menús <em>pegados</em> ahora se me hacen raras. Cuestión de costumbre supongo.</p>
+<p>Junto con los menús me he habituado a acceder a muchas Apps a través de sus iconos en la barra de menú. Como una especie de <em>accesos rápidos</em>, me resulta sencillo hacer click en alguno de esos iconos para consultar algo, por ejemplo de Dropbox, o BitTorrent Sync, o Evernote. Y tiendo a tener muchos iconos ahí arriba.</p>
+<p>Lo cual no da demasiados problemas. Siempre que esté en el iMac de 27&#8243;, claro. Dado que la barra de menús comparte este espacio con los iconos, si el programa que tengo en primer plano (y cuyos menús se están mostrando) tiene muchos apartados, estos acaban tapando a los iconos. Se ocultan, para dejar paso a las opciones de la App. Lo cual tiene lógica. Y claro, en el iMac esto no me pasa nunca. Pero en el MBP 13&#8243; no retina, con su resolución <strong>anémica</strong> esto sucede constantemente. Y si estoy conectado a un proyector (que suelen venir directamente de 1997, con una fantástica resolución de 1024&#215;768) es para directamente pegarse un tiro.</p>
+<p>En un curso hay veces que comparto la conexión con el iPhone y quiero cerrar Dropbox, para que no sincronice usando la 3G y <em>se coma</em> el plan de datos del móvil. Y es casi imposible llegar al icono de Dropbox: todos lo tapan, pruebo cambiando con Cmd+Tab de programa, hasta encontrar el que tenga menos opciones de menú y así no tape los iconos&#8230; un rollo. Hasta que descubrí <a href="http://www.ortisoft.de/en/accessmenubarapps/">AccessMenuBarApps</a>.</p>
+<div id="attachment_2135" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2014/03/access-menubarapp.png"><img src="/wp-content/uploads/2014/03/access-menubarapp-300x5.png" alt="Access Menu Bar App" width="300" height="5" class="size-medium wp-image-2135" srcset="/wp-content/uploads/2014/03/access-menubarapp-300x5.png 300w, /wp-content/uploads/2014/03/access-menubarapp-1024x18.png 1024w, /wp-content/uploads/2014/03/access-menubarapp-535x9.png 535w, /wp-content/uploads/2014/03/access-menubarapp.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Access Menu Bar App</p></div>
+<p><a href="http://www.ortisoft.de/en/accessmenubarapps/">AccessMenuBarApps</a> es una pequeña utilidad que, una vez lanzada, puedes activar con una combinación de teclas (en mi caso con Mayúsculas izquierda + Esc) y que «limpia» de opciones de menú la barra superior. Es un gustazo, cuando estás conectado al proyector, poder llegar así a todos tus iconos, de un teclazo. Se ha convertido en una herramienta básica de mi día a día. Y encima es gratis. Se merece una donación ¿no?.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Borrar un AVD que se niega a morir</title>
+		<link>/2013/08/26/borrar-un-avd-que-se-niega-a-morir/</link>
+		<pubDate>Mon, 26 Aug 2013 06:31:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Terminal]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1999</guid>
+		<description><![CDATA[Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje: En este caso, he tenido claro desde el principio cual era el problema sin consultar con StackOverflow. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje:</p>
+<p><a href="/wp-content/uploads/2013/08/emulator-cant-delete.png"><img src="/wp-content/uploads/2013/08/emulator-cant-delete.png" alt="AVD no se puede borrar" width="526" height="145" class="aligncenter size-full wp-image-2000" srcset="/wp-content/uploads/2013/08/emulator-cant-delete.png 526w, /wp-content/uploads/2013/08/emulator-cant-delete-300x82.png 300w" sizes="(max-width: 526px) 100vw, 526px" /></a></p>
+<p>En este caso, he tenido claro desde el principio cual era el problema <em>sin consultar con StackOverflow</em>. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado algún fichero indicando que el emulador estaba en marcha, y por eso ahora al intentar borrarlo pensaba que seguía <em>encendido</em>.</p>
+<p>Nada que un poco de Terminal no pueda arreglar. Debemos ir, en una terminal, a la carpeta .android/avd que está dentro de nuestra carpeta $HOME. En mi caso, como mi usuario es dfreniche, la carpeta está en la ruta:</p>
+<pre><code>/Users/dfreniche/.android/avd/
+</code></pre>
+<p>Para llegar a ella, usamos a nuestro viejo amigo <code>cd</code>:</p>
+<pre><code>cd /Users/dfreniche/.android/avd
+</code></pre>
+<p>Una vez allí, veremos una carpeta por cada AVD que tengamos creado en Eclipse. Si hacemos <code>ls</code>:</p>
+<pre><code>Tesla:avd dfreniche$ ls -al
+total 24
+drwxr-xr-x   8 dfreniche  staff  272 22 ago 12:58 .
+drwxr-xr-x  17 dfreniche  staff  578 19 ago 19:41 ..
+drwxr-xr-x  12 dfreniche  staff  408 22 ago 12:58 Intel.avd
+-rw-r--r--   1 dfreniche  staff  114 22 ago 12:58 Intel.ini
+drwxr-xr-x  11 dfreniche  staff  374 20 ago 06:48 Nexus4.avd
+-rw-r--r--   1 dfreniche  staff  116 19 ago 19:32 Nexus4.ini
+drwxr-xr-x  10 dfreniche  staff  340 22 ago 11:22 Nexus4_API4.3.avd
+-rw-r--r--   1 dfreniche  staff  130 20 ago 06:47 Nexus4_API4.3.ini
+</code></pre>
+<p>Podemos ver que los terminados en .avd son carpetas (en los atributos empiezan con una <em>d</em> de directory) mientras que los .ini son ficheros normales.</p>
+<p>Si entramos en el AVD problemático (en este caso, Intel.avd) con un <code>cd Intel.avd</code> y hacemos <code>ls</code> veremos unos cuantos ficheros <em>sospechosos</em> acabados en .lock.</p>
+<pre><code>Tesla:Intel.avd dfreniche$ ls
+cache.img       hardware-qemu.ini.lock  userdata-qemu.img.lock
+cache.img.lock  sdcard.img      userdata.img
+config.ini      sdcard.img.lock
+hardware-qemu.ini   userdata-qemu.img
+</code></pre>
+<p>Con borrar estos ficheros, basta: <code>rm *.lock</code></p>
+<p>Tras esto, Eclipse nos dejará borrar tranquilamente el AVD desde su interfaz:</p>
+<div id="attachment_2001" style="width: 534px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2013/08/emulator-fixed.png"><img src="/wp-content/uploads/2013/08/emulator-fixed.png" alt="AVD arreglado para ser borrado" width="524" height="141" class="size-full wp-image-2001" srcset="/wp-content/uploads/2013/08/emulator-fixed.png 524w, /wp-content/uploads/2013/08/emulator-fixed-300x80.png 300w" sizes="(max-width: 524px) 100vw, 524px" /></a><p class="wp-caption-text">AVD arreglado para ser borrado</p></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>La NSSpain</title>
+		<link>/2013/07/24/la-nsspain/</link>
+		<pubDate>Wed, 24 Jul 2013 08:22:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Logroño]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[NSSpain]]></category>
+		<category><![CDATA[Programadores]]></category>
+		<category><![CDATA[Saraos]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=1917</guid>
+		<description><![CDATA[La NSSpain es una conferencia dirigida a programadores Cocoa, tanto iOS como Mac. Al final, todo lo que empieza por NS* viene a ser un aviso del estilo de esto va de programar con el lenguaje ese raro de los corchetes. Por cierto, la insistencia en el prefijo NS (como las NSCoder Night) viene del [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>La <a href="http://nsspain.com/">NSSpain</a> es una conferencia dirigida a programadores Cocoa, tanto iOS como Mac. Al final, todo lo que empieza por NS* viene a ser un aviso del estilo de <em>esto va de programar con el lenguaje ese raro de los corchetes</em>. Por cierto, la insistencia en el prefijo NS (como las <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">NSCoder Night</a>) viene del S.O. NextStep donde se gestó el framework Cocoa y donde estuvo mantenido en <a href="http://es.halo.wikia.com/wiki/C%C3%A1mara_Criog%C3%A9nica">crio sueño</a> hasta su popularización, primero en el mundo Mac y luego definitivamente gracias al iPhone.</p>
+<p>La NSSpain va a tener lugar en Logroño (La Rioja &#8211; España), aunque es una conferencia internacional. Viene gente de diferentes países y los ponentes son nacionales (los menos) y muchos extranjeros. La <a href="http://nsspain.com/speakers/">lista de ponentes</a> es excepcional (dado que yo soy la excepción que confirma la regla) y van maestros como <a href="http://www.cocoaosx.com/autor/">Fernando Rodríguez</a>, de AGBO (el gran Jedi Master Cocoa) o Alfonso Alba (mi maestro Git, <a href="/2013/04/02/voy-a-aprender-git/">que me hizo abrir los ojos</a> y cuyo <a href="http://cursos.aprendegit.com/">curso de Git</a> no deberías perderte si en 12 h quieres enterarte <em>al fin</em> de qué va Git). Por el precio que tiene la NSSpain es un regalo, viendo la gente que viene.</p>
+<p>Se desarrolla íntegra en Inglés (por aquello de que es internacional).</p>
+<pre><code>&lt;English-fear-rant&gt;
+</code></pre>
+<p>Acabo de sentir una conmoción en la parte <em>cateta</em> de la fuerza <em>«¡oh, Dios, mi Inglés no es lo suficientemente bueno para enterarme de las ponencias! Es más, todos se van a dar cuenta y se van reír de mi. Me sacarán al escenario desnudo a leer trabalenguas, y finalmente vendrá Godzilla y me arrancará la cabeza»</em>. Vamos a ver, que se va a estar hablando de punteros, bucles, bloques, objetos&#8230; <strong>que nadie se va a poner a declamar a Shakespeare</strong>. Que con un vocabulario mínimo puedes perfectamente seguir una de estas charlas. Hay que perderle definitivamente el miedo al Inglés: es el primer lenguaje que debes aprender si quieres programar.</p>
+<pre><code>&lt;/English-fear-rant&gt;
+</code></pre>
+<p>Así que este Septiembre nos veremos allí (del 16 al 19). Yo acudo como ponente (tras varios intercambios de correo, logré <em>engañarles</em> y hacerles creer que podía impartir una charla con cierto criterio; ahora lo malo es que hay que impartirla). En mi caso, voy a <em>actuar</em> dos veces: el día previo a la conferencia, con un taller de Core Data fundamentos, para explicar lo necesario (y algo más) para funcionar con Core Data. El primer día de la conferencia, vuelvo hablando de Core Data con algunos trucos avanzados, librerías y utilidades que suelo usar para mis proyectos.</p>
+<p>Y claro, como en toda conferencia, además de los ponentes lo mejor suele ser la gente, la comunidad Cocoa. Gente que conozco físicamente o sólo por Twitter, pero que aprecio y respeto, de la que siempre aprendes y con la que quieres estar. No me voy a poner a nombrarlos uno a uno, porque sería una pesadez y de todas formas les voy a ver allí.</p>
+<p>Lo que me lleva al último punto: que nunca he estado en Logroño. Así que este viaje me va a permitir ver algo (supongo que no mucho, que yo se cómo son estas cosas luego) pero al menos darme un paseo por la ciudad y tomarme un café en el centro, que es lo que me gusta.</p>
+<p>Ya sabes: Logroño está cerca de todos lados (al menos, más cerca que Cupertino para muchos), el precio es de risa comparado con lo que vas a aprender, conocerás a gente alucinante y te lo pasarás <em>pipa</em> con <strong>personas que te entienden cuando les hablas excitado de programación</strong>. No como tu pareja, que te escucha y asiente, pero que realmente no sabe de qué le hablas.</p>
+<p>Nos vemos en la NSSpain.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mi nueva máquina y por qué no me he comprado un rMBP</title>
+		<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/</link>
+		<comments>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 05:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=1826</guid>
+		<description><![CDATA[Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras lo esperaba. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/mbp.jpg"><img src="/wp-content/uploads/2013/01/mbp.jpg" alt="Foto de mi MBP 13 pulgadas abierto, con Safari corriendo" title="Mi MBP 13&quot;" width="800" height="598" class="aligncenter size-full wp-image-1850" srcset="/wp-content/uploads/2013/01/mbp.jpg 800w, /wp-content/uploads/2013/01/mbp-300x224.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a> Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras <a href="/2012/11/20/la-dulce-espera/">lo esperaba</a>. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, «¿todo el día hablando de tecnología y te compras <em>eso</em>?». Pues sí. Os cuento qué máquina me he comprado, las razones que me llevaron a ella y cómo la uso.</p>
+<h1>La máquina</h1>
+<p><a href="/wp-content/uploads/2013/01/aboutthismac.png"><img src="/wp-content/uploads/2013/01/aboutthismac.png" alt="Ventana Acerca de Este Mac abierta, mostrando las características del MBP" title="Las características de mi Mac" width="321" height="393" class="aligncenter size-full wp-image-1845" srcset="/wp-content/uploads/2013/01/aboutthismac.png 321w, /wp-content/uploads/2013/01/aboutthismac-245x300.png 245w" sizes="(max-width: 321px) 100vw, 321px" /></a></p>
+<p>El equipo en sí es un MBP 13&#8243; no retina, de Julio 2012. Por ello, tiene una resolución de pantalla infame (1280&#215;800) pero a cambio tiene otras cosas muy interesantes dentro de su cuerpo unibody de aluminio: USB 3, una CPU que al tener dos núcleos con hiperthreading, se convierten en cuatro núcleos de ejecución, una tarjeta gráfica HD 4000 (no demasiado buena, pero es lo que hay) y un HD de 500 GB bastante lento. Dado que la máquina es capaz de direccionar hasta 16 GB RAM, pensé que en lugar de poner una CPU enorme era mejor equilibrar el rendimiento global del equipo. Así que compré un par de módulos de 8 GB y un SSD de 256 GB. En cuanto me llegó, le monté el SSD y la memoria y el rendimiento global es bastante impresionante. Evidentemente, un rMBP de 15&#8243; tendrá el mismo rendimiento o más. Entonces ¿porqué esta?</p>
+<h1>Mis razones</h1>
+<p>El retina MBP es una máquina impresionante. Es como mirar al futuro y ver cómo serán los ordenadores dentro de cinco años. Pero mi equipo, además de mirarlo, tengo que usarlo. Y mucho. Y lo uso para dos tareas muy concretas: programar en el sofá o llevarlo a los cursos de programación que imparto. Así que casi todo el tiempo es acerca de programar. Una mayor resolución <em>siempre</em> es bienvenida (y ya me he quejado antes de la triste resolución máxima del MBP 13&#8243;, máxime cuando el MBA 13&#8243; tiene 1440&#215;900), pero entre la resolución retina y todo lo que pierdes a cambio, preferí el resto. ¿Y qué pierdes?</p>
+<ul>
+<li>sensor de infrarrojos. No está en el rMBP. Ya no puedo usar mi mando a distancia Apple de aluminio para controlar KeyNote. Que sí, que puedo comprar uno BlueTooth, pero ya que tengo este y es sencillo de manejar&#8230;</li>
+<li>indicador de batería. En el lateral del MBP 13&#8243; hay una línea de LEDs y un botón. Lo pulsas y sin encender el equipo ves si tiene o no batería suficiente. Lo uso mucho.</li>
+<li>puertos. Tengo discos FireWire que me gusta usar. Al igual que me gusta conectarme a la red con un cable Ethernet. Llámame viejo, o bien que 1Gbps siempre es más que 300 Mbps. Como tres veces más rápido y fiable. Ethernet no se «cae». O funciona bien, o se te ha quemado el switch. No hay otras calidades de servicio. Y se que tengo la posibilidad de usar el puerto Thunderbolt, en ambos equipos, pero no me gusta llevar adaptadores colgando, si puedo evitarlo.</li>
+<li>posibilidad de ampliación sin hipotecarme. He podido ponerle un HD SSD y ampliar la memoria a mi MBP 13&#8243;. Al rMBP no se le puede ampliar, porque todo viene soldado.</li>
+<li>mi mujer tiene un venerable MacBook blanquito de 2007. Su cargador es compatible con el mío. Nada de MagSafe2 ni historias: si pierdo el mío o explota, tengo un reemplazo de emergencia cerca.</li>
+<li>pasta. El rMBP cuesta bastante más que el MBP 13&#8243; y en mi opinión, salvo la pantalla y que pesa algo menos, no me aporta demasiado por su coste. Prefiero buscar ese MBP 13&#8243;, ampliarlo y comprar Apple Care. Y ya, para rematar el ahorro, he comprado el equipo Refurbished, con lo que te ahorras unos buenos euros.</li>
+</ul>
+<p>El equipo que pienso es el que más prestaciones te da actualmente a un precio razonable es un MBP 15&#8243; con resolución extra (1.680 por 1.050) y pantalla mate y con 16 GB RAM + SSD. Al tener una gráfica discreta, es la mejor opción. Pero quería renovar mi viejo MBP 15&#8243; del 2008 por lo mínimo posible, y además quería cambiar de factor de forma y pasar a algo más compacto.</p>
+<p>El rMBP 13&#8243; me parece una buena idea, pero esperaría a una segunda o tercera versión. No tiene sentido que lleve la misma gráfica y CPU que el no retina y que por esa resolución extra tengas que pagar 498 Eur.</p>
+<h1>Cómo lo uso</h1>
+<p>Mi MBP es el equipo que uso para los cursos y salidas varias: a Conferencias, Hackathones, reuniones de la NSCoder Night de Sevilla, etc. Es muy compacto y me transmite una sensación de solidez. Arranca en muy pocos segundos (menos de 10) y todo es instantáneo. Con los 16 GB de RAM, nada hace swap y todos los procesos tienen más memoria de la que puedan necesitar. Y el acceso a disco es muy rápido gracias al SSD. El S.O. está instalado en el SSD y los datos en el HD. Todo como la seda.</p>
+<p>Además de para los cursos, cuando puedo levantarme temprano lo uso para escribir código en Xcode / Eclipse. Y probar las Apps. Para eso, es perfecto.</p>
+<p>Pero no todo es perfecto. Alguien pensará qué pasa cuando necesito más resolución, para trabajar cómodamente o usando Pixelmator o similares. Respuesta sencilla: para esos casos tengo mi iMac 27&#8243; con su segundo monitor de 24&#8243;. Creo que con 2560&#215;1440 + 1920&#215;1080 (5.760.000 pixeles) tengo de sobra. Y pensar que mi primer AMSTRAD, en su modo de máxima resolución (MODE 2) alcanzaba 640*200 (128.000 pixeles). Eso sí, en blanco y negro, o en mi caso, en fósforo verde encendido o fósforo verde apagado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Veamos cómo tienes de largo tu Dock</title>
+		<link>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/</link>
+		<comments>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/#comments</comments>
+		<pubDate>Thu, 11 Aug 2011 09:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[chorradas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Mac]]></category>
+
+		<guid isPermaLink="false">/?p=1579</guid>
+		<description><![CDATA[Se me ha ocurrido una tontería, y no he podido evitar escribir esto. Estaba mirando mi Dock y he pensado «menos mal que tengo 27&#8243;, que si no no me caben más aplicaciones». Luego se me ha ocurrido «¿habrá quien tenga más cosas en su Dock que yo?» y he inventado El Gran Concurso Mundial [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Se me ha ocurrido una tontería, y no he podido evitar escribir esto. Estaba mirando mi Dock y he pensado «menos mal que tengo 27&#8243;, que si no no me caben más aplicaciones». Luego se me ha ocurrido «¿habrá quien tenga más cosas en su Dock que yo?» y he inventado <strong>El Gran Concurso Mundial De A Ver Quien Tiene El Dock Más Largo</strong>, así, con todas las palabras empezando por mayúsculas que molesta más.</p>
+<p style="text-align: justify;">Respondedme con vuestras capturas del Dock, subidas donde os parezca, en los comentarios. Y si somos  muchos, podemos hacer una comunidad absurda más, total, si hay gente que le da al <a href="http://en.wikipedia.org/wiki/Planking_(fad)">planking</a>&#8230;</p>
+<p style="text-align: justify;">Así que os reto ¿alguien lo tiene más largo que yo?&#8230; el Dock, digo, claro.</p>
+<div id="attachment_1580" style="width: 65px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/dock.png"><img class="size-full wp-image-1580" title="Dock" src="/wp-content/uploads/2011/08/dock.png" alt="Dock" width="55" height="2551" /></a><p class="wp-caption-text">Dock</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Guardar las pestañas abiertas de Safari en Evernote</title>
+		<link>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/</link>
+		<comments>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/#comments</comments>
+		<pubDate>Mon, 08 Aug 2011 14:28:49 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[evernote]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[safari]]></category>
+
+		<guid isPermaLink="false">/?p=1575</guid>
+		<description><![CDATA[Soy un convencido del uso Evernote como «almacén digital total» desde que lo descubri gracias a ThinkWasabi. Leer el libro de Berto me ayudó a ver su utilidad: en un mundo con cada vez menos papel y más documentos digitales, las carpetas de las que habla David Allen en su libro de GTD para guardar [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Soy un convencido del uso Evernote como «almacén digital total» desde que lo descubri gracias a <a href="http://thinkwasabi.com/">ThinkWasabi</a>. <a href="/2010/06/10/leyendo-para-emprender/">Leer el libro de Berto</a> me ayudó a ver su utilidad: en un mundo con cada vez menos papel y más documentos digitales, las carpetas de las que habla David Allen en su libro de GTD para guardar los materiales relacionados con un proyecto se han encarnado en las libretas de Evernote. Evernote te permite acceder a esos trozos de información desde cualquier dispositivo: tu ordenador, el teléfono, etc.</p>
+<p style="text-align: justify;">Como consecuencia de este uso, para cada búsqueda de información que hago en Internet para un proyecto, voy creando un conjunto de notas que agrupo en una libreta: notas que redacto yo, páginas web interesantes, artículos que encuentro, etc. Por ej., preparando el viaje que voy a hacer en Septiembre al iOSDevUK me encontré con un montón de páginas abiertas en Safari: información sobre la conferencia, sobre el pueblo donde se celebra, sobre Gales, sobre el Galés (el lenguaje), etc. El caso es que, tras cerrar las petañas con las búsquedas de Google, tenía un montón de información interesante que quería seguir revisando en otro momento. La solución: copiar todas esas URLs a una nota de Evernote. Empecé, y cuando iba por la segunda pensé: «<em>tiene que haber</em> una manera más sencilla de hacer esto». Gracias a los cielos soy perezoso, y esa noche teníamos una reunión en la NSCoder Night de Sevilla. Allí planteé mi duda, y me respondieron con este <a href="http://veritrope.com/code/export-all-safari-tabs-to-evernote/">script</a> (no recuerdo quien, y me molesta, porque no puedo buscar en mis tweets para encontrarlo), que copia las pestañas abiertas de Safari en una nota de Evernote.</p>
+<div id="attachment_1576" style="width: 561px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/guardar-como-aplicacion.png"><img class="size-full wp-image-1576" title="Guardar script como Aplicacion" src="/wp-content/uploads/2011/08/guardar-como-aplicacion.png" alt="Guardar script como Aplicacion" width="551" height="403" srcset="/wp-content/uploads/2011/08/guardar-como-aplicacion.png 551w, /wp-content/uploads/2011/08/guardar-como-aplicacion-300x219.png 300w" sizes="(max-width: 551px) 100vw, 551px" /></a><p class="wp-caption-text">Guardar script como Aplicacion</p></div>
+<p style="text-align: justify;">Si sigues los pasos de la web (haces <a href="applescript://com.apple.scripteditor?action=new&amp;script=%0D%0A%28%2A%0D%0Ahttp%3A%2F%2Fveritrope.com%0D%0ASafari%20URLs%20List%20to%20Evernote%20Exporter%0D%0AVersion%201.0%0D%0AOctober%2028%2C%202009%0D%0AProject%20Status%2C%20Latest%20Updates%2C%20and%20Comments%20Collected%20at%3A%0D%0Ahttp%3A%2F%2Fveritrope.com%2Fcode%2Fexport-all-safari-tabs-to-evernote%0D%0A%0D%0AInstallation%3A%20Just%20double-click%20on%20the%20script%21%0D%0A%0D%0AFastScripts%20Installation%20%28Optional%2C%20but%20recommended%29%3A%0D%0A--Download%20and%20Install%20FastScripts%20from%20http%3A%2F%2Fwww.red-sweater.com%2Ffastscripts%2Findex.html%0D%0A--Copy%20script%20or%20an%20Alias%20to%20%7E%2FLibrary%2FScripts%2FApplications%2FYojimbo%0D%0A--Set%20up%20your%20keyboard%20shortcut%0D%0A%0D%0ACHANGELOG%3A%0D%0A%0D%0A1.00%20%20%20%20INITIAL%20RELEASE%0D%0A%2A%29%0D%0Aset%20url_list%20to%20%7B%7D%0D%0Aset%20the%20date_stamp%20to%20%28%28the%20current%20date%29%20as%20string%29%0D%0Aset%20NoteTitle%20to%20%22URL%20List%20from%20Safari%20Tabs%20on%20%22%20%26%20the%20date_stamp%0D%0Atell%20application%20%22Safari%22%0D%0A%09activate%0D%0A%09set%20safariWindow%20to%20window%201%0D%0A%09repeat%20with%20w%20in%20safariWindow%0D%0A%09%09try%0D%0A%09%09%09repeat%20with%20t%20in%20%28tabs%20of%20w%29%0D%0A%09%09%09%09set%20TabTitle%20to%20%28name%20of%20t%29%0D%0A%09%09%09%09set%20TabURL%20to%20%28URL%20of%20t%29%0D%0A%09%09%09%09set%20TabInfo%20to%20%28%22%22%20%26%20TabTitle%20%26%20return%20%26%20TabURL%20%26%20return%20%26%20return%29%0D%0A%09%09%09%09copy%20TabInfo%20to%20the%20end%20of%20url_list%0D%0A%09%09%09end%20repeat%0D%0A%09%09end%20try%0D%0A%09end%20repeat%0D%0Aend%20tell%0D%0A%0D%0A--%20convert%20url_list%20to%20text%0D%0Aset%20old_delim%20to%20AppleScript%27s%20text%20item%20delimiters%0D%0Aset%20AppleScript%27s%20text%20item%20delimiters%20to%20return%0D%0Aset%20url_list%20to%20url_list%20as%20text%0D%0Aset%20AppleScript%27s%20text%20item%20delimiters%20to%20old_delim%0D%0A%0D%0Atell%20application%20%22Evernote%22%0D%0A%09set%20EVNote%20to%20%28create%20note%20with%20text%20url_list%20title%20NoteTitle%29%0D%0Aend%20tell%0D%0A%0D%0A">click</a> para abrirlo en el editor de AppleScript) puedes guardarlo como una aplicación. Esto te crea un fichero .app, justo como las aplicaciones que instalamos normalmente. Se usa abriéndolo (haciendo doble click sobre el icono, lanzándolo con Spotlight, vamos, como cualquier otra aplicación de tu Mac) y te creará una nota en el Inbox de tu Evernote con todas las pestañas que tengas abiertas en ese momento en la ventana de Safari. Yo antes de lanzarlo cierro las pestañas que no me interesan para la «foto» y uso la opción de menú de Safari Ventana &gt; Fusionar todas las ventanas. Así tengo una sola ventana con los tabs que quiero guardar. Por rizar el rizo de la productividad, tengo asociado en Keyboard Maestro una secuencia de teclas a ambas acciones, así que me resulta muy sencillo.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Las prisas por Lion</title>
+		<link>/2011/08/06/las-prisas-por-lion/</link>
+		<comments>/2011/08/06/las-prisas-por-lion/#comments</comments>
+		<pubDate>Sat, 06 Aug 2011 10:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Magic Mouse]]></category>
+		<category><![CDATA[Magic Trackpad]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[SO]]></category>
+
+		<guid isPermaLink="false">/?p=1562</guid>
+		<description><![CDATA[Lion, la versión 10.7 de OS X (ya no se llama Mac OS X), ya está aquí. Bueno, lleva ya un tiempo aquí, porque salió a la venta el 20 de Julio, así que ya tiene unas semanas de vida. Unas semanas en la que la gente que usa Macs parece que se han vuelto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1409" style="width: 624px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg"><img class="size-full wp-image-1409 " title="Download Snow Leopard &amp; Lion :-)" src="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg" alt="Download Snow Leopard &amp; Lion :-)" width="614" height="461" srcset="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg 1024w, /wp-content/uploads/2011/02/SnowLeopardLion11-300x225.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">Download Snow Leopard &amp; Lion <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;">Lion, la versión 10.7 de OS X (ya no se llama <em>Mac</em> OS X), ya está aquí. Bueno, lleva ya un tiempo aquí, porque salió a la venta el 20 de Julio, así que ya tiene unas semanas de vida. Unas semanas en la que la gente que usa Macs parece que se han vuelto locos y se han lanzado en no se qué concurso de a ver quién descarga e instala primero el S.O. Se han comentado muchas cosas, se han escrito ya muchas reviews (la mayor parece que es <a href="http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars">esta</a>, aunque seguramente poco a poco iremos aprendiendo cosas nuevas que hace el sistema) y se ha hablado de muchas obviedades. Aunque hay algunos temas que no he visto tratados por ahí, y que a mí me han sorprendido, y que voy a comentar junto con mi actual situación respecto a Lion.</p>
+<h2>La descarga del S.O.</h2>
+<p style="text-align: justify;">Hace ya tiempo que se venía hablando del super centro de proceso de datos que había construido Apple. Pero no se sabía a ciencia cierta para qué era. Ahora está claro: para descargar cosas como Lion, y para dar cobertura a todos los datos que se van a subir con iCloud. Y nadie ha comentado que, dado el tamaño de la descarga y la avidez del personal, el volumen del tráfico iba a ser morrocotudo y lo normal es que hubiera cortes. Pero no, parece que las descargas de Lion en general han ido bien y no he visto quejas.</p>
+<p style="text-align: justify;">Aunque el día 20 me conecté a la Mac App Store y se «atragantó» un poco, mostrándome esta pantalla :-). Tras refrescarla ya todo funcionó sin problemas.</p>
+<div id="attachment_1567" style="width: 305px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-atascado.png"><img class="size-medium wp-image-1567" title="Lion atascado en la Mac App Store" src="/wp-content/uploads/2011/08/Lion-atascado-295x300.png" alt="Lion atascado en la Mac App Store" width="295" height="300" srcset="/wp-content/uploads/2011/08/Lion-atascado-295x300.png 295w, /wp-content/uploads/2011/08/Lion-atascado-1007x1024.png 1007w, /wp-content/uploads/2011/08/Lion-atascado.png 1374w" sizes="(max-width: 295px) 100vw, 295px" /></a><p class="wp-caption-text">Lion atascado en la Mac App Store</p></div>
+<h2>El Magic Mouse es inútil</h2>
+<p style="text-align: justify;">Tímidamente empiezo a leer por ahí que si Apple lo va a abandonar, que si lo va a rediseñar, etc. El Magic Mouse es un producto revolucionario en su concepción: un ratón con una superficie multitouch. Pero la verdad es que a la hora de usarlo no es cómodo. No tan cómodo como un ratón normal. Y ejecutar muchos gestos en su superficie no es fácil. Pero fue un primer paso y en este caso, como muchas veces, los early adopters no nos llevamos el producto mejor acabado. En mi caso, tengo dos Magic Mouse, y los voy a conservar como un «eslabón perdido» que mostrar dentro de 10 años, cuando usemos superficies táctiles proyectadas sobre las mesas, o en el aire, o lo que usemos.</p>
+<p style="text-align: justify;">Curiosamente, para usar Lion lo ideal es un Magic Trackpad. Un producto que, antes de Lion, no tenía mucho sentido. Ahora con Lion los gestos ganan terreno, el Magic Trackpad se convierte en algo básico y empieza a servir de algo. Yo aún no tengo uno, pero probablemente acabe usándolo como comentaba <a href="http://www.terron.org/">Terrón</a>: Magic mouse a la derecha y Magic Trackpad a la izquierda para los gestos.</p>
+<h2 style="text-align: justify;">El coste de Lion</h2>
+<p style="text-align: justify;">Esta es una de las cosas que me encantan de Apple, pese a todas las quejas existentes. Te dan un hard de excelente calidad, con un S.O. que es el que más me gusta. Y encima, cuando lo actualizan, es muy barato. Mucho. Lion cuesta 23,99 € en la Mac App Store. Dado que se puede instalar hasta en 5 máquinas que tengas por casa no te sale cada instalación ni a 5 €. Igualito que en otros sistemas. Ya, ya se que Linux es más <em>barato</em>, pero hablamos de productos comerciales :-).</p>
+<p style="text-align: justify;">En mi caso, Lion me ha costado exactamente 0 €. Aproveché el pasado 6 de Junio el Día Sin Iva de MediaMarkt y me compré un Mac Mini, que uso de Mediacenter (o eso pretendo, que no lo tengo configurado en condiciones, pero bueno&#8230;). El caso es que Apple tiene un <a href="http://www.apple.com/es/macosx/uptodate/">programa de actualización gratuita del S.O. a los clientes recientes</a>. Concretamente, si te has comprado un Mac entre el 6 de Junio (acerté!)  y la fecha de lanzamiento de Lion, te dan un código para que te lo bajes de la Mac App Store. Llamé a Apple Care para enterarme y los machaqué a preguntas. Y ha sido todo cierto. Me mandaron un correo con el código, que canjeé en la Mac App Store y pude ver esta deliciosa pantalla:</p>
+<div id="attachment_1569" style="width: 625px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-gratis.png"><img class="size-full wp-image-1569" title="Lion bajada gratis de la Mac App Store" src="/wp-content/uploads/2011/08/Lion-gratis.png" alt="Lion bajada gratis de la Mac App Store" width="615" height="171" srcset="/wp-content/uploads/2011/08/Lion-gratis.png 615w, /wp-content/uploads/2011/08/Lion-gratis-300x83.png 300w" sizes="(max-width: 615px) 100vw, 615px" /></a><p class="wp-caption-text">Lion bajada gratis de la Mac App Store</p></div>
+<p style="text-align: justify;">Encima esta descarga, como todas de la Mac App Store, me va a permitir actualizar el Mac Mini, el iMac 27&#8243; y mi MacBook Pro por 0 €. La pena es que el Macbook «blanquito» de mi mujer no es «apto» para Lion: es un CoreDuo de los primeros Intel que se usaron. Pero bueno, mi mujer tiene totalmente cubiertas sus necesidades de computación con Snow Leopard, su «blanquito», su iPhone 4 y su iPad 1.</p>
+<h2 style="text-align: justify;">Estado actual de instalaciones</h2>
+<p style="text-align: justify;">Lion 0 &#8211; Snow Leopard 3. Así podría resumirse. No me he actualizado. Ninguna máquina. Ni lo voy a hacer, al menos, hasta que aparezca la primera actualización 10.7.1. Prefiero dejar que la comunidad se dedique al «Beta testing», y no interrumpir mi trabajo parcheando cosas, o viendo si alguna aplicación ha dejado de funcionar, o lo hace de manera extraña. Estoy ahora con varios proyectos simultáneos de desarrollo en iOS, con Java, usando máquinas virtuales Windows y desarrollando para WebOS. Y no me apetece meterme en más problemas de los que ya me dan las herramientas. Así que me bajé Lion, lo he grabado en un DVD (para instalarlo cómodamente, sin tener que bajarlo en las otras máquinas) y todas las mañanas veo al León esperando pacientemente en mi Dock. No te preocupes. ¡Ya te llegará tu hora, Simba!</p>
+<div id="attachment_1573" style="width: 486px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-Dock.png"><img class="size-full wp-image-1573" title="Lion en mi Dock" src="/wp-content/uploads/2011/08/Lion-Dock.png" alt="Lion en mi Dock" width="476" height="62" srcset="/wp-content/uploads/2011/08/Lion-Dock.png 476w, /wp-content/uploads/2011/08/Lion-Dock-300x39.png 300w" sizes="(max-width: 476px) 100vw, 476px" /></a><p class="wp-caption-text">Lion en mi Dock</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/06/las-prisas-por-lion/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Cambiar el nombre de varios ficheros a la vez en Mac OS X</title>
+		<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/</link>
+		<comments>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/#comments</comments>
+		<pubDate>Wed, 18 May 2011 16:13:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Gráficos]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1506</guid>
+		<description><![CDATA[Estoy terminando una App para iPad que me han encargado y me he encontrado con un problema. Tenía 32 imágenes, con nombres 1.png, 2.png, así hasta 32.png y necesitaba crear una versiones reducidas para tener una «vista previa». Vamos, lo que se conoce como un thumbnail. En Mac yo lo hago con vista previa: selecciono [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Estoy terminando una App para iPad que me han encargado y me he encontrado con un problema. Tenía 32 imágenes, con nombres 1.png, 2.png, así hasta 32.png y necesitaba crear una versiones reducidas para tener una «vista previa». Vamos, lo que se conoce como un <a href="http://es.wikipedia.org/wiki/Thumbnail">thumbnail</a>. En Mac yo lo hago con vista previa:</p>
+<ul>
+<li>selecciono todos los ficheros del 1.png al 32.png, pulsando Cmd+A</li>
+<li>los arrastro a una carpeta vacía que acabo de crear, pulsando la tecla Opción de Mac (Alt). Así en lugar de mover los ficheros, se copian</li>
+<li>selecciono todos los ficheros recién creados, pulsando de nuevo Cmd+A</li>
+<li>los abro todos a la vez con Vista Previa (Cmd+Flecha abajo)</li>
+<li>una vez en vista previa, los selecciono todos de nuevo (Cmd+A)</li>
+<li>y les cambio el tamaño con Herramientas -&gt; ajustar tamaño</li>
+<li>una vez listo, los grabamos todos (Archivo -&gt; Guardar todo)</li>
+</ul>
+<p>Ahora tengo, en dos carpetas distintas, 32 ficheros que se llaman 1.png, .. 32.png, como se puede ver aquí:</p>
+<div id="attachment_1509" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/05/thumbs-antes.png"><img class="size-medium wp-image-1509" title="Miniaturas antes de renombrar" src="/wp-content/uploads/2011/05/thumbs-antes-300x223.png" alt="Miniaturas antes de renombrar" width="300" height="223" srcset="/wp-content/uploads/2011/05/thumbs-antes-300x223.png 300w, /wp-content/uploads/2011/05/thumbs-antes.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Miniaturas antes de renombrar</p></div>
+<p style="text-align: justify;">Es decir, tengo los originales y los que he reducido de tamaño. El problema viene cuando ahora quiero cambiar el nombre de los ficheros para que se llamen thumb1.png, &#8230; thumb32.png. Renombrarlos uno a uno es un rollo. Y desde terminal me daba pereza hoy. Así que he buscado una herramienta gráfica y me he encontrado con <a href="http://web.mac.com/mickeyroberson/MRR_Software/NameChanger.html">NameChanger</a>, una pequeña Aplicación que funciona perfectamente para esto.</p>
+<p style="text-align: justify;">
+<div id="attachment_1510" style="width: 720px" class="wp-caption aligncenter"><img class="size-full wp-image-1510" title="NameChanger en funcionamiento" src="/wp-content/uploads/2011/05/NameChanger.png" alt="NameChanger en funcionamiento" width="710" height="538" srcset="/wp-content/uploads/2011/05/NameChanger.png 710w, /wp-content/uploads/2011/05/NameChanger-300x227.png 300w" sizes="(max-width: 710px) 100vw, 710px" /><p class="wp-caption-text">NameChanger en funcionamiento</p></div>
+<p style="text-align: justify;">NameChanger nos permite renombrar, o añadir algo al principio o final de una serie de archivos, o hacer cambios más potentes usando caracteres comodín. Y siempre te muestra antes de hacer nada, cual va a ser el resultado. Como se puede ver, es una de esas herramientas obligatorias de tener a mano.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Convertir efectos de sonido entre distintos formatos con iTunes</title>
+		<link>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/</link>
+		<comments>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/#comments</comments>
+		<pubDate>Wed, 11 May 2011 09:04:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Sonidos]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1498</guid>
+		<description><![CDATA[Hace ya un tiempo que publiqué en el App Store mi tercera App, ClockRing. Es una utilidad que hace que tu iPhone suene cada hora, como suena la radio, con esos pitidos. Aunque puedes escoger otros sonidos, claro. Es una aplicación muy sencilla, que usé para aprender a usar las LocalNotifications de iOS y decidí [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace ya un tiempo que publiqué en el App Store mi tercera App, <a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a>. Es una utilidad que hace que tu iPhone suene cada hora, como suena la radio, con esos pitidos. Aunque puedes escoger otros sonidos, claro. Es una aplicación muy sencilla, que usé para aprender a usar las LocalNotifications de iOS y decidí dejar como Software Libre. Lo que significa que si quieres ver cómo está escrita la App, siempre puedes bajarte su código fuente de su <a href="https://femtocoders.fogbugz.com/default.asp?W5">Wiki</a>.</p>
+<p style="text-align: justify;">El caso es que para que suene algo cuando se lanza una notificación necesitas un archivo con un efecto sonoro. En mi caso, los busqué libres también y me los bajé de <a href="http://www.freesound.org/">FreeSound.org</a>. Bueno, pues muchas veces vienen en un formato que no está soportado directamente por el iPhone (los que se admiten para LocalNotifications están en <a href="http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/IPhoneOSClientImp/IPhoneOSClientImp.html%23//apple_ref/doc/uid/TP40008194-CH103">esta lista</a>):</p>
+<p style="text-align: justify;">
+<ul>
+<li>Linear PCM</li>
+<li>MA4 (IMA/ADPCM)</li>
+<li>µLaw</li>
+<li>aLaw</li>
+</ul>
+<p>Se me ha dado el caso hoy de tener que convertir de nuevo efectos de sonido, en este caso desde AIFF hasta WAV. Y no recordaba cómo hacerlo. Ni con qué herramienta. Y resulta que iTunes lo hace todo. Paso a paso:</p>
+<ul>
+<li>Selecciona los ficheros de audio con los efectos de sonido y arrástralos a iTunes. Aparecerá el típico «+» verde y se añadirán a tu biblioteca.</li>
+<li>Busca esos ficheros en iTunes, para tenerlos localizados.</li>
+<li>Ve a Preferencias &gt; General (se debe abrir por ahí)</li>
+</ul>
+<div id="attachment_1499" style="width: 722px" class="wp-caption aligncenter"><img class="size-full wp-image-1499" title="Preferencias iTunes" src="/wp-content/uploads/2011/05/Preferencias-iTunes.png" alt="Preferencias iTunes" width="712" height="693" srcset="/wp-content/uploads/2011/05/Preferencias-iTunes.png 712w, /wp-content/uploads/2011/05/Preferencias-iTunes-300x291.png 300w" sizes="(max-width: 712px) 100vw, 712px" /><p class="wp-caption-text">Preferencias iTunes</p></div>
+<ul>
+<li>Ahora, pulsamos en Ajustes de importación. Se nos abre esta ventana:</li>
+</ul>
+<div id="attachment_1500" style="width: 634px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/05/Ajustes-importación.png"><img class="size-full wp-image-1500" title="Ajustes importación" src="/wp-content/uploads/2011/05/Ajustes-importación.png" alt="Ajustes importación" width="624" height="430" srcset="/wp-content/uploads/2011/05/Ajustes-importación.png 624w, /wp-content/uploads/2011/05/Ajustes-importación-300x206.png 300w" sizes="(max-width: 624px) 100vw, 624px" /></a><p class="wp-caption-text">Ajustes importación</p></div>
+<ul>
+<li>Aquí podremos cambiar la forma de importar audio, es decir, cómo queremos que iTunes convierta de un formato a otro. Esto se usa para convertir por ejemplo los CDs en ficheros con un formato determinado, pero también sirve para convertir.</li>
+<li>Disponemos de los siguientes formatos:</li>
+</ul>
+<div id="attachment_1501" style="width: 309px" class="wp-caption aligncenter"><img class="size-full wp-image-1501" title="codecs-audio" src="/wp-content/uploads/2011/05/codecs-audio.png" alt="codecs-audio" width="299" height="132" /><p class="wp-caption-text">codecs-audio</p></div>
+<ul>
+<li>Ahora ya basta con seleccionar los efectos de sonido, que hemos copiado en iTunes y pulsar en Avanzado &gt; Crear versión de WAV. Esta opción de menú va cambiando para reflejar el ajuste anterior.</li>
+<li>Pulsando con el botón derecho del ratón sobre estos efectos puedes «Mostrar en el Finder», lo que te abrirá la carpeta en la que están estos ficheros, por si prefieres trabajar ya con ellos desde el Finder. En mi caso, desde aquí los copio a XCode.</li>
+</ul>
+<p>Y así, sin instalar nada más, únicamente con iTunes que viene con cada Mac, podemos realizar esta sencillísima tarea (pero que para un inútil total del audio como yo, es un mundo). Si alguien conoce una forma más sencilla, por favor, que la cuente en los comentarios. Le estaré eternamente agradecido&#8230; o lo que dure este blog.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>«The more memory and HD you&#8217;ll have, the happier you&#8217;ll be»</title>
+		<link>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/</link>
+		<comments>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/#comments</comments>
+		<pubDate>Tue, 15 Mar 2011 11:09:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">/?p=1431</guid>
+		<description><![CDATA[No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le he puesto al iMac 12 GB de RAM. ¿Es mucho?. ¿Es poco?. Vamos con ello.</p>
+<p style="text-align: justify;">Lo  primero, dar la razón fundamental de ponerle tanta memoria al iMac: porque puedo. Sí, así de sencillo. En el 94 ni hubiera soñado con estas cantidades de memoria, ni siquiera para un disco duro. Es como pensar hoy en una RAM de 32 Hexabytes. Así que no podía plantearme si era mucho o poco: simplemente no podía. Pero hoy en día, cuando 8 GB cuestan 120 Eur. IVA inc., si necesitas esa memoria, o te apetece, tampoco es una inversión que te lleve a la bancarrota.</p>
+<p style="text-align: justify;">Además, cuando es aquí donde me gasto mi dinero. Quiero decir, que no tengo moto, no me gustan los coches potentes, ni la ropa de diseñador, ni juego al bingo, ni me gusta la coca, ni jugar al póker. Mis vicios son baratos ¡qué le vamos a hacer!. Nada me gusta más que un buen gadget electrónico. Hay quien le da por coleccionar sellos, o montar maquetas. O tener un yate. Yo tengo chismes.</p>
+<p style="text-align: justify;">Así que nada mejor para complementar a mi querido iMac Core i7 que estos 8 GB, que se han sumado a los 4 GB que traía de fábrica. Ahora tengo una máquina redonda, muy equilibrada, potente y estable. Y de la pantalla, para qué hablar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En un día normal de trabajo, si miro el consumo de memoria me puedo encontrar con algo como esto:</p>
+<div id="attachment_1432" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-usada-normal.png"><img class="size-full wp-image-1432 " title="Memoria usada" src="/wp-content/uploads/2011/03/memoria-usada-normal.png" alt="Memoria usada" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-usada-normal.png 860w, /wp-content/uploads/2011/03/memoria-usada-normal-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Memoria usada</p></div>
+<p style="text-align: justify;">Este es el consumo que tengo mientras escribo estas líneas. Se puede ver que, usado (ya sea por programas, por el S.O. o que está «cacheando» algo en memoria) tengo 4,59 GB. Algo más que los 4 GB originales. Hace unos meses, el equipo estaría paginando, es decir, tendría que sacar algún programa de memoria y guardarlo en disco (normalmente el que hace más tiempo que no se usa). El dato de Paginación (salidas) sería mayor que 0, y todo el sistema me iría más lento. Estaría tratando de ejecutar, a la vez, más programas de los cabrían en mi memoria RAM.</p>
+<p style="text-align: justify;">Como se puede ver, el problema ahora no es ese. Me sobran 7,40 GB. ¿Excesivo?. Para nada. En cuanto tenga que correr alguna máquina virtual con VMWare, o lanzar XCode 4 (con todo lo que ello implica), o jugar a Left 4 Dead 2 sin parar algo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> la memoria disminuye y se queda en algo como esto:</p>
+<div id="attachment_1433" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-tope.png"><img class="size-full wp-image-1433 " title="Usando memoria" src="/wp-content/uploads/2011/03/memoria-tope.png" alt="Usando memoria" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-tope.png 860w, /wp-content/uploads/2011/03/memoria-tope-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Usando memoria</p></div>
+<p>Uso el ordenador muchas horas al día. Por trabajo, y por placer. Y no hay cosa que me irrite más que quedarme sin espacio en disco, o ver que la máquina no va todo lo «fina» que debiera, por una tontería como es la RAM. Así que, como dice el título, un poco de RAM me hace mucho más feliz. ¡Comprueba la tuya!</p>
+<p>P.D.: Si quieres saber cómo interpretar el uso de memoria que está haciendo tu Mac, <a href="http://macperformanceguide.com/Mac-Monitoring-memory.html">te recomiendo este excelente post de MPG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Cómo crear tu propia NSCoder Night</title>
+		<link>/2010/11/30/como-crear-tu-propia-nscoder-night/</link>
+		<comments>/2010/11/30/como-crear-tu-propia-nscoder-night/#comments</comments>
+		<pubDate>Tue, 30 Nov 2010 13:42:42 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Mac]]></category>
+
+		<guid isPermaLink="false">/?p=1284</guid>
+		<description><![CDATA[Si aún no sabes de qué estoy hablando, en este post ya hablé de qué eran y para qué servían las NSCoder Nights. Resumiendo mucho, son reuniones de gente interesada en desarrollar aplicaciones Cocoa. Así que los asistentes pueden ser programadores para el Mac, para el iPhone (y cualquier otro dispositivo iOS), diseñadores, empresarios buscando [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div style="width: 510px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/felipevieira/2160045542/"><img title="Foto de Felipe Vieria" src="http://farm3.static.flickr.com/2069/2160045542_52dbca12c3.jpg" alt="Foto de Felipe Vieria" width="500" height="333" /></a><p class="wp-caption-text">Foto de Felipe Vieria</p></div>
+<p style="text-align: justify;">Si aún no sabes de qué estoy hablando, <a href="/2010/11/12/nscoder-nights-sevilla/">en este post ya hablé de qué eran y para qué servían las NSCoder Nights</a>. Resumiendo mucho, son reuniones de gente interesada en desarrollar aplicaciones Cocoa. Así que los asistentes pueden ser programadores para el Mac, para el iPhone (y cualquier otro dispositivo iOS), diseñadores, empresarios buscando algún programador que les ayude, curiosos&#8230; Si te interesa, puedes también leer el <a href="http://blog.idg.es/macworld/content/el-arte-de-empezar-en-tres-pasos">post de Javier Rodríguez sobre cómo comenzar el desarrollo con iOS</a>. MacWorld también se hace eco de las NSCoder Nights.</p>
+<p style="text-align: justify;">Hoy tenemos nuestra segunda reunión en Sevilla, y ya hay <a href="http://nscoder-sev.tumblr.com/allNSCoderNights">otros capítulos</a> en Madrid, Barcelona, Gijón, Valencia, Almería, Málaga, &#8230; Bueno, pero ¿qué hacer si te gusta la idea, pero en tu ciudad no hay aún una NSCoder Night? Esa fue básicamente la duda que surgió en los <a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/comment-page-1/#comment-8737">comentarios</a> que comenzó David en el <a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/">post sobre cómo estaba aprendiendo a programar para iOS</a>. Tras algunos correos, quedó inaugurado <a href="http://nscoder-zgz.tumblr.com/">NSCoder_zgz</a>, y pronto tendrán su primera reunión. Así que se me ocurrió listar la serie de pasos que debes ejecutar para localizar tu NSCoder Night más cercana, o bien crear la tuya propia.</p>
+<ol>
+<li>[Twitter getTwitterHandle]; Si no tienes usuario en Twitter, lo primero es creártelo. Te servirá para estar al día de las NSCoder Nights. No todas tienen sitio web, pero todas tienen Twitter.</li>
+<li>[NSCoderNight listAll] consulta la lista de NSCoder Nights que tenemos en el capítulo de Sevilla. Procuramos mantenerlas actualizadas. Si dudas de si hay alguna cercana, pregunta, que para eso estamos.</li>
+<li>if ([NSCoderNight isNear]) exit(0); Si encuentras alguna cerca / en tu ciudad, has terminado. Sigue a su usuario en Twitter y listo.</li>
+<li>else &#8230; Bueno, si no hay ninguna cerca, la solución es fácil: la creas tú. ¿Cómo? sigue leyendo
+<ol>
+<li>Crea un usuario en Twitter para esa NSCoder Night. El nombre debe ser: NSCoder_xxx, donde xxx será una abreviatura del nombre de tu ciudad, como sev, zgz, mlg, bcn, etc. (etc no lo uses)</li>
+<li>Copia la bio de otro NSCoder Night. Así somos más homogéneos.</li>
+<li>Copia el icono de otra NSCoder Night</li>
+<li>[Opcional] Crea un sitio web para tu NSCoder Night. En tumblr, también por ser homogéneos.</li>
+<li>Añade a tu nuevo sitio web las <a href="http://nscoder-vlc.tumblr.com/post/1517299313/algunas-faqs">FAQ</a> que magistralmente escribió <a href="http://vicentevicens.com/">Vicente Vicens</a>.</li>
+<li>Pon un enlace en el perfil de la cuenta de Twitter al nuevo sitio web.</li>
+</ol>
+</li>
+<li>Una vez que has terminado con la parte técnica, ahora viene lo mejor. Busca un sitio que te guste, un bar, cafetería, restaurante, tu casa, una iglesia o un gimnasio. Un sitio donde quepáis de cinco a diez personas, con sus portátiles. ¿Lo tienes?</li>
+<li>Publica la primera reunión. Ponle fecha, y hora. La mayoría empezamos sobre las 19:00, pero puede ser a cualquier hora. Aunque el apellido de las reuniones «Nights» igual te da una pista sobre el horario.</li>
+<li>Apóyate en la promoción de las otras NSCoder Nights. Siempre te haremos un RT <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Ve a la primera reunión. Si va alguien, fantástico. Si no, persevera. Tendrás ese tiempo para tí, para programar / leer fuera de tus tareas habituales. Sigue el ejemplo de José Vázquez en su inigualable «<a href="http://vimeo.com/16707762">Hazte Indie</a>«.</li>
+<li>Sube fotos y cuéntanos cómo te va <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/30/como-crear-tu-propia-nscoder-night/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Ojo con tus copias de seguridad de Time Machine</title>
+		<link>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/</link>
+		<comments>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/#comments</comments>
+		<pubDate>Thu, 28 Oct 2010 16:23:56 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1160</guid>
+		<description><![CDATA[Hace no mucho comentaba mi Plan de Backups y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden presentar. Lógicamente, Murphy se ha dado una vuelta por estos lares para darme una cura de humildad, y de paso poder escribir así este post. La historia empieza cuando recuerdo un correo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1185" style="width: 510px" class="wp-caption aligncenter"><img class="size-full wp-image-1185" title="FalloTimeMachine" src="/wp-content/uploads/2010/10/FalloTimeMachine.png" alt="Fallo al intentar reparar el disco de Time Machine" width="500" height="272" srcset="/wp-content/uploads/2010/10/FalloTimeMachine.png 500w, /wp-content/uploads/2010/10/FalloTimeMachine-300x163.png 300w" sizes="(max-width: 500px) 100vw, 500px" /><p class="wp-caption-text">Fallo al intentar reparar el disco de Time Machine</p></div>
+<p style="text-align: justify;">Hace no mucho comentaba <a href="/2010/10/03/mi-plan-de-backups/">mi Plan de Backups</a> y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden presentar. Lógicamente, Murphy se ha dado una vuelta por estos lares para darme una cura de humildad, y de paso poder escribir así este post.</p>
+<p style="text-align: justify;">La historia empieza cuando recuerdo un correo que me hace falta y no soy capaz de localizarlo en Mail.app. Venga a buscar y nada. Pero claro, <a href="/2010/09/17/shopping-spree/">el iMac es nuevo</a> y el <a href="/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/">MBP se ha reinstalado</a>. Así que me doy cuenta de que, al configurar de nuevo las cuentas de correo (que son IMAP) se han bajado las carpetas que están en el servidor, pero lógicamente no tengo las carpetas locales. Y el correo que busco está en una carpeta local.</p>
+<p style="text-align: justify;">«No pasa nada», pienso. «Ahora monto mi copia de seguridad de Time Machine, me voy donde Mail.app guarda las carpetas locales, las restauro en el iMac y listo».  Bien, el plan es bueno, salvo cuando le das doble click al archivo .sparsebundle que guarda la copia de seguridad y tras un rato, ves que no se monta. No sale una ventana que indique el error, nada. «No le habré dado bien». Le vuelvo a dar. Nada.</p>
+<p>Un poco mosqueado, abro la utilidad de discos y busco el volúmen en cuestión.</p>
+<div id="attachment_1190" style="width: 713px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/utilidad_de_discos.png"><img class="size-full wp-image-1190 " title="utilidad_de_discos" src="/wp-content/uploads/2010/10/utilidad_de_discos.png" alt="Utilidad de discos abierta mostrando mi copia de seguridad" width="703" height="577" srcset="/wp-content/uploads/2010/10/utilidad_de_discos.png 879w, /wp-content/uploads/2010/10/utilidad_de_discos-300x246.png 300w" sizes="(max-width: 703px) 100vw, 703px" /></a><p class="wp-caption-text">Utilidad de discos abierta mostrando mi copia de seguridad</p></div>
+<p>Lo intento montar y me salen las siguientes ventanas:</p>
+<div id="attachment_1191" style="width: 473px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/intento_montar.png"><img class="size-full wp-image-1191" title="intento_montar" src="/wp-content/uploads/2010/10/intento_montar.png" alt="Intentando montar la copia de seguridad. ¡Arráncalo, Carlos por Dios!" width="463" height="228" srcset="/wp-content/uploads/2010/10/intento_montar.png 463w, /wp-content/uploads/2010/10/intento_montar-300x147.png 300w" sizes="(max-width: 463px) 100vw, 463px" /></a><p class="wp-caption-text">Intentando montar la copia de seguridad. ¡Arráncalo, Carlos por Dios!</p></div>
+<p>y finalmente:</p>
+<div id="attachment_1192" style="width: 473px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/fallo_montar.png"><img class="size-full wp-image-1192" title="fallo_montar" src="/wp-content/uploads/2010/10/fallo_montar.png" alt="No hay suerte. Murphy me odia." width="463" height="228" srcset="/wp-content/uploads/2010/10/fallo_montar.png 463w, /wp-content/uploads/2010/10/fallo_montar-300x147.png 300w" sizes="(max-width: 463px) 100vw, 463px" /></a><p class="wp-caption-text">No hay suerte. Murphy me odia.</p></div>
+<p style="text-align: justify;">Un sudor frío me corre por la espalda. Un escalofrío me pone la carne de gallina. Escucho voces en las sombras. <em>Murphy me odia, es oficial</em>. Cabreado, pero no resignado, pulso el botón de «Verificar disco». Me da tropecientos errores. Pulso reparar disco. Repara algunos, pero me indica que hay otros con los que no puede. Vuelvo a intentar montar. Nada. Reparo. Monto. Nada. Reparo. Monto. Nad. Así varias veces. Hasta que, finalmente, aunque me indica que hay errores, veo que está montado en /Volumes/Time Machine Backups.</p>
+<p>Abro una terminal y me abalanzo sobre el directorio. Desde allí, y gracias al todopoderoso cp -r, copio las carpetas que buscaba al escritorio. ¡Buff!. Me he librado de ésta.</p>
+<p>Conclusiones:</p>
+<ol>
+<li>aunque tengas un buen sistema de copias de seguridad (por ej. usar Time Machine en una cabina con varios discos en RAID, como un Drobo) Murphy puede pasar a visitarte.</li>
+<li>no basta con hacer copias de seguridad. <strong>Hay que comprobarlas</strong>. Si te haces un disco de arranque con Carbon Copy Cloner, prueba a arrancar desde él, para que el día que te haga falta estés seguro de que va a funcionar.</li>
+<li>Si usas Time Machine, monta de vez en cuando el volumen de copias de seguridad (el fichero .sparsebundle) y comprueba que no hay errores. Si lo pillas a tiempo probablemente el desastre será menor.</li>
+<li>hay que ser como el que iba en un barco y no se fiaba de la mitad de la tripulación: eran un padre y un hijo.</li>
+</ol>
+<p>Esta vez he recuperado los datos. Pero ¿y la próxima?. ¿Experiencias personales? ¡Déjalas en los <strong>comentarios</strong>!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Mi MacMini con Morphos 2.6</title>
+		<link>/2010/10/19/mi-macmini-con-morphos-2-6/</link>
+		<comments>/2010/10/19/mi-macmini-con-morphos-2-6/#comments</comments>
+		<pubDate>Tue, 19 Oct 2010 10:15:04 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[MorphOS]]></category>
+		<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/?p=1161</guid>
+		<description><![CDATA[Lo he hecho. Una frikada de tomo y lomo. O un adelanto de mi cumpleaños, según se mire. Sea como sea, me he comprado un Mac Mini G4 de segunda mano. Sí, en los tiempos que corren. Y encima, le he instalado MorphOS como S.O., en exclusiva. Características del hardware: PowerPC G4 a 1.25 Ghz [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2010/10/morphos-mini.png"><img class="aligncenter size-full wp-image-1163" title="morphos-mini" src="/wp-content/uploads/2010/10/morphos-mini.png" alt="" width="320" height="240" srcset="/wp-content/uploads/2010/10/morphos-mini.png 320w, /wp-content/uploads/2010/10/morphos-mini-300x225.png 300w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p style="text-align: justify;">Lo he hecho. Una frikada de tomo y lomo. O un adelanto de mi cumpleaños, según se mire. Sea como sea, me he comprado un Mac Mini G4 de segunda mano. Sí, en los tiempos que corren. Y encima, le he instalado <a href="http://es.wikipedia.org/wiki/MorphOS">MorphOS</a> como S.O., en exclusiva. Características del hardware:</p>
+<ul>
+<li>PowerPC G4 a 1.25 Ghz</li>
+<li>1 GB RAM. El máximo que soporta <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>HD de 40 GB. Un poco escaso para otros S.O., pero para MorphOS esto es el infinito, o casi. Como no lo llene de MP3s o de películas&#8230;</li>
+<li>Tarjeta de vídeo integrada de 32 MB. El punto flaco. Cuando abro muchas ventanas veo cómo se va quedando MorphOS sin memoria de vídeo, pero bueno, es lo que hay&#8230;</li>
+<li>No tiene bluetooth ni WiFi. No me quita el sueño: dispongo de un teclado Mac con cable USB, además de un Mighty Mouse (que le regalé a mi mujer, pero que nunca usa), así que BT no es imprescindible. Y respecto a la WiFi, además de no estar soportada (creo) tengo la máquina demasiado cerca de mi Time Capsule como para no conectarla con un cable.</li>
+</ul>
+<p style="text-align: justify;">El equipo cabe perfectamente bajo el <a href="http://www.griffintechnology.com/products/elevator">Griffin Elevator</a> que mantiene a mi Macbook Pro, de forma que lo puedo tener en la mesa para «echar un ratito rápido» sin que me ocupe espacio. Además, hace juego con el MBP y mi iMac de 27&#8243;, consiguiendo una «mesa mac» total. Aunque no tenga instalado Mac OS X, claro. Le he instalado MorhOS en exclusiva, porque en mi caso no tendría sentido disponer de Tiger (Mac OS X 10.4) o Leopard cuando ya tengo dos máquinas con Snow Leopard en la mesa. Y este equipo se ha pedido para lo que se ha pedido: para tontear con MorphOS.</p>
+<p style="text-align: justify;">
+<div id="attachment_1174" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg"><img class="size-full wp-image-1174" title="MacMiniG4BajoMBP" src="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg" alt="Mi Mac Mini G4 bajo mi MBP" width="800" height="625" srcset="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg 800w, /wp-content/uploads/2010/10/MacMiniG4BajoMBP1-300x234.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Mi Mac Mini G4 bajo mi MBP</p></div>
+<p>Bueno, pero ¿qué es MorphOS? No voy a explicar una vez más todo lo que ya explican en la <a href="http://www.morphos-team.net/">página oficial de MorphOS</a>, pero sí os diré que es un S.O. derivado del AmigaOS, cuyos objetivos es ser compatible con los programas de Amiga (siempre que sea posible) y ser muy óptimo, tanto en espacio como en tiempo de ejecución. Ni es un UNIX (como los Linux, Mac OS X, Solaris, &#8230;) ni viene de la rama Windows. Es la auténtica tercera vía, algo distinto y nuevo, si no has visto un Amiga antes. Aunque muchas de sus ideas tienen ¿20 años? <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">El arranque de la máquina es fulgurante. No he visto nada igual (bueno, cuando se arrancaba un MSDOS recién instalado). Llevo sólo un par de días con él, pero lo quería presentar ya en sociedad, porque quiero dedicar una parte de mi sección de <a href="/retrocomputing/">Retroinformática</a> a <a href="/morphos/">MorphOS</a>, aunque estrictamente hablando, es un SO moderno que está en desarrollo y no es «retro», pero así me organizo mejor.</p>
+<p style="text-align: justify;">A medida que vaya haciendo cosas quiero iniciar una serie de posts hablando de MorphOS, ya que hay muy poca documentación en Español en la red. Bueno, en Inglés tampoco es que esté la cosa mucho mejor :-). Identificaré los posts claramente para que los no interesados se los salten sin piedad.</p>
+<p style="text-align: justify;">Como nota financiera final, indicar que me ha costado el equipo 160 Eur. puesto en casa, con su caja original impecable. Creo que ha sido una buena operación. A eso hay que sumarle el coste de la licencia de MorphOS (no, no es Software Libre, ni es gratis) que son 111,11 Eur. No es barato, pero quiero apoyar a los desarrolladores de este S.O., distinto y divertido.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/19/mi-macmini-con-morphos-2-6/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>Mi plan de backups</title>
+		<link>/2010/10/03/mi-plan-de-backups/</link>
+		<comments>/2010/10/03/mi-plan-de-backups/#comments</comments>
+		<pubDate>Sun, 03 Oct 2010 15:12:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">/?p=1127</guid>
+		<description><![CDATA[Ahora que mi infraestructura casera, tras la revisión nº 1001, ya va quedando más clara, he implantado el plan de backup de forma que todo lo importante quede bien cubierto. Quiero compartirlo por si a alguien le sirve. Pero como dice Joel Spolsky, mejor que hablar de backups, hablemos de restores, que después cuando se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div style="width: 650px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/purplemattfish/3188379971/"><img title="Discos duros machacados. Click para ver el autor." src="http://farm4.static.flickr.com/3334/3188379971_5d23187d23_z_d.jpg?zz=1" alt="Discos duros machacados. Click para ver el autor." width="640" height="427" /></a><p class="wp-caption-text">Discos duros machacados. Click para ver el autor.</p></div>
+<p style="text-align: justify;">Ahora que mi infraestructura casera, tras la revisión nº 1001, ya va quedando más clara, he implantado el plan de backup de forma que todo lo importante quede bien cubierto. Quiero compartirlo por si a alguien le sirve. Pero como dice Joel Spolsky, <a href="http://www.joelonsoftware.com/items/2009/12/14.html">mejor que hablar de backups, hablemos de restores</a>, que después cuando se estropea un disco vamos a intentar usar nuestro backup y el disco donde está no aparece, o está estropeado, o se grabó mal, o cualquier otro tormento que se le ocurra a Murphy <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Mi equipo principal de trabajo es el iMac 27&#8243;. Por eso, he decidido pasar a su disco de 1TB todo lo importante: documentos, código fuente, películas caseras de vídeo, fotografías, librería de iTunes, etc. De momento sólo uso medio disco. Es muy importante que, antes de empezar a realizar copias de seguridad, <strong>pienses si necesitas realmente hacer backup de todo</strong>. Yo, por ejemplo, tengo un disco externo de 750 GB conectado a la Time Capsule que contiene fundamentalmente películas descargadas de Internet. Si ese disco muere, vuelvo a tirar de Megaupload y listo. No es crítico perder esa información. Pero si pierdes las fotos de tu boda ¿cómo se lo explicas a tu mujer? ¿Lo vas comprendiendo ahora? <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Conectado al iMac tengo un <a href="/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/">Drobo v2</a> (USB + Firewire, pero sin red) con tres discos de  momento (500GB + 500GB + 1.5TB) , lo que me deja unos 900 GB de espacio protegido, frente al fallo de un disco. El <a href="/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/">Drobo no te protege de tu propia estupidez si lo borras todo</a>, pero al menos sí que te permite reaccionar y que el fallo tonto de un disco, que cuesta menos de 80 Eur. no te cause un perjuicio económico y la pérdida de montones de cabello mediante la técnica de los tirones. Así que en el Drobo hago las copias de seguridad de Time Machine del iMac, y tengo alguna cosa importante, pero que no quiero tener en el iMac, como mi biblioteca de máquinas virtuales.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Como se da la feliz casualidad de que tengo un WD Mybook Studio 1TB firewire y coincide exactamente con el tamaño del disco duro interno del iMac, para mayor seguridad uso Carbon Copy Cloner y creo un clon arrancable del iMac. Así, si el disco del iMac falla, puedo hacer dos cosas: arrancar desde el DVD de Snow Leopard y restaurar la copia de Time Machine del Drobo o bien arrancar directamente desde firewire el WD y seguir trabajando (si fuera una urgencia). Esta copia la actualizo una vez al mes, y para hacer aún más hincapie en la paranoia de la pérdida de datos, duerme en casa de mi suegra. Así estoy cubierto frente a un robo o un incendio.</p>
+<p style="text-align: justify;">Mi Time Capsule (con un disco de 500 GB) ha quedado para hacer backup con Time Machine de los dos portátiles, mi MacBook Pro y el Macbook blanco de mi mujer. Quizá debería ampliar el disco interno de la Time Capsule, pero si se queda pequeña probablemente mueva una de las copias al Drobo y le añada otro disco.</p>
+<p style="text-align: justify;">Revisando mi política de backup, y pensando en los posibles desastres podemos ver que:</p>
+<ul>
+<li>cada portátil tiene los datos en su disco duro y en la Time Capsule. Si falla uno está el otro. Los datos imprescindibles del portátil están en Dropbox (en la nube) luego no siento la necesidad de un mayor nivel de seguridad con los portátiles.</li>
+<li>si el HD interno del iMac falla, dispongo de dos copias. Una muy actual, de Time Machine, guardada en el Drobo, y otra que arranca externamente en el WD y que como máximo será de hace un mes. Combinando ambas puedo rehacerme de un desastre razonablemente bien.</li>
+</ul>
+<p>Sólo falta una pieza aquí, y es contratar un servicio de backups offsite, como <a href="http://b3.crashplan.com/landing/index.html">CrashPlan</a>. O bien usar la cuenta de Megaupload para esos menesteres. Aunque viendo las velocidades de subida que sufrimos en España, esto parece aún ciencia ficción.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/03/mi-plan-de-backups/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Acceder a un Mac con dos usuarios distintos, a la vez</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/</link>
+		<comments>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/#comments</comments>
+		<pubDate>Wed, 29 Sep 2010 15:58:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[vnc]]></category>
+
+		<guid isPermaLink="false">/?p=1106</guid>
+		<description><![CDATA[Estoy preparando un curso de introducción a la programación para dispositivos iOS (iPhone, iPod Touch, iPad), enfocado a programadores que saben Java y quieren (o tienen) que desarrollar para los dispositivos de la manzana. Una parte importante a la hora de prepararlo es pensar en los requisitos necesarios para impartirlo. Y en el caso de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Estoy preparando un <a href="/formacion/">curso de introducción a la programación para dispositivos iOS</a> (iPhone, iPod Touch, iPad), enfocado a programadores que saben Java y quieren (o tienen) que desarrollar para los dispositivos de la manzana. Una parte importante a la hora de prepararlo es pensar en los requisitos necesarios para impartirlo. Y en el caso de iOS, hay un requisito importante de máquinas: el entorno de desarrollo XCode, que es donde se «cocinan» las aplicaciones iOS, sólo corre en Mac OS X, ergo necesitas un Mac (o un Hackintosh) para escribir tus programas.</p>
+<p>En el caso de la empresa para la que estoy preparando el curso, tienen algunos Macs, pero no los suficientes para todos los alumnos. Y aquí surge la duda, ya que se pueden hacer tres cosas:</p>
+<ul>
+<li>comprar equipos nuevos, para el curso y luego para el uso diario. Buena opción si de todas formas se iban a comprar porque tocaba renovar, por ej.</li>
+<li>alquilar esos equipos. Hay empresas especializadas en el <a href="http://www.mactime.com/alquiler.asp">alquiler de Macs</a>. El problema es que quiero dar el curso dejando a los alumnos respirar, es decir, día sí, día no, lo cual nos lleva a doblar los días de alquiler o bien a estar todos los días devolviendo/recogiendo equipos y probablemente instalando</li>
+<li>maximizar el uso de los equipos que ya existen. Son 8 alumnos y hay 5 equipos. Si dos de ellos se pudiesen compartir ¡problema solucionado!. Y acostumbrado como estoy a exprimir las máquinas que se ponen a mi alcance, esto no iba a ser menos.</li>
+</ul>
+<p>Una vez que tenemos claro que queremos compartir equipos, pienso «pues esto debe ser sencillo». A fin de cuentas, en Linux con activar ssh y lanzar un ssh -X te aparece la pantalla de inicio de sesión del host al que te quieres conectar, metes usuario y contraseña y, si la máquina tiene potencia suficiente, problema resuelto. Claro, que eso es en Linux, que usa un gestor de ventanas sobre X11. El problema es que los Macs vienen con X11, para ejecutar aplicaciones UNIX, pero su escritorio no es X11.</p>
+<p>Busqué un rato por Internet, pero en esta <a href="http://superuser.com/questions/167392/multiple-simultaneous-users-on-macbook-pro-closed">pregunta de SuperUser.com</a> localicé <a href="http://www.testplant.com/multidesktop.html">la respuesta</a>: instalar un servidor de VNC, ejecutar el servidor en cada sesión a la que quieras acceder desde fuera, y luego conectarte con un cliente VNC normal. La diferencia es que podremos conectarnos a más de un servidor VNC en la misma máquina, produciendo el efecto deseado: dos usuarios a la vez en el mismo Mac.</p>
+<h1>Paso a paso:</h1>
+<ul>
+<li>Crea una cuenta más en el Mac para poder conectarte así con dos usuarios. Lo puedes hacer en Preferencias del Sistema &gt; Cuentas. En la imagen se puede ver que hay dos cuentas de usuario (además de la de invitado, que está desabilitada).</li>
+</ul>
+<div id="attachment_1111" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/dos-cuentas.png"><img class="size-medium wp-image-1111" title="dos-cuentas" src="/wp-content/uploads/2010/09/dos-cuentas-300x257.png" alt="Creando las dos cuentas" width="300" height="257" srcset="/wp-content/uploads/2010/09/dos-cuentas-300x257.png 300w, /wp-content/uploads/2010/09/dos-cuentas-1024x878.png 1024w, /wp-content/uploads/2010/09/dos-cuentas.png 1104w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Creando las dos cuentas</p></div>
+<ul>
+<li>Activa el cambio rápido de usuarios. Pulsando en Opciones de inicio sin moverte de Cuentas (puede ser que tengas que introducir tu clave de administrador para desbloquear), desabilita el inicio automático de sesión y pulsa en Habilitar el cambio rápido de usuario. En la barra de menús te aparecerá el usuario con el que estás conectado ahora. Pulsando en ese icono verás la lista de usuarios disponibles y podrás cambiar de uno a otro pulsando en el que te interese.</li>
+</ul>
+<div id="attachment_1112" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/cambio-rapido.png"><img class="size-medium wp-image-1112" title="cambio-rapido" src="/wp-content/uploads/2010/09/cambio-rapido-300x255.png" alt="El cambio rápido de usuarios, activado" width="300" height="255" srcset="/wp-content/uploads/2010/09/cambio-rapido-300x255.png 300w, /wp-content/uploads/2010/09/cambio-rapido-1024x872.png 1024w, /wp-content/uploads/2010/09/cambio-rapido.png 1064w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">El cambio rápido de usuarios, activado</p></div>
+<ul>
+<li>Una vez que podemos cambiar de un usuario a otro, debemos lanzar, en la sesión de cada usuario un servidor de VNC que se quedará corriendo y nos permitirá ver el escritorio de cada usuario. <a href="http://es.wikipedia.org/wiki/VNC">VNC </a>no es más que un programa que nos permite controlar un escritorio a distancia usando otro ordenador que tenga un cliente VNC. Yo he usado aquí la <a href="http://www.testplant.com/products/vine_server/OS_X">implementación del servidor Vine que hace TestPlant</a>, gratis y que se ajusta perfectamente a lo que necesitamos.</li>
+</ul>
+<div id="attachment_1113" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/vine-server.png"><img class="size-medium wp-image-1113" title="Vine server (servidor VNC) corriendo en el Mac" src="/wp-content/uploads/2010/09/vine-server-300x255.png" alt="" width="300" height="255" srcset="/wp-content/uploads/2010/09/vine-server-300x255.png 300w, /wp-content/uploads/2010/09/vine-server.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Vine server (servidor VNC) corriendo en el Mac</p></div>
+<ul>
+<li>Nos cambiamos a nuestro otro usuario y lanzamos Vine Server. Ya estamos preparados para irnos a una segunda máquina, donde tengamos instalados un cliente VNC. En este caso he usado mi Netbook Asus con Ubuntu Netbook Remix para la prueba. Ejecutando el cliente VNC Vinagre vemos que nos muestra los dos escritorios a los que conectarnos. ¡Ya podemos usar el Mac dos a la vez!</li>
+</ul>
+<div id="attachment_1114" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/vinagre.png"><img class="size-medium wp-image-1114 " title="Podemos escoger cualquiera de los dos escritorios del Mac desde Linux" src="/wp-content/uploads/2010/09/vinagre-300x175.png" alt="" width="300" height="175" srcset="/wp-content/uploads/2010/09/vinagre-300x175.png 300w, /wp-content/uploads/2010/09/vinagre.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Podemos escoger cualquiera de los dos escritorios del Mac desde Linux</p></div>
+<p>P.D.: Las pruebas, como debe ser, se han realizado sobre una máquina virtual que corre Leopard dentro de mi nuevo iMac 27&#8243; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Si te interesa el tema, recordando entradas anteriores ya hablé de <a href="/2008/04/05/vnc-en-mi-macbook-pro/">clientes VNC en mi Macbook Pro</a> y de <a href="/2008/05/02/contra-natura-informatica/">alternativas al VNC</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

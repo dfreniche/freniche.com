@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>swift &#8211; freniche.com</title>
+	<atom:link href="/tag/swift/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El lamentable estado de las herramientas de desarrollo iOS</title>
+		<link>/2017/06/01/el-lamentable-estado-de-las-herramientas-de-desarrollo-ios/</link>
+		<pubDate>Thu, 01 Jun 2017 10:36:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">/?p=2782</guid>
+		<description><![CDATA[Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen en las que ya hay. Y que las herramientas funcionen. No que añadan cosas. Que arreglen bugs.</p>
+<p>Hace tres años escribí sobre <a href="/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/">El lamentable estado de las herramientas de desarrollo Android</a>. En aquella época, lo que existía para desarrollo Android (oficial) era el plugin ADT para Eclipse. Y, como relato en el post, no funcionaba algo que era un simple ZIP. Eclipse, Java 6, fallos en las herramientas, un Android Studio que estaba en Alpha, una documentación horrorosa, una API discutible (ver p.ej. el método <code>isUserAGoat</code> en <a href="https://developer.android.com/reference/android/os/UserManager.html#//apple_ref/clm/isUserAGoat%28%29">UserManager</a>), la lentitud de Gradle si probabas AS&#8230; Esto era la muerte por mil cortes, comparado con el mundo iOS, con esas APIs Cocoa tan consistentes, un Xcode tan bonito y que entonces no fallaba tanto&#8230;</p>
+<p>Y encima Apple presentó Swift en Junio de 2014. La promesa de un nuevo lenguaje, compatible con Objective-C, con C, C++, pero funcional, con inmutabilidad, Opcionales, genéricos, &#8230; Todo se veía de color de rosa desde el mundo iOS, comparado con el cenagal que era el desarrollo Android.</p>
+<h2>Apple: Non-Pro Macs</h2>
+<p>Apple <a href="/2017/05/08/apple-tenemos-que-hablar/">ya no hace ordenadores para desarrolladores</a>. Y me parece muy bien, si así gana más dinero. Pero debe entonces afrontar las cosecuencias, que van a ser (porque esto ya ha lo he visto antes en otras plataformas):</p>
+<ul>
+<li>los desarrolladores se compran otras máquinas y se montan un Hackintosh para seguir desarrollando en iOS / Mac. MacOS se convierte en «ese sistema operativo que te ves obligado a usar por el trabajo». Apple no gana dinero con las máquinas. Tienes dual-boot y cada vez usas más Windows. Peligro.</li>
+<li>los desarrolladores directamente se pasan a Windows 10 / Linux con mejores portátiles (y a mejores precios, que no todos tenemos una mina de oro en el sótano de casa) y usan MacOS en una máquina virtual (cosa que prohíbe la licencia, como el Hackintosh, pero ponle puertas a ese campo&#8230;). Goto 1</li>
+<li>algunos desarrolladores se cabrean tanto con el poco aprecio que sienten desde Apple que <a href="https://twitter.com/spolsky/status/833082540995014656">directamente abandonan la plataforma</a>, algo que a dia de hoy se puede hacer ya que el mercado de trabajo tiene ofertas casi para todo tipo de perfiles de desarrollo. </li>
+</ul>
+<p>Si los programadores se van de una plataforma, esta se muere. Lo he visto con OS/2, con Amiga, con Linux (¿este es el año de Linux en el escritorio? Y sí, ya se que se usa mucho Linux en Android, que es Linux, y en la RaspberryPi, y que llevo usando Linux desde el 93, que no me cuentes de qué va eso que yo voté porque Tux fuera la mascota de Linux y tú no).</p>
+<p>Casi le pasa a Microsoft. El rechazo que generó con sus Internet Explorers le ha llevado a ceder casi toda la cuota de mercado a Chrome. Y no hablemos del patinazo Vista, que enmendó con Windows 7. Es por eso el titánico esfuerzo que está haciendo ahora mismo Microsoft, permitiéndote ejecutar <a href="https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/">Linux en Windows</a> de forma nativa, o dándote la <a href="https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/#zyguw3uS8gw66FL3.97">bash</a>. Atraer programadores que son los que riegan este campo con sus aplicaciones.</p>
+<h2>2017</h2>
+<p>Es 2017. Swift va a sacar la versión 4, con nuevos cambios que te obliguen a actualizar tu código, o no compila. Con ese asistente que tiene Xcode tan bueno. Si no tenías listo el lenguaje en 2014&#8230; ¿para qué sacarlo? ¿Porque Chris Latter estaba harto y se <a href="http://www.businessinsider.com/chris-lattner-swift-creator-leaves-apple-2017-1">quería ir</a>? Pero bueno, era 2014 y podíamos entenderlo, Apple. Pasamos por Swift 1, 1.1, 1.2, y los cambios a Swift 2. Y Swift 3. Contínuamente cambiando una base de código que funciona para hacer que siga funcionando. Es decir, gastar horas para seguir en el mismo punto. No añadir nuevas funcionalidades. Que <em>compile</em>. Coding is fun.</p>
+<p>Al menos el compilador de Swift es rápido. Tanto, que cuando ejecuto Gradle en Android me parece instantáneo. Gradle, quiero decir. Pero en cada WWDC nos dicen que «ahora el compilador de Swift es un 20% más rápido». Con tantos avances en velocidad mi código debería terminar de compilar&#8230; en 1984. De lo rápido que compila. Pero la realidad es la realidad, y Swift es <strong>horriblemente</strong> más lento compilando que su equivalente en Objective C. Y es una pena, porque el lenguaje es muy bonito. Apple ha hecho un <a href="https://en.wikipedia.org/wiki/Sherlock_(software)">Sherlock</a> de Kotlin con Swift, lo que está bien. Si ahora hiciese un Sherlock de IntelliJ, todos contentos.</p>
+<p>Porque cansa ver cómo se arrastra el compilador. Cómo haces Cmd+click en un símbolo y no lo encuentra (es una función de ámbito global <em>y no la encuentra</em>). O cómo el autocompletado es totalmente random. O cómo pones un punto de ruptura dentro de una clausura y no puedes depurar el valor de las variables de la clausura. Bueno, sí puedes&#8230; usando println. NSlog oriented debugging FTW!</p>
+<p>Al menos podemos refactorizar nuestro código. Esto significa que puedes cambiar el nombre a una clase. Fin de los refactors. Y en Objective-C. En Swift nada. Zero. Nil. Y de generar código ni hablamos. Últimamente Xcode no es capaz ni de comentar líneas de código con Cmd + / o <em>acertar</em> y autocompletarte los nombres de las librerías en los imports.</p>
+<p>O cómo la comunidad ha tenido que solucionar problemas básicos que Apple se niega a ver. ¿Resolución de dependencias y librerías de terceros? En Android: Gradle. Soportado. En iOS: CocoaPods, Carthage, o a mano. Todos proyectos de la comunidad. ¿Plugins? En Android: Android Studio tiene de todo. En iOS: han metido un sistema de plugins tan restringido que, la verdad, no conozco a nadie que esté usando algún plugin que merezca la pena (indicadme por Twitter los mejores, por favor). Y de paso se han cargado un proyecto como Alcatraz, que sí que ofrecía un montón de plugins, temas y plantillas de ficheros porque, ¿quién quiere algo mejor cuando mi versión inferior patentada por Apple ya viene con Xcode? Y sí, entiendo los problemas de seguridad de los plugins, y que Xcode viene firmado y todo eso. Pero digo yo que habrá alguna solución intermedia colocando los plugins en otro proceso fuera del sandbox de Xcode&#8230;</p>
+<h2>WWDC</h2>
+<p>Así que, en esta próxima <strong>Developers Conference</strong>, vamos a abrir la Keynote hablando de lo mucho que vendemos, de lo buenos que son los portátiles con la ToyBar, de lo chulos que son los auriculares Beats, de todas esas cosas que nos interesan muchísimo a los programadores, <strong>que es a los que debe ir dirigida la Keynote</strong>. Nuevos colores para las correas del reloj. Nuevas animaciones en macOS para organizar tus ventanas en 15 espacios para que nadie lo use nunca, porque todos usamos un monitor externo. Y Apple Music, que todo programador necesita música de fondo y eso. Pagando.</p>
+<p>Pues no. Este año no renové mi Apple Membership por primera vez en 6 años. Y cada vez me cuesta más y me duele más abrir Xcode. Porque veo lo que podría ser, lo comparo con un excelente IDE (con sus problemas, pero mucho mejor para <em>escribir</em> código) como IntelliJ y me sangra el corazón. Quiero seguir programando en un Mac en 2027. No me eches de tu jardín, Apple.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

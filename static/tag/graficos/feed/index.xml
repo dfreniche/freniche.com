@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gráficos &#8211; freniche.com</title>
+	<atom:link href="/tag/graficos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cambiar el nombre de varios ficheros a la vez en Mac OS X</title>
+		<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/</link>
+		<comments>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/#comments</comments>
+		<pubDate>Wed, 18 May 2011 16:13:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Gráficos]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1506</guid>
+		<description><![CDATA[Estoy terminando una App para iPad que me han encargado y me he encontrado con un problema. Tenía 32 imágenes, con nombres 1.png, 2.png, así hasta 32.png y necesitaba crear una versiones reducidas para tener una «vista previa». Vamos, lo que se conoce como un thumbnail. En Mac yo lo hago con vista previa: selecciono [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Estoy terminando una App para iPad que me han encargado y me he encontrado con un problema. Tenía 32 imágenes, con nombres 1.png, 2.png, así hasta 32.png y necesitaba crear una versiones reducidas para tener una «vista previa». Vamos, lo que se conoce como un <a href="http://es.wikipedia.org/wiki/Thumbnail">thumbnail</a>. En Mac yo lo hago con vista previa:</p>
+<ul>
+<li>selecciono todos los ficheros del 1.png al 32.png, pulsando Cmd+A</li>
+<li>los arrastro a una carpeta vacía que acabo de crear, pulsando la tecla Opción de Mac (Alt). Así en lugar de mover los ficheros, se copian</li>
+<li>selecciono todos los ficheros recién creados, pulsando de nuevo Cmd+A</li>
+<li>los abro todos a la vez con Vista Previa (Cmd+Flecha abajo)</li>
+<li>una vez en vista previa, los selecciono todos de nuevo (Cmd+A)</li>
+<li>y les cambio el tamaño con Herramientas -&gt; ajustar tamaño</li>
+<li>una vez listo, los grabamos todos (Archivo -&gt; Guardar todo)</li>
+</ul>
+<p>Ahora tengo, en dos carpetas distintas, 32 ficheros que se llaman 1.png, .. 32.png, como se puede ver aquí:</p>
+<div id="attachment_1509" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/05/thumbs-antes.png"><img class="size-medium wp-image-1509" title="Miniaturas antes de renombrar" src="/wp-content/uploads/2011/05/thumbs-antes-300x223.png" alt="Miniaturas antes de renombrar" width="300" height="223" srcset="/wp-content/uploads/2011/05/thumbs-antes-300x223.png 300w, /wp-content/uploads/2011/05/thumbs-antes.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Miniaturas antes de renombrar</p></div>
+<p style="text-align: justify;">Es decir, tengo los originales y los que he reducido de tamaño. El problema viene cuando ahora quiero cambiar el nombre de los ficheros para que se llamen thumb1.png, &#8230; thumb32.png. Renombrarlos uno a uno es un rollo. Y desde terminal me daba pereza hoy. Así que he buscado una herramienta gráfica y me he encontrado con <a href="http://web.mac.com/mickeyroberson/MRR_Software/NameChanger.html">NameChanger</a>, una pequeña Aplicación que funciona perfectamente para esto.</p>
+<p style="text-align: justify;">
+<div id="attachment_1510" style="width: 720px" class="wp-caption aligncenter"><img class="size-full wp-image-1510" title="NameChanger en funcionamiento" src="/wp-content/uploads/2011/05/NameChanger.png" alt="NameChanger en funcionamiento" width="710" height="538" srcset="/wp-content/uploads/2011/05/NameChanger.png 710w, /wp-content/uploads/2011/05/NameChanger-300x227.png 300w" sizes="(max-width: 710px) 100vw, 710px" /><p class="wp-caption-text">NameChanger en funcionamiento</p></div>
+<p style="text-align: justify;">NameChanger nos permite renombrar, o añadir algo al principio o final de una serie de archivos, o hacer cambios más potentes usando caracteres comodín. Y siempre te muestra antes de hacer nada, cual va a ser el resultado. Como se puede ver, es una de esas herramientas obligatorias de tener a mano.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

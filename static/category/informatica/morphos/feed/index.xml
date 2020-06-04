@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MorphOS &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/morphos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi MacMini con Morphos 2.6</title>
+		<link>/2010/10/19/mi-macmini-con-morphos-2-6/</link>
+		<comments>/2010/10/19/mi-macmini-con-morphos-2-6/#comments</comments>
+		<pubDate>Tue, 19 Oct 2010 10:15:04 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[MorphOS]]></category>
+		<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/?p=1161</guid>
+		<description><![CDATA[Lo he hecho. Una frikada de tomo y lomo. O un adelanto de mi cumpleaños, según se mire. Sea como sea, me he comprado un Mac Mini G4 de segunda mano. Sí, en los tiempos que corren. Y encima, le he instalado MorphOS como S.O., en exclusiva. Características del hardware: PowerPC G4 a 1.25 Ghz [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2010/10/morphos-mini.png"><img class="aligncenter size-full wp-image-1163" title="morphos-mini" src="/wp-content/uploads/2010/10/morphos-mini.png" alt="" width="320" height="240" srcset="/wp-content/uploads/2010/10/morphos-mini.png 320w, /wp-content/uploads/2010/10/morphos-mini-300x225.png 300w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p style="text-align: justify;">Lo he hecho. Una frikada de tomo y lomo. O un adelanto de mi cumpleaños, según se mire. Sea como sea, me he comprado un Mac Mini G4 de segunda mano. Sí, en los tiempos que corren. Y encima, le he instalado <a href="http://es.wikipedia.org/wiki/MorphOS">MorphOS</a> como S.O., en exclusiva. Características del hardware:</p>
+<ul>
+<li>PowerPC G4 a 1.25 Ghz</li>
+<li>1 GB RAM. El máximo que soporta <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>HD de 40 GB. Un poco escaso para otros S.O., pero para MorphOS esto es el infinito, o casi. Como no lo llene de MP3s o de películas&#8230;</li>
+<li>Tarjeta de vídeo integrada de 32 MB. El punto flaco. Cuando abro muchas ventanas veo cómo se va quedando MorphOS sin memoria de vídeo, pero bueno, es lo que hay&#8230;</li>
+<li>No tiene bluetooth ni WiFi. No me quita el sueño: dispongo de un teclado Mac con cable USB, además de un Mighty Mouse (que le regalé a mi mujer, pero que nunca usa), así que BT no es imprescindible. Y respecto a la WiFi, además de no estar soportada (creo) tengo la máquina demasiado cerca de mi Time Capsule como para no conectarla con un cable.</li>
+</ul>
+<p style="text-align: justify;">El equipo cabe perfectamente bajo el <a href="http://www.griffintechnology.com/products/elevator">Griffin Elevator</a> que mantiene a mi Macbook Pro, de forma que lo puedo tener en la mesa para «echar un ratito rápido» sin que me ocupe espacio. Además, hace juego con el MBP y mi iMac de 27&#8243;, consiguiendo una «mesa mac» total. Aunque no tenga instalado Mac OS X, claro. Le he instalado MorhOS en exclusiva, porque en mi caso no tendría sentido disponer de Tiger (Mac OS X 10.4) o Leopard cuando ya tengo dos máquinas con Snow Leopard en la mesa. Y este equipo se ha pedido para lo que se ha pedido: para tontear con MorphOS.</p>
+<p style="text-align: justify;">
+<div id="attachment_1174" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg"><img class="size-full wp-image-1174" title="MacMiniG4BajoMBP" src="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg" alt="Mi Mac Mini G4 bajo mi MBP" width="800" height="625" srcset="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg 800w, /wp-content/uploads/2010/10/MacMiniG4BajoMBP1-300x234.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Mi Mac Mini G4 bajo mi MBP</p></div>
+<p>Bueno, pero ¿qué es MorphOS? No voy a explicar una vez más todo lo que ya explican en la <a href="http://www.morphos-team.net/">página oficial de MorphOS</a>, pero sí os diré que es un S.O. derivado del AmigaOS, cuyos objetivos es ser compatible con los programas de Amiga (siempre que sea posible) y ser muy óptimo, tanto en espacio como en tiempo de ejecución. Ni es un UNIX (como los Linux, Mac OS X, Solaris, &#8230;) ni viene de la rama Windows. Es la auténtica tercera vía, algo distinto y nuevo, si no has visto un Amiga antes. Aunque muchas de sus ideas tienen ¿20 años? <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">El arranque de la máquina es fulgurante. No he visto nada igual (bueno, cuando se arrancaba un MSDOS recién instalado). Llevo sólo un par de días con él, pero lo quería presentar ya en sociedad, porque quiero dedicar una parte de mi sección de <a href="/retrocomputing/">Retroinformática</a> a <a href="/morphos/">MorphOS</a>, aunque estrictamente hablando, es un SO moderno que está en desarrollo y no es «retro», pero así me organizo mejor.</p>
+<p style="text-align: justify;">A medida que vaya haciendo cosas quiero iniciar una serie de posts hablando de MorphOS, ya que hay muy poca documentación en Español en la red. Bueno, en Inglés tampoco es que esté la cosa mucho mejor :-). Identificaré los posts claramente para que los no interesados se los salten sin piedad.</p>
+<p style="text-align: justify;">Como nota financiera final, indicar que me ha costado el equipo 160 Eur. puesto en casa, con su caja original impecable. Creo que ha sido una buena operación. A eso hay que sumarle el coste de la licencia de MorphOS (no, no es Software Libre, ni es gratis) que son 111,11 Eur. No es barato, pero quiero apoyar a los desarrolladores de este S.O., distinto y divertido.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/19/mi-macmini-con-morphos-2-6/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+	</channel>
+</rss>

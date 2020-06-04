@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Haciendo WinXP un poco más seguro</title>
+	<atom:link href="/articulos/haciendo-winxp-un-poco-mas-seguro/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: freniche.com &#187; El Domingo nos hackearon el servidor</title>
+		<link>/articulos/haciendo-winxp-un-poco-mas-seguro/comment-page-1/#comment-3</link>
+		<dc:creator><![CDATA[freniche.com &#187; El Domingo nos hackearon el servidor]]></dc:creator>
+		<pubDate>Wed, 19 Mar 2008 13:17:01 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/articulos/haciendo-winxp-un-poco-mas-seguro/#comment-3</guid>
+		<description><![CDATA[[...] Bueno, el ordenador &#8220;roto&#8221; no era mío exactamente. Tampoco estaba roto. Algunos inútiles con mucho tiempo libre se dedicaron a localizar una vulnerabilidad en algún script del servidor que utiliza freniche.com de forma compartida con otros dominios (ésto último quiere decir que freniche.com comparte el mismo ordenador con otros muchos dominios, cosa que puedes comprobar por ejemplo en http://www.yougetsignal.com/tools/web-sites-on-web-server/). El caso es que, debido a esa vulnerabilidad pudieron escribir en los ficheros HTML de mi sitio. Y, claro, inyectaron HTML malicioso, de ese que descarga algo a tu ordenador sin que tú sepas nada, normalmente cuando usas un S.O. desde una cuenta con privilegios de administrador y con un navegador muy, muy integrado con ese S.O. Puedes evitar estos riesgos siguiendo unos sencillos consejos. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Bueno, el ordenador &#8220;roto&#8221; no era mío exactamente. Tampoco estaba roto. Algunos inútiles con mucho tiempo libre se dedicaron a localizar una vulnerabilidad en algún script del servidor que utiliza freniche.com de forma compartida con otros dominios (ésto último quiere decir que freniche.com comparte el mismo ordenador con otros muchos dominios, cosa que puedes comprobar por ejemplo en <a href="http://www.yougetsignal.com/tools/web-sites-on-web-server/" rel="nofollow">http://www.yougetsignal.com/tools/web-sites-on-web-server/</a>). El caso es que, debido a esa vulnerabilidad pudieron escribir en los ficheros HTML de mi sitio. Y, claro, inyectaron HTML malicioso, de ese que descarga algo a tu ordenador sin que tú sepas nada, normalmente cuando usas un S.O. desde una cuenta con privilegios de administrador y con un navegador muy, muy integrado con ese S.O. Puedes evitar estos riesgos siguiendo unos sencillos consejos. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

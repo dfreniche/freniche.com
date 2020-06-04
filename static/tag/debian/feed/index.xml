@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Debian &#8211; freniche.com</title>
+	<atom:link href="/tag/debian/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Debian explicado exquisitamente</title>
+		<link>/2005/07/21/debian-explicado-exquisitamente/</link>
+		<pubDate>Thu, 21 Jul 2005 06:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Debian]]></category>
+
+		<guid isPermaLink="false">/2005/07/21/debian-explicado-exquisitamente/</guid>
+		<description><![CDATA[Leo un texto de Miquel Cuadra en el que se describe con gran precisión y de manera muy sencilla la creación y evolución de la distribución Debian y aspectos como de dónde vienen los nombres Woody o Sid, qué es la sección contrib, etc. Muy recomendable.]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;"><a href="http://espora.org/biblioweb/proyecto-debian.html">Leo un texto de Miquel Cuadra</a> en el que se describe con gran precisión y de manera muy sencilla la creación y evolución de la distribución Debian y aspectos como de dónde vienen los nombres Woody o Sid, qué es la sección contrib, etc.</p>
+<p class="bodytext">Muy recomendable.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

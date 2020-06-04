@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: MorphOS</title>
+	<atom:link href="/morphos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Mi MacMini con Morphos 2.6</title>
+		<link>/morphos/comment-page-1/#comment-7891</link>
+		<dc:creator><![CDATA[Mi MacMini con Morphos 2.6]]></dc:creator>
+		<pubDate>Tue, 19 Oct 2010 10:15:17 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=1167#comment-7891</guid>
+		<description><![CDATA[[...] presentar ya en sociedad, porque quiero dedicar una parte de mi sección de Retroinformática a MorphOS, aunque estrictamente hablando, es un SO moderno que está en desarrollo y no es [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] presentar ya en sociedad, porque quiero dedicar una parte de mi sección de Retroinformática a MorphOS, aunque estrictamente hablando, es un SO moderno que está en desarrollo y no es [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

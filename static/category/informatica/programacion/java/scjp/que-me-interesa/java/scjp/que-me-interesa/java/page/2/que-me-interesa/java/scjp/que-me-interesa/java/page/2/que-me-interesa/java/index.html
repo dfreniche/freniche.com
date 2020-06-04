@@ -1,0 +1,778 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Java | freniche.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/readly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; RSS de los comentarios" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Java RSS de la categoría" href="/category/informatica/programacion/java/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-style-css'  href='/wp-content/themes/readly/fancybox/jquery.fancybox.css?v=2.1.5&#038;ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='readly-style-css'  href='/wp-content/themes/readly/style.css?ver=4.8.13' type='text/css' media='all' />
+<style id='readly-style-inline-css' type='text/css'>
+.gallery .gallery-item {
+	max-width: 150px;
+}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.13' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery-ui-1.10.2.custom.min.js?ver=20130317'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/readly.js?ver=20140331'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 4.8.13" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.6';
+</script>
+<style type="text/css" media="screen">
+/* Begin WPvideo CSS */
+.wpv_videoc {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+/* border: 1px solid #aaa; */
+}
+
+.wpv_video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px 0 4px 0;
+	width: 425px;
+	height: 350px;
+}
+
+.wpv_rating {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+	font: 8pt "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	text-align: right;	
+}
+
+.wpv_titleauthor, .wpv_durationdate, .wpv_description {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #666;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+}
+
+.wpv_download {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+}
+
+.wpv_download a {
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #f44;
+}
+
+.wpv_download a:hover {
+	text-decoration: none;
+}
+
+.wpv_download img {
+	border: 0;
+}
+
+.wpv_self {
+	text-align: left;
+}
+
+.wpv_self a {
+	font: bold 9px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #000;
+}
+/* End WPvideo CSS */
+</style>
+
+<style type="text/css" id="custom-background-css">
+a {
+	color: #1e83cb;
+}
+.entry-content a {
+	-webkit-transition: border-bottom-color 0.2s linear;
+	-moz-transition: border-bottom-color 0.2s linear;
+	-o-transition: border-bottom-color 0.2s linear;
+	transition: border-bottom-color 0.2s linear;
+}
+.entry-content a:hover {
+	border-bottom-color: #1e83cb;
+}
+#masthead .site-title a, #site-navigation a, .sub-menu a, #nav-below a, .entry-title a, #image-navigation a {
+	-webkit-transition: color 0.2s linear;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+#masthead .site-title a:hover, #nav-below a:hover, .entry-title a:hover, #image-navigation a:hover {
+	color: #1e83cb;
+}
+#s, #commentform input[type="text"], #commentform textarea, .password_protected, #social a, a.more-link {
+	-webkit-transition: background-color 0.2s linear;
+	-moz-transition: background-color 0.2s linear;
+	-o-transition: background-color 0.2s linear;
+	transition: background-color 0.2s linear;
+}
+a.more-link span {
+	-webkit-transition: border-left-color 0.2s linear;
+	-moz-transition: border-left-color 0.2s linear;
+	-o-transition: border-left-color 0.2s linear;
+	transition: border-left-color 0.2s linear;
+}
+#s:focus, #commentform input[type="text"]:focus, #commentform textarea:focus, .password_protected:focus {
+	background-color: #fff;
+}
+#social a:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover span {
+	border-left-color: #1e83cb;
+}
+.entry-meta a, footer .site-info a, #comments a, .link_post_p a {
+	-webkit-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-moz-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-o-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	transition: color 0.2s linear, border-bottom-color 0.2s linear;
+}
+.entry-meta a:hover, footer .site-info a:hover, #comments a:hover, #comments a#cancel-comment-reply-link:hover, .link_post_p a:hover {
+	color: #1e83cb;
+	border-bottom-color: #1e83cb;
+}
+@media only screen and (min-width : 641px) {
+	#site-navigation a:hover, .sub-menu a:hover {
+		color: #1e83cb;
+	}
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+.hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #1e83cb;
+}
+</style>
+<script type="text/javascript">
+var hover_color = "#1e83cb";
+</script></head>
+
+<body class="archive category category-java category-320">
+<header id="masthead" class="site-header" role="banner">
+	<div id="header-wrapper">
+		<hgroup>
+			<div id="hgroup-wrapper">
+				<div id="hgroup-wrapper2">
+					<h1 class="site-title"><a href="/" title="freniche.com" rel="home">freniche.com</a></h1>
+					<h2 class="site-description">Another personal blog about everything tech-related</h2>
+				</div>
+			</div>
+		</hgroup>
+
+		<nav id="site-navigation" class="navigation-main" role="navigation">
+			<div id="site-navigation-wrapper">
+				<div id="site-navigation-wrapper2">
+					<h1 class="menu-toggle">Menu<span>m</span></h1>
+					<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2650"><a href="/about">Acerca de&#8230;</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://www.github.com/dfreniche/cv">CV</a></li>
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="/ios-apps/">iOS Apps</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="/formacion/">Formación</a></li>
+</ul>
+</li>
+<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="/contactar/">Contactar</a></li>
+<li id="menu-item-2649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2649"><a href="/mis-entradas-favoritas/">Lo mejor del blog</a></li>
+<li id="menu-item-2648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="/archivo-blog/">Archivo</a></li>
+<li id="menu-item-1993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1993"><a href="http://www.cafeycocoa.com.es/">Otros Proyectos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2652"><a href="http://wedevelopers.com/">Podcast We.Developers</a></li>
+	<li id="menu-item-2051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2051"><a href="http://readthencode.tumblr.com/">Read Then Code</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1996"><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a></li>
+	<li id="menu-item-1995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1995"><a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.youtube.com/dfreniche">YouTube</a></li>
+	<li id="menu-item-1992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1992"><a href="https://www.flickr.com/photos/dfreniche">Flickr</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</div>
+</header><!-- #masthead -->
+
+<div id="page" class="hfeed site">
+	<div id="main" class="site-main">
+
+	<section id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">
+					Posts from the <span>'Java'</span> Category				</h1>
+							</header><!-- .page-header -->
+
+						
+				
+<article id="post-2752" class="post-2752 post type-post status-publish format-standard hentry category-informatica category-java category-programacion tag-certificaciones tag-java tag-java-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2017/05/24/como-preparar-las-certificaciones-de-java-y-probablemente-el-resto/" title="1:28 pm" rel="bookmark"><time class="entry-date" datetime="mayo 24th, 2017">mayo 24th, 2017</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2017/05/24/como-preparar-las-certificaciones-de-java-y-probablemente-el-resto/" title="Permalink to Cómo preparar las certificaciones Java (y probablemente el resto)" rel="bookmark">Cómo preparar las certificaciones Java (y probablemente el resto)</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p>Estoy preparándome la certificación OCP Java SE 8. No preguntes por qué. Quizás porque soy <a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/">adicto a coleccionarlas</a>, tras tener el SCJP 1.5, 1.6, SCWCD 1.5 y SCBCD 1.3 y llevaba años sin presentarme a ninguna. O porque las que tengo ya son <em>antiguas</em> y quería tener una actualizada. O porque quería aprender Java 8 con cierta profundidad, ver todo lo nuevo que tiene que ofrecer (que es mucho, aunque quizás llega tarde) y compararlo con lo que he aprendido en otros lenguajes (Swift, te estoy mirando).</p>
+<p>Además, he tenido la oportunidad de preparar a varios grupos para obtener esta certificación&#8230; que yo ahora mismo no tengo. <a href="/2015/08/11/fraudismo-101-ensenar-las-verguenzas/"><em>Fraudismo at its best</em></a>. Aunque en este caso no tengo tanto síndrome del impostor por una razón: puede que no tenga (aún) la certificación Java 8, y mis conocimientos de Java son muy mejorables, pero me autotitulo como el <em>mayor experto mundial en aprobar estos exámenes</em>. Y eso es gracias a mi sistema, el <em>Sistema Freniche para aprobar las Certificaciones Java</em> AKA sentido común.</p>
+<h2>El Sistema Freniche para aprobar las Certificaciones Java</h2>
+<p>Es un sistema muy probado, tanto personalmente como con montones de alumnos que he preparado para distintas certificaciones. Se basa en 9 pasos:</p>
+<ol>
+<li>
+<p>Buscar un buen libro, que cubra todo el temario de la certificación. En este caso, he escogido el <a href="https://www.amazon.es/OCP-Certified-Professional-Programmer-1Z0-809/dp/1119067901/ref=sr_1_1?ie=UTF8&amp;qid=1490033852&amp;sr=8-1&amp;keywords=ocp">oficial de Oracle</a></p>
+</li>
+<li>
+<p>Leer el libro, saboreando cada capítulo. Aunque el objetivo último es aprobar el examen, hay mucho que podemos aprender aunque tengamos muchos años de experiencia con Java. <em>Especialmente</em> si tenemos muchos años de experiencia con Java trabajando siempre en proyectos similares, porque habrá montones de cosas que no hemos probado o visto por falta de tiempo.</p>
+</li>
+<li>
+<p>Escribe código. Mucho código. Haz pequeños ejemplos. Búscate las vueltas. Piensa retorcidamente. Prueba cosas extrañas (ver anexo Cosas Extrañas al final)</p>
+</li>
+<li>
+<p>Crea tus propios apuntes. O extiende <a href="https://github.com/dfreniche/ocp-java8-notes">los míos</a></p>
+</li>
+<li>
+<p>Escribe más código. Cuando te surjan dudas, vuelve a leer esa parte del libro. Y vuelve a escribir código probando todo.</p>
+</li>
+<li>
+<p>Cuando termines el libro, haz las preguntas de repaso de cada tema. Descubrirás que aún no has memorizado o te has fijado en partes. Goto 2</p>
+</li>
+<li>
+<p>Busca un simulador de exámenes. En mi caso siempre uso <a href="http://enthuware.com/index.php/mock-exams/oracle-certified-professional/ocpjp-8-questions">Enthuware</a> porque me ha ido bien (no porque me paguen por hacerles publicidad, aunque ya podrían 🙂 )</p>
+</li>
+<li>
+<p>Haz exámenes de prueba. Falla. Vuelve a leer. Escribe código. Haz exámenes.</p>
+</li>
+<li>
+<p>Cuando en los exámenes del simulador estés llegando al 80% de aciertos, preséntate. Pasarás con nota.</p>
+</li>
+</ol>
+<h2>¿Cuánto tiempo me va a llevar esto?</h2>
+<p>Pues depende. Leer el libro e ir probando pueden ser unas 30 h. Y luego hay que hacer los exámenes de prueba. Lo ideal es ponerse una fecha tope y en un par de meses <em>power through it</em>. Quitártelo de en medio, vamos.</p>
+<p>Aunque recibir un excelente curso de formación, patrocinado por tu empresa e impartido por un profesional de prestigio siempre puede ayudarte bastante y</p>
+<p><code>(interrumpimos este _shameless plug_ para continuar con lo que has venido a leer aquí)</code></p>
+<h2>Cómo presentarte al examen</h2>
+<p>Yo tengo mi ritual, pero lo ideal es que cada uno ejecute el suyo, porque lo normal es que estés nervioso/a ese día. Lo que yo hago es:</p>
+<ul>
+<li>levantarme bastante temprano</li>
+<li>comprobar que llevo algún documento, como el DNI en España que me identifique. Si no, no puedo hacer el exámen.</li>
+<li>llegar con más de 1h de adelanto a los alrededores de donde tenga el Centro Prometric para presentarme.</li>
+<li>desayunar o tomar café. Aunque el examen sea a las 13:00h en Sevilla en Agosto. Café. Para estar <em>tranquilo</em>.</li>
+<li>llevar el libro de preparación de la certificación conmigo en la mochila, aunque no lo voy a leer mientras tomo café ni me van a dejar tenerlo conmigo durante el examen. Lo uso de talismán y porque no soy el más listo. Pero tengo que sentir que está cerca por si me ataca el pánico y alguna duda concreta en el último momento.</li>
+<li>cargar con el portátil que no me van a dejar usar por las mismas razones que el punto anterior: porque no soy demasiado astuto.</li>
+<li>llevar agua. Y caramelos. Para darte un premio según avance el exámen y beber para mantenerse hidratado.</li>
+<li>ir al cuarto de baño justo antes de entrar, porque voy a estar bebiendo más agua que un caracol en el desierto durante la prueba.</li>
+</ul>
+<h2>¿Pero esto de las certificaciones sirve para algo?</h2>
+<p>Pues esto es un debate interesante, que puedes tener con quien quieras menos conmigo poque que en mi caso lo tengo bastante claro:</p>
+<ul>
+<li>las certificaciones no demuestran que sepas más Java que nadie</li>
+<li>demuestran que eres capaz de fijarte un objetivo, que te va a requerir un esfuerzo extra y cierto sacrificio y pasarlo</li>
+<li>demuestran que tienes una base en el lenguaje Java</li>
+<li>preparar esta certificación me ha supuesto toda una sorpresa, porque la he encontrado 100% útil: multihilo con Thread Pools y el paquete <code>java.util.concurrent</code>, programación funcional con Lambdas, map, reduce, streams, parallel streams, problemas de concurrencia y multihilo, acceso a BDs con JDBC (que hasta ahora era lo único que usaba en Android), uso de ficheros, excepciones, Opcionales,&#8230;</li>
+<li>demuestran que eres capaz de estar 2 horas y media seguidas trabajando enfocado en una sola tarea, sin usar Internet ni mirar Twitter. Y eso es una rara cualidad hoy día, en los entornos multi-interrupción de que <em>disfrutamos</em> trabajando. </li>
+</ul>
+<p>Esto último es probablente lo más difícil. Ser capaz de nuevo de estar haciendo una tarea durante 2 horas y media sin moverte de la silla. Esto se entrena con los exámenes del simulador. Y es duro, porque tú eres tu mayor enemigo.</p>
+<h2>Anexo: Cosas extrañas</h2>
+<p>Cosas que puedes hacer con Java, como escribir bucles así</p>
+<pre><code>Predicate&lt;Integer&gt; end = e -&gt; e &lt; 10; int i = 0; 
+for (int j = 1; end.test(i) ; i++, j++, System.out.println("i " + i)) ;
+
+// imprime i 1, i 2, i 3...
+</code></pre>
+<p>Usar bloques de código de instancia (NO usar en código real)</p>
+<pre><code>class Cat {
+    String name;
+
+    {
+        System.out.println("I'm a Cat!");
+        name = "Meow!";
+    }
+
+    Cat() {
+        name = "Garfield";
+    }
+}
+</code></pre>
+<p>Programar «código encriptado» 😀</p>
+<pre><code>class _ {
+    String _ = "Hello";
+}
+
+// más adelante...
+
+_ _ = new _();
+System.out.println(_._);   // imprime "Hello"
+
+_ $ = _;
+System.out.println($._);   // imprime "Hello"
+</code></pre>
+<p>Y otras muchas barbaridades que podría añadir&#8230;</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1856" class="post-1856 post type-post status-publish format-standard has-post-thumbnail hentry category-informatica category-java category-programacion tag-android tag-eclipse tag-programacion">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2013/01/23/acelera-el-emulador-de-android/" title="5:32 pm" rel="bookmark"><time class="entry-date" datetime="enero 23rd, 2013">enero 23rd, 2013</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2013/01/23/acelera-el-emulador-de-android/" title="Permalink to Acelera el emulador de Android" rel="bookmark">Acelera el emulador de Android</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p>«El Emulador de Android es lento». Mucho. Es una de las quejas recurrentes que tenemos los que tenemos que desarrollar para Android, bien sea por afición, devoción u obligación. Comparado con el simulador de iOS, el Emulador de Android es una tortuga. Pero claro, la comparación no es justa: Android emula un teléfono completo, con su CPU, GPU, memoria, tarjeta SD, etc. Está ejecutando código real que podríamos instalar en un teléfono, compilado para una CPU de una arquitectura que no tenemos en el escritorio (como es ARM p.ej.). El simulador de iOS crea un ejecutable x86 que «simula» comportarse dentro de un teléfono, pero realmente es un programa de Mac «travesti». La fidelidad no es la misma.</p>
+<p>Por eso, en teoría el desarrollo con el Emulador de Android debe ser más sencillo, al tener una mejor herramienta con la que probar. Eso, si eres capaz de aguantar el tiempo insoportable que tarda en arrancar. Y si no se desconecta de adb (Android Debugger Bridge) y tienes que reiniciarlo.</p>
+<h1>HAXM</h1>
+<p>Para mejorar esto, Intel pone a nuestra disposición HAXM (Hardware Accelerated Execution Manager). Gracias a este programa, instalaremos una capa de aceleración para el Emulador de Android, que realmente se ejecuta en como una máquina virtual <a href="http://wiki.qemu.org/Main_Page">qEmu</a>. qEmu es un emulador de CPUs, es decir, nos permite ejecutar en nuestros equipos basados en Intel x86 (como un Core i5 por ejemplo) S.O. que corren en Intel (como Windows, Linux, Mac) o bien otros S.O. que necesitan otras CPUs y arquitecturas (como es el caso de Android con ARM).</p>
+<p>HAXM es un driver (o un módulo del kernel en Linux / extensión del kernel en Mac) que concede a qEmu acceso directo al hardware en el que se ejecuta. Eso sí, como es un programa de Intel, sólo funciona con las CPUs Intel. Vamos, que si tu máquina tiene una CPU AMD ya puedes ir cerrando el post. Además, la CPU debe soportar VT-x (las modernas lo soportan, no pruebes con un Pentium II). Puedes consultar los requisitos en la <a href="http://software.intel.com/en-us/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-mac-os-x">página detallada de Intel sobre cómo instalar HAXM</a>.</p>
+<h1>Instalación de HAXM</h1>
+<p>Si estás usando el nuevo ADT Bundle (es decir, el Eclipse + plugin ADT + SDK Android que ha sacado hace poco Google, que ya era hora por cierto) y abres el Android SDK Manager, al final encontrarás un grupo llamado «Extras» en el que está el Intel x86 HAXM Emulator Accelerator. Si estás en Windows / Linux, bájatelo desde aquí. Si estás en OS X Mountain Lion 10.8.2 <strong>no te lo bajes desde aquí, debes ir a la <a href="http://software.intel.com/en-us/articles/intel-hardware-accelerated-execution-manager">página de descargas de HAXM</a></strong>, ya que existe un bug que hará que tu querido Mac se cuelgue. Sí, has leído bien: los Macs también se cuelgan. Cuando te lo bajes, ya sea desde el SDK Manager o a mano (por cierto, en el enlace anterior están las versiones de Linux y Windows de HAXM) debes instalarlo.</p>
+<p>En el caso del Mac, bajas un DMG que al montar te muestra un programa de instalación. Tras instalarlo (no exige reiniciar) podemos confirmar que está en funcionamiento escribiendo en una Terminal:</p>
+<pre><code>$ kextstat | grep haxm
+</code></pre>
+<p>Debe aparecer algo como esto:</p>
+<pre><code>Tesla:~ dfreniche$ kextstat | grep haxm
+115  0 0xffffff7f81e29000 0x13000 0x13000  com.intel.kext.intelhaxm (1.0.4)
+</code></pre>
+<p>Si te has bajado el paquete usando el SDK manager, puedes encontrar el programa de instalación en <code>$SDK_HOME/extras/intel/</code></p>
+<h1>Uso de HAXM</h1>
+<p>Una vez instalado HAXM, debemos descargar las imágenes de Android que también nos proporciona Intel. La idea es que en lugar de acelerar un emulador ARM (que sería muy complicado) Intel nos da Android para Intel Atom. De esta manera, cuando qEmu ejecuta instrucciones en el Intel Atom emulado realmente se pasan a nuestra CPU directamente, con la consiguiente mejora en rendimiento.</p>
+<p>Estas imágenes aparecen como «Intel x86 Atom System Image» en el SDK Manager. A bajarlas. No las tenemos para todos los API levels, pero sí para los más usados (API 10, 15 y 17 y supongo que en breve sacarán para el 18).</p>
+<p><a href="/wp-content/uploads/2013/01/intel-images.png"><img src="/wp-content/uploads/2013/01/intel-images-300x251.png" alt="SDK Manager mostrando las imágenes Intel ya instaladas" title="Imágenes Intel en el Android SDK Manager" width="300" height="251" class="aligncenter size-medium wp-image-1860" srcset="/wp-content/uploads/2013/01/intel-images-300x251.png 300w, /wp-content/uploads/2013/01/intel-images.png 933w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Ahora tendremos que crear una definición de AVD que utilice esta imagen de Intel. En lugar de un emulador con CPU ARM, vamos a escoger uno con CPU Intel Atom. De cara a nuestros programas da igual, ya que a fin de cuentas se van a ejecutar en la máquina virtual Dalvik. Si vamos a probar código Android nativo (escrito en C con el NDK) entonces lo mejor es leer la documentación de HAXM.</p>
+<p><a href="/wp-content/uploads/2013/01/ADV-intel.png"><img src="/wp-content/uploads/2013/01/ADV-intel.png" alt="Creando un AVD con CPU Intel seleccionada" title="ADV con CPU intel" width="542" height="575" class="aligncenter size-full wp-image-1862" srcset="/wp-content/uploads/2013/01/ADV-intel.png 542w, /wp-content/uploads/2013/01/ADV-intel-282x300.png 282w" sizes="(max-width: 542px) 100vw, 542px" /></a></p>
+<p>Cuando arranquemos nuestro AVD notaremos dos cosas. En la consola debe aparecer un mensaje que indique que «HAX is working» y casi sin darnos cuenta nuestro Emulador estará operativo. Se acabó el arrastrarse. Yo ni marco que arranque de un snapshot porque es tan rápido que no me merece la pena.</p>
+<h1>Bonus level</h1>
+<p>Si usas API level 15 ó 17 puedes usar la aceleración de hardware de la GPU, lo que hará que todavía sea más rápido. Avisado quedas de que puede no funcionar (el emulador se vería en negro y tendrías que cerrarlo). <a href="http://developer.android.com/tools/devices/emulator.html#acceleration">Consulta el apartado de aceleración de la GPU</a> de la documentación Emulador para más detalles. Para activarla, marca el checkbox «Use host GPU» en la definición del AVD.</p>
+<h1>Ultra bonus level</h1>
+<p>Y si necesitas un emulador de Android «en la nube», para probar algo o mostrar en una visita a un cliente, y no tienes tu máquina pero te puedes bajar el APK de Dropbox, mira <a href="https://app.manymo.com/emulators">Manymo</a>. Si con esto no te pones <em>palote</em>&#8230;</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1702" class="post-1702 post type-post status-publish format-standard has-post-thumbnail hentry category-informatica category-java category-programacion tag-android tag-desarrollo tag-podcast tag-programacion tag-windows">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/" title="4:38 pm" rel="bookmark"><time class="entry-date" datetime="mayo 23rd, 2012">mayo 23rd, 2012</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/" title="Permalink to Cómo crear un entorno de desarrollo Android portable" rel="bookmark">Cómo crear un entorno de desarrollo Android portable</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<div id="attachment_1710" style="width: 323px" class="wp-caption aligncenter"><img class="size-full wp-image-1710" title="Logo de Android" src="/wp-content/uploads/2012/05/android_resources.png" alt="Logo de Android" width="313" height="343" srcset="/wp-content/uploads/2012/05/android_resources.png 313w, /wp-content/uploads/2012/05/android_resources-273x300.png 273w" sizes="(max-width: 313px) 100vw, 313px" /><p class="wp-caption-text">Logo de Android</p></div>
+<p style="text-align: justify;">Algún día me tenía que pasar. Después de ver tanto backend Java en <a href="/formacion/">cursos de todos los colores</a> y de <a href="/category/informatica/programacion/java/scjp/">coleccionar certificaciones Java</a>, después de <a href="/ios-apps/">desarrollar para iOS</a> y <a href="/2012/05/17/enyo-faq-en-espanol/">webOS</a>, alguna vez me tenía que poner <em>en serio</em> con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de desarrollo móvil «de cabecera». Quizás porque estaba saturado de Java. O porque, <a href="http://wedevelopers.com/2012/03/11/we-developers-003-los-mundos-de-java/">como comentaba en We.Developers</a>, Java es un lenguaje que no me genera excesivas alegrías (sobre todo cuando lees la mayoría del código que hay por ahí, que es bastante feo, fruto del desconocimiento del lenguaje).</p>
+<p style="text-align: justify;">El caso es que estoy actualmente desarrollando una App para Android (de la que daré más datos cuando se suba a Google Play) y me ha surgido la oportunidad de impartir un curso a los programadores de RTVA. Como en todo curso, me gusta instalar el entorno de desarrollo. Y si vas a desarrollar para Android, sabes que tienes que instalarte:</p>
+<ul>
+<li>un JDK para poder compilar todo el código Java que escribimos como parte de nuestras Apps Android</li>
+<li>un JRE, necesario para ejecutar Eclipse</li>
+<li>Eclipse, como IDE para escribir nuestros programas</li>
+<li>el SDK de Android, que pone a nuestra disposición las bibliotecas necesarias para crear los programas Android, así como el Emulador, herramientas e imágenes para ejecutar ese emulador.</li>
+<li>el plug-in ADT para Eclipse, que nos permite gestionar el SDK cómodamente desde Eclipse</li>
+</ul>
+<p style="text-align: justify;">Este curso se imparte en dos semanas, dejando varios días por medio. Y el tiempo que se tarda en descargar las distintas partes del SDK de Android y el plugin ADT (ambos hay que descargarlos para instalarlos) no es despreciable cuando lo intentamos hacer con 10 portátiles todos conectados a la misma Wifi. Además de la limitación inherente a compartir la conexión HTTP, el medio físico (el canal de radio usado por el punto de acceso WiFi) es el mismo para todos los portátiles. Luego hay colisiones. Y cuantos más portátiles, peor para todos.</p>
+<p>En una primera opción, llevaba el JDK, Eclipse y el paquete de instalación del SDK en un pendrive, para irlo instalando todo. Pero de estas dos últimas descargas no me podía librar&#8230; ¿o si? Y mi miedo es volver la segunda semana y encontrarme los portátiles formateados&#8230;</p>
+<h1>Cómo crear un entorno de desarrollo Android Portable</h1>
+<p>En este caso, me centro en cómo crear el entorno portable para Windows 32 bits, que corre en XP y Windows 7. Al final comento las diferencias con Mac.</p>
+<ul>
+<li>Lo primero es bajar todo lo que necesitamos a una carpeta:</li>
+</ul>
+<blockquote>
+<ul>
+<li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java JDK</a> para Windows es un ejecutable, y escogeremos, de la versión 6, el saber que nos interese: 32 bits (i586) o 64 (x64).</li>
+<li>De Eclipse nos interesa la última versión de la distribución <a href="http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/indigosr2">Eclipse IDE for Java developers</a>. No la versión para Java EE, ya que no vamos a usar servets ni nada de eso. A fecha de escritura de este post, la última versión es la Indigo.</li>
+<li>La última versión del <a href="http://developer.android.com/sdk/index.html">SDK de Android</a>. Nos bajamos la versión en ZIP, no la instalable.</li>
+</ul>
+</blockquote>
+<ul>
+<li>Una vez que tenemos todo esto bajado, debemos instalar el JDK en la máquina. Realmente queremos las carpetas que van dentro, pero al no disponer de un ZIP no tenemos más remedio que instalar. Lo dejará en C:\Archivos de Programa\Java</li>
+<li>Una vez termine la instalación del JDK, nos crearemos una carpeta en el escritorio que podemos llamar Android-Portable, o como más nos guste.</li>
+<li>Debemos descomprimir dentro de esta carpeta el ZIP de Eclipse.</li>
+<li>Ahora, copiaremos la carpeta JRE que está en C:\Archivos de Programa\Java\Jre6\ dentro de la carpeta de Eclipse, justo donde está Elipse.exe. Así, al arrancar Eclipse usará ese JRE que le hemos instalado «tan a mano»</li>
+<li>Igualmente descomprimiremos el SDK de Android dentro de Android-Portable.</li>
+<li>Como necesitaremos el JDK para compilar, vamos a copiarnos en Android-portable la carpeta C:\Archivos de programa\Java\jdk1.6.0_31</li>
+<li>Ahora debemos tener dentro de Android-Portable: una carpeta con Eclipse, otra con el JDK y el SDK de Android.</li>
+<li>Ya podemos arrancar Eclipse. Necesitamos instalar el <a href="http://developer.android.com/sdk/eclipse-adt.html">plugin ADT</a>, para lo cual iremos a Help &gt; Install Software e instalaremos ADT indicando como repositorio https://dl-ssl.google.com/android/eclipse/</li>
+<li>Tras reiniciar Eclipse, nos pedirá que instalemos un SDK de Android, o que le indiquemos dónde tenemos uno instalado. Le indicamos que dentro de Android-Portable tenemos uno. Nos muestra el Android SDK Manager para descargar las imágenes de los emuladores para las versiones de Android que nos interesen, así como los SDKs propiamente dichos. Yo me los bajaría todos.</li>
+</ul>
+<div id="attachment_1711" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/05/pidiendo-sdk.png"><img class="size-medium wp-image-1711" title="Eclipse nos pide un SDK de Android (click para agrandar)" src="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png" alt="Eclipse nos pide un SDK de Android (click para agrandar)" width="300" height="190" srcset="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png 300w, /wp-content/uploads/2012/05/pidiendo-sdk-1024x651.png 1024w, /wp-content/uploads/2012/05/pidiendo-sdk.png 1475w" sizes="(max-width: 300px) 100vw, 300px" /></a></dt>
+</dl>
+<p>Eclipse nos pide un SDK de Android (click para agrandar)</p>
+</div>
+<ul>
+<li>¡Listo! Ahora podemos copiar la carpeta Android-Portable y todo lo que necesitamos lo llevamos dentro. Para arrancar Eclipse bastará con entrar en su carpeta y hacer doble click en Eclipse.exe. Si quieres, siempre te puedes crear un acceso directo, pero que sepas que al mover la carpeta tendrás que volver a crearlo.</li>
+</ul>
+<p>&lt;</p>
+<p>div class=»mceTemp mceIEcenter»></p>
+<p>&lt;</p>
+<p>dl id=»attachment_1707&#8243; class=»wp-caption aligncenter» style=»width: 470px;»></p>
+<dt class="wp-caption-dt"><img class="size-full wp-image-1707" title="Así debe quedar la carpeta Android-Portable" src="/wp-content/uploads/2012/05/android-portable.png" alt="Así debe quedar la carpeta Android-Portable" width="460" height="187" srcset="/wp-content/uploads/2012/05/android-portable.png 460w, /wp-content/uploads/2012/05/android-portable-300x121.png 300w" sizes="(max-width: 460px) 100vw, 460px" /><p class="wp-caption-text">Así debe quedar la carpeta Android-Portable</p></div>
+<p>Esta carpeta ya la podemos poner en un pendrive, comprimirla, copiarla de un equipo a otro, etc. Funcionará con los distintos Windows.</p>
+<p>Si tienes un Mac el proceso es el mismo, salvo que:</p>
+<ul>
+<li>no tienes que instalarte Java, ya que el JDK viene instalado con OS X (es una instalación opcional del S.O.). No puedes «bajarlo» de la página de Oracle.</li>
+<li>debes bajar el Eclipse de Mac</li>
+<li>debes bajar el SDK de Android de Mac</li>
+</ul>
+<p>Ahora, a ver alguien compra las Apps que hagamos 🙂</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1512" class="post-1512 post type-post status-publish format-standard hentry category-informatica category-java category-programacion tag-dcvs tag-eclipse tag-formacion tag-mercurial tag-programacion">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2011/06/18/instalar-el-plugin-de-mercurial-en-eclipse/" title="7:31 pm" rel="bookmark"><time class="entry-date" datetime="junio 18th, 2011">junio 18th, 2011</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2011/06/18/instalar-el-plugin-de-mercurial-en-eclipse/" title="Permalink to Instalar el plugin de Mercurial en Eclipse" rel="bookmark">Instalar el plugin de Mercurial en Eclipse</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p style="text-align: justify;">Los sistemas de control de versiones son adictivos. No puedes probarlos, porque luego no puedes vivir sin ellos. Aunque sea un pequeño ejemplo el que vas a programar, te sientes <em>perdido</em> sin tu repositorio y empiezas a pensar «¿y si se me ocurre cambiar esto o lo otro, y luego me arrepiento?». Ese tipo de «problemas» se solucionan casi en el acto con un VCS. Y si es distribuido (Git o Mercurial), mejor que mejor.</p>
+<p style="text-align: justify;">Antes de seguir, quiero dejar claro que no entro en las guerras religiosas entre los DCVS Git o Mercurial. Yo uso <a href="http://mercurial.selenic.com/">Mercurial</a> porque <a href="http://hginit.com/">Joel Spolsky</a> lo explica de forma increíblemente sencilla. Aunque ahora que Git viene integrado con XCode4, probablemente es una buena alternativa&#8230; bueno, no :-). En fin, usa el que te de la gana, pero usa uno.</p>
+<p style="text-align: justify;">Para <em>casi</em> todos mis proyectos uso Mercurial. No lo uso para los ejemplos que escribo para mis cursos. Y estaba pensando «¿porqué no usarlo?». Por pereza mental, y por hacer siempre las cosas de la misma forma. Mi padre dice que «si un burro tira de una noria para un lado y le das la vuelta, ya no sabe tirar de ella». Y es que nos acostumbramos a hacer siempre lo mismo, de la misma forma, y nos estancamos. De vez en cuando hay que revisarlo todo con una mirada fresca y en lugar de pensar «¿hay una manera de optimizar esto que estoy haciendo?» debemos plantearnos «¿en <em>serio</em> tengo que seguir haciendo esto?».</p>
+<p style="text-align: justify;">El caso es que un sistema de control de versiones es casi perfecto para dar clases. Puedes tener una primera versión, sencilla, y luego ir promoviendo a las distintas versiones más avanzadas, que pueden ser changesets o bien nuevas ramas. Los cambios que hagas durante la clase para demostrar algo siempre puedes revertirlos sin problemas. Para eso está el DCVS. Y distribuir el código es más sencillo: compartes tu repo, y los alumnos se clonan los repositorios y punto. No hay que andar con historias de copiar los Workspaces de Eclipse y que luego falle (los WS de Eclipse dependen del sistema en el que los uses, hay que cambiar luego los Build Paths, etc.). Como se puede ver, todo son ventajas. La pregunta es porqué no lo he usado hasta ahora&#8230;</p>
+<h1>Instalar Mercurial</h1>
+<p style="text-align: justify;">Evidentemente, antes de nada lo primero es instalar Mercurial, ya sea para Linux, Windows o Mac, o para donde vayas a usar el DCVS. Si no, el plugin de Eclipse no podrá usar Mercurial porque no lo encontrará en tu sistema. Te lo bajas de su <a href="http://mercurial.selenic.com/">sitio web oficial</a>.</p>
+<h1>Instalando hgEclipse</h1>
+<p style="text-align: justify;"><a href="http://www.javaforge.com/project/HGE">HgEclipse</a> es un plugin para Eclipse que añade soporte Mercurial a tus proyectos. Una vez instalado, en el menú contextual del proyecto encontrarás en la opción Team &gt; Share la parte de Mercurial. Para instalarlo, iremos a Help &gt; Install New Software e introduciremos el repositorio http://cbes.javaforge.com/update. En mi caso (instalándolo en Mac) no necesito los binarios de Mercurial para Windows, así que no los marco para instalar.</p>
+<p style="text-align: justify;">
+<div id="attachment_1517" style="width: 825px" class="wp-caption aligncenter"><img class="size-full wp-image-1517" title="Instalando hgEclipse: repositorios" src="/wp-content/uploads/2011/06/install-hgeclipse.png" alt="Instalando hgEclipse: repositorios" width="815" height="715" srcset="/wp-content/uploads/2011/06/install-hgeclipse.png 815w, /wp-content/uploads/2011/06/install-hgeclipse-300x263.png 300w" sizes="(max-width: 815px) 100vw, 815px" /><p class="wp-caption-text">Instalando hgEclipse: repositorios</p></div>
+<p style="text-align: justify;">Cuando pulsemos Next, pasaremos a descargar e instalar el plugin. Al final no hay más remedio que reiniciar Eclipse. Así que hazlo 🙂</p>
+<div id="attachment_1518" style="width: 566px" class="wp-caption aligncenter"><img class="size-full wp-image-1518" title="hgEclipse instalándose" src="/wp-content/uploads/2011/06/installing-hgeclipse.png" alt="hgEclipse instalándose" width="556" height="378" srcset="/wp-content/uploads/2011/06/installing-hgeclipse.png 556w, /wp-content/uploads/2011/06/installing-hgeclipse-300x203.png 300w" sizes="(max-width: 556px) 100vw, 556px" /><p class="wp-caption-text">hgEclipse instalándose</p></div>
+<h1>Usando HgEclipse</h1>
+<p style="text-align: justify;">Una vez con todo instalado, lo primero es crear el repositorio Mercurial en nuestro proyecto. Eso lo prepara todo para poder gestionar las versiones de tu codigo fuente. Equivale a un «hg init». Para ello, pulsaremos con el botón derecho del ratón en el nombre de nuestro proyecto y seleccionaremos Team &gt; Share Project. Si todo está correctamente instalado nos aparecerá una ventana como la siguiente:</p>
+<div id="attachment_1525" style="width: 615px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/ShareProject.png"><img class="size-full wp-image-1525" title="Share &gt; Project" src="/wp-content/uploads/2011/06/ShareProject.png" alt="Share &gt; Project" width="605" height="491" srcset="/wp-content/uploads/2011/06/ShareProject.png 605w, /wp-content/uploads/2011/06/ShareProject-300x243.png 300w" sizes="(max-width: 605px) 100vw, 605px" /></a><p class="wp-caption-text">Share &gt; Project</p></div>
+<p style="text-align: justify;">Como queremos crear un repo Mercurial, basta con pulsar siguiente. Nos mostrará dónde va a crear el repositorio (que es una carpeta llamada .hg, dentro de nuestra carpeta de proyecto). Aparecerán unos nuevos iconos en las carpetas y ficheros de nuestro proyecto y la palabra [new] indicando que el repo es nuevo, pero aún no se ha realizado el primer commit.</p>
+<div id="attachment_1526" style="width: 245px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/RepoCreado.png"><img class="size-full wp-image-1526" title="Repositorio tras el init" src="/wp-content/uploads/2011/06/RepoCreado.png" alt="Repositorio tras el init" width="235" height="86" /></a><p class="wp-caption-text">Repositorio tras el init</p></div>
+<p style="text-align: justify;">¡Vamos a añadir ficheros a nuestro repositorio! Botón derecho en el proyecto &gt; Share Project, pero ahora aparece un menú con un montón de opciones. Seleccionamos Add. Esto añade los ficheros del proyecto al repositorio. Yo suelo añadir únicamente el código fuente, pero no los ajustes del proyecto, ni las carpetas propias de Eclipse, como muestro a continuación:</p>
+<div id="attachment_1528" style="width: 489px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/Add.png"><img class="size-full wp-image-1528" title="Añadamos ficheros al repo!" src="/wp-content/uploads/2011/06/Add.png" alt="Añadamos ficheros al repo!" width="479" height="519" srcset="/wp-content/uploads/2011/06/Add.png 479w, /wp-content/uploads/2011/06/Add-276x300.png 276w" sizes="(max-width: 479px) 100vw, 479px" /></a><p class="wp-caption-text">Añadamos ficheros al repo!</p></div>
+<p style="text-align: justify;">Ahora que hemos añadido, los iconos de los ficheros fuente cambian y tienen un «+» azul al lado. Están ya controlados por el repositorio, pero no hemos subido este cambio, que en este caso es subir la primera versión. Para ello, Team &gt; Share Project &gt; Commit y añadimos un mensaje de commit. HgEclipse nos muestra los ficheros que va a subir, y los que no tiene «controlados», por si queremos añadirlos.</p>
+<div id="attachment_1529" style="width: 640px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/Commit.png"><img class="size-full wp-image-1529" title="Commit" src="/wp-content/uploads/2011/06/Commit.png" alt="Commit" width="630" height="686" srcset="/wp-content/uploads/2011/06/Commit.png 630w, /wp-content/uploads/2011/06/Commit-275x300.png 275w" sizes="(max-width: 630px) 100vw, 630px" /></a><p class="wp-caption-text">Commit</p></div>
+<p style="text-align: justify;">Al pulsar OK, ¡listo!. Ya tenemos control de versiones funcionando. Ahora, si modificamos un fichero se nos mostrará como cambiado y podremos hacer un commit con esos cambios. O podremos compartir el código fuente del proyecto por la red con la opción Serve. Cualquiera en la red podrá hacer un Pull del repo y bajarse este código fuente. Mucho más rápido que compartir el proyecto en una carpeta SMB y encima evitas problemas con las configuraciones de Eclipse (yo lo uso en Mac y mis alumnos, normalmente, en Windows)</p>
+<p style="text-align: justify;">Las opciones del menú de Share Project son muy amplias. Os animo a irlas probando y a aprender Mercurial entre todos. El que tenga un truco especial de cómo usa Mercurial, ya sabe, que use los comentarios.</p>
+<pre>hg commit -m "post acabado"</pre>
+<pre>hg tag -m "v1.0"</pre>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1453" class="post-1453 post type-post status-publish format-standard hentry category-don-erre-que-erre category-geeks-freaks-nerds category-informatica category-java category-mac category-objectivec category-programacion tag-apple tag-batallitas tag-geek-freak-nerd tag-geeks tag-herramientas tag-informatica tag-productividad tag-trasteando tag-vmware tag-windows">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2011/04/05/una-manana-de-trabajo-cualquiera/" title="1:02 pm" rel="bookmark"><time class="entry-date" datetime="abril 5th, 2011">abril 5th, 2011</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2011/04/05/una-manana-de-trabajo-cualquiera/" title="Permalink to Una mañana de trabajo cualquiera" rel="bookmark">Una mañana de trabajo cualquiera</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p style="text-align: justify;">Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para <a href="http://freniche.com/wp/?page_id=4">mi querido Amstrad CPC 464</a> con el monitor fósforo verde, con su unidad de casetes. El único periférico que tenía era un Joystick. Y a usarlo. Pero veía en las películas a gente en países lejanos y extraños, en salas llenas de ordenadores.</p>
+<p style="text-align: justify;">Como el programador de Parque Jurásico (que, por supuesto, además de ser el malo, cobarde y torpe, estaba mal pagado y era gordo y feo). Por cierto, si veis de nuevo JP os llamarán la atención dos cosas: una, que están programando fumando, algo impensable en cualquier entorno de hoy en día. La otra, que el sistema de «bug tracking» que usan es una libreta donde van anotando los errores 🙂</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/RfiQYRn7fBg"><param name="movie" value="http://www.youtube.com/v/RfiQYRn7fBg"></param></object></div>
+</div>
+<p style="text-align: justify;">Volviendo al tema que me traía aquí, en esta mañana he comenzado <a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/">programando en C</a>, en el IDE Eclipse corriendo sobre Windows 7. Ese <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">Windows 7 está instalado en mi MBP</a>. Por si fuera poco frikismo, he usado el escritorio remoto de Windows para programar esos ejemplos en una ventana del iMac de 27&#8243;, que para eso tengo una pantalla grande. Mientras programaba iba actualizando la presentación de Keynote que acompaña al curso, en el iMac. Sonaba la música desde iTunes, donde estaba restaurando mi iPhone 3Gs con una copia de seguridad de ayer: mis niños han borrado algunas fotos en un descuido.</p>
+<p style="text-align: justify;">He terminado con C y me he pasado a WordPress. Arrancando una máquina virtual VMWare de <a href="http://bitnami.org/">Bitnami</a>, que ya tiene un entorno WP completo sobre Linux, me he dedicado a crear un nuevo sitio para migrar una vieja web que hice hace ya la tira en Typo3. Es decir, instala plugins, widgets, temas, escribe posts, importa información, etc.</p>
+<p style="text-align: justify;">Ahora toca pensar en el próximo curso de Java EE que tengo que impartir a finales de mes. Java, Servlets, EJBs, JBoss, Eclipse de nuevo (aunque ahora en su «sabor» Java). Tendré que ojear un libro, que tengo en formato CHM (formato típico de Windows en otra época). Y luego, un poco de Objective C para comenzar un proyecto iPad que me han encargado. Tengo cosas que leer de UML&#8230;</p>
+<p style="text-align: justify;">Es por este desbarajuste de trabajo que tengo, con tantas tecnologías, frameworks, lenguajes, herramientas y entornos distintos por lo que amo a mis dos Macs. Necesito ser anti-minimalista, ya que si lo fuera no podría hacer la mitad de las cosas que hago. Esta es la razón de haber <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">ampliado mi iMac a 12 GB de RAM</a>. Aún así, procuro no instalar nada si ya tengo una aplicación que hace más o menos lo mismo, que si no acabas con un montón de aplicaciones similares que no acabas de dominar en profundidad.</p>
+<p style="text-align: justify;">Bueno, sigo, que quiero ir terminando. Que no hace mucho me comentaron que a lo mejor tengo que aprender <a href="http://clipsrules.sourceforge.net/">CLIPS</a>&#8230; 🙂</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1050" class="post-1050 post type-post status-publish format-standard hentry category-informatica category-java category-programacion category-scjp tag-certificaciones tag-java tag-scjp tag-scwcd">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2010/06/25/scwcd-aprobado/" title="11:05 pm" rel="bookmark"><time class="entry-date" datetime="junio 25th, 2010">junio 25th, 2010</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2010/06/25/scwcd-aprobado/" title="Permalink to SCWCD aprobado!" rel="bookmark">SCWCD aprobado!</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p style="text-align: justify;">Un poco (más) de autobombo. <a href="/2010/06/09/preparando-el-scwcd/">Comentaba hace unos días</a> que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. Hoy, tras un par de semanas intensas y más sufrimiento del que esperaba, lo he aprobado con un 79%. Un poco raspado, ya que el aprobado está en el 70%, pero&#8230; está aprobado, ¿no?</p>
+<p style="text-align: justify;">Esta certificación se une al Sun Certified Java Programmer 1.5 y Sun Certified Business Component Developer 1.3 que ya tenía. Y, si todo va bien, a finales de Julio me presentaré al SCJP 1.6, para así tener estas cuatro certificaciones y poder cobrar mis horas a precio de <em>Gurú</em> :-). No, ahora en serio, voy a intentar aplicar estas certificaciones en algo que quiero preparar en los próximos meses. Permanezcan atentos a sus receptores&#8230;</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1036" class="post-1036 post type-post status-publish format-standard hentry category-emprendiendo category-informatica category-iphone category-java category-objectivec category-programacion tag-emprendiendo tag-iphone tag-java tag-libros">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2010/06/10/leyendo-para-emprender/" title="10:44 am" rel="bookmark"><time class="entry-date" datetime="junio 10th, 2010">junio 10th, 2010</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2010/06/10/leyendo-para-emprender/" title="Permalink to Leyendo para emprender" rel="bookmark">Leyendo para emprender</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p style="text-align: justify;"><img class="aligncenter size-full wp-image-1037" title="libros" src="/wp-content/uploads/2010/06/libros.jpg" alt="" width="399" height="600" srcset="/wp-content/uploads/2010/06/libros.jpg 399w, /wp-content/uploads/2010/06/libros-199x300.jpg 199w" sizes="(max-width: 399px) 100vw, 399px" />Cuando el año pasado en Octubre, <a href="/2009/11/29/iniciando-una-nueva-etapa/">decidí dejar Isotrol e iniciar una nueva etapa</a> en solitario programando apps para el iOS (el S.O. del iPhone, iPod Touch e iPad) tenía claro que no quería cometer viejos errores de mis anteriores etapas como empresario. Quería crecer y mejorar, como persona, como profesional y como emprendedor. Por ello me metí en Amazon y compré un conjunto de libros que tocan estos tres temas.</p>
+<p style="text-align: justify;">Pero claro, comprar los libros no es lo mismo que leerlos. Y leerlos no es lo mismo que comprenderlos. Y, en cualquier caso, lo importante, lo único importante de toda preparación, es aplicar lo aprendido. Leer, comprender, aceptar e interiorizar no son nada comparados con <strong>hacer</strong>. La parte más importante del Getting Thing Done es, precisamente, el Done.</p>
+<p>De momento, llevo leídos:</p>
+<ul>
+<li style="text-align: justify;"><a href="http://www.casadellibro.com/libro-gestiona-mejor-tu-vida-claves-y-habitos-para-ser-mas-productivo-/1486821/2900001342546?gclid=cn3-joiolaicfrg8laod8jaeea">Gestiona mejor tu vida</a>, de <a href="http://albertopena.com/libro/">Berto Pena</a>, librazo que recomiendo a cualquiera que sienta que no le llegan las horas al final del día.</li>
+<li style="text-align: justify;">The 4 hour workweek, un libro revolucionario por lo simple que te plantea cómo cambiar las cosas. Hay que leerlo dejándose retar por las nuevas ideas de Tim Ferriss y ser capaz de ser flexibles y responder al reto. Me lo recomendó Jaime Gallo y ha sido una revelación.</li>
+<li style="text-align: justify;">Beginning iPhone 3 Development ha sido mi primer libro de iPhone SDK, y me ha ayudado a preparar mis primeras Apps. He necesitado leerme también (en formato electrónico, no aparece en la foto) Learn Objective-C on the Mac, para tener una idea del lenguaje que está detrás de Cocoa Touch y no perderme. Este último me ha encantado, porque es muy académico y directo. Si sabes C, o Java, te explica las cosas con profundidad y sin mitos. Pero no te lleva de la manita, ni trata de suavizar según que cosas.</li>
+</ul>
+<p>Estoy ahora mismo con:</p>
+<ul>
+<li>Head First Servlets &amp; JSP, por aquello de <a href="/2010/06/09/preparando-el-scwcd/">prepararme el SCWCD</a>.</li>
+</ul>
+<p>Y luego vendrán:</p>
+<ul>
+<li>En Julio, SCJP 1.6 Study Guide.</li>
+<li>Y en Agosto &#8211; Septiembre, mezclaré los libros de Joel Spolsky y Micro ISV con el segundo del iPhone, iPhone SDK 3 Programming.</li>
+</ul>
+<p style="text-align: justify;">Por supuesto, seguiremos leyendo en blogs, en PDFs (algo del iPad habrá que mirar), etc. Es fundamental el estar permanentemente formándonos, revisando, mejorando (o intentándolo). Tener curiosidad y ganas de aprender es uno de los ingredientes de la salsa de la vida.</p>
+<p style="text-align: center;"><strong>¿Y tú? ¿Con qué libros andas ahora? ¿Me recomiendas alguno?</strong></p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1027" class="post-1027 post type-post status-publish format-standard hentry category-informatica category-java category-programacion category-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2010/06/09/preparando-el-scwcd/" title="10:28 am" rel="bookmark"><time class="entry-date" datetime="junio 9th, 2010">junio 9th, 2010</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2010/06/09/preparando-el-scwcd/" title="Permalink to Preparando el SCWCD" rel="bookmark">Preparando el SCWCD</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p style="text-align: justify;">
+<div id="attachment_1030" style="width: 510px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/interllectual/73657348/"><img class="size-full wp-image-1030" title="einstein" src="/wp-content/uploads/2010/06/einstein.jpg" alt="" width="500" height="375" srcset="/wp-content/uploads/2010/06/einstein.jpg 500w, /wp-content/uploads/2010/06/einstein-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><p class="wp-caption-text">Pulsa en la foto para ver al autor.</p></div>
+<p style="text-align: justify;">El <a href="http://in.sun.com/training/certification/java/scwcd.xml">Sun Certified Web Component Developer</a> es el examen de certificación de Sun sobre las tecnologías Servlet y JSP de Java EE. Me apetecía tenerlo, tras aprobar en 2008 el <a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/">SCJP</a> y el año pasado el <a href="/2009/02/05/scbcd-aprobado-tambien/">SCBCD</a>. Y en ello estoy ahora, estudiando de cara al día 25, cuando tendré que hacer el examen.</p>
+<p style="text-align: justify;">Para pasarlo, estoy usando el libro de Kathy Sierra, Bryan Basham y Bert Bates (de nuevo, esta gente sólo escribe libros) <a href="http://oreilly.com/catalog/9780596005405">Head First Servlets &amp; JSP</a>. No se si lo he comentado antes por aquí, pero me encantan los libros de la serie Head First. Con tantos dibujitos, fotos y chorradas, aprendes casi sin darte cuenta. Son efectivos, y ayudan a prepararse este examen con el mínimo sufrimiento. Un poco lo que siempre digo al empezar mis cursos: «aquí os vais a reír mucho e igual aprendéis algo».</p>
+<p style="text-align: justify;">Además del libro (y de tener los Vouchers para acceder al examen y apuntarte en la web de Prometric), es necesario probar con pequeños programitas Java los conceptos que aparecen en el libro. En mi caso, estoy abusando de mi pequeño <a href="/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/">Netbook con Ubuntu Netbook Remix</a>, al que le he instalado una versión portable de Java JDK 6 y Tomcat y que llevo a todas partes para repasar. Otra de las herramientas importantes que estoy usando es un mapa mental de la certificación SCWCD creado con XMind, que retoco en Linux y en mi MacBook Pro. Es un work-in-progress, pero podéis verlo en:</p>
+<p><a href="http://www.xmind.net/share/dfreniche/">http://www.xmind.net/share/dfreniche/</a></p>
+<p>Y, por supuesto, ya me he comprado el simulador del examen de <a href="http://enthuware.com/web/">Enthuware</a>. Espero que, como en las dos anteriores ocasiones, me ayude a aprobar.</p>
+<p>Ya os contaré si apruebo. Si no, me callaré como una pu&#8230;erta 🙂</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-334" class="post-334 post type-post status-publish format-standard hentry category-informatica category-java category-mac tag-xmind">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2009/03/15/problemas-con-xmind-workaround-encontrado/" title="10:39 pm" rel="bookmark"><time class="entry-date" datetime="marzo 15th, 2009">marzo 15th, 2009</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2009/03/15/problemas-con-xmind-workaround-encontrado/" title="Permalink to Problemas con XMind: workaround encontrado" rel="bookmark">Problemas con XMind: workaround encontrado</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p align="justify">Ya he comentado por aquí antes que uso los mapas mentales a menudo para organizar mis ideas. Y los uso para todo. Uno de ellos, que se está volviendo enorme, es el que uso para organizar mis proyectos de «retro-informática». Que si comprar una compact-flash para usarla como disco duro en un Amiga 600, que si montar una disquetera de 5&#8243;1/4, esas cosas.</p>
+<p align="justify">Pues XMind me ha dejado de funcionar en mi Mac. Y no me preguntéis porqué, porque no tengo ni idea de la causa raíz del problema. No se si será haber instalado el SDK para el iPhone, o haber trasteado cosas para prepararme el SCJP / SCBCD, el caso es que XMind ahora no me funciona. Al ser un programa Java, he buscado si dejaba algún log y el error que me aparece es: «No application id has been found». Después de Googlear un rato, parece que este problema se origina cuando Eclipse (o alguna de sus bibliotecas) no está bien instalado.</p>
+<p align="justify">Sea como sea, necesito que XMind funcione, y he localizado una solución temporal válida. En la web de XMind podemos descargar una versión Mac (un DMG) y una versión «portable». Me he bajado la versión portable y he copiado en la carpeta Aplicaciones de mi Mac las carpetas «XMind for Mac OS X», donde está el ejecutable, y «Commons», que es donde están las bibliotecas de Eclipse que antes no se encontraban. Mano de Santo. Ahora puedo seguir con mis mapas, que es lo que me urge. La solución definitiva, la publicaré si la encuentro.</p>
+<p align="justify">Os dejo con el mapa de mis retro-máquinas, que está en constante cambio 🙂</p>
+<p align="justify"><a href="/wp-content/uploads/2009/03/mismaquinas.png" title="Mapa mental de mis máquinas"><img src="/wp-content/uploads/2009/03/mismaquinas.thumbnail.png" alt="Mapa mental de mis máquinas" /></a></p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-330" class="post-330 post type-post status-publish format-standard hentry category-java category-programacion category-scjp tag-java tag-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/" title="3:57 pm" rel="bookmark"><time class="entry-date" datetime="marzo 1st, 2009">marzo 1st, 2009</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/" title="Permalink to Ya ha pasado el mes de descanso mental" rel="bookmark">Ya ha pasado el mes de descanso mental</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p align="justify">Cuando <a href="/2009/02/05/scbcd-aprobado-tambien/trackback/">aprobé el SCBCD</a>, el pasado Enero, terminé con el cerebro como si tuviera a <a href="http://es.wikipedia.org/wiki/Enfermedad_de_Creutzfeldt-Jakob">Bob Esponja</a> en lugar de meninges. Decidí darme un mes para recuperar la temperatura de funcionamiento normal de mi cabeza. Ese mes ha pasado, y hoy voy a empezar con el SCWCD. Otra sopa de letras. Esta es la certificación de Java EE sobre Servlets y JSP, y alguna tecnología web más.</p>
+<p align="justify">No tengo ni idea de cuándo me voy a presentar. Esta vez quiero dedicar un mes a leerme el libro y, cuando lo tenga visto, hacer exámenes de prueba tranquilamente. Y luego presentarme.</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+			
+	<nav role="navigation" id="nav-below" class="navigation-paging">
+		<div id="nav-below-separator">
+			<h1 class="assistive-text">Post navigation</h1>
+
+		
+							<div class="previous previous_total">
+									<a href="/category/informatica/programacion/java/scjp/que-me-interesa/java/scjp/que-me-interesa/java/page/2/que-me-interesa/java/scjp/que-me-interesa/java/page/2/que-me-interesa/java/page/2/" ><span class="meta-nav"></span>Older posts</a>								</div>
+
+				<div class="total">1 <span>of</span> 2</div>
+
+				<div class="next next_total">
+								</div>
+							</div>
+	</nav><!-- #nav-below -->
+	
+		
+		</div><!-- #content -->
+	</section><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search" class="widget widget_search">
+				<form method="get" id="searchform" class="searchform" action="/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" id="searchsubmit" value="Search" />
+	</form>
+		</aside>
+	</div><!-- #secondary -->
+
+	</div><!-- #main -->
+</div><!-- #page -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div id="footer-wrapper">
+		<div class="site-info">
+			<div id="site-info-wrapper">
+				<div id="site-info-wrapper2">
+										&#169; Copyright 2014 <a href="/">freniche.com</a>. Powered By <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">WordPress</a>.
+					<br />
+					Designed & Crafted by <a href="http://wpshower.com/">Wpshower</a>.
+				</div>
+			</div>
+		</div><!-- .site-info -->
+		<div id="social">
+			<div id="social_wrapper">
+				<div id="social_wrapper2">
+						<a href="https://twitter.com/dfreniche">w</a>
+						<a href="http://feeds.feedburner.com/dfreniche">r</a>
+					</div>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+
+<link rel='stylesheet' id='wp-markdown-prettify-css'  href='/wp-content/plugins/wp-markdown/css/prettify.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"es-ES","strings":{"Close":"Cerrar","Fullscreen":"Pantalla completa","Turn off Fullscreen":"Salir de pantalla completa","Go Fullscreen":"Ver en pantalla completa","Download File":"Descargar archivo","Download Video":"Descargar v\u00eddeo","Play":"Reproducir","Pause":"Pausa","Captions\/Subtitles":"Pies de foto \/ Subt\u00edtulos","None":"Ninguno","Time Slider":"Control de tiempo","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Reproductor de v\u00eddeo","Audio Player":"Reproductor de audio","Volume Slider":"Control de volumen","Mute Toggle":"Desactivar sonido","Unmute":"Activar sonido","Mute":"Silenciar","Use Up\/Down Arrow keys to increase or decrease volume.":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.13'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/wpshower-responsive-videos.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery.mousewheel.js?ver=3.1.6'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/fancybox/jquery.fancybox.js?ver=3b1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/prettify.min.js?ver=1.5.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/markdown.min.js?ver=1.5.1'></script>
+
+</body>
+</html>

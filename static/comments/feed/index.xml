@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios para freniche.com</title>
+	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Comentario en Configurando la tarjeta de red en Linux por JAVIER MORALES</title>
+		<link>/articulos/configurando-la-tarjeta-de-red-en-linux/comment-page-1/#comment-613942</link>
+		<dc:creator><![CDATA[JAVIER MORALES]]></dc:creator>
+		<pubDate>Thu, 29 Jun 2017 14:51:35 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/?page_id=12#comment-613942</guid>
+		<description><![CDATA[estimado:
+esta Lineas (#) comentada  pero o debe haber una puerta de enlace o pasaralea:
+#ADRESS 192.168.0.10
+#NETMASK 255.255.255.0
+#NETWORK 192.168.0.1
+Las puedes cambiar  y quitar el # y editar tu nueva ip
+ejemplo:
+ADRESS 172.20.0.225            (dirección IP)
+NETMASK 255.255.255.0    ( mascara)
+NETWORK 172.20.0.0    
+GATEWAY 172.20.0.1         (pasaralela)
+-----
+.....]]></description>
+		<content:encoded><![CDATA[<p>estimado:<br />
+esta Lineas (#) comentada  pero o debe haber una puerta de enlace o pasaralea:<br />
+#ADRESS 192.168.0.10<br />
+#NETMASK 255.255.255.0<br />
+#NETWORK 192.168.0.1<br />
+Las puedes cambiar  y quitar el # y editar tu nueva ip<br />
+ejemplo:<br />
+ADRESS 172.20.0.225            (dirección IP)<br />
+NETMASK 255.255.255.0    ( mascara)<br />
+NETWORK 172.20.0.0<br />
+GATEWAY 172.20.0.1         (pasaralela)<br />
+&#8212;&#8211;<br />
+&#8230;..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Configurando la tarjeta de red en Linux por dfreniche</title>
+		<link>/articulos/configurando-la-tarjeta-de-red-en-linux/comment-page-1/#comment-613834</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 24 May 2017 11:30:14 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/?page_id=12#comment-613834</guid>
+		<description><![CDATA[Hola Mario
+
+Probablemente no te sirva ya, pero el # significa que esa línea está comentada, es decir, que no se tiene en cuenta.
+
+Hace años que no uso Linux activamente, así que probablemente sea mejor buscar algún tutorial en video por la red.]]></description>
+		<content:encoded><![CDATA[<p>Hola Mario</p>
+<p>Probablemente no te sirva ya, pero el # significa que esa línea está comentada, es decir, que no se tiene en cuenta.</p>
+<p>Hace años que no uso Linux activamente, así que probablemente sea mejor buscar algún tutorial en video por la red.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Configurando la tarjeta de red en Linux por MARIO ORTIZ</title>
+		<link>/articulos/configurando-la-tarjeta-de-red-en-linux/comment-page-1/#comment-613716</link>
+		<dc:creator><![CDATA[MARIO ORTIZ]]></dc:creator>
+		<pubDate>Sat, 29 Apr 2017 16:28:39 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/?page_id=12#comment-613716</guid>
+		<description><![CDATA[HOLA INTERESANTE ARTICULO. TENGO UNA DUDA AL MOMENTO DE QUERER CONFIGURAR MI TARJETA COMO TU SUGIERES ME APAERECE ALGO ASI:
+
+#THE LOOPBACK.........
+AUTO LO
+IFACE LO INET.........
+#IFACE ETH0 INET STATIC
+#ADRESS 192.168.0.10
+#NETMASK 255.255.255.0
+#NETWORK 192.168.0.1
+
+MIS DUDAS  AQUI SON 
+ EL SIMBOLO # LO BORRO  ?
+ESTE SIMBOLO QUE SIGNIFICA?
+GRACIAS.]]></description>
+		<content:encoded><![CDATA[<p>HOLA INTERESANTE ARTICULO. TENGO UNA DUDA AL MOMENTO DE QUERER CONFIGURAR MI TARJETA COMO TU SUGIERES ME APAERECE ALGO ASI:</p>
+<p>#THE LOOPBACK&#8230;&#8230;&#8230;<br />
+AUTO LO<br />
+IFACE LO INET&#8230;&#8230;&#8230;<br />
+#IFACE ETH0 INET STATIC<br />
+#ADRESS 192.168.0.10<br />
+#NETMASK 255.255.255.0<br />
+#NETWORK 192.168.0.1</p>
+<p>MIS DUDAS  AQUI SON<br />
+ EL SIMBOLO # LO BORRO  ?<br />
+ESTE SIMBOLO QUE SIGNIFICA?<br />
+GRACIAS.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Los dos tipos de negocio de desarrollo de software por Profesor Ezequiel Ruiz Garcia</title>
+		<link>/2010/11/06/los-dos-tipos-de-negocio-de-desarrollo-de-software/comment-page-1/#comment-613370</link>
+		<dc:creator><![CDATA[Profesor Ezequiel Ruiz Garcia]]></dc:creator>
+		<pubDate>Sun, 08 Jan 2017 07:52:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1197#comment-613370</guid>
+		<description><![CDATA[[&#8230;] Los dos tipos de negocio de desarrollo de software [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Los dos tipos de negocio de desarrollo de software [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Mi rutina diaria de trabajo por Daily Routine Authentic Resources &#124; Maris Hawkins</title>
+		<link>/2014/02/06/mi-rutina-diaria-de-trabajo/comment-page-1/#comment-612663</link>
+		<dc:creator><![CDATA[Daily Routine Authentic Resources &#124; Maris Hawkins]]></dc:creator>
+		<pubDate>Thu, 06 Oct 2016 18:36:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1885#comment-612663</guid>
+		<description><![CDATA[[&#8230;] is longer, but I would start with the second part which are the details of this blogger&#8217;s [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] is longer, but I would start with the second part which are the details of this blogger&#8217;s [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Comprando un Amiga 1200 por dfreniche</title>
+		<link>/retrocomputing/el-rincon-del-amiga-1200/comprando-un-amiga-1200/comment-page-1/#comment-612631</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 12 Sep 2016 14:59:23 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/comprando-un-amiga-1200/#comment-612631</guid>
+		<description><![CDATA[No se cómo se ha colado este comentario, ya que en teoría los había desactivado :-D
+
+Es cierto, los Amiga son la pera. Si puedes conseguir un Amiga 1200 o 600, tendrán un precio razonable y podrás pasar software fácilmente usando un adaptador PCMCIA y una tarjeta Compact Flash. Con el 500 vas a tener que trabajar más :-D]]></description>
+		<content:encoded><![CDATA[<p>No se cómo se ha colado este comentario, ya que en teoría los había desactivado 😀</p>
+<p>Es cierto, los Amiga son la pera. Si puedes conseguir un Amiga 1200 o 600, tendrán un precio razonable y podrás pasar software fácilmente usando un adaptador PCMCIA y una tarjeta Compact Flash. Con el 500 vas a tener que trabajar más 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Comprando un Amiga 1200 por Iñigo</title>
+		<link>/retrocomputing/el-rincon-del-amiga-1200/comprando-un-amiga-1200/comment-page-1/#comment-612629</link>
+		<dc:creator><![CDATA[Iñigo]]></dc:creator>
+		<pubDate>Sat, 10 Sep 2016 21:17:57 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/comprando-un-amiga-1200/#comment-612629</guid>
+		<description><![CDATA[Hola,
+Estoy alucinando!!! ¿Tanto se puede hacer con un Amiga? Yo estoy buscando un 500, creo, porque en su día no llegué a tener ninguno, fui usuario de MSX y de ahí a PC.
+Gracias]]></description>
+		<content:encoded><![CDATA[<p>Hola,<br />
+Estoy alucinando!!! ¿Tanto se puede hacer con un Amiga? Yo estoy buscando un 500, creo, porque en su día no llegué a tener ninguno, fui usuario de MSX y de ahí a PC.<br />
+Gracias</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en La gran golfada de Samsung por La gran golfada de Samsung &#8211; Emilcar Blog</title>
+		<link>/2014/06/16/la-gran-golfada-de-samsung/comment-page-1/#comment-612520</link>
+		<dc:creator><![CDATA[La gran golfada de Samsung &#8211; Emilcar Blog]]></dc:creator>
+		<pubDate>Thu, 30 Jun 2016 11:25:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2198#comment-612520</guid>
+		<description><![CDATA[[&#8230;] La gran golfada de Samsung &#8211; Diego Freniche [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] La gran golfada de Samsung &#8211; Diego Freniche [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Fraudismo 101 &#8211; Here be dragons por We.Developers 040 &#8211; Como ser desarrollador (y no morir en el intento) &#124; We.Developers</title>
+		<link>/2015/08/27/fraudismo-101-here-be-dragons/comment-page-1/#comment-608779</link>
+		<dc:creator><![CDATA[We.Developers 040 &#8211; Como ser desarrollador (y no morir en el intento) &#124; We.Developers]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2015 21:44:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2679#comment-608779</guid>
+		<description><![CDATA[[&#8230;] Here be Dragons [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Here be Dragons [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en El agobio de repuesto por We.Developers 040 &#8211; Como ser desarrollador (y no morir en el intento) &#124; We.Developers</title>
+		<link>/2015/07/23/el-agobio-de-repuesto/comment-page-1/#comment-608778</link>
+		<dc:creator><![CDATA[We.Developers 040 &#8211; Como ser desarrollador (y no morir en el intento) &#124; We.Developers]]></dc:creator>
+		<pubDate>Thu, 24 Sep 2015 21:44:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2640#comment-608778</guid>
+		<description><![CDATA[[&#8230;] El agobio de repuesto [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] El agobio de repuesto [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Fraudismo 101 &#8211; enseñar las vergüenzas por We.Developers 040 &#8211; Como ser desarrollador (y no morir en el intento) &#124; We.Developers</title>
+		<link>/2015/08/11/fraudismo-101-ensenar-las-verguenzas/comment-page-1/#comment-607003</link>
+		<dc:creator><![CDATA[We.Developers 040 &#8211; Como ser desarrollador (y no morir en el intento) &#124; We.Developers]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2015 06:32:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2675#comment-607003</guid>
+		<description><![CDATA[[&#8230;] Enseñar las vergüenzas [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Enseñar las vergüenzas [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Mis entradas favoritas por We.Developers 040 &#8211; Como ser desarrollador (y no morir en el intento) &#124; We.Developers</title>
+		<link>/mis-entradas-favoritas/comment-page-1/#comment-607002</link>
+		<dc:creator><![CDATA[We.Developers 040 &#8211; Como ser desarrollador (y no morir en el intento) &#124; We.Developers]]></dc:creator>
+		<pubDate>Thu, 03 Sep 2015 06:32:31 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=2665#comment-607002</guid>
+		<description><![CDATA[[&#8230;] de la excelente serie de artículos “Fraudismo 101” de Diego Freniche, repasamos con el propio Diego muchas de las características particulares de [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] de la excelente serie de artículos “Fraudismo 101” de Diego Freniche, repasamos con el propio Diego muchas de las características particulares de [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en El lamentable estado de las herramientas de desarrollo Android por Carlos</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-525195</link>
+		<dc:creator><![CDATA[Carlos]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2014 00:32:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-525195</guid>
+		<description><![CDATA[Yo después de 2 semanas no he conseguido hacer un Hola mundo en android,lo que toy intentando hacer es algo de domotica,con el pc y xubuntu  y netbeans,en poco tiempo he conseguido una ventanita con botones que al pulsarlo manda comandos por tcp a un microcontrolador stm32f4,, enciende bombilla, apaga bombilla, ect,......... Bien pues pienso vamos al table y el móvil,  primero pruebo eclipse,lo he instalado, de todas las maneras posibles,y sin tocar nada,errores,como voy a seguir si ya empiesa mal,total que las 25 soluciones que dan en los foros no me funcionan,al final paso a android Studio, llevo cuatro días y lo mismo,errores sin tocar nada,sé suponía que lo gordo del invento era hacer funcionar el stm32, que tiene guasa la cosa,pues no lo más complejo es hacer un Hola mundo en android,creo que al que le funciona será por que tiene verciones antiguas o yo que se,porque, como solución ponen darle al clean y recopila, juas, pon la version actual, ponla en mi sistema operativo,y en un pc como el mío y darle tu al clean haber si se arregla,voy a parar, y la opción del table o el móvil lo dejaré para otro momento,.....]]></description>
+		<content:encoded><![CDATA[<p>Yo después de 2 semanas no he conseguido hacer un Hola mundo en android,lo que toy intentando hacer es algo de domotica,con el pc y xubuntu  y netbeans,en poco tiempo he conseguido una ventanita con botones que al pulsarlo manda comandos por tcp a un microcontrolador stm32f4,, enciende bombilla, apaga bombilla, ect,&#8230;&#8230;&#8230; Bien pues pienso vamos al table y el móvil,  primero pruebo eclipse,lo he instalado, de todas las maneras posibles,y sin tocar nada,errores,como voy a seguir si ya empiesa mal,total que las 25 soluciones que dan en los foros no me funcionan,al final paso a android Studio, llevo cuatro días y lo mismo,errores sin tocar nada,sé suponía que lo gordo del invento era hacer funcionar el stm32, que tiene guasa la cosa,pues no lo más complejo es hacer un Hola mundo en android,creo que al que le funciona será por que tiene verciones antiguas o yo que se,porque, como solución ponen darle al clean y recopila, juas, pon la version actual, ponla en mi sistema operativo,y en un pc como el mío y darle tu al clean haber si se arregla,voy a parar, y la opción del table o el móvil lo dejaré para otro momento,&#8230;..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Los ideístas por Jose C. Agudo Montero</title>
+		<link>/2014/09/12/los-ideistas/comment-page-1/#comment-513594</link>
+		<dc:creator><![CDATA[Jose C. Agudo Montero]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 11:34:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2243#comment-513594</guid>
+		<description><![CDATA[Que razón tienes Diego. Como dice Fernando Savater &quot;Si haces gratis lo que te gusta al final tendrás que hacer lo que no te gusta para poder comer.&quot;
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Que razón tienes Diego. Como dice Fernando Savater «Si haces gratis lo que te gusta al final tendrás que hacer lo que no te gusta para poder comer.»</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comentario en Formación por Ramiro</title>
+		<link>/formacion/comment-page-1/#comment-513495</link>
+		<dc:creator><![CDATA[Ramiro]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 08:20:32 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=1022#comment-513495</guid>
+		<description><![CDATA[Si has llegado a leer hasta aquí hay dos posibilidades.
+a) te pica la curiosidad. Quieres mejorar tus habilidades en desarrollo con Java o iOS. No lo dudes. Especialmente lo seguro que hará feliz.
+b) buscas  un formador/capacitador/instigador. No busques más. Diego es la persona que necesitas. No leas más, estás perdiendo tiempo y dinero.]]></description>
+		<content:encoded><![CDATA[<p>Si has llegado a leer hasta aquí hay dos posibilidades.<br />
+a) te pica la curiosidad. Quieres mejorar tus habilidades en desarrollo con Java o iOS. No lo dudes. Especialmente lo seguro que hará feliz.<br />
+b) buscas  un formador/capacitador/instigador. No busques más. Diego es la persona que necesitas. No leas más, estás perdiendo tiempo y dinero.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

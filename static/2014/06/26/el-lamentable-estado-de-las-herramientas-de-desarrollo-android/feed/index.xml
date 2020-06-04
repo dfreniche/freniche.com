@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: El lamentable estado de las herramientas de desarrollo Android</title>
+	<atom:link href="/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Carlos</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-525195</link>
+		<dc:creator><![CDATA[Carlos]]></dc:creator>
+		<pubDate>Sat, 20 Sep 2014 00:32:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-525195</guid>
+		<description><![CDATA[Yo después de 2 semanas no he conseguido hacer un Hola mundo en android,lo que toy intentando hacer es algo de domotica,con el pc y xubuntu  y netbeans,en poco tiempo he conseguido una ventanita con botones que al pulsarlo manda comandos por tcp a un microcontrolador stm32f4,, enciende bombilla, apaga bombilla, ect,......... Bien pues pienso vamos al table y el móvil,  primero pruebo eclipse,lo he instalado, de todas las maneras posibles,y sin tocar nada,errores,como voy a seguir si ya empiesa mal,total que las 25 soluciones que dan en los foros no me funcionan,al final paso a android Studio, llevo cuatro días y lo mismo,errores sin tocar nada,sé suponía que lo gordo del invento era hacer funcionar el stm32, que tiene guasa la cosa,pues no lo más complejo es hacer un Hola mundo en android,creo que al que le funciona será por que tiene verciones antiguas o yo que se,porque, como solución ponen darle al clean y recopila, juas, pon la version actual, ponla en mi sistema operativo,y en un pc como el mío y darle tu al clean haber si se arregla,voy a parar, y la opción del table o el móvil lo dejaré para otro momento,.....]]></description>
+		<content:encoded><![CDATA[<p>Yo después de 2 semanas no he conseguido hacer un Hola mundo en android,lo que toy intentando hacer es algo de domotica,con el pc y xubuntu  y netbeans,en poco tiempo he conseguido una ventanita con botones que al pulsarlo manda comandos por tcp a un microcontrolador stm32f4,, enciende bombilla, apaga bombilla, ect,&#8230;&#8230;&#8230; Bien pues pienso vamos al table y el móvil,  primero pruebo eclipse,lo he instalado, de todas las maneras posibles,y sin tocar nada,errores,como voy a seguir si ya empiesa mal,total que las 25 soluciones que dan en los foros no me funcionan,al final paso a android Studio, llevo cuatro días y lo mismo,errores sin tocar nada,sé suponía que lo gordo del invento era hacer funcionar el stm32, que tiene guasa la cosa,pues no lo más complejo es hacer un Hola mundo en android,creo que al que le funciona será por que tiene verciones antiguas o yo que se,porque, como solución ponen darle al clean y recopila, juas, pon la version actual, ponla en mi sistema operativo,y en un pc como el mío y darle tu al clean haber si se arregla,voy a parar, y la opción del table o el móvil lo dejaré para otro momento,&#8230;..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Ray</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-485788</link>
+		<dc:creator><![CDATA[Ray]]></dc:creator>
+		<pubDate>Wed, 27 Aug 2014 04:05:13 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-485788</guid>
+		<description><![CDATA[Por cosas como esas me cambie a .Net, solo toco java cuando me piden algo muy especifico, pero creo que es hora de un cambio. Tienes mucha razon  sobre todo en la probreza de los ide&#039;s. Intellij Idea es lo mas lento que he usado en mi vida, Eclipse de vez en vez suelta sus errores garrafales y bueno ahora tenemos la aberracion de Android Studio.
+Microsoft bien es cierto que es propietario y son una sola plataforma tambien es muy incierto que alguien paga por tener Vs instalado en su PC. En cuanto a licencias dejen que las empresas se encarguen de eso, nosotros somos desarrolladores.]]></description>
+		<content:encoded><![CDATA[<p>Por cosas como esas me cambie a .Net, solo toco java cuando me piden algo muy especifico, pero creo que es hora de un cambio. Tienes mucha razon  sobre todo en la probreza de los ide&#8217;s. Intellij Idea es lo mas lento que he usado en mi vida, Eclipse de vez en vez suelta sus errores garrafales y bueno ahora tenemos la aberracion de Android Studio.<br />
+Microsoft bien es cierto que es propietario y son una sola plataforma tambien es muy incierto que alguien paga por tener Vs instalado en su PC. En cuanto a licencias dejen que las empresas se encarguen de eso, nosotros somos desarrolladores.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: MAMISHO</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-465743</link>
+		<dc:creator><![CDATA[MAMISHO]]></dc:creator>
+		<pubDate>Fri, 15 Aug 2014 09:11:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-465743</guid>
+		<description><![CDATA[hola, hace tiempo que no entraba en este blog, que por sierro es muy bueno, si no que no he tenido tiempo por el trabajo, la universidad y mejor dicho la vida misma.
+
+En cuanto al caso expuesto, es verdad, el ADT bundle de google no es de color de rosas, lo he probado, y siempre tengo problemas, y es verdad que en comparación con herramientas de desarrollo de iOs y recientemente con webOS TV no tienen nada que ver. lo he probado en windows, ubuntu y mac, y siempre es lo mismo. Espero que google se tome esto enserio porque es una mapa pasada para los desarrolladores.
+
+En cuanto a webOS veo que también usa una ADT con eclipse portable, y sorpresa, todo funciona a la primera, y le noto mas liviana que la de android, también es cierto que la de android debe de tener plugins a reventar por el tema del número de dispositivos y emuladores que soporta, pero creo que se puede hacer un mejor trabajo. LG lo ha logrado con webOS aunque me siento mas comido editando en sublime y depurando en el terminal. Una de las cosas que me gustó de LG es que ha creado un paquete adicional para poder ejecutar las apps de webOS desde el sublime. Ojalá google vaya por el mismo camino.]]></description>
+		<content:encoded><![CDATA[<p>hola, hace tiempo que no entraba en este blog, que por sierro es muy bueno, si no que no he tenido tiempo por el trabajo, la universidad y mejor dicho la vida misma.</p>
+<p>En cuanto al caso expuesto, es verdad, el ADT bundle de google no es de color de rosas, lo he probado, y siempre tengo problemas, y es verdad que en comparación con herramientas de desarrollo de iOs y recientemente con webOS TV no tienen nada que ver. lo he probado en windows, ubuntu y mac, y siempre es lo mismo. Espero que google se tome esto enserio porque es una mapa pasada para los desarrolladores.</p>
+<p>En cuanto a webOS veo que también usa una ADT con eclipse portable, y sorpresa, todo funciona a la primera, y le noto mas liviana que la de android, también es cierto que la de android debe de tener plugins a reventar por el tema del número de dispositivos y emuladores que soporta, pero creo que se puede hacer un mejor trabajo. LG lo ha logrado con webOS aunque me siento mas comido editando en sublime y depurando en el terminal. Una de las cosas que me gustó de LG es que ha creado un paquete adicional para poder ejecutar las apps de webOS desde el sublime. Ojalá google vaya por el mismo camino.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-427309</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 13:17:07 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-427309</guid>
+		<description><![CDATA[Hola Iñaki,
+
+Ese post se escribió durante la I/O, antes de que salieran los vídeos de las sesiones. En la Keynote, nada de nada. Y después, has podido reunir 5 vídeos. Comparado con las sesiones de la última WWDC (la otra plataforma con la que trabajo habitualmente, y con la que es normal comparar) esto es nada. Que está bien que saquen algo. Pero me sigue pareciendo poco para la importancia de Android como plataforma. De nuevo, espero más de Google y veo falta de compromiso.
+
+Gradle se puede optimizar &quot;si ya sabes Gradle&quot;. En mi opinión, si cambias de herramienta y obligas a los devs Android a migrar a tu nueva herramienta, es tu responsabilidad facilitar esa migración con información, vídeos y, sobre todo, un Gradle que venga &quot;optimizado&quot; de serie. ¿Tan complicado es crear una descarga de un trillón de GB con todo lo necesario para descargar y que todo funcione sin complicaciones? Quien quiera optimizar puede hacerlo &quot;a mano&quot;, y quien sólo quiera hacer su trabajo y no &quot;pelearse&quot; con los inventos de Google, igual sale ganando.
+
+Por supuesto, no hablemos del millón de cosas que le faltan a AS como un diseñador de layouts visual, o que soporte el NDK, o que saquen una versión mayor con un ciclo que no sea bianual, etc. No, Google sigue sin echar toda la carne en el asador. Como siempre.]]></description>
+		<content:encoded><![CDATA[<p>Hola Iñaki,</p>
+<p>Ese post se escribió durante la I/O, antes de que salieran los vídeos de las sesiones. En la Keynote, nada de nada. Y después, has podido reunir 5 vídeos. Comparado con las sesiones de la última WWDC (la otra plataforma con la que trabajo habitualmente, y con la que es normal comparar) esto es nada. Que está bien que saquen algo. Pero me sigue pareciendo poco para la importancia de Android como plataforma. De nuevo, espero más de Google y veo falta de compromiso.</p>
+<p>Gradle se puede optimizar «si ya sabes Gradle». En mi opinión, si cambias de herramienta y obligas a los devs Android a migrar a tu nueva herramienta, es tu responsabilidad facilitar esa migración con información, vídeos y, sobre todo, un Gradle que venga «optimizado» de serie. ¿Tan complicado es crear una descarga de un trillón de GB con todo lo necesario para descargar y que todo funcione sin complicaciones? Quien quiera optimizar puede hacerlo «a mano», y quien sólo quiera hacer su trabajo y no «pelearse» con los inventos de Google, igual sale ganando.</p>
+<p>Por supuesto, no hablemos del millón de cosas que le faltan a AS como un diseñador de layouts visual, o que soporte el NDK, o que saquen una versión mayor con un ciclo que no sea bianual, etc. No, Google sigue sin echar toda la carne en el asador. Como siempre.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Iñaki</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-427234</link>
+		<dc:creator><![CDATA[Iñaki]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 11:03:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-427234</guid>
+		<description><![CDATA[Respecto a :
+&quot;Y, por cierto ¿en qué parte de I/O se está hablando de las mejoras del lenguaje, IDE o compilador, más allá de ART?&quot;
+
+https://www.youtube.com/watch?v=3TtVsy98ces
+https://www.youtube.com/watch?v=hu4U8XKmJGA
+https://www.youtube.com/watch?v=KBhOkfbbZLk
+https://www.youtube.com/watch?v=97SWYiRtF0Y
+https://www.youtube.com/watch?v=KzSKIpJepUw
+
+Algunos de los argumentos que expones tienes toda la razón(java 6 :( ), pero la integración de IJ/AS con Gradle me encanta y personalmente creo es una mejora brutal en cuanto a productividad, los tiempos de compilación son menores que eclipse+ant]]></description>
+		<content:encoded><![CDATA[<p>Respecto a :<br />
+«Y, por cierto ¿en qué parte de I/O se está hablando de las mejoras del lenguaje, IDE o compilador, más allá de ART?»</p>
+<p><a href="https://www.youtube.com/watch?v=3TtVsy98ces" rel="nofollow">https://www.youtube.com/watch?v=3TtVsy98ces</a><br />
+<a href="https://www.youtube.com/watch?v=hu4U8XKmJGA" rel="nofollow">https://www.youtube.com/watch?v=hu4U8XKmJGA</a><br />
+<a href="https://www.youtube.com/watch?v=KBhOkfbbZLk" rel="nofollow">https://www.youtube.com/watch?v=KBhOkfbbZLk</a><br />
+<a href="https://www.youtube.com/watch?v=97SWYiRtF0Y" rel="nofollow">https://www.youtube.com/watch?v=97SWYiRtF0Y</a><br />
+<a href="https://www.youtube.com/watch?v=KzSKIpJepUw" rel="nofollow">https://www.youtube.com/watch?v=KzSKIpJepUw</a></p>
+<p>Algunos de los argumentos que expones tienes toda la razón(java 6 🙁 ), pero la integración de IJ/AS con Gradle me encanta y personalmente creo es una mejora brutal en cuanto a productividad, los tiempos de compilación son menores que eclipse+ant</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: El lamentable estado de las herramientas de desarrollo Android</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-427192</link>
+		<dc:creator><![CDATA[El lamentable estado de las herramientas de desarrollo Android]]></dc:creator>
+		<pubDate>Wed, 23 Jul 2014 10:31:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-427192</guid>
+		<description><![CDATA[[&#8230;] El lamentable estado de las herramientas de desarrollo Android  [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] El lamentable estado de las herramientas de desarrollo Android  [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Manuel Alejandro</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-411600</link>
+		<dc:creator><![CDATA[Manuel Alejandro]]></dc:creator>
+		<pubDate>Tue, 15 Jul 2014 07:59:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-411600</guid>
+		<description><![CDATA[¡¡¡Fanboy de Apple!!! XD. Ejem, pues sí, es cierto que es un tema que me preocupa, aún no he desarrollado nada en serio para Android, porque nada más que bajarse los sdk son una pesadilla, cientos de ellos, los propios de Google y los de las distintas marcas, fabricantes de GPUS, CPUS. Parece que Google no entiende que la gente desarrolla apps para ganar dinero, no por hobby.
+Yo ayer tuve un debate sobre porqué razón aprendí a desarrollar cosas para iOS, cuando hay que pagar una anualidad y todo eso. Pues por un lado, sus herramientas de desarrollo son una maravilla y segundo, a los usuarios de iOS los han educado para que sepan que las aplicaciones cuestan dinero. Yo prefiero mil veces pillarme Ridge Racer SlipStream a 5€ que pillarlo gratis y tener que pagar por mejoras en los vehículos, primero porque me siento un rata y por aplicaciones que me gustan no me importa pagar y segundo porque es la única forma de que esto siga adelante. Claro, aplicaciones gratis, con la publicidad consigues el beneficio, App gratis + Publicidad + Google. ¿Quién va a ganar ahí realmente?.
+
+Un saludo.]]></description>
+		<content:encoded><![CDATA[<p>¡¡¡Fanboy de Apple!!! XD. Ejem, pues sí, es cierto que es un tema que me preocupa, aún no he desarrollado nada en serio para Android, porque nada más que bajarse los sdk son una pesadilla, cientos de ellos, los propios de Google y los de las distintas marcas, fabricantes de GPUS, CPUS. Parece que Google no entiende que la gente desarrolla apps para ganar dinero, no por hobby.<br />
+Yo ayer tuve un debate sobre porqué razón aprendí a desarrollar cosas para iOS, cuando hay que pagar una anualidad y todo eso. Pues por un lado, sus herramientas de desarrollo son una maravilla y segundo, a los usuarios de iOS los han educado para que sepan que las aplicaciones cuestan dinero. Yo prefiero mil veces pillarme Ridge Racer SlipStream a 5€ que pillarlo gratis y tener que pagar por mejoras en los vehículos, primero porque me siento un rata y por aplicaciones que me gustan no me importa pagar y segundo porque es la única forma de que esto siga adelante. Claro, aplicaciones gratis, con la publicidad consigues el beneficio, App gratis + Publicidad + Google. ¿Quién va a ganar ahí realmente?.</p>
+<p>Un saludo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-410685</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 08:51:15 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-410685</guid>
+		<description><![CDATA[Dani, no estoy de acuerdo, porque eso ya se ha intentado :-D
+
+Blackberry 10 utiliza C++ y Qt y mira dónde está el pobre. Aunque técnicamente es un buen sistema, no consigue &quot;tracción&quot;. No siempre lo mejor (técnicamente) es lo más popular.
+
+Mi queja va más por la desidia percibida, el poco dinero que se están dejando en esto.]]></description>
+		<content:encoded><![CDATA[<p>Dani, no estoy de acuerdo, porque eso ya se ha intentado 😀</p>
+<p>Blackberry 10 utiliza C++ y Qt y mira dónde está el pobre. Aunque técnicamente es un buen sistema, no consigue «tracción». No siempre lo mejor (técnicamente) es lo más popular.</p>
+<p>Mi queja va más por la desidia percibida, el poco dinero que se están dejando en esto.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Dani</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-410639</link>
+		<dc:creator><![CDATA[Dani]]></dc:creator>
+		<pubDate>Mon, 14 Jul 2014 08:26:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-410639</guid>
+		<description><![CDATA[Aunque yo no estoy metido en el mundo de las apps, creo que el primer fallo que google hizo con Android fué usar Java. Y no me malinterpretéis, a mi me gusta bastante Java. Pero creo que si en lugar de inventar el tinglado que inventaron (con el resultado que hoy tenemos), hubiesen optado por C++ y Qt, este post hablaria de lo retrasado que está el desarrollo bajo iOS respecto Android.]]></description>
+		<content:encoded><![CDATA[<p>Aunque yo no estoy metido en el mundo de las apps, creo que el primer fallo que google hizo con Android fué usar Java. Y no me malinterpretéis, a mi me gusta bastante Java. Pero creo que si en lugar de inventar el tinglado que inventaron (con el resultado que hoy tenemos), hubiesen optado por C++ y Qt, este post hablaria de lo retrasado que está el desarrollo bajo iOS respecto Android.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: yNeolh</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-410163</link>
+		<dc:creator><![CDATA[yNeolh]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2014 23:31:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-410163</guid>
+		<description><![CDATA[Completa y absolutamente de acuerdo. Android es la basura más grande y soberana que me he encontrado en los últimos años, muy por encima de Internet Explorer en la época de prepotencia de Microsoft.
+
+Eclipse es una plataforma mala, si, puedes meterle todos los addons que te dé la gana, pero construir sobre 6000 kilometros cuadrados de fango es llamar al desastre. 
+
+Google tiene productos que son una maravilla, y apis que dan gusto, pero es que Android es un barco con agujeros al que conforme le ponen un parche, le sale otros dos agujeros... Desde seguir basado como dices en Java 6, hasta los IDEs que... en fin... probablemente el más difícil de instalar de los últimos que he tocado. Visual Studio es instalar y ya puedes compilar directamente sobre la máquina virtual.
+
+Me gustaría que saliera ya AS versión final. Intellij Idea es un IDE que me encanta, quizás algo lento en la carga para los que aún usamos HDD pero completamente &quot;Worth It&quot;
+
+En fin. Estoy de acuerdo contigo, esperemos que tomen nota porque como sigan así se van a convertir en el Windows Mobile 6.5 de hace 4 años, si, ha sido famoso y útil, pero muerto. Saludos!]]></description>
+		<content:encoded><![CDATA[<p>Completa y absolutamente de acuerdo. Android es la basura más grande y soberana que me he encontrado en los últimos años, muy por encima de Internet Explorer en la época de prepotencia de Microsoft.</p>
+<p>Eclipse es una plataforma mala, si, puedes meterle todos los addons que te dé la gana, pero construir sobre 6000 kilometros cuadrados de fango es llamar al desastre. </p>
+<p>Google tiene productos que son una maravilla, y apis que dan gusto, pero es que Android es un barco con agujeros al que conforme le ponen un parche, le sale otros dos agujeros&#8230; Desde seguir basado como dices en Java 6, hasta los IDEs que&#8230; en fin&#8230; probablemente el más difícil de instalar de los últimos que he tocado. Visual Studio es instalar y ya puedes compilar directamente sobre la máquina virtual.</p>
+<p>Me gustaría que saliera ya AS versión final. Intellij Idea es un IDE que me encanta, quizás algo lento en la carga para los que aún usamos HDD pero completamente «Worth It»</p>
+<p>En fin. Estoy de acuerdo contigo, esperemos que tomen nota porque como sigan así se van a convertir en el Windows Mobile 6.5 de hace 4 años, si, ha sido famoso y útil, pero muerto. Saludos!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: TOP XKCD, microservicios y periodismo tecnológico, Pull Request #6 - Webeando - Tecnología y Periodismo digital</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-409976</link>
+		<dc:creator><![CDATA[TOP XKCD, microservicios y periodismo tecnológico, Pull Request #6 - Webeando - Tecnología y Periodismo digital]]></dc:creator>
+		<pubDate>Sun, 13 Jul 2014 20:11:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-409976</guid>
+		<description><![CDATA[[&#8230;] hablando de herramientas de desarrollo, Diego Freniche publica en su blog un realista post bajo su propia experiencia del lamentable estado de las [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] hablando de herramientas de desarrollo, Diego Freniche publica en su blog un realista post bajo su propia experiencia del lamentable estado de las [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: jmarranz</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-387243</link>
+		<dc:creator><![CDATA[jmarranz]]></dc:creator>
+		<pubDate>Sat, 05 Jul 2014 08:59:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-387243</guid>
+		<description><![CDATA[Por curiosidad ¿quien en su sano juicio usa constantemente el emulador de Android?
+
+Entiendo que para para probar una versión concreta o pantalla concreta sea necesario, ¿pero qué empresa de desarrollo decente no tiene AL MENOS dos dispositivos reales para desarrollo (un móvil y una tableta)?]]></description>
+		<content:encoded><![CDATA[<p>Por curiosidad ¿quien en su sano juicio usa constantemente el emulador de Android?</p>
+<p>Entiendo que para para probar una versión concreta o pantalla concreta sea necesario, ¿pero qué empresa de desarrollo decente no tiene AL MENOS dos dispositivos reales para desarrollo (un móvil y una tableta)?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Raul Portales</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-385967</link>
+		<dc:creator><![CDATA[Raul Portales]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2014 21:31:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-385967</guid>
+		<description><![CDATA[He desarrollado para iOS con XCode y para Symbian con VisualStudio. Cierto es que la version de Visual Studio era muy vieja, pero aun asi, la ultima vez que lo probe no le llegaba en funcionalidad a Eclipse (o al menos en la funcionalidad que yo uso y que a mi me gusta)
+
+XCode tiene sus cosas buenas y sus cosas malas. Tambien es cierto que la ultima vez que hice algo para iOS fue hace 3 años, pero por aquel entonces solo el interface designer me parecio mejor las herramientas de Android. Eso si, estaba a años luz por delante de Android.
+
+Y a fin de cuentas, lo cortes no quita lo valiente, y es que el desprecio que ha dado Google hacia las herramientas de Android es vergonzoso. Eso es innegable.
+
+No sabia que habian sacado el AS de alfa el otro dia, la verdad es que me dio tan mal resultado que dije que no lo volvia a usar hasta que fuera una release completa.
+
+Dicho sea de paso: Eclipse + ADT funciona mucho mejor que el ADB (Android Developer Bundle) que en teoria es lo mismo. No se como lo hacen, pero es mucho mas inestable.]]></description>
+		<content:encoded><![CDATA[<p>He desarrollado para iOS con XCode y para Symbian con VisualStudio. Cierto es que la version de Visual Studio era muy vieja, pero aun asi, la ultima vez que lo probe no le llegaba en funcionalidad a Eclipse (o al menos en la funcionalidad que yo uso y que a mi me gusta)</p>
+<p>XCode tiene sus cosas buenas y sus cosas malas. Tambien es cierto que la ultima vez que hice algo para iOS fue hace 3 años, pero por aquel entonces solo el interface designer me parecio mejor las herramientas de Android. Eso si, estaba a años luz por delante de Android.</p>
+<p>Y a fin de cuentas, lo cortes no quita lo valiente, y es que el desprecio que ha dado Google hacia las herramientas de Android es vergonzoso. Eso es innegable.</p>
+<p>No sabia que habian sacado el AS de alfa el otro dia, la verdad es que me dio tan mal resultado que dije que no lo volvia a usar hasta que fuera una release completa.</p>
+<p>Dicho sea de paso: Eclipse + ADT funciona mucho mejor que el ADB (Android Developer Bundle) que en teoria es lo mismo. No se como lo hacen, pero es mucho mas inestable.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-385922</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2014 20:57:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-385922</guid>
+		<description><![CDATA[- ya he contado que el post lo escribí el 26 de Junio en el avión. Que Google sacó AS de Alpha el 27, pero quise dejar el post tal cual.
+- los refactors de Xcode no dependen del lenguaje, sino del IDE. En el mundo Cocoa muchos usan AppCode (IDE de JetBrains) precisamente por sus refactors. Y no pasa nada. Para todo lo demás Xcode. Constantemente se le reclaman estas mejoras a Apple. Esto lo tiene que mejorar Apple (como muchas otras cosas). Aún así, en conjunto el SDK + herramientas de Apple está años por delante de las de Google. Las de Microsoft igual. En serio: en lugar de escucharme decirlo, probadlas. Es la forma de salir de dudas.]]></description>
+		<content:encoded><![CDATA[<p>&#8211; ya he contado que el post lo escribí el 26 de Junio en el avión. Que Google sacó AS de Alpha el 27, pero quise dejar el post tal cual.<br />
+&#8211; los refactors de Xcode no dependen del lenguaje, sino del IDE. En el mundo Cocoa muchos usan AppCode (IDE de JetBrains) precisamente por sus refactors. Y no pasa nada. Para todo lo demás Xcode. Constantemente se le reclaman estas mejoras a Apple. Esto lo tiene que mejorar Apple (como muchas otras cosas). Aún así, en conjunto el SDK + herramientas de Apple está años por delante de las de Google. Las de Microsoft igual. En serio: en lugar de escucharme decirlo, probadlas. Es la forma de salir de dudas.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/comment-page-1/#comment-385915</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2014 20:53:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2213#comment-385915</guid>
+		<description><![CDATA[- ¿y migrar a Java 8 destruye la retrocompatibilidad porque...? ¿No se puede, igual que marcas el SDK que escoges para compilar, el JDK que usarías, de forma que los proyectos &quot;nuevos&quot; funcionen con Java 8?
+- sí, los errores de los entornos de desarrollo me han hecho perder mucho tiempo, unas hojitas cada vez. Pregunta por ahí: no te lo querrán decir, pero no se actualiza uno el Eclipse ADT precisamente &quot;tranquilo&quot;
+- no has usado nunca Xcode peeeeero eres un experto comparando ambos IDEs... ????
+- Android no es libre. Android AOSP tampoco. Por eso se llama Android *Open Source* Project. &lt;a href=&quot;https://www.gnu.org/philosophy/open-source-misses-the-point.html&quot; rel=&quot;nofollow&quot;&gt;Referencia de cabecera&lt;/a&gt;
+- Yo no me quejo de que los servicios de Google sean propietarios. Me quejo de que &quot;vayan de&quot; Open cuando no lo son.
+- Haz un fork de Android con Play Store y mapas, por favor
+- ¿Te has sentido ofendido por haber sido becario o es que te quedaste sin argumentos antes de empezar?. En esta industria TODOS hemos sido becarios. Yo del 97 al 98.
+
+Opiniones no, hechos. Por favor.]]></description>
+		<content:encoded><![CDATA[<p>&#8211; ¿y migrar a Java 8 destruye la retrocompatibilidad porque&#8230;? ¿No se puede, igual que marcas el SDK que escoges para compilar, el JDK que usarías, de forma que los proyectos «nuevos» funcionen con Java 8?<br />
+&#8211; sí, los errores de los entornos de desarrollo me han hecho perder mucho tiempo, unas hojitas cada vez. Pregunta por ahí: no te lo querrán decir, pero no se actualiza uno el Eclipse ADT precisamente «tranquilo»<br />
+&#8211; no has usado nunca Xcode peeeeero eres un experto comparando ambos IDEs&#8230; ????<br />
+&#8211; Android no es libre. Android AOSP tampoco. Por eso se llama Android *Open Source* Project. <a href="https://www.gnu.org/philosophy/open-source-misses-the-point.html" rel="nofollow">Referencia de cabecera</a><br />
+&#8211; Yo no me quejo de que los servicios de Google sean propietarios. Me quejo de que «vayan de» Open cuando no lo son.<br />
+&#8211; Haz un fork de Android con Play Store y mapas, por favor<br />
+&#8211; ¿Te has sentido ofendido por haber sido becario o es que te quedaste sin argumentos antes de empezar?. En esta industria TODOS hemos sido becarios. Yo del 97 al 98.</p>
+<p>Opiniones no, hechos. Por favor.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

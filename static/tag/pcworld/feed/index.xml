@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PCWorld &#8211; freniche.com</title>
+	<atom:link href="/tag/pcworld/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Artículo sobre cómo compilar el Kernel de Linux en PCWORLD</title>
+		<link>/2006/02/25/articulo-sobre-como-compilar-el-kernel-de-linux-en-pcworld/</link>
+		<pubDate>Sat, 25 Feb 2006 11:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Artículos]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[PCWorld]]></category>
+
+		<guid isPermaLink="false">/2006/02/25/articulo-sobre-como-compilar-el-kernel-de-linux-en-pcworld/</guid>
+		<description><![CDATA[En el número de Febrero de 2006 de PCWorld España un servidor publica un nuevo artículo sobre Linux. En concreto, cómo compilar un kernel de Linux. Cito la web de PCW: «Cómo compilar el kernel de Linux. Te contamos cómo puedes compilar el kernel 2.6.x de Linux para hacerte un sistema a medida, adaptándolo totalmente [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">En el número de Febrero de 2006 de PCWorld España un servidor publica un nuevo artículo sobre Linux. En concreto, cómo compilar un kernel de Linux. Cito la web de PCW:</p>
+<blockquote>
+<p class="bodytext"><em>«Cómo compilar el kernel de Linux. </em></p>
+<p><em> </em></p>
+<p class="bodytext"><em>Te contamos cómo puedes compilar el kernel 2.6.x de Linux para hacerte un sistema a medida, adaptándolo totalmente a las características de tu máquina.»</em></p>
+</blockquote>
+<p class="bodytext">En fin, muchos dirán que si ya saben, que esto está muy manido, etc., etc. Pero pensemos que, ahora que Linux gana en popularidad, mucha gente se está incorporando al S.O. y lo desconocen completamente.</p>
+<p class="bodytext" style="text-align: justify;">Mucha gente desprecia a los novatos en algo. Ilusos. Cuando no sabes nada de un tema es cuando más disfrutas: es el momento de aprenderlo todo, de tener curiosidad, de disfrutar preguntando. Un «experto» en algo no es más que un novato con experiencia. Como me dijeron una vez: «nunca maestro, siempre alumno». Pequeño saltamontes.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>PCWorld Práctico nº 6 «exprime Linux»</title>
+		<link>/2005/12/08/pcworld-practico-n-6-exprime-linux/</link>
+		<comments>/2005/12/08/pcworld-practico-n-6-exprime-linux/#comments</comments>
+		<pubDate>Thu, 08 Dec 2005 09:32:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Artículos]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[PCWorld]]></category>
+
+		<guid isPermaLink="false">/2005/12/08/pcworld-practico-n-6-exprime-linux/</guid>
+		<description><![CDATA[Obra cumbre de la literatura técnica informática escrita en Español, este librito incluye únicamente artículos made in freniche. Faltaría uno de cómo compilar el kernel, que se ha caído de este número y supongo vendrá en sucesivas ediciones de la revista PCWorld. Son tres artículos, uno explicando como hacer más compatibles Windows y Linux, otro [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;"><a href="/wp-content/uploads/2005/12/exprimiendo2.jpg"><img class="aligncenter size-full wp-image-720" title="PCWorld Práctico nº 6" src="/wp-content/uploads/2005/12/exprimiendo2.jpg" alt="" width="200" height="265" /></a></p>
+<p class="bodytext" style="text-align: justify;">Obra cumbre de la literatura técnica informática escrita en Español, este librito incluye únicamente artículos <em>made in freniche</em>. Faltaría uno de cómo compilar el kernel, que se ha caído de este número y supongo vendrá en sucesivas ediciones de la revista <a href="sobre-mi/trabajo/pcworld/">PCWorld</a>.</p>
+<p class="bodytext" style="text-align: justify;">Son tres artículos, uno explicando como hacer más compatibles Windows y Linux, otro sobre cómo montar un servidor con Linux que reemplace a su equivalente Windows y el de SuperTrucos, una colección categorizada de <em>perlas informáticas</em></p>
+<p class="bodytext" style="text-align: justify;">Humildemente y hablando en serio, creo que incluye un buen montón de trucos, muchos conocidos y sencillos y otros no tan conocidos (ni sencillos) que pueden hacer las delicias de pequeños y grandes.</p>
+<p class="bodytext" style="text-align: justify;">Hay desde cómo instalar un cambiador de escritorios virtuales en 3D hasta cómo usar un servidor de VNC para dar clase sustituyendo el proyector de forma que los alumnos vean en su ordenador tu escritorio. Y otras pequeñas tonterías. Espero que a la gente le guste y a los que no les guste, que me lo indiquen con un mail, que no cuesta tanto, leñe, y así puede uno ir mejorando.</p>
+<p class="bodytext" style="text-align: justify;">Aunque parezca increíble, a dia de hoy no lo tengo «físicamente» en las manos. La foto que se muestra es por cortesía de Diego «el bucanero». Voy a salir a su caza y captura, que me ha cogido un poco por sorpresa, aunque lleva fuera al menos desde el SIMO. Cosas que pasan.</p>
+<p class="bodytext">P.D. Chanel tiene su nº 5, yo ya les voy ganando con «mi nº 6»</p>
+]]></content:encoded>
+			<wfw:commentRss>/2005/12/08/pcworld-practico-n-6-exprime-linux/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Este mes de Junio, hay que comprar la revista PCWORLD</title>
+		<link>/2004/05/08/este-mes-de-junio-hay-que-comprar-la-revista-pcworld/</link>
+		<pubDate>Sat, 08 May 2004 08:46:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[PCWorld]]></category>
+
+		<guid isPermaLink="false">/2004/05/08/este-mes-de-junio-hay-que-comprar-la-revista-pcworld/</guid>
+		<description><![CDATA[Que un servidor publica un par de articulitos sobre Interoperatibilidad Linux-Windows y migraciones de un S.O. al otro. Hay que hacer un poco de promoción, que nos va el puchero en ello]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Que un servidor publica un par de articulitos sobre Interoperatibilidad Linux-Windows y migraciones de un S.O. al otro.</p>
+<p class="bodytext">Hay que hacer un poco de promoción, que nos va el puchero en ello</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Ejemplo de menú para una aplicación Enyo/WebOS</title>
+	<atom:link href="/2011/08/27/ejemplo-de-menu-para-una-aplicacion-enyowebos/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/08/27/ejemplo-de-menu-para-una-aplicacion-enyowebos/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/08/27/ejemplo-de-menu-para-una-aplicacion-enyowebos/comment-page-1/#comment-257714</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 22 Dec 2013 20:11:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1594#comment-257714</guid>
+		<description><![CDATA[Hola
+
+Gracias por probar el ejemplo. Hace ya bastante tiempo de Enyo :-D
+
+He actualizado las instrucciones y el repo. Debes bajar el repo nuevo y el de Enyo (la biblioteca en que se basa el ejemplo). Si no, no te va a mostrar nada más que la &quot;pantalla blanca&quot;.
+
+Tienes el repo en:
+https://github.com/dfreniche/EnyoMenuDemo
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola</p>
+<p>Gracias por probar el ejemplo. Hace ya bastante tiempo de Enyo 😀</p>
+<p>He actualizado las instrucciones y el repo. Debes bajar el repo nuevo y el de Enyo (la biblioteca en que se basa el ejemplo). Si no, no te va a mostrar nada más que la «pantalla blanca».</p>
+<p>Tienes el repo en:<br />
+<a href="https://github.com/dfreniche/EnyoMenuDemo" rel="nofollow">https://github.com/dfreniche/EnyoMenuDemo</a></p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: MW</title>
+		<link>/2011/08/27/ejemplo-de-menu-para-una-aplicacion-enyowebos/comment-page-1/#comment-257672</link>
+		<dc:creator><![CDATA[MW]]></dc:creator>
+		<pubDate>Mon, 16 Dec 2013 21:21:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1594#comment-257672</guid>
+		<description><![CDATA[Hola, gracias por el ejemplo.
+¿Sabrías decirme porque motivo me muestra la página en blanco tanto en Chrome como en Firefox?
+Muchas gracias y un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola, gracias por el ejemplo.<br />
+¿Sabrías decirme porque motivo me muestra la página en blanco tanto en Chrome como en Firefox?<br />
+Muchas gracias y un saludo</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

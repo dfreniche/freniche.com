@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>evernote &#8211; freniche.com</title>
+	<atom:link href="/tag/evernote/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Guardar las pestañas abiertas de Safari en Evernote</title>
+		<link>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/</link>
+		<comments>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/#comments</comments>
+		<pubDate>Mon, 08 Aug 2011 14:28:49 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[evernote]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[safari]]></category>
+
+		<guid isPermaLink="false">/?p=1575</guid>
+		<description><![CDATA[Soy un convencido del uso Evernote como «almacén digital total» desde que lo descubri gracias a ThinkWasabi. Leer el libro de Berto me ayudó a ver su utilidad: en un mundo con cada vez menos papel y más documentos digitales, las carpetas de las que habla David Allen en su libro de GTD para guardar [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Soy un convencido del uso Evernote como «almacén digital total» desde que lo descubri gracias a <a href="http://thinkwasabi.com/">ThinkWasabi</a>. <a href="/2010/06/10/leyendo-para-emprender/">Leer el libro de Berto</a> me ayudó a ver su utilidad: en un mundo con cada vez menos papel y más documentos digitales, las carpetas de las que habla David Allen en su libro de GTD para guardar los materiales relacionados con un proyecto se han encarnado en las libretas de Evernote. Evernote te permite acceder a esos trozos de información desde cualquier dispositivo: tu ordenador, el teléfono, etc.</p>
+<p style="text-align: justify;">Como consecuencia de este uso, para cada búsqueda de información que hago en Internet para un proyecto, voy creando un conjunto de notas que agrupo en una libreta: notas que redacto yo, páginas web interesantes, artículos que encuentro, etc. Por ej., preparando el viaje que voy a hacer en Septiembre al iOSDevUK me encontré con un montón de páginas abiertas en Safari: información sobre la conferencia, sobre el pueblo donde se celebra, sobre Gales, sobre el Galés (el lenguaje), etc. El caso es que, tras cerrar las petañas con las búsquedas de Google, tenía un montón de información interesante que quería seguir revisando en otro momento. La solución: copiar todas esas URLs a una nota de Evernote. Empecé, y cuando iba por la segunda pensé: «<em>tiene que haber</em> una manera más sencilla de hacer esto». Gracias a los cielos soy perezoso, y esa noche teníamos una reunión en la NSCoder Night de Sevilla. Allí planteé mi duda, y me respondieron con este <a href="http://veritrope.com/code/export-all-safari-tabs-to-evernote/">script</a> (no recuerdo quien, y me molesta, porque no puedo buscar en mis tweets para encontrarlo), que copia las pestañas abiertas de Safari en una nota de Evernote.</p>
+<div id="attachment_1576" style="width: 561px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/guardar-como-aplicacion.png"><img class="size-full wp-image-1576" title="Guardar script como Aplicacion" src="/wp-content/uploads/2011/08/guardar-como-aplicacion.png" alt="Guardar script como Aplicacion" width="551" height="403" srcset="/wp-content/uploads/2011/08/guardar-como-aplicacion.png 551w, /wp-content/uploads/2011/08/guardar-como-aplicacion-300x219.png 300w" sizes="(max-width: 551px) 100vw, 551px" /></a><p class="wp-caption-text">Guardar script como Aplicacion</p></div>
+<p style="text-align: justify;">Si sigues los pasos de la web (haces <a href="applescript://com.apple.scripteditor?action=new&amp;script=%0D%0A%28%2A%0D%0Ahttp%3A%2F%2Fveritrope.com%0D%0ASafari%20URLs%20List%20to%20Evernote%20Exporter%0D%0AVersion%201.0%0D%0AOctober%2028%2C%202009%0D%0AProject%20Status%2C%20Latest%20Updates%2C%20and%20Comments%20Collected%20at%3A%0D%0Ahttp%3A%2F%2Fveritrope.com%2Fcode%2Fexport-all-safari-tabs-to-evernote%0D%0A%0D%0AInstallation%3A%20Just%20double-click%20on%20the%20script%21%0D%0A%0D%0AFastScripts%20Installation%20%28Optional%2C%20but%20recommended%29%3A%0D%0A--Download%20and%20Install%20FastScripts%20from%20http%3A%2F%2Fwww.red-sweater.com%2Ffastscripts%2Findex.html%0D%0A--Copy%20script%20or%20an%20Alias%20to%20%7E%2FLibrary%2FScripts%2FApplications%2FYojimbo%0D%0A--Set%20up%20your%20keyboard%20shortcut%0D%0A%0D%0ACHANGELOG%3A%0D%0A%0D%0A1.00%20%20%20%20INITIAL%20RELEASE%0D%0A%2A%29%0D%0Aset%20url_list%20to%20%7B%7D%0D%0Aset%20the%20date_stamp%20to%20%28%28the%20current%20date%29%20as%20string%29%0D%0Aset%20NoteTitle%20to%20%22URL%20List%20from%20Safari%20Tabs%20on%20%22%20%26%20the%20date_stamp%0D%0Atell%20application%20%22Safari%22%0D%0A%09activate%0D%0A%09set%20safariWindow%20to%20window%201%0D%0A%09repeat%20with%20w%20in%20safariWindow%0D%0A%09%09try%0D%0A%09%09%09repeat%20with%20t%20in%20%28tabs%20of%20w%29%0D%0A%09%09%09%09set%20TabTitle%20to%20%28name%20of%20t%29%0D%0A%09%09%09%09set%20TabURL%20to%20%28URL%20of%20t%29%0D%0A%09%09%09%09set%20TabInfo%20to%20%28%22%22%20%26%20TabTitle%20%26%20return%20%26%20TabURL%20%26%20return%20%26%20return%29%0D%0A%09%09%09%09copy%20TabInfo%20to%20the%20end%20of%20url_list%0D%0A%09%09%09end%20repeat%0D%0A%09%09end%20try%0D%0A%09end%20repeat%0D%0Aend%20tell%0D%0A%0D%0A--%20convert%20url_list%20to%20text%0D%0Aset%20old_delim%20to%20AppleScript%27s%20text%20item%20delimiters%0D%0Aset%20AppleScript%27s%20text%20item%20delimiters%20to%20return%0D%0Aset%20url_list%20to%20url_list%20as%20text%0D%0Aset%20AppleScript%27s%20text%20item%20delimiters%20to%20old_delim%0D%0A%0D%0Atell%20application%20%22Evernote%22%0D%0A%09set%20EVNote%20to%20%28create%20note%20with%20text%20url_list%20title%20NoteTitle%29%0D%0Aend%20tell%0D%0A%0D%0A">click</a> para abrirlo en el editor de AppleScript) puedes guardarlo como una aplicación. Esto te crea un fichero .app, justo como las aplicaciones que instalamos normalmente. Se usa abriéndolo (haciendo doble click sobre el icono, lanzándolo con Spotlight, vamos, como cualquier otra aplicación de tu Mac) y te creará una nota en el Inbox de tu Evernote con todas las pestañas que tengas abiertas en ese momento en la ventana de Safari. Yo antes de lanzarlo cierro las pestañas que no me interesan para la «foto» y uso la opción de menú de Safari Ventana &gt; Fusionar todas las ventanas. Así tengo una sola ventana con los tabs que quiero guardar. Por rizar el rizo de la productividad, tengo asociado en Keyboard Maestro una secuencia de teclas a ambas acciones, así que me resulta muy sencillo.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

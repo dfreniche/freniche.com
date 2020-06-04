@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Isotrol &#8211; freniche.com</title>
+	<atom:link href="/tag/isotrol/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Portabilidad a Simyo</title>
+		<link>/2011/03/31/portabilidad-a-simyo/</link>
+		<comments>/2011/03/31/portabilidad-a-simyo/#comments</comments>
+		<pubDate>Thu, 31 Mar 2011 09:22:43 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Isotrol]]></category>
+		<category><![CDATA[Móviles]]></category>
+		<category><![CDATA[Movistar]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Simyo]]></category>
+
+		<guid isPermaLink="false">/?p=1444</guid>
+		<description><![CDATA[Hace un par de días que estoy con mi número principal en Simyo. He abandonado Movistar de nuevo (lo dejé hace un montón de años para irme a Orange y luego volví). Mi estancia en MS, y los 18 meses que he mantenido el contrato han tenido una buena razón: el iPhone 3Gs de 32 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace un par de días que estoy con mi número principal en Simyo. He abandonado Movistar de nuevo (lo dejé hace un montón de años para irme a Orange y luego volví). Mi estancia en MS, y los 18 meses que he mantenido el contrato han tenido una buena razón: el iPhone 3Gs de 32 GB que hoy en día sigue siendo mi teléfono principal. Cuando me planteé actualizarme desde mi <a href="/2008/12/10/¡ya-tengo-mi-iphone/">iPhone 3G</a>, comprado libre en Bruselas, miré las ofertas y si hacía portabilidad desde Orange a Movistar con la tarifa de 25 Eur de datos me quedaba el 3Gs por 49 Eur. En esa época mi consumo de datos era alto, así que me venía muy bien el trato.</p>
+<p style="text-align: justify;">Pero las cosas cambian con el tiempo. <a href="/2009/11/29/iniciando-una-nueva-etapa/">Dejé Isotrol</a> (de nuevo, por segunda vez) y me quedé en casa haciendo mis <a href="/ios-apps/">Apps para iPhone</a> y preparando mis <a href="/formacion/">cursos</a>. Y claro, en casa hay WiFi. Encima donde vivo Movistar no tiene cobertura 3G. Ni buena ni mala: no hay. Resultado: estaba pagando por un tráfico de datos que no consumía.</p>
+<p style="text-align: justify;">Cuando se ha cumplido la permanencia, he llamado a Movistar para liberar el 3Gs por IMEI. Sólo me ha costado un par de llamadas. Lo probé con una SIM de Simyo, que tenía para ir probando el servicio y como segunda línea por si las moscas, y todo funcionaba perfectamente. Estaba listo para el salto.</p>
+<p style="text-align: justify;">He escogido la tarifa del 3 de Simyo. No hay permanencia. Pagas cada mes 8 Eur. + IVA y tienes 500 MB de datos. Y, por supuesto, pagas lo que hables, a 3 céntimos de Eur. el minuto + establecimiento de llamada. Los SMS son baratos (aunque ya los uso muy poco, pero siempre es mejor que sean baratos, ¿no?). No he pasado un mes completo con Simyo, así que ya veremos como son las facturas. Bueno, si me he equivocado siempre puedo cambiarme a otra.</p>
+<p style="text-align: justify;">La portabilidad ha tenido algún que otro bache. Tras solicitarla, me llegó una carta de Simyo con la SIM. Hasta aquí sin problemas. Me llamaron de Movistar para que no abandonase el redil, pero les dije que eso de «<em>mucho te quiero perrito, pero pan poquito</em>» no iba ya conmigo. Si tan buen cliente soy, dame un iPhone 4 gratis y mejores tarifas. ¿Que pido mucho? Vale, pues me voy.</p>
+<p style="text-align: justify;">Superada la llamada de MS estuve esperando el SMS que según Simyo me mandarían para indicarme que esa noche se realizaría la portabilidad. El SMS no llegaba. Estaba temiendo que comenzaría el nuevo mes sin estar «portado» cuando me di cuenta la otra mañana que no tenía cobertura en el móvil. Así que pensé «¿a que me han portado y no me lo han comunicado?». Cambié la SIM y&#8230; voilá. Teléfono funcionando. Pequeño fallo de comunicación, pero bueno. En teoría me debía llegar la configuración de los datos del iPhone por SMS. Tampoco me llegó. Llamé al soporte técnico de Simyo (antes de ver que la configuración estaba descrita en sus FAQs) y conseguí hacer que el iPhone mandase correos, tras introducir los nuevos parámetros y sincronizar con iTunes (esto último no me lo indicaron).</p>
+<p style="text-align: justify;">¿Resultado final? Tengo más cobertura 3G con Simyo que con Movistar. Y telefónica. Todo funciona bien y la web de Simyo está a años luz de la de Movistar, que es de lo más complicado y anti-cliente que he visto. Encima, tras quejarme en twitter, me han «<a href="http://twitter.com/#!/simyo_es/status/53008223237705728">pasado la mano por el lomo</a>» los de @Simyo_es. Da gusto.</p>
+<p style="text-align: justify;">P.D.: puse un ticket en la web de Simyo preguntando por la activación de los datos. Me han respondido ahora, aunque se supone que ya me resolvieron el problema por teléfono. Detecto descoordinación entre el Call Center y su soporte de primer nivel. Encima el correo viene del dominio kpn.es, que es la propietaria de Simyo y no de Simyo.es, que es lo que esperaría cualquiera. Señores, contraten una consultoría ITIL ASAP. A mi, si es posible. Facturo tan caro como necesiten <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/31/portabilidad-a-simyo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Iniciando una nueva etapa</title>
+		<link>/2009/11/29/iniciando-una-nueva-etapa/</link>
+		<comments>/2009/11/29/iniciando-una-nueva-etapa/#comments</comments>
+		<pubDate>Sun, 29 Nov 2009 08:32:45 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Isotrol]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+
+		<guid isPermaLink="false">/?p=495</guid>
+		<description><![CDATA[Estoy muy ilusionado. Excitado. Motivado. Todo lo bueno que puedas pensar que acabe en ado. La razón: inicio una nueva etapa profesional en Enero de 2010, que comienzo a preparar ahora en Diciembre, relacionada con la tecnología que más me gusta ahora. ¿Doy pistas?. Sí, es el mundo Mac y el iPhone. Voy a dedicarme [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify; ">Estoy muy ilusionado. Excitado. Motivado. Todo lo bueno que puedas pensar que acabe en <em>ado</em>. La razón: inicio una nueva etapa profesional en Enero de 2010, que comienzo a preparar ahora en Diciembre, relacionada con la tecnología que más me gusta ahora. ¿<a href="/category/informatica/iphone/" target="_blank">Doy pistas</a>?. Sí, es el mundo Mac y el iPhone. Voy a dedicarme a escribir aplicaciones para la plataforma Movil de Apple (iPhone y iPod touch).</p>
+<p style="text-align: justify; ">Mi vida laboral es un continuo cambio. De empresas y de roles. He hecho casi de todo, como se puede ver en <a href="http://es.linkedin.com/in/dfreniche/" target="_blank">mi perfil de linkedin</a>. Desde vender en una tienda de ordenadores, hasta tener mi propia empresa, ser consultor para Pymes, jefe de proyecto en Telefónica Soluciones, formador, responsable de TI&#8230; Muchos cambios, y casi siempre como Empresario Individual (autónomo o freelance, como prefieras). Mi perfil choca un poco en España (y más en el Sur), donde en mi sector los ciclos duran algunos años más. En otros sitios encajaría mejor. Pero vivo donde vivo y además me gusta. En todos los puestos que he estado he sido siempre un vector de cambio. Nunca me conformo. Cuando algo funciona mal, procuro cambiarlo. Cuando está bien, trato de mejorarlo. Bueno, todo, menos esta web, que está abandonada. Pero le va a llegar su hora pronto <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify; ">Bueno, que me pierdo. La verdad es que, con la crisis rugiendo fuera y todo el paro que hay ahora hay que estar un poco loco para lanzarse a montar un negocio. Eso, y ser muy optimista, tener energía, confiar en uno mismo, conocer el sector y, sobre todo, conocer los propios puntos débiles para no caer en los errores de pasadas veces. Esta es la segunda vez que monto una empresa. Y <a href="http://www.elelog.es/">Elelog</a> sigue existiendo, gracias al trabajo de David. Pero siempre me gusta pensar que si sigue ahí también es un poco por mi culpa.</p>
+<p style="text-align: justify; ">Lo peor del cambio es irme de <a href="https://www.isotrol.com/" target="_blank">Isotrol</a>. He conocido a mucha gente excelente y que, sorprendentemente, me aprecia de verdad. ¡Con lo mal que les trato!. Será por eso, a lo mejor ;-). El trabajo gestionando los servicios de Isotrol ha sido apasionante. Me ha encantado, porque he podido aprender sin parar, tanto de gestión de servicios (ITIL) como de gestión de equipos y de tecnología.  Encima, tenía pleno apoyo de la dirección y un equipo que solo puedo describir como casi inmejorable. Como personas, para comérselos. Como profesionales uno a uno, de lo mejorcito que he visto. Una vez que han empastado como equipo es impresionante el trabajo que han desarrollado. De 13 personas cuando yo llegué, con n servicios, hemos pasado a n*2 servicios con 7 personas. En serio, si alguien de Google está leyendo esto, que se lleve el lote completo, que esta gente te montan lo que necesites para la nube en un rato.</p>
+<p style="text-align: justify; ">
+<div id="attachment_496" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/11/parte_equipo.JPG"><img class="size-full wp-image-496" title="parte_equipo" src="/wp-content/uploads/2009/11/parte_equipo.JPG" alt="Parte de mi equipo en Isotrol: José, Gabri y Javi con un insider :-)" width="640" height="425" srcset="/wp-content/uploads/2009/11/parte_equipo.JPG 640w, /wp-content/uploads/2009/11/parte_equipo-300x199.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a><p class="wp-caption-text">Parte de mi equipo en Isotrol: José, Gabri y Javi con un insider <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify; ">Así que estamos en un cambio por amor al iPhone, por culpa de mi mala cabeza y dejando atrás un sitio en el que he estado muy, muy a gusto. Toca ahora leer sobre emprendimiento, web 2.0, Objective-C, XML, iPhone y no se cuántas cosas más. Configurar máquinas, programar, planificar, pensar&#8230;</p>
+<p style="text-align: justify; ">¡Nos vemos en el <a href="http://www.apple.com/iphone/apps-for-iphone/" target="_blank">AppStore</a> en breve!</p>
+<p style="text-align: justify; ">
+]]></content:encoded>
+			<wfw:commentRss>/2009/11/29/iniciando-una-nueva-etapa/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+		<item>
+		<title>De curso por Madrid (y II)</title>
+		<link>/2009/06/17/de-curso-por-madrid-y-ii/</link>
+		<pubDate>Wed, 17 Jun 2009 18:07:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Isotrol]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Internet]]></category>
+
+		<guid isPermaLink="false">/2009/06/17/de-curso-por-madrid-y-ii/</guid>
+		<description><![CDATA[El curso (una conferencia de IDC, realmente), fue un poco agotador, bastante rápido (atropellado diría yo) e incluso fue interesante. Se celebró en el Hotel Palace, al lado del Congreso, y sólo por la comida ya doy el coste del curso por bien empleado 🙂   Bueno, vayamos al grano. ¿Qué he aprendido en la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify">El curso (una conferencia de IDC, realmente), fue un poco agotador, bastante rápido (atropellado diría yo) e incluso fue interesante. Se celebró en el Hotel Palace, al lado del Congreso, y sólo por la comida ya doy el coste del curso por bien empleado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p> <img src="/wp-content/uploads/2009/06/palace.JPG" width="400" alt="El Palace por dentro" /></p>
+<p>Bueno, vayamos al grano. ¿Qué he aprendido en la conferencia / curso de IDC sobre Virtualización?</p>
+<ul>
+<li style="text-align: justify">que el 95% de los presentes usan VMware ESXi (concretamente, la versión 3.5)</li>
+<li style="text-align: justify">que sólo otro par de asistentes más usaban Xen</li>
+<li style="text-align: justify">que esto de la virtualización no está tan extendido como yo pensaba. Llevo usando máquinas virtuales para todo desde el 2002, y pensaba que esto ya era una historia vieja. Pero no. Parece que en Isotrol estamos en la cresta de la ola, símplemente porque el personal va mucho más lento. Los mensajes de que con la virtualización se preparan las empresas para la salida de la crisis no cesan. Luego poca gente está usando este tema.</li>
+<li style="text-align: justify">que Microsoft ha pasado de ser una empresa que vendía licencias de Software y ahora es una empresa que sólo vende humo. Más detalles luego.</li>
+<li style="text-align: justify">que el 100% del personal utiliza cabinas de almacenamiento EVA de HP. Para desesperación de uno de los patrocinadores, Bull, que hicieron esfuerzos heroicos para demostrarnos que ellos también lo hacen bien. Y no lo dudo. Pero es que todo el mundo habla maravillas de sus EVAs. No bien. Maravillas. En Isotrol tenemos una EVA 4000 con discos de fibra, y es una gozada.</li>
+<li style="text-align: justify">igualmente, que la consolidación de servidores tradicionales de x Us de altura en chasis blades tampoco está tan extendido como pensaba. En ésto también estamos bien posicionados, ya que tenemos en Isotrol dos chasis blade, uno de Fujitsu y otro de HP, sobre los que virtualizamos un montón de máquinas, usando Xen y VMware.</li>
+</ul>
+<p style="text-align: justify"> <img src="/wp-content/uploads/2009/06/virtualizacion_idc.JPG" alt="En la sesión de virtualización" width="400" /></p>
+<p style="text-align: justify">Y ahora, dos notas curiosas. Una, fue la charla que nos dieron de Microsoft sobre los servicios en la nube. Planteaban la pregunta «¿qué es la nube?», en una presentación llena de fotos de modelos que se parecen muy poco a un profesional de las tecnologías de la información. Las calvas y las barriguitas no venden tanto, pero con mirar a su actual presidente se hace uno una idea realista de cómo es un informático.</p>
+<p style="text-align: justify">El caso es que Microsoft nos dijo que este año van a poner «patas arriba el mercado de la virtualización», porque, en sus planes, van a sacar movimiento de máquinas virtuales en vivo, tal como hace ahora VMware con su vmotion. Y no se cuántas cosas más, de forma que van a quitarle su ventaja competitiva a VMware y entonces las masas nos arrojaremos enloquecidamente en sus brazos. Dos cosas. Algo que aún no ha salido al mercado tiene una probabilidad no nula de no salir nunca. Es decir, el producto de Microsoft no se puede comprar hoy, pero el de VMware sí. Y otro detalle: ¿mientras tanto en VMware se van a dedicar a tomar café?. Digo yo, que igual que ahora tienen la delantera, pueden seguir innovando y estar un paso por delante. O no, pero todo son especulaciones. Y escucharlas de una empresa como Microsoft cada vez empieza a ser más habitual. Presentan Windows Mobile 6.5 ahora pero estará disponible el año que viene. Como Windows 7, que llevan sacando RCs ni se sabe, a sabiendas de que Vista no lo quiere el personal ni en pintura. Humo, humo, humo&#8230;</p>
+<p style="text-align: justify">Al final, me quedé sin saber qué va a ofrecer concretamente Windows en su plataforma para la nube «Azure». Igual es que no tienen nada para ofrecer.</p>
+<p style="text-align: justify">La otra nota curiosa fue ver que en la conferencia, donde pagaban como anfitriones Microsoft y Bull, entre otros, sólo se hablaba de VMware y HP. ¡Ouch!. Eso duele <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Una de patrones de diseño</title>
+		<link>/2007/11/20/una-de-patrones-de-diseno/</link>
+		<pubDate>Tue, 20 Nov 2007 20:14:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Isotrol]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2007/11/20/una-de-patrones-de-diseno/</guid>
+		<description><![CDATA[Me ha pasado AJSA de Isotrol un par de enlaces muy interesantes sobre Patrones de Diseño a los que he añadido otro par sacados de la lista I+D. Para los que no sepan de qué va esto, un Patrón de Diseño te muestra cómo diseñar (valga la repugnancia) el código de tu programa para hacer [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Me ha pasado <a href="http://www.ajsa.net/" title="Opens external link in new window" target="_blank" class="external-link-new-window">AJSA</a> de <a href="http://www.isotrol.com/" title="Opens external link in new window" target="_blank" class="external-link-new-window">Isotrol</a> un par de enlaces muy interesantes sobre Patrones de Diseño a los que he añadido otro par sacados de la lista <a href="http://www.freniche.com/imasd/" title="Opens internal link in current window" class="internal-link">I+D</a>. Para los que no sepan de qué va esto, un Patrón de Diseño te muestra cómo diseñar (valga la repugnancia) el código de tu programa para hacer frente a un problema al que otras personas más sabias ya se han enfrentado. Es la reutilización pura y dura de las <em>ideas</em>, y no del <em>código</em>.</p>
+<p class="bodytext">Bueno, no me enrollo más, mejor vete a leer los enlaces:</p>
+<blockquote style="margin-bottom: 0pt; margin-top: 0pt"></blockquote>
+<ul>
+<li>La Biblia de los Patrones de Diseño: <a href="http://en.wikipedia.org/wiki/Design_Patterns" title="Opens external link in new window" target="_blank" class="external-link-new-window">el libro del GoF</a> (Gang of Four, la banda de los cuatro, tiene narices el personal cuando se pone a inventar nombres&#8230;)</li>
+<li><a href="http://chuidiang.blogspot.com/2005/12/qu-son-los-patrones-de-diseo-el-patrn.html" title="Opens external link in new window" target="_blank" class="external-link-new-window">Una explicación breve de qué son los Patrones, sin entrar en verlos uno a uno</a></li>
+<li><a href="http://www2.ing.puc.cl/%7Ejnavon/IIC2142/patexamples.htm" title="Opens external link in new window" target="_blank" class="external-link-new-window">Ejemplos de Patrones de diseño con cosas de la vida real</a></li>
+<li><a href="http://freemind.sourceforge.net/wiki/extensions/freemind/flashwindow.php?startCollapsedToLevel=2&amp;initLoadFile=/wiki/images/0/02/Software_design_patterns.mm&amp;mm_title=Software_design_patterns.mm" title="Opens external link in new window" target="_blank" class="external-link-new-window">Un expectacular mapa mental (creado con FreeMind) de los Patrones y Anti-patrones </a></li>
+</ul>
+<blockquote style="margin-bottom: 0pt; margin-top: 0pt"></blockquote>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Isotrol: Freniche Strikes Back</title>
+		<link>/2007/09/15/isotrol-freniche-strikes-back/</link>
+		<pubDate>Sat, 15 Sep 2007 18:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Isotrol]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Empleo]]></category>
+
+		<guid isPermaLink="false">/2007/09/15/isotrol-freniche-strikes-back/</guid>
+		<description><![CDATA[Repasando las noticias que he publicado este año me he dado cuenta que estoy en Septiembre y no he comentado en ningún sitio que mi forma de ganarme la vida ha cambiado&#8230; de nuevo. Hace unos meses, hablando con David Ragel, el socio con el que fundé Elelog, me dijo que mi perfil era de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">
+<div id="attachment_597" style="width: 105px" class="wp-caption aligncenter"><a href="http://www.isotrol.com/"><img class="size-full wp-image-597" title="logo_isotrol" src="/wp-content/uploads/2007/09/logo_isotrol.gif" alt="Isotrol" width="95" height="30" /></a><p class="wp-caption-text">Isotrol</p></div>
+<p class="bodytext">Repasando las noticias que he publicado este año me he dado cuenta que estoy en Septiembre y no he comentado en ningún sitio que mi forma de ganarme la vida ha cambiado&#8230; de nuevo.</p>
+<p class="bodytext">Hace unos meses, hablando con David Ragel, el socio con el que fundé <a class="external-link-new-window" title="Opens external link in new window" href="http://www.elelog.es/" target="_blank">Elelog</a>, me dijo que mi perfil era de cambiar de trabajo cada dos años. Creo que me lo dijo como algo peyorativo. Ya se sabe que si cambias mucho de trabajo es que no eres constante, te desanimas ante las dificultades, no tienes las cosas claras&#8230; Bueno, eso que se lo digan a <a class="external-link-new-window" title="Opens external link in new window" href="http://en.wikipedia.org/wiki/Steve_Jobs" target="_blank">Steve Jobs</a>.</p>
+<p class="bodytext">Curiosamente, las empresas suelen buscar estos perfiles, cuando los cambios están justificados. Si te han despedido por, digámoslo románticamente, hacer de Robin Hood con los beneficios de la empresa o por aparecer borracho en aquella reunión con los clientes, o salir con la hija del jefe quizá debas replanteártelo. Aunque siempre te puedes fugar con ella al caribe y beber mojitos con el dinero afanado&#8230;</p>
+<p class="bodytext">Bueno, que me pierdo. El caso es que si has estado en diferentes puestos en diferentes empresas la teoría es que te has enriquecido como profesional. O eso dicen. Yo veo mis cambios como una búsqueda del trabajo que puedo hacer mejor, que es el que me hace feliz. Si un trabajo me aburre, lo normal es que me vaya. Si es difícil, o requiere muchas horas, o hay que trabajar mucho, o lo que sea, pero me motiva, es raro que me mueva.</p>
+<p class="bodytext">En un trabajo así estaba hasta Enero del 2007. Impartiendo <a class="internal-link" title="Opens internal link in current window" href="sobre-mi/trabajo/cursos-impartidos/">cursos de Java, Linux, UML</a>, etc. por España. Escribiendo algún <a class="internal-link" title="Opens internal link in current window" href="sobre-mi/trabajo/pcworld/">artículo en PCWorld</a>. Leyendo, aprendiendo. Impartiendo los cursos de <a class="internal-link" title="Opens internal link in current window" href="sobre-mi/trabajo/incyde/">Incyde</a> de consolidación de empresas. Viajando mucho. Vamos, el paraíso.</p>
+<p class="bodytext">El problema se llama Gonzalo y tiene ahora casi 20 meses. Me niego a no ver crecer a mis hijos. Y tanto viaje se acaba notando. Así que estaba pensando esto cuando me vinieron a ofrecer un puesto en Isotrol. Responsable de Formación. Suena bien.</p>
+<p>Así que me convertí en el Director del Departamento de Formación. Un compañero me dijo hace unos meses que yo era un departamento al que se puede invitar a un café: estoy yo solo. Mi trabajo: montar el departamento y gestionar la formación para una empresa de 230 personas, de momento.</p>
+<p class="bodytext">Dedico mis días a terminar de equipar el aula del edificio Bluenet, a gestionar los cursos para los trabajadores, a detectar las necesidades de formación y darles solución, a ayudar a conseguir las diferentes certificaciones (Sun, LPI,  Oracle, etc.), a impartir algún curso esporádicamente. Hago muchas cosas y muy variadas, de las que iré contando lo que pueda (lo siento chicos de la competencia :-)) en sucesivas noticias.</p>
+<p class="bodytext">Así que <a class="external-link-new-window" title="Opens external link in new window" href="http://maps.google.es/maps?f=q&amp;hl=es&amp;geocode=&amp;q=avda+isaac+newton+3,+41092,+sevilla&amp;sll=40.396764,-3.713379&amp;sspn=13.627337,34.628906&amp;ie=UTF8&amp;z=17&amp;iwloc=cent&amp;om=1" target="_blank">ya sabés dónde encontrarme</a>.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Retroinformática &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/retroinformatica/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Juegos de Amiga grabados en vídeo</title>
+		<link>/2007/03/05/juegos-de-amiga-grabados-en-video/</link>
+		<pubDate>Mon, 05 Mar 2007 14:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Retroinformática]]></category>
+		<category><![CDATA[Juegos]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/2007/03/05/juegos-de-amiga-grabados-en-video/</guid>
+		<description><![CDATA[Hoy en día ya casi no quedan salones de videojuegos. En los centros comerciales, mezclados con la mesa de hockey esa que se usa con las manos y la noria para bebés, quedan algunas máquinas con pantallas descomunales y sonido atronador que ya no nos impresionan. ¿Para qué?. La gente tiene 32&#8243; en la tele [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Hoy en día ya casi no quedan salones de videojuegos. En los centros comerciales, mezclados con la mesa de hockey esa que se usa con las manos y la noria para bebés, quedan algunas máquinas con pantallas descomunales y sonido atronador que ya <em>no nos impresionan</em>. ¿Para qué?. La gente tiene 32&#8243; en la tele de casa. Y una XBox 360. O lleva la misma potencia gráfica en una PSP.</p>
+<p class="bodytext">Recuerdo cuando veía en las presentaciones de las máquinas <a href="http://es.wikipedia.org/wiki/Neo_Geo" target="_blank">NEO-GEO</a> que tenían ¡»330 Meg» de memoria!. ?Alucinante!. Alucinante, claro, si tu ordenador es un 286 con 2MB de RAM. Hoy día mi tarjeta de vídeo tiene 512 MB&#8230;</p>
+<p class="bodytext">El caso es que en los tiempos dorados de los videojuegos, cuando me pasaba tardes enteras en los salones jugando a cosas como <a href="http://en.wikipedia.org/wiki/Yie_Ar_Kung_Fu" target="_blank">Yie-ar kung fu</a>, <a href="http://en.wikipedia.org/wiki/Black_Tiger_%28arcade_game%29" target="_blank">Black Tiger</a>, <a href="http://en.wikipedia.org/wiki/Kung_Fu_Master" target="_blank">Kung-fu master</a> y <a href="http://en.wikipedia.org/wiki/List_of_arcade_games" target="_blank">tántas otras</a>, una de las cosas que más se disfrutaba era ver a alguien que jugaba realmente bien a una máquina. Jugar era muy divertido, pero por la excitación del momento (luchabas por no perder tus 25 pesetas) no disfrutabas de la música, los gráficos, los movimientos, la ambientación, &#8230; Por eso se formaban corrillos detrás de algún <em>jugón</em>, de gente en éxtasis mirando cómo pasaba nivel tras nivel.</p>
+<p class="bodytext">Pues eso es lo que he vuelto a sentir al ver los vídeos de <a href="http://recordedamigagames.ath.cx/" target="_blank">Recorded Amiga games</a>, una web en la que gente se ha grabado jugando a maravillas como Monkey Island 2 y lo comparten con nosotros para disfrutarlo. Hay gente que prefiere ver vídeos de caídas en Youtube. Yo prefiero ésto.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Incorporando nuevo contenido</title>
+		<link>/2005/09/27/incorporando-nuevo-contenido/</link>
+		<pubDate>Tue, 27 Sep 2005 08:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Retroinformática]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/2005/09/27/incorporando-nuevo-contenido/</guid>
+		<description><![CDATA[Estoy preparando el portal para una gran mudanza. Le he preparado una nueva hoja de estilos (nada espectacular, más que nada porque no se hacerlas espectaculares) que aún no he subido. Estoy también incorporando las noticias que estaban en el antiguo Blog (escrito en Xoops) como noticias Typo3. Así se incorporarán a las búsquedas de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Estoy preparando el portal para una gran mudanza. Le he preparado una nueva hoja de estilos (nada espectacular, más que nada porque no se hacerlas espectaculares) que aún no he subido.</p>
+<p class="bodytext">Estoy también incorporando las noticias que estaban en el antiguo Blog (escrito en Xoops) como noticias Typo3. Así se incorporarán a las búsquedas de Typo3 y unificaré todo el contenido. He comenzado ya a transcribir las noticias (se pueden ir viendo en <a href="noticias/el-antiguo-blog/">El antiguo Blog</a>)</p>
+<p class="bodytext">Por último he abierto una nueva sección dedicada a una de mis pasiones (dentro de la Informática, por supuesto) como son los microordenadores de los 80. He comenzado esbozando una pequeña historia de las máquinas que he tenido, pero pronto colgaré información sobre los equipos que actualmente poseo, sus ampliaciones, hardware-hacks (o apaños) que les hago, etc. Los puedes ver <a href="que-me-interesa/retroinformatica/">aqu</a>í</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

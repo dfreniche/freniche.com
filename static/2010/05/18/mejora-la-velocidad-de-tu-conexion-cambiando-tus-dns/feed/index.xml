@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Mejora la velocidad de tu conexión cambiando tus DNS</title>
+	<atom:link href="/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-38742</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 30 Mar 2012 08:37:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-38742</guid>
+		<description><![CDATA[Hola. Sí, sigo vivo. No hay un &quot;nosotros&quot;, este blog es de los que se hacían antes: una persona contando lo que le apetece :-D
+
+En teoría puedes usar las DNS de quien quieras con tu proveedor de Internet. Ellos lo único que van a ver son peticiones que salen por el puerto 53. Si no van a sus servidores, pues mejor. Respecto a Google, ellos están muy interesados en vender anuncios, y nada mejor que saber desde el primer momento (la resolución de nombre de dominio a dirección IP) cómo se comportan los consumidores. Por eso te dan ese DNS, que además es rápido.
+
+Las ganancias de velocidad, dependen. Si estás en un juego conectado a un servidor y desde el juego se hace referencia al servidor usando su dirección IP, entonces no ganas nada. Pero si usan una web y hay que resolver el nombre, algo ganas. Lo que está claro es que con un DNS rápido no pierdes nada.
+
+Por último, me sorprende que se pueda escribir tanto texto desde una PS3... Me estoy haciendo mayor :-D]]></description>
+		<content:encoded><![CDATA[<p>Hola. Sí, sigo vivo. No hay un «nosotros», este blog es de los que se hacían antes: una persona contando lo que le apetece 😀</p>
+<p>En teoría puedes usar las DNS de quien quieras con tu proveedor de Internet. Ellos lo único que van a ver son peticiones que salen por el puerto 53. Si no van a sus servidores, pues mejor. Respecto a Google, ellos están muy interesados en vender anuncios, y nada mejor que saber desde el primer momento (la resolución de nombre de dominio a dirección IP) cómo se comportan los consumidores. Por eso te dan ese DNS, que además es rápido.</p>
+<p>Las ganancias de velocidad, dependen. Si estás en un juego conectado a un servidor y desde el juego se hace referencia al servidor usando su dirección IP, entonces no ganas nada. Pero si usan una web y hay que resolver el nombre, algo ganas. Lo que está claro es que con un DNS rápido no pierdes nada.</p>
+<p>Por último, me sorprende que se pueda escribir tanto texto desde una PS3&#8230; Me estoy haciendo mayor 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: alejandrus</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-38715</link>
+		<dc:creator><![CDATA[alejandrus]]></dc:creator>
+		<pubDate>Fri, 30 Mar 2012 02:11:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-38715</guid>
+		<description><![CDATA[buenas no se si sigguis vivos pero tng alguna cuestion sobre el DNS k no habia caido aun en ello pero esta semana me esta dando problemas. os comento...perdonar acentos y cosas asi lo escribo esto desde una ps3.
+justamente los cuelgues k he tenido han sido en la ps3 con mensajes de errores con las dns. desde mi ignorancia pregunto puedo ponerle a mi router, un huawei hg622, otras dns k no sean las de jazz k me vienen de fabrica? y con eso ganare velocidad de navegacion unicamente o en mas aspectos? a las compañias les da igual k lascambiemos? entiendo k como no sera un gran porcentage tpc les debe preocupar, pero si por ejemplo ponemos las de google.. a google en k le repercute?sabe que las usamos? 
+deciros k soy un apasionado de la tecnologia y soy como vosotros k se esmera preguntando y leyendo para obtener resultados.. por ejemplo en el router k tng k sin haber casi nada en la red le metido caña en temas como el tema de pppoE y tiene un puerto usb k le metes un pendrive y por dlna disfrute total]]></description>
+		<content:encoded><![CDATA[<p>buenas no se si sigguis vivos pero tng alguna cuestion sobre el DNS k no habia caido aun en ello pero esta semana me esta dando problemas. os comento&#8230;perdonar acentos y cosas asi lo escribo esto desde una ps3.<br />
+justamente los cuelgues k he tenido han sido en la ps3 con mensajes de errores con las dns. desde mi ignorancia pregunto puedo ponerle a mi router, un huawei hg622, otras dns k no sean las de jazz k me vienen de fabrica? y con eso ganare velocidad de navegacion unicamente o en mas aspectos? a las compañias les da igual k lascambiemos? entiendo k como no sera un gran porcentage tpc les debe preocupar, pero si por ejemplo ponemos las de google.. a google en k le repercute?sabe que las usamos?<br />
+deciros k soy un apasionado de la tecnologia y soy como vosotros k se esmera preguntando y leyendo para obtener resultados.. por ejemplo en el router k tng k sin haber casi nada en la red le metido caña en temas como el tema de pppoE y tiene un puerto usb k le metes un pendrive y por dlna disfrute total</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Guille</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-11305</link>
+		<dc:creator><![CDATA[Guille]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2011 12:22:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-11305</guid>
+		<description><![CDATA[Sí, hace tiempo que lo asumí. Desde entonces, sólo doy explicaciones a quien le interesa realmente. Al resto les digo que es magia. Suele resultar convincente.]]></description>
+		<content:encoded><![CDATA[<p>Sí, hace tiempo que lo asumí. Desde entonces, sólo doy explicaciones a quien le interesa realmente. Al resto les digo que es magia. Suele resultar convincente.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-11299</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2011 11:48:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-11299</guid>
+		<description><![CDATA[Sí, es bonito aprender... si te gusta esto. Hay gente que sólo quiere que Internet le vaya más rápida. En el mundo Windows hay toneladas de desconocimiento, especialmente entre los Informáticos. Cuando imparto un curso de Linux, siempre digo lo mismo: &quot;aquí vais a aprender algo de Linux y un montón de Windows&quot;. Porque el personal (y hablo de señores Ing. Informáticos), no sabe qué es una tabla de particiones, o que Windows hace Swap a un fichero, o a una partición, o que se pueden mapear las letras de unidad como se montan los sistemas de ficheros en Linux, o que puedes apagar la máquina con shutdown, o... Vamos, que la gente dice que Linux tal o cual pero realmente no conocen nada de la plataforma que usan a diario. Y que conste que yo, de Windows, más allá de jugar se bastante poquito... :-)
+
+Te recomiendo que, cuanto antes, asumas que esto es algo que nos interesa a los geeks. Al resto no. Se sufre menos. Es un poco como si alguien viene a hablarte de cine iraní, que igual es la bomba, pero mira...
+
+No me molesta que me digan FanBoy. De hecho, puedes verme en &lt;a href=&quot;/2010/10/08/video-de-mi-intervencion-en-etic/&quot; rel=&quot;nofollow&quot;&gt;este vídeo&lt;/a&gt; luciendo una camiseta de Fanboy auténtico ;-)]]></description>
+		<content:encoded><![CDATA[<p>Sí, es bonito aprender&#8230; si te gusta esto. Hay gente que sólo quiere que Internet le vaya más rápida. En el mundo Windows hay toneladas de desconocimiento, especialmente entre los Informáticos. Cuando imparto un curso de Linux, siempre digo lo mismo: «aquí vais a aprender algo de Linux y un montón de Windows». Porque el personal (y hablo de señores Ing. Informáticos), no sabe qué es una tabla de particiones, o que Windows hace Swap a un fichero, o a una partición, o que se pueden mapear las letras de unidad como se montan los sistemas de ficheros en Linux, o que puedes apagar la máquina con shutdown, o&#8230; Vamos, que la gente dice que Linux tal o cual pero realmente no conocen nada de la plataforma que usan a diario. Y que conste que yo, de Windows, más allá de jugar se bastante poquito&#8230; 🙂</p>
+<p>Te recomiendo que, cuanto antes, asumas que esto es algo que nos interesa a los geeks. Al resto no. Se sufre menos. Es un poco como si alguien viene a hablarte de cine iraní, que igual es la bomba, pero mira&#8230;</p>
+<p>No me molesta que me digan FanBoy. De hecho, puedes verme en <a href="/2010/10/08/video-de-mi-intervencion-en-etic/" rel="nofollow">este vídeo</a> luciendo una camiseta de Fanboy auténtico 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Guille</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-11298</link>
+		<dc:creator><![CDATA[Guille]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2011 11:06:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-11298</guid>
+		<description><![CDATA[Pues, no sé... supongo que me da rabia que haya personas que no quieran ir más allá. ¡Con lo bonito y excitante que es aprender cosas nuevas!
+
+Siempre me he preguntado si no será que se subestima a la gente. Ojo, lo digo como apreciación general. Como a ti, me pasa que, por pensar que la gente no sabe usar ipconfig o meterse en el router, no se lo explico. Pero claro, cómo lo van a saber si nadie se lo explica. Eso sí, con el tiempo me he dado cuenta de que ese no es el problema (aunque me ronde esa pregunta), sino que simplemente no les interesa aprenderlo (ni lo necesitan... es lo que tiene que te consideren un SAT). 
+
+Por cierto, como tú, me considero fan boy de las cosas que me gustan. Interpreto por tu aclaración que es posible que te hayas dado por aludido por el comentario que hecho (no era mi intención). Me refería a los fan boys en general. Intento, en la medida de lo posible, no contribuir a esos piques absurdos. Pero imagino que mi comentario es una forma de contribuir. 
+
+En cualquier caso, si no fuera por gente como tú, que se molesta en compartir sus conocimientos, habría infinidad de cosas que no habría aprendido.
+
+Un saludo.]]></description>
+		<content:encoded><![CDATA[<p>Pues, no sé&#8230; supongo que me da rabia que haya personas que no quieran ir más allá. ¡Con lo bonito y excitante que es aprender cosas nuevas!</p>
+<p>Siempre me he preguntado si no será que se subestima a la gente. Ojo, lo digo como apreciación general. Como a ti, me pasa que, por pensar que la gente no sabe usar ipconfig o meterse en el router, no se lo explico. Pero claro, cómo lo van a saber si nadie se lo explica. Eso sí, con el tiempo me he dado cuenta de que ese no es el problema (aunque me ronde esa pregunta), sino que simplemente no les interesa aprenderlo (ni lo necesitan&#8230; es lo que tiene que te consideren un SAT). </p>
+<p>Por cierto, como tú, me considero fan boy de las cosas que me gustan. Interpreto por tu aclaración que es posible que te hayas dado por aludido por el comentario que hecho (no era mi intención). Me refería a los fan boys en general. Intento, en la medida de lo posible, no contribuir a esos piques absurdos. Pero imagino que mi comentario es una forma de contribuir. </p>
+<p>En cualquier caso, si no fuera por gente como tú, que se molesta en compartir sus conocimientos, habría infinidad de cosas que no habría aprendido.</p>
+<p>Un saludo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-11297</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2011 10:46:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-11297</guid>
+		<description><![CDATA[Hola Guille, gracias por comentar.
+
+Efectivamente, es un chiste. Poca gente sabe manejar &lt;a href=&quot;http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/ipconfig.mspx?mfr=true&quot; rel=&quot;nofollow&quot;&gt;ipconfig&lt;/a&gt; desde la consola de Windows (me refiero a ese 99.99% de la gente que no ha visto cmd.exe en su vida, ni quiere verlo). Para la mayoría, un cambio en las DNS pasa por un reinicio, casi sin pensarlo.
+
+Soy poco FanBoy (salvo de las cosas que me gustan, sean de la marca que sean), ya que me gusta todo lo que caliente silicio. Como muestra, &lt;a href=&quot;/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/&quot; rel=&quot;nofollow&quot;&gt;un botón&lt;/a&gt;.
+
+Efectivamente es mejor cambiar las DNS en el router, porque tal y como digo (me autocito):
+&lt;blockquote&gt;
+Si estás convencido, debes cambiar los servidores DNS en cada máquina que tengas en casa (a no ser que tengas algo que actúe como servidor DNS en casa, en cuyo caso no creo que tenga que explicarte nada  ).&lt;/blockquote&gt;
+
+Supongo que estarás pensando para ganar velocidad en ajustar la MTU, u otros parámetros del protocolo TCP/IP. Pero a mucha gente creo que con probar unas DNSs más rápidas les vale, ¿no?
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Guille, gracias por comentar.</p>
+<p>Efectivamente, es un chiste. Poca gente sabe manejar <a href="http://www.microsoft.com/resources/documentation/windows/xp/all/proddocs/en-us/ipconfig.mspx?mfr=true" rel="nofollow">ipconfig</a> desde la consola de Windows (me refiero a ese 99.99% de la gente que no ha visto cmd.exe en su vida, ni quiere verlo). Para la mayoría, un cambio en las DNS pasa por un reinicio, casi sin pensarlo.</p>
+<p>Soy poco FanBoy (salvo de las cosas que me gustan, sean de la marca que sean), ya que me gusta todo lo que caliente silicio. Como muestra, <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/" rel="nofollow">un botón</a>.</p>
+<p>Efectivamente es mejor cambiar las DNS en el router, porque tal y como digo (me autocito):</p>
+<blockquote><p>
+Si estás convencido, debes cambiar los servidores DNS en cada máquina que tengas en casa (a no ser que tengas algo que actúe como servidor DNS en casa, en cuyo caso no creo que tenga que explicarte nada  ).</p></blockquote>
+<p>Supongo que estarás pensando para ganar velocidad en ajustar la MTU, u otros parámetros del protocolo TCP/IP. Pero a mucha gente creo que con probar unas DNSs más rápidas les vale, ¿no?</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Guille</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-11296</link>
+		<dc:creator><![CDATA[Guille]]></dc:creator>
+		<pubDate>Tue, 15 Feb 2011 10:30:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-11296</guid>
+		<description><![CDATA[El chiste sobre el XP que haces al final, suponiendo que sea un chiste, resulta un tanto tontorrón. En fin... eterna disputa, no entre Microsoft y Apple, sino entre fan boys que no tienen nada mejor que hacer.
+
+Ahora, si me permites un par de comentarios.... Primero, sobre lo del XP, no, no hace falta reiniciar el PC por un cambio de DNS. Segundo, esto es, tu artículo, decir que resulta más eficiente y eficaz cambiar las DNS del router, ya que es a través de este como te conectas. Además, evitarías tener que cambiar las DNS de cada adaptador de cada Mac/iPod/iPhone/iDick.
+
+Otra cosa, si lo que quieres es ganar velocidad, hay otras maneras. Poner servidores DNS que puedan no responder, no es una de ellas (lo digo por tu comentario del último párrafo).
+
+Saludos.]]></description>
+		<content:encoded><![CDATA[<p>El chiste sobre el XP que haces al final, suponiendo que sea un chiste, resulta un tanto tontorrón. En fin&#8230; eterna disputa, no entre Microsoft y Apple, sino entre fan boys que no tienen nada mejor que hacer.</p>
+<p>Ahora, si me permites un par de comentarios&#8230;. Primero, sobre lo del XP, no, no hace falta reiniciar el PC por un cambio de DNS. Segundo, esto es, tu artículo, decir que resulta más eficiente y eficaz cambiar las DNS del router, ya que es a través de este como te conectas. Además, evitarías tener que cambiar las DNS de cada adaptador de cada Mac/iPod/iPhone/iDick.</p>
+<p>Otra cosa, si lo que quieres es ganar velocidad, hay otras maneras. Poner servidores DNS que puedan no responder, no es una de ellas (lo digo por tu comentario del último párrafo).</p>
+<p>Saludos.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: fernando</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-11076</link>
+		<dc:creator><![CDATA[fernando]]></dc:creator>
+		<pubDate>Sun, 06 Feb 2011 18:53:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-11076</guid>
+		<description><![CDATA[Muchas gracias!!]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-4262</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 20 May 2010 12:12:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-4262</guid>
+		<description><![CDATA[Luis, este comentario es digno del museo de la informática marronera: cuántas veces habremos usado esos DNS en casa de un amigo, probando en la oficina, etc. ]]></description>
+		<content:encoded><![CDATA[<p>Luis, este comentario es digno del museo de la informática marronera: cuántas veces habremos usado esos DNS en casa de un amigo, probando en la oficina, etc. </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/comment-page-1/#comment-4260</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Wed, 19 May 2010 22:39:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=990#comment-4260</guid>
+		<description><![CDATA[Pues muchas gracias por el consejo. La verdad es que desconocía la aplicación namebench y me ha demostrado lo equivocado que estaba con las DNS que ponía siempre. Soy *tan* descuidado que desde el 96 vengo poniendo unas de Telefónica (ahora Movistar, sí, sí, vale): 195.235.113.3 y 195.235.96.90  :)]]></description>
+		<content:encoded><![CDATA[<p>Pues muchas gracias por el consejo. La verdad es que desconocía la aplicación namebench y me ha demostrado lo equivocado que estaba con las DNS que ponía siempre. Soy *tan* descuidado que desde el 96 vengo poniendo unas de Telefónica (ahora Movistar, sí, sí, vale): 195.235.113.3 y 195.235.96.90  🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>libros &#8211; freniche.com</title>
+	<atom:link href="/tag/libros/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Aprendiendo a aprender Informática (y JavaScript)</title>
+		<link>/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/</link>
+		<comments>/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/#comments</comments>
+		<pubDate>Tue, 16 Aug 2011 11:38:53 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Enyo]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[libros]]></category>
+		<category><![CDATA[WebOS]]></category>
+
+		<guid isPermaLink="false">/?p=1585</guid>
+		<description><![CDATA[Esta es la vida del informático. Da igual los años que tengas: la sensación es que nunca tienes ni idea de nada. Avanza tan rápida la industria que, por mucho que hagas, siempre te quedas atrás. Y hay que tomar decisiones. Los tiempos aquellos de poder ser un «informático renacentista» que sabía de hardware, de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Esta es la vida del informático. Da igual los años que tengas: la sensación es que nunca tienes ni idea de nada. Avanza tan rápida la industria que, por mucho que hagas, siempre te quedas atrás. Y hay que tomar decisiones. Los tiempos aquellos de poder ser un «informático renacentista» que sabía de hardware, de software, de todo un poco, pasaron. Yo hace tiempo que desistí de aprender ciertas cosas (como BB.DD.) y me centré en otras. Si no enfocas sobre un tema, no hay manera.</p>
+<p>Por eso te recomiendo que sigas mi «método» sobre cómo aprender, en general, mientras avanzas en tu carrera profesional como informático:</p>
+<ul>
+<li>asúmelo: siempre va a haber muchas más cosas que NO sepas, que las que sabes. Aunque ahora aprendas Ruby, mañana necesitarás Java. O JavaScript. O C++, Clojure, o lo que sea. Nunca lo vas a saber todo. Y no pasa nada.</li>
+<li>hablar estas cosas y admitir las propias carencias frente a nuestros compañeros nos quita un gran peso. Porque la mente es mala, y constantemente te dice «<em>mira que no saber CSS, seguro que todos estos ya hacen transformaciones CSS3 mientras duermen, y tú aquí, sin tener ni zorra idea de nada, mira que eres torpe&#8230;</em>«. Nos machacamos sin piedad, y resulta que cuando preguntas no todo el mundo está tan avanzado. Es más, si tienes esta inquietud, probablemente tú ya sepas algo: «<a href="http://es.wikipedia.org/wiki/Sócrates">sólo se que no se nada</a>«. Uno de los motivos por los que voy a las <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">NSCoder Night</a> es por hacer esta «terapia de grupo».</li>
+<li>no te dejes llevar por el agobio, o el estrés. Sí, vale, que tienes que entregar el proyecto para ayer: entonces usa Google (o mejor, <a href="http://stackoverflow.com/">stackoverflow</a>). Pero márcate unos objetivos cada año, y aprende o profundiza en algún aspecto que te sirva y te interese: un lenguaje de programación, dominar un IDE, ver qué sistema de control de versiones te gusta más, patrones de diseño, UML, etc. Si tienes esos objetivos marcados y los cumples, cada año sabrás más que el anterior. No son importantes los años de experiencia, sino lo que experimentas durante esos años.</li>
+<li><a href="/2010/06/10/leyendo-para-emprender/">lee libros</a>. Internet es fantástico para búsquedas de dudas, y hay muchos tutoriales. Pero muchos de ellos no se pueden comparar al material que encuentras en un libro: bien pensado, estructurado, con ejemplos. Además, leer un libro supone un esfuerzo y desarrollar una concentración que nos viene bien como programadores: cada vez somos menos capaces de concentrarnos durante un par de horas, por culpa de las interrupciones. Leer te obliga a trabajar esos conocimientos, y así a aprender.</li>
+<li>una vez leas libros, busca vídeos del tema. En iTunes (y en Internet en general) hay vídeos de casi todo. Es bastante ameno ver cómo se hace algo, en lugar de tener que leerlo. Pero hazlo siempre después de leer el libro.</li>
+</ul>
+<div style="text-align: justify;">Estos son los pasos que suelo dar, y me han servido tanto para las <a href="/2010/06/25/scwcd-aprobado/">certificaciones Java</a>, como para <a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/">aprender Cocoa Touch</a>. Y este verano me ha surgido la oportunidad de poder empezar a desarrollar Apps para otra plataforma móvil, WebOS y el HP TouchPad. El problema es que (ver punto primero) no tengo ni idea de JavaScript. Solución: tirar de Amazon.co.uk (que a partir de una cantidad no cobra gastos de envío) y pedirme estos dos libros sobre JavaScript:</div>
+<div>
+<div id="attachment_1589" style="width: 1034px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/JavaScriptBooks.jpg"><img class="size-large wp-image-1589" title="Libros JavaScript" src="/wp-content/uploads/2011/08/JavaScriptBooks-1024x764.jpg" alt="Libros JavaScript" width="1024" height="764" srcset="/wp-content/uploads/2011/08/JavaScriptBooks-1024x764.jpg 1024w, /wp-content/uploads/2011/08/JavaScriptBooks-300x224.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><p class="wp-caption-text">Libros JavaScript</p></div>
+</div>
+<div>Tienen el visto bueno de los Tuiteros expertos en JavaScript (<a href="http://twitter.com/#!/jablanco">José Blanco</a> y <a href="http://ramblings.luismedel.com/">Luis Medel</a>), así que deben ser la pera.</div>
+<div style="text-align: justify;">Con ellos voy a seguir explorando el Framework Enyo y WebOS, a la espera de que me llegue una unidad de pruebas HP TouchPad para depurar las Apps. Cuando llegue, pondré por aquí mis impresiones.</div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+		<item>
+		<title>Leyendo para emprender</title>
+		<link>/2010/06/10/leyendo-para-emprender/</link>
+		<comments>/2010/06/10/leyendo-para-emprender/#comments</comments>
+		<pubDate>Thu, 10 Jun 2010 08:44:44 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[libros]]></category>
+
+		<guid isPermaLink="false">/?p=1036</guid>
+		<description><![CDATA[Cuando el año pasado en Octubre, decidí dejar Isotrol e iniciar una nueva etapa en solitario programando apps para el iOS (el S.O. del iPhone, iPod Touch e iPad) tenía claro que no quería cometer viejos errores de mis anteriores etapas como empresario. Quería crecer y mejorar, como persona, como profesional y como emprendedor. Por [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><img class="aligncenter size-full wp-image-1037" title="libros" src="/wp-content/uploads/2010/06/libros.jpg" alt="" width="399" height="600" srcset="/wp-content/uploads/2010/06/libros.jpg 399w, /wp-content/uploads/2010/06/libros-199x300.jpg 199w" sizes="(max-width: 399px) 100vw, 399px" />Cuando el año pasado en Octubre, <a href="/2009/11/29/iniciando-una-nueva-etapa/">decidí dejar Isotrol e iniciar una nueva etapa</a> en solitario programando apps para el iOS (el S.O. del iPhone, iPod Touch e iPad) tenía claro que no quería cometer viejos errores de mis anteriores etapas como empresario. Quería crecer y mejorar, como persona, como profesional y como emprendedor. Por ello me metí en Amazon y compré un conjunto de libros que tocan estos tres temas.</p>
+<p style="text-align: justify;">Pero claro, comprar los libros no es lo mismo que leerlos. Y leerlos no es lo mismo que comprenderlos. Y, en cualquier caso, lo importante, lo único importante de toda preparación, es aplicar lo aprendido. Leer, comprender, aceptar e interiorizar no son nada comparados con <strong>hacer</strong>. La parte más importante del Getting Thing Done es, precisamente, el Done.</p>
+<p>De momento, llevo leídos:</p>
+<ul>
+<li style="text-align: justify;"><a href="http://www.casadellibro.com/libro-gestiona-mejor-tu-vida-claves-y-habitos-para-ser-mas-productivo-/1486821/2900001342546?gclid=cn3-joiolaicfrg8laod8jaeea">Gestiona mejor tu vida</a>, de <a href="http://albertopena.com/libro/">Berto Pena</a>, librazo que recomiendo a cualquiera que sienta que no le llegan las horas al final del día.</li>
+<li style="text-align: justify;">The 4 hour workweek, un libro revolucionario por lo simple que te plantea cómo cambiar las cosas. Hay que leerlo dejándose retar por las nuevas ideas de Tim Ferriss y ser capaz de ser flexibles y responder al reto. Me lo recomendó Jaime Gallo y ha sido una revelación.</li>
+<li style="text-align: justify;">Beginning iPhone 3 Development ha sido mi primer libro de iPhone SDK, y me ha ayudado a preparar mis primeras Apps. He necesitado leerme también (en formato electrónico, no aparece en la foto) Learn Objective-C on the Mac, para tener una idea del lenguaje que está detrás de Cocoa Touch y no perderme. Este último me ha encantado, porque es muy académico y directo. Si sabes C, o Java, te explica las cosas con profundidad y sin mitos. Pero no te lleva de la manita, ni trata de suavizar según que cosas.</li>
+</ul>
+<p>Estoy ahora mismo con:</p>
+<ul>
+<li>Head First Servlets &amp; JSP, por aquello de <a href="/2010/06/09/preparando-el-scwcd/">prepararme el SCWCD</a>.</li>
+</ul>
+<p>Y luego vendrán:</p>
+<ul>
+<li>En Julio, SCJP 1.6 Study Guide.</li>
+<li>Y en Agosto &#8211; Septiembre, mezclaré los libros de Joel Spolsky y Micro ISV con el segundo del iPhone, iPhone SDK 3 Programming.</li>
+</ul>
+<p style="text-align: justify;">Por supuesto, seguiremos leyendo en blogs, en PDFs (algo del iPad habrá que mirar), etc. Es fundamental el estar permanentemente formándonos, revisando, mejorando (o intentándolo). Tener curiosidad y ganas de aprender es uno de los ingredientes de la salsa de la vida.</p>
+<p style="text-align: center;"><strong>¿Y tú? ¿Con qué libros andas ahora? ¿Me recomiendas alguno?</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/06/10/leyendo-para-emprender/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

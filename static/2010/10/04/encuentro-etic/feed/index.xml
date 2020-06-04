@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Encuentro eTic</title>
+	<atom:link href="/2010/10/04/encuentro-etic/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/10/04/encuentro-etic/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/10/04/encuentro-etic/comment-page-1/#comment-7571</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 07 Oct 2010 17:35:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-7571</guid>
+		<description><![CDATA[Hola Ignacio.
+
+Me alegro de que te gustase y gracias por tomarte la molestia de comentar. Después de aguantarme hasta tan tarde me sorprende que te atrevas a seguir soportándome en Internet :-)
+
+Quiero escribir algo para dejar claro que este mercado de iPads (que NO de tablets, ya que de momento NO hay ningún otro tablet a la vista) lo ha creado Apple. Lo de antes eran TabletPC. Pero este concepto always-on, always-connected, con tienda de aplicaciones y manejado con los dedos es nuevo.
+
+Me he debido explicar mal. Las aplicaciones nativas para iOS se escriben en Objective-C. Son los juegos, al ser Objective-C un superconjunto de C, los que se escriben completos en C. Respecto a la complejidad, tampoco quería asustar a nadie. Si sabes OOP y C, te puedes poner en iOS rápidamente al día. Depende del tiempo, dedicación y motivación. Y esa es la clave de los 14 años: que tus padres se encargan de todo, y puedes dedicarte tardes y tardes a programar sin interrupciones. Si tienes niños en casa me comprenderás :-) Yo creo que esos éxitos se dan en ciertos casos, con gente hace un buen producto y además acierta en el momento de sacarlo. Como las aplicaciones famosas de linternas y peos. Ahora no sorprenden, pero cuando apareció el AppStore fueron la bomba.
+
+En fin, que si me pides una receta para triunfar con una idea en la AppStore te responderé lo que a todos: &quot;¡A tí te lo voy a contar yo!&quot; :-)
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Ignacio.</p>
+<p>Me alegro de que te gustase y gracias por tomarte la molestia de comentar. Después de aguantarme hasta tan tarde me sorprende que te atrevas a seguir soportándome en Internet 🙂</p>
+<p>Quiero escribir algo para dejar claro que este mercado de iPads (que NO de tablets, ya que de momento NO hay ningún otro tablet a la vista) lo ha creado Apple. Lo de antes eran TabletPC. Pero este concepto always-on, always-connected, con tienda de aplicaciones y manejado con los dedos es nuevo.</p>
+<p>Me he debido explicar mal. Las aplicaciones nativas para iOS se escriben en Objective-C. Son los juegos, al ser Objective-C un superconjunto de C, los que se escriben completos en C. Respecto a la complejidad, tampoco quería asustar a nadie. Si sabes OOP y C, te puedes poner en iOS rápidamente al día. Depende del tiempo, dedicación y motivación. Y esa es la clave de los 14 años: que tus padres se encargan de todo, y puedes dedicarte tardes y tardes a programar sin interrupciones. Si tienes niños en casa me comprenderás 🙂 Yo creo que esos éxitos se dan en ciertos casos, con gente hace un buen producto y además acierta en el momento de sacarlo. Como las aplicaciones famosas de linternas y peos. Ahora no sorprenden, pero cuando apareció el AppStore fueron la bomba.</p>
+<p>En fin, que si me pides una receta para triunfar con una idea en la AppStore te responderé lo que a todos: «¡A tí te lo voy a contar yo!» 🙂</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Ignacio Ballesteros</title>
+		<link>/2010/10/04/encuentro-etic/comment-page-1/#comment-7559</link>
+		<dc:creator><![CDATA[Ignacio Ballesteros]]></dc:creator>
+		<pubDate>Thu, 07 Oct 2010 11:46:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-7559</guid>
+		<description><![CDATA[Enhorabueno por tu conferencia. Ha sido sin duda la mejor en cuanto a contenido y concrección, hablando de temas economicos pero sin despistar los aspectos técnicos.
+
+ Yo fui el que te hice un comentario sobre los ipads y creo que tienes razon en que antes existian muchos modelos pero fue Apple quien ha abierto el mercado al gran público facilitando su manejo. Evidentemente cuando venian con XP solo eran aptos para los que usasen un ordenador cotidianamente.
+
+Me quedó una pregunta,...si como tu comentaste, para programar en iOs se tiene que hacer en C puro y duro ¿Como se puede explicar que, como sale alguna vez en las noticias, algun chavea de 14/15 años haya programado un videojuego para iPhone y este ganando una buena pasta? ¿No debería ser esto una limitación para el desarrollo de aplicaciones para el iOS? No me cuadra que sea el más dificil de programar y sin embargo el que tenga más aplicaciones disponibles. ¿Es quizas gracias al entorno de desarrollo, la comunidad online o la documentación? 
+
+Perdona el tochazo y de nuevo felicidades por tu conferencia.]]></description>
+		<content:encoded><![CDATA[<p>Enhorabueno por tu conferencia. Ha sido sin duda la mejor en cuanto a contenido y concrección, hablando de temas economicos pero sin despistar los aspectos técnicos.</p>
+<p> Yo fui el que te hice un comentario sobre los ipads y creo que tienes razon en que antes existian muchos modelos pero fue Apple quien ha abierto el mercado al gran público facilitando su manejo. Evidentemente cuando venian con XP solo eran aptos para los que usasen un ordenador cotidianamente.</p>
+<p>Me quedó una pregunta,&#8230;si como tu comentaste, para programar en iOs se tiene que hacer en C puro y duro ¿Como se puede explicar que, como sale alguna vez en las noticias, algun chavea de 14/15 años haya programado un videojuego para iPhone y este ganando una buena pasta? ¿No debería ser esto una limitación para el desarrollo de aplicaciones para el iOS? No me cuadra que sea el más dificil de programar y sin embargo el que tenga más aplicaciones disponibles. ¿Es quizas gracias al entorno de desarrollo, la comunidad online o la documentación? </p>
+<p>Perdona el tochazo y de nuevo felicidades por tu conferencia.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/10/04/encuentro-etic/comment-page-1/#comment-7473</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2010 08:25:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-7473</guid>
+		<description><![CDATA[Cuando se calmen las aguas (la semana que viene) editaré el vídeo y subiré la presentación a algún lado. Wait &amp; see!]]></description>
+		<content:encoded><![CDATA[<p>Cuando se calmen las aguas (la semana que viene) editaré el vídeo y subiré la presentación a algún lado. Wait &#038; see!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/10/04/encuentro-etic/comment-page-1/#comment-7472</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2010 08:24:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-7472</guid>
+		<description><![CDATA[Ups, por alguna razón no había visto los otros dos comentarios.
+Esperaré ese vídeo, entonces :)]]></description>
+		<content:encoded><![CDATA[<p>Ups, por alguna razón no había visto los otros dos comentarios.<br />
+Esperaré ese vídeo, entonces 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/10/04/encuentro-etic/comment-page-1/#comment-7471</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2010 08:23:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-7471</guid>
+		<description><![CDATA[Oye, pues suena muy interesante, sí. Lástima no poder asistir.
+¿Sería mucho imaginar que tienes previsto colgar algún material de esas charlas? 
+:D]]></description>
+		<content:encoded><![CDATA[<p>Oye, pues suena muy interesante, sí. Lástima no poder asistir.<br />
+¿Sería mucho imaginar que tienes previsto colgar algún material de esas charlas?<br />
+😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/10/04/encuentro-etic/comment-page-1/#comment-7470</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2010 08:15:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-7470</guid>
+		<description><![CDATA[Sorry! Los buenos jefes... :-) Más de uno se debería leer &lt;a href=&quot;/2010/04/20/como-gestionar-un-equipo-de-geeks/&quot; rel=&quot;nofollow&quot;&gt;esto&lt;/a&gt;. 
+No te preocupes, intentaré grabar mi charla y luego la subiré a Vimeo, o donde pueda :-)]]></description>
+		<content:encoded><![CDATA[<p>Sorry! Los buenos jefes&#8230; 🙂 Más de uno se debería leer <a href="/2010/04/20/como-gestionar-un-equipo-de-geeks/" rel="nofollow">esto</a>.<br />
+No te preocupes, intentaré grabar mi charla y luego la subiré a Vimeo, o donde pueda 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguelón</title>
+		<link>/2010/10/04/encuentro-etic/comment-page-1/#comment-7468</link>
+		<dc:creator><![CDATA[Miguelón]]></dc:creator>
+		<pubDate>Tue, 05 Oct 2010 06:48:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1144#comment-7468</guid>
+		<description><![CDATA[Le he pedido a mi jefe que me deje ir y me ha dicho que no...]]></description>
+		<content:encoded><![CDATA[<p>Le he pedido a mi jefe que me deje ir y me ha dicho que no&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

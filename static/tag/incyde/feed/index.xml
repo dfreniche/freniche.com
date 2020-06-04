@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Incyde &#8211; freniche.com</title>
+	<atom:link href="/tag/incyde/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Feria de Nuevas  Tecnologías en Melilla</title>
+		<link>/2005/11/23/feria-de-nuevas-tecnologias-en-melilla/</link>
+		<pubDate>Wed, 23 Nov 2005 18:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[Incyde]]></category>
+
+		<guid isPermaLink="false">/2005/11/23/feria-de-nuevas-tecnologias-en-melilla/</guid>
+		<description><![CDATA[Desde hoy Miércoles 23 estamos por Melilla. Hasta el próximo Domingo 27, en el que me montaré en el avión de vuelta a Málaga. Y después de una semana (la pasada) con un intensísimo curso de Incyde en Sanlúcar la Mayor (Sevilla), por cierto, con unos alumnos majísimos (saludos a todos/as). Ahora tocan talleres en [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">Desde hoy Miércoles 23 estamos por <a href="http://www.melilla.es/" target="_blank">Melilla</a>. Hasta el próximo Domingo 27, en el que me montaré en el avión de vuelta a Málaga. Y después de una semana (la pasada) con un intensísimo curso de <a href="sobre-mi/trabajo/incyde/">Incyde</a> en Sanlúcar la Mayor (Sevilla), por cierto, con unos alumnos majísimos (saludos a todos/as).</p>
+<p class="bodytext" style="text-align: justify;">Ahora tocan talleres <em>en directo</em>. Estos talleres son de Linux, OpenOffice.org y OpenCMS. Como siempre, los voy a dar «a la carta». Creo que hay pocos profesores que impartan cursos sin papeles y adaptándose siempre a lo que pide el alumno. Aunque así debería ser: enseñar a cada persona lo que realmente necesita y no lo que el profesor conozca mejor. Evidentemente, esta filosofía implica un mayor desgaste para quien imparte el curso, pero&#8230;</p>
+<p class="bodytext" style="text-align: justify;">En Melilla acaban de sacar una nueva distro de Linux, basada en SuSe, llamada <a href="http://www.melilla.es/solime/" target="_blank">Melinux</a> (no confundir con otra distro, esta de Oriente Medio, llamada <a href="http://melinux.com/" target="_blank">Middle East Linux</a>). Está aún en fase de desarrollo, pero es otro ejemplo más del empuje del Software Libre.</p>
+<p class="bodytext">
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

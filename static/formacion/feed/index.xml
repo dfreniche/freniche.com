@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Formación</title>
+	<atom:link href="/formacion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Ramiro</title>
+		<link>/formacion/comment-page-1/#comment-513495</link>
+		<dc:creator><![CDATA[Ramiro]]></dc:creator>
+		<pubDate>Fri, 12 Sep 2014 08:20:32 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=1022#comment-513495</guid>
+		<description><![CDATA[Si has llegado a leer hasta aquí hay dos posibilidades.
+a) te pica la curiosidad. Quieres mejorar tus habilidades en desarrollo con Java o iOS. No lo dudes. Especialmente lo seguro que hará feliz.
+b) buscas  un formador/capacitador/instigador. No busques más. Diego es la persona que necesitas. No leas más, estás perdiendo tiempo y dinero.]]></description>
+		<content:encoded><![CDATA[<p>Si has llegado a leer hasta aquí hay dos posibilidades.<br />
+a) te pica la curiosidad. Quieres mejorar tus habilidades en desarrollo con Java o iOS. No lo dudes. Especialmente lo seguro que hará feliz.<br />
+b) buscas  un formador/capacitador/instigador. No busques más. Diego es la persona que necesitas. No leas más, estás perdiendo tiempo y dinero.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Organizando mi espacio de trabajo &#124; freniche.com: iPhone, Java, Macs, Linux...</title>
+		<link>/formacion/comment-page-1/#comment-174290</link>
+		<dc:creator><![CDATA[Organizando mi espacio de trabajo &#124; freniche.com: iPhone, Java, Macs, Linux...]]></dc:creator>
+		<pubDate>Thu, 01 Aug 2013 17:13:13 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=1022#comment-174290</guid>
+		<description><![CDATA[[...] Formación [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Formación [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Nueva GSOD</title>
+		<link>/formacion/comment-page-1/#comment-13011</link>
+		<dc:creator><![CDATA[Nueva GSOD]]></dc:creator>
+		<pubDate>Fri, 01 Apr 2011 15:29:15 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=1022#comment-13011</guid>
+		<description><![CDATA[[...] Formación [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Formación [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Acceder a un Mac con dos usuarios distintos, a la vez</title>
+		<link>/formacion/comment-page-1/#comment-7263</link>
+		<dc:creator><![CDATA[Acceder a un Mac con dos usuarios distintos, a la vez]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2010 15:58:22 +0000</pubDate>
+		<guid isPermaLink="false">/?page_id=1022#comment-7263</guid>
+		<description><![CDATA[[...] Formación [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Formación [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cádiz &#8211; freniche.com</title>
+	<atom:link href="/tag/cadiz/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Máster de Apps Móviles en Chiclana: experiencias en la radio</title>
+		<link>/2014/05/12/master-de-apps-moviles-en-chiclana-experiencias-en-la-radio/</link>
+		<pubDate>Mon, 12 May 2014 18:20:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[Chiclana]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2179</guid>
+		<description><![CDATA[Una pequeña actualización a la información del Máster de Comunicación Plus para aprender a desarrollar Apps en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta: tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur Conectados en RAI. Javier Suárez Ruiz, el profesor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg"><img src="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg" alt="Selfie Conectados en RAI" width="1168" height="876" class="aligncenter size-full wp-image-2180" srcset="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg 1168w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-300x225.jpg 300w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-1024x768.jpg 1024w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-535x401.jpg 535w" sizes="(max-width: 1168px) 100vw, 1168px" /></a></p>
+<p>Una pequeña actualización a la información del <a href="/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/">Máster de Comunicación Plus para aprender a desarrollar Apps</a> en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta:</p>
+<ul>
+<li>tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur <a href="https://www.facebook.com/pages/Conectados-en-RAI/1410704842504486?ref=stream&amp;hc_location=timeline">Conectados en RAI</a>.  </li>
+<li><a href="http://javiersuarezruiz.wordpress.com/2014/05/11/i-master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Javier Suárez Ruiz</a>, el profesor del Máster encargado de Windows Phone (genuflexión y respeto al crack) ha escrito en su blog (que, por cierto, para los que quieran aprender Windows Phone es el sitio a donde ir) una entrada sobre el Máster y su visión del mismo.</li>
+<li>he rectificado en el post que escribí sobre el Máster las horas totales del mismo. Son 240 h, ya que cada semana son 60 h de formación: 50 h de la plataforma de la semana (iOS, WP, Android) y 10 de otras cosas (prototipado, UX, etc.)</li>
+<li>el Máster empieza el próximo Domingo 18. Muchas ganas de irme a Chiclana y huir del pólen y las alergias del campo.</li>
+<li>durante el Máster, esperad fotos y recochineo desde la playa y piscina. He avisado.</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Aprende iOS, Android, HTML5 y Windows Phone en la playa</title>
+		<link>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/</link>
+		<comments>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/#comments</comments>
+		<pubDate>Mon, 28 Apr 2014 08:15:39 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2147</guid>
+		<description><![CDATA[TL;DR; Me voy a la playa a enseñar iOS y Android. Si no vienes, puedes sentir envidia. Es normal. El Máster Pues sí. Este es el panorama al que se enfrentan los alumnos del I Máster en Desarrollo de Aplicaciones Móviles en Andalucía de Comunicación Plus. Retirarse del mundanal ruido junto a las playas de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>TL;DR;</h2>
+<pre><code>Me voy a la playa a enseñar iOS y Android. Si no vienes, puedes sentir envidia. Es normal.
+</code></pre>
+<h2>El Máster</h2>
+<p>Pues sí. Este es el panorama al que se enfrentan los alumnos del <a href="http://comunicacionplus.com/es/master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">I Máster en Desarrollo de Aplicaciones Móviles en Andalucía de Comunicación Plus</a>. Retirarse del mundanal ruido junto a las playas de Chiclana, en Cádiz. En un apartahotel de 4 llaves. Y una vez allí, darle a la tecla 50 h por plataforma, en formato ultra-intensivo, empezando un Domingo y acabando un Sábado.</p>
+<p>Si echáis cuentas, 50 h seguidas de Domingo a Sábado queman a cualquiera. Por eso nos han prometido actividades “extraescolares” con las que recuperar cuerpo y mente en tiempo récord. Algo he oído de masajes, paseos en bici de montaña por la playa, clases de Pádel o salir al mar a hacer <a href="http://es.wikipedia.org/wiki/Surf_de_remo">Paddle Surf</a>. Y claro, además tenemos las piscinas y la playa de Chiclana. Mal no vamos a estar.</p>
+<p>Pero volviendo al contenido del Máster, me parece muy interesante que se traten cuatro plataformas distintas (luego se puede escoger la que te guste más, o de la que te ofrezca trabajo). Además de aprender mucho, puedes comparar y ver lo que tienen de mejor unas sobre otras. Por ejemplo, en Windows Phone tienen bindings (en iOS no tenemos Cocoa Bindings, sólo en OS X). O puedes ver que la forma de internacionalizar proyectos de Android probablemente sea la más limpia (en mi opinión). O por qué Eclipse necesita ya la jubilación (después de ver Visual Studio y Xcode). Y además, habrá unas horas dedicadas a Márketing Online o a pensar en la Experiencia de Usuario. Esto último lo dará el gran <a href="http://about.me/jorgegalindocruces">Jorge Galindo</a> de 47 Degrees con el que organicé en Febrero pasado <a href="/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/">el curso gratuito para parados y estudiantes de iOS</a>.</p>
+<p>Yo me voy a encargar de las partes de iOS y Android. Vamos, de las que se algo, porque de las otras dos flojito, flojito. Creo que 50 h dan para mucho y podremos ver de todo: herramientas, código, patrones de diseño, frameworks, … y apps. Muchas apps. Cosas aplicables directamente (o eso espero).</p>
+<p>Hay muchas cosas buenas en este Máster, pero el alejarte del trabajo para enfocarte en aprender, la intensidad de la formación (un poco <em>a la Big Nerd Ranch</em>, pero en Cádiz, que lo mejora todo) y el apoyo del Director del Máster, <a href="http://comunicacionplus.com/en/equipo/pablo-garcia-trespalacios/">Pablo Gª Trespalacios</a> (que sabe de lo que habla porque para eso ha sido alumno mío) me parecen lo mejor. Y los alumnos, claro, que no saben dónde se meten <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2>El vil metal</h2>
+<p>Como he leído por ahí <em>es muy caro</em>. Bueno, para empezar puedes buscarte el alojamiento y ahorrarte algo, o escoger semanas sueltas. Si vamos a lo más “caro”, son 5000 Eur., que es un dinero. Pero eso incluye:</p>
+<ul>
+<li>un mes alojado en un complejo de apartamentos con pensión completa</li>
+<li>todas las pausas de cafés</li>
+<li>las actividades extra académicas</li>
+<li>y 200 h, al menos, de formación. Si valoras en 1000 Eur todo lo anterior, cada hora de formación te sale a 20 Eur. </li>
+</ul>
+<p><strong>UPDATE 12 Mayo</strong> No son 200 h. Son 240 h, ya que cada semana tiene otras horas dedicadas a prototipado, UX, márketing&#8230; sólo había incluido mis 50 h e ignorado al resto <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<ul>
+<li>y hay una financiación muy interesante (los dos primeros años no pagas nada).</li>
+</ul>
+<p>Si te interesa esto, tienes toda la información en la web de <a href="http://comunicacionplus.com/es/master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Comunicación Plus</a>.</p>
+<p>Yo ya estoy buscando las chanclas de la playa para echar en la mochila junto con el portátil. Lo dicho: puedes sentir envidia <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

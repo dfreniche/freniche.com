@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Todo Linux: resultado del artículo «virtualización en Linux» es que no uses VMWare</title>
+	<atom:link href="/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/comment-page-1/#comment-5163</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 06 Jul 2010 12:29:50 +0000</pubDate>
+		<guid isPermaLink="false">/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/#comment-5163</guid>
+		<description><![CDATA[Raul, me alegro de que te sirviera mi no-respuesta :-)
+La desconexión, debido al iPhone, no es total, pero casi. 
+Ahora que lo tienes claro porqué no lo documentas y lo publicas en algún blog? O en este mismo si quieres. Serías mi primera y única hasta el momento firma invitada :-)]]></description>
+		<content:encoded><![CDATA[<p>Raul, me alegro de que te sirviera mi no-respuesta 🙂<br />
+La desconexión, debido al iPhone, no es total, pero casi.<br />
+Ahora que lo tienes claro porqué no lo documentas y lo publicas en algún blog? O en este mismo si quieres. Serías mi primera y única hasta el momento firma invitada 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Raúl Vadillo</title>
+		<link>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/comment-page-1/#comment-5162</link>
+		<dc:creator><![CDATA[Raúl Vadillo]]></dc:creator>
+		<pubDate>Tue, 06 Jul 2010 12:00:51 +0000</pubDate>
+		<guid isPermaLink="false">/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/#comment-5162</guid>
+		<description><![CDATA[Muchas gracias por tu rápida respuesta, espero que disfrutes de tus vacaciones, que seguro que son merecidas... y lejos del ordenador mejor aun, jeje.
+
+Finalmente he solucionado el problema cambiando la MAC mediante comandos en la consola del propio SUSE y tocando el vmx para poner la MAC que he cambiado dentro del sistema.
+
+Una vez hecho esto, el DHCP le asigna una IP distinta a cada máquina y.. ¡todo perfecto!]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias por tu rápida respuesta, espero que disfrutes de tus vacaciones, que seguro que son merecidas&#8230; y lejos del ordenador mejor aun, jeje.</p>
+<p>Finalmente he solucionado el problema cambiando la MAC mediante comandos en la consola del propio SUSE y tocando el vmx para poner la MAC que he cambiado dentro del sistema.</p>
+<p>Una vez hecho esto, el DHCP le asigna una IP distinta a cada máquina y.. ¡todo perfecto!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/comment-page-1/#comment-5154</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2010 19:25:13 +0000</pubDate>
+		<guid isPermaLink="false">/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/#comment-5154</guid>
+		<description><![CDATA[Hola Raúl. Me pillas ahora un poco lejos del ordenador (de vacaciones). Pero creo que si configuras la red de VMware para que NO usen Nat, cada máquina tiene su IP y su MAC. Ojo, no estoy ahora seguro. Prueba con los distintos ajustes de configuración de la emulación de la red de VMWare, a ver qué tal va la cosa. 
+
+No prometo nada, pero cuando vuelva puedo mirar algo. 
+
+Un saludo y gracias por leer y comentar. ]]></description>
+		<content:encoded><![CDATA[<p>Hola Raúl. Me pillas ahora un poco lejos del ordenador (de vacaciones). Pero creo que si configuras la red de VMware para que NO usen Nat, cada máquina tiene su IP y su MAC. Ojo, no estoy ahora seguro. Prueba con los distintos ajustes de configuración de la emulación de la red de VMWare, a ver qué tal va la cosa. </p>
+<p>No prometo nada, pero cuando vuelva puedo mirar algo. </p>
+<p>Un saludo y gracias por leer y comentar. </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Raúl Vadillo</title>
+		<link>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/comment-page-1/#comment-5144</link>
+		<dc:creator><![CDATA[Raúl Vadillo]]></dc:creator>
+		<pubDate>Mon, 05 Jul 2010 12:25:36 +0000</pubDate>
+		<guid isPermaLink="false">/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/#comment-5144</guid>
+		<description><![CDATA[En primer lugar, estoy totalmente de acuerdo con tu artículo, los talibanes del software libre no se dan cuenta que las cosas no son blancas o negras sino que cada cosa tiene su utilidad en cada circunstacia, por eso desterrar todo aquello que no sea software libre o huela a Microsoft es un error.
+
+Como dices en tu artículo, has levantado varias máquinas con MAC distintas, me gustaría saber cómo. El problema que yo tengo es que quiero levantar dos SUSE idénticos en un VMware sobre Windows Server y no hay manera, porque al tener la misma MAC sólo funciona la primera que levante. He intentado varias modificaciones en el vmx para poner una MAC distinta pero no soy capaz. Te agradecería que me indicases si tu has resuelto un problema parecido o qué se te ocurre.
+
+Muchas gracias por adelantado.]]></description>
+		<content:encoded><![CDATA[<p>En primer lugar, estoy totalmente de acuerdo con tu artículo, los talibanes del software libre no se dan cuenta que las cosas no son blancas o negras sino que cada cosa tiene su utilidad en cada circunstacia, por eso desterrar todo aquello que no sea software libre o huela a Microsoft es un error.</p>
+<p>Como dices en tu artículo, has levantado varias máquinas con MAC distintas, me gustaría saber cómo. El problema que yo tengo es que quiero levantar dos SUSE idénticos en un VMware sobre Windows Server y no hay manera, porque al tener la misma MAC sólo funciona la primera que levante. He intentado varias modificaciones en el vmx para poner una MAC distinta pero no soy capaz. Te agradecería que me indicases si tu has resuelto un problema parecido o qué se te ocurre.</p>
+<p>Muchas gracias por adelantado.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

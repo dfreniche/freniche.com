@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Objetivos &#8211; freniche.com</title>
+	<atom:link href="/tag/objetivos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>The back-up week</title>
+		<link>/2005/12/26/the-back-up-week/</link>
+		<pubDate>Mon, 26 Dec 2005 10:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Objetivos]]></category>
+
+		<guid isPermaLink="false">/2005/12/26/the-back-up-week/</guid>
+		<description><![CDATA[Hoy comienza oficialmente «The back-up week». Voy a intentar, en una semana, hacer copia de seguridad de todo, absolutamente de todo lo que he generado desde que me senté frente a un ordenador por primera vez en mi vida. ¿Ambicioso? Pues sí. Esto es como seguir una dieta: se intenta una y otra vez pero [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">Hoy comienza oficialmente «The back-up week». Voy a intentar, en una semana, hacer copia de seguridad de todo, absolutamente de todo lo que he generado desde que me senté frente a un ordenador por primera vez en mi vida.</p>
+<p class="bodytext" style="text-align: justify;">¿Ambicioso? Pues sí. Esto es como seguir una dieta: se intenta una y otra vez pero siempre se falla. Cuando empezamos a hacer copia de seguridad estamos seguros, convencidos de la necesidad de hacer la copia. Pero a medida que vamos avanzando, nos vamos encontrando con aquel cartel que hicimos para un cumpleaños de hace 10 años, que usaba Printmaster plus (vetusto programa que funcionaba en MS-DOS, no en Windos 3.11, sólo en MS-DOS) y ¿no vamos a echarle un vistazo?. Pero claro, para verlo hay que instalar el PM+ y ahora ya no tenemos MS-DOS. Pero bueno, ¿para qué están las máquinas virtuales?. Con nuestro VMWare nos instalamos un PC con MS-DOS en un momento y ya podemos verlo, y &#8230;</p>
+<p class="bodytext" style="text-align: justify;">Y se pasa el día y estás jugando <em>sólo cinco minutos</em> a auqel juego con el que pasaste horas y horas hace un tiempo. O viendo las fotos de las navidades pasadas. O incluso intentando compilar aquel programa que era ANSI-C en Linux porque <em>seguro que funciona</em>.</p>
+<p class="bodytext" style="text-align: justify;">¿Cuál es la solución para los que tenemos el <a href="http://en.wikipedia.org/wiki/Attention-deficit_hyperactivity_disorder" target="_blank">síndrome de falta de atención</a> y empezamos una cosa sin ser capaz de <em>fascinarnos</em> por la siguiente? Hacernos un plan. Por escrito. Ya sea en un papel o en un documento de Word. En mi caso, este plan lo voy a anotar a continuación, por si a alguien le sirve:</p>
+<ol>
+<li>En primer lugar, voy a «aligerar» los discos duros con cosas que son fácilmente copiables: películas en DivX, música en MP3, fotos de la cámara digital, etc. Se tira todo a DVD (ordenados o no, da igual) y se continúa. Tentación a salvar: ordenar las fotos, categorizar la música, buscar las carátulas de las películas por Internet para que <em>quede más completo</em>. El objetivo es hacer copia de seguridad. Otro día se pondrá todo bonito.</li>
+<li>Subir todo al repositorio CVS y luego pasar el repositorio a un DVD. Yo utilizo CVS aunque otra gente prefiera Subversion o incluso Visual Source Safe.</li>
+<li>Hacer copia de seguridad de la configuración de mis equipos (las carpetas /etc) para salvaguardarlo todo por si hay un desastre.</li>
+<li>Comprimir las carpetas de correo y pasarlas a CD. Ya no perderemos ni uno sólo de esos preciados mensajes del estilo «compra Viiiaaagggrrraaa».</li>
+<li>Finalmente, cualquier otra cosa que haya bajado de Internet debe pasar a CD o DVD. El objetivo es poder formatear los discos duros y no perder ni un dato.</li>
+</ol>
+<p class="bodytext">Como se puede ver, hay que llevar el síndrome de Diógenes digital al extremo. Aunque en mi caso tiene explicación: quiero reinstalar ambos ordenadores (mi servidor y el portátil) y ya de paso aprovecho para las copias de seguridad.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

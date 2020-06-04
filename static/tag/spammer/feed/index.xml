@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>spammer &#8211; freniche.com</title>
+	<atom:link href="/tag/spammer/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Spammers, por favor, id a otra página</title>
+		<link>/2008/06/04/spammers-por-favor-id-a-otra-pagina/</link>
+		<pubDate>Wed, 04 Jun 2008 18:13:35 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[spammer]]></category>
+
+		<guid isPermaLink="false">/2008/06/04/spammers-por-favor-id-a-otra-pagina/</guid>
+		<description><![CDATA[Un Spammer es, según definición no oficial, un pesado que se hace rico a costa de un número indeterminado (y a lo mejor no numerable) de imbéciles que compran sus productos. Porque al final el Spam no es más que eso, publicidad que me meten por los ojos, por el email, pronto por el recto, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Un Spammer es, según definición no oficial, un pesado que se hace rico a costa de un número indeterminado (y a lo mejor <a href="http://es.wikipedia.org/wiki/Conjunto_no_numerable">no numerable</a>) de imbéciles que compran sus productos. Porque al final el Spam no es más que eso, publicidad que me meten por los ojos, por el email, pronto por el recto, y que intentan meter en los comentarios de este blog.</p>
+<p align="justify">Está claro que no existirían spammers si no hubiera quien jugara en los casinos on-line, no comprara Viagra o Propecia o no entrara en sitios porno. Al final, estoy llevándome la impresión de que soy un ludópata calvo, con satirismo e impotencia de tanto leer esos correos. Bueno, miento. Desde que activé el <a href="http://spamassassin.apache.org/">SpamAssassin</a> en mis cuentas de correo lo más que hago es:</p>
+<ul>
+<li>seleccionar todo</li>
+<li>mandar a la papelera</li>
+</ul>
+<p align="justify">Bueno, pues ahora parece que han descubierto mi página y están insertando comentarios con Spam. Pues lo siento amigos, pero no vais a usar mi web como plataforma para vuestros negocios. Gracias a WordPress tengo activa la supervisión de comentarios y sólo tengo que irlos marcando como Spam.</p>
+<p align="justify">Espero que exista un infierno para Spammers donde, por toda la eternidad, deban estar frente a un cliente de correo leyendo cada correo que mandaron durante su miserable existencia. ¡Aprended a ganar dinero sin dar el coñazo!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Configurando la tarjeta de red en Linux</title>
+	<atom:link href="/articulos/configurando-la-tarjeta-de-red-en-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: JAVIER MORALES</title>
+		<link>/articulos/configurando-la-tarjeta-de-red-en-linux/comment-page-1/#comment-613942</link>
+		<dc:creator><![CDATA[JAVIER MORALES]]></dc:creator>
+		<pubDate>Thu, 29 Jun 2017 14:51:35 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/?page_id=12#comment-613942</guid>
+		<description><![CDATA[estimado:
+esta Lineas (#) comentada  pero o debe haber una puerta de enlace o pasaralea:
+#ADRESS 192.168.0.10
+#NETMASK 255.255.255.0
+#NETWORK 192.168.0.1
+Las puedes cambiar  y quitar el # y editar tu nueva ip
+ejemplo:
+ADRESS 172.20.0.225            (dirección IP)
+NETMASK 255.255.255.0    ( mascara)
+NETWORK 172.20.0.0    
+GATEWAY 172.20.0.1         (pasaralela)
+-----
+.....]]></description>
+		<content:encoded><![CDATA[<p>estimado:<br />
+esta Lineas (#) comentada  pero o debe haber una puerta de enlace o pasaralea:<br />
+#ADRESS 192.168.0.10<br />
+#NETMASK 255.255.255.0<br />
+#NETWORK 192.168.0.1<br />
+Las puedes cambiar  y quitar el # y editar tu nueva ip<br />
+ejemplo:<br />
+ADRESS 172.20.0.225            (dirección IP)<br />
+NETMASK 255.255.255.0    ( mascara)<br />
+NETWORK 172.20.0.0<br />
+GATEWAY 172.20.0.1         (pasaralela)<br />
+&#8212;&#8211;<br />
+&#8230;..</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/articulos/configurando-la-tarjeta-de-red-en-linux/comment-page-1/#comment-613834</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 24 May 2017 11:30:14 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/?page_id=12#comment-613834</guid>
+		<description><![CDATA[Hola Mario
+
+Probablemente no te sirva ya, pero el # significa que esa línea está comentada, es decir, que no se tiene en cuenta.
+
+Hace años que no uso Linux activamente, así que probablemente sea mejor buscar algún tutorial en video por la red.]]></description>
+		<content:encoded><![CDATA[<p>Hola Mario</p>
+<p>Probablemente no te sirva ya, pero el # significa que esa línea está comentada, es decir, que no se tiene en cuenta.</p>
+<p>Hace años que no uso Linux activamente, así que probablemente sea mejor buscar algún tutorial en video por la red.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: MARIO ORTIZ</title>
+		<link>/articulos/configurando-la-tarjeta-de-red-en-linux/comment-page-1/#comment-613716</link>
+		<dc:creator><![CDATA[MARIO ORTIZ]]></dc:creator>
+		<pubDate>Sat, 29 Apr 2017 16:28:39 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/?page_id=12#comment-613716</guid>
+		<description><![CDATA[HOLA INTERESANTE ARTICULO. TENGO UNA DUDA AL MOMENTO DE QUERER CONFIGURAR MI TARJETA COMO TU SUGIERES ME APAERECE ALGO ASI:
+
+#THE LOOPBACK.........
+AUTO LO
+IFACE LO INET.........
+#IFACE ETH0 INET STATIC
+#ADRESS 192.168.0.10
+#NETMASK 255.255.255.0
+#NETWORK 192.168.0.1
+
+MIS DUDAS  AQUI SON 
+ EL SIMBOLO # LO BORRO  ?
+ESTE SIMBOLO QUE SIGNIFICA?
+GRACIAS.]]></description>
+		<content:encoded><![CDATA[<p>HOLA INTERESANTE ARTICULO. TENGO UNA DUDA AL MOMENTO DE QUERER CONFIGURAR MI TARJETA COMO TU SUGIERES ME APAERECE ALGO ASI:</p>
+<p>#THE LOOPBACK&#8230;&#8230;&#8230;<br />
+AUTO LO<br />
+IFACE LO INET&#8230;&#8230;&#8230;<br />
+#IFACE ETH0 INET STATIC<br />
+#ADRESS 192.168.0.10<br />
+#NETMASK 255.255.255.0<br />
+#NETWORK 192.168.0.1</p>
+<p>MIS DUDAS  AQUI SON<br />
+ EL SIMBOLO # LO BORRO  ?<br />
+ESTE SIMBOLO QUE SIGNIFICA?<br />
+GRACIAS.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/articulos/configurando-la-tarjeta-de-red-en-linux/comment-page-1/#comment-363855</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 26 Jun 2014 12:42:26 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/?page_id=12#comment-363855</guid>
+		<description><![CDATA[Hola Roberto,
+
+No toco Linux a diario desde 2008. Y un Pentium desde hace más tiempo. Tendrá que probar con los módulos del kernel, hasta dar con el que reconozca la tarjeta.
+
+En &lt;a href=&quot;http://tuxfiles.wordpress.com/2012/02/06/listando-modulos-del-kernel/&quot; rel=&quot;nofollow&quot;&gt;este artículo&lt;/a&gt; enseñan a listar los módulos, cargarlos para probar, etc.]]></description>
+		<content:encoded><![CDATA[<p>Hola Roberto,</p>
+<p>No toco Linux a diario desde 2008. Y un Pentium desde hace más tiempo. Tendrá que probar con los módulos del kernel, hasta dar con el que reconozca la tarjeta.</p>
+<p>En <a href="http://tuxfiles.wordpress.com/2012/02/06/listando-modulos-del-kernel/" rel="nofollow">este artículo</a> enseñan a listar los módulos, cargarlos para probar, etc.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Roberto Enríquez</title>
+		<link>/articulos/configurando-la-tarjeta-de-red-en-linux/comment-page-1/#comment-362799</link>
+		<dc:creator><![CDATA[Roberto Enríquez]]></dc:creator>
+		<pubDate>Wed, 25 Jun 2014 23:28:37 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/?page_id=12#comment-362799</guid>
+		<description><![CDATA[Estimado amigo, ayer instalé un debian  7.5.0. i.3.8.6 a un PENTIUM II que me regalaron, que es un i686, durante la instalación no me reconoció la tarjeta de red, con lo que le instalé lo que hubiese en el disco duro, hoy le he cambiado la tarjeta de red pero no he conseguido que funcione, en el lspci me reconoce la tarjeta de red pero el ifconfig no he conseguido que me lo reconozco, un salduo.]]></description>
+		<content:encoded><![CDATA[<p>Estimado amigo, ayer instalé un debian  7.5.0. i.3.8.6 a un PENTIUM II que me regalaron, que es un i686, durante la instalación no me reconoció la tarjeta de red, con lo que le instalé lo que hubiese en el disco duro, hoy le he cambiado la tarjeta de red pero no he conseguido que funcione, en el lspci me reconoce la tarjeta de red pero el ifconfig no he conseguido que me lo reconozco, un salduo.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

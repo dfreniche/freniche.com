@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: El sistema de control de versiones de Dropbox</title>
+	<atom:link href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: sebastian</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/comment-page-1/#comment-508517</link>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+		<pubDate>Tue, 09 Sep 2014 11:29:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1072#comment-508517</guid>
+		<description><![CDATA[Mi reflexion es que si no eres como usuario no eres capaz de evitar que un &quot;virus&quot; te &quot;cepille&quot; directorios.. la solucion no es no usar windows, es que sencillamente en cuestiones de seguridad haces agua. No quisiera toparme con tu codigo.]]></description>
+		<content:encoded><![CDATA[<p>Mi reflexion es que si no eres como usuario no eres capaz de evitar que un «virus» te «cepille» directorios.. la solucion no es no usar windows, es que sencillamente en cuestiones de seguridad haces agua. No quisiera toparme con tu codigo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Gestionando Revisiones en Proyectos BI</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/comment-page-1/#comment-260920</link>
+		<dc:creator><![CDATA[Gestionando Revisiones en Proyectos BI]]></dc:creator>
+		<pubDate>Fri, 11 Apr 2014 21:54:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1072#comment-260920</guid>
+		<description><![CDATA[[&#8230;] de documento Word y realizar las anotaciones en equipo. Algunas como Dropbox tienen un sistema de gestión de versiones que bién puede ser util. Mi preferido es Google Docs el cual también cuenta con un Gestion de [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] de documento Word y realizar las anotaciones en equipo. Algunas como Dropbox tienen un sistema de gestión de versiones que bién puede ser util. Mi preferido es Google Docs el cual también cuenta con un Gestion de [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/comment-page-1/#comment-6776</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2010 09:07:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1072#comment-6776</guid>
+		<description><![CDATA[Por cierto Diego, el problema de las &quot;infecciones extrañas&quot; me viene porque todavía no he podido convencer a mi mujer para que pase su portátil a cualquier unix :(]]></description>
+		<content:encoded><![CDATA[<p>Por cierto Diego, el problema de las «infecciones extrañas» me viene porque todavía no he podido convencer a mi mujer para que pase su portátil a cualquier unix 🙁</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/comment-page-1/#comment-6775</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2010 09:05:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1072#comment-6775</guid>
+		<description><![CDATA[Yo no creo que el tema sea si se puede o no hacer tal o cual cosa con un lenguaje determinado. Está claro que sí. Incluso podrías escribir un clon de Facebook en Brainfuck, ya que es Turing completo (cielos, espero que nadie se embarque en ello)
+La cuestión es simplemente que sea el que te resulte más cómo para ello :)
+
+Ya puestos a hablar de lenguajes, para las labores web y los pequeños scripts de mantenimiento personalmente tiro más por Python por la inmediatez que me da, aunque conozco gente que no podrá despegarse nunca de Perl o de los CGIs con C o Pascal.
+En cuanto a iPhone, mi lenguaje ideal es C#  (Monotouch), pero está claro que el combo lenguaje-bibliotecas que escoge el fabricante siempre tendrá más punch :D
+
+Ahora mismo estoy explorando las aplicaciones multiplataforma (iPhone+Android) escritas en Javascript y os puedo decir que el resultado es bastante satisfactorio ;)]]></description>
+		<content:encoded><![CDATA[<p>Yo no creo que el tema sea si se puede o no hacer tal o cual cosa con un lenguaje determinado. Está claro que sí. Incluso podrías escribir un clon de Facebook en Brainfuck, ya que es Turing completo (cielos, espero que nadie se embarque en ello)<br />
+La cuestión es simplemente que sea el que te resulte más cómo para ello 🙂</p>
+<p>Ya puestos a hablar de lenguajes, para las labores web y los pequeños scripts de mantenimiento personalmente tiro más por Python por la inmediatez que me da, aunque conozco gente que no podrá despegarse nunca de Perl o de los CGIs con C o Pascal.<br />
+En cuanto a iPhone, mi lenguaje ideal es C#  (Monotouch), pero está claro que el combo lenguaje-bibliotecas que escoge el fabricante siempre tendrá más punch 😀</p>
+<p>Ahora mismo estoy explorando las aplicaciones multiplataforma (iPhone+Android) escritas en Javascript y os puedo decir que el resultado es bastante satisfactorio 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/comment-page-1/#comment-6772</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2010 07:27:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1072#comment-6772</guid>
+		<description><![CDATA[Pues la verdad es que no lo se, como tantas cosas :-)
+
+Muy bueno el apunte de que &quot;estar en la nube&quot; está ahora bien visto. Parece que todo debe ser nuboso y 2.0 últimamente. Hartazgo 2.0 :-)]]></description>
+		<content:encoded><![CDATA[<p>Pues la verdad es que no lo se, como tantas cosas 🙂</p>
+<p>Muy bueno el apunte de que «estar en la nube» está ahora bien visto. Parece que todo debe ser nuboso y 2.0 últimamente. Hartazgo 2.0 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Alejandro Domínguez</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/comment-page-1/#comment-6770</link>
+		<dc:creator><![CDATA[Alejandro Domínguez]]></dc:creator>
+		<pubDate>Tue, 14 Sep 2010 06:14:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1072#comment-6770</guid>
+		<description><![CDATA[¿Se pueden programar páginas web en Objetive-C?. No quiero iniciar un conflicto, es sólo curiosidad. De todas formas yo apuesto por Java porque me dá de comer, pero está claro que para aplicaciones que necesiten sacar jugo al hardware sobre el que corre es mejor alguna variante de C.
+
+  Por cierto, que maravilla todo lo que ocurre en la nube. Nunca antes estar en las nubes estaba tan bien visto.]]></description>
+		<content:encoded><![CDATA[<p>¿Se pueden programar páginas web en Objetive-C?. No quiero iniciar un conflicto, es sólo curiosidad. De todas formas yo apuesto por Java porque me dá de comer, pero está claro que para aplicaciones que necesiten sacar jugo al hardware sobre el que corre es mejor alguna variante de C.</p>
+<p>  Por cierto, que maravilla todo lo que ocurre en la nube. Nunca antes estar en las nubes estaba tan bien visto.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/comment-page-1/#comment-6675</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2010 07:32:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1072#comment-6675</guid>
+		<description><![CDATA[¿Virus que borran carpetas? ¿De verdad existe eso? Me está entrando miedo de verdad. Menos mal que mis máquinas principales son UNIX por algún lado: iOS, Mac OS X, Linux... Sólo mantengo mi viejo portátil PC con Win 7 para jugar. 
+El detalle de la copia distribuída de los ficheros de Dropbox es muy importante. Si pierdes tu portátil del trabajo en la estación, no lo pierdes todo...
+
+¿Flamewars yo? Nooo! Yo le doy a todo por lo que me paguen. Cocoa, Java y lo que tengamos que hacer. Las Religiones no se inventaron para decidir temas técnicos ¿no?]]></description>
+		<content:encoded><![CDATA[<p>¿Virus que borran carpetas? ¿De verdad existe eso? Me está entrando miedo de verdad. Menos mal que mis máquinas principales son UNIX por algún lado: iOS, Mac OS X, Linux&#8230; Sólo mantengo mi viejo portátil PC con Win 7 para jugar.<br />
+El detalle de la copia distribuída de los ficheros de Dropbox es muy importante. Si pierdes tu portátil del trabajo en la estación, no lo pierdes todo&#8230;</p>
+<p>¿Flamewars yo? Nooo! Yo le doy a todo por lo que me paguen. Cocoa, Java y lo que tengamos que hacer. Las Religiones no se inventaron para decidir temas técnicos ¿no?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/comment-page-1/#comment-6673</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Fri, 10 Sep 2010 06:55:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1072#comment-6673</guid>
+		<description><![CDATA[Pues sí, es una *gran* ayuda. Y más en redes heterogéneas en las que algún ordenador, cuyo sistema operativo no quiero mentar, se infecta con vete-tu-a-saber qué virus y se cepilla directorios de datos al azar. Simplemente te vas al dashboard de Dropbox, ves los últimos cambios que se han hecho y los deshaces (por no hablar de que tienes los datos replicados y a salvo en N equipos de tu misma red)
+
+¿Java vs Objective C? cielos, ¿en qué clase de flamewars participas...?  :P]]></description>
+		<content:encoded><![CDATA[<p>Pues sí, es una *gran* ayuda. Y más en redes heterogéneas en las que algún ordenador, cuyo sistema operativo no quiero mentar, se infecta con vete-tu-a-saber qué virus y se cepilla directorios de datos al azar. Simplemente te vas al dashboard de Dropbox, ves los últimos cambios que se han hecho y los deshaces (por no hablar de que tienes los datos replicados y a salvo en N equipos de tu misma red)</p>
+<p>¿Java vs Objective C? cielos, ¿en qué clase de flamewars participas&#8230;?  😛</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

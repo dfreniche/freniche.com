@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trucos &#8211; freniche.com</title>
+	<atom:link href="/tag/trucos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Accediendo a todos los iconos de la barra de menús del Mac</title>
+		<link>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/</link>
+		<comments>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/#comments</comments>
+		<pubDate>Sun, 16 Mar 2014 17:40:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trucos]]></category>
+		<category><![CDATA[utilidades]]></category>
+
+		<guid isPermaLink="false">/?p=2134</guid>
+		<description><![CDATA[Una de las cosas que siempre me ha gustado más del Mac es que la barra de menús no está pegada a la ventana. Siempre en su sitio, sabes dónde tienes que mirar para encontrar una opción. Como en el Amiga OS, por cierto. Estoy tan acostumbrado, que las ventanas de Windows con los menús [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Una de las cosas que siempre me ha gustado más del Mac es que la barra de menús no está <em>pegada</em> a la ventana. Siempre en su sitio, sabes dónde tienes que mirar para encontrar una opción. Como en el Amiga OS, por cierto. Estoy tan acostumbrado, que las ventanas de Windows con los menús <em>pegados</em> ahora se me hacen raras. Cuestión de costumbre supongo.</p>
+<p>Junto con los menús me he habituado a acceder a muchas Apps a través de sus iconos en la barra de menú. Como una especie de <em>accesos rápidos</em>, me resulta sencillo hacer click en alguno de esos iconos para consultar algo, por ejemplo de Dropbox, o BitTorrent Sync, o Evernote. Y tiendo a tener muchos iconos ahí arriba.</p>
+<p>Lo cual no da demasiados problemas. Siempre que esté en el iMac de 27&#8243;, claro. Dado que la barra de menús comparte este espacio con los iconos, si el programa que tengo en primer plano (y cuyos menús se están mostrando) tiene muchos apartados, estos acaban tapando a los iconos. Se ocultan, para dejar paso a las opciones de la App. Lo cual tiene lógica. Y claro, en el iMac esto no me pasa nunca. Pero en el MBP 13&#8243; no retina, con su resolución <strong>anémica</strong> esto sucede constantemente. Y si estoy conectado a un proyector (que suelen venir directamente de 1997, con una fantástica resolución de 1024&#215;768) es para directamente pegarse un tiro.</p>
+<p>En un curso hay veces que comparto la conexión con el iPhone y quiero cerrar Dropbox, para que no sincronice usando la 3G y <em>se coma</em> el plan de datos del móvil. Y es casi imposible llegar al icono de Dropbox: todos lo tapan, pruebo cambiando con Cmd+Tab de programa, hasta encontrar el que tenga menos opciones de menú y así no tape los iconos&#8230; un rollo. Hasta que descubrí <a href="http://www.ortisoft.de/en/accessmenubarapps/">AccessMenuBarApps</a>.</p>
+<div id="attachment_2135" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2014/03/access-menubarapp.png"><img src="/wp-content/uploads/2014/03/access-menubarapp-300x5.png" alt="Access Menu Bar App" width="300" height="5" class="size-medium wp-image-2135" srcset="/wp-content/uploads/2014/03/access-menubarapp-300x5.png 300w, /wp-content/uploads/2014/03/access-menubarapp-1024x18.png 1024w, /wp-content/uploads/2014/03/access-menubarapp-535x9.png 535w, /wp-content/uploads/2014/03/access-menubarapp.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Access Menu Bar App</p></div>
+<p><a href="http://www.ortisoft.de/en/accessmenubarapps/">AccessMenuBarApps</a> es una pequeña utilidad que, una vez lanzada, puedes activar con una combinación de teclas (en mi caso con Mayúsculas izquierda + Esc) y que «limpia» de opciones de menú la barra superior. Es un gustazo, cuando estás conectado al proyector, poder llegar así a todos tus iconos, de un teclazo. Se ha convertido en una herramienta básica de mi día a día. Y encima es gratis. Se merece una donación ¿no?.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Borrar un AVD que se niega a morir</title>
+		<link>/2013/08/26/borrar-un-avd-que-se-niega-a-morir/</link>
+		<pubDate>Mon, 26 Aug 2013 06:31:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Terminal]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1999</guid>
+		<description><![CDATA[Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje: En este caso, he tenido claro desde el principio cual era el problema sin consultar con StackOverflow. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje:</p>
+<p><a href="/wp-content/uploads/2013/08/emulator-cant-delete.png"><img src="/wp-content/uploads/2013/08/emulator-cant-delete.png" alt="AVD no se puede borrar" width="526" height="145" class="aligncenter size-full wp-image-2000" srcset="/wp-content/uploads/2013/08/emulator-cant-delete.png 526w, /wp-content/uploads/2013/08/emulator-cant-delete-300x82.png 300w" sizes="(max-width: 526px) 100vw, 526px" /></a></p>
+<p>En este caso, he tenido claro desde el principio cual era el problema <em>sin consultar con StackOverflow</em>. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado algún fichero indicando que el emulador estaba en marcha, y por eso ahora al intentar borrarlo pensaba que seguía <em>encendido</em>.</p>
+<p>Nada que un poco de Terminal no pueda arreglar. Debemos ir, en una terminal, a la carpeta .android/avd que está dentro de nuestra carpeta $HOME. En mi caso, como mi usuario es dfreniche, la carpeta está en la ruta:</p>
+<pre><code>/Users/dfreniche/.android/avd/
+</code></pre>
+<p>Para llegar a ella, usamos a nuestro viejo amigo <code>cd</code>:</p>
+<pre><code>cd /Users/dfreniche/.android/avd
+</code></pre>
+<p>Una vez allí, veremos una carpeta por cada AVD que tengamos creado en Eclipse. Si hacemos <code>ls</code>:</p>
+<pre><code>Tesla:avd dfreniche$ ls -al
+total 24
+drwxr-xr-x   8 dfreniche  staff  272 22 ago 12:58 .
+drwxr-xr-x  17 dfreniche  staff  578 19 ago 19:41 ..
+drwxr-xr-x  12 dfreniche  staff  408 22 ago 12:58 Intel.avd
+-rw-r--r--   1 dfreniche  staff  114 22 ago 12:58 Intel.ini
+drwxr-xr-x  11 dfreniche  staff  374 20 ago 06:48 Nexus4.avd
+-rw-r--r--   1 dfreniche  staff  116 19 ago 19:32 Nexus4.ini
+drwxr-xr-x  10 dfreniche  staff  340 22 ago 11:22 Nexus4_API4.3.avd
+-rw-r--r--   1 dfreniche  staff  130 20 ago 06:47 Nexus4_API4.3.ini
+</code></pre>
+<p>Podemos ver que los terminados en .avd son carpetas (en los atributos empiezan con una <em>d</em> de directory) mientras que los .ini son ficheros normales.</p>
+<p>Si entramos en el AVD problemático (en este caso, Intel.avd) con un <code>cd Intel.avd</code> y hacemos <code>ls</code> veremos unos cuantos ficheros <em>sospechosos</em> acabados en .lock.</p>
+<pre><code>Tesla:Intel.avd dfreniche$ ls
+cache.img       hardware-qemu.ini.lock  userdata-qemu.img.lock
+cache.img.lock  sdcard.img      userdata.img
+config.ini      sdcard.img.lock
+hardware-qemu.ini   userdata-qemu.img
+</code></pre>
+<p>Con borrar estos ficheros, basta: <code>rm *.lock</code></p>
+<p>Tras esto, Eclipse nos dejará borrar tranquilamente el AVD desde su interfaz:</p>
+<div id="attachment_2001" style="width: 534px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2013/08/emulator-fixed.png"><img src="/wp-content/uploads/2013/08/emulator-fixed.png" alt="AVD arreglado para ser borrado" width="524" height="141" class="size-full wp-image-2001" srcset="/wp-content/uploads/2013/08/emulator-fixed.png 524w, /wp-content/uploads/2013/08/emulator-fixed-300x80.png 300w" sizes="(max-width: 524px) 100vw, 524px" /></a><p class="wp-caption-text">AVD arreglado para ser borrado</p></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Cambiar el nombre de varios ficheros a la vez en Mac OS X</title>
+		<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/</link>
+		<comments>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/#comments</comments>
+		<pubDate>Wed, 18 May 2011 16:13:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Gráficos]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1506</guid>
+		<description><![CDATA[Estoy terminando una App para iPad que me han encargado y me he encontrado con un problema. Tenía 32 imágenes, con nombres 1.png, 2.png, así hasta 32.png y necesitaba crear una versiones reducidas para tener una «vista previa». Vamos, lo que se conoce como un thumbnail. En Mac yo lo hago con vista previa: selecciono [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Estoy terminando una App para iPad que me han encargado y me he encontrado con un problema. Tenía 32 imágenes, con nombres 1.png, 2.png, así hasta 32.png y necesitaba crear una versiones reducidas para tener una «vista previa». Vamos, lo que se conoce como un <a href="http://es.wikipedia.org/wiki/Thumbnail">thumbnail</a>. En Mac yo lo hago con vista previa:</p>
+<ul>
+<li>selecciono todos los ficheros del 1.png al 32.png, pulsando Cmd+A</li>
+<li>los arrastro a una carpeta vacía que acabo de crear, pulsando la tecla Opción de Mac (Alt). Así en lugar de mover los ficheros, se copian</li>
+<li>selecciono todos los ficheros recién creados, pulsando de nuevo Cmd+A</li>
+<li>los abro todos a la vez con Vista Previa (Cmd+Flecha abajo)</li>
+<li>una vez en vista previa, los selecciono todos de nuevo (Cmd+A)</li>
+<li>y les cambio el tamaño con Herramientas -&gt; ajustar tamaño</li>
+<li>una vez listo, los grabamos todos (Archivo -&gt; Guardar todo)</li>
+</ul>
+<p>Ahora tengo, en dos carpetas distintas, 32 ficheros que se llaman 1.png, .. 32.png, como se puede ver aquí:</p>
+<div id="attachment_1509" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/05/thumbs-antes.png"><img class="size-medium wp-image-1509" title="Miniaturas antes de renombrar" src="/wp-content/uploads/2011/05/thumbs-antes-300x223.png" alt="Miniaturas antes de renombrar" width="300" height="223" srcset="/wp-content/uploads/2011/05/thumbs-antes-300x223.png 300w, /wp-content/uploads/2011/05/thumbs-antes.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Miniaturas antes de renombrar</p></div>
+<p style="text-align: justify;">Es decir, tengo los originales y los que he reducido de tamaño. El problema viene cuando ahora quiero cambiar el nombre de los ficheros para que se llamen thumb1.png, &#8230; thumb32.png. Renombrarlos uno a uno es un rollo. Y desde terminal me daba pereza hoy. Así que he buscado una herramienta gráfica y me he encontrado con <a href="http://web.mac.com/mickeyroberson/MRR_Software/NameChanger.html">NameChanger</a>, una pequeña Aplicación que funciona perfectamente para esto.</p>
+<p style="text-align: justify;">
+<div id="attachment_1510" style="width: 720px" class="wp-caption aligncenter"><img class="size-full wp-image-1510" title="NameChanger en funcionamiento" src="/wp-content/uploads/2011/05/NameChanger.png" alt="NameChanger en funcionamiento" width="710" height="538" srcset="/wp-content/uploads/2011/05/NameChanger.png 710w, /wp-content/uploads/2011/05/NameChanger-300x227.png 300w" sizes="(max-width: 710px) 100vw, 710px" /><p class="wp-caption-text">NameChanger en funcionamiento</p></div>
+<p style="text-align: justify;">NameChanger nos permite renombrar, o añadir algo al principio o final de una serie de archivos, o hacer cambios más potentes usando caracteres comodín. Y siempre te muestra antes de hacer nada, cual va a ser el resultado. Como se puede ver, es una de esas herramientas obligatorias de tener a mano.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Convertir efectos de sonido entre distintos formatos con iTunes</title>
+		<link>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/</link>
+		<comments>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/#comments</comments>
+		<pubDate>Wed, 11 May 2011 09:04:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Sonidos]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1498</guid>
+		<description><![CDATA[Hace ya un tiempo que publiqué en el App Store mi tercera App, ClockRing. Es una utilidad que hace que tu iPhone suene cada hora, como suena la radio, con esos pitidos. Aunque puedes escoger otros sonidos, claro. Es una aplicación muy sencilla, que usé para aprender a usar las LocalNotifications de iOS y decidí [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace ya un tiempo que publiqué en el App Store mi tercera App, <a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a>. Es una utilidad que hace que tu iPhone suene cada hora, como suena la radio, con esos pitidos. Aunque puedes escoger otros sonidos, claro. Es una aplicación muy sencilla, que usé para aprender a usar las LocalNotifications de iOS y decidí dejar como Software Libre. Lo que significa que si quieres ver cómo está escrita la App, siempre puedes bajarte su código fuente de su <a href="https://femtocoders.fogbugz.com/default.asp?W5">Wiki</a>.</p>
+<p style="text-align: justify;">El caso es que para que suene algo cuando se lanza una notificación necesitas un archivo con un efecto sonoro. En mi caso, los busqué libres también y me los bajé de <a href="http://www.freesound.org/">FreeSound.org</a>. Bueno, pues muchas veces vienen en un formato que no está soportado directamente por el iPhone (los que se admiten para LocalNotifications están en <a href="http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/IPhoneOSClientImp/IPhoneOSClientImp.html%23//apple_ref/doc/uid/TP40008194-CH103">esta lista</a>):</p>
+<p style="text-align: justify;">
+<ul>
+<li>Linear PCM</li>
+<li>MA4 (IMA/ADPCM)</li>
+<li>µLaw</li>
+<li>aLaw</li>
+</ul>
+<p>Se me ha dado el caso hoy de tener que convertir de nuevo efectos de sonido, en este caso desde AIFF hasta WAV. Y no recordaba cómo hacerlo. Ni con qué herramienta. Y resulta que iTunes lo hace todo. Paso a paso:</p>
+<ul>
+<li>Selecciona los ficheros de audio con los efectos de sonido y arrástralos a iTunes. Aparecerá el típico «+» verde y se añadirán a tu biblioteca.</li>
+<li>Busca esos ficheros en iTunes, para tenerlos localizados.</li>
+<li>Ve a Preferencias &gt; General (se debe abrir por ahí)</li>
+</ul>
+<div id="attachment_1499" style="width: 722px" class="wp-caption aligncenter"><img class="size-full wp-image-1499" title="Preferencias iTunes" src="/wp-content/uploads/2011/05/Preferencias-iTunes.png" alt="Preferencias iTunes" width="712" height="693" srcset="/wp-content/uploads/2011/05/Preferencias-iTunes.png 712w, /wp-content/uploads/2011/05/Preferencias-iTunes-300x291.png 300w" sizes="(max-width: 712px) 100vw, 712px" /><p class="wp-caption-text">Preferencias iTunes</p></div>
+<ul>
+<li>Ahora, pulsamos en Ajustes de importación. Se nos abre esta ventana:</li>
+</ul>
+<div id="attachment_1500" style="width: 634px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/05/Ajustes-importación.png"><img class="size-full wp-image-1500" title="Ajustes importación" src="/wp-content/uploads/2011/05/Ajustes-importación.png" alt="Ajustes importación" width="624" height="430" srcset="/wp-content/uploads/2011/05/Ajustes-importación.png 624w, /wp-content/uploads/2011/05/Ajustes-importación-300x206.png 300w" sizes="(max-width: 624px) 100vw, 624px" /></a><p class="wp-caption-text">Ajustes importación</p></div>
+<ul>
+<li>Aquí podremos cambiar la forma de importar audio, es decir, cómo queremos que iTunes convierta de un formato a otro. Esto se usa para convertir por ejemplo los CDs en ficheros con un formato determinado, pero también sirve para convertir.</li>
+<li>Disponemos de los siguientes formatos:</li>
+</ul>
+<div id="attachment_1501" style="width: 309px" class="wp-caption aligncenter"><img class="size-full wp-image-1501" title="codecs-audio" src="/wp-content/uploads/2011/05/codecs-audio.png" alt="codecs-audio" width="299" height="132" /><p class="wp-caption-text">codecs-audio</p></div>
+<ul>
+<li>Ahora ya basta con seleccionar los efectos de sonido, que hemos copiado en iTunes y pulsar en Avanzado &gt; Crear versión de WAV. Esta opción de menú va cambiando para reflejar el ajuste anterior.</li>
+<li>Pulsando con el botón derecho del ratón sobre estos efectos puedes «Mostrar en el Finder», lo que te abrirá la carpeta en la que están estos ficheros, por si prefieres trabajar ya con ellos desde el Finder. En mi caso, desde aquí los copio a XCode.</li>
+</ul>
+<p>Y así, sin instalar nada más, únicamente con iTunes que viene con cada Mac, podemos realizar esta sencillísima tarea (pero que para un inútil total del audio como yo, es un mundo). Si alguien conoce una forma más sencilla, por favor, que la cuente en los comentarios. Le estaré eternamente agradecido&#8230; o lo que dure este blog.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Cómo utilizar promo-codes en iTunes</title>
+		<link>/2010/12/10/como-utilizar-promo-codes-en-itunes/</link>
+		<comments>/2010/12/10/como-utilizar-promo-codes-en-itunes/#comments</comments>
+		<pubDate>Fri, 10 Dec 2010 09:27:32 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1307</guid>
+		<description><![CDATA[Los promo codes son códigos que Apple da a los desarrolladores (50 por versión de cada App) para que los regalemos a quien nos parezca. Se podrían gastar con la familia y los amigos, pero lo inteligente es guardarlos para los medios, bloggers y personas a las que te interese enseñar tu App sin que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Los promo codes son códigos que Apple da a los desarrolladores (50 por versión de cada App) para que los regalemos a quien nos parezca. Se podrían gastar con la familia y los amigos, pero lo inteligente es guardarlos para los medios, bloggers y personas a las que te interese enseñar tu App sin que les cueste el dinero. Así eliminas una barrera de entrada y pueden probar tu trabajo más fácilmente.</p>
+<p>¿Qué aspecto tiene un promo code? Es una ristra de números y letras tal que esta: KJT9MFJ3YLWN. De hecho, éste es un promo code real de la v1.1 de <a href="http://itunes.apple.com/us/app/myevents/id398956491?mt=8">MyEvents</a>, que <a href="http://twitter.com/dfreniche/status/12931173579751424">regalé en Twitter</a>. No te esfuerces: ya está gastado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>¿Qué hacer una vez que tenemos un promo code? Vamos con el paso a paso:</p>
+<ul>
+<li>Abrir iTunes</li>
+<li>Nos vamos a iTunes Store. Nos aparecerá una pantalla como ésta:</li>
+</ul>
+<div id="attachment_1308" style="width: 570px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/iTunes.png"><img class="size-full wp-image-1308 " title="iTunes abierto" src="/wp-content/uploads/2010/12/iTunes.png" alt="iTunes abierto" width="560" height="369" srcset="/wp-content/uploads/2010/12/iTunes.png 800w, /wp-content/uploads/2010/12/iTunes-300x197.png 300w" sizes="(max-width: 560px) 100vw, 560px" /></a><p class="wp-caption-text">iTunes abierto</p></div>
+<ul>
+<li>En la parte derecha, si nos fijamos, hay un enlace que pone «Canjear»:</li>
+</ul>
+<div id="attachment_1309" style="width: 232px" class="wp-caption aligncenter"><img class="size-full wp-image-1309" title="Canjear" src="/wp-content/uploads/2010/12/Canjear.png" alt="Canjear" width="222" height="82" /><p class="wp-caption-text">Canjear</p></div>
+<ul>
+<li>Pulsamos sobre él, se nos abrirá una ventana donde podremos meter el promo code:</li>
+</ul>
+<p><a href="/wp-content/uploads/2010/12/Canjeando.png"><img class="aligncenter size-full wp-image-1310" title="Canjeando" src="/wp-content/uploads/2010/12/Canjeando.png" alt="" width="789" height="491" srcset="/wp-content/uploads/2010/12/Canjeando.png 789w, /wp-content/uploads/2010/12/Canjeando-300x186.png 300w" sizes="(max-width: 789px) 100vw, 789px" /></a></p>
+<ul>
+<li>Metemos el promo code y ¡listo!, App bajando.</li>
+<li>Sincronizamos nuestro iPhone y ya la tenemos, por la patilla</li>
+</ul>
+<p style="text-align: justify;">Como nota añadir que, hasta hace unos días, los promo codes sólo funcionaban con la App Store de EE.UU. Ahora funcionan a nivel mundial. Apple ha tenido el detalle de esperar hasta la v1.1 de MyEvents para extender los promo codes a todas las tiendas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/10/como-utilizar-promo-codes-en-itunes/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>El sistema de control de versiones de Dropbox</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/</link>
+		<comments>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comments</comments>
+		<pubDate>Thu, 09 Sep 2010 17:26:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1072</guid>
+		<description><![CDATA[Que Dropbox es una maravilla y que me encanta no es nada nuevo. Es sorprendente que te den, gratis, hasta 8 GB sincronizados en la nube y poder acceder a ellos desde Windows, Mac, Linux, tu iPad o tu iPhone. Se ha convertido en una de mis herramientas básicas, de esas que instalas en una [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Que <a href="https://www.dropbox.com/">Dropbox</a> es una maravilla <a href="/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/">y que me encanta</a> no es nada nuevo. Es sorprendente que te den, gratis, hasta 8 GB sincronizados en la nube y poder acceder a ellos desde Windows, Mac, Linux, tu iPad o tu iPhone. Se ha convertido en una de mis herramientas básicas, de esas que instalas en una máquina nueva en cuanto te la dan.</p>
+<p style="text-align: justify;">Y una de las características de Dropbox mejores, pero de las que extrañamente menos se habla, es su <strong>sistema de control de versiones integrado</strong> y automático. Si eres programador, estarás habituado a usar un <a href="http://en.wikipedia.org/wiki/Revision_control">SCM</a>, bien sea CVS, svn, git o Mercurial. Si no, voy a explicar con un ejemplo lo que supone tener ese sistema en Dropbox.</p>
+<p style="text-align: justify;">Supongamos que necesitas dibujar un nuevo icono para esa aplicación de iPhone que ya estás terminando. Abres tu programa de retoque fotográfico y dibujo favorito (en mi caso Pixelmator) y creas el nuevo icono en una carpeta de tu Dropbox. Inmediatamente ves que en el icono de tu Dropbox se activa la sincronización: Dropbox está subiendo esa primera versión de tu archivo (vacío y sin nada dibujado aún) a sus servidores. Dibujas, retocas y cambias cosas durante una hora, sin pulsar la combinación de teclas de grabar. Eso, desde luego, es una invitación al desastre: <em>no lo hagas</em>. Seguro que cuando tengas el icono, o el documento, o lo que sea en lo que estás trabajando se te cuelga el programa y no te deja grabar. <em>Así que graba más a menudo</em>. Bueno, pues al grabar antes de irte a por tu merecido café, Dropbox sube la versión tal y como está ahora: casi perfecta. Hay dos versiones de tu icono entonces, la primera que creaste y que está vacía, y esta segunda casi terminada de antes del café.</p>
+<p style="text-align: justify;">Tras el descanso y de discutir con tus compañeros (es <em>increíble</em> que la gente piense que Java es mejor que Objective C!), vuelves un poco enfadado y te pones a experimentar con un nuevo filtro que se carga tu icono, y «sin querer», grabas el icono. ¡Desastre!. En otro caso habrías perdido una mañana de trabajo. Pero ahora, Dropbox al rescate. Cierras tu programa de dibujo, para no liarla más, navegas hasta el fichero y pulsas con el botón derecho del ratón. Dentro del menú contextual de Dropbox, te encuentras con un pequeño menú como este:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/09/dropbox-menu1.png"><img class="aligncenter size-full wp-image-1077" title="dropbox-menu" src="/wp-content/uploads/2010/09/dropbox-menu1.png" alt="" width="279" height="80" /></a><a href="/wp-content/uploads/2010/09/dropbox-menu.png"><br />
+</a>Pulsando sobre la segunda opción (View Previous Versions) podremos consultar nuestro histórico de versiones para ese fichero, en la web de Dropbox. Y lo mejor, podemos convertir en la versión última (la que veremos en nuestra carpeta de Dropbox) cualquiera de esas. Así que nuestro sufrimiento se soluciona simplemente marcando la versión que grabamos antes del café y pulsando Restore. ¡Ya está!. Volvemos a tener la versión casi buena y podemos volver a estropearla las veces que sea necesario: siempre tendremos a Dropbox que vendrá pacientemente a nuestro rescate.</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2010/09/dropbox-versions.png"><img class="aligncenter size-full wp-image-1079" title="dropbox-versions" src="/wp-content/uploads/2010/09/dropbox-versions.png" alt="" width="544" height="199" srcset="/wp-content/uploads/2010/09/dropbox-versions.png 906w, /wp-content/uploads/2010/09/dropbox-versions-300x109.png 300w" sizes="(max-width: 544px) 100vw, 544px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Mejora la velocidad de tu conexión cambiando tus DNS</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/</link>
+		<comments>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/#comments</comments>
+		<pubDate>Tue, 18 May 2010 09:39:59 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[HowTo]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[predicciones]]></category>
+		<category><![CDATA[Red]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=990</guid>
+		<description><![CDATA[Llevo un tiempo pensando en qué podría hacer para mejorar la velocidad de mi conexión a Internet. Más allá de los típicos test de velocidad, hay algunos parámetros que se pueden tocar (con cuidado, y sabiendo qué se hace, que luego nos lamentamos) para probar si las cosas van mejor o peor. Y no es [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://farm2.static.flickr.com/1175/908946494_c37f4e8970_d.jpg"><img class="aligncenter" title="&quot;Speed of Light&quot;. Pulsa para ver al autor. Yo no saco fotos tan buenas." src="http://farm2.static.flickr.com/1175/908946494_c37f4e8970_d.jpg" alt="" width="500" height="375" /></a></p>
+<p style="text-align: justify;">Llevo un tiempo pensando en qué podría hacer para mejorar la velocidad de mi conexión a Internet. Más allá de los típicos test de velocidad, hay algunos parámetros que se pueden tocar (con cuidado, y sabiendo qué se hace, que luego nos lamentamos) para probar si las cosas van mejor o peor. Y no es porque me vaya mal la conexión. Es por la compulsión de exprimir mis equipos, si puedo y se dejan.</p>
+<p style="text-align: justify;">Uno de esos parámetros que se pueden cambiar son los servidores DNS (hasta tres distintos) que tenemos configurados. Aunque probablemente ya lo sepas, cuando te conectas a otra máquina desde la tuya (por ej., cuando navegas por internet y te conectas a este blog) se produce una traducción entre el nombre «legible para los humanos» y el «número de matrícula» del servidor que contiene mi blog en Internet. Es decir, tu ordenador no comprende blog.freniche.com. El sólo entiende 67.15.211.19. Estos cuatro numeritos es lo que se llama una dirección IPv4. Los puedes obtener, para cualquier servidor del mundo, desde una consola de tu Linux / Mac con la orden:</p>
+<blockquote><p>host blog.freniche.com</p>
+<p>blog.freniche.com has address 67.15.211.19</p></blockquote>
+<p>En Windows, lo puedes hacer con tracert blog.freniche.com desde una consola.</p>
+<p style="text-align: justify;">Es decir, los ordenadores se buscan unos a otros preguntándose por esos «números de matrícula» que son las direcciones IP (realmente lo hacen buscando los «números de bastidor», en analogía con los coches, que son las direcciones MAC, pero no quiero meterme con eso). Claro, que recordar las IPs de las máquinas a las que me quiero conectar no es demasiado sencillo.</p>
+<p style="text-align: justify;">En 1992-3, me conectaba a Internet (yo no sabía entonces que se llamaba así) desde terminales de la Facultad de Matemáticas de la Universidad de Sevilla. Terminales de esos con la pantalla fósforo verde, lo que se llaman terminales tontos. Tenía que «facilitarme» el acceso a cuentas de alumnos de matemáticas porque los informáticos teníamos «capado» el acceso desde nuestra red. El caso es que llevaba una libretita conmigo donde apuntaba: tal dirección IP, tal universidad, tal otra IP, este servidor. De esa forma podía bajarme por FTP código fuente para programar en C. ¡<em>Crackeaba</em> cuentas para programar! El porno en caracteres ASCII no es igual de excitante, aunque hay <a href="http://es.wikipedia.org/wiki/Arte_ASCII">frikis del ASCII</a> que son unos artistas. El caso es que la traducción entre nombre y dirección IP la hacía yo mismo. Yo era mi servidor DNS con patas, y la cache DNS era mi libreta.</p>
+<p style="text-align: justify;">Evidentemente esto no es manejable cuando el número de servidores conocidos crece. Para eso se inventaron los servidores DNS. Cuando te conectas a cualquier web, se produce un intercambio de comunicaciones entre tu máquina y el servidor, y lo primero que se hace es obtener la IP que corresponde al nombre que acabas de escribir. Si esta traducción es rápida, las páginas aparecerán más rápido.</p>
+<p style="text-align: justify;">Pues me he encontrado con <a href="http://www.tuaw.com/2010/05/16/manage-your-dns-settings-for-faster-web-browsing/">este artículo, que explica en Inglés cómo optimizar las DNS</a> usando una utilidad llamada <a href="http://code.google.com/p/namebench/">namebench</a>. Aunque las capturas de pantalla son de Mac, namebench corre en Windows, Mac y Linux y en los tres SOs se pueden cambiar los servidores DNS. Googlea un poco.</p>
+<h1>Paso a paso</h1>
+<ul>
+<li>Descarga namebench y lánzalo. Te aparecerá una pantalla como ésta:</li>
+</ul>
+<div style="text-align: justify;"><img class="aligncenter size-full wp-image-993" title="namebench" src="/wp-content/uploads/2010/05/namebench.png" alt="" width="753" height="418" />Marca que incluya los proveedores DNS globales, los DNS más cercanos geográficamente y que incluya test de censura (por si nuestra conexión está limitada de alguna manera).</div>
+<div>
+<ul>
+<li>Lo lanzas y, tras un rato, te abrirá el navegador con información del servidor DNS que te recomienda, el porcentaje de mejora respecto al que tenías y gráficas con información técnica.</li>
+</ul>
+</div>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-994" title="resultados-namebench" src="/wp-content/uploads/2010/05/resultados-namebench.png" alt="" width="779" height="439" />En mi caso, OpenDNS es el que gana claramente. Le gana incluso a los <a href="http://code.google.com/intl/es-ES/speed/public-dns/">servidores DNS públicos de Google</a>.</p>
+<p style="text-align: justify;">Si estás convencido, debes cambiar los servidores DNS en cada máquina que tengas en casa (a no ser que tengas algo que actúe como servidor DNS en casa, en cuyo caso no creo que tenga que explicarte nada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ). Por ejemplo, en mi MacBook Pro, he cambiado los DNS tanto en la conexión cableada (Ethernet) como en la inalámbrica (WiFi), como muestro en las siguientes capturas:</p>
+<div id="attachment_995" style="width: 758px" class="wp-caption aligncenter"><img class="size-full wp-image-995 " title="dns-ethernet" src="/wp-content/uploads/2010/05/dns-ethernet.png" alt="" width="748" height="659" /><p class="wp-caption-text">Actualizando los DNS en mi conexión Ethernet</p></div>
+<p>Ahora en la WiFi:</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-996" title="dsn-airport" src="/wp-content/uploads/2010/05/dsn-airport.png" alt="" width="665" height="520" />Podemos tener hasta tres servidores DNS. Si el primero no responde, por lo que sea, se pasa al segundo y sucesivamente. Ahora que todo está configurado, en el Mac basta con aceptar los cambios. Ya podemos probar y ver que navegamos más rápido. ¡Bien!. En Windows XP probablemente tengas que reiniciar la máquina entera :-S.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Cómo recuperar los datos tras un rm -rf en Mac OS X</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/</link>
+		<comments>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/#comments</comments>
+		<pubDate>Mon, 15 Mar 2010 13:05:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Drobo]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=904</guid>
+		<description><![CDATA[O tras un rm -rf en Linux (p.ej. Ubuntu) o tras enviar algo a la papelera y vaciarla, ya sea en Windows o en Mac. Hola. Si has llegado a este post desde un buscador, desesperado por recuperar tus datos, sólo tres puntos a considerar: respira y relájate. El daño ya está hecho. Con la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<address><a href="http://www.flickr.com/photos/32911813@N00/2305786359"><img class="aligncenter" title="Pulsa para ver el autor de la foto, en Flickr" src="http://farm4.static.flickr.com/3156/2305786359_ee9698e7b1.jpg" alt="" width="500" height="336" /></a></address>
+<address>O tras un rm -rf en Linux (p.ej. Ubuntu) o tras enviar algo a la papelera y vaciarla, ya sea en Windows o en Mac.</address>
+<p>Hola. Si has llegado a este post desde un buscador, desesperado por recuperar tus datos, sólo tres puntos a considerar:</p>
+<ul>
+<li><strong>respira y relájate</strong>. El daño ya está hecho. Con la cabeza en su sitio recuperarás lo que puedas sin ahondar aún más en el desastre</li>
+<li>no vayas a enfadarte conmigo si lo que aquí pongo no te funciona. Te puedo aclarar dudas, pero no hacer milagros. Recuerda que quien vació la papelera no fui yo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>lee la receta que viene a continuación, aplícala, y si recuperas tus datos dame las gracias en un comentario, contándome tu experiencia. ¡Ánimo!</li>
+</ul>
+<p>Al resto, a los que (todavía) no habéis metido la pata, tras la receta contaré cómo metí la pata y mi historia de recuperación de datos. ¡Sí, otra batallita!</p>
+<h2>Cómo recuperar los datos tras el rm -rf</h2>
+<ol>
+<li style="text-align: justify;"><strong>No borres nada más, no toques el ordenador, no instales nada</strong>. Cuanto más utilices el disco duro, más datos se leerán de el, pero también se grabarán. Los ficheros que has borrado <em>están aún en tu disco duro</em> y probablemente los puedas recuperar. Pero si te pones a grabar cosas, la probabilidad de que uno de los bloques ocupados por tus archivos se sobreescriba crece y crece. <strong>Si puedes</strong> (y sabes que tu ordenador arrancará luego), <strong>apaga el ordenador y lee esto desde otro</strong>.</li>
+<li style="text-align: justify;">Si has borrado parte del S.O., apagar el ordenador es el menor de tus males. Siempre puedes arrancar con un disco live de Ubuntu (o un USB arrancable de Windows, p.ej. creado con BartPE o de Mac OS X), copiar los datos en un disco USB / Firewire externo y reinstalar. Voy a suponer que has perdido ficheros de datos, y que el S.O. está OK.</li>
+<li><strong>Herramientas</strong> que necesitas:
+<ol>
+<li><strong>Un disco externo</strong> donde guardar la información que vas a recuperar, con suficiente espacio libre. Si tienes uno lleno de películas bajadas de Internet, las borras que siempre podrás bajarlas de nuevo y haces sitio. Lo primero es lo primero.</li>
+<li>El <strong>excelente</strong> programa <a href="http://www.cgsecurity.org/wiki/PhotoRec">PhotoRec</a>, utilidad de recuperación de datos para Linux, Mac, Windows y casi cualquier S.O. moderno.</li>
+<li>Paciencia, muuuucha paciencia. Recuperar los datos es un proceso muy largo (dependiendo del tamaño de los discos). Para que calcules, 200 GB tardaron más de 24 h.</li>
+<li>Opcional. Un disco de arranque externo USB en el que puedas instalar PhotoRec, para hacer la recuperación desde ese disco, leyendo el interno en el que has borrado, y grabando en otro disco USB que pinches para recibir los datos rescatados.</li>
+<li>Opcional. Una SAI si el equipo no es un portátil. No quiero imaginarme lo divertido que debe ser estar en medio de la recuperación y que se vaya la luz&#8230;</li>
+</ol>
+</li>
+<li style="text-align: justify;">¿Ya lo tienes todo? Arranca con tu disco externo o instala PhotoRec en el sistema a salvar, y ejecútalo. Lo debes lanzar desde una consola, mejor si tienes privilegios de administrador: cmd.exe en Windows, Terminal en Mac OS X, Gnome Terminal en Linux, etc. En el caso concreto de Mac está en una carpeta llamada Darwin dentro de la carpeta que se descomprime al bajar el fichero.</li>
+<li>Si no tienes privilegios de administrador, en Ubuntu Linux y Mac OS X se obtienen escribiendo en la consola: sudo su e introduciendo tu clave de inicio de sesión.</li>
+<li>Sí, es muy feo, es el típico programa de MS-DOS que corría sólo con modo texto. Pero ¿para qué lo quieres bonito? Lo que quieres son tus datos. Y es GPL. Luego coste cero. Todo el programa se maneja con las teclas de cursor y el Enter. Aquí no hay ratón que valga.<a href="/wp-content/uploads/2010/03/photorec.png"><img class="size-medium wp-image-912 aligncenter" title="Photorec" src="/wp-content/uploads/2010/03/photorec-300x229.png" alt="" width="300" height="229" srcset="/wp-content/uploads/2010/03/photorec-300x229.png 300w, /wp-content/uploads/2010/03/photorec.png 587w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>
+<li>Escoge el disco donde están los datos perdidos. En Windows te aparecerán las letras de unidad.</li>
+<li>A continuación hay que indicarle el tipo de tabla de particiones que tenemos. Normalmente Intel funcionará con Linux y Windows, EFI GPT con los Macs nuevos (con procesadores no PowerPC) y Mac con los macs PowerPC.</li>
+<li>Ahora podemos pasarle opciones sobre los ficheros que queremos recuperar (p.ej., para que sólo busque fotos, o sólo archivos comprimidos, etc.)</li>
+<li>Finalmente le indicamos el disco destino de la recuperación. <strong>Muy importante</strong>: que no sea el mismo desde el que recuperas. Puedes sobreescribir datos que estás intentando recuperar.<img class="alignright size-medium wp-image-911" title="Carpetas recuperadas" src="/wp-content/uploads/2010/03/carpetas-recup-300x189.png" alt="" width="300" height="189" srcset="/wp-content/uploads/2010/03/carpetas-recup-300x189.png 300w, /wp-content/uploads/2010/03/carpetas-recup.png 832w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+<li>Cuando termine la recuperación, tendrás un montón de carpetas, cada una con 500 ficheros. PhotoRec, va recuperando pero para no hacer los directorios muy largos, cuando llega a 500 para y crea una nueva carpeta. Los nombres de los ficheros se los va inventando.</li>
+<li>Ahora viene lo duro. Localizar tus ficheros. Yo te recomiendo que hagas búsquedas por tipo de fichero, por ejemplo, que busques todos los .MP3 que están en esas carpetas, o todos los .DOC, etc. Ir viendo una a una puede ser desesperante, ya que te encontrarás todo tipo de ficheros recuperados que probablemente sean basura para ti.</li>
+</ol>
+<h2>Mi experiencia (doble) con PhotoRec</h2>
+<p style="text-align: justify;">Por desgracia (o por suerte, nunca se sabe) he tenido que tratar con PhotoRec dos veces seguidas en un corto espacio de tiempo. La primera, tras lanzar un rm -rf donde no debía en Mac OS X y la segunda para recuperar las fotos de una tarjeta Memory Stick Pro Duo que no se podía leer. ¡Vamos con la primera experiencia!</p>
+<h3>Borrando donde no se debe en Mac OS X</h3>
+<p style="text-align: justify;">Mac OS X monta los volúmenes (particiones, discos externos, etc.) en una carpeta llamada /Volumes. En esta carpeta se monta, por ej., <a href="/2009/09/06/video-del-unboxing-de-mi-drobo-en-espanol/">mi Drobo</a>. Concretamente debe montarse en /Volumes/Drobo. Pero hay veces que se me olvida apagar el Drobo antes que el <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">PowerMac G5</a> al que está conectado y, por un fallo documentado esta carpeta no se borra. Resultado: en el siguiente arranque Drobo detecta que ya existe una carpeta con nombre Drobo y crea otra «Drobo 1». Y así hasta el infinito. Feo. No me gusta. Solución: borrar las carpetas «Drobo*» para que no se acumulen. Aquí en donde entra el rm -rf /Volumes/Drobo 1/, pero por causas que no acierto a concretar, escribí como rm -rf /Volumes/. Resultado: todos los discos conectados al Mac, preparados para ser exterminados. Todos. Los dos discos duros internos, los discos por red (Time Capsule). El Drobo no, porque antes de estas operaciones lo suelo apagar. Menos mal que fui rápido y sólo se borró el segundo disco duro interno del G5. Sólo. 200 GB a la basura.</p>
+<p>¿Y no tenías backup? Bueno, la mayoría del contenido era prescindible: cosas bajadas de Internet (que se vuelven a bajar). Pero había algunas películas de vídeo propias que no tenía pasadas a ningún sitio. ¡<em>Gosh</em>!. ¡La liamos!. Y aquí es donde ha entrado PhotoRec. He podido recuperar gran parte de los vídeos, que es lo que me interesaba. El resto ni lo he buscado. Y han aparecido fotos que habían estado en ese disco pero había borrado, MP3s, de todo. Es curioso cuando recuperas datos, las cosas que pueden llegar a aparecer.</p>
+<p>Al final la cosa no ha sido tan grave, pero necesito urgentemente un plan de backup (y probar los <a href="http://www.joelonsoftware.com/items/2009/12/14.html">restores</a>). A ver qué puedo organizar con lo que tengo (y, a lo mejor, ampliando un poco mi Drobo) y cuando lo tenga lo pondré por aquí.</p>
+<h3>Recuperar una tarjeta de memoria irrecuperable</h3>
+<p style="text-align: justify;">Una amiga me trajo una tarjeta, en teoría llena de fotos, pero que no era capaz de ver con la cámara. Le decía que debía formatearla. Un poco radical ¿no?. Así que decidí ayudarle: igual con mi PSP, o conectando la tarjeta al lector de MS Pro Duo de mi Dell Vostro 1510 la cosa mejorase. Pues no. No hay forma. No se puede leer la tarjeta. Varias máquinas, varios S.O. y misma respuesta.</p>
+<p style="text-align: justify;">¿Solución? Hacer lo que nos pide. Formatear la tarjeta y luego usar PhotoRec. A fin de cuentas, la mayoría de tarjetas de memoria vienen con formato FAT32, así que formatearlas no es más que escribir algunos bloques del inicio del disco. El resto se queda como está. De esta forma, PhotoRec (esta vez corriendo en Windows 7 Ultimate) recuperó un 1GB de fotos sin ningún problema.</p>
+<p><strong>¿Y tu experiencia? ¿Cómo te ha ido recuperando datos? ¿Qué herramientas has usado? ¡Compártelo en los comentarios!</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Conseguir que Mac OS X suene «a-la-Windows» al insertar un dispositivo USB</title>
+		<link>/2010/01/25/conseguir-que-mac-os-x-suene-a-la-windows-al-insertar-un-dispositivo-usb/</link>
+		<pubDate>Mon, 25 Jan 2010 11:53:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[GUM Sevilla]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=575</guid>
+		<description><![CDATA[Escribo este post por una pregunta que me ha llegado a la lista de correo del GUM Sevilla. Concretamente la pregunta era: Tengo una consulta sobre Growl y eventos de sonido. Quisiera que, cuando pincho un dispositivo USB, al igual que sucede en Windows, suene un sonidito en mi MacOs Snow leopard.¿Es esto posible? Growl [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Escribo este post por una pregunta que me ha llegado a la lista de correo del <a href="http://gum-sevilla.blogspot.com/">GUM Sevilla</a>. Concretamente la pregunta era:</p>
+<blockquote><p>Tengo una consulta sobre Growl y eventos de sonido. Quisiera que, cuando pincho un dispositivo USB, al igual que sucede en Windows, suene un sonidito en mi MacOs Snow leopard.<br style="line-height: 1.22em;" />¿Es esto posible?</p></blockquote>
+<p style="text-align: justify;"><a href="http://growl.info/">Growl</a> es un sistema de notificaciones en pantalla que se controla mediante un panel de preferencias. Si vamos a las Preferencias del Sistema veremos a Growl en la parte final «Complementos». Un click y lo abrimos. Se nos mostrará la pestaña <em>General</em>. Vamos a la pestaña <em>Applications.</em> Ahí disponemos de una lista de aplicaciones que tenemos instaladas y que soportan el sistema de notificaciones de Growl. Es decir, estas aplicaciones, cuando tienen algo que contarnos, le mandan ese mensaje a Growl y el se encarga de ponerlo en pantalla, tocar un sonido, etc.</p>
+<p style="text-align: justify;">En el caso que nos ocupa, como es un tema hardware (conectar un dispositivo USB), buscaremos la aplicación <a href="http://growl.info/extras.php#HardwareGrowler">Hardware Growler</a>. Comprobaremos que está instalada en nuestro sistema (la hemos copiado desde el DMG de instalación de Growl a la carpeta Aplicaciones) y que está habilitada en Growl (enabled) y pulsaremos en <em>Configure</em>. Tras esto nos aparece una pantalla como la siguiente:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/01/config-growl.png"><img class="aligncenter size-full wp-image-576" title="Configuración de Growl" src="/wp-content/uploads/2010/01/config-growl.png" alt="Configuración de Growl" width="748" height="629" srcset="/wp-content/uploads/2010/01/config-growl.png 748w, /wp-content/uploads/2010/01/config-growl-300x252.png 300w" sizes="(max-width: 748px) 100vw, 748px" /></a>Pulsando en Notifications (tal y como se muestra antes), basta con seleccionar el sonido deseado en el último cuadro desplegable: Play Sound.</p>
+<p style="text-align: justify;">Y casi listo. Nos falta lanzar Hardware Growler para que monitorice todos los eventos anteriores de hardware y, cuando suceda alguno, nos muestre la notificación growl correspondiente. Funciona en Mac OS X 10.6.2 Snow Leopard. Supongo que en el resto también funcionará.</p>
+<p style="text-align: justify;">¿Que por qué cuento esto aquí y no en la lista de correo del GUM?. Porque esa lista no permite imágenes adjuntas :-).</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Eliminar el icono de MobileMe de la barra de menú de Leopard</title>
+		<link>/2009/02/23/eliminar-el-icono-de-mobileme-de-la-barra-de-menu-de-leopard/</link>
+		<comments>/2009/02/23/eliminar-el-icono-de-mobileme-de-la-barra-de-menu-de-leopard/#comments</comments>
+		<pubDate>Mon, 23 Feb 2009 22:31:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Mac]]></category>
+		<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/2009/02/23/eliminar-el-icono-de-mobileme-de-la-barra-de-menu-de-leopard/</guid>
+		<description><![CDATA[Yo no uso MobileMe (un servicio de sincronización de Apple, de pago, que te permite tener tus contactos, citas, correo, etc. sincronizados en varios ordenadores, tu iPhone, &#8230;) pero aún así tenía que sufrir en silencio el iconito en la barra de menú superior. Hoy Googleando me he encontrado con la forma de quitar el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Yo no uso <a href="http://www.apple.com/es/mobileme/">MobileMe</a> (un servicio de sincronización de Apple, de pago, que te permite tener tus contactos, citas, correo, etc. sincronizados en varios ordenadores, tu iPhone, &#8230;) pero aún así tenía que sufrir en silencio el iconito en la barra de menú superior.</p>
+<p>Hoy Googleando me <a href="http://www.hacktheday.com/get-rid-of-the-mobileme-sync-icon-in-leopards-menu-bar-3/">he encontrado con la forma de quitar el icono</a>: basta con pulsar la tecla comando, pulsar y arrastrar fuera de la barra de menú el icono: se borra solo. A veces se tarda más en saber cómo hacer algo que en hacerlo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><strong>Actualización 04/01/2010</strong></p>
+<p style="text-align: justify;">He visto (bueno, escuchado) en el <a href="http://www.macniacos.com/2009/12/06/macniacos-60-navidades-en-27-pulgadas/">Podcast Macniacos #60</a> que también se puede hacer lanzando iSync y mirando en sus Propiedades. Hay una opción que podemos desactivar llamada «Mostrar estado en la barra de Menus»</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/23/eliminar-el-icono-de-mobileme-de-la-barra-de-menu-de-leopard/feed/</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+		</item>
+	</channel>
+</rss>

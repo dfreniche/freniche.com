@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chorradas &#8211; freniche.com</title>
+	<atom:link href="/tag/chorradas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Veamos cómo tienes de largo tu Dock</title>
+		<link>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/</link>
+		<comments>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/#comments</comments>
+		<pubDate>Thu, 11 Aug 2011 09:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[chorradas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Mac]]></category>
+
+		<guid isPermaLink="false">/?p=1579</guid>
+		<description><![CDATA[Se me ha ocurrido una tontería, y no he podido evitar escribir esto. Estaba mirando mi Dock y he pensado «menos mal que tengo 27&#8243;, que si no no me caben más aplicaciones». Luego se me ha ocurrido «¿habrá quien tenga más cosas en su Dock que yo?» y he inventado El Gran Concurso Mundial [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Se me ha ocurrido una tontería, y no he podido evitar escribir esto. Estaba mirando mi Dock y he pensado «menos mal que tengo 27&#8243;, que si no no me caben más aplicaciones». Luego se me ha ocurrido «¿habrá quien tenga más cosas en su Dock que yo?» y he inventado <strong>El Gran Concurso Mundial De A Ver Quien Tiene El Dock Más Largo</strong>, así, con todas las palabras empezando por mayúsculas que molesta más.</p>
+<p style="text-align: justify;">Respondedme con vuestras capturas del Dock, subidas donde os parezca, en los comentarios. Y si somos  muchos, podemos hacer una comunidad absurda más, total, si hay gente que le da al <a href="http://en.wikipedia.org/wiki/Planking_(fad)">planking</a>&#8230;</p>
+<p style="text-align: justify;">Así que os reto ¿alguien lo tiene más largo que yo?&#8230; el Dock, digo, claro.</p>
+<div id="attachment_1580" style="width: 65px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/dock.png"><img class="size-full wp-image-1580" title="Dock" src="/wp-content/uploads/2011/08/dock.png" alt="Dock" width="55" height="2551" /></a><p class="wp-caption-text">Dock</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

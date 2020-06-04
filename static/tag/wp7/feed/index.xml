@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WP7 &#8211; freniche.com</title>
+	<atom:link href="/tag/wp7/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Charla sobre «El estado de la nación móvil»</title>
+		<link>/2012/09/14/charla-sobre-el-estado-de-la-nacion-movil/</link>
+		<pubDate>Fri, 14 Sep 2012 09:10:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Plataformas móviles]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+		<category><![CDATA[WP7]]></category>
+
+		<guid isPermaLink="false">/?p=1786</guid>
+		<description><![CDATA[Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-1788" title="Hablando del estado de la nación móvil" src="/wp-content/uploads/2012/09/Foto_1.jpg" alt="Hablando del estado de la nación móvil" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_1.jpg 640w, /wp-content/uploads/2012/09/Foto_1-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p style="text-align: justify;">Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo que los asistentes (que me tenían que aguantar), no tanto.</p>
+<p style="text-align: justify;">Es increíble lo mucho que cambia esta parte del sector informático en meses. En Julio estuve en Zafra realizando este taller, pero con más profundidad, para ayudar a una empresa a elegir su estrategia móvil para desarrollo. Como eran programas in house y ya sabían Java finalmente vimos que lo mejor era la ruta Android. Pero desde entonces Samsung ha sido condenada por copiona, ha salido el Kindle Fire HD, el Nexus 7, se han anunciado los nuevos Lumias&#8230; Esto va a velocidad de vértigo y son tantas las plataformas y hay tanto ruido que es normal que el que no esté al tanto quiera alguna indicación.</p>
+<div><a href="/wp-content/uploads/2012/09/Foto_2.jpg"><img class="aligncenter size-full wp-image-1789" title="Al fondo, inasequible al desaliento" src="/wp-content/uploads/2012/09/Foto_2.jpg" alt="Al fondo, inasequible al desaliento" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_2.jpg 640w, /wp-content/uploads/2012/09/Foto_2-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></div>
+<div>La pena es que no pudimos hacer casi ni un hola mundo con Xcode. Quería hacer algo también con Android, pero fue imposible. O haber enseñado alguna aplicación webOS, o Windows Phone. Pero cuatro horas se van volando, cuando hablas de algo que te apasiona <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+<p style="text-align: justify;">P.D.: <a href="http://www.avante.es/">Avante</a> ha convocado un <a href="http://www.avante.es/master/desarrollo_apps.html">máster de desarrollo iOS, Android y Windows Phone</a>. Tienes la oportunidad de aguantarme enseñando a programar en  iOS y Android si te apuntas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">P.P.D.: ya <a href="/2010/10/08/video-de-mi-intervencion-en-etic/">a finales de 2010 estuve hablando en un encuentro e-Tic de Avante sobre iOS</a>. Hay vídeo para recordarlo.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

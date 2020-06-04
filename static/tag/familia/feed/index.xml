@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Familia &#8211; freniche.com</title>
+	<atom:link href="/tag/familia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Afrontando el exilio</title>
+		<link>/2006/05/23/afrontando-el-exilio/</link>
+		<comments>/2006/05/23/afrontando-el-exilio/#comments</comments>
+		<pubDate>Tue, 23 May 2006 15:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Familia]]></category>
+
+		<guid isPermaLink="false">/2006/05/23/afrontando-el-exilio/</guid>
+		<description><![CDATA[Estoy hoy un poco pesimista. Un mes y medio fuera de casa pueden con cualquiera, aunque sea un optimista patológico como el que escribe. Un curso de dos semanas de UML en Mérida seguido de casi un mes en Melilla, con un curso de Typo3 y otro de OpenOffice.org, acaban con las ganas de cualquiera [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="padding-top: 0px; padding-right: 0px; padding-bottom: 1.2em; padding-left: 0px; font-size: 1.2em; margin: 0px;">Estoy hoy un poco pesimista. Un mes y medio fuera de casa pueden con cualquiera, aunque sea un optimista patológico como el que escribe. Un curso de dos semanas de UML en Mérida seguido de casi un mes en Melilla, con un curso de Typo3 y otro de OpenOffice.org, acaban con las ganas de cualquiera de ver un hotel. ¡En el de Melilla me tratan como si entrara en mi casa!</p>
+<p style="padding-top: 0px; padding-right: 0px; padding-bottom: 1.2em; padding-left: 0px; font-size: 1.2em; margin: 0px;">En fin, como digo por ahí, hay que comer. Un sabio dijo que «sólo trabaja el que no sabe hacer otra cosa». Me quejo por vicio, porque también me gusta. Aunque con mi niño (Gonzalo) con cuatro meses recién cumplidos, cuesta (y mucho) salir de casa. Bueno, a mi mujer también la echo de menos.</p>
+<p style="padding-top: 0px; padding-right: 0px; padding-bottom: 1.2em; padding-left: 0px; font-size: 1.2em; margin: 0px;">Lo dicho, estoy triste&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/05/23/afrontando-el-exilio/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Un juego muy divertido</title>
+		<link>/2006/05/05/un-juego-muy-divertido/</link>
+		<pubDate>Fri, 05 May 2006 07:45:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Familia]]></category>
+		<category><![CDATA[Juegos]]></category>
+
+		<guid isPermaLink="false">/2006/05/05/un-juego-muy-divertido/</guid>
+		<description><![CDATA[Aunque causa bastante estrés, creo que puede ayudar a controlarlo. Es bastante divertido. Consiste en controlar una bolita que debe evitar a todos los invasores. Si te tocan explota. Un juego para aprender a respirar en momentos de tensión y desarrollar una visión global (happomokkku) Para niños es algo interesante. Ahora que soy padre tendré [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Aunque causa bastante estrés, creo que puede ayudar a controlarlo. Es bastante divertido. Consiste en controlar una bolita que debe evitar a todos los invasores. Si te tocan explota. Un juego para aprender a respirar en momentos de tensión y desarrollar una visión global (<a href="http://www.soton.ac.uk/~shkempo/vocab.htm" target="_blank">happomokkku</a>)</p>
+<p class="bodytext">Para niños es algo interesante. Ahora que soy padre tendré que hacer acopio de este tipo de juegos. Que ya aprenderán solitos a usar Duke-Nukem-2016 y F.E.A.R. 28.</p>
+<p class="bodytext"><a href="http://www.minijuegos.com/juegos/jugar.php?id=4336">Pulsa para jugar!</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

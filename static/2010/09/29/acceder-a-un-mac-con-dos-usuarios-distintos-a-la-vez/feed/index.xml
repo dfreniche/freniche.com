@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Acceder a un Mac con dos usuarios distintos, a la vez</title>
+	<atom:link href="/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-257713</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 22 Dec 2013 19:53:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-257713</guid>
+		<description><![CDATA[Hola David
+Puedes abrir sesión en un Mac y que otro usuario se conecte con VNC desde un Linux, otro Mac o un PC con Windows. Pero ponerle dos ratones y dos teclados al Mac, no puedes.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola David<br />
+Puedes abrir sesión en un Mac y que otro usuario se conecte con VNC desde un Linux, otro Mac o un PC con Windows. Pero ponerle dos ratones y dos teclados al Mac, no puedes.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: David</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-257657</link>
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Fri, 13 Dec 2013 12:21:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-257657</guid>
+		<description><![CDATA[Saludos a todos, una cuestión que me surge es la siguiente: ¿pueden manejar dos usuarios distintos el mismo iMAC a la vez cada uno con su teclado, su pantalla y su ratón conectados al propio iMAC? Uno de ellos podría manejar un escritorio con Parallels y W7, y el otro podría gestionar otro escritorio en OSX; o por el contrario, cada uno con su cuenta de usuario tal y como habéis indicado en el post. ¿Lo veis factible? Vamos, hacer dos ordenadores de uno solo para dos usuarios simultáneos. Gracias anticipadas por vuestras aportaciones.]]></description>
+		<content:encoded><![CDATA[<p>Saludos a todos, una cuestión que me surge es la siguiente: ¿pueden manejar dos usuarios distintos el mismo iMAC a la vez cada uno con su teclado, su pantalla y su ratón conectados al propio iMAC? Uno de ellos podría manejar un escritorio con Parallels y W7, y el otro podría gestionar otro escritorio en OSX; o por el contrario, cada uno con su cuenta de usuario tal y como habéis indicado en el post. ¿Lo veis factible? Vamos, hacer dos ordenadores de uno solo para dos usuarios simultáneos. Gracias anticipadas por vuestras aportaciones.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-257568</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 08 Dec 2013 11:47:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-257568</guid>
+		<description><![CDATA[Hola Ray
+
+Siempre puedes mapear el teclado del PC Windows al de Mac (la tecla Windows se comportaría como Command, etc.). Lo comentaba en &lt;a href=&quot;/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/&quot; title=&quot;esta entrada&quot; rel=&quot;nofollow&quot;&gt;&lt;/a&gt;
+
+Saludos]]></description>
+		<content:encoded><![CDATA[<p>Hola Ray</p>
+<p>Siempre puedes mapear el teclado del PC Windows al de Mac (la tecla Windows se comportaría como Command, etc.). Lo comentaba en <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/" title="esta entrada" rel="nofollow"></a></p>
+<p>Saludos</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Ray</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-257543</link>
+		<dc:creator><![CDATA[Ray]]></dc:creator>
+		<pubDate>Sat, 07 Dec 2013 17:14:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-257543</guid>
+		<description><![CDATA[Saludos, mi duda viene con el teclado. 
+Los usuarios que se conectan por VNC. usan un teclado comun. hay algun problema? por que Mac tiene su propio teclado.]]></description>
+		<content:encoded><![CDATA[<p>Saludos, mi duda viene con el teclado.<br />
+Los usuarios que se conectan por VNC. usan un teclado comun. hay algun problema? por que Mac tiene su propio teclado.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-235717</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 30 Oct 2013 19:34:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-235717</guid>
+		<description><![CDATA[Hola
+
+Creo que sí, pero dependerá de la memoria que tengas en el Mac para que funcione bien Xcode. Te recomiendo que veas la posibilidad de alquilar una máquina en macincloud.com, que quizá te sirva
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola</p>
+<p>Creo que sí, pero dependerá de la memoria que tengas en el Mac para que funcione bien Xcode. Te recomiendo que veas la posibilidad de alquilar una máquina en macincloud.com, que quizá te sirva</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: pablus</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-235081</link>
+		<dc:creator><![CDATA[pablus]]></dc:creator>
+		<pubDate>Tue, 29 Oct 2013 23:18:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-235081</guid>
+		<description><![CDATA[Hola que tal muy bueno tu blog, con esto puedo hacer que dos usuarios ejecuten cada uno el Xcode con su respectivo simulador? Estoy dando también un curso y solo tenemos una mac. Saludos.]]></description>
+		<content:encoded><![CDATA[<p>Hola que tal muy bueno tu blog, con esto puedo hacer que dos usuarios ejecuten cada uno el Xcode con su respectivo simulador? Estoy dando también un curso y solo tenemos una mac. Saludos.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-222873</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 07 Oct 2013 05:14:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-222873</guid>
+		<description><![CDATA[Hola José Luis
+
+No he probado a conectarme con VNC con dos usuarios usando un Mac + un iPad. En teoría se debe poder. Cuando me conecto desde el iPad uso SplashTop remote (que va con su propia App) o bien uso Doceri Desktop (también tiene su propio servidor instalado en el Mac)
+
+Siempre puedes hacer la prueba, con cualquier App de VNC (como Mocha VNC lite) y contar cómo te ha ido :-D
+
+Gracias por comentar]]></description>
+		<content:encoded><![CDATA[<p>Hola José Luis</p>
+<p>No he probado a conectarme con VNC con dos usuarios usando un Mac + un iPad. En teoría se debe poder. Cuando me conecto desde el iPad uso SplashTop remote (que va con su propia App) o bien uso Doceri Desktop (también tiene su propio servidor instalado en el Mac)</p>
+<p>Siempre puedes hacer la prueba, con cualquier App de VNC (como Mocha VNC lite) y contar cómo te ha ido 😀</p>
+<p>Gracias por comentar</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: José Luis</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-222382</link>
+		<dc:creator><![CDATA[José Luis]]></dc:creator>
+		<pubDate>Sat, 05 Oct 2013 22:28:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-222382</guid>
+		<description><![CDATA[Hola Diego.
+
+Ha sido un verdadero descubrimiento enterarme por tu blog que un mac puede atender a dos usuarios simultáneamente usando VNC.
+
+Ahora mi pregunta es: 
+
+¿Puede el cliente VNC trabajar desde un Ipad, sin interrumpir al usuario en el servidor VNC? 
+
+¿Existirán programas para hacer esto para ipad?
+
+
+Un abrazo 
+
+Jose Luis]]></description>
+		<content:encoded><![CDATA[<p>Hola Diego.</p>
+<p>Ha sido un verdadero descubrimiento enterarme por tu blog que un mac puede atender a dos usuarios simultáneamente usando VNC.</p>
+<p>Ahora mi pregunta es: </p>
+<p>¿Puede el cliente VNC trabajar desde un Ipad, sin interrumpir al usuario en el servidor VNC? </p>
+<p>¿Existirán programas para hacer esto para ipad?</p>
+<p>Un abrazo </p>
+<p>Jose Luis</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-138995</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sat, 06 Apr 2013 10:50:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-138995</guid>
+		<description><![CDATA[Hola Juan José
+
+Cuando uno empieza con un nuevo programa, plataforma o lenguaje de programación siempre es un ignorante. Es lo bonito: que podemos seguir aprendiendo.
+
+No acabo de entender lo que quieres hacer. ¿Quieres lanzar dos Skypes en la misma máquina, a la vez, viendo ambos en pantalla? Si es así, instala Skype en Virtual Box y lanzas el Skype de tu cuenta Mac y el de dentro de VB. No creo que se puedan tener dos Skype corriendo a la vez en la misma cuenta de usuario.
+
+Para conectarte al Mac, ya integra VNC. No necesitas instalar nada. Ve a Preferencias del Sistema &gt; Compartir y marca &quot;Compartir pantalla&quot;. A la derecha te indicará la URL VNC que debes usar para conectarte.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Juan José</p>
+<p>Cuando uno empieza con un nuevo programa, plataforma o lenguaje de programación siempre es un ignorante. Es lo bonito: que podemos seguir aprendiendo.</p>
+<p>No acabo de entender lo que quieres hacer. ¿Quieres lanzar dos Skypes en la misma máquina, a la vez, viendo ambos en pantalla? Si es así, instala Skype en Virtual Box y lanzas el Skype de tu cuenta Mac y el de dentro de VB. No creo que se puedan tener dos Skype corriendo a la vez en la misma cuenta de usuario.</p>
+<p>Para conectarte al Mac, ya integra VNC. No necesitas instalar nada. Ve a Preferencias del Sistema > Compartir y marca «Compartir pantalla». A la derecha te indicará la URL VNC que debes usar para conectarte.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Juan José</title>
+		<link>/2010/09/29/acceder-a-un-mac-con-dos-usuarios-distintos-a-la-vez/comment-page-1/#comment-138335</link>
+		<dc:creator><![CDATA[Juan José]]></dc:creator>
+		<pubDate>Wed, 03 Apr 2013 22:15:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1106#comment-138335</guid>
+		<description><![CDATA[Hola amigo Diego, me ha encantado tu blog y me está siendo muy provechoso, ya que soy nuevo en Mac y como muchos, ignorante en algunos temas, como por ejemplo este, el de usar dos cuentas a la vez.
+Te explico. Hace unos meses me recomendaron instalar VirtualBox, y de este modo poder usar otro sistema (en mi caso windows 7), para instalar programas que no había para Mac, donde puedes cambiar de sistema tan fácil como cambiar de aplicación en el Dock, y me va bastante bien, pero claro, esto es para usar programas que no existen aun para Mac en otro sistema. Mi deseo es abrir varias sesiones de skype en Mac.
+Me he descargado el VNC server 4.01 y lo he instalado en dos cuentas de usuario, pero no encuentro manual para usarlo, ¿serías tan amable de indicarme alguna web donde encontrarlo en castellano?, te lo agradecería, ya que mi inglés es muy básico.
+Esperando tu respuesta muy agradecido.
+Juan José de Málaga.]]></description>
+		<content:encoded><![CDATA[<p>Hola amigo Diego, me ha encantado tu blog y me está siendo muy provechoso, ya que soy nuevo en Mac y como muchos, ignorante en algunos temas, como por ejemplo este, el de usar dos cuentas a la vez.<br />
+Te explico. Hace unos meses me recomendaron instalar VirtualBox, y de este modo poder usar otro sistema (en mi caso windows 7), para instalar programas que no había para Mac, donde puedes cambiar de sistema tan fácil como cambiar de aplicación en el Dock, y me va bastante bien, pero claro, esto es para usar programas que no existen aun para Mac en otro sistema. Mi deseo es abrir varias sesiones de skype en Mac.<br />
+Me he descargado el VNC server 4.01 y lo he instalado en dos cuentas de usuario, pero no encuentro manual para usarlo, ¿serías tan amable de indicarme alguna web donde encontrarlo en castellano?, te lo agradecería, ya que mi inglés es muy básico.<br />
+Esperando tu respuesta muy agradecido.<br />
+Juan José de Málaga.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Teclado Apple Buetooth y Magic Mouse en Windows 7 con BootCamp</title>
+	<atom:link href="/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-470181</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 17 Aug 2014 18:11:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-470181</guid>
+		<description><![CDATA[Pues la verdad es que no tengo ni idea: no lo he necesitado hasta ahora y no lo he mirado. Cuando necesito middle-click uso un ratón &quot;normal&quot; que tengo por aquí :-D
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Pues la verdad es que no tengo ni idea: no lo he necesitado hasta ahora y no lo he mirado. Cuando necesito middle-click uso un ratón «normal» que tengo por aquí 😀</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: un interesado en magic mouse</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-467087</link>
+		<dc:creator><![CDATA[un interesado en magic mouse]]></dc:creator>
+		<pubDate>Sat, 16 Aug 2014 02:01:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-467087</guid>
+		<description><![CDATA[refiriendome por supuesto en el caso de usarlo en windows con bootcamp y todo lo que tenga que ser instalado]]></description>
+		<content:encoded><![CDATA[<p>refiriendome por supuesto en el caso de usarlo en windows con bootcamp y todo lo que tenga que ser instalado</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: un interesado en magic mouse</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-467083</link>
+		<dc:creator><![CDATA[un interesado en magic mouse]]></dc:creator>
+		<pubDate>Sat, 16 Aug 2014 02:00:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-467083</guid>
+		<description><![CDATA[saben si el magic mouse tiene funciones como middle click, y si se le puede asignar algún otro botón? agradezco de antemano su respuesta]]></description>
+		<content:encoded><![CDATA[<p>saben si el magic mouse tiene funciones como middle click, y si se le puede asignar algún otro botón? agradezco de antemano su respuesta</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-64002</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sat, 14 Jul 2012 07:07:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-64002</guid>
+		<description><![CDATA[Pues, ni idea :-). Ni me he planteado usar el Mágica Trackpad con Windows. En mi caso, lo uso sólo con OS X, por aquello de que Windows no soporta entrada multitouch (creo). Al menos, yo no me veo usando Windows con un MT.
+
+Si descubres cómo hacerlo y quieres compartirlo, siempre será bienvenido :-)]]></description>
+		<content:encoded><![CDATA[<p>Pues, ni idea :-). Ni me he planteado usar el Mágica Trackpad con Windows. En mi caso, lo uso sólo con OS X, por aquello de que Windows no soporta entrada multitouch (creo). Al menos, yo no me veo usando Windows con un MT.</p>
+<p>Si descubres cómo hacerlo y quieres compartirlo, siempre será bienvenido 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Tommyboy</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-63456</link>
+		<dc:creator><![CDATA[Tommyboy]]></dc:creator>
+		<pubDate>Thu, 12 Jul 2012 23:23:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-63456</guid>
+		<description><![CDATA[Buenos consejos, está claro... Mi caso es que tengo Windows 7 y me encantaria saber en que fallo al instalar los drivers para utilizar el Magic Trackpad de Apple. Ya he descargado unos cuandos &quot;BootCamp&quot; (1, 2 y 3), pero me he encontrado con cosas raras y sin utilidad, ya que &quot;no me deja instalar&quot; y continuar con el proceso. Por último, conseguí descargar un &quot;BootCamp 0&quot;, ya que si intentaba con el 2, me pedia el 1 y cuando eso, pedia el 0. He instalado los drivers del Bluetooth, Multitouch Trackpad y el propio Trackpad installer... que hay que hacer para &quot;encontrar&quot; el trackpad, ya que no me funciona???]]></description>
+		<content:encoded><![CDATA[<p>Buenos consejos, está claro&#8230; Mi caso es que tengo Windows 7 y me encantaria saber en que fallo al instalar los drivers para utilizar el Magic Trackpad de Apple. Ya he descargado unos cuandos «BootCamp» (1, 2 y 3), pero me he encontrado con cosas raras y sin utilidad, ya que «no me deja instalar» y continuar con el proceso. Por último, conseguí descargar un «BootCamp 0», ya que si intentaba con el 2, me pedia el 1 y cuando eso, pedia el 0. He instalado los drivers del Bluetooth, Multitouch Trackpad y el propio Trackpad installer&#8230; que hay que hacer para «encontrar» el trackpad, ya que no me funciona???</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-21559</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sat, 20 Aug 2011 18:52:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-21559</guid>
+		<description><![CDATA[Hola
+
+Ni siquiera sabía que se le podían asignar sonidos al ratón en Win7 :-). Soy un ignorante total de Windows. Lo uso, pero no es de lo que más conocimientos tengo. 
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola</p>
+<p>Ni siquiera sabía que se le podían asignar sonidos al ratón en Win7 :-). Soy un ignorante total de Windows. Lo uso, pero no es de lo que más conocimientos tengo. </p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Karlos</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-21270</link>
+		<dc:creator><![CDATA[Karlos]]></dc:creator>
+		<pubDate>Thu, 18 Aug 2011 14:07:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-21270</guid>
+		<description><![CDATA[Hola Buen dia alguien me podría decir porque en window7 ultimate , le pongo sonido al maus, y al tildar en selec me lo reproduce pero al aplicarlo , no sale , el volumen esta al maximo , lo otros en el caso de maximizar y otros mas; no hay problema pero el seleccionar no lo reproduce , si alguien tiene este problema resuelto se los agradecere me lo explique  Gracias]]></description>
+		<content:encoded><![CDATA[<p>Hola Buen dia alguien me podría decir porque en window7 ultimate , le pongo sonido al maus, y al tildar en selec me lo reproduce pero al aplicarlo , no sale , el volumen esta al maximo , lo otros en el caso de maximizar y otros mas; no hay problema pero el seleccionar no lo reproduce , si alguien tiene este problema resuelto se los agradecere me lo explique  Gracias</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-20960</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 14 Aug 2011 10:14:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-20960</guid>
+		<description><![CDATA[Hola
+
+Entiendo que tienes un HP y te quieres comprar un teclado Bluetooth, no? Creo que debe funcionarte, pero compruébalo siempre antes en la web del fabricante o buscando algún vídeo en Youtube. 
+El teclado BT de Apple no tengo ni idea de si funcionará con Win7 en un PC. No he realizado esa prueba, lo siento :-)
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola</p>
+<p>Entiendo que tienes un HP y te quieres comprar un teclado Bluetooth, no? Creo que debe funcionarte, pero compruébalo siempre antes en la web del fabricante o buscando algún vídeo en Youtube.<br />
+El teclado BT de Apple no tengo ni idea de si funcionará con Win7 en un PC. No he realizado esa prueba, lo siento 🙂</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Munkystuta</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-20920</link>
+		<dc:creator><![CDATA[Munkystuta]]></dc:creator>
+		<pubDate>Sat, 13 Aug 2011 16:05:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-20920</guid>
+		<description><![CDATA[Hola que tal, estuve leyendo sobre como instalar el teclado y mouse en win7, en este caso tu tienes los dos softwares, es obvia mi pregunta... si yo tengo una HP con win7 y compro el teclado me puede funcionar de igual manera!????... Gracias.]]></description>
+		<content:encoded><![CDATA[<p>Hola que tal, estuve leyendo sobre como instalar el teclado y mouse en win7, en este caso tu tienes los dos softwares, es obvia mi pregunta&#8230; si yo tengo una HP con win7 y compro el teclado me puede funcionar de igual manera!????&#8230; Gracias.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Pedro</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/comment-page-1/#comment-25451</link>
+		<dc:creator><![CDATA[Pedro]]></dc:creator>
+		<pubDate>Tue, 30 Nov 1999 01:00:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1395#comment-25451</guid>
+		<description><![CDATA[Muchisimas gracias por el tip, funcionó perfectamente.]]></description>
+		<content:encoded><![CDATA[<p>Muchisimas gracias por el tip, funcionó perfectamente.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

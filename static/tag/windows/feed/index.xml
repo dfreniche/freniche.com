@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Windows &#8211; freniche.com</title>
+	<atom:link href="/tag/windows/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Windows 8 en mi iMac late 2009</title>
+		<link>/2014/06/11/windows-8-en-mi-imac-late-2009/</link>
+		<comments>/2014/06/11/windows-8-en-mi-imac-late-2009/#comments</comments>
+		<pubDate>Wed, 11 Jun 2014 16:15:45 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Bootcamp]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=2187</guid>
+		<description><![CDATA[TL;DR; Este es el mejor resumen de lo que viene a continuación: Me gusta jugar. Lo confieso. Especialmente a los juegos de acción en primera persona (vicio adquirido con el mítico Wolfestein 3D) y a los de estrategia por turnos. Por turnos. Los otros son un corre que te pillo para ganar. Esto se lo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>TL;DR;</h2>
+<p>Este es el mejor resumen de lo que viene a continuación:</p>
+<p><a href="/wp-content/uploads/2014/06/t0XHtgJ.gif"><img src="/wp-content/uploads/2014/06/t0XHtgJ.gif" alt="Escena de Dexter" width="240" height="180" class="aligncenter size-full wp-image-2189" /></a></p>
+<h2>Me gusta jugar.</h2>
+<p>Lo confieso. Especialmente a los juegos de acción en primera persona (vicio adquirido con el mítico <a href="http://es.wikipedia.org/wiki/Wolfenstein_3D">Wolfestein 3D</a>) y a los de estrategia por turnos. Por turnos. Los otros son un <em>corre que te pillo</em> para ganar. Esto se lo debo a <a href="http://es.wikipedia.org/wiki/Civilization">Civilization</a>, que conocí en el centro de cálculo de la entonces Facultad de Informática. Desde entonces (y desde antes) siempre me ha encantado jugar. De hecho, tengo un refrán propio: <em>«desconfía del programador que no juegue»</em>.</p>
+<p>En el Mac mis necesidades de juegos han estado bastante bien cubiertas por Steam estos años. Los juegos que me interesan los tengo. Salvo uno: Héroes of Might and Magic, que siguen empeñandose en sacarlo solo para Windows. Lo cual es absurdo, porque digo yo que si un montón de juegos salen ya para Mac es perder mercado y tal, pero bueno. El caso es que me lo compré hace un tiempo y no he podido jugar por no tener a mano una máquina Windows con una tarjeta gráfica de al menos 512 MB. Aquí no valen máquinas virtuales ni otros apaños: necesitas «the real thing».</p>
+<p>En esta tesitura estaba cuando caí en que mi iMac tiene exactamente esa memoria gráfica. Y es un Core i7. Y tiene 12 GB RAM. Vamos, que es un maquinón. ¿Por qué no usarlo para mis necesidades de jugón instalando con BootCamp una partición con Windows? Eso es lo que hice con mi Mac Mini, pero terminé por no usarlo ya que los juegos iban muy, muy lentos debido a la triste potencia gráfica (y de CPU) de mi Mac Mini. Que de servidor y eso aguanta, pero para cosas más exigentes en gráficos el pobre no puede.</p>
+<p>Así que me puse manos a la obra, pensando que con Bootcamp y mi DVD de Windows 8 la cosa estaba controlada. No sabía cuanto me equivocaba.</p>
+<h2>La clave de producto de Windows</h2>
+<p>Antes de hacer nada empecé planificando todos los pasos en mi libreta. Para reunir los materiales necesarios, anticipar problemas y esas cosas. Cuando salió Windows 8 compré una licencia de Windows 8 Pro por sí la necesitaba para desarrollo Windows Phone y por echar un vistazo a la interfaz Metro (o como se tenga que llamar ahora). Por todo eso y por otra cosa: porque estaba barata, 30 Eur.</p>
+<pre><code>Nota al margen: Microsoft, quizás aprendas que es mejor ganar un poco menos con cada licencia, y llevarte el 100% que seguir empeñada en cobrar un Potosí por cada programa...
+</code></pre>
+<p>Pues bien: no encontraba la licencia. No estaba en Evernote, ni en el disco duro del Mac, ni encontraba mensaje alguno de confirmación de la compra. Sólo veía un correo de Paypal de confirmación del pago, pero de «Product Key» nada de nada. Pues vaya. Para una vez que pago una licencia de Microsoft, me hace ilusión utilizarla. Como no la encontraba la solución fue arrancar una máquina virtual donde la había instalado y sacarle una foto con el iPhone a la clave. Luego, mucho más tarde, caí en que la clave estaba en un correo en mi cuenta de hotmail. Sí, esa que todos tenemos y no usamos. Pero eso es otra historia para un segundo post donde hablaré de las activaciones de productos Microsoft. Que tiene mucha guasa, por cierto.</p>
+<h2>Copias de seguridad</h2>
+<p>Armado con mi clave de producto me dispuse a hacer copias de seguridad del iMac. A fin de cuentas, usar Bootcamp supone crear nuevas particiones en el disco, y eso es peligroso, ¿no?. Así que con Techtool 7 he creado una copia arrancable del iMac en un HD externo de 1 TB que tengo para estas cosas. Y claro, además de crearla hay que reiniciar usando ese disco de copia de seguridad como disco de arranque y comprobar que si todo sale mal, al menos puedes dejarlo todo como estaba.</p>
+<p>Todo Ok, tras un siglo de esperas.</p>
+<h2>Fusion drive</h2>
+<p>De pronto, un escalofrío recorre mi espalda. Recuerdo que tengo instalado un SSD en el sitio que antes ocupaba la unidad Superdrive. Y que creé un grupo de volúmenes con Fusion Drive, de manera que OS X gestiona de forma automática que ficheros deben ir en el SSD y cuales en el HD. Así qué me entra la duda: si instalo Windows 8 ¿dónde se instala?. ¿En el SSD? ¿Se carga el Fusion Drive? ¿No se puede instalar por culpa de este?</p>
+<p>Buscando un poco encontré la respuesta en las preguntas frecuentes de Bootcamp. Simplemente se va a instalar en el HD, sin tocar el SSD. Así qué puedo seguir. Phew!</p>
+<h1>Bootcamp no soporta Windows 8</h1>
+<p>Pues eso. Que BootCamp no soporta Windows 8 en mi iMac late 2009 y no me lo ofrece como opción a la hora de instalar. Me deja bajar los drivers (en teoría, más sobre esto ahora) y sólo te deja instalar Windows 7. Según Apple, mi iMac no debe ser lo suficientemente potente para ejecutar Windows 8, o bien ellos no quieren seguir dando soporte a una máquina ya <em>antigua</em>. Voto por esto último.</p>
+<p>El caso es que intenté bajar los drivers y ¡oh sorpresa! BootCamp fallaba al descargarlos. Tuve que usar mi Google-Fu y explorar un poco para encontrar una web desde la que descargarlos a mano. Porque esa es otra: Apple no te da una manera clara y sencilla de acceder a ellos. Una lista en una página de descargas bastaría, pero no.</p>
+<p>Aunque hay unos drivers en Bootcamp > Lbrary > Application Support > Bootcamp > WindowsSupport.dmg que pueden servirte. Lo dejo aquí por si acaso.</p>
+<h1>Instalemos Windows 8</h1>
+<p>Ahora viene lo fácil. Vi un truco para saltarse a BootCamp en modo «sólo instalo Windows 7» que era meter un DVD con Win 7, dejarle hacer las particiones y luego, al reiniciar, cambiarlo por uno de Windows 8. Esa era una opción. La otra, instalar Win 7 y luego actualizarlo a Win 8, pero lleva más tiempo (son dos instalaciones)</p>
+<p>Pero claro, todo esto es usando la unidad Superdrive del iMac. La interna. Sí, <em>esa que ya no tengo desde que le puse un SSD y monté Fusion Drive</em>. Pero no pasa nada, ¿no?. A fin de cuentas, la tengo instalada en una caja externa USB y podré iniciar la máquina con el DVD de Windows y&#8230; <strong>Pues no</strong>. No funciona. Lo intento, pero Windows no arranca desde el DVD (que, por cierto, he tenido que crear tras bajarme una ISO de la web de Microsoft). Grabando DVDs en 2014 <em>like some kind of animal</em></p>
+<p>Buscando en foros me encuentro con que sí quiero instalar Windows en mi iMac, por un lado BootCamp no me genera una llave USB de instalación (el iMac es muy antiguo por lo visto para eso) y que puedo instalar Win 7 (no Win 8) pero usando una unidad superdrive externa oficial de Apple. Que esas sí funcionan.</p>
+<p>Tragedia. Estoy atrapado.</p>
+<p>¿Pido a alguien prestada una unidad Superdrive de Apple <em>pata negra</em>? ¿Reinstalo el Superdrive? ¿Me como Win 8 con patatas?</p>
+<h2>Winclone</h2>
+<p>Como soy un cabezón y sabía que de alguna manera se podría hacer seguí buscando por foros y leí sobre Winclone. Winclone es un programa pensado para hacer copias de seguridad de particiones BootCamp. Puedes almacenar en un fichero tu partición y así te ahorras tener que andar instalando drivers, programas, actualizando, etc si tienes algún problema con Windows. En el Mac, con Time Machine por un lado y una copia arrancable que hagas con SuperDuper, Carbon Copy Cloner o Techtool Pro tienes el lado OS X perfectamente protegido. El problema es si tuviera que reinstalar todo el Windows.</p>
+<p><a href="/wp-content/uploads/2014/06/winclone.png"><img src="/wp-content/uploads/2014/06/winclone.png" alt="Winclone, utilidad para clonar particiones Bootcamp" width="1245" height="768" class="aligncenter size-full wp-image-2195" srcset="/wp-content/uploads/2014/06/winclone.png 1245w, /wp-content/uploads/2014/06/winclone-300x185.png 300w, /wp-content/uploads/2014/06/winclone-1024x631.png 1024w, /wp-content/uploads/2014/06/winclone-920x567.png 920w" sizes="(max-width: 1245px) 100vw, 1245px" /></a></p>
+<p>El caso es que se me ocurrió una idea. Yo ya tenía instalado Windows en mi Mac Mini. ¿Por qué no hacer un Winclone de esa partición, pasarla con un HD externo USB al iMac y machacar la partición BootCamp vacía con esa imagen? Mi lado geek me decía que no, que para que comprar un programa si con un <code>dd</code> podría hacerlo yo solito. El problema es el sector de arranque de Windows que se crea en la partición de BootCamp. Si pudiera iniciar Windows podría arreglarlo y tal, pero dado que estaba atrapado, pagué los 29 $ que cuesta y listo. Si funciona, los apenas 22 € valdrían la pena.</p>
+<p>Y valieron la pena. Creé la imagen en el Mac Mini (unas horitas) y la pasé a un disco USB grande (en el que por supuesto no tenía espacio y tuve que ordenar). Una vez copiado, instalé Winclone en el iMac, restauré la imagen y&#8230; ¡vive! ¡Está vivo!</p>
+<p><a href="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg"><img src="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg" alt="It&#039;s alive!" width="250" height="250" class="aligncenter size-full wp-image-2193" srcset="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg 250w, /wp-content/uploads/2014/06/Young-Frankenstein1-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /></a></p>
+<h2>Colofón</h2>
+<p>Al fin, tras una lucha titánica, tengo instalado Win 8 en el Mac. Lo uso para el Héroes y en el futuro para algún que otro juego. Pero si lo necesito para algo, ahí está. Muchas veces hago instalaciones por el placer de cacharrear con los sistemas, pero en este caso, además, estoy disfrutando del resultado.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/11/windows-8-en-mi-imac-late-2009/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Cómo crear un entorno de desarrollo Android portable</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/</link>
+		<comments>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/#comments</comments>
+		<pubDate>Wed, 23 May 2012 14:38:11 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1702</guid>
+		<description><![CDATA[Algún día me tenía que pasar. Después de ver tanto backend Java en cursos de todos los colores y de coleccionar certificaciones Java, después de desarrollar para iOS y webOS, alguna vez me tenía que poner en serio con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1710" style="width: 323px" class="wp-caption aligncenter"><img class="size-full wp-image-1710" title="Logo de Android" src="/wp-content/uploads/2012/05/android_resources.png" alt="Logo de Android" width="313" height="343" srcset="/wp-content/uploads/2012/05/android_resources.png 313w, /wp-content/uploads/2012/05/android_resources-273x300.png 273w" sizes="(max-width: 313px) 100vw, 313px" /><p class="wp-caption-text">Logo de Android</p></div>
+<p style="text-align: justify;">Algún día me tenía que pasar. Después de ver tanto backend Java en <a href="/formacion/">cursos de todos los colores</a> y de <a href="/category/informatica/programacion/java/scjp/">coleccionar certificaciones Java</a>, después de <a href="/ios-apps/">desarrollar para iOS</a> y <a href="/2012/05/17/enyo-faq-en-espanol/">webOS</a>, alguna vez me tenía que poner <em>en serio</em> con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de desarrollo móvil «de cabecera». Quizás porque estaba saturado de Java. O porque, <a href="http://wedevelopers.com/2012/03/11/we-developers-003-los-mundos-de-java/">como comentaba en We.Developers</a>, Java es un lenguaje que no me genera excesivas alegrías (sobre todo cuando lees la mayoría del código que hay por ahí, que es bastante feo, fruto del desconocimiento del lenguaje).</p>
+<p style="text-align: justify;">El caso es que estoy actualmente desarrollando una App para Android (de la que daré más datos cuando se suba a Google Play) y me ha surgido la oportunidad de impartir un curso a los programadores de RTVA. Como en todo curso, me gusta instalar el entorno de desarrollo. Y si vas a desarrollar para Android, sabes que tienes que instalarte:</p>
+<ul>
+<li>un JDK para poder compilar todo el código Java que escribimos como parte de nuestras Apps Android</li>
+<li>un JRE, necesario para ejecutar Eclipse</li>
+<li>Eclipse, como IDE para escribir nuestros programas</li>
+<li>el SDK de Android, que pone a nuestra disposición las bibliotecas necesarias para crear los programas Android, así como el Emulador, herramientas e imágenes para ejecutar ese emulador.</li>
+<li>el plug-in ADT para Eclipse, que nos permite gestionar el SDK cómodamente desde Eclipse</li>
+</ul>
+<p style="text-align: justify;">Este curso se imparte en dos semanas, dejando varios días por medio. Y el tiempo que se tarda en descargar las distintas partes del SDK de Android y el plugin ADT (ambos hay que descargarlos para instalarlos) no es despreciable cuando lo intentamos hacer con 10 portátiles todos conectados a la misma Wifi. Además de la limitación inherente a compartir la conexión HTTP, el medio físico (el canal de radio usado por el punto de acceso WiFi) es el mismo para todos los portátiles. Luego hay colisiones. Y cuantos más portátiles, peor para todos.</p>
+<p>En una primera opción, llevaba el JDK, Eclipse y el paquete de instalación del SDK en un pendrive, para irlo instalando todo. Pero de estas dos últimas descargas no me podía librar&#8230; ¿o si? Y mi miedo es volver la segunda semana y encontrarme los portátiles formateados&#8230;</p>
+<h1>Cómo crear un entorno de desarrollo Android Portable</h1>
+<p>En este caso, me centro en cómo crear el entorno portable para Windows 32 bits, que corre en XP y Windows 7. Al final comento las diferencias con Mac.</p>
+<ul>
+<li>Lo primero es bajar todo lo que necesitamos a una carpeta:</li>
+</ul>
+<blockquote>
+<ul>
+<li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java JDK</a> para Windows es un ejecutable, y escogeremos, de la versión 6, el saber que nos interese: 32 bits (i586) o 64 (x64).</li>
+<li>De Eclipse nos interesa la última versión de la distribución <a href="http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/indigosr2">Eclipse IDE for Java developers</a>. No la versión para Java EE, ya que no vamos a usar servets ni nada de eso. A fecha de escritura de este post, la última versión es la Indigo.</li>
+<li>La última versión del <a href="http://developer.android.com/sdk/index.html">SDK de Android</a>. Nos bajamos la versión en ZIP, no la instalable.</li>
+</ul>
+</blockquote>
+<ul>
+<li>Una vez que tenemos todo esto bajado, debemos instalar el JDK en la máquina. Realmente queremos las carpetas que van dentro, pero al no disponer de un ZIP no tenemos más remedio que instalar. Lo dejará en C:\Archivos de Programa\Java</li>
+<li>Una vez termine la instalación del JDK, nos crearemos una carpeta en el escritorio que podemos llamar Android-Portable, o como más nos guste.</li>
+<li>Debemos descomprimir dentro de esta carpeta el ZIP de Eclipse.</li>
+<li>Ahora, copiaremos la carpeta JRE que está en C:\Archivos de Programa\Java\Jre6\ dentro de la carpeta de Eclipse, justo donde está Elipse.exe. Así, al arrancar Eclipse usará ese JRE que le hemos instalado «tan a mano»</li>
+<li>Igualmente descomprimiremos el SDK de Android dentro de Android-Portable.</li>
+<li>Como necesitaremos el JDK para compilar, vamos a copiarnos en Android-portable la carpeta C:\Archivos de programa\Java\jdk1.6.0_31</li>
+<li>Ahora debemos tener dentro de Android-Portable: una carpeta con Eclipse, otra con el JDK y el SDK de Android.</li>
+<li>Ya podemos arrancar Eclipse. Necesitamos instalar el <a href="http://developer.android.com/sdk/eclipse-adt.html">plugin ADT</a>, para lo cual iremos a Help &gt; Install Software e instalaremos ADT indicando como repositorio https://dl-ssl.google.com/android/eclipse/</li>
+<li>Tras reiniciar Eclipse, nos pedirá que instalemos un SDK de Android, o que le indiquemos dónde tenemos uno instalado. Le indicamos que dentro de Android-Portable tenemos uno. Nos muestra el Android SDK Manager para descargar las imágenes de los emuladores para las versiones de Android que nos interesen, así como los SDKs propiamente dichos. Yo me los bajaría todos.</li>
+</ul>
+<div id="attachment_1711" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/05/pidiendo-sdk.png"><img class="size-medium wp-image-1711" title="Eclipse nos pide un SDK de Android (click para agrandar)" src="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png" alt="Eclipse nos pide un SDK de Android (click para agrandar)" width="300" height="190" srcset="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png 300w, /wp-content/uploads/2012/05/pidiendo-sdk-1024x651.png 1024w, /wp-content/uploads/2012/05/pidiendo-sdk.png 1475w" sizes="(max-width: 300px) 100vw, 300px" /></a></dt>
+</dl>
+<p>Eclipse nos pide un SDK de Android (click para agrandar)</p>
+</div>
+<ul>
+<li>¡Listo! Ahora podemos copiar la carpeta Android-Portable y todo lo que necesitamos lo llevamos dentro. Para arrancar Eclipse bastará con entrar en su carpeta y hacer doble click en Eclipse.exe. Si quieres, siempre te puedes crear un acceso directo, pero que sepas que al mover la carpeta tendrás que volver a crearlo.</li>
+</ul>
+<p>&lt;</p>
+<p>div class=»mceTemp mceIEcenter»></p>
+<p>&lt;</p>
+<p>dl id=»attachment_1707&#8243; class=»wp-caption aligncenter» style=»width: 470px;»></p>
+<dt class="wp-caption-dt"><img class="size-full wp-image-1707" title="Así debe quedar la carpeta Android-Portable" src="/wp-content/uploads/2012/05/android-portable.png" alt="Así debe quedar la carpeta Android-Portable" width="460" height="187" srcset="/wp-content/uploads/2012/05/android-portable.png 460w, /wp-content/uploads/2012/05/android-portable-300x121.png 300w" sizes="(max-width: 460px) 100vw, 460px" /><p class="wp-caption-text">Así debe quedar la carpeta Android-Portable</p></div>
+<p>Esta carpeta ya la podemos poner en un pendrive, comprimirla, copiarla de un equipo a otro, etc. Funcionará con los distintos Windows.</p>
+<p>Si tienes un Mac el proceso es el mismo, salvo que:</p>
+<ul>
+<li>no tienes que instalarte Java, ya que el JDK viene instalado con OS X (es una instalación opcional del S.O.). No puedes «bajarlo» de la página de Oracle.</li>
+<li>debes bajar el Eclipse de Mac</li>
+<li>debes bajar el SDK de Android de Mac</li>
+</ul>
+<p>Ahora, a ver alguien compra las Apps que hagamos <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Una mañana de trabajo cualquiera</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/</link>
+		<comments>/2011/04/05/una-manana-de-trabajo-cualquiera/#comments</comments>
+		<pubDate>Tue, 05 Apr 2011 11:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1453</guid>
+		<description><![CDATA[Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para mi querido Amstrad CPC 464 con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para <a href="http://freniche.com/wp/?page_id=4">mi querido Amstrad CPC 464</a> con el monitor fósforo verde, con su unidad de casetes. El único periférico que tenía era un Joystick. Y a usarlo. Pero veía en las películas a gente en países lejanos y extraños, en salas llenas de ordenadores.</p>
+<p style="text-align: justify;">Como el programador de Parque Jurásico (que, por supuesto, además de ser el malo, cobarde y torpe, estaba mal pagado y era gordo y feo). Por cierto, si veis de nuevo JP os llamarán la atención dos cosas: una, que están programando fumando, algo impensable en cualquier entorno de hoy en día. La otra, que el sistema de «bug tracking» que usan es una libreta donde van anotando los errores <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/RfiQYRn7fBg"" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/RfiQYRn7fBg""></param></object></div>
+</div>
+<p style="text-align: justify;">Volviendo al tema que me traía aquí, en esta mañana he comenzado <a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/">programando en C</a>, en el IDE Eclipse corriendo sobre Windows 7. Ese <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">Windows 7 está instalado en mi MBP</a>. Por si fuera poco frikismo, he usado el escritorio remoto de Windows para programar esos ejemplos en una ventana del iMac de 27&#8243;, que para eso tengo una pantalla grande. Mientras programaba iba actualizando la presentación de Keynote que acompaña al curso, en el iMac. Sonaba la música desde iTunes, donde estaba restaurando mi iPhone 3Gs con una copia de seguridad de ayer: mis niños han borrado algunas fotos en un descuido.</p>
+<p style="text-align: justify;">He terminado con C y me he pasado a WordPress. Arrancando una máquina virtual VMWare de <a href="http://bitnami.org/">Bitnami</a>, que ya tiene un entorno WP completo sobre Linux, me he dedicado a crear un nuevo sitio para migrar una vieja web que hice hace ya la tira en Typo3. Es decir, instala plugins, widgets, temas, escribe posts, importa información, etc.</p>
+<p style="text-align: justify;">Ahora toca pensar en el próximo curso de Java EE que tengo que impartir a finales de mes. Java, Servlets, EJBs, JBoss, Eclipse de nuevo (aunque ahora en su «sabor» Java). Tendré que ojear un libro, que tengo en formato CHM (formato típico de Windows en otra época). Y luego, un poco de Objective C para comenzar un proyecto iPad que me han encargado. Tengo cosas que leer de UML&#8230;</p>
+<p style="text-align: justify;">Es por este desbarajuste de trabajo que tengo, con tantas tecnologías, frameworks, lenguajes, herramientas y entornos distintos por lo que amo a mis dos Macs. Necesito ser anti-minimalista, ya que si lo fuera no podría hacer la mitad de las cosas que hago. Esta es la razón de haber <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">ampliado mi iMac a 12 GB de RAM</a>. Aún así, procuro no instalar nada si ya tengo una aplicación que hace más o menos lo mismo, que si no acabas con un montón de aplicaciones similares que no acabas de dominar en profundidad.</p>
+<p style="text-align: justify;">Bueno, sigo, que quiero ir terminando. Que no hace mucho me comentaron que a lo mejor tengo que aprender <a href="http://clipsrules.sourceforge.net/">CLIPS</a>&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/05/una-manana-de-trabajo-cualquiera/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Teclado Apple Buetooth y Magic Mouse en Windows 7 con BootCamp</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/</link>
+		<comments>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/#comments</comments>
+		<pubDate>Thu, 24 Feb 2011 10:26:56 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1395</guid>
+		<description><![CDATA[Si has leído mi pasado post sobre la instalación de Windows 7 en mi MacBook Pro (y si no lo has hecho, siempre puedes redimirte leyéndolo ahora), sabrás que ando con arranques duales en mi MBP, principalmente para los juegos de Windows que me compro en Steam. Bueno, y para algún que otro portal de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Si has leído mi pasado post sobre la <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">instalación de Windows 7 en mi MacBook Pro</a> (y si no lo has hecho, siempre puedes redimirte leyéndolo <em>ahora</em>), sabrás que ando con arranques duales en mi MBP, principalmente para los juegos de Windows que me compro en Steam. Bueno, y para algún que otro <a href="http://www.juntadeandalucia.es/salud/sites/csalud/contenidos/Informacion_General/oficina_virtual/hoja_reclamaciones_electronica">portal de la Junta de Andalucía</a>, esa gran adalid del Software Libre.</p>
+<p style="text-align: justify;">
+<div id="attachment_1400" style="width: 585px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/JAConSL.png"><img class="size-full wp-image-1400" title="La Junta, muy comprometida con el SL" src="/wp-content/uploads/2011/02/JAConSL.png" alt="La Junta, muy comprometida con el SL" width="575" height="100" srcset="/wp-content/uploads/2011/02/JAConSL.png 575w, /wp-content/uploads/2011/02/JAConSL-300x52.png 300w" sizes="(max-width: 575px) 100vw, 575px" /></a><p class="wp-caption-text">La Junta, muy comprometida con el SL</p></div>
+<p style="text-align: justify;">Comenté mi adaptación al teclado del Mac y la disposición de teclas de Windows. Y todo era bello. Hasta que, una mañana, casi por puro reflejo, estaba con Windows 7 arrancado y moví el ratón Magic Mouse que tengo emparejado con el MBP, pero nada. No funcionaba. El teclado bluetooth de Apple tampoco. «Bueno», pensé, «no debe ser tan difícil». «A fin de cuentas Win 7 es moderno, igual que este hardware». Y ahí comenzó mi pesadilla.</p>
+<p>En ningún blog ni vídeo he encontrado cómo hacerlo a la primera. He tenido que recorrer un montón de foros, y he ido avanzando poco a poco. En resumen, es fácil cuando lo has acabado, así que&#8230;</p>
+<h2>La receta:</h2>
+<ul>
+<li style="text-align: justify;">Ya tendrás instalado BootCamp en tu Windows. Arranca tu partición con Windows 7 y busca en programas el Asistente de Actualizaciones de Apple. Ejecútalo. Te pasará de BootCamp 3.1 a la 3.2. Tendrás que reiniciar, pero es imprescindible. Trabaja siempre con la última versión del software de Apple. Te dolerá menos la cabeza.</li>
+</ul>
+<div id="attachment_1398" style="width: 316px" class="wp-caption aligncenter"><img class="size-full wp-image-1398" title="BootCamp 3.2" src="/wp-content/uploads/2011/02/BootCamp32.png" alt="BootCamp 3.2" width="306" height="256" srcset="/wp-content/uploads/2011/02/BootCamp32.png 306w, /wp-content/uploads/2011/02/BootCamp32-300x250.png 300w" sizes="(max-width: 306px) 100vw, 306px" /><p class="wp-caption-text">BootCamp 3.2</p></div>
+<ul>
+<li style="text-align: justify;">Arranca ahora en Mac OS X. Ve al panel de preferencias Bluetooth. Te aparecerán tus dispositivos (Magic Mouse y Teclado Bluetooth) instalados. Debes borrar la configuración del teclado bluetooth. Para ello, pincha sobre el teclado y luego sobre el «-» que aparece abajo en la lista. El ratón no es necesario borrarlo.</li>
+</ul>
+<div id="attachment_1401" style="width: 758px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/dispBTMac.png"><img class="size-full wp-image-1401" title="Magic Mouse y Teclado BT" src="/wp-content/uploads/2011/02/dispBTMac.png" alt="Magic Mouse y Teclado BT" width="748" height="553" srcset="/wp-content/uploads/2011/02/dispBTMac.png 748w, /wp-content/uploads/2011/02/dispBTMac-300x221.png 300w" sizes="(max-width: 748px) 100vw, 748px" /></a><p class="wp-caption-text">Magic Mouse y Teclado BT</p></div>
+<ul>
+<li style="text-align: justify;">Reinicias ahora en Windows 7. Debes emparejar primero el ratón, y luego el teclado. Para el ratón, vas a Panel de Control &gt; Hardware y Sonido &gt; Dispositivos e impresoras. Pulsas en «Agregar dispositivo». Te aparecerá en la lista el ratón. Debes, antes de pulsar en Siguiente, hacer click sobre el ratón con el botón derecho y abrir Propiedades. Marca la casilla que te aparece. Cierra y pulsa ahora Siguiente. Se instalarán los drivers y Magic Mouse funcionando.</li>
+<li style="text-align: justify;">Ahora el teclado. Como lo hemos borrado del lado OS X, ahora no está emparejado. Pulsando de nuevo en «Agregar dispositivo» igual que antes, te debe aparecer el teclado. Si no te aparece, enciéndelo pulsando el interruptor que tiene el teclado en su lado derecho (debe parpadear un led en el teclado). Pulsas, siguiente, lo detecta y pide que introduzcas una clave en el teclado y pulses intro. Lo haces y ya debe funcionar en Win 7 sin problemas.</li>
+<li style="text-align: justify;">Para acabar todo perfecto, tenemos ahora el ratón funcionando en OS X y Win7, y el teclado funcionando sólo en Win7. Reiniciamos en OS X, vamos a la lista de dispositivos bluetooth y añadimos el teclado. Al fin, somos felices.</li>
+<li style="text-align: justify;">El resultado final debe ser algo como esto:</li>
+</ul>
+<div id="attachment_1405" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/BTWin7.png"><img class="size-medium wp-image-1405" title="Mis dispositivos BT en Win7" src="/wp-content/uploads/2011/02/BTWin7-300x200.png" alt="Mis dispositivos BT en Win7" width="300" height="200" srcset="/wp-content/uploads/2011/02/BTWin7-300x200.png 300w, /wp-content/uploads/2011/02/BTWin7.png 982w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Mis dispositivos BT en Win7</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Windows 7 corre que se las pela en mi viejo MacBook Pro</title>
+		<link>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/</link>
+		<comments>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 09:33:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1346</guid>
+		<description><![CDATA[¡Un momento! ¿Qué?. No, no puede ser, deben ser las drogas que tomo habitualmente. ¿No estarás diciendo que has mancillado el templo de San Steve y la Gran Manzana con algo que venga de Redmon? No, seguro que estás diciendo que has tenido que comprobar los virus de Windows en una máquina virtual y te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote><p>¡Un momento! ¿Qué?. No, no puede ser, deben ser las drogas que tomo habitualmente. ¿No estarás diciendo que has mancillado el templo de San Steve y la Gran Manzana con algo que venga de Redmon? No, seguro que estás diciendo que has tenido que comprobar los virus de Windows en una máquina virtual y te ha funcionado maravillosamente en ese estupendo S.O. que es Snow Leopard. ¿No?. ¡Habla, por Dios, no me tengas en ascuas!</p></blockquote>
+<p style="text-align: justify;">Mi querida voz interior <em>fanboy</em>, tengo que informarte de que estoy corriendo Windows 7 en el MacBook Pro, de forma nativa (sin máquinas virtuales de por medio), gracias a BootCamp. Y que me gusta.</p>
+<p style="text-align: justify;">
+<div id="attachment_1354" style="width: 810px" class="wp-caption aligncenter"><img class="size-full wp-image-1354" title="Comenzando la instalación de Win7 en el MBP" src="/wp-content/uploads/2011/01/comenzando-instalacion.jpg" alt="Comenzando la instalación de Win7 en el MBP" width="800" height="600" srcset="/wp-content/uploads/2011/01/comenzando-instalacion.jpg 800w, /wp-content/uploads/2011/01/comenzando-instalacion-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /><p class="wp-caption-text">Comenzando la instalación de Win7 en el MBP</p></div>
+<p style="text-align: justify;">Ya he comentado varias veces que Windows 7 me parece un buen S.O. Realmente ahora usar Linux, Windows u OS X se ha convertido más en una <a href="/2008/03/23/cambiando-a-mac/">cuestión de preferencias personales</a> que de limitaciones. No hay casi nada que se pueda hacer en uno de ellos que no se pueda hacer en los otros. Incluso los juegos. Y si no, hay sistemas de máquinas virtuales para ejecutar cualquier S.O. desde uno de los otros tres grandes. Y esto es muy bueno. Recuerdo cuando había que luchar muy duro con Linux para hacer que funcionase como tú querías. Ahora usas Linux si te gusta más, que además es la razón más poderosa para usar algo, por encima de méritos técnicos.</p>
+<p style="text-align: justify;">El caso es que desde hace un tiempo vengo reduciendo los cacharros que tengo por casa. Sin llegar a los extremos de Dave Bruno y su <a href="http://guynameddave.com/about-the-100-thing-challenge/">intento de vivir sólo con 100 objetos</a>, estoy intentando tener los ordenadores que realmente uso. Y uno que no usaba mucho era mi viejo <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">Dell Inspiron 9400</a>, que funcionaba bastante bien con Win7. Pero me pregunté: ¿bueno, y si pudiera correr Win7 en el MBP, no podría deshacerme de esa máquina? Además, tengo espacio libre en el disco del MacBook Pro <a href="/2010/09/17/shopping-spree/">tras comprarme el nuevo HD de 7200 rpm</a>. un último argumento me lanzó a la aventura, y es que en Febrero tendré que impartir un curso de C en entorno Windows, y el MBP pesa como tres Kg menos que el Dell.</p>
+<h2>La instalación</h2>
+<p style="text-align: justify;">Hay montones de sitios que cuentan cómo hacer la instalación, que por otra parte es bastante sencilla, así que no me repetiré. Podéis ver <a href="http://www.youtube.com/watch?v=OM2495dmO0I&amp;hd=1">este vídeo</a>, por ejemplo, aunque hay mil. Sólo algunas notas:</p>
+<ul>
+<li>BootCamp es dos cosas. Por un lado, cuando lo usas en el Mac es un programa para rehacer las particiones de tu disco y dejar así sitio a Windows 7. Sin más misterios. Luego metes el DVD de Windows, reinicias arrancando desde el DVD y listo.</li>
+<li>En mi MacBook Pro 15&#8243; (modelo MacBookPro 3,1) no funcionaban los drivers de Windows 7 en 64 bits. Así que he tenido que instalar la versión de Windows 7 de 32 bits. Si al instalar ves que los drivers no se reconocen, ya sabes: pasa a la versión de 32 bits.</li>
+<li>Cuando Windows ya está instalado, no tiene los drivers necesarios para que el MacBook Pro funcione. Y no los busques por Internet con el asistente de Win7: no los va a encontrar. Están, en mi caso, en el disco de Snow Leopard retail, el que compré con 5 licencias. En el de tu MacBook Pro también deben estar, pero si has pasado a Snow Leopard usa estos, ya que son más modernos.</li>
+<li>Y ya que estamos, usa los discos adecuados. En plena instalación no me reconocía los drivers del disco. ¿Pero qué pasa?. Pues que estaba usando los discos del MacBook (sin Pro) de mi mujer&#8230;</li>
+</ul>
+<h2>Tras la instalación</h2>
+<p>Una vez que todo está instalado, sigue arrancando por defecto Mac OS X, que es justo lo que quiero. Para arrancar Windows puedes:</p>
+<ul>
+<li>pulsar Alt al encender el equipo. Te aparecerán todos los discos desde los que puedes arrancar. Escoge el de Windows.</li>
+<li>desde Mac OS X, en Preferencias del Sistema, tienes Discos de Arranque, que te permite arrancar en Windows.</li>
+<li>en Windows puedes hacer lo mismo con BootCamp: reiniciar en Mac OS X, poner como disco por defecto uno u otro, etc.</li>
+</ul>
+<p>Tras instalar todas las actualizaciones del mundo y el preceptivo antivirus (en mi caso AVG Free), miré la experiencia de usuario de Windows. Y me daba un 5,0, que creo que para un ordenador que cumple ahora en Febrero 3 años no está nada mal (el máximo es un 7,9).</p>
+<div id="attachment_1357" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/Win7-mbp-variasapps.png"><img class="size-medium wp-image-1357" title="Win7 en mi MBP corriendo varias apps" src="/wp-content/uploads/2011/01/Win7-mbp-variasapps-300x187.png" alt="Win7 en mi MBP corriendo varias apps" width="300" height="187" srcset="/wp-content/uploads/2011/01/Win7-mbp-variasapps-300x187.png 300w, /wp-content/uploads/2011/01/Win7-mbp-variasapps-1024x640.png 1024w, /wp-content/uploads/2011/01/Win7-mbp-variasapps.png 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Win7 en mi MBP corriendo varias apps</p></div>
+<h2>La adaptación</h2>
+<p style="text-align: justify;">Uno de los principales problemas a los que me he enfrentado para adaptarme al uso de Windows 7 en el MBP es el mapeo del teclado. Los últimos MacBooks traen unos teclados que casi son los clásicos de un PC. Pero el mío tiene varias peculiaridades. No hay tecla Supr (en Mac OS X se consigue con fn + backspace), con lo que no puedo bloquear rápidamente la sesión, o lanzar desde ahí el Administrador de Tareas. Tampoco hay tecla de imprimir pantalla (PrtScr), con lo que me quedo sin poder hacer capturas de pantalla (para los cursos o el blog, lo necesito muy a menudo). Por último, como no hay AltGr, ni siquiera hay Alt en la parte derecha de la barra espaciadora, no puedes generar algunos caracteres que son imprescindibles para programar, como #, { ,} ,[ y ]. Y otro que es ya imprescindible para todo: @.</p>
+<p style="text-align: justify;">El tema de @ y # lo conseguí solucionar porque (no lo sabía), si pulsas a la vez Ctrl + Alt + 2 es igual que pulsar AltGr + 2. Lo mismo para conseguir #. Bueno, dos problemas menos. Pero no me resignaba a quedarme sin PrtScr. Así que busqué y encontré la solución <a href="http://www.satollo.net/windows-7-on-a-macbook-pro-keyboard-layout">en este blog</a>.</p>
+<p style="text-align: justify;">Todo se basa en usar un programa llamado <a href="http://www.randyrants.com/sharpkeys/">SharpKeys</a>, que te permite asignar unas teclas a otras. Es perfecto, ya que he podido asignar Supr a F12, PrtScr a F11 y la tecla <a href="http://www.paulofierro.com/archives/395/">Enter del keypad del MBP</a> (que no uso nunca) ahora funciona como AltGr.</p>
+<p style="text-align: justify;">He instalado algunos juegos, que funcionan maravillosamente bien, a tope de resolución y efectos gráficos. He estado luchando hasta conseguir que me funcione un mando de XBox con cable USB en Windows 7, me he instalado LLMd5sum para calcular cómodamente los md5sum de las cosas que me bajo&#8230; Vamos, que lo estoy usando a menudo. Y estoy encantado. Lo próximo: instalar (y probar) el SDK de Windows Phone 7&#8230;</p>
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>El mapa de mi red, actualización Octubre 2010</title>
+		<link>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/</link>
+		<comments>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/#comments</comments>
+		<pubDate>Sun, 10 Oct 2010 16:16:38 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[A1200]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1138</guid>
+		<description><![CDATA[El mapa de mi red ha cambiado bastante desde la v1.0, así que me he decidido y lo he actualizado. Comentaba entonces que había demasiados cacharros y me encuentro en fase de actualización de equipo y, sobre todo, de simplificación. Estoy vendiendo, tirando, regalando o almacenando todo aquello que no me puedo justificar usar de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1139" style="width: 624px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png"><img class="size-full wp-image-1139 " title="Esquema de red - oct 2010" src="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png" alt="Esquema de red - oct 2010" width="614" height="461" srcset="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png 1024w, /wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001-300x225.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">Esquema de red - oct 2010</p></div>
+<p style="text-align: justify;">El mapa de mi red ha cambiado bastante desde la <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">v1.0</a>, así que me he decidido y lo he actualizado. Comentaba entonces que había demasiados cacharros y me encuentro en fase de actualización de equipo y, sobre todo, de simplificación. Estoy vendiendo, tirando, regalando o almacenando todo aquello que no me puedo justificar usar de forma casi diaria. El problema es que tengo tantos chismes que voy poco a poco, pero con paso firme.</p>
+<p>En esta versión he eliminado la red WiFi legacy ya que ahora no la tengo correctamente configurada. Lo que está operativo es lo que se ve. Bueno, faltan el Pentium IV, que probablemente venderé en cuanto pueda y el MacBook de mi mujer (que cumplirá pronto 4 años y cualquiera toca). Los equipos que quedan son:</p>
+<ul>
+<li>Newton. <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">Mi viejo portátil Dell</a>, lo he dejado para jugar a juegos Windows. En exclusiva. Tiene Steam instalado y ahí me dedico a machacar imperios en Civilization IV. Ahora que ha salido el Civ V, no creo que la máquina pueda con él, pero&#8230; Y además ha viajado mucho conmigo.</li>
+<li>Bohr. <a href="/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/">Mi Netbook con Ubuntu Netbook Remix</a>. Cuando se vaya el PIV va a ser la última máquina en la que estará instalado Linux en mi casa. Linux, peligro, peligro :-). He pasado de trabajar 100% Linux a casi 100% Mac, pero siempre 100% UNIX (salvo para los juegos, qué remedio, aunque ahora con Steam la cosa cambia mucho). Lo uso como media center portátil y para alguna salida en la que no quiero llevar mucho peso. Supongo que cuando me compre un iPad (estoy esperando a la nueva versión) dejará de tener hueco.</li>
+<li><a href="/2008/03/23/cambiando-a-mac/">Tesla</a>. Mi portátil, con el que sigo enamorado y más aún después de cambiarle el disco duro. Con sus 4 GB de RAM me da la potencia necesaria para impartir mis cursos de Java y Cocoa Touch. Y me permite programar mientras estoy cerca de los niños o en el sofá.</li>
+<li>Mi A1200. Se conecta a mi TV LCD Samsung, cuando me apetece escuchar MIDIs, o jugar un rato, o hacer lo que sea con el Amiga. Ahora lo tengo guardado y lo saco cuando lo necesito, no está ya permanentemente encima de la mesa. Pero obviamente se queda.</li>
+<li>Einstein. El mayor cambio desde el último mapa. Einstein se ha reencarnado en un iMac de 27&#8243;, Core i7 quad 2.8 Ghz con 4 GB RAM que puede con todo. Tiene conectado mi <a href="/?s=drobo">Drobo Firewire</a> y son un «killer duo». En un futuro le ampliaré la memoria, probablemente con dos módulos de 4 GB para llegar a los 12 GB (soporta hasta 16 GB). La memoria la quiero para máquinas virtuales, sobre todo ahora que estoy haciendo pruebas corriendo Windows 7 virtualizado para jugar al Civ V <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Mi Time Capsule. Ahora ha quedado para las copias de seguridad de los portátiles, y como router. No le amplío el disco duro porque, mientras tenga sitio en el Drobo, me va a dar pereza.</li>
+<li>Dispositivos iOS variados. Mi iPhone 3Gs de batalla, el iPod Touch de los niños y los 3G antiguos. Mi mujer ya tiene un iPhone 4 :-). Los uso para probar aplicaciones y como segundos teléfonos. Probablemente son los que más tráfico generan en la red WiFi.</li>
+</ul>
+<p>Esto es lo que tengo de momento. Dentro de unos meses actualizaremos y a ver qué tengo entonces.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Ubuntu Netbook Remix 9.10 corriendo en mi Asus EEE 904 HD</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/</link>
+		<comments>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/#comments</comments>
+		<pubDate>Tue, 30 Mar 2010 08:58:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=954</guid>
+		<description><![CDATA[Hace un tiempo ya que tengo este netbook. Bueno, hablando con propiedad lo tiene mi mujer, que es a quien se lo regalaron. Pero el usuario fundamental he sido yo todo este tiempo. Tuvo su momento de gloria en las pasadas vacaciones de verano, cuando lo utilicé como reproductor multimedia portátil. En el hotel, las [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_960" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-960" title="escribiendo" src="/wp-content/uploads/2010/03/escribiendo.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/escribiendo.png 640w, /wp-content/uploads/2010/03/escribiendo-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Me gusta editar en GEdit con un fondo oscuro. Me recuerda a WriteRoom, del Mac.</p></div>
+<p style="text-align: justify;">Hace un tiempo ya que tengo este netbook. Bueno, hablando con propiedad lo tiene mi mujer, que es a quien se lo regalaron. Pero el usuario fundamental he sido yo todo este tiempo. Tuvo su momento de gloria en las pasadas vacaciones de verano, cuando lo utilicé como reproductor multimedia portátil. En el hotel, las películas para niños amansaban a las fieras cuando queríamos descansar. Luego me ha acompañado en el hospital, que en los últimos doce meses he tenido que pisar como acompañante más veces de las que quisiera.</p>
+<p style="text-align: justify;">Después de aquello, ha dormido el sueño de los justos en su maletín. A veces lo sacaba y lo usaba, pero XP no es el S.O. <a href="http://es.wikipedia.org/wiki/Vintage_(término)">vintage</a> que más me gusta. Puestos a usar algo antiguo, me gusta más el <a href="/retrocomputing/">Amiga</a>. Bueno, tanto me gusta, que le he instalado al XP el emulador de Amiga UAE para jugar al Colonization, pero eso es frikada para otro post.</p>
+<p style="text-align: justify;">En Noviembre del año pasado intenté instalarle una distro de Mac OS X para hacer un hackintosh. Cogí una grabadora de DVD externa, con conexión USB prestada en Isotrol y lo instalé. Fallé estrepitosamente, sobre todo porque no había contado con la información de <a href="http://mymacnetbook.com/compatibility-chart/">esta lista</a>: el 904 HD no soporta Mac OS X, como yo comprobé en mis carnes.</p>
+<p style="text-align: justify;">Bueno, pues hace un mes pensé que le había llegado su hora. Estaba harto de ver el Chameleon instalado pero que sólo estuviera operativo el XP. Como venía particionado de serie con XP y una partición para datos, había aprovechado esa partición para el Mac OS X. Ahora quería probar con Windows 7. Tuve que pedir una unidad de CD externa y preparé el DVD de Windows 7 Professional para instalar. ¿Alguien ve el error?. Yo no lo vi hasta que intenté, como <em>quince veces</em>, arrancar el Asus desde DVD en una unidad de CD. ¡Hacía ruidos raros!. ¿Estará mal grabado?. ¡Ejem!, vaya, si es una unidad de CDs <em>que no soporta DVDs</em>, bueno&#8230; Finalmente conseguí grabar la ISO de Win 7 en un pendrive de 4 GB siguiendo <a href="http://www.intowindows.com/how-to-install-windows-7vista-from-usb-drive-detailed-100-working-guide/">estas instrucciones</a> (que sí funcionan) y la instalación fue como la seda. Y rápido: no es lo mismo leer de un medio óptico que de un pendrive. Es mucho más rápido.</p>
+<p style="text-align: justify;">Mis pruebas con Windows 7 no fueron satisfactorias. Se movía muy lento y no respondía como esperaba. Tras probar Windows 7 ultimate en mi <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">Dell Vostro 1510</a>, tenía unas expectativas muy altas con respecto a Win 7. Que, por cierto, me parece una excelente versión del S.O. de Redmond. Me sorprende que acalorados defensores de Windows sigan con esa antigualla de XP, pero, ya se sabe: malo conocido&#8230; El caso es que Windows 7 Professional + Asus EEE 904 HD = <strong>Epic Fail</strong>. Quizá tendría que haberle instalado la versión Starter, que se supone que es para Netbooks.</p>
+<p style="text-align: justify;">Y así estaba, con el «corazón partío», cuando me acordé de lo bien que va la última <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">Ubuntu 9.10 en mi otro Dell</a>, el Inspiron 9400. Así que me descargué la <a href="http://www.canonical.com/projects/ubuntu/unr">Netbook Remix</a>, la grabé igualmente en un pendrive, y la instalé en un plis plas.</p>
+<h2>¿Primera impresión?: impresionante</h2>
+<p style="text-align: justify;">El hardware, reconocido al 100%. No sólo tenía acceso a la partición XP (que, por cierto, había sobrevivido a toda esta <em>orgía</em> de instalaciones en la primera mitad del disco duro, más por suerte que por pericia propia), sino que funcionaban el sonido, la WiFi, la red cableada, los botones hardware, &#8230; Incluso el lector de tarjetas SD que tiene incorporado funcionaba a las mil maravillas. Y el trackpad, con soporte de <a href="http://www.apple.com/es/macbookpro/overlays/trackpad-video.html#trackpad">scroll apoyando dos dedos</a>, ¡como en mi MacBook Pro!. Y, lo mejor de todo: ¡al cerrar la tapa se suspendía sin problemas!, y al abrirla ¡volvía de la suspensión!. ¡Al fin!. Me he habituado a las suspensiones debido a lo bien que funcionan en los Mac, y en Linux, entre ACPI y las otras APIs de gestión de energía nunca me llegaba a funcionar. Ahora, el hard funciona perfectamente con el soft de Ubuntu, sin pelearte con la máquina y así da gusto.</p>
+<p style="text-align: justify;">Respecto al software, lo primero que me llamó la atención fue el Escritorio, con un menú desde el que se pueden lanzar de forma sencilla las aplicaciones. Realmente no hay <em>escritorio</em>, hay un súper-menú lanzador de cosas. Mejor, así no podemos llenar de basura el fondo que pongamos de pantalla.</p>
+<p style="text-align: justify;">
+<div id="attachment_959" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-959" title="apps-netbook" src="/wp-content/uploads/2010/03/apps-netbook.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/apps-netbook.png 640w, /wp-content/uploads/2010/03/apps-netbook-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Aplicaciones del UNR</p></div>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Los programas que vienen preinstalados son los que se encuentran en cualquier Ubuntu, pero nos han ahorrado el sufrimiento de buscarlos. Tenemos Firefox, OpenOffice.org, en fin, lo típico en una Ubuntu. Y, si queremos cualquier otra cosa, basta con abrir Synaptic y listo. Un detalle simpático ha sido descubrir Cheese, una aplicación calcada de PhotoBooth de Mac OS X. Copiar las buenas ideas no es mala idea.</p>
+<p style="text-align: justify;">Yo particularmente manejo esta máquina casi en exclusiva con <a href="http://do.davebsd.com/">Gnome-Do</a>, el lanzador de aplicaciones «a-la-quicksilver» que aumenta la productividad por 1000 en un entorno GNome. Además, el teclado siempre es más rápido que el ratón, y mucho más en este equipo, en el que cambiar de teclado a touchpad es un poco doloroso. A medida que se abren aplicaciones se van añadiendo sus iconos en el panel superior, en la parte izquierda. Para cambiar de aplicación puedes hacer click en su icono o (mucho más rápido) cambiar con Alt-Tab.</p>
+<p>La vida de la batería no es espectacular, pero sí permite unas dos h y media de trabajo continuo. Con el tamaño del equipo, lo uso como lector de eBooks cuando estoy en el sofá (todavía no hay iPad, habrá que esperar).</p>
+<h2>Aplicaciones imprescindibles que le he instalado</h2>
+<ul>
+<li style="text-align: justify;">el salvapantallas de Matrix <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>VLC, mi reproductor multimedia de cabecera. Lo uso en Mac, Linux, Windows, &#8230; y porque no lo hay para la lavadora.</li>
+<li>Dropbox. Ubícuo en mis máquinas. La mejor forma de intercambiar archivos, encima funciona en Mac, Linux, Windows, &#8230;</li>
+<li>Opera. Firefox es muy bueno, y con sus extensiones y plugins es una navaja suiza. Pero Opera se abre y navega ultrarápido. Y para un Netbook es lo suyo.</li>
+<li>Skype. Vital para las llamadas de VoIP. Y funciona a la primera, como el resto</li>
+</ul>
+<h2>Veredicto</h2>
+<p style="text-align: justify;">Si tienes un EEE 904 HD y estás un poco harto de XP, probar esta distro es muy recomendable. Yo es la única que utilizo ahora, y me estoy planteando si no borrar el XP. No lo borraré, porque quiero disponer de un IE por si las moscas, máquinas virtuales aparte.</p>
+<p style="text-align: justify;">
+<div id="attachment_961" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-961" title="preferencias" src="/wp-content/uploads/2010/03/preferencias1.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/preferencias1.png 640w, /wp-content/uploads/2010/03/preferencias1-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Menú de preferencias del Sistema</p></div>
+<p style="text-align: justify;">Repasando mis últimos posts, <a href="/2009/10/27/libre-no-es-una-caracteristica-gratis-si/">bastante negativos contra el sector Talibán del Software Libre</a> me alegra poder recomendar un Linux que simplemente funciona. Y muy bien, por cierto. Y no porque sea Libre (el XP que venía con la máquina no funciona mal y no me he podido escapar de esa licencia) sino porque este producto funciona mejor. Seguid así, Ubunteros.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Cómo recuperar los datos tras un rm -rf en Mac OS X</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/</link>
+		<comments>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/#comments</comments>
+		<pubDate>Mon, 15 Mar 2010 13:05:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Drobo]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=904</guid>
+		<description><![CDATA[O tras un rm -rf en Linux (p.ej. Ubuntu) o tras enviar algo a la papelera y vaciarla, ya sea en Windows o en Mac. Hola. Si has llegado a este post desde un buscador, desesperado por recuperar tus datos, sólo tres puntos a considerar: respira y relájate. El daño ya está hecho. Con la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<address><a href="http://www.flickr.com/photos/32911813@N00/2305786359"><img class="aligncenter" title="Pulsa para ver el autor de la foto, en Flickr" src="http://farm4.static.flickr.com/3156/2305786359_ee9698e7b1.jpg" alt="" width="500" height="336" /></a></address>
+<address>O tras un rm -rf en Linux (p.ej. Ubuntu) o tras enviar algo a la papelera y vaciarla, ya sea en Windows o en Mac.</address>
+<p>Hola. Si has llegado a este post desde un buscador, desesperado por recuperar tus datos, sólo tres puntos a considerar:</p>
+<ul>
+<li><strong>respira y relájate</strong>. El daño ya está hecho. Con la cabeza en su sitio recuperarás lo que puedas sin ahondar aún más en el desastre</li>
+<li>no vayas a enfadarte conmigo si lo que aquí pongo no te funciona. Te puedo aclarar dudas, pero no hacer milagros. Recuerda que quien vació la papelera no fui yo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>lee la receta que viene a continuación, aplícala, y si recuperas tus datos dame las gracias en un comentario, contándome tu experiencia. ¡Ánimo!</li>
+</ul>
+<p>Al resto, a los que (todavía) no habéis metido la pata, tras la receta contaré cómo metí la pata y mi historia de recuperación de datos. ¡Sí, otra batallita!</p>
+<h2>Cómo recuperar los datos tras el rm -rf</h2>
+<ol>
+<li style="text-align: justify;"><strong>No borres nada más, no toques el ordenador, no instales nada</strong>. Cuanto más utilices el disco duro, más datos se leerán de el, pero también se grabarán. Los ficheros que has borrado <em>están aún en tu disco duro</em> y probablemente los puedas recuperar. Pero si te pones a grabar cosas, la probabilidad de que uno de los bloques ocupados por tus archivos se sobreescriba crece y crece. <strong>Si puedes</strong> (y sabes que tu ordenador arrancará luego), <strong>apaga el ordenador y lee esto desde otro</strong>.</li>
+<li style="text-align: justify;">Si has borrado parte del S.O., apagar el ordenador es el menor de tus males. Siempre puedes arrancar con un disco live de Ubuntu (o un USB arrancable de Windows, p.ej. creado con BartPE o de Mac OS X), copiar los datos en un disco USB / Firewire externo y reinstalar. Voy a suponer que has perdido ficheros de datos, y que el S.O. está OK.</li>
+<li><strong>Herramientas</strong> que necesitas:
+<ol>
+<li><strong>Un disco externo</strong> donde guardar la información que vas a recuperar, con suficiente espacio libre. Si tienes uno lleno de películas bajadas de Internet, las borras que siempre podrás bajarlas de nuevo y haces sitio. Lo primero es lo primero.</li>
+<li>El <strong>excelente</strong> programa <a href="http://www.cgsecurity.org/wiki/PhotoRec">PhotoRec</a>, utilidad de recuperación de datos para Linux, Mac, Windows y casi cualquier S.O. moderno.</li>
+<li>Paciencia, muuuucha paciencia. Recuperar los datos es un proceso muy largo (dependiendo del tamaño de los discos). Para que calcules, 200 GB tardaron más de 24 h.</li>
+<li>Opcional. Un disco de arranque externo USB en el que puedas instalar PhotoRec, para hacer la recuperación desde ese disco, leyendo el interno en el que has borrado, y grabando en otro disco USB que pinches para recibir los datos rescatados.</li>
+<li>Opcional. Una SAI si el equipo no es un portátil. No quiero imaginarme lo divertido que debe ser estar en medio de la recuperación y que se vaya la luz&#8230;</li>
+</ol>
+</li>
+<li style="text-align: justify;">¿Ya lo tienes todo? Arranca con tu disco externo o instala PhotoRec en el sistema a salvar, y ejecútalo. Lo debes lanzar desde una consola, mejor si tienes privilegios de administrador: cmd.exe en Windows, Terminal en Mac OS X, Gnome Terminal en Linux, etc. En el caso concreto de Mac está en una carpeta llamada Darwin dentro de la carpeta que se descomprime al bajar el fichero.</li>
+<li>Si no tienes privilegios de administrador, en Ubuntu Linux y Mac OS X se obtienen escribiendo en la consola: sudo su e introduciendo tu clave de inicio de sesión.</li>
+<li>Sí, es muy feo, es el típico programa de MS-DOS que corría sólo con modo texto. Pero ¿para qué lo quieres bonito? Lo que quieres son tus datos. Y es GPL. Luego coste cero. Todo el programa se maneja con las teclas de cursor y el Enter. Aquí no hay ratón que valga.<a href="/wp-content/uploads/2010/03/photorec.png"><img class="size-medium wp-image-912 aligncenter" title="Photorec" src="/wp-content/uploads/2010/03/photorec-300x229.png" alt="" width="300" height="229" srcset="/wp-content/uploads/2010/03/photorec-300x229.png 300w, /wp-content/uploads/2010/03/photorec.png 587w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>
+<li>Escoge el disco donde están los datos perdidos. En Windows te aparecerán las letras de unidad.</li>
+<li>A continuación hay que indicarle el tipo de tabla de particiones que tenemos. Normalmente Intel funcionará con Linux y Windows, EFI GPT con los Macs nuevos (con procesadores no PowerPC) y Mac con los macs PowerPC.</li>
+<li>Ahora podemos pasarle opciones sobre los ficheros que queremos recuperar (p.ej., para que sólo busque fotos, o sólo archivos comprimidos, etc.)</li>
+<li>Finalmente le indicamos el disco destino de la recuperación. <strong>Muy importante</strong>: que no sea el mismo desde el que recuperas. Puedes sobreescribir datos que estás intentando recuperar.<img class="alignright size-medium wp-image-911" title="Carpetas recuperadas" src="/wp-content/uploads/2010/03/carpetas-recup-300x189.png" alt="" width="300" height="189" srcset="/wp-content/uploads/2010/03/carpetas-recup-300x189.png 300w, /wp-content/uploads/2010/03/carpetas-recup.png 832w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+<li>Cuando termine la recuperación, tendrás un montón de carpetas, cada una con 500 ficheros. PhotoRec, va recuperando pero para no hacer los directorios muy largos, cuando llega a 500 para y crea una nueva carpeta. Los nombres de los ficheros se los va inventando.</li>
+<li>Ahora viene lo duro. Localizar tus ficheros. Yo te recomiendo que hagas búsquedas por tipo de fichero, por ejemplo, que busques todos los .MP3 que están en esas carpetas, o todos los .DOC, etc. Ir viendo una a una puede ser desesperante, ya que te encontrarás todo tipo de ficheros recuperados que probablemente sean basura para ti.</li>
+</ol>
+<h2>Mi experiencia (doble) con PhotoRec</h2>
+<p style="text-align: justify;">Por desgracia (o por suerte, nunca se sabe) he tenido que tratar con PhotoRec dos veces seguidas en un corto espacio de tiempo. La primera, tras lanzar un rm -rf donde no debía en Mac OS X y la segunda para recuperar las fotos de una tarjeta Memory Stick Pro Duo que no se podía leer. ¡Vamos con la primera experiencia!</p>
+<h3>Borrando donde no se debe en Mac OS X</h3>
+<p style="text-align: justify;">Mac OS X monta los volúmenes (particiones, discos externos, etc.) en una carpeta llamada /Volumes. En esta carpeta se monta, por ej., <a href="/2009/09/06/video-del-unboxing-de-mi-drobo-en-espanol/">mi Drobo</a>. Concretamente debe montarse en /Volumes/Drobo. Pero hay veces que se me olvida apagar el Drobo antes que el <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">PowerMac G5</a> al que está conectado y, por un fallo documentado esta carpeta no se borra. Resultado: en el siguiente arranque Drobo detecta que ya existe una carpeta con nombre Drobo y crea otra «Drobo 1». Y así hasta el infinito. Feo. No me gusta. Solución: borrar las carpetas «Drobo*» para que no se acumulen. Aquí en donde entra el rm -rf /Volumes/Drobo 1/, pero por causas que no acierto a concretar, escribí como rm -rf /Volumes/. Resultado: todos los discos conectados al Mac, preparados para ser exterminados. Todos. Los dos discos duros internos, los discos por red (Time Capsule). El Drobo no, porque antes de estas operaciones lo suelo apagar. Menos mal que fui rápido y sólo se borró el segundo disco duro interno del G5. Sólo. 200 GB a la basura.</p>
+<p>¿Y no tenías backup? Bueno, la mayoría del contenido era prescindible: cosas bajadas de Internet (que se vuelven a bajar). Pero había algunas películas de vídeo propias que no tenía pasadas a ningún sitio. ¡<em>Gosh</em>!. ¡La liamos!. Y aquí es donde ha entrado PhotoRec. He podido recuperar gran parte de los vídeos, que es lo que me interesaba. El resto ni lo he buscado. Y han aparecido fotos que habían estado en ese disco pero había borrado, MP3s, de todo. Es curioso cuando recuperas datos, las cosas que pueden llegar a aparecer.</p>
+<p>Al final la cosa no ha sido tan grave, pero necesito urgentemente un plan de backup (y probar los <a href="http://www.joelonsoftware.com/items/2009/12/14.html">restores</a>). A ver qué puedo organizar con lo que tengo (y, a lo mejor, ampliando un poco mi Drobo) y cuando lo tenga lo pondré por aquí.</p>
+<h3>Recuperar una tarjeta de memoria irrecuperable</h3>
+<p style="text-align: justify;">Una amiga me trajo una tarjeta, en teoría llena de fotos, pero que no era capaz de ver con la cámara. Le decía que debía formatearla. Un poco radical ¿no?. Así que decidí ayudarle: igual con mi PSP, o conectando la tarjeta al lector de MS Pro Duo de mi Dell Vostro 1510 la cosa mejorase. Pues no. No hay forma. No se puede leer la tarjeta. Varias máquinas, varios S.O. y misma respuesta.</p>
+<p style="text-align: justify;">¿Solución? Hacer lo que nos pide. Formatear la tarjeta y luego usar PhotoRec. A fin de cuentas, la mayoría de tarjetas de memoria vienen con formato FAT32, así que formatearlas no es más que escribir algunos bloques del inicio del disco. El resto se queda como está. De esta forma, PhotoRec (esta vez corriendo en Windows 7 Ultimate) recuperó un 1GB de fotos sin ningún problema.</p>
+<p><strong>¿Y tu experiencia? ¿Cómo te ha ido recuperando datos? ¿Qué herramientas has usado? ¡Compártelo en los comentarios!</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>El mapa de red de mi casa</title>
+		<link>/2010/02/04/el-mapa-de-red-de-mi-casa/</link>
+		<comments>/2010/02/04/el-mapa-de-red-de-mi-casa/#comments</comments>
+		<pubDate>Thu, 04 Feb 2010 16:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[geek]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=583</guid>
+		<description><![CDATA[Mal vamos cuando me he tenido que hacer un mapa de red para enterarme de algunas máquinas (las principales) que tengo por casa. Digo algunas, porque no están todas. Están las fundamentales de trabajo y ocio, pero no aparecen mis iPhones ni algunas otras que colecciono y se pueden conectar a la red (Amiga 1200, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify; ">Mal vamos cuando me he tenido que hacer un mapa de red para enterarme de algunas máquinas (las principales) que tengo por casa. Digo algunas, porque no están todas. Están las fundamentales de trabajo y ocio, pero no aparecen mis iPhones ni algunas otras que colecciono y se pueden conectar a la red (Amiga 1200, Amiga 600, Sun Solaris, PowerMac G3, Pentium IV, etc.).</p>
+<div id="attachment_584" style="width: 624px" class="wp-caption alignnone"><a href="/wp-content/uploads/2010/01/Esquema-de-red.001.png"><img class="size-full wp-image-584 " title="Esquema de red" src="/wp-content/uploads/2010/01/Esquema-de-red.001.png" alt="El esquema de red de mi casa :-)" width="614" height="461" srcset="/wp-content/uploads/2010/01/Esquema-de-red.001.png 1024w, /wp-content/uploads/2010/01/Esquema-de-red.001-300x225.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">El esquema de red de mi casa <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify; ">¿Que para qué quiero tantas máquinas? ¡Eso mismo empiezo a preguntarme yo! Unas las he comprado por trabajo (el Dell Inspiron 9400 fue mi portátil de trabajo hace tres años), otras por gusto (mi MacBook Pro, o el PowerMac G5, aunque ahora son mis herramientas principales de trabajo). Otros me los he ido encontrando por el camino y, a fin de cuentas, a todo Geek le gusta almacenar cacharros con los que trastear. Si no, no nos llamaríamos Geeks <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify; ">Tengo que escribir un post de mi escritorio actual y cómo y para qué utilizo cada ordenador. Y también voy a empezar a soltar lastre. Ahora que acabo de ver este mapa, me ha entrado pánico <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/04/el-mapa-de-red-de-mi-casa/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Sistemas operativos que he usado en los últimos 20 años</title>
+		<link>/2009/09/23/sistemas-operativos-que-he-usado-en-los-ultimos-20-anos/</link>
+		<comments>/2009/09/23/sistemas-operativos-que-he-usado-en-los-ultimos-20-anos/#comments</comments>
+		<pubDate>Wed, 23 Sep 2009 21:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[S.O.]]></category>
+		<category><![CDATA[Solaris]]></category>
+
+		<guid isPermaLink="false">/?p=422</guid>
+		<description><![CDATA[He querido probar mi nuevo iPhone 3G S y su capacidad de grabar vídeo, haciendo algo que llevaba tiempo rondándome por la cabeza: reunir todos los S.O. que tengo «en caja» (o en pegatina, como es el caso de la licencia de Vista) y sacarle alguna foto. Quiero con este vídeo explicar de manera visual [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">He querido probar mi nuevo iPhone 3G S y su capacidad de grabar vídeo, haciendo algo que llevaba tiempo rondándome por la cabeza: reunir todos los S.O. que tengo «en caja» (o en pegatina, como es el caso de la licencia de Vista) y sacarle alguna foto. Quiero con este vídeo explicar de manera visual que me gusta usar diferentes sistemas, ya que creo que cuantos más utilices, mejor los aprendes todos. Es decir, si utilizas Windows habitualmente, prueba con Linux. Aprenderás muchas cosas de Linux, pero también conocerás muchas más de Windows.</p>
+<p style="text-align: justify;">
+<div id="attachment_424" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/09/mis-sos.JPG"><img class="size-medium wp-image-424" title="mis-sos" src="/wp-content/uploads/2009/09/mis-sos-300x225.jpg" alt="mis-sos" width="300" height="225" srcset="/wp-content/uploads/2009/09/mis-sos-300x225.jpg 300w, /wp-content/uploads/2009/09/mis-sos-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Panorámica de los S.O. que tengo (faltan algunos Linuxes)</p></div>
+<p style="text-align: center;">
+<p style="text-align: justify;">En el vídeo (que, por cierto, he grabado en formato <em>portrait</em>, lo siento, es el primero) aparecen históricos como:</p>
+<ul>
+<li>AMSDOS</li>
+<li>DR.DOS 5.0</li>
+<li>Windows 98, XP y Vista</li>
+<li>Solaris 7 Desktop</li>
+<li>Ubuntu 5.04</li>
+<li>Amiga OS 3.5</li>
+</ul>
+<p style="text-align: justify;">Creo que se me han quedado en el tintero Windows 3.11 y OS/2. Pero es que de esos sólo tengo<em> versión megaupload</em> <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Advierto: son 7:16&#8243; escuchándome decir frikadas en Inglés de la academia de Chiquitistán. Al menos para echar unas risas&#8230;</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/FvZhJzkWk8U" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/FvZhJzkWk8U"></param></object></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2009/09/23/sistemas-operativos-que-he-usado-en-los-ultimos-20-anos/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Cómo abrir un fichero winmail.dat en Linux</title>
+		<link>/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/</link>
+		<comments>/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/#comments</comments>
+		<pubDate>Mon, 03 Mar 2008 12:42:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/</guid>
+		<description><![CDATA[Hoy he recibido un correo en el que venía adjunta una información en un formato que no había visto en mi vida. un misterioso fichero llamado «winmail.dat» se asomaba a mi Evolution y no daba señas de poder abrirse con nada. Lo copié en el Escritorio, pero nones. Si el correo hubiera venido de una [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hoy he recibido un correo en el que venía adjunta una información en un formato que no había visto en mi vida. un misterioso fichero llamado «winmail.dat» se asomaba a mi Evolution y no daba señas de poder abrirse con nada. Lo copié en el Escritorio, pero nones. Si el correo hubiera venido de una fuente de la que no me fiase mucho, el ficherito (y el correo) conocerían los placeres de una redirección a /dev/null, pero como en este caso a) me fiaba del remitente y b) quería ver el contenido, pregunté al Oráculo de Apolo en Delphi escribiendo en mi navegador http://www.google.es./</p>
+<p>En la primera búsqueda me encuentro con un post que describe <a href="http://panduro.blogspot.com/2004/11/archivos-adjuntos-winmaildat-llegan-de.html">qué son estos ficheros, cómo evitar enviarlos y, sobre todo, cómo leerlos si los has recibido</a>. De las diferentes herramientas que aparecen para leer estos ficheros únicamente he prodado <a href="http://www.fentun.com/linux.html">Fentum</a>. Es una pequeña aplicación (descargaos la versión estática, esto es, incluyendo todas las bibliotecas que necesita para evitar problemas de incompatibilidades, total, ocupa 341 Kb) que, si la lanzamos desde una terminal, nos permite ver el contenido de los ficheros winmail.dat y extraer los ficheros que contienen.</p>
+<pre><a href="javascript:void(0)" id="file-link-25" title="Fentum Funcionando" class="file-link image"><img src="http://freniche.com/wp/wp-content/uploads/2008/03/pantallazo-fentun-v095.png" title="Fentum Funcionando" alt="Fentum Funcionando" height="344" width="424" /></a></pre>
+<p>Uso:</p>
+<pre> ./fentunStatic winmail.dat<a href="javascript:void(0)" id="file-link-25" title="Fentum Funcionando" class="file-link image">
+
+</a></pre>
+<p>Muy pequeña, muy útil y sencilla de usar. Una pequeña joya.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Aviso apocalíptico de Virus</title>
+		<link>/2006/05/26/aviso-apocaliptico-de-virus/</link>
+		<pubDate>Fri, 26 May 2006 07:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Timos]]></category>
+		<category><![CDATA[Virus]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/2006/05/26/aviso-apocaliptico-de-virus/</guid>
+		<description><![CDATA[Los mails avisando de virus son un clásico en el mundo de la Informática. A los que llevamos algo más de tiempo en ésto (bueno, pensando en Alan Turing, Brian kernighan o Bill Gates tampoco llevo tanto tiempo) ya nos suenan estos correos un poco como los clásicos de los 80. Con aroma a HOAX [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Los mails avisando de virus son un clásico en el mundo de la Informática. A los que llevamos algo más de tiempo en ésto (bueno, pensando en Alan Turing, Brian kernighan o Bill Gates tampoco llevo tanto tiempo) ya nos suenan estos correos un poco como los clásicos de los 80. Con aroma a HOAX y todo.</p>
+<p class="bodytext">Os lo pego porque me ha resultado un poco tierno el tono apocalíptico utilizado:</p>
+<p class="bodytext">
+<blockquote>
+<div id="codigo"><em>GRAVE VIRUS NUEVO</p>
+<p class="bodytext">POR FAVOR, HAGA CIRCULAR ESTE E-MAIL ENTRE SUS AMIGOS, FAMILIA, CONTACTOS</p>
+<p class="bodytext">Estén atentos en los próximos días</p>
+<p class="bodytext">No abran ningún mensaje con un archivo llamado COPA DEL MUNDO 2006, independientemente de quien se lo envie.</p>
+<p class="bodytext">Este virus vendrá de una persona conocida que tenga su nombre en su lista de correos, por ello debe enviar este mensaje a todos sus contactos.</p>
+<p class="bodytext">Es preferible recibir este mensaje 25 veces que recibir el virus al abrirlo.</p>
+<p class="bodytext">Si recibe un mensaje llamado COPA DEL MUNDO 2006 ¡no lo abra y apague su ordenador inmediatamente!</p>
+<p class="bodytext">Se trata del peor virus conocido y se ha anunciado su existencia en la CNN.</p>
+<p class="bodytext">Microsoft lo ha clasificado como el más destructivo que jamás haya  existido.</p>
+<p class="bodytext">El virus fue descubierto hace poco por McKafee y no existe anti-virus,</p>
+<p class="bodytext">El virus destruye el Sector Cero del Disco Duro, en el que se guardan las informaciones vitales para su funcionamiento.</p>
+<p class="bodytext">ENVÍA COPIA DE ESTE E-MAIL A TODOS TUS AMIGOS Y CONTACTOS. AL HACERLO CIRCULAR ESTÁS AYUDANDO A TODOS.</p>
+<p></em></p>
+<p class="bodytext">
+</div>
+</blockquote>
+<p class="bodytext">En mi opinión, es un HOAX clásico. Veamos la forma de detectar un HOAX:</p>
+<p class="bodytext">1. Se nos trata de asustar, poniéndonos en tensión, para responder al correo: «estén atentos en los próximos días», «no abra ningún mensaje&#8230;independientemente de quien se lo envíe»</p>
+<p class="bodytext">2. Se promociona su reenvío (como todo buen HOAX): «Es preferible recibir este mensaje 25 veces», «HAGA CIRCULAR ESTE E-MAIL», «ENVÍA COPIA DE ESTE E-MAIL»</p>
+<p class="bodytext">3. Cita fuentes «de confianza» pero no los enlaces a sitios donde podamos verificarlo: «CNN», «Microsoft», «McAfee» (por cierto, la empresa de antivirus se llama así)</p>
+<p class="bodytext">4. Nos lo pinta como algo nuevo e increíblemente destructivo: «borra el Sector Cero» (todo en mayúsculas, claro, que así asusta más). El sector cero son unos humildes 512 bytes que guardan información sobre el cargador del S.O. Si se borra, a los datos no les pasa nada. El problema es que el ordenador no arrancará, pero con volver a restaurar el S.O. (si es Windows), reinstalar GRUB (si es Linux) o bien arrancar desde un CD, llave USB o diskette, listo.</p>
+<p class="bodytext">No creo que se trate del «peor virus conocido» ni que sea algo nuevo (¿alguien se acuerda del Viernes 13?).</p>
+<p class="bodytext">5. Nos calma frente a su auténtica acción: hacernos perder el tiempo. Recibir esto 25 veces es un petardo absoluto.</p>
+<p class="bodytext">6. Aporta soluciones de alto calado técnico: «¡no lo abra y apague su ordenador inmediatamente!», «no existe anti-virus»</p>
+<p class="bodytext">Releyendo estas líneas empiezo a pensar que estos HOAX los escriben los fabricantes de Antivirus. Por cierto, como no es obligatorio saber lo que es un HOAX (y estoy abusando deliberadamente de la palabrita) <a href="http://es.wikipedia.org/wiki/Hoax">os pego su definición más abajo</a>.</p>
+<p class="bodytext">
+]]></content:encoded>
+			</item>
+		<item>
+		<title>OpenVPN en Windows</title>
+		<link>/2005/11/16/openvpn-en-windows/</link>
+		<pubDate>Wed, 16 Nov 2005 10:40:53 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[herramientas]]></category>
+
+		<guid isPermaLink="false">/?p=782</guid>
+		<description><![CDATA[OpenVPN Descarga de OpenVPN: openvpn.net Descarga GUI: www.nilings.se/openvpn Un excelente artículo, de Jeff Fellinge: http://www.windowsitpro.com/WindowsSecurity/Article/ArticleID/45844/45844.html Los puertos del Firewall son: UDP protocol and port number 1194]]></description>
+				<content:encoded><![CDATA[<h1>OpenVPN</h1>
+<p>Descarga de <strong>OpenVPN</strong>: <a href="http://openvpn.net/" target="_blank">openvpn.net</a></p>
+<p>Descarga GUI: <a href="http://www.nilings.se/openvpn" target="_blank">www.nilings.se/openvpn</a></p>
+<p>Un excelente artículo, de <a href="http://www.windowsitpro.com/Authors/AuthorID/1184/1184.html" target="_blank">Jeff Fellinge</a>:</p>
+<p><a href="http://www.windowsitpro.com/WindowsSecurity/Article/ArticleID/45844/45844.html" target="_blank">http://www.windowsitpro.com/WindowsSecurity/Article/ArticleID/45844/45844.html</a></p>
+<p>Los puertos del Firewall son:</p>
+<p>UDP protocol and port number 1194</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Existen enlaces simbólicos en Windows?</title>
+		<link>/2005/10/20/existen-enlaces-simbolicos-en-windows/</link>
+		<pubDate>Thu, 20 Oct 2005 11:11:38 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/2005/10/20/%c2%bfexisten-enlaces-simbolicos-en-windows/</guid>
+		<description><![CDATA[Hay veces que necesitamos crear un enlace simbólico en Windows, pero no podemos. Esto nos frustra, ya que en UNIX/Linux sí es posible. ¿No hay manera de arreglar ésto? Pues si. Aunque cueste creerlo, Windows (NT, 2000, XP) es capaz de crear enlaces simbólicos como en UNIX. En la página web de Sysinternals disponemos de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Hay veces que necesitamos crear un enlace simbólico en Windows, pero no podemos. Esto nos frustra, ya que en UNIX/Linux sí es posible. ¿No hay manera de arreglar ésto?</p>
+<p align="justify">Pues si. Aunque cueste creerlo, Windows (NT, 2000, XP) es capaz de crear enlaces simbólicos como en UNIX. En la página web de Sysinternals disponemos de la utilidad Junction, que permite crearlos desde la línea de comandos.</p>
+<p align="justify">La pregunta ahora es porqué se oculta esto y no está en el explorer&#8230; misterios del márketing.</p>
+<p>En el artículo Enlaces simbólicos en Win2K lo explico con todo lujo de detalles.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Cómo saber qué programas deben estar en la lista de procesos?</title>
+		<link>/2005/10/20/como-saber-que-programas-deben-estar-en-la-lista-de-procesos/</link>
+		<pubDate>Thu, 20 Oct 2005 11:08:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/2005/10/20/%c2%bfcomo-saber-que-programas-deben-estar-en-la-lista-de-procesos/</guid>
+		<description><![CDATA[Muchas veces no conocemos si un proceso en Windows es «legal» y debería estar corriendo o no. Existe una lista de muchos de esos procesos en www.wilkinsonpc.com.co/free/articulos/procesos.html]]></description>
+				<content:encoded><![CDATA[<p>Muchas veces no conocemos si un proceso en Windows es «legal» y debería estar corriendo o no. Existe una lista de muchos de esos procesos en <a href="http://www.wilkinsonpc.com.co/free/articulos/procesos.html">www.wilkinsonpc.com.co/free/articulos/procesos.html</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Mi participación en la 7ª Betabeers de Sevilla</title>
+	<atom:link href="/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Jose Hidalgo</title>
+		<link>/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/comment-page-1/#comment-126933</link>
+		<dc:creator><![CDATA[Jose Hidalgo]]></dc:creator>
+		<pubDate>Tue, 12 Feb 2013 17:34:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1868#comment-126933</guid>
+		<description><![CDATA[Una verdadera pena habérmelo perdido. Siempre es un placer verte en una charla...]]></description>
+		<content:encoded><![CDATA[<p>Una verdadera pena habérmelo perdido. Siempre es un placer verte en una charla&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

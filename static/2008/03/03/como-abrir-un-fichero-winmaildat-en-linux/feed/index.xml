@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Cómo abrir un fichero winmail.dat en Linux</title>
+	<atom:link href="/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/comment-page-1/#comment-3189</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 23 Dec 2009 09:23:12 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/#comment-3189</guid>
+		<description><![CDATA[Lo miraré, ya que tengo instalada una 9.10 en un portátil viejo. Gracias por el apunte, y por comentar!]]></description>
+		<content:encoded><![CDATA[<p>Lo miraré, ya que tengo instalada una 9.10 en un portátil viejo. Gracias por el apunte, y por comentar!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Pepe</title>
+		<link>/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/comment-page-1/#comment-3178</link>
+		<dc:creator><![CDATA[Pepe]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2009 19:32:56 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/#comment-3178</guid>
+		<description><![CDATA[Hola amigo, llegué a tu blog buscando información sobre como descomprimir archivos .dat mientras bajaba uno, cuando lo descargué le di doble click y abrió con Ark, pudiendo descomprimir y sacar la información en el contenida.
+
+Utilizo Kubuntu 9.10 y Ark es el descompresor básico de KDE, ya no es necesario utilizar Fentum.
+
+De cualquier forma gracias por la información y compartirla.
+
+Saludos.]]></description>
+		<content:encoded><![CDATA[<p>Hola amigo, llegué a tu blog buscando información sobre como descomprimir archivos .dat mientras bajaba uno, cuando lo descargué le di doble click y abrió con Ark, pudiendo descomprimir y sacar la información en el contenida.</p>
+<p>Utilizo Kubuntu 9.10 y Ark es el descompresor básico de KDE, ya no es necesario utilizar Fentum.</p>
+<p>De cualquier forma gracias por la información y compartirla.</p>
+<p>Saludos.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Juan Manuel González</title>
+		<link>/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/comment-page-1/#comment-15</link>
+		<dc:creator><![CDATA[Juan Manuel González]]></dc:creator>
+		<pubDate>Wed, 30 Apr 2008 04:25:22 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/03/como-abrir-un-fichero-winmaildat-en-linux/#comment-15</guid>
+		<description><![CDATA[Excelente herramienta y estas instrucciones mejores, seguro que es una gran contribución de la comunidad!!! Gracias]]></description>
+		<content:encoded><![CDATA[<p>Excelente herramienta y estas instrucciones mejores, seguro que es una gran contribución de la comunidad!!! Gracias</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

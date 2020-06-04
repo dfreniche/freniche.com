@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comunidad &#8211; freniche.com</title>
+	<atom:link href="/tag/comunidad/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>La comunidad de desarrollo Mac en España</title>
+		<link>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/</link>
+		<comments>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/#comments</comments>
+		<pubDate>Sun, 19 Jan 2014 09:28:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[comunidad]]></category>
+		<category><![CDATA[Objective C]]></category>
+
+		<guid isPermaLink="false">/?p=2088</guid>
+		<description><![CDATA[He recibido un par de correos preguntándome sobre esto mismo en los últimos días. Además, es algo que me gusta comentar en los cursos que imparto sobre iOS (y en los de Android, solo que en esos hablo lógicamente de la comunidad Androide). Así que voy a resumir y reunir aquí lo que necesitas para [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>He recibido un par de correos preguntándome sobre esto mismo en los últimos días. Además, es algo que me gusta comentar en los cursos que imparto sobre iOS (y en los de Android, solo que en esos hablo lógicamente de la comunidad Androide). Así que voy a resumir y reunir aquí lo que necesitas para acceder a la <em>misteriosa y privilegiada comunidad de desarrollo iOS/Mac en España</em>.</p>
+<h2>Sin miedos</h2>
+<p>Primero, lo más importante: si te interesa el desarrollo con tu Mac, en Cocoa, usando Xcode y Objective C <em>ya eres miembro de esta comunidad</em>. No ha sido tan difícil entrar, ¿no?. Como en cualquier comunidad, sólo hace falta que tengas interés, o curiosidad, o conocimientos, y que quieras compartirlos. No hay que hacer pactos con el Anticristo, ni con los bancos, ni firmar contratos con la sangre de un gallo. Cosa asquerosa, por cierto.</p>
+<p>Puedes disfrutar de esta comunidad <em>a distancia</em>, usando tu ordenador e Internet, pero yo siempre recomiendo el contacto cara a cara, personal. El periodo más productivo de mi vida como programador fue cuando estudiaba la carrera de Informática. Y así lo recuerdo por el grupo de personas con las que me reunía a programar y a <em>hablar</em> sobre programación. Probablemente es más la sensación de que «cualquier tiempo pasado fue mejor» que algo objetivo (probablemente, no, seguro, mi código era una <em>abominación</em>), pero hablar con gente que sabe mucho más que tú es algo que estimula mucho, motiva y te fuerza a mejorar para no sentir que haces el ridículo entre ellos.</p>
+<p>Aunque eso nunca pasa: <strong>nadie, nunca, se va a reír del que no sabe</strong>. Lo que hará es ayudarle. Así que destierra ese miedo de tu mente, esa pesadilla que alguna vez has tenido: nadie se va a levantar, en medio del bar señalándote y gritando «mirad al pardillo este, que no sabe nada de nada». Si alguien actuara así es causa objetiva para que te tatúen <em>tonto</em> en la frente, y de no ser parte de esta comunidad.</p>
+<h2>Blogs</h2>
+<p>Pongo aquí una lista de los mejores blogs de programación Cocoa en Español <strong>que conozco y leo</strong>. Debe haber más: apórtalos en los comentarios. Siempre son bienvenidos. Van sin un orden concreto, salvo Objective-C.es, el blog de Rafa, claro ejemplo de superación personal y, como se que al final acabará en Apple, le voy haciendo ya la pelota para que pase mi CV cuando llegue el momento.</p>
+<ul>
+<li><a href="http://objective-c.es/">Objective-C.es</a></li>
+<li><a href="http://www.migueldiazrubio.com/">Blog de Miguel Díaz Rubio</a></li>
+<li><a href="http://www.cocoaosx.com/">Cocoa Mental</a></li>
+</ul>
+<h2>Reuniones periódicas</h2>
+<p>Aquí tenemos las reuniones que se tienen en distintas ciudades de España, con distintas periodicidades. Si no tienes ninguna cerca <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">siempre puedes animarte y fundar la tuya propia</a>. Sólo necesitas a una segunda persona interesada en lo mismo.</p>
+<ul>
+<li><a href="http://nscoder-mad.tumblr.com/">NSCoder Night Madrid</a> </li>
+<li><a href="http://nsexperience.tumblr.com/">NSXperience BCN</a> </li>
+<li><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a> <a href="">NSCoder Night Valencia</a></li>
+<li><a href="http://nscoder-cor.tumblr.com/">NSCoder Night Córdoba</a></li>
+</ul>
+<p>Todas estas reuniones tienen su propio Twitter. Busca y ponte en contacto con ellos.</p>
+<h2>«La» Conferencia</h2>
+<p>La conferencia de la comunidad Cocoa Española, el sitio al que hay que ir es la <a href="http://nsspain.com/">NSSPain</a>. Es una conferencia internacional (luego es en Inglés), pero es la que más cerca vas a encontrar con mejor contenido. Yo me he hecho fijo en el primer año.</p>
+<h2>Twitter</h2>
+<p>Hay montones de gente interesante a la que seguir. Te recomiendo que sigas por twitter a los blogueros anteriores y que mires a quiénes siguen. Es la forma más rápida.</p>
+<h2>Preguntas y respuestas</h2>
+<p>El portal <a href="http://www.nscodecenter.com/preguntas/">NSCoderCenter</a> es lo que buscas</p>
+<h2>Pull request</h2>
+<p>Si quieres que incluya un apartado, o quieres completar todo esto con más información, usa los comentarios más abajo. Gracias.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

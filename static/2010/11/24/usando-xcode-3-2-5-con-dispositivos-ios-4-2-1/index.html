@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Usando XCode 3.2.5 con dispositivos iOS 4.2.1 | freniche.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/readly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; RSS de los comentarios" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Usando XCode 3.2.5 con dispositivos iOS 4.2.1 RSS de los comentarios" href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-style-css'  href='/wp-content/themes/readly/fancybox/jquery.fancybox.css?v=2.1.5&#038;ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='readly-style-css'  href='/wp-content/themes/readly/style.css?ver=4.8.13' type='text/css' media='all' />
+<style id='readly-style-inline-css' type='text/css'>
+.gallery .gallery-item {
+	max-width: 150px;
+}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-markdown-prettify-css'  href='/wp-content/plugins/wp-markdown/css/prettify.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery-ui-1.10.2.custom.min.js?ver=20130317'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/readly.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/prettify.min.js?ver=1.5.1'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel='prev' title='EBE10, en semi-directo' href='/2010/11/19/ebe10-en-semi-directo/' />
+<link rel='next' title='Cómo crear tu propia NSCoder Night' href='/2010/11/30/como-crear-tu-propia-nscoder-night/' />
+<meta name="generator" content="WordPress 4.8.13" />
+<link rel="canonical" href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/" />
+<link rel='shortlink' href='/?p=1276' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2010%2F11%2F24%2Fusando-xcode-3-2-5-con-dispositivos-ios-4-2-1%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2010%2F11%2F24%2Fusando-xcode-3-2-5-con-dispositivos-ios-4-2-1%2F&#038;format=xml" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.6';
+</script>
+<style type="text/css" media="screen">
+/* Begin WPvideo CSS */
+.wpv_videoc {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+/* border: 1px solid #aaa; */
+}
+
+.wpv_video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px 0 4px 0;
+	width: 425px;
+	height: 350px;
+}
+
+.wpv_rating {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+	font: 8pt "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	text-align: right;	
+}
+
+.wpv_titleauthor, .wpv_durationdate, .wpv_description {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #666;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+}
+
+.wpv_download {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+}
+
+.wpv_download a {
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #f44;
+}
+
+.wpv_download a:hover {
+	text-decoration: none;
+}
+
+.wpv_download img {
+	border: 0;
+}
+
+.wpv_self {
+	text-align: left;
+}
+
+.wpv_self a {
+	font: bold 9px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #000;
+}
+/* End WPvideo CSS */
+</style>
+
+<style type="text/css" id="custom-background-css">
+a {
+	color: #1e83cb;
+}
+.entry-content a {
+	-webkit-transition: border-bottom-color 0.2s linear;
+	-moz-transition: border-bottom-color 0.2s linear;
+	-o-transition: border-bottom-color 0.2s linear;
+	transition: border-bottom-color 0.2s linear;
+}
+.entry-content a:hover {
+	border-bottom-color: #1e83cb;
+}
+#masthead .site-title a, #site-navigation a, .sub-menu a, #nav-below a, .entry-title a, #image-navigation a {
+	-webkit-transition: color 0.2s linear;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+#masthead .site-title a:hover, #nav-below a:hover, .entry-title a:hover, #image-navigation a:hover {
+	color: #1e83cb;
+}
+#s, #commentform input[type="text"], #commentform textarea, .password_protected, #social a, a.more-link {
+	-webkit-transition: background-color 0.2s linear;
+	-moz-transition: background-color 0.2s linear;
+	-o-transition: background-color 0.2s linear;
+	transition: background-color 0.2s linear;
+}
+a.more-link span {
+	-webkit-transition: border-left-color 0.2s linear;
+	-moz-transition: border-left-color 0.2s linear;
+	-o-transition: border-left-color 0.2s linear;
+	transition: border-left-color 0.2s linear;
+}
+#s:focus, #commentform input[type="text"]:focus, #commentform textarea:focus, .password_protected:focus {
+	background-color: #fff;
+}
+#social a:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover span {
+	border-left-color: #1e83cb;
+}
+.entry-meta a, footer .site-info a, #comments a, .link_post_p a {
+	-webkit-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-moz-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-o-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	transition: color 0.2s linear, border-bottom-color 0.2s linear;
+}
+.entry-meta a:hover, footer .site-info a:hover, #comments a:hover, #comments a#cancel-comment-reply-link:hover, .link_post_p a:hover {
+	color: #1e83cb;
+	border-bottom-color: #1e83cb;
+}
+@media only screen and (min-width : 641px) {
+	#site-navigation a:hover, .sub-menu a:hover {
+		color: #1e83cb;
+	}
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+.hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #1e83cb;
+}
+</style>
+<script type="text/javascript">
+var hover_color = "#1e83cb";
+</script></head>
+
+<body class="post-template-default single single-post postid-1276 single-format-standard">
+<header id="masthead" class="site-header" role="banner">
+	<div id="header-wrapper">
+		<hgroup>
+			<div id="hgroup-wrapper">
+				<div id="hgroup-wrapper2">
+					<h1 class="site-title"><a href="/" title="freniche.com" rel="home">freniche.com</a></h1>
+					<h2 class="site-description">Another personal blog about everything tech-related</h2>
+				</div>
+			</div>
+		</hgroup>
+
+		<nav id="site-navigation" class="navigation-main" role="navigation">
+			<div id="site-navigation-wrapper">
+				<div id="site-navigation-wrapper2">
+					<h1 class="menu-toggle">Menu<span>m</span></h1>
+					<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2650"><a href="/about">Acerca de&#8230;</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://www.github.com/dfreniche/cv">CV</a></li>
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="/ios-apps/">iOS Apps</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="/formacion/">Formación</a></li>
+</ul>
+</li>
+<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="/contactar/">Contactar</a></li>
+<li id="menu-item-2649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2649"><a href="/mis-entradas-favoritas/">Lo mejor del blog</a></li>
+<li id="menu-item-2648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="/archivo-blog/">Archivo</a></li>
+<li id="menu-item-1993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1993"><a href="http://www.cafeycocoa.com.es/">Otros Proyectos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2652"><a href="http://wedevelopers.com/">Podcast We.Developers</a></li>
+	<li id="menu-item-2051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2051"><a href="http://readthencode.tumblr.com/">Read Then Code</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1996"><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a></li>
+	<li id="menu-item-1995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1995"><a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.youtube.com/dfreniche">YouTube</a></li>
+	<li id="menu-item-1992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1992"><a href="https://www.flickr.com/photos/dfreniche">Flickr</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</div>
+</header><!-- #masthead -->
+
+<div id="page" class="hfeed site">
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+		
+			
+<article id="post-1276" class="post-1276 post type-post status-publish format-standard hentry category-cocoa category-informatica category-iphone category-objectivec category-programacion tag-cocoa tag-ios tag-programacion tag-xcode">
+	<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/" title="6:53 pm" rel="bookmark"><time class="entry-date" datetime="noviembre 24th, 2010">noviembre 24th, 2010</time></a>		</div><!-- .entry-meta -->
+				<h1 class="entry-title">Usando XCode 3.2.5 con dispositivos iOS 4.2.1</h1>
+			</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<p>Hace unos días salió la 4.2.1 de iOS para iPhone y iPod Touch. Sin pensarlo demasiado, actualicé mi iPhone 3Gs, que es la máquina que uso en el día a día, pero también la uso como máquina de desarrollo y pruebas. Pero no caí en el posible problema: tener en mi dispositivo instalado una versión de iOS no soportada por XCode.</p>
+<p>Pero salió la 3.2.5 de XCode y me la bajé e instalé. Bueno, problema solucionado ¿no?. Veamos, esta versión soporta&#8230; ¿iOS 4.2? ¿Y qué pasa con iOS 4.2.1? Un sudor frío me recorrió la espalda. Y se confirmaron mis miedos con este tweet de <a href="http://twitter.com/jdortiz">@jdortiz</a>:</p>
+<p><a href="/wp-content/uploads/2010/11/tweet.png"><img class="aligncenter size-full wp-image-1277" title="tweet" src="/wp-content/uploads/2010/11/tweet.png" alt="" width="540" height="93" srcset="/wp-content/uploads/2010/11/tweet.png 540w, /wp-content/uploads/2010/11/tweet-300x51.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></p>
+<p>Lógicamente, estoy en fase de pruebas para lanzar la v1.1 de <a href="/2010/11/09/mi-primera-app-ya-esta-en-el-app-store-myevents/">MyEvents</a>. Esto sólo te pasa cuando estás probando. Murphy es cruel.</p>
+<p>Esta mañana, me remangué y me senté frente a XCode. Al abrir el proyecto, un solitario error:</p>
+<div id="attachment_1278" style="width: 328px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/11/base-sdk-missing.png"><img class="size-full wp-image-1278" title="base-sdk-missing" src="/wp-content/uploads/2010/11/base-sdk-missing.png" alt="" width="318" height="36" srcset="/wp-content/uploads/2010/11/base-sdk-missing.png 318w, /wp-content/uploads/2010/11/base-sdk-missing-300x33.png 300w" sizes="(max-width: 318px) 100vw, 318px" /></a><p class="wp-caption-text">Mi XCode no entiende qué es eso de iOS 4.2.1 🙁</p></div>
+<p>Abrí el Organizer (para ver mis dispositivos), y nada más abrirlo me apareció la siguiente ventana:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/11/unknown-ios.png"><img class="aligncenter size-full wp-image-1279" title="unknown-ios" src="/wp-content/uploads/2010/11/unknown-ios.png" alt="" width="434" height="190" srcset="/wp-content/uploads/2010/11/unknown-ios.png 434w, /wp-content/uploads/2010/11/unknown-ios-300x131.png 300w" sizes="(max-width: 434px) 100vw, 434px" /></a>Vamos, que XCode me estaba diciendo: «esto de iOS 4.2.1 no tengo ni idea de qué es, pero si quieres me leo unos cuantos ficheros del iOS de este iPhone y trato de ver si soy capaz de manejarlo». Evidentemente, pulsé en Collect. Una barra de progreso me indicaba que se importaban los ficheros de iOS de mi iPhone. En segundo plano, XCode «desimbolicaba», es decir, desensamblaba el código de iOS 4.2.1 y lo preparaba para poder depurar con él. Al finalizar, supe que había triunfado porque el Organizer me mostraba la versión correcta en mi dispositivo:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/11/organizer.png"><img class="aligncenter size-medium wp-image-1281" title="organizer" src="/wp-content/uploads/2010/11/organizer-300x225.png" alt="" width="300" height="225" srcset="/wp-content/uploads/2010/11/organizer-300x225.png 300w, /wp-content/uploads/2010/11/organizer-1024x769.png 1024w, /wp-content/uploads/2010/11/organizer.png 1029w" sizes="(max-width: 300px) 100vw, 300px" /></a>Ahora ya sólo me quedaba actualizar la información del proyecto (para que se compilase usando el SDK correcto) y del target (el ejecutable que genera XCode) para se enlazase con las bibliotecas de la versión correcta. Pulsamos sobre el proyecto, ? + I (obtener información) y en la pestaña Build, cambiamos Base SDK. En mi caso ponía 4.1 (missing) y le he puesto la última. Luego repetimos, pero en el Target, ? + I, build y ponemos el Base SDK a 4.2.</p>
+<p><img class="aligncenter size-medium wp-image-1282" title="base-sdk" src="/wp-content/uploads/2010/11/base-sdk-300x73.png" alt="" width="300" height="73" srcset="/wp-content/uploads/2010/11/base-sdk-300x73.png 300w, /wp-content/uploads/2010/11/base-sdk.png 524w" sizes="(max-width: 300px) 100vw, 300px" />¡Listo! Graba (? + S) y cambia entre dispositivo y simulador un par de veces. Parece que XCode no refresca bien el cambio. Ahora, ya puedes probar con la 4.2.1 en el Simulador y en tus dispositivos.</p>
+<p>P.D.: Jorge me avisó en <a href="http://twitter.com/#!/jdortiz/status/7430352322691072">este Tweet</a> de que alguien ya había escrito algo sobre este problema, pero 1) está en Inglés y 2) no está tan mascadito. ¡Espero que os sirva!</p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		Posted in <a href="/category/informatica/cocoa/" rel="category tag">Cocoa</a>, <a href="/category/informatica/" rel="category tag">Informática</a>, <a href="/category/informatica/iphone/" rel="category tag">iphone</a>, <a href="/category/informatica/programacion/objectivec/" rel="category tag">ObjectiveC</a>, <a href="/category/informatica/programacion/" rel="category tag">Programación</a><span class="sep"> &#183; </span>Tagged <a href="/tag/cocoa/" rel="tag">Cocoa</a>, <a href="/tag/ios/" rel="tag">iOS</a>, <a href="/tag/programacion/" rel="tag">Programación</a>, <a href="/tag/xcode/" rel="tag">XCode</a>
+			</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+			
+	<nav role="navigation" id="nav-below" class="navigation-post">
+		<div id="nav-below-separator">
+			<h1 class="assistive-text">Post navigation</h1>
+
+		
+			<div class="previous"><a href="/2010/11/19/ebe10-en-semi-directo/" rel="prev"><span class="meta-nav">Previous Article</span><br />EBE10, en semi-directo</a></div>
+			<div class="next"><a href="/2010/11/30/como-crear-tu-propia-nscoder-night/" rel="next"><span class="meta-nav">Next Article</span><br />Cómo crear tu propia NSCoder Night</a></div>
+
+				</div>
+	</nav><!-- #nav-below -->
+	
+			
+
+	<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			6 comments		</h2>
+
+		
+		<ol class="comment-list">
+				<li class="comment even thread-even depth-1" id="li-comment-10483">
+		<article id="comment-10483" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Kaisser</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/#comment-10483"><time datetime="enero 19th, 2011">
+								2011 / enero / 19, miércoles 5:03 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola, me viene al pelo esta explicación pero &#8230;</p>
+<p> ¿qué pasa si no nos sale el aviso del organizer? Vamos, que a mi no me sale eso de «Collect» y al abrir el organizer sólo obtengo el mensaje de que el 4.2.1 no lo conoce.<br />
+ Uso XCode 3.2.4 ya que con el 3.2.5 me quedé sin poder «deploy» en el «device»</p>
+<p> En fin, a ver si me puedes orientar.</p>
+<p> Un saludo.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-10515">
+		<article id="comment-10515" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/#comment-10515"><time datetime="enero 20th, 2011">
+								2011 / enero / 20, jueves 10:45 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola</p>
+<p>Siempre debes intentar usar la última versión estable de XCode (y del último SDK que soporte), de forma que Apple no pueda rechazar tu App al revisarla. Ahora mismo puedes usar la 3.2.5 sin problemas con la v4.2.1 de iOS. No entiendo cuando me dices que no puedes desplegar en el dispositivo. ¿No será que necesitas borrar los provisioning profiles antiguos, ir al provisioning portal, volver a crearlos y reinstalarlos? Prueba. Y nos cuentas.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-10516">
+		<article id="comment-10516" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Kaisser</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/#comment-10516"><time datetime="enero 20th, 2011">
+								2011 / enero / 20, jueves 11:09 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola de nuevo.</p>
+<p> La verdad es que hay problemas con el tema del 4.2.1, el foro de soporte esta repleto, el oficial, me refiero.</p>
+<p> Bueno, tengo instalado el 3.2.5 y el problema que me encuentro es que un proyecto realizado con 3.2.4 no me permite desplegarlo/probarlo en un dispositivo fisico, no me aparece ni la opción.<br />
+Sin embargo, esta mañana me ha dado por crear un proyecto nuevo, vacío y en este caso SI me aparece la posibilidad de desplegar en un dispositivo. Lo he hecho y correcto.</p>
+<p> Entonces, ¿qué tiene de «malo» mi proyecto «viejo» que el xcode 3.2.5 no me deja desplegar en un dispositivo?.  ¿Será por los profiles? ¿En serio?  :S</p>
+<p> Voy a ir intentandolo  😀</p>
+<p> Muchas gracias, un saludo.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-10517">
+		<article id="comment-10517" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/#comment-10517"><time datetime="enero 20th, 2011">
+								2011 / enero / 20, jueves 11:17 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Tu problema tiene pinta de ser lo siguiente: creaste un proyecto con una versión anterior del SDK y ahora te aparece «No base SDK» en el desplegable y no puedes instalarlo. ¿No?. Si es así, pincha en el proyecto, Cmd+I (Info), marca la pestaña Build y busca en los settings «Base SDK». Debes desplegarlo y asignarlo al último SDK que tiene tu nuevo XCode. Repite este proceso pero pinchando ahora en la App que cuelga de Targets en tu proyecto.<br />
+El Base SDK es el SDK que se usa para compilar el proyecto. Si actualizas XCode la metainformación que está almacenada en el proyecto no lo sabe y sigue teniendo «grabado» el SDK antiguo. Hay que decirle de forma manual que cambie.<br />
+Puedes ver también el iOS Deployment target, que es la versión de iOS más antigua en la que vas a dejar funcionar tu App.</p>
+<p>Un saludo</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-10518">
+		<article id="comment-10518" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Kaisser</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/#comment-10518"><time datetime="enero 20th, 2011">
+								2011 / enero / 20, jueves 11:20 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Añado info a mi último «post», no, no es de los «perfiles». </p>
+<p> Los he vuelto a descargar, eliminar del xcode, insertar en xcode y nada, me sigue faltando la opción para desplegar en el dispositivo.</p>
+<p> Creo que es algo de la configuración de mi proyecto, que le dice al xcode «algo» que este interpreta y no me deja desplegar en el dispositivo.</p>
+<p> Gracias, un saludo.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-10519">
+		<article id="comment-10519" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Kaisser</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/#comment-10519"><time datetime="enero 20th, 2011">
+								2011 / enero / 20, jueves 11:22 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>PERFECTO !!</p>
+<p> Era eso, que mi «target» estaba en un SDK más antiguo y claro, no podía desplegar ese tarjet en el dispositivo.  Que melón !! Mira que no intentar cambiar las propiedades del target &#8230;.</p>
+<p> MIL GRACIAS !!</p>
+<p>Pd: Si hay «night» en Madrid te invito a algo  😉</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+			<p class="no-comments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search" class="widget widget_search">
+				<form method="get" id="searchform" class="searchform" action="/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" id="searchsubmit" value="Search" />
+	</form>
+		</aside>
+	</div><!-- #secondary -->
+
+	</div><!-- #main -->
+</div><!-- #page -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div id="footer-wrapper">
+		<div class="site-info">
+			<div id="site-info-wrapper">
+				<div id="site-info-wrapper2">
+										&#169; Copyright 2014 <a href="/">freniche.com</a>. Powered By <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">WordPress</a>.
+					<br />
+					Designed & Crafted by <a href="http://wpshower.com/">Wpshower</a>.
+				</div>
+			</div>
+		</div><!-- .site-info -->
+		<div id="social">
+			<div id="social_wrapper">
+				<div id="social_wrapper2">
+						<a href="https://twitter.com/dfreniche">w</a>
+						<a href="http://feeds.feedburner.com/dfreniche">r</a>
+					</div>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"es-ES","strings":{"Close":"Cerrar","Fullscreen":"Pantalla completa","Turn off Fullscreen":"Salir de pantalla completa","Go Fullscreen":"Ver en pantalla completa","Download File":"Descargar archivo","Download Video":"Descargar v\u00eddeo","Play":"Reproducir","Pause":"Pausa","Captions\/Subtitles":"Pies de foto \/ Subt\u00edtulos","None":"Ninguno","Time Slider":"Control de tiempo","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Reproductor de v\u00eddeo","Audio Player":"Reproductor de audio","Volume Slider":"Control de volumen","Mute Toggle":"Desactivar sonido","Unmute":"Activar sonido","Mute":"Silenciar","Use Up\/Down Arrow keys to increase or decrease volume.":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.13'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/wpshower-responsive-videos.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery.mousewheel.js?ver=3.1.6'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/fancybox/jquery.fancybox.js?ver=3b1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/markdown.min.js?ver=1.5.1'></script>
+
+</body>
+</html>

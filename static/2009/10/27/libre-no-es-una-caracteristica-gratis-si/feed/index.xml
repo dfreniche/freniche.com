@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: «Libre» no es una característica; «gratis», sí</title>
+	<atom:link href="/2009/10/27/libre-no-es-una-caracteristica-gratis-si/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Sebas</title>
+		<link>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/comment-page-1/#comment-121524</link>
+		<dc:creator><![CDATA[Sebas]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2013 20:25:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=404#comment-121524</guid>
+		<description><![CDATA[Eso de &quot;rant&quot; suena peyorativo en todas las acepciones y no tengo idea de precisamente a qué te refieres.
+
+Supongo que lo de mi mensaje anterior pudo haber estado mejor escrito, y precisamente su objetivo era &quot;completar&quot; (por decir algo) algo que mencionabas sintetizado en dos frases. Frases que pensaba estaban en éste mismo artículo pero ahora veo que están en dos artículos separados.
+Como digo el problema real de lo que mencionas no son los &quot;100% libres&quot; (*), estos son coherentes y por tanto son predecibles y &quot;correctos&quot;; sino más bien los &quot;99% abiertos&quot;.
+
+Son éstos personajes que ven con buenos ojos usar drivers cerrados, codec cerrados, software cerrados, juegos cerrados, suplicar por ellos incluso; la única vez que te condenan es si te atreves a usar Windows, o dicho de otra manera si traicionas &quot;Linux&quot;. Citando y parafraseando tu primera frase &quot;eres libre/abierto si (y sólo si) no usas Windows (osea) haces exactamente lo que ellos dicen&quot;. Si usas alguna de esas otras muchas cosas cerradas, ellos te aprueban porque piensas y actúas igual que ellos; si traicionas Linux y usas Windows es entonces que estás mal porque ése es el pecado que ellos no toleran jamás.
+
+Y son éstos los personajes los que (otra frase que dices en otro artículo) al final terminan haciendo que Linux tenga como único motivo ser hater de Windows; lo open sólo tiene valor en ése pequeño pedazo de código &quot;open&quot; que es Linux, de resto lo open no importa nada. Los que usan BSD parecen que realmente aman BSD y UNIX aunque quizás usarán algo cerrado pero se puede asegurar que no andan por ahí haciendo dramas, no tienen esa actitud tan lambiscona como los linuxeros que lo hacen como para sacarse una espina contra Windows y sobretodo porque con ése software (supuestamente) &quot;podrán vencer a Windows porque ahora podrán convencer/engañar a más personas&quot;, &quot;podrán eliminar su dualboot&quot;, etc; es como si buscaran vengarse de haberle asesinado su novia o qué se yo.
+
+Esta es la gente que realmente daña porque es fanática e intolerante y destruye todo; porque es parcial y tiene raseros arbitrarios y especiales para condenar a los demás, raseros que sólo coinciden con sus gustos y objetivos y no con algo predefinido como podría decir &quot;usar lo que sea opensource&quot; &quot;usar lo que funcione mejor&quot;, sino que es &quot;dejaste de usar el pedazo de opensource que yo considero mejor y defiendo entonces estás mal&quot;.
+
+Si éstas personas fuesen fieles a la idea &quot;usar lo que sea mejor&quot; no condenarían (a mi o millones de personas) por preferir Windows o (a ti y muchos que conozco) por preferir OSX por SER mejor que Linux.
+Así como si fuesen fieles a la idea &quot;usar lo que sea open&quot; (*) condenarían por usar Windows así como deberían condenar cuando se trata de todo ése closesource que ellos aman porque no compite contra Linux.
+En fin que para complacerlos hay que leer su mente y ser un incoherente que se escuda tras &quot;principios&quot; que se aplican a medias y con excepciones decretadas por ellos.
+
+
+Lo de Linus Torvalds lo decía a raíz de ésta entrevista:
+http://www.muylinux.com/2012/11/14/linus-torvalds-ya-no-leo-codigo/
+Pero a Linus Torvalds no es que se le pueda creer mucho, un día dice una cosa y otro otra.
+
+
+El kernel libre de OSX es un buen gesto de Apple y poco agradecido, ya que no tenía ninguna obligación para liberarlo, ni se iba hacer ni se hizo mejor por haberlo liberado.]]></description>
+		<content:encoded><![CDATA[<p>Eso de «rant» suena peyorativo en todas las acepciones y no tengo idea de precisamente a qué te refieres.</p>
+<p>Supongo que lo de mi mensaje anterior pudo haber estado mejor escrito, y precisamente su objetivo era «completar» (por decir algo) algo que mencionabas sintetizado en dos frases. Frases que pensaba estaban en éste mismo artículo pero ahora veo que están en dos artículos separados.<br />
+Como digo el problema real de lo que mencionas no son los «100% libres» (*), estos son coherentes y por tanto son predecibles y «correctos»; sino más bien los «99% abiertos».</p>
+<p>Son éstos personajes que ven con buenos ojos usar drivers cerrados, codec cerrados, software cerrados, juegos cerrados, suplicar por ellos incluso; la única vez que te condenan es si te atreves a usar Windows, o dicho de otra manera si traicionas «Linux». Citando y parafraseando tu primera frase «eres libre/abierto si (y sólo si) no usas Windows (osea) haces exactamente lo que ellos dicen». Si usas alguna de esas otras muchas cosas cerradas, ellos te aprueban porque piensas y actúas igual que ellos; si traicionas Linux y usas Windows es entonces que estás mal porque ése es el pecado que ellos no toleran jamás.</p>
+<p>Y son éstos los personajes los que (otra frase que dices en otro artículo) al final terminan haciendo que Linux tenga como único motivo ser hater de Windows; lo open sólo tiene valor en ése pequeño pedazo de código «open» que es Linux, de resto lo open no importa nada. Los que usan BSD parecen que realmente aman BSD y UNIX aunque quizás usarán algo cerrado pero se puede asegurar que no andan por ahí haciendo dramas, no tienen esa actitud tan lambiscona como los linuxeros que lo hacen como para sacarse una espina contra Windows y sobretodo porque con ése software (supuestamente) «podrán vencer a Windows porque ahora podrán convencer/engañar a más personas», «podrán eliminar su dualboot», etc; es como si buscaran vengarse de haberle asesinado su novia o qué se yo.</p>
+<p>Esta es la gente que realmente daña porque es fanática e intolerante y destruye todo; porque es parcial y tiene raseros arbitrarios y especiales para condenar a los demás, raseros que sólo coinciden con sus gustos y objetivos y no con algo predefinido como podría decir «usar lo que sea opensource» «usar lo que funcione mejor», sino que es «dejaste de usar el pedazo de opensource que yo considero mejor y defiendo entonces estás mal».</p>
+<p>Si éstas personas fuesen fieles a la idea «usar lo que sea mejor» no condenarían (a mi o millones de personas) por preferir Windows o (a ti y muchos que conozco) por preferir OSX por SER mejor que Linux.<br />
+Así como si fuesen fieles a la idea «usar lo que sea open» (*) condenarían por usar Windows así como deberían condenar cuando se trata de todo ése closesource que ellos aman porque no compite contra Linux.<br />
+En fin que para complacerlos hay que leer su mente y ser un incoherente que se escuda tras «principios» que se aplican a medias y con excepciones decretadas por ellos.</p>
+<p>Lo de Linus Torvalds lo decía a raíz de ésta entrevista:<br />
+<a href="http://www.muylinux.com/2012/11/14/linus-torvalds-ya-no-leo-codigo/" rel="nofollow">http://www.muylinux.com/2012/11/14/linus-torvalds-ya-no-leo-codigo/</a><br />
+Pero a Linus Torvalds no es que se le pueda creer mucho, un día dice una cosa y otro otra.</p>
+<p>El kernel libre de OSX es un buen gesto de Apple y poco agradecido, ya que no tenía ninguna obligación para liberarlo, ni se iba hacer ni se hizo mejor por haberlo liberado.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/comment-page-1/#comment-121487</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 21 Jan 2013 15:46:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=404#comment-121487</guid>
+		<description><![CDATA[Hola Sebas
+¡Menudo &quot;rant&quot; te has marcado! Mi posición en esto es bien conocida: me gusta el software libre y procuro usarlo, siempre que sea la mejor solución disponible. Si hay una mejor solución (por la razón que sea), me es indiferente que sea Free, Open o de pago: busco la mejor herramienta. Esa es la razón de que use un Mac (su kernel, por cierto, es Software Libre: http://www.opensource.apple.com)/
+
+Y sólo por puntualizar: &lt;a href=&quot;https://github.com/torvalds/linux&quot; rel=&quot;nofollow&quot;&gt;Linus continúa desarrollando activamente el kernel&lt;/a&gt;, y sus otros proyectos (como &lt;a href=&quot;https://github.com/git/git&quot; rel=&quot;nofollow&quot;&gt;Git, que también es suyo&lt;/a&gt;)
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Sebas<br />
+¡Menudo «rant» te has marcado! Mi posición en esto es bien conocida: me gusta el software libre y procuro usarlo, siempre que sea la mejor solución disponible. Si hay una mejor solución (por la razón que sea), me es indiferente que sea Free, Open o de pago: busco la mejor herramienta. Esa es la razón de que use un Mac (su kernel, por cierto, es Software Libre: <a href="http://www.opensource.apple.com/" rel="nofollow">http://www.opensource.apple.com/</a>)</p>
+<p>Y sólo por puntualizar: <a href="https://github.com/torvalds/linux" rel="nofollow">Linus continúa desarrollando activamente el kernel</a>, y sus otros proyectos (como <a href="https://github.com/git/git" rel="nofollow">Git, que también es suyo</a>)</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Sebas</title>
+		<link>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/comment-page-1/#comment-121098</link>
+		<dc:creator><![CDATA[Sebas]]></dc:creator>
+		<pubDate>Sat, 19 Jan 2013 22:39:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=404#comment-121098</guid>
+		<description><![CDATA[&quot;eres libre si no usas Windows y haces exactamente lo que ellos dicen.&quot;
+
+Pues justamente esa actitud es la que yo les veo NO a los &quot;100% libre&quot; sino a los &quot;99% libre&quot;.
+
+Porque a ver, los primeros aunque sea son consecuentes, su idea es usar &quot;100% libre&quot;, &quot;100% GPL, BSD, o lo que sea&quot;, se trate de Windows, se trate de Steam, se trate de Photoshop, se trate DE FIREFOX, se trate de cualquier perolito que alguno dirá &quot;¡pero si es sólo un 0,0001% eso no importa!&quot;.
+
+Pero el detalle está en los del &quot;99%&quot; porque es para ése tipo de gente que todo principio es engabetable, todo software &quot;libre/abierto&quot; puede ser ése &quot;1%&quot; sacrificable, pero siempre y cuando sea para poder seguir enganchados a Linux, porque eso sí nunca el fulano Linux podrá ser ése &quot;1%&quot;, osea que a la final todo se resume a no usar Windows.
+
+Por ejemplo, suplican por Steam y todo su software y todo lo cerrado que hay porque así &quot;más gente usará Linux&quot;, mismo tema con drivers, controladores, etc, etc. Vale, aquí no les importa sacrificar los principios.
+Pero yo o quién sea por ejemplo podría decidir que mi 1% será Windows porque quiero y porque objetivamente Linux es una mierda ¿Qué ocurre? que para esos &quot;openmind&quot; soy un blasfemo porque aquí sí que se acuerdan de la libertad, de lo abierto y de tal pascual.
+
+Que en fin como diría Orwell, que todo software abierto es &quot;bueno&quot; pero hay software más abierto que otro; todo software cerrado es &quot;malo&quot; pero hay software más cerrado que otro, osea nunca uses Windows.
+
+
+Yo a Icaza le tengo respeto no sólo por lo que ha hecho, sino porque además es honesto, hace y no se avergüenza de cosas que muchos harían y hacen escondido. Hace poco confesó que usaba Mac y que Linux aunque lo ame mucho es una mierda. Pues le han caído encima de Linus Torvalds hacia abajo; ya que como es de saber, aquí puedes despotricar contra todo menos contra el sagrado Linux.
+Que dicho sea de paso el Linus Torvalds es uno de los que anda con Macs, claro que el dice &quot;que ha formateado el sistema e instalado Linux&quot; pero allá quién quiera creerle; más allá de mantener la imagen él no tiene ninguna necesidad de usar ninguna distro porque hace años que ni programa.]]></description>
+		<content:encoded><![CDATA[<p>«eres libre si no usas Windows y haces exactamente lo que ellos dicen.»</p>
+<p>Pues justamente esa actitud es la que yo les veo NO a los «100% libre» sino a los «99% libre».</p>
+<p>Porque a ver, los primeros aunque sea son consecuentes, su idea es usar «100% libre», «100% GPL, BSD, o lo que sea», se trate de Windows, se trate de Steam, se trate de Photoshop, se trate DE FIREFOX, se trate de cualquier perolito que alguno dirá «¡pero si es sólo un 0,0001% eso no importa!».</p>
+<p>Pero el detalle está en los del «99%» porque es para ése tipo de gente que todo principio es engabetable, todo software «libre/abierto» puede ser ése «1%» sacrificable, pero siempre y cuando sea para poder seguir enganchados a Linux, porque eso sí nunca el fulano Linux podrá ser ése «1%», osea que a la final todo se resume a no usar Windows.</p>
+<p>Por ejemplo, suplican por Steam y todo su software y todo lo cerrado que hay porque así «más gente usará Linux», mismo tema con drivers, controladores, etc, etc. Vale, aquí no les importa sacrificar los principios.<br />
+Pero yo o quién sea por ejemplo podría decidir que mi 1% será Windows porque quiero y porque objetivamente Linux es una mierda ¿Qué ocurre? que para esos «openmind» soy un blasfemo porque aquí sí que se acuerdan de la libertad, de lo abierto y de tal pascual.</p>
+<p>Que en fin como diría Orwell, que todo software abierto es «bueno» pero hay software más abierto que otro; todo software cerrado es «malo» pero hay software más cerrado que otro, osea nunca uses Windows.</p>
+<p>Yo a Icaza le tengo respeto no sólo por lo que ha hecho, sino porque además es honesto, hace y no se avergüenza de cosas que muchos harían y hacen escondido. Hace poco confesó que usaba Mac y que Linux aunque lo ame mucho es una mierda. Pues le han caído encima de Linus Torvalds hacia abajo; ya que como es de saber, aquí puedes despotricar contra todo menos contra el sagrado Linux.<br />
+Que dicho sea de paso el Linus Torvalds es uno de los que anda con Macs, claro que el dice «que ha formateado el sistema e instalado Linux» pero allá quién quiera creerle; más allá de mantener la imagen él no tiene ninguna necesidad de usar ninguna distro porque hace años que ni programa.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: freniche.com &#187; EBE 2009: un Sábado que dio para mucho</title>
+		<link>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/comment-page-1/#comment-3258</link>
+		<dc:creator><![CDATA[freniche.com &#187; EBE 2009: un Sábado que dio para mucho]]></dc:creator>
+		<pubDate>Mon, 04 Jan 2010 11:03:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=404#comment-3258</guid>
+		<description><![CDATA[[...] por otro lado los diálogos paralelos defendiendo / rechazando el Software Libre. Mi opinión creo que ya esta clara. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] por otro lado los diálogos paralelos defendiendo / rechazando el Software Libre. Mi opinión creo que ya esta clara. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/comment-page-1/#comment-2948</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 22:35:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=404#comment-2948</guid>
+		<description><![CDATA[Hola, Festuc.
+Pues totalmente de acuerdo. Decía el sabio que FreeBSD es el S.O. de los que aman UNIX. Linux el de los que odian Windows. Por desgracia, en el mundo Linux hay mucho troll suelto, que en lugar de defender sus ideas con razonamientos (y aceptar que al resto nos puedan gustar otras cosas) se dedican a machacar al que no comulga con sus planteamientos.
+Una pena. Yo me he visto &quot;obligado&quot; a dejar Linux aparcado en favor del Mac OS X, que es un UNIX sencillo si no quiero complicarme la vida o tan complicado como se quiera, abriendo una Terminal.
+La clave es esa: ser feliz con lo que uses, ya sea Windows, Amiga OS, Linux o Mac OS X.]]></description>
+		<content:encoded><![CDATA[<p>Hola, Festuc.<br />
+Pues totalmente de acuerdo. Decía el sabio que FreeBSD es el S.O. de los que aman UNIX. Linux el de los que odian Windows. Por desgracia, en el mundo Linux hay mucho troll suelto, que en lugar de defender sus ideas con razonamientos (y aceptar que al resto nos puedan gustar otras cosas) se dedican a machacar al que no comulga con sus planteamientos.<br />
+Una pena. Yo me he visto «obligado» a dejar Linux aparcado en favor del Mac OS X, que es un UNIX sencillo si no quiero complicarme la vida o tan complicado como se quiera, abriendo una Terminal.<br />
+La clave es esa: ser feliz con lo que uses, ya sea Windows, Amiga OS, Linux o Mac OS X.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Festuc</title>
+		<link>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/comment-page-1/#comment-2945</link>
+		<dc:creator><![CDATA[Festuc]]></dc:creator>
+		<pubDate>Tue, 27 Oct 2009 19:20:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=404#comment-2945</guid>
+		<description><![CDATA[Soy usuario de sistemas GNU/Linux desde hace unos 5 o 6 años. Y estoy totalmente deacuerdo contigo. Comentas el problema de la marca, pero creo que este aspecto va mas allá en el mundo de Linux; No solo es que Linux no sea una marca, sino que los usuarios de este rechazan las distribuciones que se intentan crear una marca (Red Hat, Mandriva, Ubuntu, SLED), y esto es un gran problema. Mandriva tiene una gran panel de control que facilita la vida de los usuarios caseros, pero para los debianitas/slackers/archilinuxeros son métodos para nenas.
+En el mundo de linux se rechaza lo sencillo. 
+
+Ahora soy un feliz usuario de Mac OS X y Ubuntu/mandriva en el desktop y Linux para servir.]]></description>
+		<content:encoded><![CDATA[<p>Soy usuario de sistemas GNU/Linux desde hace unos 5 o 6 años. Y estoy totalmente deacuerdo contigo. Comentas el problema de la marca, pero creo que este aspecto va mas allá en el mundo de Linux; No solo es que Linux no sea una marca, sino que los usuarios de este rechazan las distribuciones que se intentan crear una marca (Red Hat, Mandriva, Ubuntu, SLED), y esto es un gran problema. Mandriva tiene una gran panel de control que facilita la vida de los usuarios caseros, pero para los debianitas/slackers/archilinuxeros son métodos para nenas.<br />
+En el mundo de linux se rechaza lo sencillo. </p>
+<p>Ahora soy un feliz usuario de Mac OS X y Ubuntu/mandriva en el desktop y Linux para servir.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
