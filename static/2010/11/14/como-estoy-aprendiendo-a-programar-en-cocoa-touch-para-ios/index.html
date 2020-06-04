@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Cómo estoy aprendiendo a programar en Cocoa Touch para iOS | freniche.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/readly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; RSS de los comentarios" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Cómo estoy aprendiendo a programar en Cocoa Touch para iOS RSS de los comentarios" href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-style-css'  href='/wp-content/themes/readly/fancybox/jquery.fancybox.css?v=2.1.5&#038;ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='readly-style-css'  href='/wp-content/themes/readly/style.css?ver=4.8.13' type='text/css' media='all' />
+<style id='readly-style-inline-css' type='text/css'>
+.gallery .gallery-item {
+	max-width: 150px;
+}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-markdown-prettify-css'  href='/wp-content/plugins/wp-markdown/css/prettify.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery-ui-1.10.2.custom.min.js?ver=20130317'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/readly.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/prettify.min.js?ver=1.5.1'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel='prev' title='NSCoder Nights Sevilla' href='/2010/11/12/nscoder-nights-sevilla/' />
+<link rel='next' title='EBE10, en semi-directo' href='/2010/11/19/ebe10-en-semi-directo/' />
+<meta name="generator" content="WordPress 4.8.13" />
+<link rel="canonical" href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/" />
+<link rel='shortlink' href='/?p=1248' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2010%2F11%2F14%2Fcomo-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2010%2F11%2F14%2Fcomo-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios%2F&#038;format=xml" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.6';
+</script>
+<style type="text/css" media="screen">
+/* Begin WPvideo CSS */
+.wpv_videoc {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+/* border: 1px solid #aaa; */
+}
+
+.wpv_video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px 0 4px 0;
+	width: 425px;
+	height: 350px;
+}
+
+.wpv_rating {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+	font: 8pt "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	text-align: right;	
+}
+
+.wpv_titleauthor, .wpv_durationdate, .wpv_description {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #666;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+}
+
+.wpv_download {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+}
+
+.wpv_download a {
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #f44;
+}
+
+.wpv_download a:hover {
+	text-decoration: none;
+}
+
+.wpv_download img {
+	border: 0;
+}
+
+.wpv_self {
+	text-align: left;
+}
+
+.wpv_self a {
+	font: bold 9px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #000;
+}
+/* End WPvideo CSS */
+</style>
+
+<style type="text/css" id="custom-background-css">
+a {
+	color: #1e83cb;
+}
+.entry-content a {
+	-webkit-transition: border-bottom-color 0.2s linear;
+	-moz-transition: border-bottom-color 0.2s linear;
+	-o-transition: border-bottom-color 0.2s linear;
+	transition: border-bottom-color 0.2s linear;
+}
+.entry-content a:hover {
+	border-bottom-color: #1e83cb;
+}
+#masthead .site-title a, #site-navigation a, .sub-menu a, #nav-below a, .entry-title a, #image-navigation a {
+	-webkit-transition: color 0.2s linear;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+#masthead .site-title a:hover, #nav-below a:hover, .entry-title a:hover, #image-navigation a:hover {
+	color: #1e83cb;
+}
+#s, #commentform input[type="text"], #commentform textarea, .password_protected, #social a, a.more-link {
+	-webkit-transition: background-color 0.2s linear;
+	-moz-transition: background-color 0.2s linear;
+	-o-transition: background-color 0.2s linear;
+	transition: background-color 0.2s linear;
+}
+a.more-link span {
+	-webkit-transition: border-left-color 0.2s linear;
+	-moz-transition: border-left-color 0.2s linear;
+	-o-transition: border-left-color 0.2s linear;
+	transition: border-left-color 0.2s linear;
+}
+#s:focus, #commentform input[type="text"]:focus, #commentform textarea:focus, .password_protected:focus {
+	background-color: #fff;
+}
+#social a:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover span {
+	border-left-color: #1e83cb;
+}
+.entry-meta a, footer .site-info a, #comments a, .link_post_p a {
+	-webkit-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-moz-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-o-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	transition: color 0.2s linear, border-bottom-color 0.2s linear;
+}
+.entry-meta a:hover, footer .site-info a:hover, #comments a:hover, #comments a#cancel-comment-reply-link:hover, .link_post_p a:hover {
+	color: #1e83cb;
+	border-bottom-color: #1e83cb;
+}
+@media only screen and (min-width : 641px) {
+	#site-navigation a:hover, .sub-menu a:hover {
+		color: #1e83cb;
+	}
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+.hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #1e83cb;
+}
+</style>
+<script type="text/javascript">
+var hover_color = "#1e83cb";
+</script></head>
+
+<body class="post-template-default single single-post postid-1248 single-format-standard">
+<header id="masthead" class="site-header" role="banner">
+	<div id="header-wrapper">
+		<hgroup>
+			<div id="hgroup-wrapper">
+				<div id="hgroup-wrapper2">
+					<h1 class="site-title"><a href="/" title="freniche.com" rel="home">freniche.com</a></h1>
+					<h2 class="site-description">Another personal blog about everything tech-related</h2>
+				</div>
+			</div>
+		</hgroup>
+
+		<nav id="site-navigation" class="navigation-main" role="navigation">
+			<div id="site-navigation-wrapper">
+				<div id="site-navigation-wrapper2">
+					<h1 class="menu-toggle">Menu<span>m</span></h1>
+					<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2650"><a href="/about">Acerca de&#8230;</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://www.github.com/dfreniche/cv">CV</a></li>
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="/ios-apps/">iOS Apps</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="/formacion/">Formación</a></li>
+</ul>
+</li>
+<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="/contactar/">Contactar</a></li>
+<li id="menu-item-2649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2649"><a href="/mis-entradas-favoritas/">Lo mejor del blog</a></li>
+<li id="menu-item-2648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="/archivo-blog/">Archivo</a></li>
+<li id="menu-item-1993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1993"><a href="http://www.cafeycocoa.com.es/">Otros Proyectos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2652"><a href="http://wedevelopers.com/">Podcast We.Developers</a></li>
+	<li id="menu-item-2051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2051"><a href="http://readthencode.tumblr.com/">Read Then Code</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1996"><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a></li>
+	<li id="menu-item-1995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1995"><a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.youtube.com/dfreniche">YouTube</a></li>
+	<li id="menu-item-1992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1992"><a href="https://www.flickr.com/photos/dfreniche">Flickr</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</div>
+</header><!-- #masthead -->
+
+<div id="page" class="hfeed site">
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+		
+			
+<article id="post-1248" class="post-1248 post type-post status-publish format-standard hentry category-apple-informatica category-cocoa category-informatica category-objectivec category-programacion tag-cocoa tag-kaizen tag-programacion">
+	<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/" title="4:12 pm" rel="bookmark"><time class="entry-date" datetime="noviembre 14th, 2010">noviembre 14th, 2010</time></a>		</div><!-- .entry-meta -->
+				<h1 class="entry-title">Cómo estoy aprendiendo a programar en Cocoa Touch para iOS</h1>
+			</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<p style="text-align: justify;">En el post en el que anunciaba que mi primera App para iOS, <a href="/2010/11/09/mi-primera-app-ya-esta-en-el-app-store-myevents/">MyEvents</a>, ya estaba disponible en el App Store, <a href="/2010/11/09/mi-primera-app-ya-esta-en-el-app-store-myevents/comment-page-1/#comment-8539">David me pedía en un comentario</a> que escribiera algo de cómo me he ido preparando para programar en Cocoa. Este post ya me estaba rondando por mi <a href="http://culturedcode.com/things/">Things</a> desde hacía tiempo, y un par de correos pidiendo lo mismo, unido a que en las NSCoder Nights mucha gente va a preguntarlo (y es una lata repetir siempre lo mismo ;-)) me han llevado a escribir mi experiencia.</p>
+<p style="text-align: justify;">No esperes aquí un camino formativo «de academia», con unos objetivos, etc. Es mi experiencia. Y por ello mismo, está en contínuo cambio. Os agradecería que, si habéis leído otros libros, consultáis otras webs, tenéis otros ejemplos, etc. los pongáis en los comentarios de forma que todos los programadores que lean el post se beneficien de las experiencias de todos.</p>
+<p style="text-align: justify;">Antes de empezar, <em>disclaimer</em> al canto. Probablemente son los años, o el haber estado alejado de los teclados unos años, o el tener mis neuronas seriamente perjudicadas por el abuso de alcohol en mi juventud y cafeína en la actualidad, pero a mí Cocoa / ObjectiveC / XCode no me han resultado «un juego de niños». He tenido que esforzarme, leer mucho, probar cosas, equivocarme, frustrarme, volver a empezar, ver vídeos, etc. Lo digo, porque he leído en muchos sitios por Internet que la gente se pone a toda máquina con Cocoa Touch en dos/tres meses. Pues yo tengo que ser tonto de remate. Si tú tampoco eres capaz de saberte toda la API (incluyendo la parte privada) de iOS en dos meses, que sepas que tienes mi solidaridad.</p>
+<h2>El comienzo</h2>
+<p style="text-align: justify;">Cuando me planteé meterme en Cocoa Touch, yo partía con tres grandes ventajas. Por un lado, en mi juventud programé mucho en C y C++, y C siempre ha sido mi lenguaje favorito. Sobre todo, porque fue el primero con el que hice cosas. Por otra parte, tras el intensivo machaque con las certificaciones Java e impartir un montón de cursos tenía bastante claro el patrón MVC. Ambas cosas son básicas: C + MVC, así que, si no tienes claro C te recomiendo lo primero que te mires el <a href="http://en.wikipedia.org/wiki/The_C_Programming_Language_(book)">libro clásico de Kerninghan y Ritchie «The C Programming Language»</a> para tener claro qué es un #define, un puntero, los tipos de datos que hay, estructuras de control (if, switch), el operador ternario ?, etc. MVC lo explican fantásticamente bien en los vídeos de iTunes U de la Universidad de Stanford, «Developing Apps for iOS», capítulos 1 y 2. El cap. 2 es un ejemplo de cómo aplicar MVC.</p>
+<p style="text-align: justify;">La última ventaja, algo que me sigue sorprendiendo que sorprenda, es que hablo Inglés. Dominar el Inglés te da acceso a un montón de información escrita, vídeos, podcasts, y la posibilidad de charlar con gente si vas a la WWDC (de momento, un sueño para mi, pero ya veremos en 2011). Hay muchas formas de aprender Inglés, y distintos métodos. Escoge el que quieras, pero ponte ya. Sin excusas. Lee comics, ve las películas subtituladas en Inglés y con la pista de audio en Inglés, mira videos en Youtube, lo que sea. Pero practica. Ya. Deja de leer estas líneas, en serio: el impacto en tu vida de aprender Inglés será más importante que cualquier cosa que yo pueda contar.</p>
+<h2>Los primeros libros</h2>
+<p style="text-align: justify;">Para arrancar, lo tenía muy claro: iba a leerme de cabo a rabo un par de libros, uno para principiantes y de estilo tutorial, y otro avanzado que se metiera a más bajo nivel con Cocoa Touch. Los comenté <a href="/2010/06/10/leyendo-para-emprender/">en este post</a>. Pero como soy así de bueno, listo los cuatro que he leído para que los tengáis a mano:</p>
+<p style="text-align: justify;"><a href="http://www.iphonedevbook.com/">Beginning iPhone 3 Development</a>, de Dave Mark y Jeff LaMarche. El primero por el que empecé. Te explica todo paso a paso, y trata un montón de temas. En un punto tuve que parar, porque no tenía clara la base de ObjectiveC, y cosas como el <a href="http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/KeyValueCoding/Concepts/Overview.html%23//apple_ref/doc/uid/20001838-SW1">KVC</a>, las categorías o la gestión de memoria se me escapaban. Así que lo aparqué y me leí:</p>
+<p style="text-align: justify;"><a href="http://apress.com/book/view/1430218150">Learn Objective C on the Mac</a>, de Mark Dalrymple y Scott Knaster. Este libro me gusta mucho porque es muy directo, si sabes de lo que te está hablando. No es tan tutorial como el otro, va al grano y te da una base imprescindible para programar. Debería haber empezado con este 🙂</p>
+<p style="text-align: justify;">Tras estos dos, he leído algunos capítulos de <a href="http://www.amazon.com/More-iPhone-Development-Tackling-Beginning/dp/143022505X">More iPhone 3 Development</a>, también de Dave Mark y Jeff LaMarche. No lo he leído completo, sino los capítulos que iba necesitando, de forma ad-hoc.</p>
+<p style="text-align: justify;">El último con el que estoy es <a href="http://www.amazon.com/iPhone-SDK-Programming-Advanced-Development/dp/0470683988">iPhone SDK Programming</a>, de Maher Ali. Más avanzado, prescinde de Interface Builder y lo construye todo a mano. Ideal, para saber qué pasa «detrás del telón» de IB. Y su introducción a Objective-C es muy buena, compacta, pero un poco densa.</p>
+<h2>Vídeo y audio</h2>
+<p style="text-align: justify;">Mientras estaba leyendo esos libros he ido alternando con los vídeos de la Universidad de Stanford (que están disponibles en iTunes) sobre cómo programar para el iPhone. Son gratuítos y la única pega que se les puede buscar es que están en Inglés. El enlace para la versión en HD es <a href="http://itunes.apple.com/es/itunes-u/developing-apps-for-ios-hd/id395605774">este</a>. También hay una versión en SD. Me parece casi perfecto ir leyendo y viendo un vídeo de vez de cuando, de forma que una cosa se apoya en la otra. Yo no tengo iPad donde verlo, pero se me ocurre que la forma perfecta es por la noche, en el sofá, con los auriculares puestos mientras tu media naranja ve otra cosa. El problema es que es mi media naranja la que lee en el iPad. Es suyo 🙂</p>
+<p style="text-align: justify;">En audio sólo he escuchado un podcast de Cocoa: <a href="http://ochentaycincoporcientococoa.tumblr.com/">85% cocoa</a>. Súper recomendable, tanto por el contenido como por la estructura. Y no sólo se tratan temas de programación estrictamente: se hablan de otros detalles necesarios para el desarrollo. Un gran trabajo de José A. Lobato, culpable junto con otros de la comunidad <a href="http://www.nscodecenter.com/">NSCodeCenter</a> y de las iniciativas <a href="/2010/11/12/nscoder-nights-sevilla/">NSCoder Night</a> en España.</p>
+<h2>Webs</h2>
+<p style="text-align: justify;">Además de los recursos de Apple (el Developer Center), uso mucho <a href="http://stackoverflow.com/">StackOverflow</a> y ahora me estoy animando a entrar en <a href="http://www.nscodecenter.com/">NSCodeCenter</a>. Con estos tres cubro prácticamente cualquier pregunta, además de blogs de programadores en Cocoa y otras cosas que me encuentro por Internet y guardo en <a href="http://www.delicious.com/dfreniche/cocoa">Delicious</a>.</p>
+<h2>Programar</h2>
+<p style="text-align: justify;">Al final, a programar sólo se aprende programando. Por mucho que leas, por mucho que creas que sepas, la única forma de aprender a programar es haciendo programas. Puede parecer una perogrullada, pero no lo es. Así que ya sabes: programa. Aunque tu código sea feo, aunque no te apetezca enseñarlo (eso siempre pasa, somos muy pudorosos con nuestro código), sigue adelante. Ya aprenderás formas de hacerlo más bonito. Yo hasta que no me planteé algo propio no empecé a encontrarme con cosas que quería hacer y no sabía cómo.</p>
+<h2>Un compañero</h2>
+<p style="text-align: justify;">Yo me he buscado recientemente un compi para hacer Apps a cuatro manos. De esta forma, puedo ver cómo programan otras personas, tengo que esforzarme en «hacerlo bonito», ya que van a leer mi código, y avanzo mucho más rápido. Y me motiva mucho. Otra opción son las NSCoder Nights. Y si no lo hay en tu ciudad, monta tu la tuya. No necesitas más que una cuenta en Twitter y un bar. De ambas cosas hay abundancia en España.</p>
+<p style="text-align: justify;">Así que ya sabes: happy coding!</p>
+<p style="text-align: justify;">
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		Posted in <a href="/category/informatica/apple-informatica/" rel="category tag">Apple</a>, <a href="/category/informatica/cocoa/" rel="category tag">Cocoa</a>, <a href="/category/informatica/" rel="category tag">Informática</a>, <a href="/category/informatica/programacion/objectivec/" rel="category tag">ObjectiveC</a>, <a href="/category/informatica/programacion/" rel="category tag">Programación</a><span class="sep"> &#183; </span>Tagged <a href="/tag/cocoa/" rel="tag">Cocoa</a>, <a href="/tag/kaizen/" rel="tag">Kaizen</a>, <a href="/tag/programacion/" rel="tag">Programación</a>
+			</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+			
+	<nav role="navigation" id="nav-below" class="navigation-post">
+		<div id="nav-below-separator">
+			<h1 class="assistive-text">Post navigation</h1>
+
+		
+			<div class="previous"><a href="/2010/11/12/nscoder-nights-sevilla/" rel="prev"><span class="meta-nav">Previous Article</span><br />NSCoder Nights Sevilla</a></div>
+			<div class="next"><a href="/2010/11/19/ebe10-en-semi-directo/" rel="next"><span class="meta-nav">Next Article</span><br />EBE10, en semi-directo</a></div>
+
+				</div>
+	</nav><!-- #nav-below -->
+	
+			
+
+	<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			13 comments		</h2>
+
+		
+		<ol class="comment-list">
+				<li class="comment even thread-even depth-1" id="li-comment-8737">
+		<article id="comment-8737" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">David</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-8737"><time datetime="noviembre 15th, 2010">
+								2010 / noviembre / 15, lunes 6:16 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Buena entrada Diego!, gracias por atender mi petición!.</p>
+<p>Yo de momento he acabado con el manual de macprogramadores sobre Objective-C, y ahora voy a mitad de iPhone and iPad Apps for Absolute Beginners de Rory Lewis.</p>
+<p>En cuanto termine ése libro, creo que me pondré a leer «Beginning iPhone 3 Development», que espero que no sea tán básico como el de Rory Lewis, ya que ya tengo bastantes conociemientos de java y se me está haciendo demasiado lento en las explicaciones.</p>
+<p>De momento no me he puesto a hacer ningúna app a las bravas, sino que sigo el guión de los libros, voy a esperar a ver el manejo de listas, matrices, etc y entonces ya me pondré a hacer pruebas para ir probando todo lo aprendido.</p>
+<p>Una pregunta, ¿con Beginning iPhone 3 Development se puede empezar a desarrollar ya aplicaciones que saquen datos de un servicio web y poder mostrar esos datos parseados utilizando Mapkit?, ¿o tengo mucha prisa?.</p>
+<p>En cuanto a compañeros&#8230;tengo que empezar a buscar alguna comunidad de programadores Mac por Zaragoza&#8230;porque mis amigos programadores de momento no quieren meterse en éste mundillo.</p>
+<p>Bueno, un saludo, y muchas gracias de nuevo por post como éstos!.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-8899">
+		<article id="comment-8899" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='http://www.fernandoval.es/' rel='external nofollow' class='url'>aaromnido</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-8899"><time datetime="noviembre 21st, 2010">
+								2010 / noviembre / 21, domingo 12:29 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola, no puedo estar más de acuerdo en lo beneficioso de este post.<br />
+Por otro lado, también soy de Zaragoza y me gustar contactar contigo David, para montar una NSCoder Night en Zaragoza. Si te animas la montamos entre los dos. Mi twitter es: <a href="http://twitter.com/aaromnido" rel="nofollow">http://twitter.com/aaromnido</a> y mi correo es aaromnido at gmail.com.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor even depth-2" id="li-comment-8976">
+		<article id="comment-8976" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-8976"><time datetime="noviembre 23rd, 2010">
+								2010 / noviembre / 23, martes 12:55 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Si acabáis montando la NSCoder Night Mañica, vosotros sois los padres pero yo siempre seré el padrino 🙂<br />
+Bueno, o el inductor, según se mire&#8230;</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-8977">
+		<article id="comment-8977" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='http://www.fernandoval.es/' rel='external nofollow' class='url'>aaromnido</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-8977"><time datetime="noviembre 23rd, 2010">
+								2010 / noviembre / 23, martes 1:29 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>En ello estoy, pero de momento no contacto con David ni con nadie más (no sé sí tu podrías mandarle un mail). Pero bueno, a partir del 19 de Enero asistiré a un curso que va a darse en el Centro de Tecnologías Avanzadas del Gobierno de Aragón. Ahí espero contactar con más gente y meterla en el lío&#8230; jejejeje.<br />
+Y por supuesto, tu serás el padrino. Y te invitaremos a que te pases por aquí en cuanto puedas. Pero bueno, todo se andará&#8230;</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-8984">
+		<article id="comment-8984" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">David</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-8984"><time datetime="noviembre 24th, 2010">
+								2010 / noviembre / 24, miércoles 12:26 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Perdonar por la tardanza en contestar chicos, pero es que ando un poco liadillo!.</p>
+<p>En cuanto a poder organizar la NSCoder Night en Zaragoza, lo veo complicado por mi parte, ya que ahora mismo estoy con mil frentes abiertos y no puedo llegar a encargarme de ponerla en marcha, pero si tiras para adelante Fernando, te prometo intentar difundir lo máximo posible la existencia de la misma, y como no, buscar un hueco para intentar aparecer por esas noches.</p>
+<p>Yo tmb estoy apuntado al curso de enero del CTA, ahora estoy a la espera de que me admitan, y luego que me dejen ir en el curro&#8230;.</p>
+<p>Mi correo es olmos.david[at]gmail.com.</p>
+<p>Un saludo!!</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-9074">
+		<article id="comment-9074" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Jorge memmaker650</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-9074"><time datetime="noviembre 27th, 2010">
+								2010 / noviembre / 27, sábado 9:55 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Aquí otro otro mañico interesado en hacer una NSCODER_ZGZ, puedo ayudar en todo lo que pueda.<br />
+Estoy en NSCodecenter como Jorge Sanchez y en twitter como @memmaker650 y mi mail es <a href="mailto:memmaker650@gmail.com">memmaker650@gmail.com</a>.</p>
+<p>A ver si creamos un nucleo duro de 3 o 4 personas y poco a poco ir creciendo.</p>
+<p>Un saludo.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor even depth-2" id="li-comment-9075">
+		<article id="comment-9075" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-9075"><time datetime="noviembre 27th, 2010">
+								2010 / noviembre / 27, sábado 10:20 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola Jorge.<br />
+Fernando (aaromnido) ya ha creado el Twitter de <a href="http://twitter.com/nscoder_zgz" rel="nofollow">NSCoder_zgz</a>. Siguiéndole podréis quedar y empezar vuestras NSCoder Nights. Yo tengo muchas ganas de ir ya a la segunda de Sevilla (este Martes). Aunque lo que debe ser la leche es asistir a la NSCoder Night de otra ciudad 🙂<br />
+¡Ánimo y como padrino espero que os salga bien!</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-9077">
+		<article id="comment-9077" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='http://www.fernandoval.es/' rel='external nofollow' class='url'>aaromnido</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-9077"><time datetime="noviembre 27th, 2010">
+								2010 / noviembre / 27, sábado 10:21 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Gracias por todo, padrino&#8230; 😀</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-even depth-1" id="li-comment-14371">
+		<article id="comment-14371" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='http://www.louesfera.com/' rel='external nofollow' class='url'>Louesfera</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-14371"><time datetime="mayo 12th, 2011">
+								2011 / mayo / 12, jueves 1:03 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola Diego. Pues te animo a venir a la de Murcia ;). Fue ayer la primera reunion y habia mucho mas gente que lo esperado.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-14373">
+		<article id="comment-14373" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-14373"><time datetime="mayo 12th, 2011">
+								2011 / mayo / 12, jueves 1:16 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Hola!<br />
+No me tientes, no me tientes, que ya las podríais hacer en El Cornijal&#8230; O en la Plaza de las Flores&#8230; y me tenéis que echar con agua caliente y una espátula 🙂</p>
+<p>Me alegro de que tuviéseis overbooking. A programar se ha dicho!</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-14376">
+		<article id="comment-14376" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='http://www.louesfera.com/' rel='external nofollow' class='url'>Louesfera</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-14376"><time datetime="mayo 12th, 2011">
+								2011 / mayo / 12, jueves 1:48 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Diego, ya veo que te recuerdas los buenos sitios de tu ciudad de origen ;-).<br />
+Pues que sepas que quedas invitado y como no, recibido como una RockStar de la AppStore española :-).</p>
+<p>un saludo iOSero&#8230;</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-43516">
+		<article id="comment-43516" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">XuS</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-43516"><time datetime="mayo 2nd, 2012">
+								2012 / mayo / 2, miércoles 9:59 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Me siento identificado en el 90% sobretodo en lo del deterioro neuronal y por lo solo que se siente uno leyendo y probando. Estoy por montar mi nscoder_xxx de mi ciudad. Saludos</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor even depth-2" id="li-comment-43558">
+		<article id="comment-43558" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comment-43558"><time datetime="mayo 3rd, 2012">
+								2012 / mayo / 3, jueves 6:52 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Pues ni te lo pienses, y móntala. Si consigues quedar, aunque sea con otra persona, ya tendrás compañero para hablar de los problemas que te surgen, compartir código, etc.<br />
+¡Ánimo!</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+			<p class="no-comments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search" class="widget widget_search">
+				<form method="get" id="searchform" class="searchform" action="/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" id="searchsubmit" value="Search" />
+	</form>
+		</aside>
+	</div><!-- #secondary -->
+
+	</div><!-- #main -->
+</div><!-- #page -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div id="footer-wrapper">
+		<div class="site-info">
+			<div id="site-info-wrapper">
+				<div id="site-info-wrapper2">
+										&#169; Copyright 2014 <a href="/">freniche.com</a>. Powered By <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">WordPress</a>.
+					<br />
+					Designed & Crafted by <a href="http://wpshower.com/">Wpshower</a>.
+				</div>
+			</div>
+		</div><!-- .site-info -->
+		<div id="social">
+			<div id="social_wrapper">
+				<div id="social_wrapper2">
+						<a href="https://twitter.com/dfreniche">w</a>
+						<a href="http://feeds.feedburner.com/dfreniche">r</a>
+					</div>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"es-ES","strings":{"Close":"Cerrar","Fullscreen":"Pantalla completa","Turn off Fullscreen":"Salir de pantalla completa","Go Fullscreen":"Ver en pantalla completa","Download File":"Descargar archivo","Download Video":"Descargar v\u00eddeo","Play":"Reproducir","Pause":"Pausa","Captions\/Subtitles":"Pies de foto \/ Subt\u00edtulos","None":"Ninguno","Time Slider":"Control de tiempo","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Reproductor de v\u00eddeo","Audio Player":"Reproductor de audio","Volume Slider":"Control de volumen","Mute Toggle":"Desactivar sonido","Unmute":"Activar sonido","Mute":"Silenciar","Use Up\/Down Arrow keys to increase or decrease volume.":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.13'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/wpshower-responsive-videos.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery.mousewheel.js?ver=3.1.6'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/fancybox/jquery.fancybox.js?ver=3b1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/markdown.min.js?ver=1.5.1'></script>
+
+</body>
+</html>

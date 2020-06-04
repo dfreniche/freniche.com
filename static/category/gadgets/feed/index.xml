@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gadgets &#8211; freniche.com</title>
+	<atom:link href="/category/gadgets/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi ThinkPad x61s</title>
+		<link>/2014/08/29/mi-thinkpad-x61s/</link>
+		<comments>/2014/08/29/mi-thinkpad-x61s/#comments</comments>
+		<pubDate>Fri, 29 Aug 2014 12:18:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Levono]]></category>
+		<category><![CDATA[SSD]]></category>
+		<category><![CDATA[ThinkPad]]></category>
+		<category><![CDATA[x61s]]></category>
+
+		<guid isPermaLink="false">/?p=2221</guid>
+		<description><![CDATA[Hace ya tiempo que venía temiendo esto. Sentía una irresistible atracción del abismo. Ganas de tener un PC. Con Linux y Windows. Sí. Después de usar Macs desde el 2008, aún no he sido capaz de desintoxicarme del todo de la «infección» Linuxera&#8230; Además, tenía ganas de un ThinkPad. Hay quién dirá que son feos. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/08/x61s.jpg"><img src="/wp-content/uploads/2014/08/x61s.jpg" alt="Mi x61s" width="1024" height="768" class="aligncenter size-full wp-image-2229" srcset="/wp-content/uploads/2014/08/x61s.jpg 1024w, /wp-content/uploads/2014/08/x61s-300x225.jpg 300w, /wp-content/uploads/2014/08/x61s-920x690.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Hace ya tiempo que venía temiendo esto. Sentía una irresistible <em>atracción del abismo</em>. Ganas de tener un PC. Con Linux y Windows. Sí. Después de usar Macs desde el 2008, aún no he sido capaz de desintoxicarme del todo de la «infección» Linuxera&#8230; Además, tenía ganas de un ThinkPad. Hay quién dirá que son feos. Otros, que son funcionales. A mi me molan, con esa estética industrial y <em>aburrida</em>. Así que me puse a buscar en las webs de segunda mano.</p>
+<h1>El modelo escogido</h1>
+<p>Estuve viendo los distintos ThinkPads que pululaban por ahí. No me apetecía nada grande, y vi que había modelos de sólo 12”, como el X200, lo que me parece el tamaño perfecto. Encima, las pantallas son mate. Echo de menos la pantalla mate de mi MBP de 2008, pero en Apple las han dejado de poner como opción y no queda otra que aguantarse. La de mi MBP actual de 13” tiene demasiados reflejos…</p>
+<p><a href="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg"><img src="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg" alt="x61s vs Macbook Pro 13" width="1024" height="768" class="aligncenter size-full wp-image-2226" srcset="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg 1024w, /wp-content/uploads/2014/08/x61s_vs_macbook13-300x225.jpg 300w, /wp-content/uploads/2014/08/x61s_vs_macbook13-920x690.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Así que la duda estaba entre el TP x200 y el 201, mucho más moderno. Hasta que descubrí el x61, con su pantalla <strong>no panorámica</strong>. Sí, un portátil con relación de aspecto 4:3 en estos días. La pantalla no panorámica me recuerda a mi primer portátil, un Toshiba Satellite. Al no ser 16:9 es incluso más pequeño en sus 12&#8243;, lo que lo hacía más apetecible (para mi) si cabe. Y hay un modelo, el x61s, que es un poco más ligero. Finalmente, por 100 € he conseguido uno con la Ultrabase X6.</p>
+<p>Esta base es una <em>docking station</em> que amplía los puertos del TP, permitiendo que se cargue mientras está pinchado en ella. Para liberarlo primero debemos pulsar en un botón que informa al SO del evento y le permite desmontar aquellos recursos de la Ultrabase que estemos usando en ese momento. Tras esto, una pequeña palanca libera físicamente el X61. En la Ultrabase encontramos una mezcla perfecta (de nuevo, <em>para mi</em>) de tecnología moderna y <em>retro</em>, algo que se repite con el propio portátil. Junto a puertos serie y paralelo «pata negra» hay varios USB y un caddy que en mi caso tenía instalada una unidad lectora/grabadora de DVD. Pero que puede alojar una segunda batería (útil para viajes largos sin una fuente de alimentación a mano, p.ej.) o, mucho más interesante, una segunda unidad de disco. Una jugada maestra de ampliación podría ser ponerle un SSD baratito al x61S y aprovechar el disco que actualmente tiene en la Ultrabase como expansión de datos.</p>
+<p>El portátil en sí lo he equipado con 4GB de RAM y lleva un Core 2 Duo a 1.6 Ghz, lo que si bien no es mucho me permite ejecutar cualquier S.O. de 64 bits sin problemas. Venía con un HD de 140 GB. El teclado me encanta, con un montón de teclas dedicadas a funciones especiales, como moverte adelante/atrás en el navegador de Internet (que en mi caso y en Windows siempre es Firefox). Y tiene detalles que sorprenden. Lector de SD (normal hoy en día) y ranura para PCMCIA. Me viene perfecto para usarlo con las varias tarjetas PCMCIA que tengo para mis Amiga. En lugar de teclado retroiluminado, tiene una pequeña luz led en la esquina superior izquierda de la pantalla mirando hacia abajo que puede encenderse por si quieres trabajar en la oscuridad. O el lector de huellas, que funciona a la perfección y es como inicio sesión en Windows. O el acelerómetro para aparcar las cabezas del HD en caso de caída&#8230;</p>
+<h1>Linux en 2014</h1>
+<p>Después de probar varias distros, no soy capaz de encontrar una que realice una tarea casi imposible de solucionar: poner el portátil en reposo correctamente al cerrar la tapa. Me niego a investigar nada, ni a leer nada. 2014 se acaba, igual que mi paciencia con ciertas cosas. Me duele ver estos problemas con el hardware a estas alturas del partido. Ahorraos los comentarios: vais a darme la misma retahíla de excusas que yo daba en el 98. Pero han pasado muchos años viendo siempre lo mismo: instalas Linux y no funciona <em>out of the box</em>. Sin esto, nunca será un S.O. tenido en cuenta por el usuario en el escritorio.</p>
+<p>Supongo que lo volveré a intentar, porque soy un cabezón, pero de momento se queda con Win 7 Ultimate 64 bits.</p>
+<h1>SSDs</h1>
+<p>Al final, dada mi manía de llevar mi hardware al extremo (si es posible) y porque soy un cacharrero enfermizo, le he puesto un SSD a la máquina. He comprado, por un lado un Caddy para la Ultrabase, en el que ahora mismo está el HD original del portátil y al que accedo como a un disco IDE cuando <em>pincho</em> el portátil en la base. Por otro, dado el precio al que se están poniendo los SSDs me he comprado un <a href="http://www.amazon.es/gp/product/B00A1ZTZOG/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1">Kingston SSDnow</a> por 55 Eur. Este SSD soporta SATA III, mientras que la BIOS del x61s soporta inicialmente SATA I. Menos mal que hay una BIOS que se puede <em>flashear</em> (la <a href="http://forum.notebookreview.com/lenovo/459591-t61-x61-sata-ii-1-5-gb-s-cap-willing-pay-solution-8.html#post6501443">BIOS <em>Middleton</em></a>) y que te da soporte SATA II. Ahora el disco va como un tiro.</p>
+<p><a href="/wp-content/uploads/2014/08/kingston_ssd.jpg"><img src="/wp-content/uploads/2014/08/kingston_ssd.jpg" alt="Kinsgston SSD" width="1024" height="1365" class="aligncenter size-full wp-image-2222" srcset="/wp-content/uploads/2014/08/kingston_ssd.jpg 1024w, /wp-content/uploads/2014/08/kingston_ssd-225x300.jpg 225w, /wp-content/uploads/2014/08/kingston_ssd-768x1024.jpg 768w, /wp-content/uploads/2014/08/kingston_ssd-920x1226.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/29/mi-thinkpad-x61s/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>La gran golfada de Samsung</title>
+		<link>/2014/06/16/la-gran-golfada-de-samsung/</link>
+		<comments>/2014/06/16/la-gran-golfada-de-samsung/#comments</comments>
+		<pubDate>Mon, 16 Jun 2014 15:39:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[caraduras]]></category>
+		<category><![CDATA[golfos]]></category>
+		<category><![CDATA[Impresora]]></category>
+		<category><![CDATA[Konver]]></category>
+		<category><![CDATA[Sansung]]></category>
+
+		<guid isPermaLink="false">/?p=2198</guid>
+		<description><![CDATA[Pese a que la mayoría de mis ordenadores son Macs estos días (aunque también tengo y uso mi viejo Dell Inspiron 9400 y un ThinkPad X61, en el que estoy escribiendo esto ahora mismo) soy un entusiasta de la tecnología en general. Esto me lleva a tener chismes de varias marcas, colores y tamaños. En [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pese a que la mayoría de mis ordenadores son Macs estos días (aunque también tengo y uso mi viejo Dell Inspiron 9400 y un ThinkPad X61, en el que estoy escribiendo esto ahora mismo) soy un entusiasta de la tecnología en general. Esto me lleva a tener <em>chismes</em> de varias marcas, colores y tamaños. En cuestión de impresoras siempre he tenido una Samsung.</p>
+<p>La primera que tuve, una ML1510, LASER monocromo, no hacía nada más que imprimir. Ni nada menos. Ni inalámbrica, ni colores, ni escáner, ni nada de nada. Pero funcionaba. La compré nueva, muy bien de precio, hace un montón de años. Hoy en día imprimo pocas cosas: las facturas y algunos documentos para la gestoría que me lleva las cuentas, dibujos para que mis hijos coloreen y algún que otro documento. Así que, por mí, la hubiera usado hasta el infinito y más allá. Pero empezó a dar problemas mecánicos. Se atascaba siempre. Y era frustrante intentar imprimir algo. No podía. Así que la regalé, junto con un cartucho nuevo de tóner, a un compañero de la <a href="http://nscoder-sev.tumblr.com/">NSCoder Night de Sevilla</a>. Y me compré una nueva.</p>
+<p>En esta ocasión, entre las más baratas busqué una Samsung que tuviera escáner, por aquello de poder digitalizar documentos. Y porque si la anterior Samsung me había ido bien, para qué cambiar. Así que me hice por poco más de 100 Eur. con una Samsung SCX-3400. Es impresora y también escáner. De paso, es <em>fotocopiadora</em> (es decir, que escanea cosas y las imprime <em>sin</em> tu ordenador de por medio, de forma autónoma). Venía con un cartucho, que estaba seguro iba a durar poco, pero dado que imprimo también poco, no había problema.</p>
+<p>Efectivamente, al año el cartucho empezó a avisarme de que se terminaba. Sin problemas, compremos uno nuevo. No se lo que habré imprimido en este año, pero ya sabíamos que el primer cartucho viene medio vacío. Miro los precios y me encuentro con que un cartucho nuevo, original de Samsung cuesta casi tanto como la impresora. ¿Cómo? Esa era la táctica que empleaban con las impresoras de chorro de tinta, pero no lo había visto con las LASER baratas. Supongo que como son para consumidores, han adaptado la técnica a los nuevos tiempos.</p>
+<p>Pues me niego. Busqué en Amazon y encontré cartuchos compatibles Samsung en venta por un precio más que razonable. Había visto vídeos en Youtube mostrando cómo recargar tu propio cartucho con tóner, pero me parecía un follón y tampoco me ahorraba tanto, así que preferí ir a lo seguro (que alguien que lo sepa rellenar lo rellene) y pedí el compatible a <a href="http://www.amazon.es/gp/node/index.html?ie=UTF8&amp;marketplaceID=A1RKKUPIHCS9HS&amp;me=A0826674ZOJLM6I8IWO4&amp;merchant=A0826674ZOJLM6I8IWO4&amp;redirect=true">KONVER, Distribuciones Informáticas</a>, que vende en la tienda de Amazon. Llegó enseguida, lo instalé en la impresora y durante unas semanas, todo fue perfecto.</p>
+<h2>Mi impresora ha muerto</h2>
+<p>De pronto, un día, enciendo la impresora, la conecto por USB al iMac y lanzo un par de páginas para que se impriman. Sigo con mis cosas sin darme cuenta de que la impresora no imprime. Tiene una luz roja. Vaya, debe ser un atasco. La miro, pero no. En el iMac hay un aviso de error. La impresora dice que no tiene tóner. Pero eso no puede ser, ¿no?. A fin de cuentas se lo he cambiado hace nada&#8230;</p>
+<p>Apago la impresora, vuelvo a encenderla&#8230; Nada. Cambio el cable USB&#8230; Nada. Empiezo a preocuparme y miro por Internet a ver si alguien ha tenido problemas similares y&#8230; ¡bingo! Docenas de problemas iguales. Veo vídeos por Youtube, leo en foros. Voy aprendiendo. Instalo los drivers y el software de Samsung en el Windows 8 que está en mi iMac en Bootcamp, por si puedo obtener más información&#8230; Nada de nada. Me desespero: cambio el cartucho para probar con el original, que está vacío y da error de tóner. Pero el nuevo lo mismo. Y lo peor es que, aunque esté <em>rellenado</em> es un cartucho Samsung <em>pata negra</em>.</p>
+<h2>El problema</h2>
+<p>Samsung ha decidido que puedes comprar cartuchos de tóner, pero sólo a ellos. Así que ha puesto un chip en cada cartucho. En ese chip hay un contador de páginas impresas. Cuando llegas a la «vida útil» que ellos estiman (o te imponen) que debe tener un cartucho se acabó. La impresora lee ese contador y te impide imprimir. La excusa de Samsung para hacer ésto: que de esa manera <em>te pueden avisar con su software y así puedes cambiar el tóner a tiempo</em>. Vamos, que tú no estás capacitado para saber cuándo está bajo el tóner: esos grises que no aparecen, la mala calidad, etc. no son una pista. No, te lo tiene que indicar un software que, curiosamente, te pone un enlace en un sitio prominente para que compres sus recambios en su tienda.</p>
+<p>Que no se me entienda mal. No me parece mal que Samsung quiera vender sus cartuchos. E incluso que pongan el enlace a su tienda puede ayudar al que no sepa dónde comprar (aunque lo dudo). Lo que me parece una golfada absoluta es que pongan un contador de páginas <em>en el cartucho</em> en lugar de <em>en la impresora</em>. Desde la impresora te podrían indicar perfectamente: <em>«lleva usted impresas 1.500 páginas desde el último cambio de cartucho y pensamos que es hora de que lo cambies. Si empiezas a imprimir y te da asco lo que ves, que conste que no se te ha roto la impresora: es que eres un tacaño».</em></p>
+<h2>La solución</h2>
+<p>Pasa por resetear el contador del cartucho. Es decir, borrar el chip del cartucho y ponerlo a cero, como si fuera nuevo, lo cual, si has rellenado el cartucho con tóner nuevo se aproxima bastante a la realidad. Por Internet vi que había gente que vendía programas para hacerlo, pero ante la duda en si gastarme otros 12 USD para arreglar un cartucho que debía venir bien, me puse en contacto con Konver a través del formulario de Amazon. Les conté mi odisea y les pregunté qué podía hacer. Bien, <em>no sólo me respondieron súper rápido, sino que me dieron la solución a mi cartucho</em>. Me proporcionaron un programa (<em>sorry, no lo voy a pasar, contacta con tu distribuidor, ese no es mi departamento</em>) con el que borrar el cartucho. No puedo dejar de estarles súper agradecido. Hay momentos en los que ya no sabes qué pasa y que te solucionen un problema así te alegra el día. Aquí tienen a un cliente de por vida.</p>
+<p>El caso es que para resetear el cartucho tuve que lanzar un programa desde Windows (en este caso, desde mi ThinkPad x61) y <em>flashear</em> la memoria del cartucho. Conectado por USB le <em>subí</em> un programa a la impresora.</p>
+<p><a href="/wp-content/uploads/2014/06/uploading_toner_bios-e1402932822448.jpg"><img src="/wp-content/uploads/2014/06/uploading_toner_bios-e1402932822448.jpg" alt="Mi impresora mientras borro el contador" width="1024" height="768" class="aligncenter size-full wp-image-2201" /></a></p>
+<p>Sí, he grabado la memoria de <em>un cartucho de tóner</em>. Lo siguiente va a ser actualizar el firmware de la tostadora&#8230;</p>
+<p>Pues ¡milagro!. Una vez borrado el contador de los golfos estos, listo. La impresora me reconoce el cartucho reciclado (que es de Samsung, insisto) como nuevo, hay luz verde y la vida es bella.</p>
+<h2>Conclusiones</h2>
+<p>Entiendo que Samsung quiera vender cartuchos y quiera traer ese modelo de negocio en el que los consumibles son más caros que la máquina que los consume. Están en su derecho. Pero eso se avisa. Se indica claramente: <em>cada cartucho es de un solo uso y no puede reutilizarse</em>. Y con esa información <strong>y mi dinero</strong> tomo una decisión informada de compra. Encontrarte esto cuando ya has comprado la impresora te cabrea, y no es una buena técnica, ya que encima se puede saltar fácilmente. Y sólo queda el cabreo.</p>
+<p>Ni que hablar de lo anti-ecológico y carísimo que es andar tirando cartuchos de tóner. O del desprecio al usuario, al que se trata por tonto. Mal hecho, Samsung. No hay galleta.</p>
+<p>No puedo dejar de pensar en qué pasaría si estas cositas las hicieran Microsoft o Apple&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/16/la-gran-golfada-de-samsung/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Simplificando algo mi vida digital (y la otra)</title>
+		<link>/2014/05/01/simplificando-algo-mi-vida-digital-y-la-otra/</link>
+		<comments>/2014/05/01/simplificando-algo-mi-vida-digital-y-la-otra/#comments</comments>
+		<pubDate>Thu, 01 May 2014 09:06:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[filosofía]]></category>
+		<category><![CDATA[LinkedIn]]></category>
+		<category><![CDATA[minimalismo]]></category>
+		<category><![CDATA[Redes Sociales]]></category>
+		<category><![CDATA[Reflexiones]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">/?p=2149</guid>
+		<description><![CDATA[Minimalismo. Simplificar. Preocuparme por menos cosas. Preocuparme menos por las cosas. La vida ya es suficientemente complicada. Y yo tiendo a complicarla aún más. Acumulando ordenadores. Acumulando teléfonos. Acumulando programas. Acumulando libros, vídeos, podcasts, música, comics. Acumulando. Libros que a veces no se leen. Vídeos para los que no tengo tiempo. Podcasts que no escucho. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Minimalismo. Simplificar. Preocuparme por menos cosas. Preocuparme <em>menos</em> por las cosas.</p>
+<p>La vida ya es suficientemente complicada. Y yo tiendo a complicarla aún más. Acumulando ordenadores. Acumulando teléfonos. Acumulando programas. Acumulando libros, vídeos, podcasts, música, comics. Acumulando.</p>
+<p>Libros que a veces no se leen. Vídeos para los que no tengo tiempo. Podcasts que no escucho. Me sorprendí a mí mismo cuando me creé una lista en iTunes con todas las canciones que tenían 0 reproducciones. ¡Había un montón!. Prueba a hacer ese ejercicio: igual te sorprendes. Y recuerdo que siempre me he reído de la gente que compraba libros y luego no los leía. Hasta que me he puesto a revisar mis estanterías&#8230;</p>
+<p>Acumular cosas tiene muchos problemas. Primero, gastas dinero en comprar el objeto. Luego, tienes que ponerlo en algún sitio. Ponerlo ahí cuesta dinero: si no tuviera nada, tendría una casa más amplia, sin estanterías. Ese es un extremo. Pienso que hay que tener el número suficiente de cosas. <a href="http://minimalmac.com/">Enough</a>, como dice Patrick Rhone. No me planteo vivir en una cueva. Pero lo cierto es que, cuantas más cosas poseas, de más cosas te tienes que preocupar. Ocupan espacio físico y mental. Y eso cansa.</p>
+<p>Acumular cansa. Y no te hace feliz. Compramos por una promesa, por la promesa de que ese objeto te hará más feliz. El colmo son esos anuncios de coches que te dicen que atarte a un préstamo para comprar un coche que no necesitas te va a hacer libre. Y vas a poder conducir por carreteras vacías mientras se pone el Sol. Eso nunca pasa. Y lo puedes hacer también con tu viejo coche, de paso.</p>
+<p>Un ejemplo son mis ordenadores. Recuerdo cuando sólo tenía mi PC, mi viejo 286. No podía hacer otra cosa que sacarle partido, al máximo. Y lo exprimía. Ahora tengo varios. Y todos tienen su función, y bastante uso. Pero a veces siento la tentación de quedarme sólo con uno. Sólo uno para gestionar, actualizar, hacer copia de seguridad. Tener varios crear <em>trabajo</em>.</p>
+<p>Otro son las redes sociales. Desde hace años tengo una sana política: no me doy de alta en ninguna nueva (a no ser, claro, que seas Google + y te <em>den</em> de alta al poner el microondas por la mañana). Ya tengo más que de sobra.</p>
+<p>Mis redes actuales son:</p>
+<ul>
+<li>Twitter. La que más uso, con mucha diferencia. Para estar informado (de las cosas de programación que me interesan). Para charlar con gente a la que admiro y sigo.</li>
+<li>Facebook. La uso bastante menos. Borraría el perfil, pero es el único punto de contacto que mantengo con algunas personas.</li>
+<li>Redes de geolocalización, o de check-ins, o como se llamen. Usaba Gowalla, pero la compró Facebook y la cerraron. No me he apuntado en Foursquare. No le veo sentido. Una menos.</li>
+<li>Fotos. Flickr. Paso de 500px, o de Pinterest, o de otras. Simplificar: Flickr me da backup infinito de mis fotos (si es que las quiero subir, que esa es otra cuestión). Y puedo crear álbumes. Que sí, que está Picasa. Pero hay que elegir: mejor una y usarla que tener varias cuentas y no aprovecharlas.</li>
+<li>Mensajería. No le veo sentido a tener BBM, iMessage, Skype, Whatsapp, Telegram, Line y las otras 100 que salen cada mes. De las anteriores, para mensajería, uso Whatsapp sobre todo. E iMessage porque viene con el iPhone. Skype lo uso para llamadas. En el resto, no me he dado de alta.</li>
+<li>Trabajo. Uso mucho LinkedIn. Tenía cuenta en Xing. Hasta hoy. He borrado mi perfil. Una menos de la que preocuparme. Menos correos recibidos. Y todas las actualizaciones en LinkedIn. </li>
+</ul>
+<div id="attachment_2150" style="width: 706px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/05/xing.png" alt="Borrando mi cuenta en Xing" width="696" height="292" class="size-full wp-image-2150" srcset="/wp-content/uploads/2014/05/xing.png 696w, /wp-content/uploads/2014/05/xing-300x125.png 300w, /wp-content/uploads/2014/05/xing-535x224.png 535w" sizes="(max-width: 696px) 100vw, 696px" /><p class="wp-caption-text">]<a href="/wp-content/uploads/2014/05/xing.png">2</a> Borrando mi cuenta en Xing</p></div>
+<p>Tengo ganas de simplificar. De simplificar mucho más. Creo que voy a empezar de nuevo otro ciclo de venta/donación/reciclaje de cosas. Quiero tener pocas cosas, y buenas. Y que use mucho. Y no acumular.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/05/01/simplificando-algo-mi-vida-digital-y-la-otra/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Mi máquina de escribir minimalista</title>
+		<link>/2013/09/08/mi-maquina-de-escribir-minimalista/</link>
+		<comments>/2013/09/08/mi-maquina-de-escribir-minimalista/#comments</comments>
+		<pubDate>Sun, 08 Sep 2013 09:04:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[filosofía]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[zen]]></category>
+
+		<guid isPermaLink="false">/?p=2011</guid>
+		<description><![CDATA[O gafapasta, que parece que viene a ser lo mismo. Pero no lo es. El gafapastismo es un término que ha venido a sustituir al snob de toda la vida. Es el listo que adopta una estética determinada y habla de unos temas determinados, casi siempre como dándole asco el mundo. Se es gafa pasta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<img src="/wp-content/uploads/2013/09/iPad-keyboard1.jpg" alt="Mi iPad con teclado Logitech" class="size-full wp-image-2052" srcset="/wp-content/uploads/2013/09/iPad-keyboard1.jpg 1024w, /wp-content/uploads/2013/09/iPad-keyboard1-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-keyboard1-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>O <a href="http://www.frikipedia.es/friki/Gafapasta"><em>gafapasta</em></a>, que parece que viene a ser lo mismo. Pero no lo es. El <em>gafapastismo</em> es un término que ha venido a sustituir al <em>snob</em> de toda la vida. Es el <em>listo</em> que adopta una estética determinada y habla de unos temas determinados, casi siempre <em>como dándole asco el mundo</em>. Se es gafa pasta por querer destacar y, como las animadoras de los institutos americanos, por querer ser más popular.</p>
+<p>El movimiento minimalista (o la moda, como prefieras) tiene raíces filosóficas mucho más profundas, basadas en el budismo y, muchas veces, en el budismo Zen. Dado que el sufrimiento lo provoca el deseo, la forma más rápida y efectiva de ser feliz es no sufrir, atacando a la causa (no al síntoma). Si somos infelices, podemos comer de más, o sufrir estrés. Podemos ponernos a dieta, o ir a que nos den un masaje, pero es más efectivo <em>entender</em> qué nos está pasando, por qué no estamos a gusto ahora mismo con nuestra vida y darnos cuenta, muchas veces, que sólo es porque deseamos cosas que no tenemos. Y que no nos hacen falta. Ser más alto, más guapo, tener el último coche o teléfono. Tener cosas no va a tapar el vacío que muchas veces sentimos dentro. Lo único que puede taparlo es conocerlo, comprender que se está creando por el deseo de una fantasía que nosotros imaginamos (que seremos más felices con ese nuevo pantalón o ligaremos más con el desodorante). Y entonces eliminar el deseo y ser felices <em>con lo que ya tenemos</em>.</p>
+<p>Como comenta <a href="http://zenhabits.net/">Leo Babauta</a> (unos de los <em>Gurús</em> en esto del minimalismo) la clave no está tampoco en no tener nada y dar la espalda al mundo. La clave está en tener aquellas cosas que realmente nos sirven, tienen un propósito en nuestra vida y nos hacen felices. Si quieres leer más sobre este tema, te recomiendo <a href="http://zenhabits.net/little-book/">este e-book de Leo Babauta</a> (que encima es gratis)</p>
+<p>El caso es que mi iPad 3 ha encontrado su ocupación definitiva. Aunque lo uso para muchas otras cosas, como ver vídeos en su pantalla retina, vídeos de Youtube, o leer cómics, es como <em>máquina de escribir</em> como realmente lo aprecio. Me encanta sentarme ante una pantalla en blanco, con un cursor parpadeante, y empezar a escribir. Apago las notificaciones y sólo estamos la página en blanco y yo.</p>
+<p>Bueno, e <a href="http://www.iawriter.com/mac/">iA Writer</a>, la App que utilizo para escribir y que <em>adoro</em>. Además de guardar los documentos en local y en Dropbox, de tener una tipografía clara y limpia, de funcionar perfectamente con mi teclado/funda Logitech tiene algo especial: el modo foco. En este modo el texto ocupa toda la pantalla y se resaltan sólo tres líneas, quedando el resto en un gris claro. Esto me permite enfocarme en lo que estoy escribiendo, con cero distracciones.</p>
+<img src="/wp-content/uploads/2013/09/iPad-focus.jpg" alt="iAWriter - modo foco"  class="size-full wp-image-2057" srcset="/wp-content/uploads/2013/09/iPad-focus.jpg 1024w, /wp-content/uploads/2013/09/iPad-focus-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-focus-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Mucho está teniendo que ver con esta <em>adoración</em> la comodidad de llevar un teclado físico junto con el iPad a todas partes. Gracias a un aviso de <a href="http://emilcar.es/">Emilcar</a> por Twitter este verano me compré en Macníficos una funda de aluminio Zagg con teclado Logitech, por un precio de risa, 25 Eur. Sí, es un modelo antiguo, y es cierto que ahora los hay más sencillos, más bonitos, <em>que te harán más feliz</em>. Pero volvemos a lo del minimalismo: este teclado es muy bonito y funciona perfectamente. No necesito comprar el último que ha salido por 80 € si puedo tener este por un tercio del precio. Este ya me hace feliz. Antes usaba uno de mis teclados BT Apple para escribir con el iPad. Pero eran dos cosas <em>sueltas</em> en la mochila. Ahora, una vez cerrado, el iPad queda protegido y forma un conjunto muy sólido y compacto con el teclado. Lo que le añade peso, claro (estamos hablando de otra capa de aluminio), pero algo malo había de tener. El teclado es fantástico para escribir, tiene atajos para copiar, cortar y pegar, para <em>despertar</em> el iPad y se empareja instantáneamente. Te puedes mover por el texto con los cursores. Hasta funcionan los atajos de Safari. Además, dispone de unos imanes para que el iPad se suspenda y despierte al separarlo del teclado.</p>
+<img src="/wp-content/uploads/2013/09/iPad-closed.jpg" alt="iPad cerrado en su funda" class="size-full wp-image-2059" srcset="/wp-content/uploads/2013/09/iPad-closed.jpg 1024w, /wp-content/uploads/2013/09/iPad-closed-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-closed-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Esta es mi máquina de escribir <em>portable</em>. Cierto es que un iPad más un teclado cuestan <em>mucho más</em> que una máquina de escribir. Cierto es también que pesan y ocupan mucho menos y me sirven para otra infinidad de cosas. Todos los posts del blog se escriben aquí. Y el resto de cosas que voy escribiendo (desde emails largos hasta material para mis cursos) poco a poco van acabando aquí.</p>
+<p>Una pantalla en blanco y un cursor parpadeando. Me recuerda a mi AMSTRAD CPC después de hacer un CLS. Hay veces que hace falta poco para ser feliz.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/08/mi-maquina-de-escribir-minimalista/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>La era Nexus</title>
+		<link>/2013/08/30/la-era-nexus/</link>
+		<comments>/2013/08/30/la-era-nexus/#comments</comments>
+		<pubDate>Fri, 30 Aug 2013 08:45:42 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Nexus]]></category>
+		<category><![CDATA[Tablets]]></category>
+
+		<guid isPermaLink="false">/?p=2005</guid>
+		<description><![CDATA[Soy un fanboy de Apple. O eso dicen cuando me escuchan poner a caer de un burro las carencias de Android (especialmente de cara a los desarrolladores). Pero se ve que no me escuchan quejarme de los problemas que tienen los dispositivos Apple (o el software, como esas notificaciones modales para decirte que no se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Soy un fanboy de Apple. O eso dicen cuando me escuchan poner <em>a caer de un burro</em> las carencias de Android (especialmente de cara a los desarrolladores). Pero se ve que no me escuchan quejarme de los problemas que tienen los dispositivos Apple (o el software, como esas notificaciones modales para decirte que no se puede descargar el correo, <em>WFT</em> con mayúsculas en iOS). Sordera selectiva, se llama.</p>
+<p>Soy un fanboy de Apple, pese a tener (y usar) un Lumia 800 con Windows Phone, un Nexus 4 con Android 4.3 o una Blackberry Z10 con BB10. Sin contar la <a href="/2011/12/13/mi-touchpad/">Touchpad de HP</a> con webOS, la BB PlayBook con Qnx, el N900 de Nokia o mi primer smartphone, un <a href="/2008/05/03/haciendo-el-enjuto-mojamuto-con-mi-pda/">Windows Mobile 5</a>. Creo que soy un fanboy de la tecnología en general, y de la tecnología móvil en particular. <em>Me gusta todo aquello que caliente silicio</em> (1ª Ley Freniche de cómo la tecnología te pone <em>Palote</em>)</p>
+<p>Soy un fanboy de Apple, pero llevo casi dos meses usando como teléfono principal, sin descanso, un Nexus 4. Y lo complemento muchas veces con mi tableta Nexus 7 primera edición. Y ambos me gustan. Mucho.</p>
+<h2>Cómo comprar un Nexus</h2>
+<p>El Nexus 4 lo compré por necesidad. En Diciembre del año pasado vendí mi iPhone 4 y estuve tirando con el 3Gs, al que, por desgracia, se le notaba cada vez más la edad. El Lumia 800 me rescataba a veces, pero a la plataforma Windows Phone le faltaba el empuje que probablemente le de el nuevo Lumia 1020. Y no tenía la Z10 en esas fechas. Un día, desesperado por la lentitud del 3Gs con los mapas (y gracias a que <em>estaba de suerte</em>) pude comprar el Nexus 4 más pequeño, el de 8GB.</p>
+<p>Digo estar de suerte, porque esta fue la primera cosa que me chocó. No había stock en la página de Google del Nexus 4. A veces había, otras no. Y lo único que te recomendaba Google era que «volvieras a mirar pasado un tiempo». ¿Perdón?. ¿Volver luego?. Esto te pasa en una tienda online y no vuelves nunca. De aficionados. Nunca como entonces vi claro la diferencia entre Apple y Google.</p>
+<p>El negocio de Apple está claro: venderte el dispositivo, y es muy raro que te dejen salir «vivo» de su tienda online si entras con la tarjeta de crédito en la mano. Cuando lanzan nuevos productos puedes «reservar» el producto. Cuando se agotan la cosa es aún más astuta e insidiosa: te dejan comprar, pero el plazo de entrega «aproximado» es de 4 semanas. Es decir, que tú pagas por adelantado y con ese dinero (que ya tienen), fabrican el iPhone que te venden. Como probablemente paguen con retraso a sus proveedores, es el negocio redondo, la genialidad a la que todo el mundo aspira: ganar montañas de pasta sin arriesgar un euro, sabiendo de antemano el número de dispositivos que tengo que fabricar y a dónde enviarlos, con lo que optimizo los envíos, etc. Lo dicho: perfecto.</p>
+<p>Frente a esto, Google es una vendedora de anuncios on line, pero poco más. Decir que «se me han acabado», que no se cuándo tendré más, ni garantizarte una reserva, es lamentable. Se puede dar el caso de que alguien mire, vuelva a las dos semanas justo después de que yo compre, se quede sin su teléfono y tenga que volver a mirar. Algo a todas luces injusto. Casi parece que no quieren que se vendan estos teléfonos. Y yo estoy convencido de eso: <strong>Google no quiere que se vendan los Nexus</strong>. Los sacan casi <em>obligados</em> en las Google I/O, para demostrar las nuevas capacidades del S.O., pero no lo tratan como un producto que en sí mismo les genere beneficio. Además, en el caso del Nexus 4 si venden muchos le hacen la competencia a LG, que es su fabricante. Sólo pregúntate: ¿cuántos anuncios has visto en televisión de los Nexus (tabletas y teléfonos)?. Cero, ¿cierto?. Claro que puedes pensar: «es que la tele es cara». Aunque hablamos de Google, que no son precisamente pobres. Segunda prueba: ¿cuántos anuncios has visto en Youtube?.</p>
+<p>Y eso que el teléfono se vende solo. Una pantalla increíble, un diseño precioso, muy sólido. Un teléfono libre, con las últimas actualizaciones del S.O. Android por debajo de los 300 Eur. Perfecto. Quizás demasiado, y por eso Google no quiere venderlo (para no <em>molestar</em> a sus fabricantes). El caso es que es el teléfono de <em>los que se enteran</em> (Geeks, seguidores de Google y gente que está atenta a la evolución tecnológica). Pero no el de las masas, cuando debería serlo por muchas razones: precio, ser un terminal libre, características, software&#8230;</p>
+<h2>Hard</h2>
+<p>No voy a hacer ninguna <em>review</em> del Nexus 4 ni de la tableta Nexus 7. Hay montones en Internet. Sólo quiero llamar la atención sobre cosas que me hacen gracia, sobre todo porque fueron enormemente criticadas cuando se lanzó el primer (y segundo, y tercer) iPhone:</p>
+<ul>
+<li>¡no tienen un conector USB para ponerles un <em>pincho</em> USB!. Eso, al parecer, era uno de los pecados del iPad. Se ve que con el tiempo ha quedado demostrado que con Wifi y servicios en la nube (Dropbox, Skydrive, iCloud, etc.) no es necesario cargar con un pendrive. <em>El pendrive es la WiFi de los torpes</em>.</li>
+<li>siguiendo con el USB, vale, que no tengan entrada USB «gorda». Pero podrían soportar el modo USB On The Go con adaptadores microUSB-USB. Google es muy <em>open</em> con Android, pero para hacer esto necesitas hacerle root al teléfono. Fail.</li>
+<li>la batería de ambos es fija. No es intercambiable. Veo algunas similitudes con los dispositivos iOS. Aunque no puede ser ¿no?: las baterías fijas son algo del Averno.</li>
+<li>ídem con la tarjeta SD. Vamos, que no tienen. Curioso. Será para ahorrar costes, pero es que cada vez se parecen más al estándar que marca el iPhone.</li>
+<li>soporte para Flash. <em>¿Recuerda el Flash, abuela?</em> Pues eso.</li>
+</ul>
+<p>Ahora sí, tienen algunas cosas muy <em>innovadoras</em>:</p>
+<ul>
+<li>NFC. Perdón, <em>Android Beam</em>. No sirve para nada, pero está bonito tenerlo, para amontonarlo en listas de características inútiles. Si las fotos se suben automáticamente a Dropbox y G+ ¿para qué voy a tocar un dispositivo con otro para emparejarlos y pasarla por Wifi? ¡Si la foto ya está en Dropbox/Google +!. La marcas allí y se la mandas a quien quieras por correo, Twitter, Facebook&#8230; En fin, que hasta ahora NFC es una promesa pero no he visto un solo uso <em>útil</em> de esta tecnología en el mundo real. Usado por <em>personas normales</em>. Por cierto, cuando tocas el teléfono con la tableta por detrás, tienes que <em>apuntar bien</em> hasta que se activa el NFC. Lo que lleva a estar frotando los dispositivos, algo que no me gusta demasiado&#8230;</li>
+<li>cargador inalámbrico. Algo que excita mucho al que no ha tenido una tableta HP WouchPad con webOS y el cargador sin contacto TouchStone. Y el problema es que estos cargadores por inducción son lentos, <strong>muy lentos</strong>. Son muy chulos, la primera semana, y para hacer una demo <em>de lo que es capaz mi teléfono y no el tuyo</em>. Pero al final la base de carga debe estar enchufada, luego el <em>momento sin cables</em> se viene un poco abajo. Probadlo y me contáis.</li>
+</ul>
+<p>Las cosas realmente innovadoras para mí ya no son el hardware. Defender que <em>iOS es mejor que Android</em>, que <em>Android es mejor que iOS</em> o cualquier otra postura basándose en el hardware es absurda. Salvo raras excepciones, cualquier smartphone hoy en día tiene un hardware impresionante. Tanto, que por desgracia ya no nos maravillan. Por eso la gente dice que Samsung <em>no innova</em> con su S4, o que el próximo iPhone va a ser un fracaso. No es que no avancen: es que los avances no impactan tanto en nuestro uso diario. Una batería de una semana de duración sí sería un avance notable, por ejemplo. O un cristal <em>a prueba de balas</em> que no se rompa en la primera caída.</p>
+<h2>Apps</h2>
+<p>La clave es el ecosistema: Apps y mantenimiento del S.O.</p>
+<p>Y en el tema de las Apps la cosa ha cambiado mucho. Atentos, <em>haters</em> de iOS con lo que voy a decir: <strong>sólo me falta tener Things en el Nexus 4 (App de GTD) para poder prescindir de iOS y el iPhone</strong>. En mi caso, para lo que hago con el teléfono, tengo de todo. Repito, para que se vea bien lo <em>fanboy</em> que soy: <strong>uso un Nexus y me hace feliz, tanto que me planteo incluso cambiarme</strong>. Las Apps en Android no están tan bien acabadas como las de iOS, pero han mejorado en general mucho.</p>
+<p>Un inciso para que nadie olvide que soy un <em>Fanboy</em>. Las Apps de iOS son mejores que las Android. Esto es un hecho indiscutible, sólo hay que tener dos dispositivos iOS y Android y usarlos. Apple hace aplicaciones, como Pages, Garage Band o iPhoto / iMovie para iOS que son las mejores, no en iOS, sino en cualquier plataforma móvil. Google hace buenas Apps, pero creo que salvo Maps no tiene ninguna que sea tan <em>alucinante</em> como las anteriores de iOS. Y las que tiene buenas (Maps, G+, Gmail, Youtube) son iguales en iOS y en muchos casos, son mejores en este último (caso de Google Now).</p>
+<p>Por cierto, la aplicación de Mapas es muy chula. Además de ser un GPS casi perfecto, el detalle de ponerse en modo Street View al terminar un viaje es bastante chulo. También se equivoca a veces con las rutas, pero en general es una App que uso mucho y es muy buena. Google Now también me alucina, aunque es muy <em>creepy</em> y te sientes espiado cuando empieza a proponerte viajes basado en todo lo que ha recopilado de tu experiencia anterior. Por supuesto, Google nunca usará esos datos para venderte mejores anuncios (sabe si vives en un barrio con mayor o menor renta per capita, ve las veces que vas al cine, o de vacaciones, pero ellos nunca lo harán). <em>Don&#8217;t be evil</em>. <strong>My ass</strong>.</p>
+<p>Dicho todo esto, la cantidad y calidad de las aplicaciones son suficientes para que me plantee seriamente el cambio permanente a la plataforma Android. Bueno ¿permanente?. Llevo sin usar un iPhone desde Febrero, creo&#8230; Menudo <em>Fanboy</em>&#8230;</p>
+<h2>Las actualizaciones.</h2>
+<p>Esto es de lo que más me gusta. Es decir, estoy agradecido por tener un comportamiento <em>normal</em> en el resto de plataformas: que cuando salga una actualización pueda disponer de esas mejoras en mi teléfono o tableta inmediatamente.</p>
+<p>Pero por desgracia (para los desarrolladores) en el mundo Android esto es la excepción, no la norma. Incluso con un Nexus, tienes que esperar una cola que no entiendo (cuando hay actualizaciones de Apple llegan instantáneamente a todos los teléfonos, no hay que esperar dos semanas). Y no es que Google no sepa de infraestructuras de servidor grandes, que aguanten mucha carga. Es desidia, pura y dura. Si te venden los Nexus libres, y no hay un operador de telefonía por medio ¿cuál es la razón de que no se actualicen todos a la vez? Que no se le dedican los recursos necesarios porque <em>estos cuatro frikis que ya han sido maltratados cuando compraron el teléfono están domesticados y acostumbrados a esperar las migas que se caen de nuestro plato</em>. Al menos, esta es la sensación que se me quedó tras el I/O, esperando día tras día la actualización. O eso, o tienen un único Pentium III como servidor para las actualizaciones de Android.</p>
+<p>Además de tener la última versión, la respuesta y fluidez del teléfono y las Apps que uso (Evernote, la cámara, el correo, los navegadores: Firefox, Chrome y Opera, Swiftkey, los fondos animados, algún widget interesante, Dropbox, etc.) convierten este teléfono en una alternativa total a los Samsung Galaxy S4 de turno. Una persona <em>normal</em> le sacaría más partido (y le saldría más barato) si se comprara libre uno de estos. Pero se ve que no interesa: ni la operadora de turno te cuela un contrato de permanencia de 24 meses ni el fabricante saca un margen adecuado. Y por eso Google no lo publicita. Google fabrica los Nexus para su legión de adoradores, lo cual es triste. Porque deberían de estar al alcance de todos. Búscalos en El Corte Inglés. Suerte.</p>
+<p>Ahora vendrán los típicos comentarios: «Es que tú no sabes usar bien Android», «es que tienes que hacerle root al teléfono», «es que con el S.O. oficial no, pero con tal ROM cocinada puedes hacer tal o cual», «es que eres un fanboy». He usado Android desde la versión 1.6 (HTC Magic) y desarrollo para Android. Creo que tengo cierto conocimiento de causa. Los argumentos que escucho muchas veces no están basados en las ventajas que tenga Android de cara a los usuarios, sino al partido que pueden sacarle cuatro <em>geeks</em> al teléfono. Algo no al alcance de todos.</p>
+<h1>Nuevos precios y conclusión</h1>
+<p>Mientras escribía esto Google bajó los precios del Nexus 4 hasta los 200 Eur. A este precio, pese a cualquier molestia que puedas tener, <strong>no hay otro smartphone que le haga sombra</strong>. Por 200 Eur es imposible encontrar mejor hardware, con el S.O. siempre actualizado y la oferta de Apps de Android. Para mí, es la opción evidente. Porque además, <strong>es libre</strong>.</p>
+<p>Lo que me dejará un poso aún más amargo, ya que no se va a vender masivamente. Lo verás en las manos de muchos Geeks. Pero no en la de gente normal. Y la gente normal se merece este teléfono.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/30/la-era-nexus/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Organizando mi espacio de trabajo</title>
+		<link>/2013/07/29/organizando-mi-espacio-de-trabajo/</link>
+		<comments>/2013/07/29/organizando-mi-espacio-de-trabajo/#comments</comments>
+		<pubDate>Mon, 29 Jul 2013 11:06:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Freelance]]></category>
+		<category><![CDATA[oficina]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=1927</guid>
+		<description><![CDATA[El verano es tradicionalmente tiempo de reformas. No se por qué, pero nos ponemos a hacer obras siempre cuando hace más calor. Será porque hay más tiempo. Siguiendo esta tradición, me he lanzado a cambiar cómo tengo organizado el espacio en mi oficina en casa, moviendo mesas, recableando cosas, moviendo software entre ordenadores&#8230; Pero primero, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>El verano es tradicionalmente tiempo de reformas. No se por qué, pero nos ponemos a hacer obras siempre cuando hace más calor. Será porque hay más tiempo. Siguiendo esta tradición, me he lanzado a cambiar cómo tengo organizado el espacio en mi oficina en casa, moviendo mesas, recableando cosas, moviendo software entre ordenadores&#8230; Pero primero, un poco de historia.</p>
+<h2>Mi Oficina en casa</h2>
+<p>Dado que trabajo en casa (cuando no estoy por ahí <a href="/formacion/">impartiendo un curso</a> o en algún congreso) dediqué una habitación para tener un pequeño estudio. Inicialmente era una habitación de mi casa, que usábamos mi mujer y yo. En aquella época tenía un PC con Linux que hacía las veces de servidor y un portátil, mi <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">Dell Inspiron</a>, que aún conservo (para juegos retro y cacharreo con XP). Vinieron los niños, y esa habitación se usó como un cuarto para juegos. Así que me construí una habitación en el patio, desconectada del resto de la casa y allí puse la oficina. Esta es la solución ideal si tienes que trabajar en casa, pero no está al alcance de todo el mundo: si vives en un piso, directamente no puedes. Y en mi caso está justificada (creo) porque me dedico <em>profesionalmente</em> a trabajar desde casa.</p>
+<p>El caso es que cuando dispuse de la habitación, la llené de todos los chismes que tenía amontonados en el otro sitio. Libros, cómics, ordenadores, ordenadores retro (AMSTRAD, Spectrum, Amiga, etc.) y las cosas de trabajar. Dado que el hombre es un animal de costumbres, le mantuve a mi mujer su espacio reservado, su mesa. Y empecé a trabajar. Al principio, dado que tenía sitio, fui almacenando cada vez más cosas, sobre todo retro informática, con una suerte de Síndrome de Diógenes. Llegué a tener de todo, hasta tres Apple Power Mac G5 (que ocupan bastante sitio), junto con una serie de servidores Sun donados por <a href="http://www.isotrol.com/">Isotrol</a>, monitores, etc. Y allí trabajaba, entre el montón de cacharros y cosas.</p>
+<p>Dado que tendemos a llenar de cosas que no usamos cualquier hueco libre (primera <em>Ley de los chismes inútiles</em> de Diego Freniche) llegó un momento en que tenía muy poco sitio para mi. Y era un poco agobiante todo. Empecé a leer sobre <a href="http://minimaldesks.com/">tendencias</a> minimalistas, pero yo nunca he sido de esos, especialmente con mis «juguetes». Tuve que ser <em>minimalista obligado</em> cuando era un chaval y no podía tener el ordenador que quería. Ahora, si me apetece tener un cacharro (que vale muy barato normalmente o es incluso gratis) me lo compro y punto. Siguiendo algunas de estas premisas minimalistas (pero no todas) empecé a darme cuenta que tener tantas cosas me ocupaban espacio físico y mental, y me costaban dinero. <strong>Había construido una habitación para trabajar mejor, pero la realidad es que tenía un almacén</strong>. Así que empecé a dar, donar, ceder, tirar y vender todo aquello que no podía justificarme mantener. Me deshice de monitores de tubo, de mi PC, de todos los Power Mac G5, de un par de Macs retro que doné a la ETSII de la Universidad de Sevilla, impresoras de tinta&#8230;</p>
+<p>Pero seguía sintiendo que el espacio no estaba aprovechado. La mesa de mi mujer (que ya nunca viene al nuevo estudio) <a href="/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/">seguía allí</a>, y se amontonaba de papeles y cosas. La usan ahora mis hijos para colorear dibujos mientras que yo hago cosas en el ordenador. Pues bien, esto ha cambiado. He pensado que dando un cambio físico (que puedo ver) me forzaré a un cambio interno que me haga empezar de una vez, con el ritmo pausado pero intenso que quiero tener. <strong>Productividad sin agobios</strong>.</p>
+<p><a href="/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/">Hice una galería en 2011 mostrando cómo estaba entonces la oficina</a>. Por si quieres contrastar.</p>
+<h2>La nueva distribución de mesas</h2>
+<p>En una visita este pasado Invierno <a href="http://enteratec.com/">Migue Terrón</a> lo primero que me dijo al ver mi estudio fue «pon esas mesas en L». Parecía una buena idea, pero me parecía un sacrilegio <em>invadir</em> el espacio de mi mujer. Y un montón de trabajo. Finalmente me he puesto manos a la obra y así han quedado las mesas, en L. Pero no sabía qué hacer con los ordenadores. Si sólo tuviera uno no habría que pensar tanto, pero estos son los problemas que a veces nos creamos por la abundancia de recursos. Gestionar la abundancia ocupa tiempo. Por ejemplo, si sólo tienes un iPod, está claro cómo organizar tu música. Cuando tienes tres, les buscas un cometido a cada uno: «éste para los trayectos de casa al trabajo, con podcasts, éste para correr y el otro con mi música». Sí, pero ahora tienes que sincronizar tres aparatos.</p>
+<p><a href="/wp-content/uploads/2013/07/primer-intento.jpg"><img src="/wp-content/uploads/2013/07/primer-intento-300x225.jpg" alt="Pruebas con la mesas" width="300" height="225" class="aligncenter size-medium wp-image-1931" srcset="/wp-content/uploads/2013/07/primer-intento-300x225.jpg 300w, /wp-content/uploads/2013/07/primer-intento.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Tras varias pruebas y consultas por Twitter, vi la luz. Lo que necesito para sentir ese <em>boost</em> productivo es crear una zona de trabajo separada de la zona de juego. Actualmente uso el iMac para jugar tanto como para trabajar. Y creo que eso hace que no me ponga en <em>modo trabajo</em> al sentarme con el iMac. Como el portátil sólo lo uso para trabajar, si siento ese <em>cambio al modo ponte a currar</em> automático cuando lo enciendo.</p>
+<div id="attachment_1941" style="width: 310px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/07/oficina-300x198.jpg" alt="Resultado final" width="300" height="198" class="size-medium wp-image-1941" srcset="/wp-content/uploads/2013/07/oficina-300x198.jpg 300w, /wp-content/uploads/2013/07/oficina.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><p class="wp-caption-text">]<a href="/wp-content/uploads/2013/07/oficina.jpg">8</a> Resultado final</p></div>
+<h2>Mi mesa de trabajo</h2>
+<div id="attachment_1936" style="width: 310px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/07/mesa-trabajo-300x198.jpg" alt="Mi mesa de trabajo" width="300" height="198" class="size-medium wp-image-1936" srcset="/wp-content/uploads/2013/07/mesa-trabajo-300x198.jpg 300w, /wp-content/uploads/2013/07/mesa-trabajo.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><p class="wp-caption-text">]<a href="/wp-content/uploads/2013/07/mesa-trabajo.jpg">9</a> Mi mesa de trabajo, con el iMac 27&#8243;</p></div>
+<p>Es mi mesa de siempre, que he tenido que mover y poner frente a la ventana. Pronto pondré una cortina, para disminuir el resplandor, aunque uno puede esconderse tras las 27&#8243; del iMac sin demasiados problemas de deslumbramiento. En esta mesa sólo está el iMac. Lo he usado en los últimos años acompañado de una TV/monitor que me hacía de segunda pantalla. Algo muy útil, y de lo que me ha costado desprenderme. Pero me relaja ver la mesa sólo con el iMac, teclado, Magic Trackpad y Magic Mouse. A un lado de la mesa de trabajo, colgando de un soporte para poner la caja de un PC, está mi Drobo, la Time Capsule, un HD para guardar películas y un router Wifi con el que creo una segunda red inalámbrica en casa. Bajo la mesa están los SAIs, que dados los problemas de microcortes que tenemos aquí en El Saucejo, son imprescindibles. Y los cables se recogen (más o menos) en una bandeja porta cables de Ikea. Bajo la otra mesa, en la L, está la cajonera, que ahora no me agobia al sentarme.</p>
+<p>Ventajas de esta distribución: tengo mucho más espacio en la mesa, al tener menos chismes. Y bajo mis pies. La habitación parece mayor, y tengo la cajonera mejor situada.</p>
+<p>Desventajas: estoy sentado frente a la ventana, lo que puede deslumbrarme. Esto voy a solucionarlo con una cortina que me filtre el exceso de luz.</p>
+<h2>La mesa de juegos</h2>
+<p><a href="/wp-content/uploads/2013/07/mesa-juegos.jpg"><img src="/wp-content/uploads/2013/07/mesa-juegos-300x198.jpg" alt="La mesa de juegos" width="300" height="198" class="aligncenter size-medium wp-image-1939" srcset="/wp-content/uploads/2013/07/mesa-juegos-300x198.jpg 300w, /wp-content/uploads/2013/07/mesa-juegos.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>En la mesa de mi mujer he colocado todo lo necesario para cacharrear y jugar. Allí he llevado mi TV/Monitor, que utilizo para conectar mis retro ordenadores (Amiga 1200, Spectrum, Commodore) cuando quiero hacer algo con ellos. Esta TV está ahora conectada por un lado a mi Mac Mini G4 con MorphOS, y por otro a mi Mac Mini, que compré inicialmente para hacer de media center, pero que finalmente sirve, con bootcamp, para jugar (Windows) o trabajar (Mac).</p>
+<p>En esta mesa he colocado el Griffin Elevator para dejar el portátil cuando tengo que sincronizar ficheros o hacer algo. Cuando estoy en la oficina no suelo usar el portátil y tiendo a usar más mi iMac. Así que he <em>desterrado</em> al portátil de la mesa de trabajo. Esta segunda mesa dispone también de mucho más espacio, así que es más sencillo colocar los ordenadores retro cuando quiera. Le he dejado una silla más incómoda, para no estar tanto tiempo jugando.</p>
+<h2>Reorganización lógica</h2>
+<p>Ahora viene otra reestructuración, en la que hay que esforzarse pensando y no moviendo muebles. Y creo que es peor. Dado que voy a dedicar el iMac a trabajo, tengo que borrar los juegos y Steam del Mac. Todos los juegos van a ir en la partición Windows 7 del Mac Mini. Así, cuando me apetezca jugar, tendré que encender el ordenador y cambiarme de mesa, lo que lleva su rato y además es un aviso claro de <em>no estás trabajando, cuando a lo mejor es lo que deberías estar haciendo</em>. Así espero trabajar 100% en horario de trabajo, y descansar 100% en horario de descanso. Que si no, luego hay que echar tiempo los fines de semana y a deshora, y es un rollo. Trabajar cabreado, estresado y de noche no es nada minimalista ni gurusero. Es un tostón.</p>
+<p>Eso sí, esta reorganización la voy a hacer poco a poco, fraccionando cada paso en tareas en Things, siguiendo GTD. Porque si no, <strong>cualquier reorganización suficientemente larga es indistinguible de una procrastinación permanente</strong>. Y se supone que con este cambio quiero trabajar mejor.</p>
+<p>P.D.: soy un <em>yonki</em> del <em>porno informático</em>, y una de sus categorías son fotos de oficinas y espacios de trabajo. Si tienes la tuya y quieres ponerla en los comentarios, me encantará verla.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/07/29/organizando-mi-espacio-de-trabajo/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Preparando el MWC 2013: First World Problems</title>
+		<link>/2013/02/19/preparando-el-mwc-2013-first-world-problems/</link>
+		<comments>/2013/02/19/preparando-el-mwc-2013-first-world-problems/#comments</comments>
+		<pubDate>Tue, 19 Feb 2013 08:34:41 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Blackberry]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[Viajes]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+
+		<guid isPermaLink="false">/?p=1888</guid>
+		<description><![CDATA[Hay problemas importantes. Luego están las chorradas. Y por último, en orden de importancia los problemas que nos crea en el primer mundo la «sobreabundancia». Que si estamos muy gordos (porque tenemos para comer en exceso), que si pagamos muchos impuestos al comprar una segunda vivienda (pero ya tenemos más de una), etc. Pese a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hay problemas importantes. Luego están las chorradas. Y por último, en orden de importancia los problemas que nos crea en el primer mundo la «sobreabundancia». Que si estamos muy gordos (porque tenemos para comer en exceso), que si pagamos muchos impuestos al comprar una segunda vivienda (pero ya tenemos más de una), etc. Pese a no ser problemas de vida o muerte, y sabiendo que gran parte de la población mundial nos cambiaría sus problemas, reales y auténticos por los nuestros, no dejan de ser <em>nuestros</em> problemas. Los que nos molestan, nos enojan o nos quitan el sueño.</p>
+<p><a href="http://xaxor.com/funny-pics/funny-more-of-the-first-world-problems.html"><img src="/wp-content/uploads/2013/02/More-of-the-first-world-problems3.jpg" alt="No puede usar su nuevo iPhone 5 en su Audi, así que tiene que aguantarse con su iPhone 4s" title="Problemas del primer mundo" width="500" height="375" class="aligncenter size-full wp-image-1889" /></a></p>
+<p>El caso es que la semana que viene me voy al <a href="http://www.mobileworldcongress.com/">Mobile World Congress 2013</a> que tiene lugar en Barcelona. El año pasado estuve y me lo pasé bien, pese a que llegué enfermo y me tuve que curar una gripe «en pie» para no perderme el espectáculo. Este año, además de pasarlo bien, como ya se <em>de qué va</em> esto del MWC voy a procurar no <em>pagar la novatada</em>. Por ejemplo, este año no voy a estar allí a las 9 de la mañana, que está todo cerrado y te miran como lo que eres: un friki ansioso. Y voy a enfocarme más en las reuniones y en los contactos. <em>Fem negoci</em>, que dicen los locales.</p>
+<p>Y claro, puestos a ir, surge la pregunta de todo <em>geek</em> bien equipado: ¿qué me llevo?. Esta pregunta es el equivalente del «¿Qué me pongo?» de nuestras novias / esposas, pero trasladado a cacharros. Porque, ya que tengo una serie de chismes, quiero aprovecharlos y sacarlos a que <em>les de el aire</em>.</p>
+<p>La primera cuestión es <strong>si llevar el portátil o no</strong>. Y creo que va a ser no. Pese a que me encanta mi MBP 13&#8243;, del que <a href="/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/">ya escribí hace no mucho</a>, no acabo de ver el sentido de llevármelo. Salgo de Sevilla el Lunes a las 8:30 en AVE y llego a BCN a las 14:30. Y dudo que me ponga a programar al llegar. Y una vez te metes en la locura del MWC, no creo que escriba una línea de código. Dentro del recinto, es seguro que no voy a hacer nada de eso. Y fuera, siempre habrá alguna reunión a la que ir, un rato para dormir o comer, o estar con gente. Y el Jueves a las 16:00 me vuelvo. Vamos, que no me lo llevo. Ya escribiré código el Viernes. El problema es que veré a otra gente con sus portátiles y me entrará <em>morriña</em></p>
+<p>Luego viene el asunto de la cámara. Teniendo una flamante Nikon D5100, quiero llevármela. Pero el chisme pesa lo suyo, y no voy como periodista (al final no pude conseguir una entrada de prensa por detalles sin importancia, como el cierre de MacWorld <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ). Así que estoy pensando en usar los móviles / tabletas y una compacta Sony que apenas uso (no la uso porque hace fotos aceptables a la luz del sol, pero en interiores es directamente una basura, la compré con los puntos de la gasolina). Venga, segundo tema liquidado: la compacta y el resto de móviles / tabletas harán de cámaras oficiales.</p>
+<p>Siendo el <em>Mobile</em> World Congress, hay que llevarse móviles y tabletas. En este apartado lo tengo casi claro. El iPhone 3Gs (que hasta ahora está siendo mi móvil principal) se viene conmigo, sin SIM, o con una de repuesto que tengo por ahí. Mi BlackBerry Alpha Device se viene, probablemente con la microSIM que tiene ahora el iPhone. Y la duda es si llevarme o no el Lumia 800, para ir cambiando. El iPad 3 en el que estoy escribiendo ahora mismo esto con iAWriter se viene seguro, junto con un teclado Apple BT inalábrico. Será mi <em>portátil</em> de guardia, en el que leer el correo, consultar Evernote, escribir, subir posts a WordPress. Vamos, que va a llevarse la parte importante de la paliza. Y claro, hablando de tabletas, me llevo también la Nexus 7, mi ojito derecho que me acabo de comprar, por si pruebo cosas de NFC. No me había dado cuenta hasta ahora, pero voy a llevar un dispositivo de cada S.O. principal: iOS, BlanckBerry 10, Windows Phone y Android. <em>Geek Achievement Unlocked</em></p>
+<p>Además de esto me llevaré cargadores y cables varios, algún pendrive por si hay que transferir un fichero en el último momento y creo que nada más. Ya tengo pensada la bolsa que me voy a llevar, una muy ligera que me regaló Migue Terrón y que él define «de los chinos» pero que parece cortada para este evento. O eso, o me llevo una que tengo por ahí de BlackBerry.</p>
+<p>Y ahora paso a preguntar <strong>¿qué te llevarías tú?</strong>. ¿Hago bien dejando el portátil detrás?. ¿Me llevo la cámara? Me gustaría contrastar opiniones en los comentarios.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/19/preparando-el-mwc-2013-first-world-problems/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Mi nueva máquina y por qué no me he comprado un rMBP</title>
+		<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/</link>
+		<comments>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 05:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=1826</guid>
+		<description><![CDATA[Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras lo esperaba. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/mbp.jpg"><img src="/wp-content/uploads/2013/01/mbp.jpg" alt="Foto de mi MBP 13 pulgadas abierto, con Safari corriendo" title="Mi MBP 13&quot;" width="800" height="598" class="aligncenter size-full wp-image-1850" srcset="/wp-content/uploads/2013/01/mbp.jpg 800w, /wp-content/uploads/2013/01/mbp-300x224.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a> Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras <a href="/2012/11/20/la-dulce-espera/">lo esperaba</a>. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, «¿todo el día hablando de tecnología y te compras <em>eso</em>?». Pues sí. Os cuento qué máquina me he comprado, las razones que me llevaron a ella y cómo la uso.</p>
+<h1>La máquina</h1>
+<p><a href="/wp-content/uploads/2013/01/aboutthismac.png"><img src="/wp-content/uploads/2013/01/aboutthismac.png" alt="Ventana Acerca de Este Mac abierta, mostrando las características del MBP" title="Las características de mi Mac" width="321" height="393" class="aligncenter size-full wp-image-1845" srcset="/wp-content/uploads/2013/01/aboutthismac.png 321w, /wp-content/uploads/2013/01/aboutthismac-245x300.png 245w" sizes="(max-width: 321px) 100vw, 321px" /></a></p>
+<p>El equipo en sí es un MBP 13&#8243; no retina, de Julio 2012. Por ello, tiene una resolución de pantalla infame (1280&#215;800) pero a cambio tiene otras cosas muy interesantes dentro de su cuerpo unibody de aluminio: USB 3, una CPU que al tener dos núcleos con hiperthreading, se convierten en cuatro núcleos de ejecución, una tarjeta gráfica HD 4000 (no demasiado buena, pero es lo que hay) y un HD de 500 GB bastante lento. Dado que la máquina es capaz de direccionar hasta 16 GB RAM, pensé que en lugar de poner una CPU enorme era mejor equilibrar el rendimiento global del equipo. Así que compré un par de módulos de 8 GB y un SSD de 256 GB. En cuanto me llegó, le monté el SSD y la memoria y el rendimiento global es bastante impresionante. Evidentemente, un rMBP de 15&#8243; tendrá el mismo rendimiento o más. Entonces ¿porqué esta?</p>
+<h1>Mis razones</h1>
+<p>El retina MBP es una máquina impresionante. Es como mirar al futuro y ver cómo serán los ordenadores dentro de cinco años. Pero mi equipo, además de mirarlo, tengo que usarlo. Y mucho. Y lo uso para dos tareas muy concretas: programar en el sofá o llevarlo a los cursos de programación que imparto. Así que casi todo el tiempo es acerca de programar. Una mayor resolución <em>siempre</em> es bienvenida (y ya me he quejado antes de la triste resolución máxima del MBP 13&#8243;, máxime cuando el MBA 13&#8243; tiene 1440&#215;900), pero entre la resolución retina y todo lo que pierdes a cambio, preferí el resto. ¿Y qué pierdes?</p>
+<ul>
+<li>sensor de infrarrojos. No está en el rMBP. Ya no puedo usar mi mando a distancia Apple de aluminio para controlar KeyNote. Que sí, que puedo comprar uno BlueTooth, pero ya que tengo este y es sencillo de manejar&#8230;</li>
+<li>indicador de batería. En el lateral del MBP 13&#8243; hay una línea de LEDs y un botón. Lo pulsas y sin encender el equipo ves si tiene o no batería suficiente. Lo uso mucho.</li>
+<li>puertos. Tengo discos FireWire que me gusta usar. Al igual que me gusta conectarme a la red con un cable Ethernet. Llámame viejo, o bien que 1Gbps siempre es más que 300 Mbps. Como tres veces más rápido y fiable. Ethernet no se «cae». O funciona bien, o se te ha quemado el switch. No hay otras calidades de servicio. Y se que tengo la posibilidad de usar el puerto Thunderbolt, en ambos equipos, pero no me gusta llevar adaptadores colgando, si puedo evitarlo.</li>
+<li>posibilidad de ampliación sin hipotecarme. He podido ponerle un HD SSD y ampliar la memoria a mi MBP 13&#8243;. Al rMBP no se le puede ampliar, porque todo viene soldado.</li>
+<li>mi mujer tiene un venerable MacBook blanquito de 2007. Su cargador es compatible con el mío. Nada de MagSafe2 ni historias: si pierdo el mío o explota, tengo un reemplazo de emergencia cerca.</li>
+<li>pasta. El rMBP cuesta bastante más que el MBP 13&#8243; y en mi opinión, salvo la pantalla y que pesa algo menos, no me aporta demasiado por su coste. Prefiero buscar ese MBP 13&#8243;, ampliarlo y comprar Apple Care. Y ya, para rematar el ahorro, he comprado el equipo Refurbished, con lo que te ahorras unos buenos euros.</li>
+</ul>
+<p>El equipo que pienso es el que más prestaciones te da actualmente a un precio razonable es un MBP 15&#8243; con resolución extra (1.680 por 1.050) y pantalla mate y con 16 GB RAM + SSD. Al tener una gráfica discreta, es la mejor opción. Pero quería renovar mi viejo MBP 15&#8243; del 2008 por lo mínimo posible, y además quería cambiar de factor de forma y pasar a algo más compacto.</p>
+<p>El rMBP 13&#8243; me parece una buena idea, pero esperaría a una segunda o tercera versión. No tiene sentido que lleve la misma gráfica y CPU que el no retina y que por esa resolución extra tengas que pagar 498 Eur.</p>
+<h1>Cómo lo uso</h1>
+<p>Mi MBP es el equipo que uso para los cursos y salidas varias: a Conferencias, Hackathones, reuniones de la NSCoder Night de Sevilla, etc. Es muy compacto y me transmite una sensación de solidez. Arranca en muy pocos segundos (menos de 10) y todo es instantáneo. Con los 16 GB de RAM, nada hace swap y todos los procesos tienen más memoria de la que puedan necesitar. Y el acceso a disco es muy rápido gracias al SSD. El S.O. está instalado en el SSD y los datos en el HD. Todo como la seda.</p>
+<p>Además de para los cursos, cuando puedo levantarme temprano lo uso para escribir código en Xcode / Eclipse. Y probar las Apps. Para eso, es perfecto.</p>
+<p>Pero no todo es perfecto. Alguien pensará qué pasa cuando necesito más resolución, para trabajar cómodamente o usando Pixelmator o similares. Respuesta sencilla: para esos casos tengo mi iMac 27&#8243; con su segundo monitor de 24&#8243;. Creo que con 2560&#215;1440 + 1920&#215;1080 (5.760.000 pixeles) tengo de sobra. Y pensar que mi primer AMSTRAD, en su modo de máxima resolución (MODE 2) alcanzaba 640*200 (128.000 pixeles). Eso sí, en blanco y negro, o en mi caso, en fósforo verde encendido o fósforo verde apagado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>La dulce espera</title>
+		<link>/2012/11/20/la-dulce-espera/</link>
+		<comments>/2012/11/20/la-dulce-espera/#comments</comments>
+		<pubDate>Tue, 20 Nov 2012 12:36:03 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[compras]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[SSD]]></category>
+
+		<guid isPermaLink="false">/?p=1810</guid>
+		<description><![CDATA[No, no estoy esperando un bebé. No estoy «embarazado»&#8216;, como se suele decir en estos casos. No, espero un «niño», pero de otro tipo. Me he comprado un ordenador nuevo. Y, de nuevo, como cada vez desde que me compraron mis padres mi primer Amstrad CPC 464, cuento las horas y fantaseo pensando en lo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, no estoy esperando un bebé. No estoy «embarazado»&#8216;, como se suele decir en estos casos. No, espero un «niño», pero de otro tipo. Me he comprado un ordenador nuevo. Y, de nuevo, como cada vez desde que me compraron mis padres mi primer Amstrad CPC 464, cuento las horas y fantaseo pensando en lo rápido que va a funcionar el nuevo equipo, la de cosas que voy a poder hacer con el, lo feliz que me va a hacer&#8230;</p>
+<p>Así somos los informáticos. Tontos hasta decir basta. No conozco otras profesiones en las que pase esto. No me imagino un albañil llegando por la noche a casa excitado porque en el trabajo le han puesto una hormigonera nueva y contándole a su mujer: «no veas lo bien que hace el hormigón, no hace apenas ruido, está limpita y con la pintura aún sin ensuciar, me voy a pasar toda la noche haciendo hormigón y mañana voy a grabar una comparativa con las otras hormigoneras&#8230;». Vamos, que no lo veo. En lo nuestro el salario es algo importante, pero los chismes también. Nos gustan demasiado los gadgets. Es también lo que nos ayuda a no volvernos locos, con tantos cambios (y tan rápidos).</p>
+<p><a href="/wp-content/uploads/2012/11/material-ampliación.jpeg"><img class="aligncenter size-full wp-image-1812" title="Material para la ampliación del nuevo MBP" src="/wp-content/uploads/2012/11/material-ampliación.jpeg" alt="Material para la ampliación del nuevo MBP" width="800" height="598" srcset="/wp-content/uploads/2012/11/material-ampliación.jpeg 800w, /wp-content/uploads/2012/11/material-ampliación-300x224.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>El Jueves, cuando  llegue el equipo, le voy a instalar algunas ampliaciones, que podéis ver en la foto. Los detalles del «mini-bicho», cuando esté montado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>La única «pena» que tengo: he tenido que vender mi viejo y queridísimo MBP 15&#8243;. Ha sido mi primer Mac, y ahora me está dando realmente pena deshacerme de el. Pero las cosas cambian, y hay que cambiar con ellas. Al menos se que estará en buenas manos.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/20/la-dulce-espera/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Instalar Android Ice Cream Sandwich en la HP TouchPad</title>
+		<link>/2012/08/20/instalar-android-ice-cream-sandwich-en-la-hp-touchpad/</link>
+		<pubDate>Mon, 20 Aug 2012 07:49:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[instalación]]></category>
+		<category><![CDATA[TouchPad]]></category>
+
+		<guid isPermaLink="false">/?p=1751</guid>
+		<description><![CDATA[Después de un tiempo usando CyanoGen Mod 7 (por abreviar, CM7, que es una ROM de Android en su versión 2.3) en la TouchPad me he decidido y he instalado CM9. Dista bastante de ser perfecta, pero a fin de cuentas la TP no se diseñó ni pensó para Android. Y viendo el estado comatoso [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Después de un tiempo usando CyanoGen Mod 7 (por abreviar, CM7, que es una ROM de Android en su versión 2.3) en la TouchPad me he decidido y he instalado CM9. Dista bastante de ser perfecta, pero a fin de cuentas la TP no se diseñó ni pensó para Android. Y viendo el estado comatoso de webOS (y el durísimo golpe que supone no poder instalar la nueva versión, Open webOS 1.0 «oficial» en la TouchPad) la única manera de mantener el equipo con vida es esta.</p>
+<p>No voy a dar instrucciones, ni a contar nada. Creo que después de los vídeos del <a href="http://www.reverendkyle.com/">Reverendo Kyle</a> hay poco más que añadir. Os dejo con el que he usado para instalar CM9 en la TP. Yo tenía ventaja, porque ya estaba instalado MoBoot y ClockModWork Recovery, pero aún así es fácil.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/PDO1Jj3NYDw" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/PDO1Jj3NYDw"></param></object></div>
+</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Creando una lista de Podcasts en iTunes</title>
+		<link>/2011/07/19/creando-una-lista-de-podcasts-en-itunes/</link>
+		<pubDate>Tue, 19 Jul 2011 10:10:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Deporte]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iTunes]]></category>
+
+		<guid isPermaLink="false">/?p=1549</guid>
+		<description><![CDATA[Uno de los objetivos que me planteé este año fue volver a hacer deporte de forma habitual. Sin querer convertirme en un Iron Man (aunque estaría chulo poder correr una de esas), el objetivo era incorporar el deporte de nuevo a mi rutina de vida diaria. Y lo he conseguido. Ahora salgo todas las semanas, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Uno de los objetivos que me planteé este año fue volver a hacer deporte de forma habitual. Sin querer convertirme en un <a href="http://es.wikipedia.org/wiki/Ironman" target="_blank">Iron Man</a> (aunque estaría chulo poder correr una de esas), el objetivo era incorporar el deporte de nuevo a mi rutina de vida diaria. Y lo he conseguido. Ahora salgo todas las semanas, 3 ó 4 veces, a caminar, marchar o trotar de forma suave.</p>
+<p style="text-align: justify;">Me he habituado a ir escuchando música mientras camino. Ya, ya se que la mayoría de la gente lo hace, pero es que yo era un «anti-cacharros» para correr, y me molestaban hasta las zapatillas. Pero el iPhone 4 engancha, y más si usas una herramienta de tracking como <a href="http://runkeeper.com/" target="_blank">RunKeeper Pro</a>. Durante el Invierno y la Primavera he ido con el iPhone sin problemas. Pero ahora en Verano me apetecía algo más ligero. Y mi mujer tenía tirado por aquí, sin usar, un iPod Shuffle de 2GB (rosa, eso sí). Ante tamaño sacrilegio, no tuve más remedio que ponerlo en uso y cargarlo con música.</p>
+<p style="text-align: justify;">Y todo perfecto. Pero echo de menos mis podcasts. Porque cuando antes he dicho que escucho música he mentido: yo escucho podcasts, y así aprovecho el deporte para enterarme de cosas, o entretenerme. Es la mejor radio, y la que más escucho. El caso es que en el Shuffle, que lo cargué de emergencia con un aleatorio de canciones de 5 estrellas, no había ni un podcast. Tenía que solventarlo. Mi mente ya sabía lo que quería:</p>
+<blockquote><p>«Dile a iTunes que SELECT * FROM podcasts WHERE nombre_podcast = Game Over OR Macniacos OR 85% Cocoa OR &#8230;»</p></blockquote>
+<p style="text-align: justify;">El problema es que aún no he terminado el Interfaz Mente de Diego &#8211; iMac. Está en preAlpha :-). Así que tenía que pelearme con el interfaz de iTunes, que será muy intuitivo, pero para otros. Porque lo que es para mí&#8230;</p>
+<p style="text-align: justify;">Lo que sí tenía claro, es que debía ser una lista de reproducción, y luego cambiarle los criterios hasta llegar a algo como el SELECT de arriba. ¡ERROR!. Las listas de reproducción te permiten arrastrar ahí canciones para luego reproducirlas, pero no definir criterios. Lo que necesito es una nueva lista de reproducción <em>inteligente</em>.</p>
+<div id="attachment_1551" style="width: 227px" class="wp-caption aligncenter"><img class="size-full wp-image-1551" title="Listas de reproducción inteligentes" src="/wp-content/uploads/2011/07/lista-reprod.png" alt="Listas de reproducción inteligentes" width="217" height="140" /><p class="wp-caption-text">Listas de reproducción inteligentes</p></div>
+<p style="text-align: justify;">Me lancé a crear la lista, pero eso de hacer que me listara todos los podcast Y que luego pusiera los capítulos no reproducidos de unos cuantos de ellos, seleccionados a mano me ha llevado unos minutos hasta comprenderlo. Sí, soy demasiado estúpido. Pero una búsqueda booleana directa me gustaría más. A mí al menos&#8230; Sin aburrir más al personal, para crear la lista he llegado a:</p>
+<div id="attachment_1552" style="width: 916px" class="wp-caption aligncenter"><img class="size-full wp-image-1552" title="Configuración de la Lista de Reproducción" src="/wp-content/uploads/2011/07/config-lista.png" alt="Configuración de la Lista de Reproducción" width="906" height="638" srcset="/wp-content/uploads/2011/07/config-lista.png 906w, /wp-content/uploads/2011/07/config-lista-300x211.png 300w" sizes="(max-width: 906px) 100vw, 906px" /><p class="wp-caption-text">Configuración de la Lista de Reproducción</p></div>
+<p>Ahora esto hace lo que yo quiero: me saca 10 podcasts de entre los de arriba que no estén marcados como reproducidos. ¡Bien!. iTunes 0, Diego 1.</p>
+<div id="attachment_1553" style="width: 410px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/resultado-lista.png"><img class="size-full wp-image-1553" title="El resultado de la Lista: los podcast que quiero escuchar" src="/wp-content/uploads/2011/07/resultado-lista.png" alt="El resultado de la Lista: los podcast que quiero escuchar" width="400" height="232" srcset="/wp-content/uploads/2011/07/resultado-lista.png 400w, /wp-content/uploads/2011/07/resultado-lista-300x174.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a><p class="wp-caption-text">El resultado de la Lista: los podcast que quiero escuchar</p></div>
+<p><span style="text-decoration: underline;"><strong>Actualización 27/07/2011:</strong></span></p>
+<p>Tal y como aparece la captura de pantalla con las reglas anteriores, NO se muestran los 10 podcasts añadidos recientemente y que no se han reproducido. Sólo se muestran los 10 añadidos hace menos tiempo. Eso me ha llevado a que, por ejemplo, si me bajo 10 episodios de 85% Cocoa y otros 10 de iCharlas, y escucho todos los de iCharlas me seguirán apareciendo en la lista (aunque ya los he escuchado) porque son los últimos que he añadido. Se soluciona con una condición «Nº de reproducciones es 0», quedando las reglas:</p>
+<div id="attachment_1560" style="width: 790px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/nuevas-reglas.png"><img class="size-full wp-image-1560" title="Nuevas reglas de la lista inteligente" src="/wp-content/uploads/2011/07/nuevas-reglas.png" alt="Nuevas reglas de la lista inteligente" width="780" height="549" srcset="/wp-content/uploads/2011/07/nuevas-reglas.png 780w, /wp-content/uploads/2011/07/nuevas-reglas-300x211.png 300w" sizes="(max-width: 780px) 100vw, 780px" /></a><p class="wp-caption-text">Nuevas reglas de la lista inteligente</p></div>
+<h1>Sincronizando el iPod Shuffle</h1>
+<p style="text-align: justify;">El Shuffle que tengo es uno de los de primera generación. Que por cierto, son los que más me gustan de diseño. Los de la 3ª generación han vuelto a este diseño original del que nunca debieron apartarse <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Si tratas de autorellenar uno de estos Shuffles desde iTunes con la lista de podcasts, una ventanita te dice que <em>tralará</em>:</p>
+<div id="attachment_1556" style="width: 564px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/error-shuffle.png"><img class="size-full wp-image-1556" title="Error Shuffle 1ª generación: no soporta podcasts" src="/wp-content/uploads/2011/07/error-shuffle.png" alt="Error Shuffle 1ª generación: no soporta podcasts" width="554" height="226" srcset="/wp-content/uploads/2011/07/error-shuffle.png 554w, /wp-content/uploads/2011/07/error-shuffle-300x122.png 300w" sizes="(max-width: 554px) 100vw, 554px" /></a><p class="wp-caption-text">Error Shuffle 1ª generación: no soporta podcasts</p></div>
+<p>Y Apple te lo deja <a href="http://support.apple.com/kb/HT1831?viewlocale=es_ES">bien clarito</a>:</p>
+<blockquote><p>La función Autorrelleno de iTunes no añadirá audiolibros y podcasts a ningún modelo de iPod. Es posible añadirlos manualmente si los arrastras hasta el iPod shuffle en iTunes.</p></blockquote>
+<p>Así que nada de hacer las cosas automáticamente (bueno, sí puedes si te dejas la pasta en un Shuffle de los nuevos). En mi caso, la sincronización la hago en tres pasos:</p>
+<ol>
+<li>borro todo del Shuffle</li>
+<li>copio los podcasts de mi lista en el Shuffle</li>
+<li>y entonces que iTunes autorellene con mis canciones favoritas. No caben todas, OK, mete las que quieras</li>
+</ol>
+<div>Y de esta forma, llevo podcasts y música en el Shuffle. El problema ahora es encontrar los podcasts para reproducirlos, pero esa es otra historia <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mi Time Capsule ha muerto. ¡Larga vida a mi Time Capsule!</title>
+		<link>/2011/03/01/mi-time-capsule-ha-muerto-larga-vida-a-mi-time-capsule/</link>
+		<pubDate>Tue, 01 Mar 2011 08:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1418</guid>
+		<description><![CDATA[Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_1421" style="width: 555px" class="wp-caption aligncenter"><a href="http://timecapsuledead.org/"><img class="size-full wp-image-1421" title="TC Memorial. Click para ir al sitio" src="/wp-content/uploads/2011/03/TCMemorial.png" alt="TC Memorial. Click para ir al sitio" width="545" height="229" srcset="/wp-content/uploads/2011/03/TCMemorial.png 545w, /wp-content/uploads/2011/03/TCMemorial-300x126.png 300w" sizes="(max-width: 545px) 100vw, 545px" /></a><p class="wp-caption-text">TC Memorial. Click para ir al sitio</p></div>
+<p style="text-align: justify;">Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no tuve más remedio que subir al estudio a reiniciar el router Linksys, al que le echaba la culpa. Pero al ir a cogerlo, vi algo terrorífico, que me sobrecogió el alma: la luz de la TC estaba apagada.</p>
+<p style="text-align: justify;">Para los que no sepan lo que es, la Time Capsule es un todo-en-uno de Apple que incluye en el mismo aparato un router, un switch con tres entradas de red Ethernet de 1Gb, un punto de acceso inalámbrico (lo que Apple llama un Airport Extreme) 802.11n + g + b y un disco duro en red para copias de seguridad u otros contenidos. También es servidor de impresión (se le pueden conectar impresoras a través del puerto USB que incorpora). Puntos negativos: no es servidor DNS, lo cual es un rollo y en mi opinión es una característica básica que le falta. Y se calienta bastante.</p>
+<p style="text-align: justify;">El caso es que, dados los antecedentes que ya conocía de <a href="http://twitter.com/juaconet/status/42302419794804737">@juaconet</a>, que ha pasado ya por tres time capsules, cuando me planteé mi <a href="/2010/10/03/mi-plan-de-backups/">estrategia de backups</a> decidí poner en la Time Capsule únicamente las copias de seguridad de Time Machine. De esta forma, si fallaba el ordenador, tenía la copia en la Time Capsule, y si era al revés (como al final ha sucedido) podría comprar otra TC y volver a hacer una copia de Time Machine de los portátiles. Porque, una vez que el aparato se apaga, ya no hay forma de acceder a los datos: hay que desmontarlo para llegar al disco duro. Fallo.</p>
+<p style="text-align: justify;">Estaba frente a la TC apagada y probé lo típico: a volver a enchufarla, probar con un enchufe distinto, ver si era el cable, etc. Pero nada. No hacía ningún ruido y no se encendía. Así que llamé a Apple Care. Cuando me salió la persona de Apple (el Apple Advisor) le conté mi problema, haciendo especial hincapié en que era una TC de las primeras que salieron. Me solicitó el número de serie. Cuando confirmó que efectivamente era de las primeras, me indicó que estaba cubierta por un <a href="http://support.apple.com/kb/TS3351">programa de reemplazo de Apple</a> y que me mandaban a casa una nueva ¡gratis!.</p>
+<p style="text-align: justify;">Apple sabe que las primeras TC estaban mal diseñadas. Han caído tantas que, como me indicaba @juaconet en este tweet, hay hasta un <a href="http://timecapsuledead.org/">memorial de TCs muertas</a>. Pero al menos han puesto en marcha el programa de reemplazo de forma que, en un par de días, tienes una TC nueva en casa. Eso sí, los datos los has perdido. Por eso el tener sólo las copias de Time Machine. Espero ahora que mi portátil no decida morir igualmente.</p>
+<p style="text-align: justify;">Estas son las cosas que te gustan de la compañía: el trato a los clientes. Sí, la inversión inicial puede ser superior, pero ¿es más caro? Después de tres años usándola, falla y ahora tengo una nueva con el doble de disco duro. Para mí no es mala inversión, no.</p>
+<p style="text-align: justify;">Espero que mañana me la entreguen. Y luego habrá que configurarla, y volver a lanzar Time Machine, y, y&#8230; D&#8217;oh!</p>
+<p style="text-align: justify;"><strong>Actualización 15/03/2011</strong>: hace ya unos días que tengo instalada y en uso la TC. Pero la que me mandaron finalmente era igual a la que tenía, de 500 GB. Bueno, al menos, aunque ya no estaba cubierta por la garantía, han dado la cara. Pero hubiera estado mejor lo del TB <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Teclado Apple Buetooth y Magic Mouse en Windows 7 con BootCamp</title>
+		<link>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/</link>
+		<comments>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/#comments</comments>
+		<pubDate>Thu, 24 Feb 2011 10:26:56 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1395</guid>
+		<description><![CDATA[Si has leído mi pasado post sobre la instalación de Windows 7 en mi MacBook Pro (y si no lo has hecho, siempre puedes redimirte leyéndolo ahora), sabrás que ando con arranques duales en mi MBP, principalmente para los juegos de Windows que me compro en Steam. Bueno, y para algún que otro portal de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Si has leído mi pasado post sobre la <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">instalación de Windows 7 en mi MacBook Pro</a> (y si no lo has hecho, siempre puedes redimirte leyéndolo <em>ahora</em>), sabrás que ando con arranques duales en mi MBP, principalmente para los juegos de Windows que me compro en Steam. Bueno, y para algún que otro <a href="http://www.juntadeandalucia.es/salud/sites/csalud/contenidos/Informacion_General/oficina_virtual/hoja_reclamaciones_electronica">portal de la Junta de Andalucía</a>, esa gran adalid del Software Libre.</p>
+<p style="text-align: justify;">
+<div id="attachment_1400" style="width: 585px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/JAConSL.png"><img class="size-full wp-image-1400" title="La Junta, muy comprometida con el SL" src="/wp-content/uploads/2011/02/JAConSL.png" alt="La Junta, muy comprometida con el SL" width="575" height="100" srcset="/wp-content/uploads/2011/02/JAConSL.png 575w, /wp-content/uploads/2011/02/JAConSL-300x52.png 300w" sizes="(max-width: 575px) 100vw, 575px" /></a><p class="wp-caption-text">La Junta, muy comprometida con el SL</p></div>
+<p style="text-align: justify;">Comenté mi adaptación al teclado del Mac y la disposición de teclas de Windows. Y todo era bello. Hasta que, una mañana, casi por puro reflejo, estaba con Windows 7 arrancado y moví el ratón Magic Mouse que tengo emparejado con el MBP, pero nada. No funcionaba. El teclado bluetooth de Apple tampoco. «Bueno», pensé, «no debe ser tan difícil». «A fin de cuentas Win 7 es moderno, igual que este hardware». Y ahí comenzó mi pesadilla.</p>
+<p>En ningún blog ni vídeo he encontrado cómo hacerlo a la primera. He tenido que recorrer un montón de foros, y he ido avanzando poco a poco. En resumen, es fácil cuando lo has acabado, así que&#8230;</p>
+<h2>La receta:</h2>
+<ul>
+<li style="text-align: justify;">Ya tendrás instalado BootCamp en tu Windows. Arranca tu partición con Windows 7 y busca en programas el Asistente de Actualizaciones de Apple. Ejecútalo. Te pasará de BootCamp 3.1 a la 3.2. Tendrás que reiniciar, pero es imprescindible. Trabaja siempre con la última versión del software de Apple. Te dolerá menos la cabeza.</li>
+</ul>
+<div id="attachment_1398" style="width: 316px" class="wp-caption aligncenter"><img class="size-full wp-image-1398" title="BootCamp 3.2" src="/wp-content/uploads/2011/02/BootCamp32.png" alt="BootCamp 3.2" width="306" height="256" srcset="/wp-content/uploads/2011/02/BootCamp32.png 306w, /wp-content/uploads/2011/02/BootCamp32-300x250.png 300w" sizes="(max-width: 306px) 100vw, 306px" /><p class="wp-caption-text">BootCamp 3.2</p></div>
+<ul>
+<li style="text-align: justify;">Arranca ahora en Mac OS X. Ve al panel de preferencias Bluetooth. Te aparecerán tus dispositivos (Magic Mouse y Teclado Bluetooth) instalados. Debes borrar la configuración del teclado bluetooth. Para ello, pincha sobre el teclado y luego sobre el «-» que aparece abajo en la lista. El ratón no es necesario borrarlo.</li>
+</ul>
+<div id="attachment_1401" style="width: 758px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/dispBTMac.png"><img class="size-full wp-image-1401" title="Magic Mouse y Teclado BT" src="/wp-content/uploads/2011/02/dispBTMac.png" alt="Magic Mouse y Teclado BT" width="748" height="553" srcset="/wp-content/uploads/2011/02/dispBTMac.png 748w, /wp-content/uploads/2011/02/dispBTMac-300x221.png 300w" sizes="(max-width: 748px) 100vw, 748px" /></a><p class="wp-caption-text">Magic Mouse y Teclado BT</p></div>
+<ul>
+<li style="text-align: justify;">Reinicias ahora en Windows 7. Debes emparejar primero el ratón, y luego el teclado. Para el ratón, vas a Panel de Control &gt; Hardware y Sonido &gt; Dispositivos e impresoras. Pulsas en «Agregar dispositivo». Te aparecerá en la lista el ratón. Debes, antes de pulsar en Siguiente, hacer click sobre el ratón con el botón derecho y abrir Propiedades. Marca la casilla que te aparece. Cierra y pulsa ahora Siguiente. Se instalarán los drivers y Magic Mouse funcionando.</li>
+<li style="text-align: justify;">Ahora el teclado. Como lo hemos borrado del lado OS X, ahora no está emparejado. Pulsando de nuevo en «Agregar dispositivo» igual que antes, te debe aparecer el teclado. Si no te aparece, enciéndelo pulsando el interruptor que tiene el teclado en su lado derecho (debe parpadear un led en el teclado). Pulsas, siguiente, lo detecta y pide que introduzcas una clave en el teclado y pulses intro. Lo haces y ya debe funcionar en Win 7 sin problemas.</li>
+<li style="text-align: justify;">Para acabar todo perfecto, tenemos ahora el ratón funcionando en OS X y Win7, y el teclado funcionando sólo en Win7. Reiniciamos en OS X, vamos a la lista de dispositivos bluetooth y añadimos el teclado. Al fin, somos felices.</li>
+<li style="text-align: justify;">El resultado final debe ser algo como esto:</li>
+</ul>
+<div id="attachment_1405" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/BTWin7.png"><img class="size-medium wp-image-1405" title="Mis dispositivos BT en Win7" src="/wp-content/uploads/2011/02/BTWin7-300x200.png" alt="Mis dispositivos BT en Win7" width="300" height="200" srcset="/wp-content/uploads/2011/02/BTWin7-300x200.png 300w, /wp-content/uploads/2011/02/BTWin7.png 982w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Mis dispositivos BT en Win7</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/24/teclado-apple-buetooth-y-magic-mouse-en-windows-7-con-bootcamp/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Windows 7 corre que se las pela en mi viejo MacBook Pro</title>
+		<link>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/</link>
+		<comments>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 09:33:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1346</guid>
+		<description><![CDATA[¡Un momento! ¿Qué?. No, no puede ser, deben ser las drogas que tomo habitualmente. ¿No estarás diciendo que has mancillado el templo de San Steve y la Gran Manzana con algo que venga de Redmon? No, seguro que estás diciendo que has tenido que comprobar los virus de Windows en una máquina virtual y te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote><p>¡Un momento! ¿Qué?. No, no puede ser, deben ser las drogas que tomo habitualmente. ¿No estarás diciendo que has mancillado el templo de San Steve y la Gran Manzana con algo que venga de Redmon? No, seguro que estás diciendo que has tenido que comprobar los virus de Windows en una máquina virtual y te ha funcionado maravillosamente en ese estupendo S.O. que es Snow Leopard. ¿No?. ¡Habla, por Dios, no me tengas en ascuas!</p></blockquote>
+<p style="text-align: justify;">Mi querida voz interior <em>fanboy</em>, tengo que informarte de que estoy corriendo Windows 7 en el MacBook Pro, de forma nativa (sin máquinas virtuales de por medio), gracias a BootCamp. Y que me gusta.</p>
+<p style="text-align: justify;">
+<div id="attachment_1354" style="width: 810px" class="wp-caption aligncenter"><img class="size-full wp-image-1354" title="Comenzando la instalación de Win7 en el MBP" src="/wp-content/uploads/2011/01/comenzando-instalacion.jpg" alt="Comenzando la instalación de Win7 en el MBP" width="800" height="600" srcset="/wp-content/uploads/2011/01/comenzando-instalacion.jpg 800w, /wp-content/uploads/2011/01/comenzando-instalacion-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /><p class="wp-caption-text">Comenzando la instalación de Win7 en el MBP</p></div>
+<p style="text-align: justify;">Ya he comentado varias veces que Windows 7 me parece un buen S.O. Realmente ahora usar Linux, Windows u OS X se ha convertido más en una <a href="/2008/03/23/cambiando-a-mac/">cuestión de preferencias personales</a> que de limitaciones. No hay casi nada que se pueda hacer en uno de ellos que no se pueda hacer en los otros. Incluso los juegos. Y si no, hay sistemas de máquinas virtuales para ejecutar cualquier S.O. desde uno de los otros tres grandes. Y esto es muy bueno. Recuerdo cuando había que luchar muy duro con Linux para hacer que funcionase como tú querías. Ahora usas Linux si te gusta más, que además es la razón más poderosa para usar algo, por encima de méritos técnicos.</p>
+<p style="text-align: justify;">El caso es que desde hace un tiempo vengo reduciendo los cacharros que tengo por casa. Sin llegar a los extremos de Dave Bruno y su <a href="http://guynameddave.com/about-the-100-thing-challenge/">intento de vivir sólo con 100 objetos</a>, estoy intentando tener los ordenadores que realmente uso. Y uno que no usaba mucho era mi viejo <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">Dell Inspiron 9400</a>, que funcionaba bastante bien con Win7. Pero me pregunté: ¿bueno, y si pudiera correr Win7 en el MBP, no podría deshacerme de esa máquina? Además, tengo espacio libre en el disco del MacBook Pro <a href="/2010/09/17/shopping-spree/">tras comprarme el nuevo HD de 7200 rpm</a>. un último argumento me lanzó a la aventura, y es que en Febrero tendré que impartir un curso de C en entorno Windows, y el MBP pesa como tres Kg menos que el Dell.</p>
+<h2>La instalación</h2>
+<p style="text-align: justify;">Hay montones de sitios que cuentan cómo hacer la instalación, que por otra parte es bastante sencilla, así que no me repetiré. Podéis ver <a href="http://www.youtube.com/watch?v=OM2495dmO0I&amp;hd=1">este vídeo</a>, por ejemplo, aunque hay mil. Sólo algunas notas:</p>
+<ul>
+<li>BootCamp es dos cosas. Por un lado, cuando lo usas en el Mac es un programa para rehacer las particiones de tu disco y dejar así sitio a Windows 7. Sin más misterios. Luego metes el DVD de Windows, reinicias arrancando desde el DVD y listo.</li>
+<li>En mi MacBook Pro 15&#8243; (modelo MacBookPro 3,1) no funcionaban los drivers de Windows 7 en 64 bits. Así que he tenido que instalar la versión de Windows 7 de 32 bits. Si al instalar ves que los drivers no se reconocen, ya sabes: pasa a la versión de 32 bits.</li>
+<li>Cuando Windows ya está instalado, no tiene los drivers necesarios para que el MacBook Pro funcione. Y no los busques por Internet con el asistente de Win7: no los va a encontrar. Están, en mi caso, en el disco de Snow Leopard retail, el que compré con 5 licencias. En el de tu MacBook Pro también deben estar, pero si has pasado a Snow Leopard usa estos, ya que son más modernos.</li>
+<li>Y ya que estamos, usa los discos adecuados. En plena instalación no me reconocía los drivers del disco. ¿Pero qué pasa?. Pues que estaba usando los discos del MacBook (sin Pro) de mi mujer&#8230;</li>
+</ul>
+<h2>Tras la instalación</h2>
+<p>Una vez que todo está instalado, sigue arrancando por defecto Mac OS X, que es justo lo que quiero. Para arrancar Windows puedes:</p>
+<ul>
+<li>pulsar Alt al encender el equipo. Te aparecerán todos los discos desde los que puedes arrancar. Escoge el de Windows.</li>
+<li>desde Mac OS X, en Preferencias del Sistema, tienes Discos de Arranque, que te permite arrancar en Windows.</li>
+<li>en Windows puedes hacer lo mismo con BootCamp: reiniciar en Mac OS X, poner como disco por defecto uno u otro, etc.</li>
+</ul>
+<p>Tras instalar todas las actualizaciones del mundo y el preceptivo antivirus (en mi caso AVG Free), miré la experiencia de usuario de Windows. Y me daba un 5,0, que creo que para un ordenador que cumple ahora en Febrero 3 años no está nada mal (el máximo es un 7,9).</p>
+<div id="attachment_1357" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/Win7-mbp-variasapps.png"><img class="size-medium wp-image-1357" title="Win7 en mi MBP corriendo varias apps" src="/wp-content/uploads/2011/01/Win7-mbp-variasapps-300x187.png" alt="Win7 en mi MBP corriendo varias apps" width="300" height="187" srcset="/wp-content/uploads/2011/01/Win7-mbp-variasapps-300x187.png 300w, /wp-content/uploads/2011/01/Win7-mbp-variasapps-1024x640.png 1024w, /wp-content/uploads/2011/01/Win7-mbp-variasapps.png 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Win7 en mi MBP corriendo varias apps</p></div>
+<h2>La adaptación</h2>
+<p style="text-align: justify;">Uno de los principales problemas a los que me he enfrentado para adaptarme al uso de Windows 7 en el MBP es el mapeo del teclado. Los últimos MacBooks traen unos teclados que casi son los clásicos de un PC. Pero el mío tiene varias peculiaridades. No hay tecla Supr (en Mac OS X se consigue con fn + backspace), con lo que no puedo bloquear rápidamente la sesión, o lanzar desde ahí el Administrador de Tareas. Tampoco hay tecla de imprimir pantalla (PrtScr), con lo que me quedo sin poder hacer capturas de pantalla (para los cursos o el blog, lo necesito muy a menudo). Por último, como no hay AltGr, ni siquiera hay Alt en la parte derecha de la barra espaciadora, no puedes generar algunos caracteres que son imprescindibles para programar, como #, { ,} ,[ y ]. Y otro que es ya imprescindible para todo: @.</p>
+<p style="text-align: justify;">El tema de @ y # lo conseguí solucionar porque (no lo sabía), si pulsas a la vez Ctrl + Alt + 2 es igual que pulsar AltGr + 2. Lo mismo para conseguir #. Bueno, dos problemas menos. Pero no me resignaba a quedarme sin PrtScr. Así que busqué y encontré la solución <a href="http://www.satollo.net/windows-7-on-a-macbook-pro-keyboard-layout">en este blog</a>.</p>
+<p style="text-align: justify;">Todo se basa en usar un programa llamado <a href="http://www.randyrants.com/sharpkeys/">SharpKeys</a>, que te permite asignar unas teclas a otras. Es perfecto, ya que he podido asignar Supr a F12, PrtScr a F11 y la tecla <a href="http://www.paulofierro.com/archives/395/">Enter del keypad del MBP</a> (que no uso nunca) ahora funciona como AltGr.</p>
+<p style="text-align: justify;">He instalado algunos juegos, que funcionan maravillosamente bien, a tope de resolución y efectos gráficos. He estado luchando hasta conseguir que me funcione un mando de XBox con cable USB en Windows 7, me he instalado LLMd5sum para calcular cómodamente los md5sum de las cosas que me bajo&#8230; Vamos, que lo estoy usando a menudo. Y estoy encantado. Lo próximo: instalar (y probar) el SDK de Windows Phone 7&#8230;</p>
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Problemas con el disco duro de mi iMac</title>
+		<link>/2010/12/29/problemas-con-el-disco-duro-de-mi-imac/</link>
+		<pubDate>Wed, 29 Dec 2010 09:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Browns]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[iCharlas]]></category>
+		<category><![CDATA[iMac]]></category>
+
+		<guid isPermaLink="false">/?p=1321</guid>
+		<description><![CDATA[Hace unos días estuve escuchando episodios atrasados de iCharlas hasta que me puse al día. En uno de ellos, hablaban del mantenimiento que necesita un Mac y comentaban el programa Onyx, que utilicé mucho al principio de mi etapa de switcher, pero que había relegado un poco al olvido. Pensando que no era mala idea [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace unos días estuve escuchando episodios atrasados de <a href="http://www.icharlas.es/">iCharlas</a> hasta que me puse al día. En uno de ellos, hablaban del mantenimiento que necesita un Mac y comentaban el programa <a href="http://www.titanium.free.fr/">Onyx</a>, que utilicé mucho al principio de mi etapa de switcher, pero que había relegado un poco al olvido.</p>
+<p style="text-align: justify;">Pensando que no era mala idea el pasarle Onyx al HD del iMac, para ver su estado, comprobar el sistema de ficheros y con la esperanza de que el sistema se aligerase algo (mi iMac es una maravilla de ordenador, pero uno siempre quiere más :-)) me lancé y el resultado no fue muy bueno. Onyx me indicaba que arrancase con un disco externo y reparase el disco. Acostumbrado como estoy con Linux a que no es buena idea hacer un fsck (filesystem check) a un sistema de ficheros montado (AKA volumen en Mac OS X), me traje de casa de mi suegra el HD externo donde guardo un clon del iMac (<a href="/2010/10/03/mi-plan-de-backups/">si quieres saber cómo tengo organizadas mis copias de seguridad, puedes leerte este post</a>)</p>
+<p style="text-align: justify;">Conecté el disco con su cable FW800, directamente al iMac, encendí la máquina pulsando la tecla Opción (Alt) y me aparecieron los dos discos desde los que podía arrancar: el interno del iMac y el externo. Me moví al externo y pulsé Intro. ¡Catacrok!. Un <strong>kernel panic</strong> como un castillo, la versión UNIXera de las BSOD de Windows. El iMac no arrancaba desde el HD externo. ¿Cómo puede ser ésto? Si cada vez que hago la copia de seguridad completa compruebo el arranque. Pero parece que la versión de S.O. que tienes instalada importa, aunque no tiene mucho sentido para mi. El caso es que desde la última copia de seguridad había actualizado el iMac a la 10.6.5 y la que tenía en el HD externo era la 10.6.4. Sigo pensando que no tiene sentido, y que puedo tener diferentes copias con versiones distintas del S.O.; probablemente la última copia externa no la comprobé como es debido.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<div id="attachment_1329" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg"><img class="size-full wp-image-1329" title="Kernel Panic en OSX. Shit happens!" src="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg" alt="Kernel Panic en OSX. Shit happens!" width="800" height="532" srcset="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg 800w, /wp-content/uploads/2010/12/kernel_panic_macosx-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Kernel Panic en OSX. Shit happens!</p></div>
+<p style="text-align: justify;">No pudiendo arrancar desde el disco externo que tengo para arrancar en casos de emergencia (bravo por Murphy) pensé en hacerlo desde el DVD de Snow Leopard, arreglar el disco duro interno del iMac, reclonar el HD externo y listo. Así que cogí el DVD, lo puse en el lector, apagué, encendí con Opción pulsada y seleccioné el DVD. No arranca. ¡Pero qué pasa!. ¡Ah, claro!, es el DVD de Snow Leopard retail. Y este no arranca en el iMac. Necesito el que venía con el iMac, que está, está&#8230; ¡no me acuerdo!</p>
+<p style="text-align: justify;">A estas alturas empezaba ya a murmurar maldiciones y a estar bastante cabreado, conmigo mismo, con mis procedimientos, mi sistema de archivo, etc. Pero se me hizo la luz mental al recordar que los Macs pueden arrancar en modo <a href="http://en.wikipedia.org/wiki/Target_Disk_Mode">target firewire disk</a>. Puedes conectar un Mac a otro mediante un cable Firewire y hacer que el disco duro de uno se vea como un disco externo en otro. En mi caso, arranqué el iMac en modo Target Firewire disk y magia!, apareció en el escritorio de mi MBP</p>
+<div id="attachment_1324" style="width: 889px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/reparando-hd-imac.png"><img class="size-full wp-image-1324" title="El HD de mi iMac, ya reparado, en la Utilidad de Discos de mi MBP" src="/wp-content/uploads/2010/12/reparando-hd-imac.png" alt="El HD de mi iMac, ya reparado, en la Utilidad de Discos de mi MBP" width="879" height="721" srcset="/wp-content/uploads/2010/12/reparando-hd-imac.png 879w, /wp-content/uploads/2010/12/reparando-hd-imac-300x246.png 300w" sizes="(max-width: 879px) 100vw, 879px" /></a><p class="wp-caption-text">El HD de mi iMac, con errores, en la Utilidad de Discos de mi MBP</p></div>
+<p>Bueno, ahora era coser y cantar. Le di a reparar disco y a esperar. Al final, todo parece correcto. Volví a verificar el disco y ¡estupendo!. Ya tenemos arreglado el disco del iMac.</p>
+<p>Ya sólo me quedaba desmontar el disco del iMac del MBP, apagar el iMac, quitar el cable FW800, reiniciar el iMac, comprobar que todo estaba OK, conectar el HD externo Western Digital y actualizar la copia de seguridad de todo el iMac&#8230; vamos, lo que se dice una tarde entretenida&#8230;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

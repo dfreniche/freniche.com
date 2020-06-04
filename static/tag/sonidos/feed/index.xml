@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Sonidos &#8211; freniche.com</title>
+	<atom:link href="/tag/sonidos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Convertir efectos de sonido entre distintos formatos con iTunes</title>
+		<link>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/</link>
+		<comments>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/#comments</comments>
+		<pubDate>Wed, 11 May 2011 09:04:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Sonidos]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1498</guid>
+		<description><![CDATA[Hace ya un tiempo que publiqué en el App Store mi tercera App, ClockRing. Es una utilidad que hace que tu iPhone suene cada hora, como suena la radio, con esos pitidos. Aunque puedes escoger otros sonidos, claro. Es una aplicación muy sencilla, que usé para aprender a usar las LocalNotifications de iOS y decidí [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace ya un tiempo que publiqué en el App Store mi tercera App, <a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a>. Es una utilidad que hace que tu iPhone suene cada hora, como suena la radio, con esos pitidos. Aunque puedes escoger otros sonidos, claro. Es una aplicación muy sencilla, que usé para aprender a usar las LocalNotifications de iOS y decidí dejar como Software Libre. Lo que significa que si quieres ver cómo está escrita la App, siempre puedes bajarte su código fuente de su <a href="https://femtocoders.fogbugz.com/default.asp?W5">Wiki</a>.</p>
+<p style="text-align: justify;">El caso es que para que suene algo cuando se lanza una notificación necesitas un archivo con un efecto sonoro. En mi caso, los busqué libres también y me los bajé de <a href="http://www.freesound.org/">FreeSound.org</a>. Bueno, pues muchas veces vienen en un formato que no está soportado directamente por el iPhone (los que se admiten para LocalNotifications están en <a href="http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/IPhoneOSClientImp/IPhoneOSClientImp.html%23//apple_ref/doc/uid/TP40008194-CH103">esta lista</a>):</p>
+<p style="text-align: justify;">
+<ul>
+<li>Linear PCM</li>
+<li>MA4 (IMA/ADPCM)</li>
+<li>µLaw</li>
+<li>aLaw</li>
+</ul>
+<p>Se me ha dado el caso hoy de tener que convertir de nuevo efectos de sonido, en este caso desde AIFF hasta WAV. Y no recordaba cómo hacerlo. Ni con qué herramienta. Y resulta que iTunes lo hace todo. Paso a paso:</p>
+<ul>
+<li>Selecciona los ficheros de audio con los efectos de sonido y arrástralos a iTunes. Aparecerá el típico «+» verde y se añadirán a tu biblioteca.</li>
+<li>Busca esos ficheros en iTunes, para tenerlos localizados.</li>
+<li>Ve a Preferencias &gt; General (se debe abrir por ahí)</li>
+</ul>
+<div id="attachment_1499" style="width: 722px" class="wp-caption aligncenter"><img class="size-full wp-image-1499" title="Preferencias iTunes" src="/wp-content/uploads/2011/05/Preferencias-iTunes.png" alt="Preferencias iTunes" width="712" height="693" srcset="/wp-content/uploads/2011/05/Preferencias-iTunes.png 712w, /wp-content/uploads/2011/05/Preferencias-iTunes-300x291.png 300w" sizes="(max-width: 712px) 100vw, 712px" /><p class="wp-caption-text">Preferencias iTunes</p></div>
+<ul>
+<li>Ahora, pulsamos en Ajustes de importación. Se nos abre esta ventana:</li>
+</ul>
+<div id="attachment_1500" style="width: 634px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/05/Ajustes-importación.png"><img class="size-full wp-image-1500" title="Ajustes importación" src="/wp-content/uploads/2011/05/Ajustes-importación.png" alt="Ajustes importación" width="624" height="430" srcset="/wp-content/uploads/2011/05/Ajustes-importación.png 624w, /wp-content/uploads/2011/05/Ajustes-importación-300x206.png 300w" sizes="(max-width: 624px) 100vw, 624px" /></a><p class="wp-caption-text">Ajustes importación</p></div>
+<ul>
+<li>Aquí podremos cambiar la forma de importar audio, es decir, cómo queremos que iTunes convierta de un formato a otro. Esto se usa para convertir por ejemplo los CDs en ficheros con un formato determinado, pero también sirve para convertir.</li>
+<li>Disponemos de los siguientes formatos:</li>
+</ul>
+<div id="attachment_1501" style="width: 309px" class="wp-caption aligncenter"><img class="size-full wp-image-1501" title="codecs-audio" src="/wp-content/uploads/2011/05/codecs-audio.png" alt="codecs-audio" width="299" height="132" /><p class="wp-caption-text">codecs-audio</p></div>
+<ul>
+<li>Ahora ya basta con seleccionar los efectos de sonido, que hemos copiado en iTunes y pulsar en Avanzado &gt; Crear versión de WAV. Esta opción de menú va cambiando para reflejar el ajuste anterior.</li>
+<li>Pulsando con el botón derecho del ratón sobre estos efectos puedes «Mostrar en el Finder», lo que te abrirá la carpeta en la que están estos ficheros, por si prefieres trabajar ya con ellos desde el Finder. En mi caso, desde aquí los copio a XCode.</li>
+</ul>
+<p>Y así, sin instalar nada más, únicamente con iTunes que viene con cada Mac, podemos realizar esta sencillísima tarea (pero que para un inútil total del audio como yo, es un mundo). Si alguien conoce una forma más sencilla, por favor, que la cuente en los comentarios. Le estaré eternamente agradecido&#8230; o lo que dure este blog.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

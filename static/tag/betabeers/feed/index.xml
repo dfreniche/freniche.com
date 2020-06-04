@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Betabeers &#8211; freniche.com</title>
+	<atom:link href="/tag/betabeers/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi participación en la 7ª Betabeers de Sevilla</title>
+		<link>/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/</link>
+		<comments>/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/#comments</comments>
+		<pubDate>Tue, 12 Feb 2013 08:49:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Betabeers]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Ponencias]]></category>
+
+		<guid isPermaLink="false">/?p=1868</guid>
+		<description><![CDATA[Hace ya algunos días (concretamente el pasado 24 de Enero) se celebró en Sevilla la séptima Betabeers SVQ. Estas Betabeers, para quien no lo sepa (yo entre ellos no hace mucho) son reuniones de informáticos con diversos intereses, en las que se exponen temas y en los que su punto fuerte es el networking que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/02/difb_betabeers_svq.jpg"><img src="/wp-content/uploads/2013/02/difb_betabeers_svq.jpg" alt="Hablando en la Betabeers de Sevilla" title="Hablando en la Betabeers de Sevilla" width="500" height="667" class="aligncenter size-full wp-image-1874" srcset="/wp-content/uploads/2013/02/difb_betabeers_svq.jpg 500w, /wp-content/uploads/2013/02/difb_betabeers_svq-224x300.jpg 224w" sizes="(max-width: 500px) 100vw, 500px" /></a></a></p>
+<p>Hace ya algunos días (concretamente el pasado 24 de Enero) se celebró en Sevilla la <a href="http://betabeers.com/event/vii-betabeers-sevilla-603/">séptima Betabeers SVQ</a>. Estas Betabeers, para quien no lo sepa (yo entre ellos no hace mucho) son reuniones de informáticos con diversos intereses, en las que se exponen temas y en los que su punto fuerte es el <em>networking</em> que se puede hacer. Es decir, que conoces a un montón de gente, lo cual te puede servir para que te echen una mano si estás atascado en un problema, para no sentirte solo siendo el <em>único programador Clojure</em> de tu ciudad, para encontrar empleo (si te sabes vender), buscar compañeros para un proyecto o, por qué no, contratar a alguien.</p>
+<p>Los orgaizadores tuvieron la amabilidad de invitarme y brindarme la posibilidad de hablar sobre cómo iniciarse en el desarrollo iOS. Acostumbrado como estoy a estar siempre hablando de lo mismo a veces pienso si no seré un pesado y que todo el mundo ya <em>sabe programar para</em> iOS. Pero parece que no, así que aproveché para contar cómo empezar en esto de iOS y, ya que estaba, para promocionar la <a href="/2010/11/12/nscoder-nights-sevilla/">NSCoder Night de Sevilla</a> (nuestra reunión de programadores Cocoa en Sevilla). Espero que la charla en sí gustase y fuera instructiva. Divertida, a juzgar por las risas lo fue. Si he atraído al lado correcto de la Fuerza a unos cuantos Sith me sentiré satisfecho.</p>
+<p><a href="/wp-content/uploads/2013/02/ambiente_betabeers.jpg"><img src="/wp-content/uploads/2013/02/ambiente_betabeers.jpg" alt="Ambiente en la Betabeers" title="Ambiente en la Betabeers" width="500" height="375" class="aligncenter size-full wp-image-1873" srcset="/wp-content/uploads/2013/02/ambiente_betabeers.jpg 500w, /wp-content/uploads/2013/02/ambiente_betabeers-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+</p>
+<p>Tras las charlas (en esta ocasión también nos hablaron de cómo dar de alta bugs en Debian y de cómo realizar activismo social en Internet, charlas ambas muy interesantes y recomendables, como sus ponentes, @amayita y @edipotrebol) se retiraron las sillas y, ya todos de pie en corrillo, empezó la parte de «beers» de la reunión. Al estilo de una reunión de autoayuda, nos fuimos presentando y contando cada uno lo que hacemos. Es una buena manera de romper el hielo y conocer de un vistazo a gente con intereses similares a los tuyos.</p>
+<p>Y tras estas primeras cervezas «de fogueo» nos fuimos a una cervecería donde, por un precio muy bueno salimos ciegos de comer y beber. En mi caso, Coca-Cola, que tenía que conducir. Soy un triste, ya lo sé&#8230;</p>
+<p>Si quieres ver el ambiente, <a href="http://www.facebook.com/media/set/?set=a.488710544519284.121422.160534924003516&amp;type=1&amp;l=267f155f1d">aquí</a> hay un montón de fotos del evento.</p>
+<h1>Cosas que me han sorprendido</h1>
+<p>No tenía expectativas creadas, ya que era la primera Betabeers a la que iba en mi vida. Pero me esperaba una reunión pequeñita de programadores locales. Todos hombres. Varias sorpresas:</p>
+<ul>
+<li>de pequeñita, nada. 70 personas es una reunión con nombre y apellidos. Esto no lo «juntamos» en una NSCoder Night ni pagando.</li>
+<li>de local, nada. Allí había gente que ahora vivirá en Sevilla, pero que era de toda España. Esto me lo esperaría en Madrid o Barcelona, pero uno tiende a seguir pensando en Sevilla como un pueblo&#8230; el más bonito del mundo, eso sí <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>multinacional. Había gente de otros países. Los había incluso que no hablaban Español, lo cual siempre da pie a una charla en Inglés. Esto es muy bueno, porque nos aporta la experiencia y puntos de vista de fuera.</li>
+<li>había mujeres. Sin ir más lejos, Amaya que habló de Debian. Quien me conoce sabe que me da igual cómo seas, siempre que sepas hacer bien tu trabajo. Pero es raro encontrarse con mujeres en nuestro sector (una pena, esto parece un seminario). ¡Pero con mujeres que hablen de Debian!. Eso es para nota. Si llega a abrir una bash entro en shock&#8230; Aunque esto cada vez me pasa menos: en las últimas conferencias en las que he estado (especialmente en el iOSDevUK) he conocido a cada «mónstrua» que te deja pensando: «¿y ésta de dónde saca tiempo para meterse todo eso en el cerebro?». </li>
+<li>muy, muy bien organizado todo. El sitio, la división en tiempo, la forma de facilitar el <em>networking</em></li>
+</ul>
+<p>Resumiendo este rollo: <strong>volveré</strong>, como dijo Schwarzenegger en Terminator.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

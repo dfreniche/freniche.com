@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Mi nueva máquina y por qué no me he comprado un rMBP</title>
+	<atom:link href="/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Preparando el MWC 2013: First World Problems &#124; freniche.com: iPhone, Java, Macs, Linux...</title>
+		<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/comment-page-1/#comment-128251</link>
+		<dc:creator><![CDATA[Preparando el MWC 2013: First World Problems &#124; freniche.com: iPhone, Java, Macs, Linux...]]></dc:creator>
+		<pubDate>Tue, 19 Feb 2013 08:35:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1826#comment-128251</guid>
+		<description><![CDATA[[...] llevar el portátil o no. Y creo que va a ser no. Pese a que me encanta mi MBP 13&#8243;, del que ya escribí hace no mucho, no acabo de ver el sentido de llevármelo. Salgo de Sevilla el Lunes a las 8:30 en AVE y llego a [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] llevar el portátil o no. Y creo que va a ser no. Pese a que me encanta mi MBP 13&#8243;, del que ya escribí hace no mucho, no acabo de ver el sentido de llevármelo. Salgo de Sevilla el Lunes a las 8:30 en AVE y llego a [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/comment-page-1/#comment-122031</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2013 15:17:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1826#comment-122031</guid>
+		<description><![CDATA[@Miguel Ángel: efectivamente. Ahora el MBP tiene dos discos duros.]]></description>
+		<content:encoded><![CDATA[<p>@Miguel Ángel: efectivamente. Ahora el MBP tiene dos discos duros.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguel Angel</title>
+		<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/comment-page-1/#comment-122019</link>
+		<dc:creator><![CDATA[Miguel Angel]]></dc:creator>
+		<pubDate>Wed, 23 Jan 2013 14:18:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1826#comment-122019</guid>
+		<description><![CDATA[Entonces tienes 2 discos en el portatil? Yo es que estoy pensando agregarle un SSD a mi MBP y estaba mirando posibilidades, y queria aprovechar el disco que le quitaré.]]></description>
+		<content:encoded><![CDATA[<p>Entonces tienes 2 discos en el portatil? Yo es que estoy pensando agregarle un SSD a mi MBP y estaba mirando posibilidades, y queria aprovechar el disco que le quitaré.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Plataformas móviles &#8211; freniche.com</title>
+	<atom:link href="/tag/plataformas-moviles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Charla sobre «El estado de la nación móvil»</title>
+		<link>/2012/09/14/charla-sobre-el-estado-de-la-nacion-movil/</link>
+		<pubDate>Fri, 14 Sep 2012 09:10:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Plataformas móviles]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+		<category><![CDATA[WP7]]></category>
+
+		<guid isPermaLink="false">/?p=1786</guid>
+		<description><![CDATA[Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-1788" title="Hablando del estado de la nación móvil" src="/wp-content/uploads/2012/09/Foto_1.jpg" alt="Hablando del estado de la nación móvil" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_1.jpg 640w, /wp-content/uploads/2012/09/Foto_1-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p style="text-align: justify;">Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo que los asistentes (que me tenían que aguantar), no tanto.</p>
+<p style="text-align: justify;">Es increíble lo mucho que cambia esta parte del sector informático en meses. En Julio estuve en Zafra realizando este taller, pero con más profundidad, para ayudar a una empresa a elegir su estrategia móvil para desarrollo. Como eran programas in house y ya sabían Java finalmente vimos que lo mejor era la ruta Android. Pero desde entonces Samsung ha sido condenada por copiona, ha salido el Kindle Fire HD, el Nexus 7, se han anunciado los nuevos Lumias&#8230; Esto va a velocidad de vértigo y son tantas las plataformas y hay tanto ruido que es normal que el que no esté al tanto quiera alguna indicación.</p>
+<div><a href="/wp-content/uploads/2012/09/Foto_2.jpg"><img class="aligncenter size-full wp-image-1789" title="Al fondo, inasequible al desaliento" src="/wp-content/uploads/2012/09/Foto_2.jpg" alt="Al fondo, inasequible al desaliento" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_2.jpg 640w, /wp-content/uploads/2012/09/Foto_2-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></div>
+<div>La pena es que no pudimos hacer casi ni un hola mundo con Xcode. Quería hacer algo también con Android, pero fue imposible. O haber enseñado alguna aplicación webOS, o Windows Phone. Pero cuatro horas se van volando, cuando hablas de algo que te apasiona <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+<p style="text-align: justify;">P.D.: <a href="http://www.avante.es/">Avante</a> ha convocado un <a href="http://www.avante.es/master/desarrollo_apps.html">máster de desarrollo iOS, Android y Windows Phone</a>. Tienes la oportunidad de aguantarme enseñando a programar en  iOS y Android si te apuntas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">P.P.D.: ya <a href="/2010/10/08/video-de-mi-intervencion-en-etic/">a finales de 2010 estuve hablando en un encuentro e-Tic de Avante sobre iOS</a>. Hay vídeo para recordarlo.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Android ya hace cosas que mi iPhone no es capaz</title>
+		<link>/2009/12/28/android-ya-hace-cosas-que-mi-iphone-no-es-capaz/</link>
+		<pubDate>Mon, 28 Dec 2009 22:18:42 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Plataformas móviles]]></category>
+
+		<guid isPermaLink="false">/?p=537</guid>
+		<description><![CDATA[&#60;modo-irónico&#62; Hace ya algún tiempo contaba qué hacer cuando una aplicación en el iPhone no se acaba de instalar desde el App Store. Y hay aplicaciones en el iPhone que fallan. Como todo hijo de vecino, el iPhone tiene sus problemas y no es la plataforma perfecta (aunque es la que más se acerca). El [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&lt;modo-irónico&gt;</p>
+<p style="text-align: justify;">Hace ya algún tiempo contaba <a href="/2009/01/11/iphone-cuando-la-instalacion-de-una-aplicacion-se-queda-a-medias/">qué hacer cuando una aplicación en el iPhone no se acaba de instalar desde el App Store</a>. Y hay aplicaciones en el iPhone que fallan. Como todo hijo de vecino, el iPhone tiene sus problemas y no es la plataforma perfecta (aunque es la que más se acerca). El caso es que he estado unos días trasteando con un móvil de Vodafone con Android, concretamente un HTC Magic blanco. Y me ha gustado Android. Es la única plataforma que va a hacerle sombra al iPhone. Palm parece que también tiene una buena apuesta con su WebOS, pero no veo yo a los programadores corriendo a esta plataforma, por mucho WebKit que se pueda usar, ni a los usuarios adoptándola masivamente.</p>
+<p style="text-align: justify;">El caso es que el móvil se quedó colgado. No una aplicación, sino uno de los procesos principales del S.O. Y no pude resistir la tentación de sacarle una foto y ponerla por aquí. El mensaje es de lo más claro para un usuario normal «<em>El proceso android.process.acore no está respondiendo</em>«, en la más <a href="/2008/12/30/mensaje-de-error-actualizando-de-ubuntu-710-a-ubuntu-810/">clásica tradición Linuxera</a>. ¡Así da gusto!. Si algo falla en un terminal portátil, es mejor cerrar la aplicación y no contarle nada al usuario. La gente normal vuelve a abrir el programa y, si no falla de nuevo, sigue con su vida tan contenta. Esta manía de informático de poner un diálogo modal con un mensajito es algo que debe ir cambiando paulatinamente, si es que Android no quiere enfocarse únicamente a los iniciados en temas técnicos. Porque si va por ahí, va a durar bastante poco a medida que salgan nuevas generaciones de iPhones&#8230;</p>
+<div id="attachment_538" style="width: 235px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/12/android-cuelgue.jpg"><img class="size-medium wp-image-538" title="android-cuelgue" src="/wp-content/uploads/2009/12/android-cuelgue-225x300.jpg" alt="Un mensaje clarito además de tener el teléfono colgado..." width="225" height="300" srcset="/wp-content/uploads/2009/12/android-cuelgue-225x300.jpg 225w, /wp-content/uploads/2009/12/android-cuelgue-768x1024.jpg 768w, /wp-content/uploads/2009/12/android-cuelgue.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" /></a><p class="wp-caption-text">Un mensaje clarito además de tener el teléfono colgado...</p></div>
+<p>&lt;/modo-irónico&gt;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

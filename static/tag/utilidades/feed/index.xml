@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>utilidades &#8211; freniche.com</title>
+	<atom:link href="/tag/utilidades/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Accediendo a todos los iconos de la barra de menús del Mac</title>
+		<link>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/</link>
+		<comments>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/#comments</comments>
+		<pubDate>Sun, 16 Mar 2014 17:40:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trucos]]></category>
+		<category><![CDATA[utilidades]]></category>
+
+		<guid isPermaLink="false">/?p=2134</guid>
+		<description><![CDATA[Una de las cosas que siempre me ha gustado más del Mac es que la barra de menús no está pegada a la ventana. Siempre en su sitio, sabes dónde tienes que mirar para encontrar una opción. Como en el Amiga OS, por cierto. Estoy tan acostumbrado, que las ventanas de Windows con los menús [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Una de las cosas que siempre me ha gustado más del Mac es que la barra de menús no está <em>pegada</em> a la ventana. Siempre en su sitio, sabes dónde tienes que mirar para encontrar una opción. Como en el Amiga OS, por cierto. Estoy tan acostumbrado, que las ventanas de Windows con los menús <em>pegados</em> ahora se me hacen raras. Cuestión de costumbre supongo.</p>
+<p>Junto con los menús me he habituado a acceder a muchas Apps a través de sus iconos en la barra de menú. Como una especie de <em>accesos rápidos</em>, me resulta sencillo hacer click en alguno de esos iconos para consultar algo, por ejemplo de Dropbox, o BitTorrent Sync, o Evernote. Y tiendo a tener muchos iconos ahí arriba.</p>
+<p>Lo cual no da demasiados problemas. Siempre que esté en el iMac de 27&#8243;, claro. Dado que la barra de menús comparte este espacio con los iconos, si el programa que tengo en primer plano (y cuyos menús se están mostrando) tiene muchos apartados, estos acaban tapando a los iconos. Se ocultan, para dejar paso a las opciones de la App. Lo cual tiene lógica. Y claro, en el iMac esto no me pasa nunca. Pero en el MBP 13&#8243; no retina, con su resolución <strong>anémica</strong> esto sucede constantemente. Y si estoy conectado a un proyector (que suelen venir directamente de 1997, con una fantástica resolución de 1024&#215;768) es para directamente pegarse un tiro.</p>
+<p>En un curso hay veces que comparto la conexión con el iPhone y quiero cerrar Dropbox, para que no sincronice usando la 3G y <em>se coma</em> el plan de datos del móvil. Y es casi imposible llegar al icono de Dropbox: todos lo tapan, pruebo cambiando con Cmd+Tab de programa, hasta encontrar el que tenga menos opciones de menú y así no tape los iconos&#8230; un rollo. Hasta que descubrí <a href="http://www.ortisoft.de/en/accessmenubarapps/">AccessMenuBarApps</a>.</p>
+<div id="attachment_2135" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2014/03/access-menubarapp.png"><img src="/wp-content/uploads/2014/03/access-menubarapp-300x5.png" alt="Access Menu Bar App" width="300" height="5" class="size-medium wp-image-2135" srcset="/wp-content/uploads/2014/03/access-menubarapp-300x5.png 300w, /wp-content/uploads/2014/03/access-menubarapp-1024x18.png 1024w, /wp-content/uploads/2014/03/access-menubarapp-535x9.png 535w, /wp-content/uploads/2014/03/access-menubarapp.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Access Menu Bar App</p></div>
+<p><a href="http://www.ortisoft.de/en/accessmenubarapps/">AccessMenuBarApps</a> es una pequeña utilidad que, una vez lanzada, puedes activar con una combinación de teclas (en mi caso con Mayúsculas izquierda + Esc) y que «limpia» de opciones de menú la barra superior. Es un gustazo, cuando estás conectado al proyector, poder llegar así a todos tus iconos, de un teclazo. Se ha convertido en una herramienta básica de mi día a día. Y encima es gratis. Se merece una donación ¿no?.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

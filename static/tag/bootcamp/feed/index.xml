@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bootcamp &#8211; freniche.com</title>
+	<atom:link href="/tag/bootcamp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Windows 8 en mi iMac late 2009</title>
+		<link>/2014/06/11/windows-8-en-mi-imac-late-2009/</link>
+		<comments>/2014/06/11/windows-8-en-mi-imac-late-2009/#comments</comments>
+		<pubDate>Wed, 11 Jun 2014 16:15:45 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Bootcamp]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=2187</guid>
+		<description><![CDATA[TL;DR; Este es el mejor resumen de lo que viene a continuación: Me gusta jugar. Lo confieso. Especialmente a los juegos de acción en primera persona (vicio adquirido con el mítico Wolfestein 3D) y a los de estrategia por turnos. Por turnos. Los otros son un corre que te pillo para ganar. Esto se lo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>TL;DR;</h2>
+<p>Este es el mejor resumen de lo que viene a continuación:</p>
+<p><a href="/wp-content/uploads/2014/06/t0XHtgJ.gif"><img src="/wp-content/uploads/2014/06/t0XHtgJ.gif" alt="Escena de Dexter" width="240" height="180" class="aligncenter size-full wp-image-2189" /></a></p>
+<h2>Me gusta jugar.</h2>
+<p>Lo confieso. Especialmente a los juegos de acción en primera persona (vicio adquirido con el mítico <a href="http://es.wikipedia.org/wiki/Wolfenstein_3D">Wolfestein 3D</a>) y a los de estrategia por turnos. Por turnos. Los otros son un <em>corre que te pillo</em> para ganar. Esto se lo debo a <a href="http://es.wikipedia.org/wiki/Civilization">Civilization</a>, que conocí en el centro de cálculo de la entonces Facultad de Informática. Desde entonces (y desde antes) siempre me ha encantado jugar. De hecho, tengo un refrán propio: <em>«desconfía del programador que no juegue»</em>.</p>
+<p>En el Mac mis necesidades de juegos han estado bastante bien cubiertas por Steam estos años. Los juegos que me interesan los tengo. Salvo uno: Héroes of Might and Magic, que siguen empeñandose en sacarlo solo para Windows. Lo cual es absurdo, porque digo yo que si un montón de juegos salen ya para Mac es perder mercado y tal, pero bueno. El caso es que me lo compré hace un tiempo y no he podido jugar por no tener a mano una máquina Windows con una tarjeta gráfica de al menos 512 MB. Aquí no valen máquinas virtuales ni otros apaños: necesitas «the real thing».</p>
+<p>En esta tesitura estaba cuando caí en que mi iMac tiene exactamente esa memoria gráfica. Y es un Core i7. Y tiene 12 GB RAM. Vamos, que es un maquinón. ¿Por qué no usarlo para mis necesidades de jugón instalando con BootCamp una partición con Windows? Eso es lo que hice con mi Mac Mini, pero terminé por no usarlo ya que los juegos iban muy, muy lentos debido a la triste potencia gráfica (y de CPU) de mi Mac Mini. Que de servidor y eso aguanta, pero para cosas más exigentes en gráficos el pobre no puede.</p>
+<p>Así que me puse manos a la obra, pensando que con Bootcamp y mi DVD de Windows 8 la cosa estaba controlada. No sabía cuanto me equivocaba.</p>
+<h2>La clave de producto de Windows</h2>
+<p>Antes de hacer nada empecé planificando todos los pasos en mi libreta. Para reunir los materiales necesarios, anticipar problemas y esas cosas. Cuando salió Windows 8 compré una licencia de Windows 8 Pro por sí la necesitaba para desarrollo Windows Phone y por echar un vistazo a la interfaz Metro (o como se tenga que llamar ahora). Por todo eso y por otra cosa: porque estaba barata, 30 Eur.</p>
+<pre><code>Nota al margen: Microsoft, quizás aprendas que es mejor ganar un poco menos con cada licencia, y llevarte el 100% que seguir empeñada en cobrar un Potosí por cada programa...
+</code></pre>
+<p>Pues bien: no encontraba la licencia. No estaba en Evernote, ni en el disco duro del Mac, ni encontraba mensaje alguno de confirmación de la compra. Sólo veía un correo de Paypal de confirmación del pago, pero de «Product Key» nada de nada. Pues vaya. Para una vez que pago una licencia de Microsoft, me hace ilusión utilizarla. Como no la encontraba la solución fue arrancar una máquina virtual donde la había instalado y sacarle una foto con el iPhone a la clave. Luego, mucho más tarde, caí en que la clave estaba en un correo en mi cuenta de hotmail. Sí, esa que todos tenemos y no usamos. Pero eso es otra historia para un segundo post donde hablaré de las activaciones de productos Microsoft. Que tiene mucha guasa, por cierto.</p>
+<h2>Copias de seguridad</h2>
+<p>Armado con mi clave de producto me dispuse a hacer copias de seguridad del iMac. A fin de cuentas, usar Bootcamp supone crear nuevas particiones en el disco, y eso es peligroso, ¿no?. Así que con Techtool 7 he creado una copia arrancable del iMac en un HD externo de 1 TB que tengo para estas cosas. Y claro, además de crearla hay que reiniciar usando ese disco de copia de seguridad como disco de arranque y comprobar que si todo sale mal, al menos puedes dejarlo todo como estaba.</p>
+<p>Todo Ok, tras un siglo de esperas.</p>
+<h2>Fusion drive</h2>
+<p>De pronto, un escalofrío recorre mi espalda. Recuerdo que tengo instalado un SSD en el sitio que antes ocupaba la unidad Superdrive. Y que creé un grupo de volúmenes con Fusion Drive, de manera que OS X gestiona de forma automática que ficheros deben ir en el SSD y cuales en el HD. Así qué me entra la duda: si instalo Windows 8 ¿dónde se instala?. ¿En el SSD? ¿Se carga el Fusion Drive? ¿No se puede instalar por culpa de este?</p>
+<p>Buscando un poco encontré la respuesta en las preguntas frecuentes de Bootcamp. Simplemente se va a instalar en el HD, sin tocar el SSD. Así qué puedo seguir. Phew!</p>
+<h1>Bootcamp no soporta Windows 8</h1>
+<p>Pues eso. Que BootCamp no soporta Windows 8 en mi iMac late 2009 y no me lo ofrece como opción a la hora de instalar. Me deja bajar los drivers (en teoría, más sobre esto ahora) y sólo te deja instalar Windows 7. Según Apple, mi iMac no debe ser lo suficientemente potente para ejecutar Windows 8, o bien ellos no quieren seguir dando soporte a una máquina ya <em>antigua</em>. Voto por esto último.</p>
+<p>El caso es que intenté bajar los drivers y ¡oh sorpresa! BootCamp fallaba al descargarlos. Tuve que usar mi Google-Fu y explorar un poco para encontrar una web desde la que descargarlos a mano. Porque esa es otra: Apple no te da una manera clara y sencilla de acceder a ellos. Una lista en una página de descargas bastaría, pero no.</p>
+<p>Aunque hay unos drivers en Bootcamp > Lbrary > Application Support > Bootcamp > WindowsSupport.dmg que pueden servirte. Lo dejo aquí por si acaso.</p>
+<h1>Instalemos Windows 8</h1>
+<p>Ahora viene lo fácil. Vi un truco para saltarse a BootCamp en modo «sólo instalo Windows 7» que era meter un DVD con Win 7, dejarle hacer las particiones y luego, al reiniciar, cambiarlo por uno de Windows 8. Esa era una opción. La otra, instalar Win 7 y luego actualizarlo a Win 8, pero lleva más tiempo (son dos instalaciones)</p>
+<p>Pero claro, todo esto es usando la unidad Superdrive del iMac. La interna. Sí, <em>esa que ya no tengo desde que le puse un SSD y monté Fusion Drive</em>. Pero no pasa nada, ¿no?. A fin de cuentas, la tengo instalada en una caja externa USB y podré iniciar la máquina con el DVD de Windows y&#8230; <strong>Pues no</strong>. No funciona. Lo intento, pero Windows no arranca desde el DVD (que, por cierto, he tenido que crear tras bajarme una ISO de la web de Microsoft). Grabando DVDs en 2014 <em>like some kind of animal</em></p>
+<p>Buscando en foros me encuentro con que sí quiero instalar Windows en mi iMac, por un lado BootCamp no me genera una llave USB de instalación (el iMac es muy antiguo por lo visto para eso) y que puedo instalar Win 7 (no Win 8) pero usando una unidad superdrive externa oficial de Apple. Que esas sí funcionan.</p>
+<p>Tragedia. Estoy atrapado.</p>
+<p>¿Pido a alguien prestada una unidad Superdrive de Apple <em>pata negra</em>? ¿Reinstalo el Superdrive? ¿Me como Win 8 con patatas?</p>
+<h2>Winclone</h2>
+<p>Como soy un cabezón y sabía que de alguna manera se podría hacer seguí buscando por foros y leí sobre Winclone. Winclone es un programa pensado para hacer copias de seguridad de particiones BootCamp. Puedes almacenar en un fichero tu partición y así te ahorras tener que andar instalando drivers, programas, actualizando, etc si tienes algún problema con Windows. En el Mac, con Time Machine por un lado y una copia arrancable que hagas con SuperDuper, Carbon Copy Cloner o Techtool Pro tienes el lado OS X perfectamente protegido. El problema es si tuviera que reinstalar todo el Windows.</p>
+<p><a href="/wp-content/uploads/2014/06/winclone.png"><img src="/wp-content/uploads/2014/06/winclone.png" alt="Winclone, utilidad para clonar particiones Bootcamp" width="1245" height="768" class="aligncenter size-full wp-image-2195" srcset="/wp-content/uploads/2014/06/winclone.png 1245w, /wp-content/uploads/2014/06/winclone-300x185.png 300w, /wp-content/uploads/2014/06/winclone-1024x631.png 1024w, /wp-content/uploads/2014/06/winclone-920x567.png 920w" sizes="(max-width: 1245px) 100vw, 1245px" /></a></p>
+<p>El caso es que se me ocurrió una idea. Yo ya tenía instalado Windows en mi Mac Mini. ¿Por qué no hacer un Winclone de esa partición, pasarla con un HD externo USB al iMac y machacar la partición BootCamp vacía con esa imagen? Mi lado geek me decía que no, que para que comprar un programa si con un <code>dd</code> podría hacerlo yo solito. El problema es el sector de arranque de Windows que se crea en la partición de BootCamp. Si pudiera iniciar Windows podría arreglarlo y tal, pero dado que estaba atrapado, pagué los 29 $ que cuesta y listo. Si funciona, los apenas 22 € valdrían la pena.</p>
+<p>Y valieron la pena. Creé la imagen en el Mac Mini (unas horitas) y la pasé a un disco USB grande (en el que por supuesto no tenía espacio y tuve que ordenar). Una vez copiado, instalé Winclone en el iMac, restauré la imagen y&#8230; ¡vive! ¡Está vivo!</p>
+<p><a href="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg"><img src="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg" alt="It&#039;s alive!" width="250" height="250" class="aligncenter size-full wp-image-2193" srcset="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg 250w, /wp-content/uploads/2014/06/Young-Frankenstein1-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /></a></p>
+<h2>Colofón</h2>
+<p>Al fin, tras una lucha titánica, tengo instalado Win 8 en el Mac. Lo uso para el Héroes y en el futuro para algún que otro juego. Pero si lo necesito para algo, ahí está. Muchas veces hago instalaciones por el placer de cacharrear con los sistemas, pero en este caso, además, estoy disfrutando del resultado.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/11/windows-8-en-mi-imac-late-2009/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

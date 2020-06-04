@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Perry &#8211; freniche.com</title>
+	<atom:link href="/category/perry/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El agobio de repuesto</title>
+		<link>/2015/07/23/el-agobio-de-repuesto/</link>
+		<comments>/2015/07/23/el-agobio-de-repuesto/#comments</comments>
+		<pubDate>Thu, 23 Jul 2015 10:50:04 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[automachaque]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Reflexiones]]></category>
+
+		<guid isPermaLink="false">/?p=2640</guid>
+		<description><![CDATA[TL;DR: auto fustigación y pesimismo ahead. Igual prefieres ponerte Les Luthiers para divertirte. No se si es por ser programador, o por ser informático. No, debe ser por intentar sobrevivir como autónomo en España, luchando contra unos impuestos disparatados que no ayudan mucho al que gana poco. O directamente porque soy tonto del culo. El [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote>
+<p>TL;DR: auto fustigación y pesimismo  ahead. Igual prefieres ponerte <a href="http://www.lesluthiers.com/">Les Luthiers</a> para divertirte.</p>
+</blockquote>
+<p>No se si es por ser programador, o por ser informático. No, debe ser por intentar sobrevivir como autónomo en España, luchando contra unos impuestos disparatados que no ayudan mucho al que gana poco. O directamente porque soy tonto del culo. El caso es que siempre ando preocupado. Agobiado. Por pequeñas cosas, cosas insignificantes, pero que están ahí. Y molestan.</p>
+<p>Cuando estás sano, tienes una estupenda relación con tu mujer, dos hijos a los que quieres con locura, has estudiado lo que te gusta, tienes trabajo, disfrutas de tus padres y familia&#8230; Parece que quejarse no es una opción. Hay que ser tonto, ¿no?. Problemas del primer mundo&#8230;</p>
+<p>Pero como me dijo una vez un compañero, cuando estaba empezando y me dedicaba a arreglar ordenadores <em>«uno siempre quiere más»</em>. Y con el tiempo he acuñado esta frase: «cuando todo te va bien siempre tienes a mano un agobio de repuesto».</p>
+<p><em>Siempre quieres más</em>. Aquí está esa idea del deseo no satisfecho, una sed que no puedes apagar del todo, pero  que muchas veces es sólo una fantasía. Uno piensa: «si pierdo cinco kilos me sentiré mejor y haré tal o cual cosa». O peor «<em>cuando pierda 5 Kg</em> hago esto o lo otro». Son fantasías, autoengaños. Perder los kilos probablemente no te haga tan feliz como esperas. Aprende a disfrutar del deporte que practiques para perderlos. Haz ahora lo que quieras hacer o no lo hagas, pero no lo pospongas.</p>
+<p>Estos deseos me llevan, en mi caso, a comprar cosas para acallar <em>que algo no va bien</em>. Menos mal para mis finanzas (y mi salud) que las cosas que compro para generar dopamina son baratas: no soy un aficionado al juego, ni a los coches caros o las drogas (más allá del café). Me relaja mucho más comprar un viejo AMSTRAD CPC 6128 y jugar con él. Aunque no me hace tan feliz como había imaginado, porque las cosas no me pueden hacer feliz: sólo yo, reconociendo lo que tengo ahora, dando gracias por lo que tengo y disfrutándolo, podré ser feliz. No hay otra.</p>
+<h2>Las críticas</h2>
+<p>Siempre he sido así, desde que tengo uso de razón. He pasado rápido por encima de mis éxitos, porque me da un poco de pereza estar alardeando de cosas que pienso cualquiera puede conseguir, si se esfuerza. Y siempre me han afectado mucho las críticas. Pero no las externas.</p>
+<p>Esas las escucho, pero he aprendido a aceptar sólo aquellas de gente que respeto, no del primero que pasa por la calle. Las que de verdad me machacan son las internas. Esa voz interior que no para de juzgarte. De recordarte cómo has fracasado en perder los 5 Kg. O cómo no has arreglado la cerradura del patio que está rota. O que no has escrito ese libro que querías. O que no ganas el dinero que suponías te iba a hacer feliz. Esa voz que es tu peor enemigo. Esa voz siempre trae el agobio de repuesto.</p>
+<p>Este agobio, esta duda permanente en mi mismo y en si hago lo mejor o no tomando esta decisión o la otra me paralizaba antes muchísimo más que ahora. Antes me devanaba los sesos. Y sufría mucho. En silencio, como las hemorroides. Pero sufría. Así que empecé a leer libros de «autoayuda», a probar métodos de trabajo que me librasen del estrés, a hacer cosas en lugar de pensar en cómo hacerlas perfectas o si debería hacerlas.</p>
+<h2>Herramientas para salir del pozo</h2>
+<p>Por el camino he aprendido que apuntar todas las tareas en algún sitio, siguiendo el método <a href="https://es.wikipedia.org/wiki/Getting_Things_Done">GTD</a> te libera de la obligación de recordar. Una vez apuntado ya sabes que tu lista de tareas se acordará. Que reflexionar con un mapa mental, pintando en un cuaderno, me ayuda a ver mejor las cosas desde arriba y a tomar decisiones. Que no hay que ver todas las tareas a la vez, sino visualizarlas una tras otra. Es difícil luchar contra tantos problemas a la vez. ¿Pero contra uno? Seguro que gano. Me he ido conociendo y he desarrollado <a href="/2014/02/06/mi-rutina-diaria-de-trabajo/">rutinas para trabajar mejor</a>. Y me <em>autoengaño</em>, por ejemplo, empezando siempre con una tarea muy sencilla, casi absurda. Pero una vez has empezado, sólo hay que mantener la bola rodando. «El principio es la mitad del todo» (Pitágoras, sí, el culpable de que suspendieras el examen de senos y cosenos).</p>
+<p>Me he hecho un gurú <em>de cartón piedra</em> de la productividad personal. Y claro, uno piensa que «cuando me sepa organizar perfectamente el agobio se irá». Y, como todas las fantasías, se desvanece en contacto con la realidad. Hay días buenos. Y días malos.</p>
+<p>Lo malo es que, una vez que tuviste un día muy bueno en el que fuiste un 150% productivo tu cerebro quiere que todos los días sean siempre como ese. Y claro, eso no puede ser. La vida cambia: te pones enfermo, se acaba la comida del frigorífico, hay que pagar los impuestos, se estropea el coche, un amigo te invita a su segunda boda&#8230; Hay que <a href="https://www.youtube.com/watch?v=gme1h1IfJZA&amp;feature=youtu.be&amp;t=95">improvisar, adaptarse, vencer</a>. Y no hay que sufrir porque hoy sólo has rendido un 50%</p>
+<p>El resumen de todas las técnicas de autoayuda, productividad personal, herramientas, etc. es sencillo: haz cosas. Al hacer cosas te sentirás un poco mejor. Haz muchas cosas y te sentirás bastante mejor. ¿Meditación? Un 5% más de felicidad. ¿Deporte? Otro 10%. Tus aficiones, otro 10%. Ve sumando.</p>
+<h2>Soy un fraude</h2>
+<p>Pero todo esto no me quita la sensación de engañar a todo el mundo. Dicen que se llama <a href="https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor">síndrome del impostor</a>. En mi caso lo soy. Un impostor, digo. Porque es muy difícil, al ritmo que cambian las tecnologías, mantenerte al día. Ser relevante. Aprender iOS, Objective-C, Xcode, Cocoa, sus patrones de diseño, a manejar herramientas como Instruments, git, organiza tu trabajo&#8230; Y luego métete con Android, Eclipse, Java, Android Studio&#8230;</p>
+<p>Demasiado para mi. Me hago viejo y tonto. Si fuera tan listo como me gustaría habría montado una empresa de la que me sintiera orgulloso. O tendría un proyecto software libre que fuera mío. O al menos una biblioteca de funciones que valiera la pena. O un buen blog. O un libro&#8230; La realidad es que soy un fraude y no tengo nada de esto porque no doy el nivel. No excuses.</p>
+<p>Sufro cuando tengo que enseñar a alguien. Siempre pienso que me van a pillar, que se va a descubrir el fraude, que todos van a ver que realmente no tengo ni idea. O cuando tengo que hacer una App para un cliente. App con la que tardaré más de lo presupuestado, perderé dinero como siempre y de la que no me sentiré satisfecho. Me hace gracia cuando me llaman «Senior» developer. Será por lo viejo.</p>
+<p>Por eso no tengo la empresa. Por eso no publico el código que tengo. Por todo eso.</p>
+<p>Hay días buenos, cuando ves que te acercas a tus objetivos. Otros no son tan buenos y sólo puedes agachar la cabeza y seguir avanzando. Y esperar que la cosa mejore.</p>
+<p>Pero me gustaría tanto que todos los días fueran buenos&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/23/el-agobio-de-repuesto/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>No comments</title>
+		<link>/2014/09/24/no-comments/</link>
+		<pubDate>Wed, 24 Sep 2014 09:18:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[freniche.com]]></category>
+
+		<guid isPermaLink="false">/?p=2625</guid>
+		<description><![CDATA[Después de mucho tiempo pensándolo, al final he dado el paso. Artículos como éste, de Matt Gemmel y el hecho de que para mí el blog de blogs es el de Joel Spolsky y desde el principio no tenía comentarios me han llevado a cancelarlos. Y eso que yo tengo mucha suerte. El nivel de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Después de mucho tiempo pensándolo, al final he dado el paso. Artículos como <a href="http://mattgemmell.com/comments-off/">éste</a>, de Matt Gemmel y el hecho de que para mí el blog de blogs es el de Joel Spolsky y desde el principio no tenía comentarios me han llevado a cancelarlos.</p>
+<p>Y eso que yo tengo mucha suerte. El nivel de los comentarios de este blog es muy bueno (sobre todo, comparado con otros). Pero poco a poco, iba decayendo (se ve que me hago <em>popular</em>). Así que prefiero que quien tenga una opinión distinta a la mía, la escriba calladamente en un fichero de su disco duro y no me lo envíe nunca. O eso, o que se abra su blog y escriba allí la respuesta, meditada, a lo que yo escribo. Porque estoy harto.</p>
+<p>Harto de SPAM. Harto de moderar comentarios. Harto de mucha gente que no cree que tenga una opinión distinta a la mía: se creen en posesión de la verdad. Harto de leer gente que no pasó de la adolescencia, aunque tengan niños. Harto.</p>
+<p>La vida es muy corta para moderar comentarios.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Que no se den cuenta de que eres tonto</title>
+		<link>/2014/06/23/que-no-se-den-cuenta-de-que-eres-tonto/</link>
+		<comments>/2014/06/23/que-no-se-den-cuenta-de-que-eres-tonto/#comments</comments>
+		<pubDate>Mon, 23 Jun 2014 14:09:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+
+		<guid isPermaLink="false">/?p=2204</guid>
+		<description><![CDATA[Auto-equiquetarse. Hay gente que le encanta. En esta era de la velocidad, de tener que sonar ingenioso en 140 caracteres, de las «charlas de ascensor», del speed-dating, parece que no hay tiempo para poder explicar quién es uno, qué hace, en qué puede ayudar. No hay tiempo ni de pensar. Por eso, y dado que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Auto-equiquetarse. Hay gente que le encanta. En esta era de la velocidad, de tener que sonar ingenioso en 140 caracteres, de las «charlas de ascensor», del speed-dating, parece que no hay tiempo para poder explicar quién es uno, qué hace, en qué puede ayudar. No hay tiempo ni de pensar. Por eso, y dado que las tarjetas de visita están <em>demodé</em>, hay que etiquetarse. En el perfil de LinkedIn. En la Bio de Twitter. En Facebook.</p>
+<p><strong>No vaya a ser que pase desapercibido y no se den cuenta de que soy tonto.</strong></p>
+<p>Y digo lo de ser tonto porque el contraste con cómo se etiqueta a sí misma cierta gente no puede menos que ser llamativo. <a href="http://es.wikipedia.org/wiki/Tim_Berners-Lee">Sir Tim Berners-Lee</a>, el <em>motherfucker</em> que inventó Internet, físico de formación y premio Nobel de vocación <a href="https://twitter.com/LordManley/status/480952764231843841/photo/1">se pone en los Hangouts de Google «Web developer»</a>. Como un becario aquí en España, vamos. Y mientras, hay gente que se pone de etiqueta:</p>
+<h2>CEO de un blog</h2>
+<p>Esta me genera mucha ternura. Lo digo porque para ser CEO de un blog creo que basta con abrirse una cuenta en WordPress y empezar a escribir, ¿no?. ¿O me he perdido algo?. Bueeeno, aceptamos Tumblr como blog también.</p>
+<p>Bueno, yo es que soy un antiguo y aún considero «Blog» a la bitácora personal, la página en la que a modo de diario escribe una persona que habla de los temas que le interesan. Y no el mega-portal de rumores donde se infiere cómo será el próximo iPhone a partir de fotos borrosas de una carcasa supuestamente tomadas en China (y nunca contrastadas). Mito de la caverna de Platón en acción.</p>
+<p>Claro que, generar contenido requiere esfuerzo. Y que sea bueno, mucho esfuerzo. Generar bazofia de rumores y refritos es mucho más sencillo. Pero ya lo decían antes: <em>«come mierda: cincuenta millones de moscas no pueden estar equivocadas»</em>. Por eso, presentarse como <em>CEO de un blog</em>, si no eres el dueño de The Verge o estás en conversaciones con Time Warner para que te compre por unos cuantos millones, me parece una tontada importante. Bloguero es más normalito. Gafapasta, pero normalito.</p>
+<p>Yo, por si te preguntabas, tengo una web. Desde hace diez años. Punto.</p>
+<h2>LION</h2>
+<p>LION == <a href="http://help.linkedin.com/app/answers/detail/a_id/1146/~/definition-of-l.i.o.n.">Linked In Open Networker</a>. Es decir, el que no tiene criterio para selecciona su red de contactos y acepta a todo el mundo. O, como es mi caso, que acepto a todo el mundo porque sigo el adagio de un empresario sevillano: <em>«el que un día te trae una mierda, al siguiente puede traerte un tesoro»</em>. Vamos, que contactos nunca sobran. Que los uses o no, es otra cosa. Pero es mejor tenerlos para cuando te hagan falta que no al contrario.</p>
+<p>Ponerte en tu perfil que eres un <em>LION</em> (buscad por Internet, os sorprenderá el montón que hay) me parece algo pretencioso. Y es forzar la máquina para decirle al mundo <em>«hey, mirad qué popular soy y el montón de amiguitos que tengo, soy el que más muchos amiguitos tiene en el patio del colegio y tú no, chincha rabiña»</em>.</p>
+<p>En fin, con ver que en tu cuenta de contactos pone +500 ya se sabe que no tienes criterio&#8230;</p>
+<h2>KnowMad</h2>
+<p>Esta es de las últimas <a href="http://www.wordreference.com/definicion/gilipollez">etiquetas</a> que he visto últimamente. Como se describe <a href="http://es.wikipedia.org/wiki/Knowmad">aquí</a>, es la contracción entre las palabras inglesas Conocimiento (Know) y Nómada (Nomad). Así que es un <em>culo inquieto</em>, como siempre se ha llamado a este tipo de personas. Yo mismo. Con curiosidad por las cosas, siempre aprendiendo, interesados por compartir y así aprender aún más&#8230;</p>
+<p>Se ve que <em>culo inquieto</em> no quedaba bien en las tarjetas (era demasiado largo) y prefirieron algo más cortito. Y en Inglés, que siempre mola más.</p>
+<h2>¿Y tú?</h2>
+<p>Pues que acabo de descubrir que soy un <em>Knowmad, LION CEO de un blog</em>. Estoy pensando en ponerlo en mi BIO de Twitter. A ver si me llueven las piedras. Madre, qué de gente tratando de destacar como sea&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/23/que-no-se-den-cuenta-de-que-eres-tonto/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Entrevista para el «Developer soportlight» de la WIPJam</title>
+		<link>/2014/05/14/entrevista-para-el-developer-soportlight-de-la-wipjam/</link>
+		<pubDate>Wed, 14 May 2014 15:40:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[WIPJam]]></category>
+
+		<guid isPermaLink="false">/?p=2182</guid>
+		<description><![CDATA[Este pasado MWC 2014 tuve la suerte de poder acudir y dar una de las charlas del nuevo formato de la WIPJam. La charla fue sobre Core Data, aunque no me dio tiempo a casi nada. Lo mejor (para mí) fue la gente y proyectos que conocí, y los días que pasé en Barcelona. En [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/">Este pasado MWC 2014 tuve la suerte de poder acudir y dar una de las charlas del nuevo formato de la WIPJam</a>. La charla fue sobre Core Data, aunque no me dio tiempo a casi nada. Lo mejor (para mí) fue la gente y proyectos que conocí, y los días que pasé en Barcelona.</p>
+<p>En el portal de la WIPJam entrevistan a desarrolladores de Apps móviles y nos ponen «bajo el foco». <a href="http://wip.org/blog/developer-spotlight-diego-frenciche/">Esta vez me ha tocado a mi</a>. Espero que os guste.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Simplificando lo que llevo en los bolsillos</title>
+		<link>/2014/05/07/simplificando-lo-que-llevo-en-los-bolsillos/</link>
+		<comments>/2014/05/07/simplificando-lo-que-llevo-en-los-bolsillos/#comments</comments>
+		<pubDate>Wed, 07 May 2014 15:35:43 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[filosofía]]></category>
+		<category><![CDATA[minimalismo]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Reflexiones]]></category>
+
+		<guid isPermaLink="false">/?p=2153</guid>
+		<description><![CDATA[Sigo simplificando. Son manías que tengo. O mejora continua. Interpretémoslo como queramos. Pero me relaja. Me quita presión. El caso es que, en parte inspirado por dos ideas inconexas y que he leído con mucha separación en el tiempo, pero que estaban ahí en mi cabeza, he simplificado dos cosas que habitualmente llevas contigo además [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/2014/05/01/simplificando-algo-mi-vida-digital-y-la-otra/">Sigo simplificando</a>. Son manías que tengo. O mejora continua. Interpretémoslo como queramos. Pero me relaja. Me quita presión.</p>
+<p>El caso es que, en parte inspirado por dos ideas inconexas y que he leído con mucha separación en el tiempo, pero que estaban ahí en mi cabeza, he simplificado dos cosas que habitualmente llevas contigo además de tu móvil <em>porque no caben en él</em>: la cartera y las llaves de casa.</p>
+<p>La primera idea me vino de una charla de la conferencia iOSDevUK del año pasado. Esta propuesta de Alan Cannistraro, es que en el móvil van convergiendo muchas cosas: la cámara de fotos de apuntar y disparar, el reproductor de música, la grabadora de vídeo, etc. Pero hay dos cosas que se resisten, aunque poco a poco irán convergiendo: las llaves de casa y la cartera.</p>
+<p>Así que me he puesto manos a la obra y he simplificado ambas.</p>
+<h2>Mi cartera</h2>
+<p>Llevo usando la misma cartera probablemente desde hace doce o más años. Me la regaló mi mujer, y no quiero cambiarla. Tiene el tamaño para los billetes de pesetas que había antes, y los de Euro no caben perfectamente sin doblarlos. Pues se doblan y punto. Es de una calidad excepcional y con el uso y el paso del tiempo se ha amoldado a mi mano y se ha deteriorado muy poco. Quiero que cuando empujen mi cuerpo con el pijama de madera puesto para quemarme la lleve en el bolsillo: esta cartera me entierra.</p>
+<p><a href="http://patrickrhone.com/2008/12/17/my-manifesto-travel-light/"><img src="/wp-content/uploads/2014/05/IMG_0460.jpg" alt="Foto de mi cartera abierta" width="800" height="366" class="size-full wp-image-2158" srcset="/wp-content/uploads/2014/05/IMG_0460.jpg 800w, /wp-content/uploads/2014/05/IMG_0460-300x137.jpg 300w, /wp-content/uploads/2014/05/IMG_0460-535x244.jpg 535w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>El caso es que estaba llena de cosas que no uso, para variar. Así que he hecho limpieza y ha quedado <em>ultra-slim</em></p>
+<ul>
+<li>he sacado todas las tarjetas de puntos. He unido las que de verdad uso. El resto, las que no uso, a la basura. Y las de viajes (hoteles, AVE, etc.) las he puesto juntas en una funda de plástico que va en la mochila. Así no se me olvidan en los viajes y no me pesan en el día a día.</li>
+<li>es increíble, pero había tarjetas caducadas en la cartera. Estas a la basura por el camino más corto.</li>
+<li>lo mismo para tickets, cupones, papeles, etc. Todo fuera.</li>
+<li>he quitado los abonos de EMT de Madrid y TMB de Barcelona (sí, voy tanto que llevo de ambos) y a la funda de los viajes. Menos cosas.</li>
+</ul>
+<p>Ahora dispongo de una cartera que guarda justo lo necesario. Cabe mejor en el bolsillo y me agobia menos cuando la saco, sin papeles que se caigan y sin aspecto de estallar en cualquier momento. Menos estrés.</p>
+<h2>Mis llaves</h2>
+<p>Esta idea viene de <a href="http://patrickrhone.com/2008/12/17/my-manifesto-travel-light/">un post de Patrick Rhone</a> que leí hace un tiempo. Aunque el post en sí es del 2008, creo que lo he leído hace un par de años o así. La idea clave es:</p>
+<blockquote>
+<p>Any key I don’t absolutely need on a daily basis gets taken off and hung up on a rack by the door at home. I don’t even have a fob on the keychain, it is just a ring</p>
+</blockquote>
+<p>En mi caso, siempre cargaba con dos llaveros. Tengo una casa donde vivo, y un pequeño apartamento. Bueno, tengo las hipotecas, las deudas y la esclavitud asociada. El resto lo retiene el banco. Un trato del que no me quejo: sin su dinero, yo no podría entrar en esas casas, pero aún así me gustaría ser más un <em>cliente</em> del banco y no su rehén.</p>
+<p>En tu caso, pueden ser tus llaves y las del trabajo, o las de casa de tus padres. El caso es que siempre llevaba todas las llaves (7 en total, en dos llaveros). Y me senté y empecé a pensar.</p>
+<ul>
+<li>¿para qué cargar con las llaves de los buzones? Sólo puedo abrirlos cuando esté en las casas. Y prefiero tener una llave del buzón a mano en la casa y cuando tire la basura, miro el buzón. Y no cargo con ellas siempre. He dejado una en casa, otra la llevo. Una llave menos.</li>
+<li>en la casa la cancela tiene dos puertas: para el coche y para pasar al patio anterior. Dado que cerrarlas con llave no tiene sentido (son bajas y cualquiera con <em>malas intenciones</em> puede saltárselas) nunca las cierro, salvo cuando me voy de vacaciones (hablemos de falsa sensación de seguridad&#8230;). Pues se quedan en casa. Dos menos.</li>
+<li>Ahora que miro, me quedan sólo cuatro llaves. Las he reunido en un único llavero. Que sigue teniendo un <em>adorno</em>. Estos adornos sólo sirven para distinguir rápidamente entre los llaveros colgados tras la puerta. Sería mejor tener anillos de distintos colores. Que por cierto es lo que voy a buscar, y si lo encuentro cambiaré el aro. De momento, he quitado el adorno mientras escribo esto y, de paso, para distinguir mejor las llaves, he pintado un poco una con un rotulador indeleble. A ver si aguanta.</li>
+</ul>
+]]></content:encoded>
+			<wfw:commentRss>/2014/05/07/simplificando-lo-que-llevo-en-los-bolsillos/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Simplificando algo mi vida digital (y la otra)</title>
+		<link>/2014/05/01/simplificando-algo-mi-vida-digital-y-la-otra/</link>
+		<comments>/2014/05/01/simplificando-algo-mi-vida-digital-y-la-otra/#comments</comments>
+		<pubDate>Thu, 01 May 2014 09:06:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[filosofía]]></category>
+		<category><![CDATA[LinkedIn]]></category>
+		<category><![CDATA[minimalismo]]></category>
+		<category><![CDATA[Redes Sociales]]></category>
+		<category><![CDATA[Reflexiones]]></category>
+		<category><![CDATA[Twitter]]></category>
+
+		<guid isPermaLink="false">/?p=2149</guid>
+		<description><![CDATA[Minimalismo. Simplificar. Preocuparme por menos cosas. Preocuparme menos por las cosas. La vida ya es suficientemente complicada. Y yo tiendo a complicarla aún más. Acumulando ordenadores. Acumulando teléfonos. Acumulando programas. Acumulando libros, vídeos, podcasts, música, comics. Acumulando. Libros que a veces no se leen. Vídeos para los que no tengo tiempo. Podcasts que no escucho. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Minimalismo. Simplificar. Preocuparme por menos cosas. Preocuparme <em>menos</em> por las cosas.</p>
+<p>La vida ya es suficientemente complicada. Y yo tiendo a complicarla aún más. Acumulando ordenadores. Acumulando teléfonos. Acumulando programas. Acumulando libros, vídeos, podcasts, música, comics. Acumulando.</p>
+<p>Libros que a veces no se leen. Vídeos para los que no tengo tiempo. Podcasts que no escucho. Me sorprendí a mí mismo cuando me creé una lista en iTunes con todas las canciones que tenían 0 reproducciones. ¡Había un montón!. Prueba a hacer ese ejercicio: igual te sorprendes. Y recuerdo que siempre me he reído de la gente que compraba libros y luego no los leía. Hasta que me he puesto a revisar mis estanterías&#8230;</p>
+<p>Acumular cosas tiene muchos problemas. Primero, gastas dinero en comprar el objeto. Luego, tienes que ponerlo en algún sitio. Ponerlo ahí cuesta dinero: si no tuviera nada, tendría una casa más amplia, sin estanterías. Ese es un extremo. Pienso que hay que tener el número suficiente de cosas. <a href="http://minimalmac.com/">Enough</a>, como dice Patrick Rhone. No me planteo vivir en una cueva. Pero lo cierto es que, cuantas más cosas poseas, de más cosas te tienes que preocupar. Ocupan espacio físico y mental. Y eso cansa.</p>
+<p>Acumular cansa. Y no te hace feliz. Compramos por una promesa, por la promesa de que ese objeto te hará más feliz. El colmo son esos anuncios de coches que te dicen que atarte a un préstamo para comprar un coche que no necesitas te va a hacer libre. Y vas a poder conducir por carreteras vacías mientras se pone el Sol. Eso nunca pasa. Y lo puedes hacer también con tu viejo coche, de paso.</p>
+<p>Un ejemplo son mis ordenadores. Recuerdo cuando sólo tenía mi PC, mi viejo 286. No podía hacer otra cosa que sacarle partido, al máximo. Y lo exprimía. Ahora tengo varios. Y todos tienen su función, y bastante uso. Pero a veces siento la tentación de quedarme sólo con uno. Sólo uno para gestionar, actualizar, hacer copia de seguridad. Tener varios crear <em>trabajo</em>.</p>
+<p>Otro son las redes sociales. Desde hace años tengo una sana política: no me doy de alta en ninguna nueva (a no ser, claro, que seas Google + y te <em>den</em> de alta al poner el microondas por la mañana). Ya tengo más que de sobra.</p>
+<p>Mis redes actuales son:</p>
+<ul>
+<li>Twitter. La que más uso, con mucha diferencia. Para estar informado (de las cosas de programación que me interesan). Para charlar con gente a la que admiro y sigo.</li>
+<li>Facebook. La uso bastante menos. Borraría el perfil, pero es el único punto de contacto que mantengo con algunas personas.</li>
+<li>Redes de geolocalización, o de check-ins, o como se llamen. Usaba Gowalla, pero la compró Facebook y la cerraron. No me he apuntado en Foursquare. No le veo sentido. Una menos.</li>
+<li>Fotos. Flickr. Paso de 500px, o de Pinterest, o de otras. Simplificar: Flickr me da backup infinito de mis fotos (si es que las quiero subir, que esa es otra cuestión). Y puedo crear álbumes. Que sí, que está Picasa. Pero hay que elegir: mejor una y usarla que tener varias cuentas y no aprovecharlas.</li>
+<li>Mensajería. No le veo sentido a tener BBM, iMessage, Skype, Whatsapp, Telegram, Line y las otras 100 que salen cada mes. De las anteriores, para mensajería, uso Whatsapp sobre todo. E iMessage porque viene con el iPhone. Skype lo uso para llamadas. En el resto, no me he dado de alta.</li>
+<li>Trabajo. Uso mucho LinkedIn. Tenía cuenta en Xing. Hasta hoy. He borrado mi perfil. Una menos de la que preocuparme. Menos correos recibidos. Y todas las actualizaciones en LinkedIn. </li>
+</ul>
+<div id="attachment_2150" style="width: 706px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/05/xing.png" alt="Borrando mi cuenta en Xing" width="696" height="292" class="size-full wp-image-2150" srcset="/wp-content/uploads/2014/05/xing.png 696w, /wp-content/uploads/2014/05/xing-300x125.png 300w, /wp-content/uploads/2014/05/xing-535x224.png 535w" sizes="(max-width: 696px) 100vw, 696px" /><p class="wp-caption-text">]<a href="/wp-content/uploads/2014/05/xing.png">2</a> Borrando mi cuenta en Xing</p></div>
+<p>Tengo ganas de simplificar. De simplificar mucho más. Creo que voy a empezar de nuevo otro ciclo de venta/donación/reciclaje de cosas. Quiero tener pocas cosas, y buenas. Y que use mucho. Y no acumular.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/05/01/simplificando-algo-mi-vida-digital-y-la-otra/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Mi rutina diaria de trabajo</title>
+		<link>/2014/02/06/mi-rutina-diaria-de-trabajo/</link>
+		<comments>/2014/02/06/mi-rutina-diaria-de-trabajo/#comments</comments>
+		<pubDate>Thu, 06 Feb 2014 18:32:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[organización personal]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[trabajo]]></category>
+
+		<guid isPermaLink="false">/?p=1885</guid>
+		<description><![CDATA[Trabajar por tu cuenta es el sueño de muchos. Tiene muchas cosas buenas, como poder decidir el horario que mejor se ajusta a tu vida y tus necesidades, y la posibilidad de cambiarlo para adaptarte a éstas. O (algo muy importante para mi), poder escoger las herramientas con las que te sientes más productivo, o [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Trabajar por tu cuenta es el sueño de muchos. Tiene muchas cosas buenas, como poder decidir el horario que mejor se ajusta a tu vida y tus necesidades, y la posibilidad de cambiarlo para adaptarte a éstas. O (algo muy importante para mi), poder escoger las herramientas con las que te sientes más productivo, o que te gustan más. Así, no tengo que usar un PC polvoriento con XP, o un teléfono del Pleistoceno (eso sí, <strong>corporativo</strong>). Puedo invertir mi dinero en el equipamiento que, dentro de mis posibilidades, más feliz me haga.</p>
+<p>Pero también tiene sus cosas no tan buenas. Toda la responsabilidad es tuya. Si te equivocas en algo, o la pifias, no hay excusas. No hay <em>equipo del proyecto</em> en el que envolverse. Ni un jefe que te cubra las espaldas (sí, por increíble que parezca, yo creo en los jefes que dan la cara por sus equipos; incluso cuando me ha tocado ser jefe me he llevado yo las tortas antes que mi gente, pero eso es otra historia). Cuando trabajas por cuenta ajena no hay que pensar tanto: tienes que ejecutar el trabajo que te mandan. Y tienes la seguridad de un sueldo a final de mes. Por cierto, si sientes que tu trabajo no es seguro, que ganas poco y tienes muchas responsabilidades, igual deberías plantearte montarte algo por tu cuenta&#8230;</p>
+<p>Bueno, al grano, que me pierdo. Una de las cosas en las que hay poco que pensar si eres trabajador por cuenta ajena es el horario: normalmente tienes que <strong>tragar</strong> con el que te propone tu empresa. Pero si trabajas por tu cuenta y en casa, esto del horario no es tan sencillo. Para empezar la familia tiende a pensar que, como estás en casa, puedes hacer a la vez las labores domésticas. Es decir, que como estás en casa, <em>no estás trabajando</em>. Y si tienes niños, la cosa se pone peor: hay que levantarlos, vestirlos, ponerles el desayuno, llevarlos al colegio, etc. Y claro, quieres hacer algo de deporte, lo justo para mantener la barriga dentro de unos límites razonables. Y hay que mantener la casa. Y trabajar.</p>
+<p>Así que lo primero es dejarte llevar y mimetizarte con un horario de 9 a 5, 8 h como el resto de los mortales. Hasta que ves que no empiezas a las 9, sino a las 9:30. Y que te cansas, porque 5 h seguidas pensando, aunque hagas descansos, es mucho tiempo. Y que te interrumpen con llamadas al principio de la jornada, cuando estás más fresco. Y que al final del día no tienes ganas de hacer deporte, no tienes energía para nada y no te sientes bien, porque no has cumplido con todo lo que esperabas. Y no eres feliz.</p>
+<p>Empecé a hacer pruebas y, en mi caso, he llegado a varias conclusiones:</p>
+<ul>
+<li>no son necesarias 8h de trabajo al día para <strong>rendir</strong> como 8h. 8h de oficina incluyen las charlas con nos compañeros, las paradas en la máquina del café, los correos con chistes de los amigotes, las interrupciones constantes, las reuniones&#8230; Cuando sólo estad tú, este panorama cambia de manera radical.</li>
+<li>en la oficina el horario es contínuo, que no la concentración ni la creatividad. Por eso vienen las visitas a las máquinas de café. Hacer <em>bloques monolíticos</em> de esfuerzo mental seguido no funciona. Hay que parar de vez en cuando.</li>
+<li>el móvil, pese a lo que muchos piensan, es perfectamente capaz de informarte de las llamadas perdidas. Por eso, no te obsesiones en tenerlo siempre preparado para descolgar. Cuando hay que trabajar, lo mejor es quitarle el sonido y ponerlo boca abajo. Ya luego devolverás las llamadas <em>cuando te venga bien a ti</em>.</li>
+<li>tú eres tu peor enemigo. Tú te distraes. Tú tienes que motivarte. Tú te organizas. De nuevo, el peso de la responsabilidad <em>total</em>. Hay que metalizarse.</li>
+</ul>
+<h1>La rutina</h1>
+<p>Evidentemente no puedo seguirla todas las semanas. Las semanas que tengo curso, todo se rige por el horario del curso. Pero las que estoy en casa intento seguir este horario:</p>
+<ul>
+<li>me levanto temprano. A las 5:30 o las 6:00. Y me siento en el salón, con el portátil, que he dejado allí la noche anterior. He apuntado las tareas que quiero hacer, y a esa hora sólo programo. Ni correo, ni planificar, ni nada. Programar hasta las 07:30, que es cuando se empieza a <em>despertar la casa</em>. </li>
+<li>de 07:30 a 9:00, dedico el tiempo a estar con mi familia. Mi mujer se va a su trabajo y así tengo tiempo de hablar algo con ella justo antes de salir. Voy a comprar el pan. Despierto a los niños (si no están levantados ya) y preparamos el desayuno. Se visten, los peino, preparo su bocadillo (o lo que toque) de media mañana. Les llevo al colegio. A las 9:05 suelo estar en casa. Me preparo algo para mantenerme hidratado (un té, manzanilla, lo que sea) y subo a mi oficina.</li>
+<li>aquí empiezo el segundo <em>bloque de trabajo</em>. Leo el correo (a las 9:30, luego a las 12:30 y por la tarde a las 16:30). He configurado unas alarmas en un calendario llamado <em>Hábitos</em>. En este segundo bloque hay menos programación y más de otras cosas: preparar presupuestos, responder al correo, a los mensajes de LinkedIn, resolver alguna tarea que requiera de Internet (como mirar el banco, etc.). A las 13:00 paro (en días alternos) y, si puedo, me voy a correr media hora. Luego me ducho y voy a por los niños al colegio. Si no voy a correr, simplemente hago una pausa y sigo hasta las dos menos diez.</li>
+<li>como en casa de mi suegra. Así los abuelos están con los niños y todos comemos comida de verdad. A las 15:00 estamos de vuelta en casa. Ventajas de vivir en un pueblo pequeño: los desplazamientos son instantáneos.</li>
+<li>me acuesto la siesta. Me he levantado temprano y ya he trabajado, como mínimo, 4h y media. Es una siesta <em>de verdad</em>, de 40 min al menos. Cuando me levanto, me siento muy bien: he descansado y me he dado un pequeño lujo. Me preparo un café y encaro el último bloque de trabajo del día.</li>
+<li>que suele ser de 16:30 a 18:30. A esa hora corto, y me pongo con otras cosas. Mi blog, jugar con el ordenador, hacer los deberes con los niños, recoger la casa, reparar algo&#8230; Lo que toque.</li>
+<li>me acuesto temprano (antes de las 23:00). La clave para empezar bien el siguiente día es dejar el ordenador <strong>y</strong> las tareas preparadas ahora.</li>
+</ul>
+<p>Como puedes ver, esta rutina no es la mejor para todo el mundo. Es la que mejor me funciona a mi, en este momento de mi vida. Probablemente cuando mis hijos tengan 15 años cambiaré cosas, porque no tendré que peinarles y eso. Pero ahora mismo, es la que, al final del día, me deja mejor sabor de boca y una sensación más clara de aprovechar el día.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/02/06/mi-rutina-diaria-de-trabajo/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>Mi máquina de escribir minimalista</title>
+		<link>/2013/09/08/mi-maquina-de-escribir-minimalista/</link>
+		<comments>/2013/09/08/mi-maquina-de-escribir-minimalista/#comments</comments>
+		<pubDate>Sun, 08 Sep 2013 09:04:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[filosofía]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[zen]]></category>
+
+		<guid isPermaLink="false">/?p=2011</guid>
+		<description><![CDATA[O gafapasta, que parece que viene a ser lo mismo. Pero no lo es. El gafapastismo es un término que ha venido a sustituir al snob de toda la vida. Es el listo que adopta una estética determinada y habla de unos temas determinados, casi siempre como dándole asco el mundo. Se es gafa pasta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<img src="/wp-content/uploads/2013/09/iPad-keyboard1.jpg" alt="Mi iPad con teclado Logitech" class="size-full wp-image-2052" srcset="/wp-content/uploads/2013/09/iPad-keyboard1.jpg 1024w, /wp-content/uploads/2013/09/iPad-keyboard1-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-keyboard1-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>O <a href="http://www.frikipedia.es/friki/Gafapasta"><em>gafapasta</em></a>, que parece que viene a ser lo mismo. Pero no lo es. El <em>gafapastismo</em> es un término que ha venido a sustituir al <em>snob</em> de toda la vida. Es el <em>listo</em> que adopta una estética determinada y habla de unos temas determinados, casi siempre <em>como dándole asco el mundo</em>. Se es gafa pasta por querer destacar y, como las animadoras de los institutos americanos, por querer ser más popular.</p>
+<p>El movimiento minimalista (o la moda, como prefieras) tiene raíces filosóficas mucho más profundas, basadas en el budismo y, muchas veces, en el budismo Zen. Dado que el sufrimiento lo provoca el deseo, la forma más rápida y efectiva de ser feliz es no sufrir, atacando a la causa (no al síntoma). Si somos infelices, podemos comer de más, o sufrir estrés. Podemos ponernos a dieta, o ir a que nos den un masaje, pero es más efectivo <em>entender</em> qué nos está pasando, por qué no estamos a gusto ahora mismo con nuestra vida y darnos cuenta, muchas veces, que sólo es porque deseamos cosas que no tenemos. Y que no nos hacen falta. Ser más alto, más guapo, tener el último coche o teléfono. Tener cosas no va a tapar el vacío que muchas veces sentimos dentro. Lo único que puede taparlo es conocerlo, comprender que se está creando por el deseo de una fantasía que nosotros imaginamos (que seremos más felices con ese nuevo pantalón o ligaremos más con el desodorante). Y entonces eliminar el deseo y ser felices <em>con lo que ya tenemos</em>.</p>
+<p>Como comenta <a href="http://zenhabits.net/">Leo Babauta</a> (unos de los <em>Gurús</em> en esto del minimalismo) la clave no está tampoco en no tener nada y dar la espalda al mundo. La clave está en tener aquellas cosas que realmente nos sirven, tienen un propósito en nuestra vida y nos hacen felices. Si quieres leer más sobre este tema, te recomiendo <a href="http://zenhabits.net/little-book/">este e-book de Leo Babauta</a> (que encima es gratis)</p>
+<p>El caso es que mi iPad 3 ha encontrado su ocupación definitiva. Aunque lo uso para muchas otras cosas, como ver vídeos en su pantalla retina, vídeos de Youtube, o leer cómics, es como <em>máquina de escribir</em> como realmente lo aprecio. Me encanta sentarme ante una pantalla en blanco, con un cursor parpadeante, y empezar a escribir. Apago las notificaciones y sólo estamos la página en blanco y yo.</p>
+<p>Bueno, e <a href="http://www.iawriter.com/mac/">iA Writer</a>, la App que utilizo para escribir y que <em>adoro</em>. Además de guardar los documentos en local y en Dropbox, de tener una tipografía clara y limpia, de funcionar perfectamente con mi teclado/funda Logitech tiene algo especial: el modo foco. En este modo el texto ocupa toda la pantalla y se resaltan sólo tres líneas, quedando el resto en un gris claro. Esto me permite enfocarme en lo que estoy escribiendo, con cero distracciones.</p>
+<img src="/wp-content/uploads/2013/09/iPad-focus.jpg" alt="iAWriter - modo foco"  class="size-full wp-image-2057" srcset="/wp-content/uploads/2013/09/iPad-focus.jpg 1024w, /wp-content/uploads/2013/09/iPad-focus-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-focus-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Mucho está teniendo que ver con esta <em>adoración</em> la comodidad de llevar un teclado físico junto con el iPad a todas partes. Gracias a un aviso de <a href="http://emilcar.es/">Emilcar</a> por Twitter este verano me compré en Macníficos una funda de aluminio Zagg con teclado Logitech, por un precio de risa, 25 Eur. Sí, es un modelo antiguo, y es cierto que ahora los hay más sencillos, más bonitos, <em>que te harán más feliz</em>. Pero volvemos a lo del minimalismo: este teclado es muy bonito y funciona perfectamente. No necesito comprar el último que ha salido por 80 € si puedo tener este por un tercio del precio. Este ya me hace feliz. Antes usaba uno de mis teclados BT Apple para escribir con el iPad. Pero eran dos cosas <em>sueltas</em> en la mochila. Ahora, una vez cerrado, el iPad queda protegido y forma un conjunto muy sólido y compacto con el teclado. Lo que le añade peso, claro (estamos hablando de otra capa de aluminio), pero algo malo había de tener. El teclado es fantástico para escribir, tiene atajos para copiar, cortar y pegar, para <em>despertar</em> el iPad y se empareja instantáneamente. Te puedes mover por el texto con los cursores. Hasta funcionan los atajos de Safari. Además, dispone de unos imanes para que el iPad se suspenda y despierte al separarlo del teclado.</p>
+<img src="/wp-content/uploads/2013/09/iPad-closed.jpg" alt="iPad cerrado en su funda" class="size-full wp-image-2059" srcset="/wp-content/uploads/2013/09/iPad-closed.jpg 1024w, /wp-content/uploads/2013/09/iPad-closed-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-closed-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Esta es mi máquina de escribir <em>portable</em>. Cierto es que un iPad más un teclado cuestan <em>mucho más</em> que una máquina de escribir. Cierto es también que pesan y ocupan mucho menos y me sirven para otra infinidad de cosas. Todos los posts del blog se escriben aquí. Y el resto de cosas que voy escribiendo (desde emails largos hasta material para mis cursos) poco a poco van acabando aquí.</p>
+<p>Una pantalla en blanco y un cursor parpadeando. Me recuerda a mi AMSTRAD CPC después de hacer un CLS. Hay veces que hace falta poco para ser feliz.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/08/mi-maquina-de-escribir-minimalista/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>La NSSpain</title>
+		<link>/2013/07/24/la-nsspain/</link>
+		<pubDate>Wed, 24 Jul 2013 08:22:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Logroño]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[NSSpain]]></category>
+		<category><![CDATA[Programadores]]></category>
+		<category><![CDATA[Saraos]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=1917</guid>
+		<description><![CDATA[La NSSpain es una conferencia dirigida a programadores Cocoa, tanto iOS como Mac. Al final, todo lo que empieza por NS* viene a ser un aviso del estilo de esto va de programar con el lenguaje ese raro de los corchetes. Por cierto, la insistencia en el prefijo NS (como las NSCoder Night) viene del [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>La <a href="http://nsspain.com/">NSSpain</a> es una conferencia dirigida a programadores Cocoa, tanto iOS como Mac. Al final, todo lo que empieza por NS* viene a ser un aviso del estilo de <em>esto va de programar con el lenguaje ese raro de los corchetes</em>. Por cierto, la insistencia en el prefijo NS (como las <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">NSCoder Night</a>) viene del S.O. NextStep donde se gestó el framework Cocoa y donde estuvo mantenido en <a href="http://es.halo.wikia.com/wiki/C%C3%A1mara_Criog%C3%A9nica">crio sueño</a> hasta su popularización, primero en el mundo Mac y luego definitivamente gracias al iPhone.</p>
+<p>La NSSpain va a tener lugar en Logroño (La Rioja &#8211; España), aunque es una conferencia internacional. Viene gente de diferentes países y los ponentes son nacionales (los menos) y muchos extranjeros. La <a href="http://nsspain.com/speakers/">lista de ponentes</a> es excepcional (dado que yo soy la excepción que confirma la regla) y van maestros como <a href="http://www.cocoaosx.com/autor/">Fernando Rodríguez</a>, de AGBO (el gran Jedi Master Cocoa) o Alfonso Alba (mi maestro Git, <a href="/2013/04/02/voy-a-aprender-git/">que me hizo abrir los ojos</a> y cuyo <a href="http://cursos.aprendegit.com/">curso de Git</a> no deberías perderte si en 12 h quieres enterarte <em>al fin</em> de qué va Git). Por el precio que tiene la NSSpain es un regalo, viendo la gente que viene.</p>
+<p>Se desarrolla íntegra en Inglés (por aquello de que es internacional).</p>
+<pre><code>&lt;English-fear-rant&gt;
+</code></pre>
+<p>Acabo de sentir una conmoción en la parte <em>cateta</em> de la fuerza <em>«¡oh, Dios, mi Inglés no es lo suficientemente bueno para enterarme de las ponencias! Es más, todos se van a dar cuenta y se van reír de mi. Me sacarán al escenario desnudo a leer trabalenguas, y finalmente vendrá Godzilla y me arrancará la cabeza»</em>. Vamos a ver, que se va a estar hablando de punteros, bucles, bloques, objetos&#8230; <strong>que nadie se va a poner a declamar a Shakespeare</strong>. Que con un vocabulario mínimo puedes perfectamente seguir una de estas charlas. Hay que perderle definitivamente el miedo al Inglés: es el primer lenguaje que debes aprender si quieres programar.</p>
+<pre><code>&lt;/English-fear-rant&gt;
+</code></pre>
+<p>Así que este Septiembre nos veremos allí (del 16 al 19). Yo acudo como ponente (tras varios intercambios de correo, logré <em>engañarles</em> y hacerles creer que podía impartir una charla con cierto criterio; ahora lo malo es que hay que impartirla). En mi caso, voy a <em>actuar</em> dos veces: el día previo a la conferencia, con un taller de Core Data fundamentos, para explicar lo necesario (y algo más) para funcionar con Core Data. El primer día de la conferencia, vuelvo hablando de Core Data con algunos trucos avanzados, librerías y utilidades que suelo usar para mis proyectos.</p>
+<p>Y claro, como en toda conferencia, además de los ponentes lo mejor suele ser la gente, la comunidad Cocoa. Gente que conozco físicamente o sólo por Twitter, pero que aprecio y respeto, de la que siempre aprendes y con la que quieres estar. No me voy a poner a nombrarlos uno a uno, porque sería una pesadez y de todas formas les voy a ver allí.</p>
+<p>Lo que me lleva al último punto: que nunca he estado en Logroño. Así que este viaje me va a permitir ver algo (supongo que no mucho, que yo se cómo son estas cosas luego) pero al menos darme un paseo por la ciudad y tomarme un café en el centro, que es lo que me gusta.</p>
+<p>Ya sabes: Logroño está cerca de todos lados (al menos, más cerca que Cupertino para muchos), el precio es de risa comparado con lo que vas a aprender, conocerás a gente alucinante y te lo pasarás <em>pipa</em> con <strong>personas que te entienden cuando les hablas excitado de programación</strong>. No como tu pareja, que te escucha y asiente, pero que realmente no sabe de qué le hablas.</p>
+<p>Nos vemos en la NSSpain.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Volver a empezar</title>
+		<link>/2013/07/22/volver-a-empezar/</link>
+		<pubDate>Mon, 22 Jul 2013 04:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[mejora personal]]></category>
+		<category><![CDATA[organización personal]]></category>
+
+		<guid isPermaLink="false">/?p=1913</guid>
+		<description><![CDATA[No, no me refiero al hecho de que dijera que tenía que escribir más y leer menos, y luego no he escrito desde hace meses. Me refiero a que tengo que volver a empezar a programar, después de tres semanas largas de vacaciones totalmente desconectado de un teclado. Y me cuesta. Programar es como cualquier [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, no me refiero al hecho de que dijera que <a href="/2013/02/17/escribir-en-lugar-de-leer/">tenía que escribir más y leer menos</a>, y luego no he escrito desde hace meses. Me refiero a que tengo que volver a <em>empezar</em> a programar, después de tres semanas largas de vacaciones totalmente desconectado de un teclado. Y me cuesta.</p>
+<p>Programar es como cualquier otro trabajo / afición. Es igual que correr, o escribir en tu blog (si lo haces, claro, no como yo ahora) y supongo que será como tocar un instrumento. Cuanto más practiques, mejor sabes hacerlo. Y más sencillo te resulta, con lo que tienes más ganas de volver a ello. Y practicas otro montón. Se crea ese <em>círculo virtuoso</em> que habrá sentido todo el que, tras tres semanas de correr de forma regular, siente la adicción a las endorfinas. Por cierto, que esa es otra cosa que tengo que volver a empezar a hacer&#8230;</p>
+<p>Recientemente he leído varios artículos sobre <a href="http://blog.brazencareerist.com/2013/07/19/5-secrets-to-learning-new-skills-more-quickly-than-you-ever-thought-possible/">cómo aprender a hacer cosas mucho más rápido</a>. Todos estos artículos tienen una idea común: practica mucho, «comprime» en el mínimo tiempo posible la práctica de un año de formación <em>normal</em> y obtendrás los resultados de un año de experiencia. Siempre he sido reacio a esta idea, y he pensado que aprender las cosas <em>lleva su tiempo</em>. Pero, ¿y si estoy equivocado, y con una forma distinta de ver las cosas puedo aprender un lenguaje nuevo de programación, tocar un instrumento, correr mejor o aprender un idioma más rápido? Este verano, voy a hacer algunos experimentos sobre la forma en que hasta ahora he tratado de aprender las cosas. A ver cómo me va.</p>
+<p>Y eso me devuelve a la idea inicial: que tengo que ponerme de nuevo a programar. Pese a lo que puedan pensar los que quieren aprender a programar, a todos nos cuesta, a los que empiezan o a los que llevamos algo más de tiempo. Siempre cuesta empezar. Lo bueno, es que como dijo Pitágoras de Samos, «el principio es la mitad del todo».</p>
+<p>¡Así que, menos llorar, y más programar! (Empecemos procastrinando viendo vídeos de la WWDC 2013, cuando vuelva a estar operativo el portal de Apple para Desarrolladores, claro <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Escribir en lugar de leer</title>
+		<link>/2013/02/17/escribir-en-lugar-de-leer/</link>
+		<comments>/2013/02/17/escribir-en-lugar-de-leer/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 20:12:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Autoayuda del todo a 100]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[Fortune Cookies]]></category>
+
+		<guid isPermaLink="false">/?p=1879</guid>
+		<description><![CDATA[Leer el correo. Los feeds. Consultar Twitter. Mirar mi grupo de Amiga and friends en Facebook. Ver un vídeo en Youtube. Consumir. Leer. No reflexionar. Sin pretenderlo, a lo largo de los años he terminado escribiendo bastante. No sólo en el blog, ni en el correo, que eso lo hacemos todos. En revistas, como PCWorld [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Leer el correo. Los feeds. Consultar Twitter. Mirar mi grupo de <a href="http://www.amigaandfriends.org/">Amiga and friends</a> en Facebook. Ver un vídeo en Youtube. Consumir. Leer. No reflexionar.</p>
+<p>Sin pretenderlo, a lo largo de los años he terminado escribiendo bastante. No sólo en el blog, ni en el correo, que eso lo hacemos todos. En revistas, como PCWorld o MacWorld (un minuto de silencio por esta última). O preparando material para algún curso. El caso es que es algo que me gusta, además de tener que hacerlo para ganarme la vida.</p>
+<p>Cuando era adolescente, además de leer mucho escribía algunas cosas. Y es algo que me gustaría volver a hacer. Por eso, me voy a proponer lo siguiente: escribir antes de leer. Escribir el mismo tiempo que dedico a consumir información. Aprovechar los huecos del día escribiendo algo, lo que sea, para fomentar el hábito. Hacer eso, en lugar de dejar a mi mente vagabundear por Twitter y Youtube. Y si lo que sale es basura, borrarlo, pero si es aceptable publicarlo. Creo que dedicamos mucho tiempo a <strong>anestesiarnos</strong> el cerebro haciendo lo sencillo. Leer en lugar de escribir, escuchar en vez de pensar, dudar en lugar de tomar decisiones. Así que voy a centrarme y escribir más.</p>
+<p>Dejad de leerme y haced lo mismo.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/17/escribir-en-lugar-de-leer/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Mi participación en la 7ª Betabeers de Sevilla</title>
+		<link>/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/</link>
+		<comments>/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/#comments</comments>
+		<pubDate>Tue, 12 Feb 2013 08:49:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Betabeers]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Ponencias]]></category>
+
+		<guid isPermaLink="false">/?p=1868</guid>
+		<description><![CDATA[Hace ya algunos días (concretamente el pasado 24 de Enero) se celebró en Sevilla la séptima Betabeers SVQ. Estas Betabeers, para quien no lo sepa (yo entre ellos no hace mucho) son reuniones de informáticos con diversos intereses, en las que se exponen temas y en los que su punto fuerte es el networking que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/02/difb_betabeers_svq.jpg"><img src="/wp-content/uploads/2013/02/difb_betabeers_svq.jpg" alt="Hablando en la Betabeers de Sevilla" title="Hablando en la Betabeers de Sevilla" width="500" height="667" class="aligncenter size-full wp-image-1874" srcset="/wp-content/uploads/2013/02/difb_betabeers_svq.jpg 500w, /wp-content/uploads/2013/02/difb_betabeers_svq-224x300.jpg 224w" sizes="(max-width: 500px) 100vw, 500px" /></a></a></p>
+<p>Hace ya algunos días (concretamente el pasado 24 de Enero) se celebró en Sevilla la <a href="http://betabeers.com/event/vii-betabeers-sevilla-603/">séptima Betabeers SVQ</a>. Estas Betabeers, para quien no lo sepa (yo entre ellos no hace mucho) son reuniones de informáticos con diversos intereses, en las que se exponen temas y en los que su punto fuerte es el <em>networking</em> que se puede hacer. Es decir, que conoces a un montón de gente, lo cual te puede servir para que te echen una mano si estás atascado en un problema, para no sentirte solo siendo el <em>único programador Clojure</em> de tu ciudad, para encontrar empleo (si te sabes vender), buscar compañeros para un proyecto o, por qué no, contratar a alguien.</p>
+<p>Los orgaizadores tuvieron la amabilidad de invitarme y brindarme la posibilidad de hablar sobre cómo iniciarse en el desarrollo iOS. Acostumbrado como estoy a estar siempre hablando de lo mismo a veces pienso si no seré un pesado y que todo el mundo ya <em>sabe programar para</em> iOS. Pero parece que no, así que aproveché para contar cómo empezar en esto de iOS y, ya que estaba, para promocionar la <a href="/2010/11/12/nscoder-nights-sevilla/">NSCoder Night de Sevilla</a> (nuestra reunión de programadores Cocoa en Sevilla). Espero que la charla en sí gustase y fuera instructiva. Divertida, a juzgar por las risas lo fue. Si he atraído al lado correcto de la Fuerza a unos cuantos Sith me sentiré satisfecho.</p>
+<p><a href="/wp-content/uploads/2013/02/ambiente_betabeers.jpg"><img src="/wp-content/uploads/2013/02/ambiente_betabeers.jpg" alt="Ambiente en la Betabeers" title="Ambiente en la Betabeers" width="500" height="375" class="aligncenter size-full wp-image-1873" srcset="/wp-content/uploads/2013/02/ambiente_betabeers.jpg 500w, /wp-content/uploads/2013/02/ambiente_betabeers-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+</p>
+<p>Tras las charlas (en esta ocasión también nos hablaron de cómo dar de alta bugs en Debian y de cómo realizar activismo social en Internet, charlas ambas muy interesantes y recomendables, como sus ponentes, @amayita y @edipotrebol) se retiraron las sillas y, ya todos de pie en corrillo, empezó la parte de «beers» de la reunión. Al estilo de una reunión de autoayuda, nos fuimos presentando y contando cada uno lo que hacemos. Es una buena manera de romper el hielo y conocer de un vistazo a gente con intereses similares a los tuyos.</p>
+<p>Y tras estas primeras cervezas «de fogueo» nos fuimos a una cervecería donde, por un precio muy bueno salimos ciegos de comer y beber. En mi caso, Coca-Cola, que tenía que conducir. Soy un triste, ya lo sé&#8230;</p>
+<p>Si quieres ver el ambiente, <a href="http://www.facebook.com/media/set/?set=a.488710544519284.121422.160534924003516&amp;type=1&amp;l=267f155f1d">aquí</a> hay un montón de fotos del evento.</p>
+<h1>Cosas que me han sorprendido</h1>
+<p>No tenía expectativas creadas, ya que era la primera Betabeers a la que iba en mi vida. Pero me esperaba una reunión pequeñita de programadores locales. Todos hombres. Varias sorpresas:</p>
+<ul>
+<li>de pequeñita, nada. 70 personas es una reunión con nombre y apellidos. Esto no lo «juntamos» en una NSCoder Night ni pagando.</li>
+<li>de local, nada. Allí había gente que ahora vivirá en Sevilla, pero que era de toda España. Esto me lo esperaría en Madrid o Barcelona, pero uno tiende a seguir pensando en Sevilla como un pueblo&#8230; el más bonito del mundo, eso sí <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>multinacional. Había gente de otros países. Los había incluso que no hablaban Español, lo cual siempre da pie a una charla en Inglés. Esto es muy bueno, porque nos aporta la experiencia y puntos de vista de fuera.</li>
+<li>había mujeres. Sin ir más lejos, Amaya que habló de Debian. Quien me conoce sabe que me da igual cómo seas, siempre que sepas hacer bien tu trabajo. Pero es raro encontrarse con mujeres en nuestro sector (una pena, esto parece un seminario). ¡Pero con mujeres que hablen de Debian!. Eso es para nota. Si llega a abrir una bash entro en shock&#8230; Aunque esto cada vez me pasa menos: en las últimas conferencias en las que he estado (especialmente en el iOSDevUK) he conocido a cada «mónstrua» que te deja pensando: «¿y ésta de dónde saca tiempo para meterse todo eso en el cerebro?». </li>
+<li>muy, muy bien organizado todo. El sitio, la división en tiempo, la forma de facilitar el <em>networking</em></li>
+</ul>
+<p>Resumiendo este rollo: <strong>volveré</strong>, como dijo Schwarzenegger en Terminator.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/12/mi-participacion-en-la-7a-betabeers-de-sevilla/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Cómo desarrollar Apps móviles en iOS y Android. Entrevista</title>
+		<link>/2012/11/12/como-desarrollar-apps-moviles-en-ios-y-android-entrevista/</link>
+		<pubDate>Mon, 12 Nov 2012 12:18:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Telar del Geek]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Daniel ha tenido a bien entrevistarme vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste. Si tenéis dudas comentad allí y aquí, que si no no os puedo responder 😀]]></description>
+				<content:encoded><![CDATA[<p>Daniel <a href="http://eltelardelgeek.com/2012/11/11/comenzando-a-desarrollar-app-con-dfreniche/">ha tenido a bien entrevistarme</a> vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste.</p>
+<p>Si tenéis dudas comentad allí y aquí, que si no no os puedo responder <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Entrevista en iPhoneA2</title>
+		<link>/2012/08/23/entrevista-en-iphonea2/</link>
+		<pubDate>Thu, 23 Aug 2012 05:21:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[iPhoneA2]]></category>
+
+		<guid isPermaLink="false">/?p=1772</guid>
+		<description><![CDATA[Pues eso, que tuvieron el detalle de entrevistarme por mail. Aquí está el resultado, en el que reflexiono sobre varias cosas. Por supuesto, todas interesantísimas, que para eso soy yo el que hablo 😉]]></description>
+				<content:encoded><![CDATA[<p>Pues eso, que tuvieron el detalle de entrevistarme por mail. <a href="http://iphonea2.com/2012/08/22/entrevista-con-diego-freniche-programador-profesional/">Aquí está el resultado</a>, en el que reflexiono sobre varias cosas.</p>
+<p>Por supuesto, todas interesantísimas, que para eso soy yo el que hablo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Resumiendo 2011</title>
+		<link>/2011/12/30/resumiendo-2011/</link>
+		<comments>/2011/12/30/resumiendo-2011/#comments</comments>
+		<pubDate>Fri, 30 Dec 2011 17:45:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1652</guid>
+		<description><![CDATA[El otro día, mientras buscaba siguientes acciones y repasaba tareas en mi sistema GTD (en el que uso Things e iCal entre otros) me encontré con una tarea titulada: «Escribir post resumen año». Era del año pasado. GTD, pese a lo que mucha gente piense te hace ser más productivo pero no te permite «hacerlo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1656" style="width: 510px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/23920588@N08/2783486398/"><img class="size-full wp-image-1656" title="Reloj. No marques las horas. Que el 2011 se acaba... Foto de Flickr. Click para ver original" src="/wp-content/uploads/2011/12/2783486398_44165c2d29.jpg" alt="Reloj. No marques las horas. Que el 2011 se acaba... Foto de Flickr. Click para ver original" width="500" height="375" srcset="/wp-content/uploads/2011/12/2783486398_44165c2d29.jpg 500w, /wp-content/uploads/2011/12/2783486398_44165c2d29-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><p class="wp-caption-text">Reloj. No marques las horas. Que el 2011 se acaba... Foto de Flickr. Click para ver original</p></div>
+<p style="text-align: justify;">El otro día, mientras buscaba siguientes acciones y repasaba tareas en mi sistema GTD (en el que uso Things e iCal entre otros) me encontré con una tarea titulada: «Escribir post resumen año». Era del año pasado. GTD, pese a lo que mucha gente piense te hace ser más productivo pero no te permite «hacerlo todo». Te centras en acabar aquello que es realmente importante. Y hay cosas que pueden quedar aparcadas. Estas cosas aparecen en las revisiones, que para eso están. Lo importante: hacer primero las cosas importantes. Las otras, a veces no son ni necesarias.</p>
+<p style="text-align: justify;">El caso es que este año sí que quiero cumplir e instaurar una costumbre. Cada año quiero, en Enero, plantearme una serie de retos, de objetivos, de propósitos, de cosas a cumplir. Revisarlas durante el año, para ver si voy cumpliendo, y luego, en Diciembre, echar la vista atrás. Para mortificarme con las cosas no conseguidas (que será lo más normal, dada la tendencia que tenemos a autoflagelarnos), pero para disfrutar igualmente con aquello que nos planteamos hacer y hemos hecho. Nos merecemos una auto-palmadita en la espalda cada vez que hacemos algo bien. Y muchas veces, cuando conseguimos algo que nos ha costado sangre, sudor y lágrimas no dedicamos ni cinco minutos a sentarnos, reflexionar y disfrutar de ese pequeño triunfo. Así que escribiré posts resumen de cada año a partir de ahora.</p>
+<p style="text-align: justify;">Nota: <a href="http://xelecto.com/post/14074295537">además, me empujó a ello que Xelecto había escrito el suyo</a>.</p>
+<p style="text-align: justify;">Este año realicé la revisión del 2010 en Febrero del 2011, un poco tarde. Pero los propósitos de año nuevo los llevo apuntando en una libreta desde Navidades de 2009. Así que este año es la tercera vez que los preparo. Y, al menos a mí, me funcionan. Me ayudan a saber por qué me levanto cada mañana, qué quiero conseguir, qué es realmente importante. No apunto cosas como «ser feliz». Si considero que para ser feliz tengo que visitar, al menos una vez en la vida la India, entonces el objetivo será hacer un viaje. Que se descompondrá en tareas, claro: conseguir pasta, actualizar el pasaporte, buscar vuelos… Pero todo empieza con plantearte qué quieres. Que no es fácil. Si te preguntan «¿qué necesitas para sentirte mejor?» veréis que no es sencillo responder a esta pregunta.</p>
+<h1>Resumen del <del>2010</del> 2011</h1>
+<p style="text-align: justify;">2011 ha sido un año «montaña rusa». Comencé el año publicando dos mini aplicaciones en la App Store (que, por cierto, tengo abandonadas; ahora les toca). Y con muchas dudas. Dudas sobre si debía volver a trabajar por cuenta ajena, sobre si me había equivocado, sobre si daba la talla, sobre si podría aprender. Cocoa no me entraba en la cabeza. Problemas de salud de mi padre. Estaba amargado. Enero y Febrero. Malos tiempos.</p>
+<p style="text-align: justify;">Como estaba pensando demasiado y programando poco, me lancé a una «orgía» de impartir formación: cursos de Java de todos los colores: básicos, avanzados, de Java EE, de preparación para las certificaciones, de frameworks (Struts2, JSF). Hasta impartí un curso de programación en C (que, por cierto, disfruté como un enano). Me metí una sobredosis de trabajo, para sacudirme las tonterías de encima. Y funcionó. Incluso pude <a href="/2011/06/19/mi-primera-aplicacion-para-ipad/">desarrollar una App para iPad</a> (la primera). Y volví a escribir para una revista, con pequeñas colaboraciones en forma de columna (iPhone World). Lógicamente, se cumplió la Ley DFreniche del agobio en el trabajo: «las mejores ideas para programas se te ocurren justo cuando no tienes tiempo para programar» (Citation needed).</p>
+<p style="text-align: justify;">Llegó el verano. Me fui de vacaciones. Y me picó el bicho del freelancing de nuevo. No quería trabajar para nadie. Esto iba a funcionar. Era capaz de todo. ¡Voy a ponerme la capa y los leotardos, puedo volar!. Me ayudaron varias cosas a volver a tener ganas. Primero, facturar, que siempre se nota. Sentirme útil. Ser capaz de hacer la App de iPad. Y ser contactado por varias empresas que querían contratarme, en base a <a href="http://es.linkedin.com/in/dfreniche">mi perfil en LinkedIn</a>. Muchas de ellas, muy interesantes. Que alguien considere contratarte, tal y como están las cosas, es señal de que algo estás haciendo bien. O eso, o mientes maravillosamente <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Encima en Agosto pude comenzar a programar para WebOS y <a href="/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/">aprender JavaScript</a>. He disfrutado / sufrido con el desarrollo, pero he aprendido mucho. Y en Septiembre acudí al <a href="http://www.iosdevuk.com/">iOSDevUK</a>, una experiencia fantástica. Lo mejor: conocer un trocito de Gales y estar con <a href="http://www.cocoaosx.com/">Fernando</a> y Bernardo. Y luego vino la <a href="/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/">conferencia NSCoder ES en Vilanova i la Geltrú</a>. Y empecé a grabar Café y Cocoa. Y ahora José Antonio Blanco me deja hablar con él y otros cracks como él de vez en cuando en <a href="/2011/11/28/we-developers/">We.Developers</a>. Y me entrevistó <a href="http://www.louesfera.com/2011/10/07/entrevista-a-diego-freniche-un-genial-iphone-developer/">Luis-Philippe</a>. Y estoy preparando varias Apps para iOS. Y he escrito dos artículos para MacWorld. Y…</p>
+<p style="text-align: justify;">Muchos proyectos, muchas cosas terminadas en lo profesional. Y en lo personal. Me planteé este año acostumbrarme a hacer deporte, y se ha convertido en un hábito. Si paso 3 días sin correr / caminar me siento mal. Ya lo que me cuesta es no hacer nada. Me planteé perder peso, y eso lo he conseguido a medias (he recuperado parte del peso, los mantecados). Pero no me preocupa, mientras siga haciendo deporte. Me fijé como meta correr la nocturna del Guadalquivir y lo hice, aunque acabé bastante mal :-D. Y de propina, me caminé 23 Km. en el Homenaje a la 101 de Ronda, que repetiré en 2012.</p>
+<p style="text-align: justify;">Y claro, otras muchas cosas no las he conseguido. Hay defectos personales en los que tengo que trabajar. Y un proyecto se convirtió en una pesadilla horrible, de lo peor del año. Este año me gustaría leer libros no de informática, para variar. E insistir en hacer lo que sea preciso para conseguir cumplir mis sueños. Tengo suerte de tener la mujer y la familia que tengo, de ganarme la vida con una profesión que me apasiona, de tener amigos de verdad y conocer a un montón de gente interesante. Es hora de devolver, en forma de trabajo bien hecho, de esfuerzo y de responsabilidad. Y de alegría.</p>
+<p>Feliz 2012. Puedes hacer que este año sea como tú quieras. No te resignes. Yo no lo voy a hacer.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/12/30/resumiendo-2011/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

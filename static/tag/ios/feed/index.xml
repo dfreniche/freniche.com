@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iOS &#8211; freniche.com</title>
+	<atom:link href="/tag/ios/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Imparto dos talleres en el GCTIC: iOS y Android</title>
+		<link>/2014/06/24/imparto-dos-talleres-en-el-gctic-ios-y-android/</link>
+		<pubDate>Tue, 24 Jun 2014 18:21:48 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Canarias]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[GCTIC]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2210</guid>
+		<description><![CDATA[El #CGTIC es el Foro de Nuevas Tecnologías de la Información y la Comunicación que va a tener lugar en Las Palmas de Gran Canaria este próximo fin de semana (del 26 al 29 de Junio). Y tengo la enorme suerte de poder asistir e impartir un par de talleres: uno sobre cómo crear tu [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>El #CGTIC es el <a href="http://www.gctic.eu/">Foro de Nuevas Tecnologías de la Información y la Comunicación</a> que va a tener lugar en Las Palmas de Gran Canaria este próximo fin de semana (del 26 al 29 de Junio). Y tengo la <strong>enorme suerte</strong> de poder asistir e impartir un par de talleres:</p>
+<ul>
+<li>uno sobre <a href="http://www.gctic.eu/#/detalle/Mios">cómo crear tu primera App con iOS</a></li>
+<li>lo mismo, pero con <a href="http://www.gctic.eu/#/detalle/Mandroid">Android</a> </li>
+</ul>
+<p>Esta es mi tercera visita a las Islas Canarias, y la tercera isla en la que voy a estar, tras Tenerife y Lanzarote. Muchas ganas no sólo de ir al GCTIC, sino de estar por Las Palmas al menos el Jueves y echar un paseo en condiciones. No tendré tiempo de mucho más (recordemos que voy a <em>trabajar</em>, no de vacaciones) pero la verdad es no que se puede ir a mejor sitio. Se puede estar igual de bien, pero mejor es complicado.</p>
+<p>Ambos talleres son gratuitos, y el Foro ha tenido la amabilidad de hacerse cargo de los gastos de transporte. Aparte de esto, yo voy «de gratis» porque creo que hay que apoyar a la comunidad de desarrollo. Este año ya he participado en dos iniciativas similares: el <a href="/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/">Curso de iOS en Cádiz</a> con el inimitable Jorge Galindo y el taller que hice con la ayuda del Ironhack en Madrid.</p>
+<p>Si me ves, saluda. Y te invitas a algo. Si pongo cara rara, es que no estoy acostumbrado a que me saluden gente que no conozco <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Máster de Apps Móviles en Chiclana: experiencias en la radio</title>
+		<link>/2014/05/12/master-de-apps-moviles-en-chiclana-experiencias-en-la-radio/</link>
+		<pubDate>Mon, 12 May 2014 18:20:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[Chiclana]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2179</guid>
+		<description><![CDATA[Una pequeña actualización a la información del Máster de Comunicación Plus para aprender a desarrollar Apps en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta: tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur Conectados en RAI. Javier Suárez Ruiz, el profesor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg"><img src="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg" alt="Selfie Conectados en RAI" width="1168" height="876" class="aligncenter size-full wp-image-2180" srcset="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg 1168w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-300x225.jpg 300w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-1024x768.jpg 1024w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-535x401.jpg 535w" sizes="(max-width: 1168px) 100vw, 1168px" /></a></p>
+<p>Una pequeña actualización a la información del <a href="/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/">Máster de Comunicación Plus para aprender a desarrollar Apps</a> en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta:</p>
+<ul>
+<li>tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur <a href="https://www.facebook.com/pages/Conectados-en-RAI/1410704842504486?ref=stream&amp;hc_location=timeline">Conectados en RAI</a>.  </li>
+<li><a href="http://javiersuarezruiz.wordpress.com/2014/05/11/i-master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Javier Suárez Ruiz</a>, el profesor del Máster encargado de Windows Phone (genuflexión y respeto al crack) ha escrito en su blog (que, por cierto, para los que quieran aprender Windows Phone es el sitio a donde ir) una entrada sobre el Máster y su visión del mismo.</li>
+<li>he rectificado en el post que escribí sobre el Máster las horas totales del mismo. Son 240 h, ya que cada semana son 60 h de formación: 50 h de la plataforma de la semana (iOS, WP, Android) y 10 de otras cosas (prototipado, UX, etc.)</li>
+<li>el Máster empieza el próximo Domingo 18. Muchas ganas de irme a Chiclana y huir del pólen y las alergias del campo.</li>
+<li>durante el Máster, esperad fotos y recochineo desde la playa y piscina. He avisado.</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Aprende iOS, Android, HTML5 y Windows Phone en la playa</title>
+		<link>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/</link>
+		<comments>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/#comments</comments>
+		<pubDate>Mon, 28 Apr 2014 08:15:39 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2147</guid>
+		<description><![CDATA[TL;DR; Me voy a la playa a enseñar iOS y Android. Si no vienes, puedes sentir envidia. Es normal. El Máster Pues sí. Este es el panorama al que se enfrentan los alumnos del I Máster en Desarrollo de Aplicaciones Móviles en Andalucía de Comunicación Plus. Retirarse del mundanal ruido junto a las playas de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>TL;DR;</h2>
+<pre><code>Me voy a la playa a enseñar iOS y Android. Si no vienes, puedes sentir envidia. Es normal.
+</code></pre>
+<h2>El Máster</h2>
+<p>Pues sí. Este es el panorama al que se enfrentan los alumnos del <a href="http://comunicacionplus.com/es/master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">I Máster en Desarrollo de Aplicaciones Móviles en Andalucía de Comunicación Plus</a>. Retirarse del mundanal ruido junto a las playas de Chiclana, en Cádiz. En un apartahotel de 4 llaves. Y una vez allí, darle a la tecla 50 h por plataforma, en formato ultra-intensivo, empezando un Domingo y acabando un Sábado.</p>
+<p>Si echáis cuentas, 50 h seguidas de Domingo a Sábado queman a cualquiera. Por eso nos han prometido actividades “extraescolares” con las que recuperar cuerpo y mente en tiempo récord. Algo he oído de masajes, paseos en bici de montaña por la playa, clases de Pádel o salir al mar a hacer <a href="http://es.wikipedia.org/wiki/Surf_de_remo">Paddle Surf</a>. Y claro, además tenemos las piscinas y la playa de Chiclana. Mal no vamos a estar.</p>
+<p>Pero volviendo al contenido del Máster, me parece muy interesante que se traten cuatro plataformas distintas (luego se puede escoger la que te guste más, o de la que te ofrezca trabajo). Además de aprender mucho, puedes comparar y ver lo que tienen de mejor unas sobre otras. Por ejemplo, en Windows Phone tienen bindings (en iOS no tenemos Cocoa Bindings, sólo en OS X). O puedes ver que la forma de internacionalizar proyectos de Android probablemente sea la más limpia (en mi opinión). O por qué Eclipse necesita ya la jubilación (después de ver Visual Studio y Xcode). Y además, habrá unas horas dedicadas a Márketing Online o a pensar en la Experiencia de Usuario. Esto último lo dará el gran <a href="http://about.me/jorgegalindocruces">Jorge Galindo</a> de 47 Degrees con el que organicé en Febrero pasado <a href="/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/">el curso gratuito para parados y estudiantes de iOS</a>.</p>
+<p>Yo me voy a encargar de las partes de iOS y Android. Vamos, de las que se algo, porque de las otras dos flojito, flojito. Creo que 50 h dan para mucho y podremos ver de todo: herramientas, código, patrones de diseño, frameworks, … y apps. Muchas apps. Cosas aplicables directamente (o eso espero).</p>
+<p>Hay muchas cosas buenas en este Máster, pero el alejarte del trabajo para enfocarte en aprender, la intensidad de la formación (un poco <em>a la Big Nerd Ranch</em>, pero en Cádiz, que lo mejora todo) y el apoyo del Director del Máster, <a href="http://comunicacionplus.com/en/equipo/pablo-garcia-trespalacios/">Pablo Gª Trespalacios</a> (que sabe de lo que habla porque para eso ha sido alumno mío) me parecen lo mejor. Y los alumnos, claro, que no saben dónde se meten <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2>El vil metal</h2>
+<p>Como he leído por ahí <em>es muy caro</em>. Bueno, para empezar puedes buscarte el alojamiento y ahorrarte algo, o escoger semanas sueltas. Si vamos a lo más “caro”, son 5000 Eur., que es un dinero. Pero eso incluye:</p>
+<ul>
+<li>un mes alojado en un complejo de apartamentos con pensión completa</li>
+<li>todas las pausas de cafés</li>
+<li>las actividades extra académicas</li>
+<li>y 200 h, al menos, de formación. Si valoras en 1000 Eur todo lo anterior, cada hora de formación te sale a 20 Eur. </li>
+</ul>
+<p><strong>UPDATE 12 Mayo</strong> No son 200 h. Son 240 h, ya que cada semana tiene otras horas dedicadas a prototipado, UX, márketing&#8230; sólo había incluido mis 50 h e ignorado al resto <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<ul>
+<li>y hay una financiación muy interesante (los dos primeros años no pagas nada).</li>
+</ul>
+<p>Si te interesa esto, tienes toda la información en la web de <a href="http://comunicacionplus.com/es/master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Comunicación Plus</a>.</p>
+<p>Yo ya estoy buscando las chanclas de la playa para echar en la mochila junto con el portátil. Lo dicho: puedes sentir envidia <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Ponente en la WipJam en el MWC 14</title>
+		<link>/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/</link>
+		<comments>/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/#comments</comments>
+		<pubDate>Thu, 20 Feb 2014 16:16:01 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[Core Data]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[Ponencias]]></category>
+
+		<guid isPermaLink="false">/?p=2123</guid>
+		<description><![CDATA[Estoy muy contento de ir este año al Mobile World Congress como ponente de una charla en la WipJam. Concretamente va a ser de Core Data (como la charla y taller que impartí el año pasado en la conferencia NSSpain). No soy yo el máximo experto en Core Data del mundo, ni siquiera de mi [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Estoy muy contento de ir este año al Mobile World Congress como <a href="http://wipjammwc14.sched.org/event/c80b40922c7abb24aa768388f60fa5b6#.UwYllnneMWa">ponente de una charla en la WipJam</a>. Concretamente va a ser de Core Data (como la charla y taller que impartí <a href="http://nsspain.com/2013/speakers/">el año pasado en la conferencia NSSpain</a>). No soy yo el máximo experto en Core Data del mundo, ni siquiera de mi barrio, pero poder acudir a un evento internacional y compartir conocimiento con otros programadores me motiva bastante. Y algún proyecto con Core Data he desarrollado.</p>
+<p>Encima, para mejorar la cosa estaré parando en la casa de Rafa Aguilar (responsable de [Objective-C.es], <a href="http://nsspain.com/">3</a> además de programador iOS en Wallapop y crack absoluto). Y dormirá con nosotros (juntos, pero no revueltos) Luis Ascorbe, el 50% de <a href="http://nsspain.com/">NSSpain</a>. Y Pedro Muñoz andará por allí con su proyecto de iBeacons&#8230; Y todos los demás amigos de Barcelona&#8230; Vamos, que no se puede pedir más.</p>
+<p>Bueno, sí. Puedo pedir terminar de una vez la App iOS que estoy ultimando y así poderme ir tranquilo a BCN. Y acabar las transparencias a tiempo, y no en el tren, que me veo como siempre&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Curso gratuito iOS en Cádiz AKA ayudando a la comunidad</title>
+		<link>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/</link>
+		<comments>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/#comments</comments>
+		<pubDate>Thu, 16 Jan 2014 19:39:14 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2103</guid>
+		<description><![CDATA[Ser awesómico es la marca de la casa de David Bonilla. Montar movidas guapas la de Jorge Galindo. La mía, probablemente, es ponerse palote con cualquier trozo de código. El caso es que, por culpa de David y su #weareatwar se están haciendo cosas y hay gente predispuesta a hacer cosas que antes no se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ser <em>awesómico</em> es la marca de la casa de <a href="http://www.bonillaware.com/">David Bonilla</a>. Montar <em>movidas guapas</em> la de <a href="http://blog.jorgegalindo.me/">Jorge Galindo</a>. La mía, probablemente, es <em>ponerse palote</em> con cualquier trozo de código.</p>
+<p>El caso es que, por culpa de David y su <a href="http://www.bonillaware.com/weareatwar">#weareatwar</a> se están haciendo cosas y hay gente predispuesta a hacer cosas que antes no se nos hubieran ocurrido. Está dinamizando a la comunidad TI española que quiere escuchar. Esas son las razones que han llevado a Jorge a dejarse liar (aunque para liar a Jorge tampoco es que tengas que esforzarte mucho) y pegarse el curro de cargar con todas las tareas necesarias para que yo pueda llegar a Cádiz e impartir este curso. <a href="http://blog.jorgegalindo.me/post/73436654982/curso-gratuito-de-desarrollo-de-apps-en-ios-para">Lo explica muy bien en su blog</a>.</p>
+<p>Yo quería contar aquí el porqué de esta iniciativa. Cómo es que un camarada mercenario como yo deje el vil metal de lado y decida pasar un fin de semana en Cádiz hablando de desarrollo iOS.</p>
+<p>La primera razón es que tampoco es tan malo como parece. Cuando tu trabajo te gusta tanto como a mi, estar hablando de desarrollo y programando es casi lo mismo que haces para divertirte. Así que tampoco es tan dura la cosa. Cierto es que a mucha gente la perspectiva de impartir 20h de curso entre Viernes, Sábado y Domingo frente a un grupo de 15 personas le aterraría. Bueno, a mi me aterra la contabilidad. Todos tenemos limitaciones (yo, muchas).</p>
+<p>Pero esto es algo que me lleva dando vueltas en la cabeza desde el año pasado. La idea de que somos pocos informáticos, de que es una carrera / estudios que se cursan poco. De que los que estamos cada vez somos más viejos. Que hay pocos chavales. Y chavalas, ni te cuento. Y no es bueno. Pensando en la ley de Oferta y Demanda, cuantos menos seamos, más pasta y trabajo para los que quedemos. Pero la realidad es que la demanda crece muy muy por encima de la oferta, y esto va a seguir así en el futuro. No sólo son los móviles. Son los wearables. Son los edificios conectados. El Internet de las cosas. Los coches. Todo. Todo necesita un ordenador conectado y Apps para eso. Las TVs. Las nuevas consolas. Y no hay manos para todo este trabajo.</p>
+<p>Y cuando nos vienen los agobios uno se dedica a vampirizar la comunidad. Copiamos código de Stack Overflow. Usamos librerías de Github. Preguntamos en nuestras reuniones (como la NSCoder Night de Sevilla). Nos pasamos trabajo unos a otros. Escuchamos podcasts. Nos seguimos en Twitter. Nos vemos en las conferencias. La comunidad nos motiva y nos enseña. La necesitamos para ser mejores programadores.</p>
+<p>Esta es la segunda razón por la que he querido poner este granito de arena: ampliar la pequeña comunidad iOS / Cocoa en Andalucía. Y, de paso, ayudar en lo que pueda a una de las zonas de España con más paro, en lo poco que pueda. Ojo, que no soy Teresa de Calcuta. Pero muchas veces no hacen falta grandes gentos: con ser un poco mejor cada día y <a href="http://www.shorinjikempo.or.jp/wsko/kaiso/23.html">dar la mitad para tí y la mitad para los demás</a>, basta.</p>
+<p>Así que ya sabes. Si estás parado y sabes programar, o eres estudiante (que, por definición, está parados a no ser que seas tonto como yo y trabajes mientras estudias, forma perfecta de no acabar la carrera) intentaremos meterte en una de las 15 plazas del curso de desarrollo iOS que vamos a impartir en Cádiz. <a href="http://www.meetup.com/Curso-gratuito-de-desarrollo-de-apps-en-iPhone-e-iPad/">Todos los detalles aquí</a>.</p>
+<p>Espero dar un curso <em>awesómico</em>, que sea una <em>movida tan guapa</em> que todos nos pongamos <em>palotes</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>La Conferencia NSSPain</title>
+		<link>/2013/09/23/la-conferencia-nsspain/</link>
+		<comments>/2013/09/23/la-conferencia-nsspain/#comments</comments>
+		<pubDate>Mon, 23 Sep 2013 11:15:46 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Logroño]]></category>
+		<category><![CDATA[NSSpain]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=2066</guid>
+		<description><![CDATA[Ya estoy de vuelta tras pasar una semana (casi) en Logroño. Se ha terminado la NSSpain 2013. Y ya tengo ganas de la NSSpain de 2014. Por hacer breve esto: si te dedicas al desarrollo iOS con algún grado de dedicación y te has perdido este evento, ya puedes ir a darte cabezazos con un [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_2071" style="width: 619px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/taller-core-data.png" alt="Empezando el taller de Core Data" width="609" height="609" class="size-full wp-image-2071" srcset="/wp-content/uploads/2013/09/taller-core-data.png 609w, /wp-content/uploads/2013/09/taller-core-data-150x150.png 150w, /wp-content/uploads/2013/09/taller-core-data-300x300.png 300w, /wp-content/uploads/2013/09/taller-core-data-535x535.png 535w" sizes="(max-width: 609px) 100vw, 609px" /><p class="wp-caption-text">Empezando el taller de Core Data</p></div>
+<p>Ya estoy de vuelta tras pasar una semana (casi) en Logroño. Se ha terminado la <a href="http://nsspain.com/">NSSpain 2013</a>. Y ya tengo ganas de la NSSpain de 2014. Por hacer breve esto: si te dedicas al desarrollo iOS con algún grado de dedicación y te has perdido este evento, ya puedes ir a darte <em>cabezazos</em> con un muro. La gente que ha venido, la calidad de las ponencias y, sobre todo, la intensidad técnica de las mismas ha sido para verlo y no creerlo. Estas cosas no se pueden dejar pasar.</p>
+<h2>Las charlas y los ponentes</h2>
+<p>Las charlas han sido increíbles. Nada de «relleno». Nada de hablar de «mobile márketing» ni de otras historias. Código. Ideas. Patrones. Hemos tenido tres niveles: sesiones duras, muy duras de seguir y luego la de Peter Steimberg (<a href="https://twitter.com/steipete">@steipete</a>). Esta sesión por sí sola se situó en una dimensión aparte. Cuando sea mayor quiero ser como Peter, el problema es que me falta cerebro para ello. Pero claro, es que el resto de los ponentes eran <em>todos</em> así. Gente que maneja git desde una consola zsh lanzando comandos como si no existiera mañana. Para los que todo es <em>evidente</em>. Todo lo que a <em>mi</em> cuesta años aprender, ellos ya lo saben. Da gusto estar con gente así. Porque, siendo auténticos <em>sabios</em>, son las personas más humildes, accesibles, sencillas y divertidas que puedas encontrarte. Por ejemplo, he podido desayunar con Marin (<a href="https://twitter.com/mneorr">@mneor</a>) y comentarle un issue que había respondido sobre en Github sobre Kiwi y Xcode 5, ¡cinco días antes!. Es decir, estaba hablando con el <em>tío de verdad</em> que reparte el bacalao en Kiwi. De película.</p>
+<p>Eso, o encontrarte con dos personajes como <a href="https://twitter.com/orta">@orta</a> y <a href="https://twitter.com/fabiopelosin">Favio</a>, Core Team de Cocoa Pods. Y que te digan que están contentos porque usas su proyecto. ¡Pero si lo que yo quiero es <em>echarme al suelo y besar por donde pisáis</em>!. Esta gente no se da cuenta del impacto que tienen <em>a diario</em> en las vidas de muchos desarrolladores. Y van por el mundo como personas normales, cuando <em>no lo son</em>. La comunidad les debe mucho. Mucho.</p>
+<div style="width: 864px" class="wp-caption aligncenter"><img src="https://ortastuff.s3.amazonaws.com/gifs/marin-6-thumb.gif" width="854" height="480" alt="Para Marin Usalj todo está OK :-)" class /><p class="wp-caption-text">Para Marin Usalj todo está OK <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Misma historia con el equipo al completo de <a href="http://www.objc.io/">Objc.io</a>. Es decir, en apenas dos semanas he visto a Dave Werner (de <a href="http://iosdevweekly.com/">iOS Dev Weekly</a>) en el <a href="/2013/09/08/iosdevuk-2013-retrospectiva-personal/">iOSDevUK</a> (ya conocía a Dave de otros años) y ahora a los de Objc.io. ¿Qué es lo siguiente? ¿Tomar café con Tim Cook? (Por cierto: Tim, cuando quieras; y no te preocupes: corre de mi cuenta)</p>
+<p><a href="http://www.louesfera.com/2013/09/22/nsspain-conferencia-ios-celebrada-en-logrono/">Victor Baro ha resumido los talleres</a> mucho mejor que yo en un post dentro del Blog de Louesfera. Lo mismo con el post de <a href="http://www.applesfera.com/aprendeiosonline/nsspain-primera-conferencia-internacional-de-desarrollo-ios-en-espana">Fernando Rodríguez en Applesfera</a>. Bien contado, incluso algún cotilleo de más <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2>Mis talleres</h2>
+<p>Han sido <strong>una basura</strong>. Cuando comparas lo que tú puedes ofrecer con lo que cualquiera de éstos trae, te da hasta vergüenza estar por allí. Inicialmente me ofrecí para echar una mano con la NSSpain, porque creo que en España necesitamos este tipo de eventos para poder tener un lugar donde reunir al <em>gremio</em> de desarrolladores Cocoa. Un sitio donde compartir experiencias, donde aprender de los que vienen de fuera. Donde <em>picarnos</em>, y que nos sintamos estimulados por la <em>alucinancia</em> del Cocoa-Fu de estos mónstruos. Por todo esto me propuse apoyar en todo lo posible a los organizadores, porque necesitamos que esto salga bien y crezca. Y no pensaba que fueran a reunir a gente de <em>Champions</em> junto con uno de <em>Regional preferente</em>.</p>
+<p>Pero es <em>duro</em> ir a la cena de ponentes y darte cuenta de que eres <strong>el tonto de la reunión</strong>. <strong>Es duro, pero me gusta</strong>. Sólo puedes crecer estando con gente muy inteligente, que además sabe mucho más que tú de todo. Y estoy dispuesto a dar batalla. Habrá que esforzarse más. Programando, aprendiendo, enseñando, con todo.</p>
+<p>Por cierto, llegué tarde a mi primer taller. De nuevo, <strong>os pido disculpas a los que me esperasteis con enorme paciencia</strong>. Aunque no fue <em>del todo</em> culpa mía, en la Mili decían que si no quieres llegar tarde te vas el día antes. Así que la culpa me la endosáis a mí, que para eso os tuve esperando.</p>
+<p>Por si alguien está interesado, he puesto en <a href="http://www.slideshare.net/dfreniche/core-data-ns-spain-26505051">slideshare</a> la presentación de los talleres, tanto de Core Data básico como algunas ideas de uso intermedio.</p>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/26505051" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/26506155" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Y algo de código de ejemplo, <a href="https://bitbucket.org/dfreniche/retrostuff-tracker-2">en este repo de Bitbucket</a>.</p>
+<h2>Logroño</h2>
+<p>No había estado en la ciudad y he podido visitar muchos de sus bares parques y rincones. Parece que vives en un bosque, al lado del Ebro. Viniendo de Sevilla, es normal que me encanten las ciudades con río. Pero es que es realmente bonito pasear y ver tanto verde junto. Y se come y se bebe bastante bien. Lo de beber, siendo la capital de La Rioja, es casi una obligación (de hecho, ya hay quien llamaba a la conferencia la <em>NSWine</em>). Me dejé una mañana para pasear y hacer fotos. Las he puesto en <a href="http://www.flickr.com/photos/dfreniche/sets/72157635848467335/">este album de Flickr</a>.</p>
+<h2>Resumiendo</h2>
+<p>Que voy a repetir, eso está claro. El año que viene, si puedo, como asistente <em>normal</em> y así voy más relajado. O no, ya veremos. Pero si voy a contar algo, va a ser complicadete. O no, ya veremos, que siempre hay mucha gente empezando a desarrollar.</p>
+<p>El caso es que quiero dar las gracias a <a href="http://www.louesfera.com/2013/07/17/entrevista-luis-ascorbe-borja-reinares-organizadores-nsspain/">Luis Ascorbe y Borja Reinares</a> por el palizón que se han metido al organizar este follón. Os debemos mucho. Y necesitamos la NSSpain.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/23/la-conferencia-nsspain/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>iOSDevUK 2013: retrospectiva personal</title>
+		<link>/2013/09/08/iosdevuk-2013-retrospectiva-personal/</link>
+		<comments>/2013/09/08/iosdevuk-2013-retrospectiva-personal/#comments</comments>
+		<pubDate>Sun, 08 Sep 2013 09:03:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOSDevUK]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=2010</guid>
+		<description><![CDATA[Otro año más esperando en la estación de tren de Aberystwyth para irme definitivamente. Otro iOSDevUK más al que acudo (y van tres seguidos). Creo que soy el más pesado de los delegados internacionales de esta conferencia. Tanto, que necesitaban a un guiri representativo de la conferencia en la radio de Gales y Chris (el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Otro año más esperando en la estación de tren de Aberystwyth para irme definitivamente. Otro <a href="http://www.iosdevuk.com/">iOSDevUK</a> más al que acudo (y van tres seguidos). Creo que soy el más pesado de los delegados internacionales de esta conferencia. Tanto, que necesitaban a un <em>guiri</em> representativo de la conferencia en la radio de Gales y Chris (el organizador de la conferencia) tuvo la idea de invitarme para hablar sobre Apps. A las 6:30 de la mañana. Sí, están puestas las calles y las emisoras de radio a esas horas.</p>
+<div id="attachment_2013" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/radio-wales.jpg" alt="Chris Price en la Radio de Gales" class="size-full wp-image-2013" srcset="/wp-content/uploads/2013/09/radio-wales.jpg 1024w, /wp-content/uploads/2013/09/radio-wales-300x225.jpg 300w, /wp-content/uploads/2013/09/radio-wales-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Chris Price en la Radio de Gales</p></div>
+<p>Mi balance de la conferencia, como el de otros años, es: <em>awesome</em>.</p>
+<p>Pero este año se han añadido varios factores que me han hecho disfrutar de la estancia como nunca.</p>
+<ul>
+<li>Debido a los <a href="/2013/07/29/organizando-mi-espacio-de-trabajo/">cambios</a> que estoy <a href="/2013/08/07/dejo-dropbox-por-bittorrent-sync/">realizando</a> en múltiples <a href="/2013/08/18/ordenando-cds/">aspectos</a> de mi vida, este año he venido muy relajado y con una clara mentalidad: aprovechar el momento al máximo. Suena a <em>cliché</em> barato, pero la realidad es que muchas veces sale uno de viaje y en lugar de disfrutar las cosas buenas del viaje te dedicas a quejarte por las inevitables incomodidades y, por un lado a recordar lo bien que estabas en casa y por otro a estresarte por todo el trabajo que te espera a la vuelta. La verdad, para tener este estrés, casi mejor no viajar ¿no?. Pues este año no ha sido así: he podido hacer muchas cosas, y en cada momento he estado completamente presente y disfrutando de lo que hacía, ya fuera conversando con otros compañeros, comiendo, paseando, bebiendo cerveza o corriendo. </li>
+<li>he venido con un viaje mucho mejor organizado. Para mi, la mejor ruta es avión Málaga &#8211; Birmingham y desde el aeropuerto tren directo a Aberystwyth. Nada de conducir desde Londres como <a href="http://www.cocoaosx.com/2013/04/27/iosdevuk-201/">el primer año con Fernando Rodríguez</a> o de pasarme la noche vagando por Nottigham como el segundo año tras llegar al East Midlands Airport. Si el viaje es más descansado, lo tienes claro y la ruta es conocida todo va bastante mejor. Además, me he dado montones de tiempo entre las conexiones tren &#8211; avión. Tiempo en teoría <em>muerto</em> (aunque el tiempo es el que es, todo depende de lo que tú haces con el; es decir, que lo <em>matamos</em> nosotros, no viene <em>muerto</em> de serie). Esta vez me he dedicado a leer y escribir. <em>Well done</em>.</li>
+</ul>
+<div id="attachment_2019" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/running-pals-2.jpg" width="800px" alt="Compañeros de carreras" class="size-full wp-image-2019" srcset="/wp-content/uploads/2013/09/running-pals-2.jpg 1024w, /wp-content/uploads/2013/09/running-pals-2-300x225.jpg 300w, /wp-content/uploads/2013/09/running-pals-2-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Compañeros de carreras</p></div>
+<div id="attachment_2020" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/running-pals.jpg" alt="Más corredores" width="800px" class="size-full wp-image-2020" srcset="/wp-content/uploads/2013/09/running-pals.jpg 1024w, /wp-content/uploads/2013/09/running-pals-300x225.jpg 300w, /wp-content/uploads/2013/09/running-pals-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Más corredores</p></div>
+<ul>
+<li>ha sido la primera vez que he podido / querido hacer deporte. Además, he podido contar con compañeros que me han ayudado en los momentos difíciles, cuando ves que tu barriga te impide subir la colina. Gracias a Sebastián, <a href="https://twitter.com/Pmunoz08">Pedro</a> y <a href="https://twitter.com/wolffan">Raimón</a> he podido correr por bosques de cuento viendo a los conejos correr a esconderse, y trepar a acantilados a ver el pueblo desde arriba. O perdernos por caminos en los que los helechos me llegaban a los hombros (lo que es fácil con mi altura por otra parte, pero aún así&#8230;) </li>
+<li>he disfrutado las noches en el pub mucho más que nunca. Tanto en el Varsity como en el Pier Royal, han caído muchas pintas de Carling y varias de sidra Strongbow. Y muchas conversaciones muy interesantes sobre trabajo, programación, tecnología, chistes, la forma de vida de cada uno&#8230; La culpa de esto ha sido el <em>rat pack</em> que hemos formado, con gente como <a href="https://twitter.com/frr149">Fernando Rodríguez</a>, <a href="http://www.linkedin.com/in/acvivo">Antonio</a>, <a href="https://twitter.com/Pmunoz08">Pedro</a>, <a href="https://twitter.com/jsanchezsierra">Javier</a>, <a href="https://twitter.com/SebasDesimone">Sebastián</a>, <a href="https://twitter.com/wolffan">Raimón</a>, <a href="https://twitter.com/RCachATX">René</a>, Petteri, &#8230; </li>
+</ul>
+<div id="attachment_2022" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/comiendo-bien-768x1024.jpg" alt="Comer fruta en una conferencia: achievent unlocked"  class="size-large wp-image-2022" srcset="/wp-content/uploads/2013/09/comiendo-bien-768x1024.jpg 768w, /wp-content/uploads/2013/09/comiendo-bien-225x300.jpg 225w, /wp-content/uploads/2013/09/comiendo-bien-535x713.jpg 535w, /wp-content/uploads/2013/09/comiendo-bien.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" /><p class="wp-caption-text">Comer fruta en una conferencia: achievent unlocked</p></div>
+<ul>
+<li>he dormido algo menos, pero no lo he echado tanto de menos. Y quitando el último día, en el que he prescindido de dietas, he comido bastante bien y de forma muy razonable.</li>
+<li>las charlas a las que he asistido me han inspirado, ayudado, enseñado, me han hecho pensar y tomar decisiones. El taller de Core Data fue de una calidad y nivel espectacular. iOSDevUK es un evento especialmente enfocado en los desarrolladores <em>indie</em> (entre los que no me encuentro, ya que no vendo mis productos, hago cosas para otros como freelance) y me ha vuelto a entrar <em>el gusanillo</em> de publicar mis Apps y volver a intentar vender mis ideas. Tengo miedo al rechazo, a crear aplicaciones feas y horribles que nadie quiera. La única forma de vencer esto es escribir código, construir cosas y publicarlas. Y ver qué pasa entonces.</li>
+<li>He conocido a gente increíblemente inteligente, brillante, divertida, humilde. En estos sitios siempre eres el <em>retrasado</em> de la clase. Lo cual es muy bueno: tienes ganas casi de llorar cuando ves a Alan Cannistraro preguntando cosas a Marcus Zarra. Pero esta <em>impotencia</em> y sentimiento de <em>soy tonto</em> es lo que nos anima a continuar aprendiendo.</li>
+<li>he visto algo más de esta maravillosa ciudad. Creo que ya casi se pronunciar su nombre correctamente. He ido en el tren de vapor al <a href="http://en.wikipedia.org/wiki/Vale_of_Rheidol_Railway">Valle de Rheidol</a>, he vuelto a pasear por sus calles y he visitado el museo de Gales. Y me he comprado un libro del Canal Historia sobre la Primera Guerra Mundial como autoregalo. No se puede pedir más.</li>
+</ul>
+<p>En mi caso tras el iOSDevUK 2013 vuelvo aún más motivado a seguir aprendiendo, pero sobre todo, quiero escribir líneas de código. Tengo ganas de programar.</p>
+<p>Y en una semana me voy a Logroño, a disfrutar del Evento iOS internacional que <em>desesperadamente</em> necesitamos en España: <a href="http://nsspain.com/">NSSPain</a>. ¿Te lo vas a perder?</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/08/iosdevuk-2013-retrospectiva-personal/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>La era Nexus</title>
+		<link>/2013/08/30/la-era-nexus/</link>
+		<comments>/2013/08/30/la-era-nexus/#comments</comments>
+		<pubDate>Fri, 30 Aug 2013 08:45:42 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Nexus]]></category>
+		<category><![CDATA[Tablets]]></category>
+
+		<guid isPermaLink="false">/?p=2005</guid>
+		<description><![CDATA[Soy un fanboy de Apple. O eso dicen cuando me escuchan poner a caer de un burro las carencias de Android (especialmente de cara a los desarrolladores). Pero se ve que no me escuchan quejarme de los problemas que tienen los dispositivos Apple (o el software, como esas notificaciones modales para decirte que no se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Soy un fanboy de Apple. O eso dicen cuando me escuchan poner <em>a caer de un burro</em> las carencias de Android (especialmente de cara a los desarrolladores). Pero se ve que no me escuchan quejarme de los problemas que tienen los dispositivos Apple (o el software, como esas notificaciones modales para decirte que no se puede descargar el correo, <em>WFT</em> con mayúsculas en iOS). Sordera selectiva, se llama.</p>
+<p>Soy un fanboy de Apple, pese a tener (y usar) un Lumia 800 con Windows Phone, un Nexus 4 con Android 4.3 o una Blackberry Z10 con BB10. Sin contar la <a href="/2011/12/13/mi-touchpad/">Touchpad de HP</a> con webOS, la BB PlayBook con Qnx, el N900 de Nokia o mi primer smartphone, un <a href="/2008/05/03/haciendo-el-enjuto-mojamuto-con-mi-pda/">Windows Mobile 5</a>. Creo que soy un fanboy de la tecnología en general, y de la tecnología móvil en particular. <em>Me gusta todo aquello que caliente silicio</em> (1ª Ley Freniche de cómo la tecnología te pone <em>Palote</em>)</p>
+<p>Soy un fanboy de Apple, pero llevo casi dos meses usando como teléfono principal, sin descanso, un Nexus 4. Y lo complemento muchas veces con mi tableta Nexus 7 primera edición. Y ambos me gustan. Mucho.</p>
+<h2>Cómo comprar un Nexus</h2>
+<p>El Nexus 4 lo compré por necesidad. En Diciembre del año pasado vendí mi iPhone 4 y estuve tirando con el 3Gs, al que, por desgracia, se le notaba cada vez más la edad. El Lumia 800 me rescataba a veces, pero a la plataforma Windows Phone le faltaba el empuje que probablemente le de el nuevo Lumia 1020. Y no tenía la Z10 en esas fechas. Un día, desesperado por la lentitud del 3Gs con los mapas (y gracias a que <em>estaba de suerte</em>) pude comprar el Nexus 4 más pequeño, el de 8GB.</p>
+<p>Digo estar de suerte, porque esta fue la primera cosa que me chocó. No había stock en la página de Google del Nexus 4. A veces había, otras no. Y lo único que te recomendaba Google era que «volvieras a mirar pasado un tiempo». ¿Perdón?. ¿Volver luego?. Esto te pasa en una tienda online y no vuelves nunca. De aficionados. Nunca como entonces vi claro la diferencia entre Apple y Google.</p>
+<p>El negocio de Apple está claro: venderte el dispositivo, y es muy raro que te dejen salir «vivo» de su tienda online si entras con la tarjeta de crédito en la mano. Cuando lanzan nuevos productos puedes «reservar» el producto. Cuando se agotan la cosa es aún más astuta e insidiosa: te dejan comprar, pero el plazo de entrega «aproximado» es de 4 semanas. Es decir, que tú pagas por adelantado y con ese dinero (que ya tienen), fabrican el iPhone que te venden. Como probablemente paguen con retraso a sus proveedores, es el negocio redondo, la genialidad a la que todo el mundo aspira: ganar montañas de pasta sin arriesgar un euro, sabiendo de antemano el número de dispositivos que tengo que fabricar y a dónde enviarlos, con lo que optimizo los envíos, etc. Lo dicho: perfecto.</p>
+<p>Frente a esto, Google es una vendedora de anuncios on line, pero poco más. Decir que «se me han acabado», que no se cuándo tendré más, ni garantizarte una reserva, es lamentable. Se puede dar el caso de que alguien mire, vuelva a las dos semanas justo después de que yo compre, se quede sin su teléfono y tenga que volver a mirar. Algo a todas luces injusto. Casi parece que no quieren que se vendan estos teléfonos. Y yo estoy convencido de eso: <strong>Google no quiere que se vendan los Nexus</strong>. Los sacan casi <em>obligados</em> en las Google I/O, para demostrar las nuevas capacidades del S.O., pero no lo tratan como un producto que en sí mismo les genere beneficio. Además, en el caso del Nexus 4 si venden muchos le hacen la competencia a LG, que es su fabricante. Sólo pregúntate: ¿cuántos anuncios has visto en televisión de los Nexus (tabletas y teléfonos)?. Cero, ¿cierto?. Claro que puedes pensar: «es que la tele es cara». Aunque hablamos de Google, que no son precisamente pobres. Segunda prueba: ¿cuántos anuncios has visto en Youtube?.</p>
+<p>Y eso que el teléfono se vende solo. Una pantalla increíble, un diseño precioso, muy sólido. Un teléfono libre, con las últimas actualizaciones del S.O. Android por debajo de los 300 Eur. Perfecto. Quizás demasiado, y por eso Google no quiere venderlo (para no <em>molestar</em> a sus fabricantes). El caso es que es el teléfono de <em>los que se enteran</em> (Geeks, seguidores de Google y gente que está atenta a la evolución tecnológica). Pero no el de las masas, cuando debería serlo por muchas razones: precio, ser un terminal libre, características, software&#8230;</p>
+<h2>Hard</h2>
+<p>No voy a hacer ninguna <em>review</em> del Nexus 4 ni de la tableta Nexus 7. Hay montones en Internet. Sólo quiero llamar la atención sobre cosas que me hacen gracia, sobre todo porque fueron enormemente criticadas cuando se lanzó el primer (y segundo, y tercer) iPhone:</p>
+<ul>
+<li>¡no tienen un conector USB para ponerles un <em>pincho</em> USB!. Eso, al parecer, era uno de los pecados del iPad. Se ve que con el tiempo ha quedado demostrado que con Wifi y servicios en la nube (Dropbox, Skydrive, iCloud, etc.) no es necesario cargar con un pendrive. <em>El pendrive es la WiFi de los torpes</em>.</li>
+<li>siguiendo con el USB, vale, que no tengan entrada USB «gorda». Pero podrían soportar el modo USB On The Go con adaptadores microUSB-USB. Google es muy <em>open</em> con Android, pero para hacer esto necesitas hacerle root al teléfono. Fail.</li>
+<li>la batería de ambos es fija. No es intercambiable. Veo algunas similitudes con los dispositivos iOS. Aunque no puede ser ¿no?: las baterías fijas son algo del Averno.</li>
+<li>ídem con la tarjeta SD. Vamos, que no tienen. Curioso. Será para ahorrar costes, pero es que cada vez se parecen más al estándar que marca el iPhone.</li>
+<li>soporte para Flash. <em>¿Recuerda el Flash, abuela?</em> Pues eso.</li>
+</ul>
+<p>Ahora sí, tienen algunas cosas muy <em>innovadoras</em>:</p>
+<ul>
+<li>NFC. Perdón, <em>Android Beam</em>. No sirve para nada, pero está bonito tenerlo, para amontonarlo en listas de características inútiles. Si las fotos se suben automáticamente a Dropbox y G+ ¿para qué voy a tocar un dispositivo con otro para emparejarlos y pasarla por Wifi? ¡Si la foto ya está en Dropbox/Google +!. La marcas allí y se la mandas a quien quieras por correo, Twitter, Facebook&#8230; En fin, que hasta ahora NFC es una promesa pero no he visto un solo uso <em>útil</em> de esta tecnología en el mundo real. Usado por <em>personas normales</em>. Por cierto, cuando tocas el teléfono con la tableta por detrás, tienes que <em>apuntar bien</em> hasta que se activa el NFC. Lo que lleva a estar frotando los dispositivos, algo que no me gusta demasiado&#8230;</li>
+<li>cargador inalámbrico. Algo que excita mucho al que no ha tenido una tableta HP WouchPad con webOS y el cargador sin contacto TouchStone. Y el problema es que estos cargadores por inducción son lentos, <strong>muy lentos</strong>. Son muy chulos, la primera semana, y para hacer una demo <em>de lo que es capaz mi teléfono y no el tuyo</em>. Pero al final la base de carga debe estar enchufada, luego el <em>momento sin cables</em> se viene un poco abajo. Probadlo y me contáis.</li>
+</ul>
+<p>Las cosas realmente innovadoras para mí ya no son el hardware. Defender que <em>iOS es mejor que Android</em>, que <em>Android es mejor que iOS</em> o cualquier otra postura basándose en el hardware es absurda. Salvo raras excepciones, cualquier smartphone hoy en día tiene un hardware impresionante. Tanto, que por desgracia ya no nos maravillan. Por eso la gente dice que Samsung <em>no innova</em> con su S4, o que el próximo iPhone va a ser un fracaso. No es que no avancen: es que los avances no impactan tanto en nuestro uso diario. Una batería de una semana de duración sí sería un avance notable, por ejemplo. O un cristal <em>a prueba de balas</em> que no se rompa en la primera caída.</p>
+<h2>Apps</h2>
+<p>La clave es el ecosistema: Apps y mantenimiento del S.O.</p>
+<p>Y en el tema de las Apps la cosa ha cambiado mucho. Atentos, <em>haters</em> de iOS con lo que voy a decir: <strong>sólo me falta tener Things en el Nexus 4 (App de GTD) para poder prescindir de iOS y el iPhone</strong>. En mi caso, para lo que hago con el teléfono, tengo de todo. Repito, para que se vea bien lo <em>fanboy</em> que soy: <strong>uso un Nexus y me hace feliz, tanto que me planteo incluso cambiarme</strong>. Las Apps en Android no están tan bien acabadas como las de iOS, pero han mejorado en general mucho.</p>
+<p>Un inciso para que nadie olvide que soy un <em>Fanboy</em>. Las Apps de iOS son mejores que las Android. Esto es un hecho indiscutible, sólo hay que tener dos dispositivos iOS y Android y usarlos. Apple hace aplicaciones, como Pages, Garage Band o iPhoto / iMovie para iOS que son las mejores, no en iOS, sino en cualquier plataforma móvil. Google hace buenas Apps, pero creo que salvo Maps no tiene ninguna que sea tan <em>alucinante</em> como las anteriores de iOS. Y las que tiene buenas (Maps, G+, Gmail, Youtube) son iguales en iOS y en muchos casos, son mejores en este último (caso de Google Now).</p>
+<p>Por cierto, la aplicación de Mapas es muy chula. Además de ser un GPS casi perfecto, el detalle de ponerse en modo Street View al terminar un viaje es bastante chulo. También se equivoca a veces con las rutas, pero en general es una App que uso mucho y es muy buena. Google Now también me alucina, aunque es muy <em>creepy</em> y te sientes espiado cuando empieza a proponerte viajes basado en todo lo que ha recopilado de tu experiencia anterior. Por supuesto, Google nunca usará esos datos para venderte mejores anuncios (sabe si vives en un barrio con mayor o menor renta per capita, ve las veces que vas al cine, o de vacaciones, pero ellos nunca lo harán). <em>Don&#8217;t be evil</em>. <strong>My ass</strong>.</p>
+<p>Dicho todo esto, la cantidad y calidad de las aplicaciones son suficientes para que me plantee seriamente el cambio permanente a la plataforma Android. Bueno ¿permanente?. Llevo sin usar un iPhone desde Febrero, creo&#8230; Menudo <em>Fanboy</em>&#8230;</p>
+<h2>Las actualizaciones.</h2>
+<p>Esto es de lo que más me gusta. Es decir, estoy agradecido por tener un comportamiento <em>normal</em> en el resto de plataformas: que cuando salga una actualización pueda disponer de esas mejoras en mi teléfono o tableta inmediatamente.</p>
+<p>Pero por desgracia (para los desarrolladores) en el mundo Android esto es la excepción, no la norma. Incluso con un Nexus, tienes que esperar una cola que no entiendo (cuando hay actualizaciones de Apple llegan instantáneamente a todos los teléfonos, no hay que esperar dos semanas). Y no es que Google no sepa de infraestructuras de servidor grandes, que aguanten mucha carga. Es desidia, pura y dura. Si te venden los Nexus libres, y no hay un operador de telefonía por medio ¿cuál es la razón de que no se actualicen todos a la vez? Que no se le dedican los recursos necesarios porque <em>estos cuatro frikis que ya han sido maltratados cuando compraron el teléfono están domesticados y acostumbrados a esperar las migas que se caen de nuestro plato</em>. Al menos, esta es la sensación que se me quedó tras el I/O, esperando día tras día la actualización. O eso, o tienen un único Pentium III como servidor para las actualizaciones de Android.</p>
+<p>Además de tener la última versión, la respuesta y fluidez del teléfono y las Apps que uso (Evernote, la cámara, el correo, los navegadores: Firefox, Chrome y Opera, Swiftkey, los fondos animados, algún widget interesante, Dropbox, etc.) convierten este teléfono en una alternativa total a los Samsung Galaxy S4 de turno. Una persona <em>normal</em> le sacaría más partido (y le saldría más barato) si se comprara libre uno de estos. Pero se ve que no interesa: ni la operadora de turno te cuela un contrato de permanencia de 24 meses ni el fabricante saca un margen adecuado. Y por eso Google no lo publicita. Google fabrica los Nexus para su legión de adoradores, lo cual es triste. Porque deberían de estar al alcance de todos. Búscalos en El Corte Inglés. Suerte.</p>
+<p>Ahora vendrán los típicos comentarios: «Es que tú no sabes usar bien Android», «es que tienes que hacerle root al teléfono», «es que con el S.O. oficial no, pero con tal ROM cocinada puedes hacer tal o cual», «es que eres un fanboy». He usado Android desde la versión 1.6 (HTC Magic) y desarrollo para Android. Creo que tengo cierto conocimiento de causa. Los argumentos que escucho muchas veces no están basados en las ventajas que tenga Android de cara a los usuarios, sino al partido que pueden sacarle cuatro <em>geeks</em> al teléfono. Algo no al alcance de todos.</p>
+<h1>Nuevos precios y conclusión</h1>
+<p>Mientras escribía esto Google bajó los precios del Nexus 4 hasta los 200 Eur. A este precio, pese a cualquier molestia que puedas tener, <strong>no hay otro smartphone que le haga sombra</strong>. Por 200 Eur es imposible encontrar mejor hardware, con el S.O. siempre actualizado y la oferta de Apps de Android. Para mí, es la opción evidente. Porque además, <strong>es libre</strong>.</p>
+<p>Lo que me dejará un poso aún más amargo, ya que no se va a vender masivamente. Lo verás en las manos de muchos Geeks. Pero no en la de gente normal. Y la gente normal se merece este teléfono.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/30/la-era-nexus/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>La NSSpain</title>
+		<link>/2013/07/24/la-nsspain/</link>
+		<pubDate>Wed, 24 Jul 2013 08:22:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Logroño]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[NSSpain]]></category>
+		<category><![CDATA[Programadores]]></category>
+		<category><![CDATA[Saraos]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=1917</guid>
+		<description><![CDATA[La NSSpain es una conferencia dirigida a programadores Cocoa, tanto iOS como Mac. Al final, todo lo que empieza por NS* viene a ser un aviso del estilo de esto va de programar con el lenguaje ese raro de los corchetes. Por cierto, la insistencia en el prefijo NS (como las NSCoder Night) viene del [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>La <a href="http://nsspain.com/">NSSpain</a> es una conferencia dirigida a programadores Cocoa, tanto iOS como Mac. Al final, todo lo que empieza por NS* viene a ser un aviso del estilo de <em>esto va de programar con el lenguaje ese raro de los corchetes</em>. Por cierto, la insistencia en el prefijo NS (como las <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">NSCoder Night</a>) viene del S.O. NextStep donde se gestó el framework Cocoa y donde estuvo mantenido en <a href="http://es.halo.wikia.com/wiki/C%C3%A1mara_Criog%C3%A9nica">crio sueño</a> hasta su popularización, primero en el mundo Mac y luego definitivamente gracias al iPhone.</p>
+<p>La NSSpain va a tener lugar en Logroño (La Rioja &#8211; España), aunque es una conferencia internacional. Viene gente de diferentes países y los ponentes son nacionales (los menos) y muchos extranjeros. La <a href="http://nsspain.com/speakers/">lista de ponentes</a> es excepcional (dado que yo soy la excepción que confirma la regla) y van maestros como <a href="http://www.cocoaosx.com/autor/">Fernando Rodríguez</a>, de AGBO (el gran Jedi Master Cocoa) o Alfonso Alba (mi maestro Git, <a href="/2013/04/02/voy-a-aprender-git/">que me hizo abrir los ojos</a> y cuyo <a href="http://cursos.aprendegit.com/">curso de Git</a> no deberías perderte si en 12 h quieres enterarte <em>al fin</em> de qué va Git). Por el precio que tiene la NSSpain es un regalo, viendo la gente que viene.</p>
+<p>Se desarrolla íntegra en Inglés (por aquello de que es internacional).</p>
+<pre><code>&lt;English-fear-rant&gt;
+</code></pre>
+<p>Acabo de sentir una conmoción en la parte <em>cateta</em> de la fuerza <em>«¡oh, Dios, mi Inglés no es lo suficientemente bueno para enterarme de las ponencias! Es más, todos se van a dar cuenta y se van reír de mi. Me sacarán al escenario desnudo a leer trabalenguas, y finalmente vendrá Godzilla y me arrancará la cabeza»</em>. Vamos a ver, que se va a estar hablando de punteros, bucles, bloques, objetos&#8230; <strong>que nadie se va a poner a declamar a Shakespeare</strong>. Que con un vocabulario mínimo puedes perfectamente seguir una de estas charlas. Hay que perderle definitivamente el miedo al Inglés: es el primer lenguaje que debes aprender si quieres programar.</p>
+<pre><code>&lt;/English-fear-rant&gt;
+</code></pre>
+<p>Así que este Septiembre nos veremos allí (del 16 al 19). Yo acudo como ponente (tras varios intercambios de correo, logré <em>engañarles</em> y hacerles creer que podía impartir una charla con cierto criterio; ahora lo malo es que hay que impartirla). En mi caso, voy a <em>actuar</em> dos veces: el día previo a la conferencia, con un taller de Core Data fundamentos, para explicar lo necesario (y algo más) para funcionar con Core Data. El primer día de la conferencia, vuelvo hablando de Core Data con algunos trucos avanzados, librerías y utilidades que suelo usar para mis proyectos.</p>
+<p>Y claro, como en toda conferencia, además de los ponentes lo mejor suele ser la gente, la comunidad Cocoa. Gente que conozco físicamente o sólo por Twitter, pero que aprecio y respeto, de la que siempre aprendes y con la que quieres estar. No me voy a poner a nombrarlos uno a uno, porque sería una pesadez y de todas formas les voy a ver allí.</p>
+<p>Lo que me lleva al último punto: que nunca he estado en Logroño. Así que este viaje me va a permitir ver algo (supongo que no mucho, que yo se cómo son estas cosas luego) pero al menos darme un paseo por la ciudad y tomarme un café en el centro, que es lo que me gusta.</p>
+<p>Ya sabes: Logroño está cerca de todos lados (al menos, más cerca que Cupertino para muchos), el precio es de risa comparado con lo que vas a aprender, conocerás a gente alucinante y te lo pasarás <em>pipa</em> con <strong>personas que te entienden cuando les hablas excitado de programación</strong>. No como tu pareja, que te escucha y asiente, pero que realmente no sabe de qué le hablas.</p>
+<p>Nos vemos en la NSSpain.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>La BcnDevCon</title>
+		<link>/2012/12/13/la-bcndevcon/</link>
+		<comments>/2012/12/13/la-bcndevcon/#comments</comments>
+		<pubDate>Thu, 13 Dec 2012 10:54:50 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Cocos2D]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=1815</guid>
+		<description><![CDATA[Acabo de volver de Barcelona de la BcnDevCon, una conferencia de desarrollo en la que he participado como desarrollador aprendiz (siempre hay que estar aprendiendo algo) y como ponente. Al paso de visitas que llevo a Barcelona me voy a tener que acabar empadronando allí. Aunque me gustaría variar un poco la zona de la ciudad, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Acabo de volver de Barcelona de la <a href="http://bcndevcon.org/">BcnDevCon</a>, una conferencia de desarrollo en la que he participado como <em>desarrollador aprendiz</em> (<a href="/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/">siempre hay que estar aprendiendo algo</a>) y como ponente. Al paso de visitas que llevo a Barcelona me voy a tener que acabar empadronando allí. Aunque me gustaría variar un poco la zona de la ciudad, porque siempre me toca aproximadamente por El paralel y me gustaría hacer algo de turismo.</p>
+<p style="text-align: justify;">En esta ocasión he estado hablando de <a href="http://bcndevcon.org/master-sessions/C-mo-entrar-en-el-comercio-m-vil">como integrar la biblioteca de pagos móviles de PayPal en una App nativa iOS</a>. Quizás no sea lo más <em>apasionante</em> de mundo, pero hay que pagar facturas. Y ya que estábamos en ello, intentamos pasarlo bien. Con <a href="http://www.linkedin.com/in/hernanrodriguez">Hernán Rodríguez</a> y Jesús Arias, de PayPal montamos un pequeño <em>teatrillo</em> en el que Hernán era un cliente con una web de venta de canagers que me contrataba para hacerle una App iOS de venta de sus figuritas. Yo hacia de programador Friki desbordado (es decir, me interpretaba a mi mismo, como Antonio Resines en todas sus películas) que contactaba con Paypal y creaba la App. Nos echamos unas risas en el escenario con las típicas coñas(quien halla asistido a uno de mis cursos sabe a lo que me refiero) y mostramos un ejemplo casi real. Que además <a href="https://bitbucket.org/dfreniche/caganets">he subido a Bitbucket</a> y puedes bajar para verlo y usarlo. Es un ejemplo sencillo de cómo usar JSON, leyendo en un hilo en paralelo para mostrar los caganers en un UITableView. Nos quedó una sesión creo que entretenida, aunque el tema (pagos móviles) no parece a priori el más divertido.</p>
+<p style="text-align: justify;">Así que mi experiencia ha tenido tres partes: el Jueves, antes de actuar, el Viernes con la actuación y el Sábado de relax.</p>
+<h2 style="text-align: justify;">El Jueves</h2>
+<p style="text-align: justify;">Viaje con un madrugón mortal (me levanté a las 5 de la mañana, y lo pongo aquí porque creo que a Hernán no le quedó claro del todo ;-)). En el avión, roncando desde antes de despegar. Llegué en taxi a la conferencia y dejé la maleta en el «cuarto» donde la organización tenía las cosas. Y me senté en una de las mesas donde luego tuvo lugar el hackathon a terminar la App de demostración del Viernes.</p>
+<p style="text-align: justify;">Además de programar, me dio tiempo a asistir al taller de introducción a OpenGL que impartió <a href="http://www.cocoaosx.com/">Fernando Rodríguez</a>. Ahora OpenGL ya me suena a Inglés, no a Chino. Seguiré intentándolo, porque no tengo ni idea y es una asignatura pendiente (como el dominar las expresiones regulares, o ser dueño de una isla en el Caribe).</p>
+<p style="text-align: justify;">En la comida coincidimos muchos y con gente que ya conocía de la NSCoder Night de BCN y de verlos en Vilanova i La Geltrú, especialmente @acuarioverde y @risalba. Buena charla, geek como corresponde, y una paliza de comer: pedimos menú para dos en un chino y éramos dos. Resultado: sobró comida. En un chino, si pides menú siempre debe ser: (número de comensales)-1.</p>
+<p style="text-align: justify;">Me encontré también (la pena es que fue de pasada) con Pedro Santos, crack Agile y con mis ex-alumnos de Code D&#8217;Azur, Tamara y Gerardo, que son para comérselos a besos. Ya han superado al maestro. Se iban a su cena de navidad, a Holanda. Ventajas de estar en una empresa como Dios manda. Saludé de pasada a <a href="http://www.bonillaware.com/">David Bonilla</a>, pero no pude fagocitar su tiempo, primero porque tenía cosas que hacer y segundo porque estaba rodeado de gente que lo querían <em>todo para ellos</em>.</p>
+<h2 style="text-align: justify;">La cena con BB10</h2>
+<p style="text-align: justify;">El jueves tuve una cena de lujo en la Barceloneta. Con Hernán,<a href="https://twitter.com/jcmrim"> John Murray</a> y <a href="https://twitter.com/jorgecasar">Jorge del Casar</a>, dos <em>developer evangelists</em> de RIM estuvimos hablando de muchas cosas, todas muy frikis, pero sobre todo de BB10. Cada vez me gusta más esta plataforma. Tengo que meterme a fondo y en serio y empezar a <em>parir</em> Apps con Cascades. El caso es que al lado de estos de RIM te sientes un enano mental: saben muuuucho y son «developers, developers, developers» hardcore como el resto. Nada de encorbatados. Que la imagen que yo tenía de RIM se está revelando muy equivocada. Y que tengo que leerme mucho libros y comerme muchos <em>bollicaos</em> para ponerme al nivel de estos tres.</p>
+<p style="text-align: justify;">Nos tomamos dos botellas de Albariño mientras John nos explicaba las bases de NFC. Alucinante. La copa posterior me dejó en malas condiciones para la charla del Viernes.</p>
+<h2 style="text-align: justify;">Viernes y Sábado</h2>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/12/Scumm_Bar.jpg"><img class="aligncenter  wp-image-1820" title="Scumm Bar de Attlasian. Las cosas de David Bonilla" src="/wp-content/uploads/2012/12/Scumm_Bar-1024x768.jpg" alt="Scumm Bar de Attlasian. Las cosas de David Bonilla" width="614" height="461" srcset="/wp-content/uploads/2012/12/Scumm_Bar-1024x768.jpg 1024w, /wp-content/uploads/2012/12/Scumm_Bar-300x225.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a></p>
+<p style="text-align: justify;">El Viernes apelé a mis <em>superpoderes de conferenciante y feriante</em> para que no se notara la resaca. Y creo que conseguí engañar al auditorio. Ayudado por la cafeína y un bocata de atún que compré en el stand de Attlasian (por cierto, unos cachondos estos con el nombre del bar) aguanté hasta la una. Luego nos fuimos al apartamento, comimos por el camino y me regalé una tarde en pijama trabajando con el portátil en el sofá tras una siesta de tres horas. Luego una carrerita de 7 Km para mover el barrigón y a cenar.</p>
+<p style="text-align: justify;">El Sábado acudí a dos talleres muy buenos. El de Unity, donde me enteré de qué va el motor y el de <a href="http://albertogonzalez.net/es/2012/12/12/taller-de-cocos2d-en-barcelona-developers-conference/">Cocos 2D</a>, donde aprendí sobre la versión 2 del framework, de la mano del crack <a href="http://albertogonzalez.net/">Alberto González</a>. Luego la comida en Can Eusebio (excelente) y ya de vuelta a la BcnDevCon a continuar con el café y la charla política.</p>
+<h2 style="text-align: justify;">Conclusión</h2>
+<p style="text-align: justify;">La conferencia en sí me ha gustado, pero como todas las cosas, se puede hacer mejor. La Wifi ha dado bastantes problemas y ha sido una queja constante. No disponer de badges para identificarnos era un rollo. Con unas pegatinas para poner el nombre y tu Twitter hubiera bastado. Y la insonorización del Museo era nula (aunque esto se entiende que era muy difícil de conseguir). Pero tras haber estado en las instalaciones del CCCB veo que hay otras alternativas en BCN. Otra cosa son los precios, claro. Otra sugerencia: un «muro» para que gente que busca y ofrece empleo se encuentre, dejando sus tarjetas de visita.</p>
+<p style="text-align: justify;">Ya se que es muy fácil criticar y más difícil hacer, crear y currar. Por eso propongo mejoras, para que sea una mejor conferencia el año que viene. En cualquier caso: gracias.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/12/13/la-bcndevcon/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Cómo desarrollar Apps móviles en iOS y Android. Entrevista</title>
+		<link>/2012/11/12/como-desarrollar-apps-moviles-en-ios-y-android-entrevista/</link>
+		<pubDate>Mon, 12 Nov 2012 12:18:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Telar del Geek]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Daniel ha tenido a bien entrevistarme vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste. Si tenéis dudas comentad allí y aquí, que si no no os puedo responder 😀]]></description>
+				<content:encoded><![CDATA[<p>Daniel <a href="http://eltelardelgeek.com/2012/11/11/comenzando-a-desarrollar-app-con-dfreniche/">ha tenido a bien entrevistarme</a> vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste.</p>
+<p>Si tenéis dudas comentad allí y aquí, que si no no os puedo responder <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Charla sobre «El estado de la nación móvil»</title>
+		<link>/2012/09/14/charla-sobre-el-estado-de-la-nacion-movil/</link>
+		<pubDate>Fri, 14 Sep 2012 09:10:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Plataformas móviles]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+		<category><![CDATA[WP7]]></category>
+
+		<guid isPermaLink="false">/?p=1786</guid>
+		<description><![CDATA[Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-1788" title="Hablando del estado de la nación móvil" src="/wp-content/uploads/2012/09/Foto_1.jpg" alt="Hablando del estado de la nación móvil" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_1.jpg 640w, /wp-content/uploads/2012/09/Foto_1-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p style="text-align: justify;">Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo que los asistentes (que me tenían que aguantar), no tanto.</p>
+<p style="text-align: justify;">Es increíble lo mucho que cambia esta parte del sector informático en meses. En Julio estuve en Zafra realizando este taller, pero con más profundidad, para ayudar a una empresa a elegir su estrategia móvil para desarrollo. Como eran programas in house y ya sabían Java finalmente vimos que lo mejor era la ruta Android. Pero desde entonces Samsung ha sido condenada por copiona, ha salido el Kindle Fire HD, el Nexus 7, se han anunciado los nuevos Lumias&#8230; Esto va a velocidad de vértigo y son tantas las plataformas y hay tanto ruido que es normal que el que no esté al tanto quiera alguna indicación.</p>
+<div><a href="/wp-content/uploads/2012/09/Foto_2.jpg"><img class="aligncenter size-full wp-image-1789" title="Al fondo, inasequible al desaliento" src="/wp-content/uploads/2012/09/Foto_2.jpg" alt="Al fondo, inasequible al desaliento" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_2.jpg 640w, /wp-content/uploads/2012/09/Foto_2-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></div>
+<div>La pena es que no pudimos hacer casi ni un hola mundo con Xcode. Quería hacer algo también con Android, pero fue imposible. O haber enseñado alguna aplicación webOS, o Windows Phone. Pero cuatro horas se van volando, cuando hablas de algo que te apasiona <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+<p style="text-align: justify;">P.D.: <a href="http://www.avante.es/">Avante</a> ha convocado un <a href="http://www.avante.es/master/desarrollo_apps.html">máster de desarrollo iOS, Android y Windows Phone</a>. Tienes la oportunidad de aguantarme enseñando a programar en  iOS y Android si te apuntas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">P.P.D.: ya <a href="/2010/10/08/video-de-mi-intervencion-en-etic/">a finales de 2010 estuve hablando en un encuentro e-Tic de Avante sobre iOS</a>. Hay vídeo para recordarlo.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>La NSConf11 de Vilanova i La Geltrú</title>
+		<link>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/</link>
+		<comments>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 12:43:17 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cataluña]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1630</guid>
+		<description><![CDATA[Este pasado fin de semana tuve el placer de asistir a la primera Conferencia que ha organizado a nivel nacional la Asociación NSCoders España. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Este pasado fin de semana tuve el placer de asistir a la <a href="http://nsconf.nscoders.org/">primera Conferencia</a> que ha organizado a nivel nacional la <a href="http://nscoders.org/">Asociación NSCoders España</a>. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el error de dejarme hablar. Y claro, me dediqué a desvariar un rato y, entre chiste y chiste, contaba cómo hacer un cliente RSS para iPhone.</p>
+<p style="text-align: justify;">Aún no se si realmente alguien aprendió algo de mi charla. Yo me lo pasé muy bien, aunque no las tenía todas conmigo. El Viernes anterior había estado toda la mañana programando con JavaScript y el framework Enyo para la HP TouchPad. Y por la tarde había estado viendo detalles intrincados de Java en un curso de preparación para el OCP Java SE 6 que estoy impartiendo. Y Cocoa ya no me cabía en mis maltrechas neuronas. Al final parece que Cocoa fluyó (con ayuda de muchos cafés) y me pude escapar sin demasiados tomatazos. Y aquí es donde empezó realmente lo bueno.</p>
+<p style="text-align: justify;">Este año he ido a otra conferencia, el iOSDevUK en Gales, que me encantó. Pero comparando ambas, en la NSConf11 he <em>escrito</em> código. No sólo he escuchado, aprendido y charlado de código. He <em>trabajado</em> el código. Como en el increíble taller de TDD que impartió <a href="http://nsconf.nscoders.org/ponentes/pedro-santos">Pedro Santos</a>, tras su charla sobre Behaviour Driven Development. Aquí tuve el privilegio de picar código mientras hacíamos pair programming aplicando el proceso paso a paso de TDD. O la charla sobre Chipmunk de <a href="http://nsconf.nscoders.org/ponentes/oscar-cardona">Óscar Cardona</a>, que nos dejó a todos atontados y pensando «esto no puede ser así de simple, o hay más código o este tío explica muy bien esto». O el taller de Core Plot, donde vimos cómo hacer gráficas complejas con esta librería, gracias a la demo de <a href="http://nsconf.nscoders.org/ponentes/victor-jalencas">Víctor Jalencas</a>. Y tantas y tantas ponencias interesantes. La única pena: las que me perdí mientras yo hablaba, y las que tuve que elegir, perdiendo la que se presentaba en paralelo.</p>
+<p style="text-align: justify;">Lo mejor, la gente que he conocido. Gente con muchas ganas de aprender, compartir y enseñar. Gente encantadora y que, como los miembros de la NSCoder_bcn que han organizado el evento, se han matado para que todo estuviera perfecto, como al final ha sido. Creo que nadie pensaba que en una primera conferencia íbamos a tener tanto público. Esto puede llegar a ser una WWDC hispana. Trabajaremos por ello. Gracias a José Juan, nuestro presidente, o a Guillem o Leandro, o Xabi, o&#8230; por la paliza enorme que se han dado.</p>
+<p style="text-align: justify;">He podido conocer en persona (yo no «desvirtualizo» a las personas: las conozco) a José Lobato, ídolo de masas Geeks y gran bebedor de cerveza :-D. El tío en persona es para comérselo, y gran parte de la «culpa» de que todo esto se originara es la semilla plantada desde 85% Cocoa con las NSCoder Nights. Otro que me ha impresionado y he podido escuchar con respeto reverencial es Iván Leider. Él es un Maestro Jedi del desarrollo. Yo, ni Padawan&#8230;</p>
+<p style="text-align: justify;">Y demostrando que el mundo geek también es un pañuelo, conocí a <a href="http://www.fillito.com/blog/">Daniel García</a>, el programador de la App de <a href="http://www.minube.com/">Minube</a> para la TouchPad. Creo que allí estábamos los dos únicos programadores Enyo de toda España :-). Bueno, alguno más habrá, pero no creo que más de 10&#8230;</p>
+<p style="text-align: justify;">Y claro, me he hinchado a comer, he visto algo de Vilanova i La Geltrú (principalmente de noche) y no he parado de hablar. La experiencia no merece la pena: es imprescindible si desarrollas en Cocoa. Yo el año que viene, repito. Espero que alguien recapacite y no me dejen hablar.</p>
+<p style="text-align: justify;">Os dejo con un Vídeo de Vilanova Digital en la que «el presi» de la Asociación explica (en Catalán, pero se entiende perfectamente) qué es la NSConf11</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/esHvZC-VpE4" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/esHvZC-VpE4"></param></object></div>
+</div>
+<p style="text-align: justify;">Y el que quiera el código del RSS Reader que utilicé de ejemplo, lo tiene en: <a href="https://github.com/dfreniche/SimpleRSSReader">https://github.com/dfreniche/SimpleRSSReader</a></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Primera conferencia de la Asociación NSCoders España</title>
+		<link>/2011/10/04/primera-conferencia-de-la-asociacion-nscoders-espana/</link>
+		<comments>/2011/10/04/primera-conferencia-de-la-asociacion-nscoders-espana/#comments</comments>
+		<pubDate>Tue, 04 Oct 2011 11:43:57 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=1610</guid>
+		<description><![CDATA[El movimiento de las NSCoder Nights que está recorriendo España es simplemente espectacular. Luchando contra todos los prejuicios que habitualmente tenemos los informáticos para hacer comunidad, hemos creado grupos en muchas capitales de provincia que se reúnen de forma regular. Si no has ido a ninguna NSCoder, y tienes alguna cerca, seguramente te encantará. Es [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="text-align: justify;">El movimiento de las <a href="http://nscodernight.com/">NSCoder Nights</a> que está recorriendo España es simplemente espectacular. Luchando contra todos los prejuicios que habitualmente tenemos los informáticos para hacer comunidad, <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">hemos creado grupos</a> en muchas capitales de provincia que se reúnen de forma regular. Si no has ido a ninguna NSCoder, y tienes alguna cerca, seguramente te encantará. Es el sitio al que puedes ir a hacer <em>terapia</em>, un poco como alcohólicos anónimos, donde encuentras gente que le interesa de verdad lo que le cuentas y quiere aprender y enseñar. Porque ya te habrás dado cuenta que cuando tu mujer te dice <em>«sí cariño»</em> tras explicarle lo que te gustan las categorías de Objective C, realmente no te está escuchando, ¿no?</div>
+<div style="text-align: justify;">El paso natural era encauzar estos esfuerzos individuales para hacer algo más grande, por y para los programadores Cocoa de España. Para ello, hemos constituído una asociación, la Asociación NSCoder_es, cuya web es <a href="http://nscoders.org/">nscoders.org</a> donde puedes encontrar toda la información. Objetivo: compartir, aprender e impulsar Cocoa en España. No, por desgracia su objetivo no es hacerme rico. Lo propuse, pero lo rechazaron. También me rechazaron el jamón gratis de regalo.</div>
+<div>Así que ya tenemos la reuniones locales, pero ¿por qué no hacer una conferencia, de programadores para programadores, y que encima sea <strong>gratis</strong>? Si fueran mujeres, sería perfecta!</div>
+<div style="text-align: justify;">Por eso estoy entusiasmado de poder asistir (y si me dejan, incluso de hablar) a la primera conferencia que organiza la asociación NSCoder España en Vilanova i la Geltrú. Tendrá lugar los próximos días 29 y 30 de Octubre, sábado y domingo, y antes del puente del 1 de Noviembre</div>
+<div style="text-align: justify;">¡<strong>Déjate de excusas</strong>, que si no tienes tiempo, que si necesitas planificarte con más antelación&#8230;! ¡Tú y yo sabemos que lo que te gusta, tu vicio confesable, es programar! ¿Nunca has hecho alguna locura de forma impulsiva? Ahora es el momento!</div>
+<div>Te esperamos en la primera conferencia NSCoder ES en Vilanova i la Geltrú. Recuerda: 29 y 30 de Octubre. ¡Que es gratis!. Toda la información estará en la web de la asociación <a href="http://nscoders.org/">NSCoders España</a>. ¡Ah, y no hay que estar asociado para asistir! Sólo querer hablar de Cocoa.</div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/04/primera-conferencia-de-la-asociacion-nscoders-espana/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Café y Cocoa</title>
+		<link>/2011/08/30/cafe-y-cocoa/</link>
+		<comments>/2011/08/30/cafe-y-cocoa/#comments</comments>
+		<pubDate>Tue, 30 Aug 2011 13:10:22 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[Cafe y cocoa]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=1605</guid>
+		<description><![CDATA[Así, sin más fanfarrias ni historias, le doy el pistoletazo de salida a algo que hace mucho tiempo tenía ganas de hacer: un videocast. Concretamente este se llama Café y Cocoa, y no es un curso, ni un tutorial. Es un «voy a hablar hoy de lo que me apetezca», así que, aunque parezca que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1607" style="width: 610px" class="wp-caption aligncenter"><a href="http://www.cafeycocoa.com.es/"><img class="size-full wp-image-1607" title="Cafe y cocoa" src="/wp-content/uploads/2011/08/cafeycocoa2.png" alt="Cafe y cocoa" width="600" height="600" srcset="/wp-content/uploads/2011/08/cafeycocoa2.png 600w, /wp-content/uploads/2011/08/cafeycocoa2-150x150.png 150w, /wp-content/uploads/2011/08/cafeycocoa2-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">Cafe y cocoa</p></div>
+<p style="text-align: justify;">Así, sin más fanfarrias ni historias, le doy el pistoletazo de salida a algo que hace mucho tiempo tenía ganas de hacer: un videocast. Concretamente este se llama <a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a>, y no es un curso, ni un tutorial. Es un «voy a hablar hoy de lo que me apetezca», así que, aunque parezca que va a tener un orden lógico, estad preparados para lo peor <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Quedan muchas cosas por hacer. Me gustaría publicarlo en iTunes. Y traducir el tema al Español. Y mejorar muchas cosas. Pero como ando escaso de tiempo, y al final lo fundamental es que al que le guste, que se vea los vídeos, voy a hacer un «release early» pero ya. Así que consideradlo en Beta, como todos los servicios de Google <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>He procurado hacer vídeos cortos, y esa va a ser la tónica, para no aburrir a las ovejas. Se agradece feedback, aquí, en Café y Cocoa, por correo, en Twitter o por señales de humo. Ánimos e insultos son bienvenidos, como siempre.</p>
+<p>¡Mamá, ya soy videocaster! ¡Y cumplo la Ley Emilcar!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/30/cafe-y-cocoa/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+	</channel>
+</rss>

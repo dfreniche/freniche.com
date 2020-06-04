@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Licencias &#8211; freniche.com</title>
+	<atom:link href="/tag/licencias/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Las patentes de software se llevan el primer NO</title>
+		<link>/2005/07/06/las-patentes-de-software-se-llevan-el-primer-no/</link>
+		<pubDate>Wed, 06 Jul 2005 11:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Free Software]]></category>
+		<category><![CDATA[GPL]]></category>
+		<category><![CDATA[Licencias]]></category>
+
+		<guid isPermaLink="false">/2005/07/06/las-patentes-de-software-se-llevan-el-primer-no/</guid>
+		<description><![CDATA[Hoy es un día un poquito más libre y feliz para los profesionales y usuarios de la Informática en Europa. La Comisión Europea ha actuado con sentido y no ha aprobado esa aberración acerca de las patentes de Software que estaba preparando. Si no sabes de qué va todo esto de la patentes de Software, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h3 style="text-align: justify;">Hoy es un día un poquito más libre y feliz para los profesionales y usuarios de la Informática en Europa. La Comisión Europea ha actuado con sentido y no ha aprobado esa aberración acerca de las patentes de Software que estaba preparando.</h3>
+<p class="bodytext" style="text-align: justify;">Si no sabes de qué va todo esto de la patentes de Software, abajo incluyo dos enlaces a webs que lo explican en Español. Y además el artículo de El Mundo que está en <a href="http://www.elmundo.es/navegante/2005/07/06/softlibre/1120638414.html" target="_blank">www.elmundo.es/navegante/2005/07/06/softlibre/1120638414.html</a>, cuenta con más detalle cómo se ha producido la votación.</p>
+<p class="bodytext">El resumen: que, de momento, estamos salvados. A ver si dura.</p>
+<p class="bodytext">Enlaces:</p>
+<p class="bodytext"><a href="http://noepatents.eu.org/index.php/NO_a_las_patentes_de_software">noepatents.eu.org/index.php/NO_a_las_patentes_de_software</a></p>
+<p class="bodytext"><a href="http://www.nosoftwarepatents.com/es/m/intro/index.html">www.nosoftwarepatents.com/es/m/intro/index.html</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

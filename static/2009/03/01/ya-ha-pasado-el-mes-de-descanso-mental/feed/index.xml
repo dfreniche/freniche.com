@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Ya ha pasado el mes de descanso mental</title>
+	<atom:link href="/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/comment-page-1/#comment-2290</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 10 May 2009 17:28:31 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/#comment-2290</guid>
+		<description><![CDATA[Gracias. La pena es que no he subido los ejemplos de código (algunos con curiosas aberraciones que permite Java, como nombrar una variable $__$) por falta de tiempo, ya que estoy ahora liado con el examen de LPIC (LPI 101).
+¿Qué certificaciones son? ¿SCJP y SCWCD?
+Cuando pase el verano intentaré ir a por el SCJP 1.6 y el SCWCD 1.5, que no los tengo.
+Supongo que a nivel laboral se le acabará sacando jugo, pero de momento... :-)]]></description>
+		<content:encoded><![CDATA[<p>Gracias. La pena es que no he subido los ejemplos de código (algunos con curiosas aberraciones que permite Java, como nombrar una variable $__$) por falta de tiempo, ya que estoy ahora liado con el examen de LPIC (LPI 101).<br />
+¿Qué certificaciones son? ¿SCJP y SCWCD?<br />
+Cuando pase el verano intentaré ir a por el SCJP 1.6 y el SCWCD 1.5, que no los tengo.<br />
+Supongo que a nivel laboral se le acabará sacando jugo, pero de momento&#8230; 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Yacar</title>
+		<link>/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/comment-page-1/#comment-2289</link>
+		<dc:creator><![CDATA[Yacar]]></dc:creator>
+		<pubDate>Sun, 10 May 2009 16:09:27 +0000</pubDate>
+		<guid isPermaLink="false">/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/#comment-2289</guid>
+		<description><![CDATA[Muchas gracias por tu blog...estoy en el mismo proceso de obtener las certificaciones como un reto personal y obviamente para sacarles el jugo a nivel laboral. 
+Los enlaces y apuntes han sido de mucha ayuda. 
+Te felicito por tu aporte.]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias por tu blog&#8230;estoy en el mismo proceso de obtener las certificaciones como un reto personal y obviamente para sacarles el jugo a nivel laboral.<br />
+Los enlaces y apuntes han sido de mucha ayuda.<br />
+Te felicito por tu aporte.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

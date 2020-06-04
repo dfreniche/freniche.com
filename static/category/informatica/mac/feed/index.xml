@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mac &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/mac/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Apple, tenemos que hablar</title>
+		<link>/2017/05/08/apple-tenemos-que-hablar/</link>
+		<pubDate>Mon, 08 May 2017 18:27:32 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Mac]]></category>
+
+		<guid isPermaLink="false">/?p=2749</guid>
+		<description><![CDATA[Estoy pasando momentos bajos en mi relación con Apple. Cuando dejé Linux y me pasé a los Macs, en 2008, todo eran vino y rosas. Descubrí un S.O., OS X, que era un UNIX bonito. Un UNIX que no tenía que preocuparme de mantener. En el que los drivers de audio siempre iban a funcionar, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Estoy pasando momentos bajos en mi relación con Apple. Cuando dejé Linux y me pasé a los <a href="/2008/04/04/razones-para-no-usar-un-mac/">Macs</a>, en 2008, todo eran vino y rosas. Descubrí un S.O., OS X, que era un UNIX <em>bonito</em>. Un UNIX que no tenía que preocuparme de mantener. En el que los drivers de audio siempre iban a funcionar, sin preocuparme de si eran ALSA o no. Un S.O. que además venía envuelto en unas máquinas que siempre me parecieron increíbles. Bonitas, precisas, avanzadas, potentes. Como me dijo <a href="https://twitter.com/xeleh">Xeleh</a> una vez «yo me compré un Mac para instalarle Windows porque quería tener el mejor PC portátil del mercado».</p>
+<p>Entonces Apple sacó el iPhone 3G, y me compré uno en un viaje a Bélgica (en España aún no los vendían porque no había ninguna Apple Store por entonces). Y tras esa maravilla vino el iPad 1, el 3Gs, el iPhone 4&#8230; Apple siempre sacaba algo que me gustaba por alguna razón y que compraba, como su Time Capsule (que falló, como tantas). Y me compré un iMac (que aún tengo como máquina de escritorio principal, y como monitor para mi PC de gaming). He tenido otros modelos, desde varios PowerMac G5 hasta un Mac Mini G4 que corre <a href="/2010/10/19/mi-macmini-con-morphos-2-6/">MorphOS</a> (un S.O. alternativo inspirado y compatible con el software de Amiga) o un PowerMac G3 que aún conservo.</p>
+<p>Eran años de vino y rosas, de maravillas.</p>
+<p>Entonces Apple sacó el Apple Watch.</p>
+<p>Este fue el primer producto de Apple en mucho tiempo que me dejó frío. Mi mujer, por ejemplo, lo tiene y usa a diario. Pero en mi caso, que llevaba 20 años sin usar un reloj ¿cargar uno cada noche para poco más que ver la hora? Por ironías del destino, vuelvo a llevar reloj, pero en mi caso es un feísimo, durísimo, utilísimo, Polar M400 con una semana de batería que me llevo cuando voy a trotar por el campo. Por menos de 100 Eur. hace todo lo que necesito y más: registra mis carreras con GPS y monitoriza mi actividad diaria. Y da la hora. Veo que el Apple Watch es mucho más bonito, es a fin de cuentas un móvil pequeñito con correa, pero al igual que a las difuntas Google Glass, no le veo utilidad en mi caso.</p>
+<p>Bueno, esto no es para tanto, me dije. Pronto sacarán algo que realmente me interese. Pero tras sacar el iPhone 6+, con una pantalla grande como los otros teléfonos Android que tengo, las mejoras en los iPhones me han parecido irrelevantes. Sí, mejor cámara. Sí, tienes ahora 3D touch. Vale, más potente gráficamente. Pero que no estoy dispuesto a gastarme otros 900 Eur para tener esas mejoras. Y el colmo ha venido cuando han quitado el conector para auriculares estéreo jack de 3.5mm. Se ve que alguien en Apple tuvo un problema de niño con este conector, porque el iPhone original tenía un conector de 2.5mm y necesitaba un adaptador. Y en cuanto han podido lo han <em>deprecado</em>. Supongo que para vender más auriculares Beats con Bluetooth. Y entiendo perfectamente la comodidad de BT, y se que con BT4 la calidad de sonido es bastante buena. Pero si voy a pagar con <em>mi</em> dinero un móvil, quiero que me de opciones. Como la de usar unos auriculares con cable porque suenan mejor, porque me da placer insertar el jack de 3.5mm o <em>porque me da la gana y pago yo</em>. Por increíble que parezca, los consumidores a veces tenemos criterio, y sabemos qué nos gusta y qué no, especialmente cuando lo pagamos con nuestros ahorros&#8230;</p>
+<p>Y luego se han ido amontonando Keynotes horribles de Apple, en los que presentaban más y más cosas que no me interesan. Apple Music. Lo siento, pero prefiero dedicar un presupuesto de 12 Eur. mensuales y comprarme un CD en Amazon al mes. Porque me gusta abrir el CD. Porque me encanta tener la molestia de <em>ripearlo</em> al nivel de calidad que yo quiera. Porque es un disco físico que puedo prestar o vender si me harto de él. Porque soy viejuno. Echo de menos sentarme a escuchar música sin hacer otra cosa que escuchar la música, como cuando era un chaval. Es increíble la de notas e intrumentos que hay ahí, si les prestas atención. Bueno, eso es si no escuchas <em>Reggaeton</em>, claro. Estoy hablando de música&#8230;</p>
+<p>Y los días y semanas se convertían en meses. Y el Mac Pro no se actualizaba. Los iMacs tampoco. Al final, ni siquiera los MacBooks. Los Mac Minis ¿qué era aquello? Una pena abandonar la mejor solución para tener servidores macOS (que aunque a alguien en Apple le sorprenda, siguen siendo necesarios). Y después de abandonar los Xserve y ahora dejar de lado los Mini, no se si en apple quieren que los <em>racks</em> donde se alojan los servidores pongamos iMacs&#8230;</p>
+<p>Al final, la gota que ha colmado mi vaso ha sido el nuevo MacBook NoPro con ToyBar™. Un portátil en el que se destila la obsesión anoréxica por el «más delgado y ligero» que está bien, si no se pierde la potencia. Pero cuando pones un teclado, que para <a href="https://twitter.com/spolsky/status/833082540995014656">Joel Spolsky</a> es horrible (y me fío algo de la opinión de este señor), no permites, tras tantísimo tiempo sin actualizar, ampliar más de 16 GB RAM, quitas las teclas físicas de función y metes un Apple Watch estirado, en un esfuerzo por dar la impresión de que innovas, te cargas el puerto MagSafe, una de las cosas que siempre me han gustado más de los portátiles Apple y metes únicamente USB-C, pues no puedo estar contento. Que USB-C que estará muy bien en el futuro, o con adaptadores, pero que como he dicho antes si pago por un producto quiero que me sirva <em>ahora</em>, no en el futuro. Y actualmente ni siquiera el último iPhone es USB-C, con lo cual para conectar el último teléfono al último ordenador de Apple necesitas un adaptador&#8230; Sin contar con que pasamos de conector de 30 pines a lighning ¿y ahora viene otro distinto? Esto es innovación permanente, o ansia por vender adaptadores permanente, no lo tengo claro.</p>
+<p>Y ya se, ya. Que yo soy un caso especial. Que me gustan las cosas viejunas, los ordenadores que cargan juegos de cinta y <em>ripear</em> CDs. Que el ToyBar™ es una maravilla y que me quejo por vicio, y que los más de 500 Eur. que ha subido de precio el MacBook Pro teniendo (para mi gusto) menos prestaciones son perfectamente justificables por esto y por lo otro. Que no podían meter más de 16GB RAM porque entonces no duraba tanto la batería. Pero sí la pantallita de las teclas de función, que debe ser muy ecológico eso de consumir energía para que se vea tecla de ESC. Y que todo el mundo conoce mis necesidades y preferencias a la hora de comprar un portátil mejor que yo. Pero mientras el dinero salga de mi cartera, Apple, tenemos un problema. No me voy a comprar estos nuevos jueguetes con la marca Pro que has sacado. Y no voy a pagar un precio premium por MacBooks Pro con hardware de hace dos años. Así que seguiré <em>estirando</em> este MacBook no retina de 13&#8243;, y mi iMac de finales de 2009. Porque funcionan bien, y me parecen máquinas excelentes, y me sigue gustando tu sistema operativo, a pesar de que insistas en iCloud, que como usuario me interesa cero.</p>
+<p>Pero tenemos que hablar, Apple, porque por primera vez desde 2008 hay en mi casa un ordenador que es muchísimo más potente que los que tú me ofreces. Es una torre. Lo uso para jugar. <em>De momento</em>. Y corre Windows 10. Y cada día lo enciendo más. Para jugar. <em>De momento</em>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Cómo instalar Xcode 6 GM (o cualquier versión final de Xcode) sin sobreescribir la anterior</title>
+		<link>/2014/09/10/como-instalar-xcode-6-gm-o-cualquier-version-final-de-xcode-sin-sobreescribir-la-anterior/</link>
+		<pubDate>Wed, 10 Sep 2014 08:11:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=2233</guid>
+		<description><![CDATA[De nuevo es esa época del año. Vuelta al cole. Fin del verano. Nuevo Xcode. Me encanta el olor a nuevo Xcode por la mañana Y siempre, el mismo temor: ¿qué pasa al instalar? ¿Voy a sobreescribir mi Xcode actual? Un poco de teoría Una App en OS X no es más que una carpeta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>De nuevo es esa época del año. Vuelta al cole. Fin del verano. Nuevo Xcode.</p>
+<blockquote>
+<p>Me encanta el olor a nuevo Xcode por la mañana</p>
+</blockquote>
+<p>Y siempre, el mismo temor: ¿qué pasa al instalar? ¿Voy a sobreescribir mi Xcode actual?</p>
+<h2>Un poco de teoría</h2>
+<p>Una App en OS X no es más que una carpeta (un <em>bundle</em>) que contiene los ficheros ejecutables y recursos que la App necesita. Podemos verlo más claro desde el Finder pulsando con el botón derecho del ratón y escogiendo <em>Mostrar contenido del paquete</em>. Desde la terminal es aún más evidente. Si hacemos:</p>
+<pre><code>$ cd /Applications/ 
+$ ls -d Xcode*
+
+drwxr-xr-x@ 3 dfreniche admin 102B 10 sep 09:47 Xcode.app/ 
+drwxr-xr-x  3 root wheel 102B 16 abr 10:30 Xcode5.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 2 jul 02:52 Xcode6-Beta3.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 1 ago 23:17 Xcode6-Beta5.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 16 ago 00:35 Xcode6-Beta6.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 28 ago 09:01 Xcode6-Beta7.app/
+</code></pre>
+<p>veremos todas las versiones de Xcode que tenemos instaladas. No son más que directorios UNIX normales</p>
+<h2>La práctica</h2>
+<p>Durante la fase de Betas la imagen de disco con Xcode que descargamos contiene una carpeta con un nombre como Xcode6-Beta5. Este nombre es distinto de <code>Xcode</code>, con lo que no hay conflicto.</p>
+<p>Cuando llega la GM y la versión definitiva, Apple distribuye un DMG con una App que ya se llama Xcode. Es Xcode 6, pero tiene <em>el mismo nombre de carpeta que el Xcode 5 que ya tienes instalado en tu disco duro</em>. Si lo copias, vas a perder Xcode 5.</p>
+<div id="attachment_2234" style="width: 1467px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/09/Xcode5-antes-copiar.png" alt="Xcode5 antes de copiar Xcode6 GM" width="1457" height="700" class="size-full wp-image-2234" srcset="/wp-content/uploads/2014/09/Xcode5-antes-copiar.png 1457w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-300x144.png 300w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-1024x491.png 1024w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-920x442.png 920w" sizes="(max-width: 1457px) 100vw, 1457px" /><p class="wp-caption-text">]Xcode5 antes de copiar Xcode6 GM</p></div>
+<p>Solución sencilla: <em>antes</em> de copiar nada a la carpeta Applications, renombra Xcode (como si fuera un fichero o carpeta normal, probablemente tengas que introducir tu clave de administrador) y ponle de nombre Xcode 5 (o el que prefieras, yo tengo por ahí una llamada <em>Ye olde Xcode 4.3</em>)</p>
+<div id="attachment_2235" style="width: 1467px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/09/Installing-Xcode6.png" alt="Instalando Xcode 6 tras renombrar Xcode 5" width="1457" height="700" class="size-full wp-image-2235" srcset="/wp-content/uploads/2014/09/Installing-Xcode6.png 1457w, /wp-content/uploads/2014/09/Installing-Xcode6-300x144.png 300w, /wp-content/uploads/2014/09/Installing-Xcode6-1024x491.png 1024w, /wp-content/uploads/2014/09/Installing-Xcode6-920x442.png 920w" sizes="(max-width: 1457px) 100vw, 1457px" /><p class="wp-caption-text">]Instalando Xcode 6 tras renombrar Xcode 5</p></div>
+<p>Fácil, ¿no?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Windows 8 en mi iMac late 2009</title>
+		<link>/2014/06/11/windows-8-en-mi-imac-late-2009/</link>
+		<comments>/2014/06/11/windows-8-en-mi-imac-late-2009/#comments</comments>
+		<pubDate>Wed, 11 Jun 2014 16:15:45 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Bootcamp]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=2187</guid>
+		<description><![CDATA[TL;DR; Este es el mejor resumen de lo que viene a continuación: Me gusta jugar. Lo confieso. Especialmente a los juegos de acción en primera persona (vicio adquirido con el mítico Wolfestein 3D) y a los de estrategia por turnos. Por turnos. Los otros son un corre que te pillo para ganar. Esto se lo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>TL;DR;</h2>
+<p>Este es el mejor resumen de lo que viene a continuación:</p>
+<p><a href="/wp-content/uploads/2014/06/t0XHtgJ.gif"><img src="/wp-content/uploads/2014/06/t0XHtgJ.gif" alt="Escena de Dexter" width="240" height="180" class="aligncenter size-full wp-image-2189" /></a></p>
+<h2>Me gusta jugar.</h2>
+<p>Lo confieso. Especialmente a los juegos de acción en primera persona (vicio adquirido con el mítico <a href="http://es.wikipedia.org/wiki/Wolfenstein_3D">Wolfestein 3D</a>) y a los de estrategia por turnos. Por turnos. Los otros son un <em>corre que te pillo</em> para ganar. Esto se lo debo a <a href="http://es.wikipedia.org/wiki/Civilization">Civilization</a>, que conocí en el centro de cálculo de la entonces Facultad de Informática. Desde entonces (y desde antes) siempre me ha encantado jugar. De hecho, tengo un refrán propio: <em>«desconfía del programador que no juegue»</em>.</p>
+<p>En el Mac mis necesidades de juegos han estado bastante bien cubiertas por Steam estos años. Los juegos que me interesan los tengo. Salvo uno: Héroes of Might and Magic, que siguen empeñandose en sacarlo solo para Windows. Lo cual es absurdo, porque digo yo que si un montón de juegos salen ya para Mac es perder mercado y tal, pero bueno. El caso es que me lo compré hace un tiempo y no he podido jugar por no tener a mano una máquina Windows con una tarjeta gráfica de al menos 512 MB. Aquí no valen máquinas virtuales ni otros apaños: necesitas «the real thing».</p>
+<p>En esta tesitura estaba cuando caí en que mi iMac tiene exactamente esa memoria gráfica. Y es un Core i7. Y tiene 12 GB RAM. Vamos, que es un maquinón. ¿Por qué no usarlo para mis necesidades de jugón instalando con BootCamp una partición con Windows? Eso es lo que hice con mi Mac Mini, pero terminé por no usarlo ya que los juegos iban muy, muy lentos debido a la triste potencia gráfica (y de CPU) de mi Mac Mini. Que de servidor y eso aguanta, pero para cosas más exigentes en gráficos el pobre no puede.</p>
+<p>Así que me puse manos a la obra, pensando que con Bootcamp y mi DVD de Windows 8 la cosa estaba controlada. No sabía cuanto me equivocaba.</p>
+<h2>La clave de producto de Windows</h2>
+<p>Antes de hacer nada empecé planificando todos los pasos en mi libreta. Para reunir los materiales necesarios, anticipar problemas y esas cosas. Cuando salió Windows 8 compré una licencia de Windows 8 Pro por sí la necesitaba para desarrollo Windows Phone y por echar un vistazo a la interfaz Metro (o como se tenga que llamar ahora). Por todo eso y por otra cosa: porque estaba barata, 30 Eur.</p>
+<pre><code>Nota al margen: Microsoft, quizás aprendas que es mejor ganar un poco menos con cada licencia, y llevarte el 100% que seguir empeñada en cobrar un Potosí por cada programa...
+</code></pre>
+<p>Pues bien: no encontraba la licencia. No estaba en Evernote, ni en el disco duro del Mac, ni encontraba mensaje alguno de confirmación de la compra. Sólo veía un correo de Paypal de confirmación del pago, pero de «Product Key» nada de nada. Pues vaya. Para una vez que pago una licencia de Microsoft, me hace ilusión utilizarla. Como no la encontraba la solución fue arrancar una máquina virtual donde la había instalado y sacarle una foto con el iPhone a la clave. Luego, mucho más tarde, caí en que la clave estaba en un correo en mi cuenta de hotmail. Sí, esa que todos tenemos y no usamos. Pero eso es otra historia para un segundo post donde hablaré de las activaciones de productos Microsoft. Que tiene mucha guasa, por cierto.</p>
+<h2>Copias de seguridad</h2>
+<p>Armado con mi clave de producto me dispuse a hacer copias de seguridad del iMac. A fin de cuentas, usar Bootcamp supone crear nuevas particiones en el disco, y eso es peligroso, ¿no?. Así que con Techtool 7 he creado una copia arrancable del iMac en un HD externo de 1 TB que tengo para estas cosas. Y claro, además de crearla hay que reiniciar usando ese disco de copia de seguridad como disco de arranque y comprobar que si todo sale mal, al menos puedes dejarlo todo como estaba.</p>
+<p>Todo Ok, tras un siglo de esperas.</p>
+<h2>Fusion drive</h2>
+<p>De pronto, un escalofrío recorre mi espalda. Recuerdo que tengo instalado un SSD en el sitio que antes ocupaba la unidad Superdrive. Y que creé un grupo de volúmenes con Fusion Drive, de manera que OS X gestiona de forma automática que ficheros deben ir en el SSD y cuales en el HD. Así qué me entra la duda: si instalo Windows 8 ¿dónde se instala?. ¿En el SSD? ¿Se carga el Fusion Drive? ¿No se puede instalar por culpa de este?</p>
+<p>Buscando un poco encontré la respuesta en las preguntas frecuentes de Bootcamp. Simplemente se va a instalar en el HD, sin tocar el SSD. Así qué puedo seguir. Phew!</p>
+<h1>Bootcamp no soporta Windows 8</h1>
+<p>Pues eso. Que BootCamp no soporta Windows 8 en mi iMac late 2009 y no me lo ofrece como opción a la hora de instalar. Me deja bajar los drivers (en teoría, más sobre esto ahora) y sólo te deja instalar Windows 7. Según Apple, mi iMac no debe ser lo suficientemente potente para ejecutar Windows 8, o bien ellos no quieren seguir dando soporte a una máquina ya <em>antigua</em>. Voto por esto último.</p>
+<p>El caso es que intenté bajar los drivers y ¡oh sorpresa! BootCamp fallaba al descargarlos. Tuve que usar mi Google-Fu y explorar un poco para encontrar una web desde la que descargarlos a mano. Porque esa es otra: Apple no te da una manera clara y sencilla de acceder a ellos. Una lista en una página de descargas bastaría, pero no.</p>
+<p>Aunque hay unos drivers en Bootcamp > Lbrary > Application Support > Bootcamp > WindowsSupport.dmg que pueden servirte. Lo dejo aquí por si acaso.</p>
+<h1>Instalemos Windows 8</h1>
+<p>Ahora viene lo fácil. Vi un truco para saltarse a BootCamp en modo «sólo instalo Windows 7» que era meter un DVD con Win 7, dejarle hacer las particiones y luego, al reiniciar, cambiarlo por uno de Windows 8. Esa era una opción. La otra, instalar Win 7 y luego actualizarlo a Win 8, pero lleva más tiempo (son dos instalaciones)</p>
+<p>Pero claro, todo esto es usando la unidad Superdrive del iMac. La interna. Sí, <em>esa que ya no tengo desde que le puse un SSD y monté Fusion Drive</em>. Pero no pasa nada, ¿no?. A fin de cuentas, la tengo instalada en una caja externa USB y podré iniciar la máquina con el DVD de Windows y&#8230; <strong>Pues no</strong>. No funciona. Lo intento, pero Windows no arranca desde el DVD (que, por cierto, he tenido que crear tras bajarme una ISO de la web de Microsoft). Grabando DVDs en 2014 <em>like some kind of animal</em></p>
+<p>Buscando en foros me encuentro con que sí quiero instalar Windows en mi iMac, por un lado BootCamp no me genera una llave USB de instalación (el iMac es muy antiguo por lo visto para eso) y que puedo instalar Win 7 (no Win 8) pero usando una unidad superdrive externa oficial de Apple. Que esas sí funcionan.</p>
+<p>Tragedia. Estoy atrapado.</p>
+<p>¿Pido a alguien prestada una unidad Superdrive de Apple <em>pata negra</em>? ¿Reinstalo el Superdrive? ¿Me como Win 8 con patatas?</p>
+<h2>Winclone</h2>
+<p>Como soy un cabezón y sabía que de alguna manera se podría hacer seguí buscando por foros y leí sobre Winclone. Winclone es un programa pensado para hacer copias de seguridad de particiones BootCamp. Puedes almacenar en un fichero tu partición y así te ahorras tener que andar instalando drivers, programas, actualizando, etc si tienes algún problema con Windows. En el Mac, con Time Machine por un lado y una copia arrancable que hagas con SuperDuper, Carbon Copy Cloner o Techtool Pro tienes el lado OS X perfectamente protegido. El problema es si tuviera que reinstalar todo el Windows.</p>
+<p><a href="/wp-content/uploads/2014/06/winclone.png"><img src="/wp-content/uploads/2014/06/winclone.png" alt="Winclone, utilidad para clonar particiones Bootcamp" width="1245" height="768" class="aligncenter size-full wp-image-2195" srcset="/wp-content/uploads/2014/06/winclone.png 1245w, /wp-content/uploads/2014/06/winclone-300x185.png 300w, /wp-content/uploads/2014/06/winclone-1024x631.png 1024w, /wp-content/uploads/2014/06/winclone-920x567.png 920w" sizes="(max-width: 1245px) 100vw, 1245px" /></a></p>
+<p>El caso es que se me ocurrió una idea. Yo ya tenía instalado Windows en mi Mac Mini. ¿Por qué no hacer un Winclone de esa partición, pasarla con un HD externo USB al iMac y machacar la partición BootCamp vacía con esa imagen? Mi lado geek me decía que no, que para que comprar un programa si con un <code>dd</code> podría hacerlo yo solito. El problema es el sector de arranque de Windows que se crea en la partición de BootCamp. Si pudiera iniciar Windows podría arreglarlo y tal, pero dado que estaba atrapado, pagué los 29 $ que cuesta y listo. Si funciona, los apenas 22 € valdrían la pena.</p>
+<p>Y valieron la pena. Creé la imagen en el Mac Mini (unas horitas) y la pasé a un disco USB grande (en el que por supuesto no tenía espacio y tuve que ordenar). Una vez copiado, instalé Winclone en el iMac, restauré la imagen y&#8230; ¡vive! ¡Está vivo!</p>
+<p><a href="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg"><img src="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg" alt="It&#039;s alive!" width="250" height="250" class="aligncenter size-full wp-image-2193" srcset="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg 250w, /wp-content/uploads/2014/06/Young-Frankenstein1-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /></a></p>
+<h2>Colofón</h2>
+<p>Al fin, tras una lucha titánica, tengo instalado Win 8 en el Mac. Lo uso para el Héroes y en el futuro para algún que otro juego. Pero si lo necesito para algo, ahí está. Muchas veces hago instalaciones por el placer de cacharrear con los sistemas, pero en este caso, además, estoy disfrutando del resultado.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/11/windows-8-en-mi-imac-late-2009/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Accediendo a todos los iconos de la barra de menús del Mac</title>
+		<link>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/</link>
+		<comments>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/#comments</comments>
+		<pubDate>Sun, 16 Mar 2014 17:40:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trucos]]></category>
+		<category><![CDATA[utilidades]]></category>
+
+		<guid isPermaLink="false">/?p=2134</guid>
+		<description><![CDATA[Una de las cosas que siempre me ha gustado más del Mac es que la barra de menús no está pegada a la ventana. Siempre en su sitio, sabes dónde tienes que mirar para encontrar una opción. Como en el Amiga OS, por cierto. Estoy tan acostumbrado, que las ventanas de Windows con los menús [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Una de las cosas que siempre me ha gustado más del Mac es que la barra de menús no está <em>pegada</em> a la ventana. Siempre en su sitio, sabes dónde tienes que mirar para encontrar una opción. Como en el Amiga OS, por cierto. Estoy tan acostumbrado, que las ventanas de Windows con los menús <em>pegados</em> ahora se me hacen raras. Cuestión de costumbre supongo.</p>
+<p>Junto con los menús me he habituado a acceder a muchas Apps a través de sus iconos en la barra de menú. Como una especie de <em>accesos rápidos</em>, me resulta sencillo hacer click en alguno de esos iconos para consultar algo, por ejemplo de Dropbox, o BitTorrent Sync, o Evernote. Y tiendo a tener muchos iconos ahí arriba.</p>
+<p>Lo cual no da demasiados problemas. Siempre que esté en el iMac de 27&#8243;, claro. Dado que la barra de menús comparte este espacio con los iconos, si el programa que tengo en primer plano (y cuyos menús se están mostrando) tiene muchos apartados, estos acaban tapando a los iconos. Se ocultan, para dejar paso a las opciones de la App. Lo cual tiene lógica. Y claro, en el iMac esto no me pasa nunca. Pero en el MBP 13&#8243; no retina, con su resolución <strong>anémica</strong> esto sucede constantemente. Y si estoy conectado a un proyector (que suelen venir directamente de 1997, con una fantástica resolución de 1024&#215;768) es para directamente pegarse un tiro.</p>
+<p>En un curso hay veces que comparto la conexión con el iPhone y quiero cerrar Dropbox, para que no sincronice usando la 3G y <em>se coma</em> el plan de datos del móvil. Y es casi imposible llegar al icono de Dropbox: todos lo tapan, pruebo cambiando con Cmd+Tab de programa, hasta encontrar el que tenga menos opciones de menú y así no tape los iconos&#8230; un rollo. Hasta que descubrí <a href="http://www.ortisoft.de/en/accessmenubarapps/">AccessMenuBarApps</a>.</p>
+<div id="attachment_2135" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2014/03/access-menubarapp.png"><img src="/wp-content/uploads/2014/03/access-menubarapp-300x5.png" alt="Access Menu Bar App" width="300" height="5" class="size-medium wp-image-2135" srcset="/wp-content/uploads/2014/03/access-menubarapp-300x5.png 300w, /wp-content/uploads/2014/03/access-menubarapp-1024x18.png 1024w, /wp-content/uploads/2014/03/access-menubarapp-535x9.png 535w, /wp-content/uploads/2014/03/access-menubarapp.png 1280w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Access Menu Bar App</p></div>
+<p><a href="http://www.ortisoft.de/en/accessmenubarapps/">AccessMenuBarApps</a> es una pequeña utilidad que, una vez lanzada, puedes activar con una combinación de teclas (en mi caso con Mayúsculas izquierda + Esc) y que «limpia» de opciones de menú la barra superior. Es un gustazo, cuando estás conectado al proyector, poder llegar así a todos tus iconos, de un teclazo. Se ha convertido en una herramienta básica de mi día a día. Y encima es gratis. Se merece una donación ¿no?.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/03/16/accediendo-a-todos-los-iconos-de-la-barra-de-menus-del-mac/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Especial MacWorld Mountain Lion</title>
+		<link>/2013/02/21/especial-macworld-mountain-lion/</link>
+		<comments>/2013/02/21/especial-macworld-mountain-lion/#comments</comments>
+		<pubDate>Thu, 21 Feb 2013 06:55:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[MacWorld]]></category>
+
+		<guid isPermaLink="false">/?p=1883</guid>
+		<description><![CDATA[No es ninguna novedad y, probablemente ya no quede ninguno en los quioscos. Pero sentía que tenía una deuda conmigo mismo y quería hablar acerca de lo último que escribí para la ahora difunta MacWorld España. Concretamente, este número especial sobre cómo usar OS X Mountain Lion que se publicó en Enero. Mi legendario efecto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/02/MacWorld-practico-mountain-lion.jpg"><img src="/wp-content/uploads/2013/02/MacWorld-practico-mountain-lion.jpg" alt="MacWorld Práctico Especial Mountain Lion" title="MacWorld Práctico Especial Mountain Lion" width="500"  class="aligncenter size-full wp-image-1889" /></a></p>
+<p>No es ninguna novedad y, probablemente ya no quede ninguno en los quioscos. Pero sentía que tenía una deuda conmigo mismo y quería hablar acerca de lo último que escribí para la ahora difunta MacWorld España. Concretamente, este número especial sobre cómo usar OS X Mountain Lion que se publicó en Enero. Mi legendario <strong>efecto gafe</strong>, capaz de acabar con webOS o poner en serio aprieto a Nokia, ha sido capaz de acabar con la revista para la que a veces escribía como colaborador.</p>
+<p>El caso es que estuve dedicado a escribir este <strong>tocho</strong> durante Agosto de 2012, esperando que si me enfocaba y esforzaba lo suficiente finalmente lo acabaría para primeros de Septiembre. A punto de llegar Septiembre vi que no lo tenía listo del todo, pero sí que había reunido un tocho considerable y que no me quedaría tanto: había cumplido con el plan de trabajo. Una vez enviado el borrador, me dieron la mala noticia de que el enfoque no era el esperado: se necesitaba un tutorial paso a paso, y no una review y opinión sobre el nuevo sistema operativo de Apple. <strong>Patinazo en toda regla</strong>.</p>
+<p>Durante Septiembre y Octubre estuve muchas horas, <em>muchas</em>, dedicado a ir avanzando el <strong>libro</strong>. Finalmente lo entregué. <em>Parir</em> cualquier cosa escrita siempre es más duro de lo que uno espera. Pero cuando hablamos de un documento de este tamaño (más de 140 páginas de revista escrita casi sin publicidad, lo que haría un librito de unas 200 páginas o más) cualquier previsión que hago siempre se me cae al suelo. Y debería tener experiencia: en 2011 estuve escribiendo unos manuales para cursos de teleformación, he escritos <a href="http://dialnet.unirioja.es/servlet/busquedadoc?t=Diego%20Freniche&amp;db=1&amp;td=ARTREV">algunos artículos</a> para MacWorld y PCWorld y <a href="/2005/12/08/pcworld-practico-n-6-exprime-linux/">hace mucho se publicó un especial sobre Linux</a> (era mi época <em>Linuxera</em>) que tecleé enterito.</p>
+<p>Con una suerte digna de mejor causa, en Enero me encontré al pasar por un kiosko, en Madrid, con la revista. Iba a impartir una de las jornadas del curso a medida avanzado de iOS que tuve el gusto de dar a la gente de Redsys junto con Mobile Business School. Cuando tuve la revista en las manos, no la reconocía. Claro, yo sólo la había visto en la pantalla de mi iMac dentro de Pages, pero no había visto la versión final. Supe que era la mía por el artículo sobre accesibilidad que Jonathan Chacón tuvo la deferencia de escribirme para que apareciera en el especial (¡gracias, Jonathan!). Y ahora, aquí la tengo.</p>
+<p>Es un recordatorio de varias cosas, y con el <em>ansia de automachaque</em> que define a todo buen informático, para empezar todas las que me recuerda son malas:</p>
+<ul>
+<li>la próxima vez no uses Pages para escribir un libro. Si tienes una licencia de Scrivener, aprende a usarlo. Es la aplicación definitiva para escritores. Ahora me he dado cuenta, tarde, pero mejor que nunca. </li>
+<li>si te encargan escribir sobre algo, pregunta antes de empezar por el enfoque. Define los requisitos, como con un programa. Si al cliente no le gusta lo que has hecho, vas a tener que empezar de nuevo y no va a ser divertido. </li>
+<li>se pesimista con las estimaciones, y después de eso, aplica un factor de corrección de +50% del tiempo que has estimado. Y aún así <em>ni te acercarás</em>. Escribir lleva mucho tiempo, y por mucho que invoque mis capacidades <strong>super heroicas</strong>, luego no se avanza al ritmo que se quiere, sino al que se puede. </li>
+</ul>
+<p>Pero también he aprendido mucho sobre mí mismo y sobre las herramientas que he usado. Vamos, que algunas cosas he hecho bien:</p>
+<ul>
+<li>ya que tenía que escribir sobre OS X Mountain Lion, he aprendido mucho sobre el OS. Ahora hay un montón de cosas más que se hacer. </li>
+<li>he mantenido un ritmo constante de escritura. He sido bastante disciplinado y todos los días escribía un par de horas. Ni yo me lo creo. </li>
+<li>me he agobiado, pero dentro de un límite. Cuando me dieron la mala noticia, en lugar de cabrearme y gritar saqué mi libreta y me hice un mapa mental para <strong>comerme</strong> ese marrón. Y convertí el problema amorfo en una lista de tareas que podía ir resolviendo.</li>
+<li>tengo a mi lado un recordatorio en papel, algo físico, de que soy capaz de escribir un librito si me pongo a ello. No me he dado el tiempo para disfrutar de esto, quizás es ahora la primera vez que estoy reflexionando sobre ello. </li>
+<li>he aprendido a usar algo más de Pixelmator, para editar las imagenes de las capturas. Mola.</li>
+</ul>
+<p>Así que ya está. El libro está en mi mesa. El trabajo terminado. Pero MacWorld ha cerrado, mucha gente ha perdido su trabajo y probablemente nadie lea este número, al que he dedicado tantas horas. Al no estar en edición digital (en Zinio, por ejemplo) poca gente lo va a leer. Y eso me deja un poco triste.</p>
+<p>Ahora tendré que <strong>matar el gusanillo de escribir</strong> de alguna manera. <strong>Probablemente escribiendo un libro para enseñar a desarrollar Apps para iOS</strong>. ¿Alguien interesado? Acepto ideas y sugerencias. Luego haré lo que me de la gana, pero prometo tenerlas en cuenta <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/21/especial-macworld-mountain-lion/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Mi nueva máquina y por qué no me he comprado un rMBP</title>
+		<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/</link>
+		<comments>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 05:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=1826</guid>
+		<description><![CDATA[Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras lo esperaba. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/mbp.jpg"><img src="/wp-content/uploads/2013/01/mbp.jpg" alt="Foto de mi MBP 13 pulgadas abierto, con Safari corriendo" title="Mi MBP 13&quot;" width="800" height="598" class="aligncenter size-full wp-image-1850" srcset="/wp-content/uploads/2013/01/mbp.jpg 800w, /wp-content/uploads/2013/01/mbp-300x224.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a> Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras <a href="/2012/11/20/la-dulce-espera/">lo esperaba</a>. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, «¿todo el día hablando de tecnología y te compras <em>eso</em>?». Pues sí. Os cuento qué máquina me he comprado, las razones que me llevaron a ella y cómo la uso.</p>
+<h1>La máquina</h1>
+<p><a href="/wp-content/uploads/2013/01/aboutthismac.png"><img src="/wp-content/uploads/2013/01/aboutthismac.png" alt="Ventana Acerca de Este Mac abierta, mostrando las características del MBP" title="Las características de mi Mac" width="321" height="393" class="aligncenter size-full wp-image-1845" srcset="/wp-content/uploads/2013/01/aboutthismac.png 321w, /wp-content/uploads/2013/01/aboutthismac-245x300.png 245w" sizes="(max-width: 321px) 100vw, 321px" /></a></p>
+<p>El equipo en sí es un MBP 13&#8243; no retina, de Julio 2012. Por ello, tiene una resolución de pantalla infame (1280&#215;800) pero a cambio tiene otras cosas muy interesantes dentro de su cuerpo unibody de aluminio: USB 3, una CPU que al tener dos núcleos con hiperthreading, se convierten en cuatro núcleos de ejecución, una tarjeta gráfica HD 4000 (no demasiado buena, pero es lo que hay) y un HD de 500 GB bastante lento. Dado que la máquina es capaz de direccionar hasta 16 GB RAM, pensé que en lugar de poner una CPU enorme era mejor equilibrar el rendimiento global del equipo. Así que compré un par de módulos de 8 GB y un SSD de 256 GB. En cuanto me llegó, le monté el SSD y la memoria y el rendimiento global es bastante impresionante. Evidentemente, un rMBP de 15&#8243; tendrá el mismo rendimiento o más. Entonces ¿porqué esta?</p>
+<h1>Mis razones</h1>
+<p>El retina MBP es una máquina impresionante. Es como mirar al futuro y ver cómo serán los ordenadores dentro de cinco años. Pero mi equipo, además de mirarlo, tengo que usarlo. Y mucho. Y lo uso para dos tareas muy concretas: programar en el sofá o llevarlo a los cursos de programación que imparto. Así que casi todo el tiempo es acerca de programar. Una mayor resolución <em>siempre</em> es bienvenida (y ya me he quejado antes de la triste resolución máxima del MBP 13&#8243;, máxime cuando el MBA 13&#8243; tiene 1440&#215;900), pero entre la resolución retina y todo lo que pierdes a cambio, preferí el resto. ¿Y qué pierdes?</p>
+<ul>
+<li>sensor de infrarrojos. No está en el rMBP. Ya no puedo usar mi mando a distancia Apple de aluminio para controlar KeyNote. Que sí, que puedo comprar uno BlueTooth, pero ya que tengo este y es sencillo de manejar&#8230;</li>
+<li>indicador de batería. En el lateral del MBP 13&#8243; hay una línea de LEDs y un botón. Lo pulsas y sin encender el equipo ves si tiene o no batería suficiente. Lo uso mucho.</li>
+<li>puertos. Tengo discos FireWire que me gusta usar. Al igual que me gusta conectarme a la red con un cable Ethernet. Llámame viejo, o bien que 1Gbps siempre es más que 300 Mbps. Como tres veces más rápido y fiable. Ethernet no se «cae». O funciona bien, o se te ha quemado el switch. No hay otras calidades de servicio. Y se que tengo la posibilidad de usar el puerto Thunderbolt, en ambos equipos, pero no me gusta llevar adaptadores colgando, si puedo evitarlo.</li>
+<li>posibilidad de ampliación sin hipotecarme. He podido ponerle un HD SSD y ampliar la memoria a mi MBP 13&#8243;. Al rMBP no se le puede ampliar, porque todo viene soldado.</li>
+<li>mi mujer tiene un venerable MacBook blanquito de 2007. Su cargador es compatible con el mío. Nada de MagSafe2 ni historias: si pierdo el mío o explota, tengo un reemplazo de emergencia cerca.</li>
+<li>pasta. El rMBP cuesta bastante más que el MBP 13&#8243; y en mi opinión, salvo la pantalla y que pesa algo menos, no me aporta demasiado por su coste. Prefiero buscar ese MBP 13&#8243;, ampliarlo y comprar Apple Care. Y ya, para rematar el ahorro, he comprado el equipo Refurbished, con lo que te ahorras unos buenos euros.</li>
+</ul>
+<p>El equipo que pienso es el que más prestaciones te da actualmente a un precio razonable es un MBP 15&#8243; con resolución extra (1.680 por 1.050) y pantalla mate y con 16 GB RAM + SSD. Al tener una gráfica discreta, es la mejor opción. Pero quería renovar mi viejo MBP 15&#8243; del 2008 por lo mínimo posible, y además quería cambiar de factor de forma y pasar a algo más compacto.</p>
+<p>El rMBP 13&#8243; me parece una buena idea, pero esperaría a una segunda o tercera versión. No tiene sentido que lleve la misma gráfica y CPU que el no retina y que por esa resolución extra tengas que pagar 498 Eur.</p>
+<h1>Cómo lo uso</h1>
+<p>Mi MBP es el equipo que uso para los cursos y salidas varias: a Conferencias, Hackathones, reuniones de la NSCoder Night de Sevilla, etc. Es muy compacto y me transmite una sensación de solidez. Arranca en muy pocos segundos (menos de 10) y todo es instantáneo. Con los 16 GB de RAM, nada hace swap y todos los procesos tienen más memoria de la que puedan necesitar. Y el acceso a disco es muy rápido gracias al SSD. El S.O. está instalado en el SSD y los datos en el HD. Todo como la seda.</p>
+<p>Además de para los cursos, cuando puedo levantarme temprano lo uso para escribir código en Xcode / Eclipse. Y probar las Apps. Para eso, es perfecto.</p>
+<p>Pero no todo es perfecto. Alguien pensará qué pasa cuando necesito más resolución, para trabajar cómodamente o usando Pixelmator o similares. Respuesta sencilla: para esos casos tengo mi iMac 27&#8243; con su segundo monitor de 24&#8243;. Creo que con 2560&#215;1440 + 1920&#215;1080 (5.760.000 pixeles) tengo de sobra. Y pensar que mi primer AMSTRAD, en su modo de máxima resolución (MODE 2) alcanzaba 640*200 (128.000 pixeles). Eso sí, en blanco y negro, o en mi caso, en fósforo verde encendido o fósforo verde apagado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Las prisas por Lion</title>
+		<link>/2011/08/06/las-prisas-por-lion/</link>
+		<comments>/2011/08/06/las-prisas-por-lion/#comments</comments>
+		<pubDate>Sat, 06 Aug 2011 10:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Magic Mouse]]></category>
+		<category><![CDATA[Magic Trackpad]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[SO]]></category>
+
+		<guid isPermaLink="false">/?p=1562</guid>
+		<description><![CDATA[Lion, la versión 10.7 de OS X (ya no se llama Mac OS X), ya está aquí. Bueno, lleva ya un tiempo aquí, porque salió a la venta el 20 de Julio, así que ya tiene unas semanas de vida. Unas semanas en la que la gente que usa Macs parece que se han vuelto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1409" style="width: 624px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg"><img class="size-full wp-image-1409 " title="Download Snow Leopard &amp; Lion :-)" src="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg" alt="Download Snow Leopard &amp; Lion :-)" width="614" height="461" srcset="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg 1024w, /wp-content/uploads/2011/02/SnowLeopardLion11-300x225.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">Download Snow Leopard &amp; Lion <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;">Lion, la versión 10.7 de OS X (ya no se llama <em>Mac</em> OS X), ya está aquí. Bueno, lleva ya un tiempo aquí, porque salió a la venta el 20 de Julio, así que ya tiene unas semanas de vida. Unas semanas en la que la gente que usa Macs parece que se han vuelto locos y se han lanzado en no se qué concurso de a ver quién descarga e instala primero el S.O. Se han comentado muchas cosas, se han escrito ya muchas reviews (la mayor parece que es <a href="http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars">esta</a>, aunque seguramente poco a poco iremos aprendiendo cosas nuevas que hace el sistema) y se ha hablado de muchas obviedades. Aunque hay algunos temas que no he visto tratados por ahí, y que a mí me han sorprendido, y que voy a comentar junto con mi actual situación respecto a Lion.</p>
+<h2>La descarga del S.O.</h2>
+<p style="text-align: justify;">Hace ya tiempo que se venía hablando del super centro de proceso de datos que había construido Apple. Pero no se sabía a ciencia cierta para qué era. Ahora está claro: para descargar cosas como Lion, y para dar cobertura a todos los datos que se van a subir con iCloud. Y nadie ha comentado que, dado el tamaño de la descarga y la avidez del personal, el volumen del tráfico iba a ser morrocotudo y lo normal es que hubiera cortes. Pero no, parece que las descargas de Lion en general han ido bien y no he visto quejas.</p>
+<p style="text-align: justify;">Aunque el día 20 me conecté a la Mac App Store y se «atragantó» un poco, mostrándome esta pantalla :-). Tras refrescarla ya todo funcionó sin problemas.</p>
+<div id="attachment_1567" style="width: 305px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-atascado.png"><img class="size-medium wp-image-1567" title="Lion atascado en la Mac App Store" src="/wp-content/uploads/2011/08/Lion-atascado-295x300.png" alt="Lion atascado en la Mac App Store" width="295" height="300" srcset="/wp-content/uploads/2011/08/Lion-atascado-295x300.png 295w, /wp-content/uploads/2011/08/Lion-atascado-1007x1024.png 1007w, /wp-content/uploads/2011/08/Lion-atascado.png 1374w" sizes="(max-width: 295px) 100vw, 295px" /></a><p class="wp-caption-text">Lion atascado en la Mac App Store</p></div>
+<h2>El Magic Mouse es inútil</h2>
+<p style="text-align: justify;">Tímidamente empiezo a leer por ahí que si Apple lo va a abandonar, que si lo va a rediseñar, etc. El Magic Mouse es un producto revolucionario en su concepción: un ratón con una superficie multitouch. Pero la verdad es que a la hora de usarlo no es cómodo. No tan cómodo como un ratón normal. Y ejecutar muchos gestos en su superficie no es fácil. Pero fue un primer paso y en este caso, como muchas veces, los early adopters no nos llevamos el producto mejor acabado. En mi caso, tengo dos Magic Mouse, y los voy a conservar como un «eslabón perdido» que mostrar dentro de 10 años, cuando usemos superficies táctiles proyectadas sobre las mesas, o en el aire, o lo que usemos.</p>
+<p style="text-align: justify;">Curiosamente, para usar Lion lo ideal es un Magic Trackpad. Un producto que, antes de Lion, no tenía mucho sentido. Ahora con Lion los gestos ganan terreno, el Magic Trackpad se convierte en algo básico y empieza a servir de algo. Yo aún no tengo uno, pero probablemente acabe usándolo como comentaba <a href="http://www.terron.org/">Terrón</a>: Magic mouse a la derecha y Magic Trackpad a la izquierda para los gestos.</p>
+<h2 style="text-align: justify;">El coste de Lion</h2>
+<p style="text-align: justify;">Esta es una de las cosas que me encantan de Apple, pese a todas las quejas existentes. Te dan un hard de excelente calidad, con un S.O. que es el que más me gusta. Y encima, cuando lo actualizan, es muy barato. Mucho. Lion cuesta 23,99 € en la Mac App Store. Dado que se puede instalar hasta en 5 máquinas que tengas por casa no te sale cada instalación ni a 5 €. Igualito que en otros sistemas. Ya, ya se que Linux es más <em>barato</em>, pero hablamos de productos comerciales :-).</p>
+<p style="text-align: justify;">En mi caso, Lion me ha costado exactamente 0 €. Aproveché el pasado 6 de Junio el Día Sin Iva de MediaMarkt y me compré un Mac Mini, que uso de Mediacenter (o eso pretendo, que no lo tengo configurado en condiciones, pero bueno&#8230;). El caso es que Apple tiene un <a href="http://www.apple.com/es/macosx/uptodate/">programa de actualización gratuita del S.O. a los clientes recientes</a>. Concretamente, si te has comprado un Mac entre el 6 de Junio (acerté!)  y la fecha de lanzamiento de Lion, te dan un código para que te lo bajes de la Mac App Store. Llamé a Apple Care para enterarme y los machaqué a preguntas. Y ha sido todo cierto. Me mandaron un correo con el código, que canjeé en la Mac App Store y pude ver esta deliciosa pantalla:</p>
+<div id="attachment_1569" style="width: 625px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-gratis.png"><img class="size-full wp-image-1569" title="Lion bajada gratis de la Mac App Store" src="/wp-content/uploads/2011/08/Lion-gratis.png" alt="Lion bajada gratis de la Mac App Store" width="615" height="171" srcset="/wp-content/uploads/2011/08/Lion-gratis.png 615w, /wp-content/uploads/2011/08/Lion-gratis-300x83.png 300w" sizes="(max-width: 615px) 100vw, 615px" /></a><p class="wp-caption-text">Lion bajada gratis de la Mac App Store</p></div>
+<p style="text-align: justify;">Encima esta descarga, como todas de la Mac App Store, me va a permitir actualizar el Mac Mini, el iMac 27&#8243; y mi MacBook Pro por 0 €. La pena es que el Macbook «blanquito» de mi mujer no es «apto» para Lion: es un CoreDuo de los primeros Intel que se usaron. Pero bueno, mi mujer tiene totalmente cubiertas sus necesidades de computación con Snow Leopard, su «blanquito», su iPhone 4 y su iPad 1.</p>
+<h2 style="text-align: justify;">Estado actual de instalaciones</h2>
+<p style="text-align: justify;">Lion 0 &#8211; Snow Leopard 3. Así podría resumirse. No me he actualizado. Ninguna máquina. Ni lo voy a hacer, al menos, hasta que aparezca la primera actualización 10.7.1. Prefiero dejar que la comunidad se dedique al «Beta testing», y no interrumpir mi trabajo parcheando cosas, o viendo si alguna aplicación ha dejado de funcionar, o lo hace de manera extraña. Estoy ahora con varios proyectos simultáneos de desarrollo en iOS, con Java, usando máquinas virtuales Windows y desarrollando para WebOS. Y no me apetece meterme en más problemas de los que ya me dan las herramientas. Así que me bajé Lion, lo he grabado en un DVD (para instalarlo cómodamente, sin tener que bajarlo en las otras máquinas) y todas las mañanas veo al León esperando pacientemente en mi Dock. No te preocupes. ¡Ya te llegará tu hora, Simba!</p>
+<div id="attachment_1573" style="width: 486px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-Dock.png"><img class="size-full wp-image-1573" title="Lion en mi Dock" src="/wp-content/uploads/2011/08/Lion-Dock.png" alt="Lion en mi Dock" width="476" height="62" srcset="/wp-content/uploads/2011/08/Lion-Dock.png 476w, /wp-content/uploads/2011/08/Lion-Dock-300x39.png 300w" sizes="(max-width: 476px) 100vw, 476px" /></a><p class="wp-caption-text">Lion en mi Dock</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/06/las-prisas-por-lion/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Cambiar el nombre de varios ficheros a la vez en Mac OS X</title>
+		<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/</link>
+		<comments>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/#comments</comments>
+		<pubDate>Wed, 18 May 2011 16:13:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Gráficos]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1506</guid>
+		<description><![CDATA[Estoy terminando una App para iPad que me han encargado y me he encontrado con un problema. Tenía 32 imágenes, con nombres 1.png, 2.png, así hasta 32.png y necesitaba crear una versiones reducidas para tener una «vista previa». Vamos, lo que se conoce como un thumbnail. En Mac yo lo hago con vista previa: selecciono [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Estoy terminando una App para iPad que me han encargado y me he encontrado con un problema. Tenía 32 imágenes, con nombres 1.png, 2.png, así hasta 32.png y necesitaba crear una versiones reducidas para tener una «vista previa». Vamos, lo que se conoce como un <a href="http://es.wikipedia.org/wiki/Thumbnail">thumbnail</a>. En Mac yo lo hago con vista previa:</p>
+<ul>
+<li>selecciono todos los ficheros del 1.png al 32.png, pulsando Cmd+A</li>
+<li>los arrastro a una carpeta vacía que acabo de crear, pulsando la tecla Opción de Mac (Alt). Así en lugar de mover los ficheros, se copian</li>
+<li>selecciono todos los ficheros recién creados, pulsando de nuevo Cmd+A</li>
+<li>los abro todos a la vez con Vista Previa (Cmd+Flecha abajo)</li>
+<li>una vez en vista previa, los selecciono todos de nuevo (Cmd+A)</li>
+<li>y les cambio el tamaño con Herramientas -&gt; ajustar tamaño</li>
+<li>una vez listo, los grabamos todos (Archivo -&gt; Guardar todo)</li>
+</ul>
+<p>Ahora tengo, en dos carpetas distintas, 32 ficheros que se llaman 1.png, .. 32.png, como se puede ver aquí:</p>
+<div id="attachment_1509" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/05/thumbs-antes.png"><img class="size-medium wp-image-1509" title="Miniaturas antes de renombrar" src="/wp-content/uploads/2011/05/thumbs-antes-300x223.png" alt="Miniaturas antes de renombrar" width="300" height="223" srcset="/wp-content/uploads/2011/05/thumbs-antes-300x223.png 300w, /wp-content/uploads/2011/05/thumbs-antes.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Miniaturas antes de renombrar</p></div>
+<p style="text-align: justify;">Es decir, tengo los originales y los que he reducido de tamaño. El problema viene cuando ahora quiero cambiar el nombre de los ficheros para que se llamen thumb1.png, &#8230; thumb32.png. Renombrarlos uno a uno es un rollo. Y desde terminal me daba pereza hoy. Así que he buscado una herramienta gráfica y me he encontrado con <a href="http://web.mac.com/mickeyroberson/MRR_Software/NameChanger.html">NameChanger</a>, una pequeña Aplicación que funciona perfectamente para esto.</p>
+<p style="text-align: justify;">
+<div id="attachment_1510" style="width: 720px" class="wp-caption aligncenter"><img class="size-full wp-image-1510" title="NameChanger en funcionamiento" src="/wp-content/uploads/2011/05/NameChanger.png" alt="NameChanger en funcionamiento" width="710" height="538" srcset="/wp-content/uploads/2011/05/NameChanger.png 710w, /wp-content/uploads/2011/05/NameChanger-300x227.png 300w" sizes="(max-width: 710px) 100vw, 710px" /><p class="wp-caption-text">NameChanger en funcionamiento</p></div>
+<p style="text-align: justify;">NameChanger nos permite renombrar, o añadir algo al principio o final de una serie de archivos, o hacer cambios más potentes usando caracteres comodín. Y siempre te muestra antes de hacer nada, cual va a ser el resultado. Como se puede ver, es una de esas herramientas obligatorias de tener a mano.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Una mañana de trabajo cualquiera</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/</link>
+		<comments>/2011/04/05/una-manana-de-trabajo-cualquiera/#comments</comments>
+		<pubDate>Tue, 05 Apr 2011 11:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1453</guid>
+		<description><![CDATA[Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para mi querido Amstrad CPC 464 con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para <a href="http://freniche.com/wp/?page_id=4">mi querido Amstrad CPC 464</a> con el monitor fósforo verde, con su unidad de casetes. El único periférico que tenía era un Joystick. Y a usarlo. Pero veía en las películas a gente en países lejanos y extraños, en salas llenas de ordenadores.</p>
+<p style="text-align: justify;">Como el programador de Parque Jurásico (que, por supuesto, además de ser el malo, cobarde y torpe, estaba mal pagado y era gordo y feo). Por cierto, si veis de nuevo JP os llamarán la atención dos cosas: una, que están programando fumando, algo impensable en cualquier entorno de hoy en día. La otra, que el sistema de «bug tracking» que usan es una libreta donde van anotando los errores <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/RfiQYRn7fBg"" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/RfiQYRn7fBg""></param></object></div>
+</div>
+<p style="text-align: justify;">Volviendo al tema que me traía aquí, en esta mañana he comenzado <a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/">programando en C</a>, en el IDE Eclipse corriendo sobre Windows 7. Ese <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">Windows 7 está instalado en mi MBP</a>. Por si fuera poco frikismo, he usado el escritorio remoto de Windows para programar esos ejemplos en una ventana del iMac de 27&#8243;, que para eso tengo una pantalla grande. Mientras programaba iba actualizando la presentación de Keynote que acompaña al curso, en el iMac. Sonaba la música desde iTunes, donde estaba restaurando mi iPhone 3Gs con una copia de seguridad de ayer: mis niños han borrado algunas fotos en un descuido.</p>
+<p style="text-align: justify;">He terminado con C y me he pasado a WordPress. Arrancando una máquina virtual VMWare de <a href="http://bitnami.org/">Bitnami</a>, que ya tiene un entorno WP completo sobre Linux, me he dedicado a crear un nuevo sitio para migrar una vieja web que hice hace ya la tira en Typo3. Es decir, instala plugins, widgets, temas, escribe posts, importa información, etc.</p>
+<p style="text-align: justify;">Ahora toca pensar en el próximo curso de Java EE que tengo que impartir a finales de mes. Java, Servlets, EJBs, JBoss, Eclipse de nuevo (aunque ahora en su «sabor» Java). Tendré que ojear un libro, que tengo en formato CHM (formato típico de Windows en otra época). Y luego, un poco de Objective C para comenzar un proyecto iPad que me han encargado. Tengo cosas que leer de UML&#8230;</p>
+<p style="text-align: justify;">Es por este desbarajuste de trabajo que tengo, con tantas tecnologías, frameworks, lenguajes, herramientas y entornos distintos por lo que amo a mis dos Macs. Necesito ser anti-minimalista, ya que si lo fuera no podría hacer la mitad de las cosas que hago. Esta es la razón de haber <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">ampliado mi iMac a 12 GB de RAM</a>. Aún así, procuro no instalar nada si ya tengo una aplicación que hace más o menos lo mismo, que si no acabas con un montón de aplicaciones similares que no acabas de dominar en profundidad.</p>
+<p style="text-align: justify;">Bueno, sigo, que quiero ir terminando. Que no hace mucho me comentaron que a lo mejor tengo que aprender <a href="http://clipsrules.sourceforge.net/">CLIPS</a>&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/05/una-manana-de-trabajo-cualquiera/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>«The more memory and HD you&#8217;ll have, the happier you&#8217;ll be»</title>
+		<link>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/</link>
+		<comments>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/#comments</comments>
+		<pubDate>Tue, 15 Mar 2011 11:09:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">/?p=1431</guid>
+		<description><![CDATA[No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le he puesto al iMac 12 GB de RAM. ¿Es mucho?. ¿Es poco?. Vamos con ello.</p>
+<p style="text-align: justify;">Lo  primero, dar la razón fundamental de ponerle tanta memoria al iMac: porque puedo. Sí, así de sencillo. En el 94 ni hubiera soñado con estas cantidades de memoria, ni siquiera para un disco duro. Es como pensar hoy en una RAM de 32 Hexabytes. Así que no podía plantearme si era mucho o poco: simplemente no podía. Pero hoy en día, cuando 8 GB cuestan 120 Eur. IVA inc., si necesitas esa memoria, o te apetece, tampoco es una inversión que te lleve a la bancarrota.</p>
+<p style="text-align: justify;">Además, cuando es aquí donde me gasto mi dinero. Quiero decir, que no tengo moto, no me gustan los coches potentes, ni la ropa de diseñador, ni juego al bingo, ni me gusta la coca, ni jugar al póker. Mis vicios son baratos ¡qué le vamos a hacer!. Nada me gusta más que un buen gadget electrónico. Hay quien le da por coleccionar sellos, o montar maquetas. O tener un yate. Yo tengo chismes.</p>
+<p style="text-align: justify;">Así que nada mejor para complementar a mi querido iMac Core i7 que estos 8 GB, que se han sumado a los 4 GB que traía de fábrica. Ahora tengo una máquina redonda, muy equilibrada, potente y estable. Y de la pantalla, para qué hablar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En un día normal de trabajo, si miro el consumo de memoria me puedo encontrar con algo como esto:</p>
+<div id="attachment_1432" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-usada-normal.png"><img class="size-full wp-image-1432 " title="Memoria usada" src="/wp-content/uploads/2011/03/memoria-usada-normal.png" alt="Memoria usada" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-usada-normal.png 860w, /wp-content/uploads/2011/03/memoria-usada-normal-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Memoria usada</p></div>
+<p style="text-align: justify;">Este es el consumo que tengo mientras escribo estas líneas. Se puede ver que, usado (ya sea por programas, por el S.O. o que está «cacheando» algo en memoria) tengo 4,59 GB. Algo más que los 4 GB originales. Hace unos meses, el equipo estaría paginando, es decir, tendría que sacar algún programa de memoria y guardarlo en disco (normalmente el que hace más tiempo que no se usa). El dato de Paginación (salidas) sería mayor que 0, y todo el sistema me iría más lento. Estaría tratando de ejecutar, a la vez, más programas de los cabrían en mi memoria RAM.</p>
+<p style="text-align: justify;">Como se puede ver, el problema ahora no es ese. Me sobran 7,40 GB. ¿Excesivo?. Para nada. En cuanto tenga que correr alguna máquina virtual con VMWare, o lanzar XCode 4 (con todo lo que ello implica), o jugar a Left 4 Dead 2 sin parar algo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> la memoria disminuye y se queda en algo como esto:</p>
+<div id="attachment_1433" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-tope.png"><img class="size-full wp-image-1433 " title="Usando memoria" src="/wp-content/uploads/2011/03/memoria-tope.png" alt="Usando memoria" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-tope.png 860w, /wp-content/uploads/2011/03/memoria-tope-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Usando memoria</p></div>
+<p>Uso el ordenador muchas horas al día. Por trabajo, y por placer. Y no hay cosa que me irrite más que quedarme sin espacio en disco, o ver que la máquina no va todo lo «fina» que debiera, por una tontería como es la RAM. Así que, como dice el título, un poco de RAM me hace mucho más feliz. ¡Comprueba la tuya!</p>
+<p>P.D.: Si quieres saber cómo interpretar el uso de memoria que está haciendo tu Mac, <a href="http://macperformanceguide.com/Mac-Monitoring-memory.html">te recomiendo este excelente post de MPG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Mi Time Capsule ha muerto. ¡Larga vida a mi Time Capsule!</title>
+		<link>/2011/03/01/mi-time-capsule-ha-muerto-larga-vida-a-mi-time-capsule/</link>
+		<pubDate>Tue, 01 Mar 2011 08:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1418</guid>
+		<description><![CDATA[Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_1421" style="width: 555px" class="wp-caption aligncenter"><a href="http://timecapsuledead.org/"><img class="size-full wp-image-1421" title="TC Memorial. Click para ir al sitio" src="/wp-content/uploads/2011/03/TCMemorial.png" alt="TC Memorial. Click para ir al sitio" width="545" height="229" srcset="/wp-content/uploads/2011/03/TCMemorial.png 545w, /wp-content/uploads/2011/03/TCMemorial-300x126.png 300w" sizes="(max-width: 545px) 100vw, 545px" /></a><p class="wp-caption-text">TC Memorial. Click para ir al sitio</p></div>
+<p style="text-align: justify;">Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no tuve más remedio que subir al estudio a reiniciar el router Linksys, al que le echaba la culpa. Pero al ir a cogerlo, vi algo terrorífico, que me sobrecogió el alma: la luz de la TC estaba apagada.</p>
+<p style="text-align: justify;">Para los que no sepan lo que es, la Time Capsule es un todo-en-uno de Apple que incluye en el mismo aparato un router, un switch con tres entradas de red Ethernet de 1Gb, un punto de acceso inalámbrico (lo que Apple llama un Airport Extreme) 802.11n + g + b y un disco duro en red para copias de seguridad u otros contenidos. También es servidor de impresión (se le pueden conectar impresoras a través del puerto USB que incorpora). Puntos negativos: no es servidor DNS, lo cual es un rollo y en mi opinión es una característica básica que le falta. Y se calienta bastante.</p>
+<p style="text-align: justify;">El caso es que, dados los antecedentes que ya conocía de <a href="http://twitter.com/juaconet/status/42302419794804737">@juaconet</a>, que ha pasado ya por tres time capsules, cuando me planteé mi <a href="/2010/10/03/mi-plan-de-backups/">estrategia de backups</a> decidí poner en la Time Capsule únicamente las copias de seguridad de Time Machine. De esta forma, si fallaba el ordenador, tenía la copia en la Time Capsule, y si era al revés (como al final ha sucedido) podría comprar otra TC y volver a hacer una copia de Time Machine de los portátiles. Porque, una vez que el aparato se apaga, ya no hay forma de acceder a los datos: hay que desmontarlo para llegar al disco duro. Fallo.</p>
+<p style="text-align: justify;">Estaba frente a la TC apagada y probé lo típico: a volver a enchufarla, probar con un enchufe distinto, ver si era el cable, etc. Pero nada. No hacía ningún ruido y no se encendía. Así que llamé a Apple Care. Cuando me salió la persona de Apple (el Apple Advisor) le conté mi problema, haciendo especial hincapié en que era una TC de las primeras que salieron. Me solicitó el número de serie. Cuando confirmó que efectivamente era de las primeras, me indicó que estaba cubierta por un <a href="http://support.apple.com/kb/TS3351">programa de reemplazo de Apple</a> y que me mandaban a casa una nueva ¡gratis!.</p>
+<p style="text-align: justify;">Apple sabe que las primeras TC estaban mal diseñadas. Han caído tantas que, como me indicaba @juaconet en este tweet, hay hasta un <a href="http://timecapsuledead.org/">memorial de TCs muertas</a>. Pero al menos han puesto en marcha el programa de reemplazo de forma que, en un par de días, tienes una TC nueva en casa. Eso sí, los datos los has perdido. Por eso el tener sólo las copias de Time Machine. Espero ahora que mi portátil no decida morir igualmente.</p>
+<p style="text-align: justify;">Estas son las cosas que te gustan de la compañía: el trato a los clientes. Sí, la inversión inicial puede ser superior, pero ¿es más caro? Después de tres años usándola, falla y ahora tengo una nueva con el doble de disco duro. Para mí no es mala inversión, no.</p>
+<p style="text-align: justify;">Espero que mañana me la entreguen. Y luego habrá que configurarla, y volver a lanzar Time Machine, y, y&#8230; D&#8217;oh!</p>
+<p style="text-align: justify;"><strong>Actualización 15/03/2011</strong>: hace ya unos días que tengo instalada y en uso la TC. Pero la que me mandaron finalmente era igual a la que tenía, de 500 GB. Bueno, al menos, aunque ya no estaba cubierta por la garantía, han dado la cara. Pero hubiera estado mejor lo del TB <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Problemas con el disco duro de mi iMac</title>
+		<link>/2010/12/29/problemas-con-el-disco-duro-de-mi-imac/</link>
+		<pubDate>Wed, 29 Dec 2010 09:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Browns]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[iCharlas]]></category>
+		<category><![CDATA[iMac]]></category>
+
+		<guid isPermaLink="false">/?p=1321</guid>
+		<description><![CDATA[Hace unos días estuve escuchando episodios atrasados de iCharlas hasta que me puse al día. En uno de ellos, hablaban del mantenimiento que necesita un Mac y comentaban el programa Onyx, que utilicé mucho al principio de mi etapa de switcher, pero que había relegado un poco al olvido. Pensando que no era mala idea [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace unos días estuve escuchando episodios atrasados de <a href="http://www.icharlas.es/">iCharlas</a> hasta que me puse al día. En uno de ellos, hablaban del mantenimiento que necesita un Mac y comentaban el programa <a href="http://www.titanium.free.fr/">Onyx</a>, que utilicé mucho al principio de mi etapa de switcher, pero que había relegado un poco al olvido.</p>
+<p style="text-align: justify;">Pensando que no era mala idea el pasarle Onyx al HD del iMac, para ver su estado, comprobar el sistema de ficheros y con la esperanza de que el sistema se aligerase algo (mi iMac es una maravilla de ordenador, pero uno siempre quiere más :-)) me lancé y el resultado no fue muy bueno. Onyx me indicaba que arrancase con un disco externo y reparase el disco. Acostumbrado como estoy con Linux a que no es buena idea hacer un fsck (filesystem check) a un sistema de ficheros montado (AKA volumen en Mac OS X), me traje de casa de mi suegra el HD externo donde guardo un clon del iMac (<a href="/2010/10/03/mi-plan-de-backups/">si quieres saber cómo tengo organizadas mis copias de seguridad, puedes leerte este post</a>)</p>
+<p style="text-align: justify;">Conecté el disco con su cable FW800, directamente al iMac, encendí la máquina pulsando la tecla Opción (Alt) y me aparecieron los dos discos desde los que podía arrancar: el interno del iMac y el externo. Me moví al externo y pulsé Intro. ¡Catacrok!. Un <strong>kernel panic</strong> como un castillo, la versión UNIXera de las BSOD de Windows. El iMac no arrancaba desde el HD externo. ¿Cómo puede ser ésto? Si cada vez que hago la copia de seguridad completa compruebo el arranque. Pero parece que la versión de S.O. que tienes instalada importa, aunque no tiene mucho sentido para mi. El caso es que desde la última copia de seguridad había actualizado el iMac a la 10.6.5 y la que tenía en el HD externo era la 10.6.4. Sigo pensando que no tiene sentido, y que puedo tener diferentes copias con versiones distintas del S.O.; probablemente la última copia externa no la comprobé como es debido.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<div id="attachment_1329" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg"><img class="size-full wp-image-1329" title="Kernel Panic en OSX. Shit happens!" src="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg" alt="Kernel Panic en OSX. Shit happens!" width="800" height="532" srcset="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg 800w, /wp-content/uploads/2010/12/kernel_panic_macosx-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Kernel Panic en OSX. Shit happens!</p></div>
+<p style="text-align: justify;">No pudiendo arrancar desde el disco externo que tengo para arrancar en casos de emergencia (bravo por Murphy) pensé en hacerlo desde el DVD de Snow Leopard, arreglar el disco duro interno del iMac, reclonar el HD externo y listo. Así que cogí el DVD, lo puse en el lector, apagué, encendí con Opción pulsada y seleccioné el DVD. No arranca. ¡Pero qué pasa!. ¡Ah, claro!, es el DVD de Snow Leopard retail. Y este no arranca en el iMac. Necesito el que venía con el iMac, que está, está&#8230; ¡no me acuerdo!</p>
+<p style="text-align: justify;">A estas alturas empezaba ya a murmurar maldiciones y a estar bastante cabreado, conmigo mismo, con mis procedimientos, mi sistema de archivo, etc. Pero se me hizo la luz mental al recordar que los Macs pueden arrancar en modo <a href="http://en.wikipedia.org/wiki/Target_Disk_Mode">target firewire disk</a>. Puedes conectar un Mac a otro mediante un cable Firewire y hacer que el disco duro de uno se vea como un disco externo en otro. En mi caso, arranqué el iMac en modo Target Firewire disk y magia!, apareció en el escritorio de mi MBP</p>
+<div id="attachment_1324" style="width: 889px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/reparando-hd-imac.png"><img class="size-full wp-image-1324" title="El HD de mi iMac, ya reparado, en la Utilidad de Discos de mi MBP" src="/wp-content/uploads/2010/12/reparando-hd-imac.png" alt="El HD de mi iMac, ya reparado, en la Utilidad de Discos de mi MBP" width="879" height="721" srcset="/wp-content/uploads/2010/12/reparando-hd-imac.png 879w, /wp-content/uploads/2010/12/reparando-hd-imac-300x246.png 300w" sizes="(max-width: 879px) 100vw, 879px" /></a><p class="wp-caption-text">El HD de mi iMac, con errores, en la Utilidad de Discos de mi MBP</p></div>
+<p>Bueno, ahora era coser y cantar. Le di a reparar disco y a esperar. Al final, todo parece correcto. Volví a verificar el disco y ¡estupendo!. Ya tenemos arreglado el disco del iMac.</p>
+<p>Ya sólo me quedaba desmontar el disco del iMac del MBP, apagar el iMac, quitar el cable FW800, reiniciar el iMac, comprobar que todo estaba OK, conectar el HD externo Western Digital y actualizar la copia de seguridad de todo el iMac&#8230; vamos, lo que se dice una tarde entretenida&#8230;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>NSCoder Nights Sevilla</title>
+		<link>/2010/11/12/nscoder-nights-sevilla/</link>
+		<comments>/2010/11/12/nscoder-nights-sevilla/#comments</comments>
+		<pubDate>Fri, 12 Nov 2010 09:58:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1239</guid>
+		<description><![CDATA[Me ha tocado organizar el capítulo de Sevilla de las NSCoder Nights, y en ello estamos. El próximo Lunes 15, a las 19:00 estaremos en la ETSII Facultad de Matemáticas de Reina Mercedes. El aula aún está por confirmar, pero si después de leer esto te interesa venir, toda la información se va a ir publicando de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me ha tocado organizar el capítulo de Sevilla de las NSCoder Nights, y en ello estamos. El próximo Lunes 15, a las 19:00 estaremos en la ETSII Facultad de Matemáticas de Reina Mercedes. El aula aún está por confirmar, pero si después de leer esto te interesa venir, toda la información se va a ir publicando de dos formas:</p>
+<ul>
+<li>en la <a href="http://nscoder-sev.tumblr.com/">web de NSCoder Nights Sevilla</a></li>
+<li>en la <a href="http://twitter.com/nscoder_sev">cuenta de Twitter NSCoder_sev</a></li>
+</ul>
+<blockquote><p>&#8211; Bueno, ¡ya está bien con los anuncios!. ¿Pero qué es esto de los NSCoder Nights? ¿Algo porno? ¿Y porqué el nombre en Inglés, pedantes, que sois unos pedantes?</p></blockquote>
+<p>Las dudas se resuelven en las FAQ, que puedes consultar aquí. Por responder rápido a tus tres preguntas:</p>
+<ul>
+<li>es una reunión periódica de programadores para tomar café / cerveza / whatever y hablar de nuestras cosas</li>
+<li>no, no es nada porno, ni ilegal. Pero si alguien se trae un disco duro lleno de pelis, seguro que le encontramos utilidad</li>
+<li>somos unos pedantes, pero es que estas reuniones <a href="http://nscodernight.com/">las inventaron en EE.UU.</a> y queremos montar algo similar en España (ya ha empezado en <a href="http://nscoder-vlc.tumblr.com/">Valencia</a>, pronto en <a href="http://nscoder-mlg.tumblr.com/">Málaga</a>, <a href="http://twitter.com/nscoder_bcn">Barcelona</a>, <a href="http://twitter.com/#!/nscoder_gjn">Gijón</a> y <a href="http://nscoder-mad.tumblr.com/">Madrid</a>) de forma que si viajas a una ciudad con NSCoder Night y te apetece, te pases. <em>Sí, es una secta</em>.</li>
+</ul>
+<p>Pero ahora, de mi cosecha, te explico de qué va esto.</p>
+<p style="text-align: justify;">La informática es una profesión vocacional. Cierto, hay gente que no ha estudiado esto y programa (o lo intenta), o que trabaja en el sector sin ser Informático. Pero es algo vocacional. De otra manera nadie aguantaría unos estudios en los que no hay nadie del otro sexo, sólo tíos raros y feos y frikis (¡horror, que yo soy otro de esos!). Y encima, cada 10 años ¡vuelta a empezar!. ¿O alguien usa el S.O. de hace 10 años? ¿Windows 98, alguien se acuerda? Con XP (que salió en 2001) parecía que se iba a romper esta tendencia de cambiarlo todo cada 10 años, al personal empieza a gustarle lo <em>vintage</em>. ¡Cambiad ya a Windows 7 por lo menos y tened un S.O. moderno!</p>
+<p style="text-align: justify;">En fin, que me pierdo. Una vocación, decía. Un ritmo de aprendizaje muy alto. Y algo en lo que no trabajas, es algo que vives. Porque luego llegas a casa y te pones con los chismes. A hacer lo que sea, pero con <em>tus</em> ordenadores de casa. ¡Después de haber estado 10 h en el trabajo delante de una pantalla!. No tenemos arreglo. Yo digo que  hay dos tipos de informáticos: los que van 8 horas al días a su trabajo y luego quieren tener «su vida social» y los que no podemos evitarlo y seguimos en casa <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Pues bien, si tienes pasión por esto, si de verdad te gusta ¿has notado lo que te frustra no poderle contar tus frikadas a nadie? Vale, que le cuento a mi mujer que la arquitectura MVC y la delegación en Cocoa son la leche, y que el KVC es brutal. Pero como que me mira como si le hablase en Chino, y me sonríe por apoyarme, pero no porque le interese. Esa es la razón de que tantos informáticos tengamos blogs: tenemos una necesidad reprimida de enseñar nuestros juguetes y nadie nos entiende. Echamos de menos esas charlas de café, en la facultad, cuando alguna eminencia de compañero te enseñaba cómo programar en Pascal orientado a objetos (era el 92-93, ¿verdad <a href="http://www.arquired.es/users/aldelgado/proy/default.htm">Antonio</a>?), u otro friki extremo te hablaba de su Commodore 64 y te enseñaba a taladrar placas y a quemar circuitos para hacernos conversores analógico-digitales caseros con los que escuchar MODs a través de un radio-cassette (era el 93-94, una Sound Blaster costaba 30.000 pelas de la época, ¿verdad <a href="http://www.terron.org/">Migue</a>?)</p>
+<p style="text-align: justify;">Bueno, voy a dejar las <em>loving memories</em> que me pongo tontorrón y se me salta una lágrima. El caso es que los informáticos precisamos de una terapia de grupo, donde poder curarnos de todo eso que queremos contar y no podemos. Queremos ver que alguien se «pone <em>bruto</em>» cuando le enseñamos nuestro código, o sentir envidia sana cuando llega otro que sabe 10 lenguajes más que tú. Y ver los portátiles, qué herramientas llevas instaladas, qué trucos sabes, etc.</p>
+<p style="text-align: justify;">Pues nada, que si sabes mucho Cocoa o no sabes nada. Si quieres empezar a programar tus apps para iOS o si eres diseñador gráfico y quieres ver qué se necesita para hacer tus trabajos para el iPhone. O si buscas contratar a un programador iOS. O si te apetece hablar de programación en general, te esperamos el Lunes. Tengo confirmada al menos a otra persona, así que ya tengo charla garantizada. ¡Nos vemos!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/12/nscoder-nights-sevilla/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>Ojo con tus copias de seguridad de Time Machine</title>
+		<link>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/</link>
+		<comments>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/#comments</comments>
+		<pubDate>Thu, 28 Oct 2010 16:23:56 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1160</guid>
+		<description><![CDATA[Hace no mucho comentaba mi Plan de Backups y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden presentar. Lógicamente, Murphy se ha dado una vuelta por estos lares para darme una cura de humildad, y de paso poder escribir así este post. La historia empieza cuando recuerdo un correo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1185" style="width: 510px" class="wp-caption aligncenter"><img class="size-full wp-image-1185" title="FalloTimeMachine" src="/wp-content/uploads/2010/10/FalloTimeMachine.png" alt="Fallo al intentar reparar el disco de Time Machine" width="500" height="272" srcset="/wp-content/uploads/2010/10/FalloTimeMachine.png 500w, /wp-content/uploads/2010/10/FalloTimeMachine-300x163.png 300w" sizes="(max-width: 500px) 100vw, 500px" /><p class="wp-caption-text">Fallo al intentar reparar el disco de Time Machine</p></div>
+<p style="text-align: justify;">Hace no mucho comentaba <a href="/2010/10/03/mi-plan-de-backups/">mi Plan de Backups</a> y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden presentar. Lógicamente, Murphy se ha dado una vuelta por estos lares para darme una cura de humildad, y de paso poder escribir así este post.</p>
+<p style="text-align: justify;">La historia empieza cuando recuerdo un correo que me hace falta y no soy capaz de localizarlo en Mail.app. Venga a buscar y nada. Pero claro, <a href="/2010/09/17/shopping-spree/">el iMac es nuevo</a> y el <a href="/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/">MBP se ha reinstalado</a>. Así que me doy cuenta de que, al configurar de nuevo las cuentas de correo (que son IMAP) se han bajado las carpetas que están en el servidor, pero lógicamente no tengo las carpetas locales. Y el correo que busco está en una carpeta local.</p>
+<p style="text-align: justify;">«No pasa nada», pienso. «Ahora monto mi copia de seguridad de Time Machine, me voy donde Mail.app guarda las carpetas locales, las restauro en el iMac y listo».  Bien, el plan es bueno, salvo cuando le das doble click al archivo .sparsebundle que guarda la copia de seguridad y tras un rato, ves que no se monta. No sale una ventana que indique el error, nada. «No le habré dado bien». Le vuelvo a dar. Nada.</p>
+<p>Un poco mosqueado, abro la utilidad de discos y busco el volúmen en cuestión.</p>
+<div id="attachment_1190" style="width: 713px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/utilidad_de_discos.png"><img class="size-full wp-image-1190 " title="utilidad_de_discos" src="/wp-content/uploads/2010/10/utilidad_de_discos.png" alt="Utilidad de discos abierta mostrando mi copia de seguridad" width="703" height="577" srcset="/wp-content/uploads/2010/10/utilidad_de_discos.png 879w, /wp-content/uploads/2010/10/utilidad_de_discos-300x246.png 300w" sizes="(max-width: 703px) 100vw, 703px" /></a><p class="wp-caption-text">Utilidad de discos abierta mostrando mi copia de seguridad</p></div>
+<p>Lo intento montar y me salen las siguientes ventanas:</p>
+<div id="attachment_1191" style="width: 473px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/intento_montar.png"><img class="size-full wp-image-1191" title="intento_montar" src="/wp-content/uploads/2010/10/intento_montar.png" alt="Intentando montar la copia de seguridad. ¡Arráncalo, Carlos por Dios!" width="463" height="228" srcset="/wp-content/uploads/2010/10/intento_montar.png 463w, /wp-content/uploads/2010/10/intento_montar-300x147.png 300w" sizes="(max-width: 463px) 100vw, 463px" /></a><p class="wp-caption-text">Intentando montar la copia de seguridad. ¡Arráncalo, Carlos por Dios!</p></div>
+<p>y finalmente:</p>
+<div id="attachment_1192" style="width: 473px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/fallo_montar.png"><img class="size-full wp-image-1192" title="fallo_montar" src="/wp-content/uploads/2010/10/fallo_montar.png" alt="No hay suerte. Murphy me odia." width="463" height="228" srcset="/wp-content/uploads/2010/10/fallo_montar.png 463w, /wp-content/uploads/2010/10/fallo_montar-300x147.png 300w" sizes="(max-width: 463px) 100vw, 463px" /></a><p class="wp-caption-text">No hay suerte. Murphy me odia.</p></div>
+<p style="text-align: justify;">Un sudor frío me corre por la espalda. Un escalofrío me pone la carne de gallina. Escucho voces en las sombras. <em>Murphy me odia, es oficial</em>. Cabreado, pero no resignado, pulso el botón de «Verificar disco». Me da tropecientos errores. Pulso reparar disco. Repara algunos, pero me indica que hay otros con los que no puede. Vuelvo a intentar montar. Nada. Reparo. Monto. Nada. Reparo. Monto. Nad. Así varias veces. Hasta que, finalmente, aunque me indica que hay errores, veo que está montado en /Volumes/Time Machine Backups.</p>
+<p>Abro una terminal y me abalanzo sobre el directorio. Desde allí, y gracias al todopoderoso cp -r, copio las carpetas que buscaba al escritorio. ¡Buff!. Me he librado de ésta.</p>
+<p>Conclusiones:</p>
+<ol>
+<li>aunque tengas un buen sistema de copias de seguridad (por ej. usar Time Machine en una cabina con varios discos en RAID, como un Drobo) Murphy puede pasar a visitarte.</li>
+<li>no basta con hacer copias de seguridad. <strong>Hay que comprobarlas</strong>. Si te haces un disco de arranque con Carbon Copy Cloner, prueba a arrancar desde él, para que el día que te haga falta estés seguro de que va a funcionar.</li>
+<li>Si usas Time Machine, monta de vez en cuando el volumen de copias de seguridad (el fichero .sparsebundle) y comprueba que no hay errores. Si lo pillas a tiempo probablemente el desastre será menor.</li>
+<li>hay que ser como el que iba en un barco y no se fiaba de la mitad de la tripulación: eran un padre y un hijo.</li>
+</ol>
+<p>Esta vez he recuperado los datos. Pero ¿y la próxima?. ¿Experiencias personales? ¡Déjalas en los <strong>comentarios</strong>!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>El mapa de mi red, actualización Octubre 2010</title>
+		<link>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/</link>
+		<comments>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/#comments</comments>
+		<pubDate>Sun, 10 Oct 2010 16:16:38 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[A1200]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1138</guid>
+		<description><![CDATA[El mapa de mi red ha cambiado bastante desde la v1.0, así que me he decidido y lo he actualizado. Comentaba entonces que había demasiados cacharros y me encuentro en fase de actualización de equipo y, sobre todo, de simplificación. Estoy vendiendo, tirando, regalando o almacenando todo aquello que no me puedo justificar usar de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1139" style="width: 624px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png"><img class="size-full wp-image-1139 " title="Esquema de red - oct 2010" src="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png" alt="Esquema de red - oct 2010" width="614" height="461" srcset="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png 1024w, /wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001-300x225.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">Esquema de red - oct 2010</p></div>
+<p style="text-align: justify;">El mapa de mi red ha cambiado bastante desde la <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">v1.0</a>, así que me he decidido y lo he actualizado. Comentaba entonces que había demasiados cacharros y me encuentro en fase de actualización de equipo y, sobre todo, de simplificación. Estoy vendiendo, tirando, regalando o almacenando todo aquello que no me puedo justificar usar de forma casi diaria. El problema es que tengo tantos chismes que voy poco a poco, pero con paso firme.</p>
+<p>En esta versión he eliminado la red WiFi legacy ya que ahora no la tengo correctamente configurada. Lo que está operativo es lo que se ve. Bueno, faltan el Pentium IV, que probablemente venderé en cuanto pueda y el MacBook de mi mujer (que cumplirá pronto 4 años y cualquiera toca). Los equipos que quedan son:</p>
+<ul>
+<li>Newton. <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">Mi viejo portátil Dell</a>, lo he dejado para jugar a juegos Windows. En exclusiva. Tiene Steam instalado y ahí me dedico a machacar imperios en Civilization IV. Ahora que ha salido el Civ V, no creo que la máquina pueda con él, pero&#8230; Y además ha viajado mucho conmigo.</li>
+<li>Bohr. <a href="/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/">Mi Netbook con Ubuntu Netbook Remix</a>. Cuando se vaya el PIV va a ser la última máquina en la que estará instalado Linux en mi casa. Linux, peligro, peligro :-). He pasado de trabajar 100% Linux a casi 100% Mac, pero siempre 100% UNIX (salvo para los juegos, qué remedio, aunque ahora con Steam la cosa cambia mucho). Lo uso como media center portátil y para alguna salida en la que no quiero llevar mucho peso. Supongo que cuando me compre un iPad (estoy esperando a la nueva versión) dejará de tener hueco.</li>
+<li><a href="/2008/03/23/cambiando-a-mac/">Tesla</a>. Mi portátil, con el que sigo enamorado y más aún después de cambiarle el disco duro. Con sus 4 GB de RAM me da la potencia necesaria para impartir mis cursos de Java y Cocoa Touch. Y me permite programar mientras estoy cerca de los niños o en el sofá.</li>
+<li>Mi A1200. Se conecta a mi TV LCD Samsung, cuando me apetece escuchar MIDIs, o jugar un rato, o hacer lo que sea con el Amiga. Ahora lo tengo guardado y lo saco cuando lo necesito, no está ya permanentemente encima de la mesa. Pero obviamente se queda.</li>
+<li>Einstein. El mayor cambio desde el último mapa. Einstein se ha reencarnado en un iMac de 27&#8243;, Core i7 quad 2.8 Ghz con 4 GB RAM que puede con todo. Tiene conectado mi <a href="/?s=drobo">Drobo Firewire</a> y son un «killer duo». En un futuro le ampliaré la memoria, probablemente con dos módulos de 4 GB para llegar a los 12 GB (soporta hasta 16 GB). La memoria la quiero para máquinas virtuales, sobre todo ahora que estoy haciendo pruebas corriendo Windows 7 virtualizado para jugar al Civ V <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Mi Time Capsule. Ahora ha quedado para las copias de seguridad de los portátiles, y como router. No le amplío el disco duro porque, mientras tenga sitio en el Drobo, me va a dar pereza.</li>
+<li>Dispositivos iOS variados. Mi iPhone 3Gs de batalla, el iPod Touch de los niños y los 3G antiguos. Mi mujer ya tiene un iPhone 4 :-). Los uso para probar aplicaciones y como segundos teléfonos. Probablemente son los que más tráfico generan en la red WiFi.</li>
+</ul>
+<p>Esto es lo que tengo de momento. Dentro de unos meses actualizaremos y a ver qué tengo entonces.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

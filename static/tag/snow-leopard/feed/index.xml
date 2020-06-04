@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Snow Leopard &#8211; freniche.com</title>
+	<atom:link href="/tag/snow-leopard/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Conseguir que Mac OS X suene «a-la-Windows» al insertar un dispositivo USB</title>
+		<link>/2010/01/25/conseguir-que-mac-os-x-suene-a-la-windows-al-insertar-un-dispositivo-usb/</link>
+		<pubDate>Mon, 25 Jan 2010 11:53:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[GUM Sevilla]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=575</guid>
+		<description><![CDATA[Escribo este post por una pregunta que me ha llegado a la lista de correo del GUM Sevilla. Concretamente la pregunta era: Tengo una consulta sobre Growl y eventos de sonido. Quisiera que, cuando pincho un dispositivo USB, al igual que sucede en Windows, suene un sonidito en mi MacOs Snow leopard.¿Es esto posible? Growl [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Escribo este post por una pregunta que me ha llegado a la lista de correo del <a href="http://gum-sevilla.blogspot.com/">GUM Sevilla</a>. Concretamente la pregunta era:</p>
+<blockquote><p>Tengo una consulta sobre Growl y eventos de sonido. Quisiera que, cuando pincho un dispositivo USB, al igual que sucede en Windows, suene un sonidito en mi MacOs Snow leopard.<br style="line-height: 1.22em;" />¿Es esto posible?</p></blockquote>
+<p style="text-align: justify;"><a href="http://growl.info/">Growl</a> es un sistema de notificaciones en pantalla que se controla mediante un panel de preferencias. Si vamos a las Preferencias del Sistema veremos a Growl en la parte final «Complementos». Un click y lo abrimos. Se nos mostrará la pestaña <em>General</em>. Vamos a la pestaña <em>Applications.</em> Ahí disponemos de una lista de aplicaciones que tenemos instaladas y que soportan el sistema de notificaciones de Growl. Es decir, estas aplicaciones, cuando tienen algo que contarnos, le mandan ese mensaje a Growl y el se encarga de ponerlo en pantalla, tocar un sonido, etc.</p>
+<p style="text-align: justify;">En el caso que nos ocupa, como es un tema hardware (conectar un dispositivo USB), buscaremos la aplicación <a href="http://growl.info/extras.php#HardwareGrowler">Hardware Growler</a>. Comprobaremos que está instalada en nuestro sistema (la hemos copiado desde el DMG de instalación de Growl a la carpeta Aplicaciones) y que está habilitada en Growl (enabled) y pulsaremos en <em>Configure</em>. Tras esto nos aparece una pantalla como la siguiente:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/01/config-growl.png"><img class="aligncenter size-full wp-image-576" title="Configuración de Growl" src="/wp-content/uploads/2010/01/config-growl.png" alt="Configuración de Growl" width="748" height="629" srcset="/wp-content/uploads/2010/01/config-growl.png 748w, /wp-content/uploads/2010/01/config-growl-300x252.png 300w" sizes="(max-width: 748px) 100vw, 748px" /></a>Pulsando en Notifications (tal y como se muestra antes), basta con seleccionar el sonido deseado en el último cuadro desplegable: Play Sound.</p>
+<p style="text-align: justify;">Y casi listo. Nos falta lanzar Hardware Growler para que monitorice todos los eventos anteriores de hardware y, cuando suceda alguno, nos muestre la notificación growl correspondiente. Funciona en Mac OS X 10.6.2 Snow Leopard. Supongo que en el resto también funcionará.</p>
+<p style="text-align: justify;">¿Que por qué cuento esto aquí y no en la lista de correo del GUM?. Porque esa lista no permite imágenes adjuntas :-).</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

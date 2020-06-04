@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Dejo Dropbox por Bittorrent Sync</title>
+	<atom:link href="/2013/08/07/dejo-dropbox-por-bittorrent-sync/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Alberto G. Olay</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-465201</link>
+		<dc:creator><![CDATA[Alberto G. Olay]]></dc:creator>
+		<pubDate>Fri, 15 Aug 2014 04:09:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-465201</guid>
+		<description><![CDATA[La opción de RaspBerry Pi suena bien, no la había pensado.
+Por ahora estoy usando Mega que permite almacenar 50GB, lo que es suficiente para mí por ahora ... además recientemente liberaron el cliente de escritorio Beta que fue lo que hizo que me decidiera: termina siendo igual que Dropbox pero con mucha más capacidad. Saludos.]]></description>
+		<content:encoded><![CDATA[<p>La opción de RaspBerry Pi suena bien, no la había pensado.<br />
+Por ahora estoy usando Mega que permite almacenar 50GB, lo que es suficiente para mí por ahora &#8230; además recientemente liberaron el cliente de escritorio Beta que fue lo que hizo que me decidiera: termina siendo igual que Dropbox pero con mucha más capacidad. Saludos.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-464624</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 14 Aug 2014 20:21:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-464624</guid>
+		<description><![CDATA[Necesitas a &quot;algo&quot; que haga de BTSync server. El hosting no os vale, porque no podéis correr programas en él. Probablemente la mejor solución sea contratar una instancia de Máquina Virtual de Amazon y almacenamiento. Con un Linux, y tener así el BTSync todo el día corriendo.
+
+Otra opción barata es buscar una Raspberry Pi + Linux + BTSync + HD USB y tenerlo siempre conectado a Internet.
+
+Saludos!]]></description>
+		<content:encoded><![CDATA[<p>Necesitas a «algo» que haga de BTSync server. El hosting no os vale, porque no podéis correr programas en él. Probablemente la mejor solución sea contratar una instancia de Máquina Virtual de Amazon y almacenamiento. Con un Linux, y tener así el BTSync todo el día corriendo.</p>
+<p>Otra opción barata es buscar una Raspberry Pi + Linux + BTSync + HD USB y tenerlo siempre conectado a Internet.</p>
+<p>Saludos!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Alberto G. Olay</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-464206</link>
+		<dc:creator><![CDATA[Alberto G. Olay]]></dc:creator>
+		<pubDate>Thu, 14 Aug 2014 14:11:31 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-464206</guid>
+		<description><![CDATA[Si la única desventaja de BitTorrent Sync es que al menos dos dispositivos deben estar encendidos, ¿sería posible hacer funcionar BitTorrent Sync desde un hosting en línea 24/7 como &quot;puente&quot; para sincronizar ficheros? Sería más práctica esta solución que disponer de un cliente FTP, que no sincroniza automático. 
+
+Mi problema es que somos un equipo de tres personas que no necesariamente encendemos nuestro ordenador al mismo tiempo y no nos comunicamos todos los días. Tenemos un hosting de la empresa, pero resultaría bastante engorroso el método FTP. ¿Existirá alguna otra solución para mi caso?]]></description>
+		<content:encoded><![CDATA[<p>Si la única desventaja de BitTorrent Sync es que al menos dos dispositivos deben estar encendidos, ¿sería posible hacer funcionar BitTorrent Sync desde un hosting en línea 24/7 como «puente» para sincronizar ficheros? Sería más práctica esta solución que disponer de un cliente FTP, que no sincroniza automático. </p>
+<p>Mi problema es que somos un equipo de tres personas que no necesariamente encendemos nuestro ordenador al mismo tiempo y no nos comunicamos todos los días. Tenemos un hosting de la empresa, pero resultaría bastante engorroso el método FTP. ¿Existirá alguna otra solución para mi caso?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-447416</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2014 17:57:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-447416</guid>
+		<description><![CDATA[Hola. En mi casó lo uso como sustituto completo de Dropbox: documentos y código fuente. Es bastante rápido sincronizando (ha mejorado mucho en las últimas versiones). Se ha convertido en mi sistema de sincronización de base.]]></description>
+		<content:encoded><![CDATA[<p>Hola. En mi casó lo uso como sustituto completo de Dropbox: documentos y código fuente. Es bastante rápido sincronizando (ha mejorado mucho en las últimas versiones). Se ha convertido en mi sistema de sincronización de base.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguel Ángel Martín</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-447360</link>
+		<dc:creator><![CDATA[Miguel Ángel Martín]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2014 17:02:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-447360</guid>
+		<description><![CDATA[Hola Diego.
+
+¿Sigues usando este método?, ha llegado el momento en mi estrategia de backups de dejar de usar dropbox, ampliar, o pasarme a bitsync para no sólo copias de seguridad y si para carpeta de proyectos y documentos en el día a día... me acordé de este post donde contabas cómo lo hacías...
+
+Te sincroniza rápido los cambios y lo recomiendas para carpetas de proyectos ( no código fuente ) y tenerlo en todos los ordenadores o sólo para respaldos?
+
+
+Saludos ;)]]></description>
+		<content:encoded><![CDATA[<p>Hola Diego.</p>
+<p>¿Sigues usando este método?, ha llegado el momento en mi estrategia de backups de dejar de usar dropbox, ampliar, o pasarme a bitsync para no sólo copias de seguridad y si para carpeta de proyectos y documentos en el día a día&#8230; me acordé de este post donde contabas cómo lo hacías&#8230;</p>
+<p>Te sincroniza rápido los cambios y lo recomiendas para carpetas de proyectos ( no código fuente ) y tenerlo en todos los ordenadores o sólo para respaldos?</p>
+<p>Saludos 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: BitTorrent Sync &#60; Dropbox - Fran Fox</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-257954</link>
+		<dc:creator><![CDATA[BitTorrent Sync &#60; Dropbox - Fran Fox]]></dc:creator>
+		<pubDate>Sat, 01 Feb 2014 15:53:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-257954</guid>
+		<description><![CDATA[[&#8230;] a Diego Freniche me entero de esta genial app que utiliza el “sistema torrent” para mantener sincronizada una o [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] a Diego Freniche me entero de esta genial app que utiliza el “sistema torrent” para mantener sincronizada una o [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-257921</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2014 17:25:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-257921</guid>
+		<description><![CDATA[Hola Raúl
+
+Respecto a compararlo con la solución de WD, ni idea, ya que no tengo uno. Es más o menos lo mismo que tener un servidor, con la diferencia de que no tienes que configurar nada: con el seed BTSync encuentra los ficheros para compartir sin complicarte en compartir carpetas, rutas, etc.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Raúl</p>
+<p>Respecto a compararlo con la solución de WD, ni idea, ya que no tengo uno. Es más o menos lo mismo que tener un servidor, con la diferencia de que no tienes que configurar nada: con el seed BTSync encuentra los ficheros para compartir sin complicarte en compartir carpetas, rutas, etc.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Raúl</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-257920</link>
+		<dc:creator><![CDATA[Raúl]]></dc:creator>
+		<pubDate>Wed, 22 Jan 2014 11:07:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-257920</guid>
+		<description><![CDATA[Mucho se está hablando de BittorrentSync y me ha gustado mucho el artículo con el cambio de Dropbox por Bittorrent Sync, pero ¿esto es más efectivo que por ejemplo My Cloud de Western Digital? o incluso un pequeño servidor en el que se pueda acceder desde cualquier sitio, al fin de alcabo es lo mismo, para sincronizar hay que dejar el ordenador encendido.]]></description>
+		<content:encoded><![CDATA[<p>Mucho se está hablando de BittorrentSync y me ha gustado mucho el artículo con el cambio de Dropbox por Bittorrent Sync, pero ¿esto es más efectivo que por ejemplo My Cloud de Western Digital? o incluso un pequeño servidor en el que se pueda acceder desde cualquier sitio, al fin de alcabo es lo mismo, para sincronizar hay que dejar el ordenador encendido.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-211420</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 15 Sep 2013 09:28:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-211420</guid>
+		<description><![CDATA[Pueden ser muchas cosas:
+- que no te quede espacio en el Dropbox
+- que en el iPhone no tengas configurada la subida
+¿Has cambiado de versión de iOS? Puede ser también la causa
+
+En cualquier caso, no soy un experto en Dropbox. Para estos casos, lo mejor son sus foros.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Pueden ser muchas cosas:<br />
+&#8211; que no te quede espacio en el Dropbox<br />
+&#8211; que en el iPhone no tengas configurada la subida<br />
+¿Has cambiado de versión de iOS? Puede ser también la causa</p>
+<p>En cualquier caso, no soy un experto en Dropbox. Para estos casos, lo mejor son sus foros.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: fernando</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-211121</link>
+		<dc:creator><![CDATA[fernando]]></dc:creator>
+		<pubDate>Sat, 14 Sep 2013 12:21:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-211121</guid>
+		<description><![CDATA[yo lo uso entre otras cosas para hacer un backup de mis fotos en el iphone,al ppio. funciono muy bien,pero ahora parte de mis fotos no me hace el respaldo ,cual podria ser el problema?,hay algo que hacer dentro de los ajustes del programa?,gracias por la ayuda.]]></description>
+		<content:encoded><![CDATA[<p>yo lo uso entre otras cosas para hacer un backup de mis fotos en el iphone,al ppio. funciono muy bien,pero ahora parte de mis fotos no me hace el respaldo ,cual podria ser el problema?,hay algo que hacer dentro de los ajustes del programa?,gracias por la ayuda.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-183711</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2013 20:03:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-183711</guid>
+		<description><![CDATA[@Miguel Ángel
+
+Efectivamente, debes dejar encendidos los dos (o tres, o cuatro) ordenadores para que se produzca la sincronización. No hay un servicio central de nube. Pero a cambio, cuantos más ordenadores, más rápido (a la torrent). Piensa en esto para sincronizar el software en una empresa, o en un aula...
+
+Pero no tienes una copia offsite. Es decir, que no es un Dropbox. Aunque siempre puedes encriptar una carpeta y compartirla con un familiar o amigo, y viceversa, y así tienes copias fuera de casa :-D. Eso sí, hay que fiarse mucho]]></description>
+		<content:encoded><![CDATA[<p>@Miguel Ángel</p>
+<p>Efectivamente, debes dejar encendidos los dos (o tres, o cuatro) ordenadores para que se produzca la sincronización. No hay un servicio central de nube. Pero a cambio, cuantos más ordenadores, más rápido (a la torrent). Piensa en esto para sincronizar el software en una empresa, o en un aula&#8230;</p>
+<p>Pero no tienes una copia offsite. Es decir, que no es un Dropbox. Aunque siempre puedes encriptar una carpeta y compartirla con un familiar o amigo, y viceversa, y así tienes copias fuera de casa :-D. Eso sí, hay que fiarse mucho</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguel Ángel Martín</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/comment-page-1/#comment-183456</link>
+		<dc:creator><![CDATA[Miguel Ángel Martín]]></dc:creator>
+		<pubDate>Tue, 13 Aug 2013 11:40:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1945#comment-183456</guid>
+		<description><![CDATA[Lo malo de este método que debes tener encendido los dos a la vez para que la sincronización se realice, no?
+
+Es decir, no puedes dejar archivos en una carpeta, apagar el ordenador, e irte al otro ordenador y que se baje los archivos del otro, ... 
+
+Por lo demás, para copias de seguridad u otros uso viene muy bien, yo estoy usándolo para copias de seguridad.
+
+Saludos ;)]]></description>
+		<content:encoded><![CDATA[<p>Lo malo de este método que debes tener encendido los dos a la vez para que la sincronización se realice, no?</p>
+<p>Es decir, no puedes dejar archivos en una carpeta, apagar el ordenador, e irte al otro ordenador y que se baje los archivos del otro, &#8230; </p>
+<p>Por lo demás, para copias de seguridad u otros uso viene muy bien, yo estoy usándolo para copias de seguridad.</p>
+<p>Saludos 😉</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

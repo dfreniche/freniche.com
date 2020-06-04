@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Relatos &#8211; freniche.com</title>
+	<atom:link href="/tag/relatos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Ando melancólico y sensible&#8230;</title>
+		<link>/2007/03/01/ando-melancolico-y-sensible/</link>
+		<pubDate>Thu, 01 Mar 2007 14:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Relatos]]></category>
+
+		<guid isPermaLink="false">/2007/03/01/ando-melancolico-y-sensible/</guid>
+		<description><![CDATA[No se si es por ver cómo mi hijo crece día a día. O por el cambio de trabajo. O porque estoy bajo de moral. Quizá simplemente sea porque ahora tengo tiempo para pensar, al no estar semana si y semana también por ahí de viaje. El caso es que he visto en esta semana [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">No se si es por ver cómo mi hijo crece día a día. O por el cambio de trabajo. O porque estoy bajo de moral. Quizá simplemente sea porque ahora tengo tiempo para pensar, al no estar semana si y semana también por ahí de viaje.</p>
+<p class="bodytext">El caso es que he visto en esta semana dos episodios de vida natural en la ciudad que me han dado mucha pena. Los cuento aquí a ver si así se me pasa un poco la pena y me sirve de catársis.</p>
+<p class="bodytext" style="text-align: justify;">El primero fue el pasado Lunes. En un pequeño atasco de esos que se forman en todas las ciudades. Un par de kilómetros de coches avanzando lentamente por una autovía. En ambos sentidos, el mismo atasco. El sol intenta salir tímidamente tras las niebla. De pronto, pasando por mi izquierda, una familia de patos. Una mamá pata, con todos sus patitos siguiéndola. El pobre animal se había perdido: la autovía pasa cerca de un parque con un par de lagos. A la velocidad que se movía el tráfico no corrían peligro, pero estando sentado en el coche me invadió una tristeza que aún me dura. Esos pobres patitos, siguiendo ciegamente a su madre, ajenos al peligro del tráfico&#8230;</p>
+<p class="bodytext" style="text-align: justify;">Sentí la necesidad de salvar a los patos, de meterlos en el maletero y llevarlos al parque, de llamar a alguien para que viniera por ellos. Pero no hice nada. Me di muchas excusas, que si el tiempo, que si el atasco, que si pitos, que si flautas, &#8230; Al día siguiente, cuando pasé por el mismo sitio, miraba buscando las señales en el asfalto del atropello. No las vi. Quizá alguien, después de todo, tuvo lo que yo no tuve para pararse y salvar a aquellos pequeños patos, perdidos entre el tráfico.</p>
+<p class="bodytext" style="text-align: justify;">El segundo episodio viene ocurriendo todo el invierno. Junto al edificio en el que estoy hay un gran solar sin construir. Han excavado hasta el nivel necesario para hacer un aparcamiento, pero la obra lleva meses (o años, no lo se) parada. El caso es que con las lluvias se ha formado un pequeño lago. La tierra depositada sobre el hormigón ha permitido que crezcan plantas acuáticas (estamos junto al Guadalquivir) y ahora hay un pequeño ecosistema aquí al lado. Las ranas croan. Y eso es precisamente lo que me da pena. Esas ranas no saben que en un par de meses el sol de Sevilla secará su charca, y morirán de forma horrible, asadas sobre el hormigón reseco. El solar está vallado, y no hay forma de bajar a sacar las ranas. Más excusas.</p>
+<p class="bodytext" style="text-align: justify;">El caso es que estos dos episodios quizá me recuerdan que la vida es efímera, que aunque seamos inocentes y no le hagamos daño a nadie puede estar esperándonos un terrible destino a la vuelta de la esquina. Aunque todo esto me lleva a ser aún más optimista de lo que soy, a afrontar la vida como viene y a disfrutar del momento.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

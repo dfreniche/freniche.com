@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: We.Developers</title>
+	<atom:link href="/2011/11/28/we-developers/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/11/28/we-developers/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Miguelon</title>
+		<link>/2011/11/28/we-developers/comment-page-1/#comment-28450</link>
+		<dc:creator><![CDATA[Miguelon]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2011 11:55:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1638#comment-28450</guid>
+		<description><![CDATA[Reconozco que estoy deseando sacar un hueco para ver los vídeos de cafe y cocoa, pero no he podido aún. Sorry.]]></description>
+		<content:encoded><![CDATA[<p>Reconozco que estoy deseando sacar un hueco para ver los vídeos de cafe y cocoa, pero no he podido aún. Sorry.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/11/28/we-developers/comment-page-1/#comment-28447</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2011 11:34:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1638#comment-28447</guid>
+		<description><![CDATA[Suscrito desde el primer instante a... Macniacos, Café y Cocoa o We.Developers? ¡Yo, a los tres!
+
+Y eso de que mi voz no tiene arreglo... me lo tomaré como un cumplido: es inmejorable.
+
+Por tu bien :-D]]></description>
+		<content:encoded><![CDATA[<p>Suscrito desde el primer instante a&#8230; Macniacos, Café y Cocoa o We.Developers? ¡Yo, a los tres!</p>
+<p>Y eso de que mi voz no tiene arreglo&#8230; me lo tomaré como un cumplido: es inmejorable.</p>
+<p>Por tu bien 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguelon</title>
+		<link>/2011/11/28/we-developers/comment-page-1/#comment-28442</link>
+		<dc:creator><![CDATA[Miguelon]]></dc:creator>
+		<pubDate>Mon, 28 Nov 2011 10:49:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1638#comment-28442</guid>
+		<description><![CDATA[Suscrito desde el primer instante, creo. Lo he disfrutado mucho pero por mucho que te compres micro no creo que mejore la voz demasiado...
+
+Como le dijo el neurólogo a mi hermano cuando estuve &#039;ido&#039; casi 24 horas después del accidente de moto: &quot;Su hermano va a quedar mal, como muy bien se quedará como esta antes.&quot;]]></description>
+		<content:encoded><![CDATA[<p>Suscrito desde el primer instante, creo. Lo he disfrutado mucho pero por mucho que te compres micro no creo que mejore la voz demasiado&#8230;</p>
+<p>Como le dijo el neurólogo a mi hermano cuando estuve &#8216;ido&#8217; casi 24 horas después del accidente de moto: «Su hermano va a quedar mal, como muy bien se quedará como esta antes.»</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

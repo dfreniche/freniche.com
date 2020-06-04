@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Una mañana de trabajo cualquiera</title>
+	<atom:link href="/2011/04/05/una-manana-de-trabajo-cualquiera/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/04/05/una-manana-de-trabajo-cualquiera/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Crear un sitio web WordPress con una máquina virtual local</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/comment-page-1/#comment-13455</link>
+		<dc:creator><![CDATA[Crear un sitio web WordPress con una máquina virtual local]]></dc:creator>
+		<pubDate>Wed, 13 Apr 2011 09:16:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1453#comment-13455</guid>
+		<description><![CDATA[[...] Una mañana de trabajo cualquiera   abr 13 [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Una mañana de trabajo cualquiera   abr 13 [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/comment-page-1/#comment-13260</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2011 10:35:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1453#comment-13260</guid>
+		<description><![CDATA[@Miguel: te aseguro que no por gusto. Bueno, también por gusto. De vez en cuando me gusta &quot;chapotear&quot; en otro S.O., sea Linux, Windows o MorphOS, porque aleja el fanboyismo.
+Pero en este caso es que voy a impartir un curso de introducción a la programación en C y el cliente usa Windows. Igual que el 99% de los cursos que imparto con Eclipse. Quieren Windows, aunque yo prefiera Mac / Linux. Se ve que eso de instalar Java + Tomcat + Eclipse en Linux es muuuuuy difícil...]]></description>
+		<content:encoded><![CDATA[<p>@Miguel: te aseguro que no por gusto. Bueno, también por gusto. De vez en cuando me gusta «chapotear» en otro S.O., sea Linux, Windows o MorphOS, porque aleja el fanboyismo.<br />
+Pero en este caso es que voy a impartir un curso de introducción a la programación en C y el cliente usa Windows. Igual que el 99% de los cursos que imparto con Eclipse. Quieren Windows, aunque yo prefiera Mac / Linux. Se ve que eso de instalar Java + Tomcat + Eclipse en Linux es muuuuuy difícil&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguel</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/comment-page-1/#comment-13259</link>
+		<dc:creator><![CDATA[Miguel]]></dc:creator>
+		<pubDate>Thu, 07 Apr 2011 10:30:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1453#comment-13259</guid>
+		<description><![CDATA[Interesante post, pero me sigo preguntando por que usas Windows7 en un mac, con programas que existen para MAC... (eclipse)]]></description>
+		<content:encoded><![CDATA[<p>Interesante post, pero me sigo preguntando por que usas Windows7 en un mac, con programas que existen para MAC&#8230; (eclipse)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Fernando</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/comment-page-1/#comment-13173</link>
+		<dc:creator><![CDATA[Fernando]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2011 19:32:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1453#comment-13173</guid>
+		<description><![CDATA[Estaré al loro.]]></description>
+		<content:encoded><![CDATA[<p>Estaré al loro.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/comment-page-1/#comment-13172</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2011 19:11:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1453#comment-13172</guid>
+		<description><![CDATA[Hombre, si no supiera el sistema de trabajo sería un poco patatero :-)
+Dado que tengo que subir esta web en un par de días, documento el proceso y lo dejo por aquí.
+
+CLIPS tiene gracia... Miraré el ObjectiveClips por si acaso]]></description>
+		<content:encoded><![CDATA[<p>Hombre, si no supiera el sistema de trabajo sería un poco patatero 🙂<br />
+Dado que tengo que subir esta web en un par de días, documento el proceso y lo dejo por aquí.</p>
+<p>CLIPS tiene gracia&#8230; Miraré el ObjectiveClips por si acaso</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Fernando</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/comment-page-1/#comment-13164</link>
+		<dc:creator><![CDATA[Fernando]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2011 16:22:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1453#comment-13164</guid>
+		<description><![CDATA[¿Sabes como sincronizar luego el sitio WP que has creado con el servidor? Me interesa mucho eso de desarrollar el sitio offline y luego subirlo, dada la mierda de conexión que tengo aquí en el ( )o( ) del mundo.  Conexión, por cierto, cortesía de Vivo, la representante de Telefónica en estos andurriales. No podía ser otro…
+
+Por cierto, si te metes con CLIPS, tal vez esto te interese: www.objectiveclips.com
+
+PS Y dale con los 12 MB…. ;-)]]></description>
+		<content:encoded><![CDATA[<p>¿Sabes como sincronizar luego el sitio WP que has creado con el servidor? Me interesa mucho eso de desarrollar el sitio offline y luego subirlo, dada la mierda de conexión que tengo aquí en el ( )o( ) del mundo.  Conexión, por cierto, cortesía de Vivo, la representante de Telefónica en estos andurriales. No podía ser otro…</p>
+<p>Por cierto, si te metes con CLIPS, tal vez esto te interese: <a href="http://www.objectiveclips.com/" rel="nofollow">http://www.objectiveclips.com/</a></p>
+<p>PS Y dale con los 12 MB…. 😉</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

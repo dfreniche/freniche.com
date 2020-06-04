@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Nueva GSOD</title>
+	<atom:link href="/2011/04/01/nueva-gsod/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/04/01/nueva-gsod/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/04/01/nueva-gsod/comment-page-1/#comment-14091</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 03 May 2011 21:07:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1448#comment-14091</guid>
+		<description><![CDATA[Pues ya sabes, captúrala y me la mandas, que las colecciono :-)]]></description>
+		<content:encoded><![CDATA[<p>Pues ya sabes, captúrala y me la mandas, que las colecciono 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: cristobal</title>
+		<link>/2011/04/01/nueva-gsod/comment-page-1/#comment-14090</link>
+		<dc:creator><![CDATA[cristobal]]></dc:creator>
+		<pubDate>Tue, 03 May 2011 20:36:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1448#comment-14090</guid>
+		<description><![CDATA[hey yo tengo una nueva gsod, ocurre cuando el URL es muy largo]]></description>
+		<content:encoded><![CDATA[<p>hey yo tengo una nueva gsod, ocurre cuando el URL es muy largo</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

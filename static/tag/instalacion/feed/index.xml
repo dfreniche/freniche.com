@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>instalación &#8211; freniche.com</title>
+	<atom:link href="/tag/instalacion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Instalar Android Ice Cream Sandwich en la HP TouchPad</title>
+		<link>/2012/08/20/instalar-android-ice-cream-sandwich-en-la-hp-touchpad/</link>
+		<pubDate>Mon, 20 Aug 2012 07:49:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[instalación]]></category>
+		<category><![CDATA[TouchPad]]></category>
+
+		<guid isPermaLink="false">/?p=1751</guid>
+		<description><![CDATA[Después de un tiempo usando CyanoGen Mod 7 (por abreviar, CM7, que es una ROM de Android en su versión 2.3) en la TouchPad me he decidido y he instalado CM9. Dista bastante de ser perfecta, pero a fin de cuentas la TP no se diseñó ni pensó para Android. Y viendo el estado comatoso [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Después de un tiempo usando CyanoGen Mod 7 (por abreviar, CM7, que es una ROM de Android en su versión 2.3) en la TouchPad me he decidido y he instalado CM9. Dista bastante de ser perfecta, pero a fin de cuentas la TP no se diseñó ni pensó para Android. Y viendo el estado comatoso de webOS (y el durísimo golpe que supone no poder instalar la nueva versión, Open webOS 1.0 «oficial» en la TouchPad) la única manera de mantener el equipo con vida es esta.</p>
+<p>No voy a dar instrucciones, ni a contar nada. Creo que después de los vídeos del <a href="http://www.reverendkyle.com/">Reverendo Kyle</a> hay poco más que añadir. Os dejo con el que he usado para instalar CM9 en la TP. Yo tenía ventaja, porque ya estaba instalado MoBoot y ClockModWork Recovery, pero aún así es fácil.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/PDO1Jj3NYDw" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/PDO1Jj3NYDw"></param></object></div>
+</div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

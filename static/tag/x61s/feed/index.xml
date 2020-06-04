@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>x61s &#8211; freniche.com</title>
+	<atom:link href="/tag/x61s/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi ThinkPad x61s</title>
+		<link>/2014/08/29/mi-thinkpad-x61s/</link>
+		<comments>/2014/08/29/mi-thinkpad-x61s/#comments</comments>
+		<pubDate>Fri, 29 Aug 2014 12:18:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Levono]]></category>
+		<category><![CDATA[SSD]]></category>
+		<category><![CDATA[ThinkPad]]></category>
+		<category><![CDATA[x61s]]></category>
+
+		<guid isPermaLink="false">/?p=2221</guid>
+		<description><![CDATA[Hace ya tiempo que venía temiendo esto. Sentía una irresistible atracción del abismo. Ganas de tener un PC. Con Linux y Windows. Sí. Después de usar Macs desde el 2008, aún no he sido capaz de desintoxicarme del todo de la «infección» Linuxera&#8230; Además, tenía ganas de un ThinkPad. Hay quién dirá que son feos. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/08/x61s.jpg"><img src="/wp-content/uploads/2014/08/x61s.jpg" alt="Mi x61s" width="1024" height="768" class="aligncenter size-full wp-image-2229" srcset="/wp-content/uploads/2014/08/x61s.jpg 1024w, /wp-content/uploads/2014/08/x61s-300x225.jpg 300w, /wp-content/uploads/2014/08/x61s-920x690.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Hace ya tiempo que venía temiendo esto. Sentía una irresistible <em>atracción del abismo</em>. Ganas de tener un PC. Con Linux y Windows. Sí. Después de usar Macs desde el 2008, aún no he sido capaz de desintoxicarme del todo de la «infección» Linuxera&#8230; Además, tenía ganas de un ThinkPad. Hay quién dirá que son feos. Otros, que son funcionales. A mi me molan, con esa estética industrial y <em>aburrida</em>. Así que me puse a buscar en las webs de segunda mano.</p>
+<h1>El modelo escogido</h1>
+<p>Estuve viendo los distintos ThinkPads que pululaban por ahí. No me apetecía nada grande, y vi que había modelos de sólo 12”, como el X200, lo que me parece el tamaño perfecto. Encima, las pantallas son mate. Echo de menos la pantalla mate de mi MBP de 2008, pero en Apple las han dejado de poner como opción y no queda otra que aguantarse. La de mi MBP actual de 13” tiene demasiados reflejos…</p>
+<p><a href="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg"><img src="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg" alt="x61s vs Macbook Pro 13" width="1024" height="768" class="aligncenter size-full wp-image-2226" srcset="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg 1024w, /wp-content/uploads/2014/08/x61s_vs_macbook13-300x225.jpg 300w, /wp-content/uploads/2014/08/x61s_vs_macbook13-920x690.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Así que la duda estaba entre el TP x200 y el 201, mucho más moderno. Hasta que descubrí el x61, con su pantalla <strong>no panorámica</strong>. Sí, un portátil con relación de aspecto 4:3 en estos días. La pantalla no panorámica me recuerda a mi primer portátil, un Toshiba Satellite. Al no ser 16:9 es incluso más pequeño en sus 12&#8243;, lo que lo hacía más apetecible (para mi) si cabe. Y hay un modelo, el x61s, que es un poco más ligero. Finalmente, por 100 € he conseguido uno con la Ultrabase X6.</p>
+<p>Esta base es una <em>docking station</em> que amplía los puertos del TP, permitiendo que se cargue mientras está pinchado en ella. Para liberarlo primero debemos pulsar en un botón que informa al SO del evento y le permite desmontar aquellos recursos de la Ultrabase que estemos usando en ese momento. Tras esto, una pequeña palanca libera físicamente el X61. En la Ultrabase encontramos una mezcla perfecta (de nuevo, <em>para mi</em>) de tecnología moderna y <em>retro</em>, algo que se repite con el propio portátil. Junto a puertos serie y paralelo «pata negra» hay varios USB y un caddy que en mi caso tenía instalada una unidad lectora/grabadora de DVD. Pero que puede alojar una segunda batería (útil para viajes largos sin una fuente de alimentación a mano, p.ej.) o, mucho más interesante, una segunda unidad de disco. Una jugada maestra de ampliación podría ser ponerle un SSD baratito al x61S y aprovechar el disco que actualmente tiene en la Ultrabase como expansión de datos.</p>
+<p>El portátil en sí lo he equipado con 4GB de RAM y lleva un Core 2 Duo a 1.6 Ghz, lo que si bien no es mucho me permite ejecutar cualquier S.O. de 64 bits sin problemas. Venía con un HD de 140 GB. El teclado me encanta, con un montón de teclas dedicadas a funciones especiales, como moverte adelante/atrás en el navegador de Internet (que en mi caso y en Windows siempre es Firefox). Y tiene detalles que sorprenden. Lector de SD (normal hoy en día) y ranura para PCMCIA. Me viene perfecto para usarlo con las varias tarjetas PCMCIA que tengo para mis Amiga. En lugar de teclado retroiluminado, tiene una pequeña luz led en la esquina superior izquierda de la pantalla mirando hacia abajo que puede encenderse por si quieres trabajar en la oscuridad. O el lector de huellas, que funciona a la perfección y es como inicio sesión en Windows. O el acelerómetro para aparcar las cabezas del HD en caso de caída&#8230;</p>
+<h1>Linux en 2014</h1>
+<p>Después de probar varias distros, no soy capaz de encontrar una que realice una tarea casi imposible de solucionar: poner el portátil en reposo correctamente al cerrar la tapa. Me niego a investigar nada, ni a leer nada. 2014 se acaba, igual que mi paciencia con ciertas cosas. Me duele ver estos problemas con el hardware a estas alturas del partido. Ahorraos los comentarios: vais a darme la misma retahíla de excusas que yo daba en el 98. Pero han pasado muchos años viendo siempre lo mismo: instalas Linux y no funciona <em>out of the box</em>. Sin esto, nunca será un S.O. tenido en cuenta por el usuario en el escritorio.</p>
+<p>Supongo que lo volveré a intentar, porque soy un cabezón, pero de momento se queda con Win 7 Ultimate 64 bits.</p>
+<h1>SSDs</h1>
+<p>Al final, dada mi manía de llevar mi hardware al extremo (si es posible) y porque soy un cacharrero enfermizo, le he puesto un SSD a la máquina. He comprado, por un lado un Caddy para la Ultrabase, en el que ahora mismo está el HD original del portátil y al que accedo como a un disco IDE cuando <em>pincho</em> el portátil en la base. Por otro, dado el precio al que se están poniendo los SSDs me he comprado un <a href="http://www.amazon.es/gp/product/B00A1ZTZOG/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1">Kingston SSDnow</a> por 55 Eur. Este SSD soporta SATA III, mientras que la BIOS del x61s soporta inicialmente SATA I. Menos mal que hay una BIOS que se puede <em>flashear</em> (la <a href="http://forum.notebookreview.com/lenovo/459591-t61-x61-sata-ii-1-5-gb-s-cap-willing-pay-solution-8.html#post6501443">BIOS <em>Middleton</em></a>) y que te da soporte SATA II. Ahora el disco va como un tiro.</p>
+<p><a href="/wp-content/uploads/2014/08/kingston_ssd.jpg"><img src="/wp-content/uploads/2014/08/kingston_ssd.jpg" alt="Kinsgston SSD" width="1024" height="1365" class="aligncenter size-full wp-image-2222" srcset="/wp-content/uploads/2014/08/kingston_ssd.jpg 1024w, /wp-content/uploads/2014/08/kingston_ssd-225x300.jpg 225w, /wp-content/uploads/2014/08/kingston_ssd-768x1024.jpg 768w, /wp-content/uploads/2014/08/kingston_ssd-920x1226.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/29/mi-thinkpad-x61s/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

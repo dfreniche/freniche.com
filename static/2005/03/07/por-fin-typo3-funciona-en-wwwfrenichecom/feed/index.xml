@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Por fin Typo3 funciona en www.freniche.com</title>
+	<atom:link href="/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: prepaid</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/comment-page-1/#comment-5041</link>
+		<dc:creator><![CDATA[prepaid]]></dc:creator>
+		<pubDate>Sun, 27 Jun 2010 10:10:44 +0000</pubDate>
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comment-5041</guid>
+		<description><![CDATA[I created a new typo3 site and I don&#039;t have a good design yet. But I hope your tutorial will help me a bit, but it looks complicated for a beginner like me.]]></description>
+		<content:encoded><![CDATA[<p>I created a new typo3 site and I don&#8217;t have a good design yet. But I hope your tutorial will help me a bit, but it looks complicated for a beginner like me.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/comment-page-1/#comment-3240</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2009 17:45:01 +0000</pubDate>
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comment-3240</guid>
+		<description><![CDATA[Hola de nuevo, Oniro.
+
+Se me ocurre que pueda ser un problema con los permisos de tu perfil de Firefox. El perfil de Firefox se guarda (en Ubuntu 9.10 y supongo que en la mayoría de distros Linux modernas) en la carpeta de tu usuario, y dentro de ella, en .mozilla/firefox. Desde una terminal puedes entrar en ella mediante:
+
+dfreniche@galileo:~$ cd .mozilla/firefox/
+dfreniche@galileo:~/.mozilla/firefox$
+
+una vez dentro, si haces un ls -l listarás los perfiles de usuario que hay dentro, y a quién pertenecen:
+dfreniche@galileo:~/.mozilla/firefox$ ls -l
+total 8
+drwx------ 6 dfreniche dfreniche 4096 2009-12-31 10:53 8ctrypee.default
+-rw-r--r-- 1 dfreniche dfreniche   94 2009-12-06 13:58 profiles.ini
+
+como se puede ver, sólo tengo un perfil en este Firefox (con ese nombre tan bonito, 8ctrypee) y las carpetas y ficheros pertenecen al usuario dfreniche y al grupo dfreniche.
+
+El problema que tienes parece ser de permisos o de propietario de los ficheros. Si no tienes permiso para escribir en tus propios ficheros, o pertenecen a otro usuario y no te ha dado permisos, puede que algún programa no te funcione bien.
+
+Una forma de restaurar los permisos adecuados para la carpeta de tu perfil es hacer desde la consola:
+
+chmod -R 755 $HOME/.mozilla/firefox
+sudo chown -R tu-usuario $HOME/.mozilla/firefox
+
+Esto equivale a la opción casi mágica de restaurar los permisos que hay en la utilidad de discos de OS X, pero eso es otra historia...
+
+Espero que te sirva!]]></description>
+		<content:encoded><![CDATA[<p>Hola de nuevo, Oniro.</p>
+<p>Se me ocurre que pueda ser un problema con los permisos de tu perfil de Firefox. El perfil de Firefox se guarda (en Ubuntu 9.10 y supongo que en la mayoría de distros Linux modernas) en la carpeta de tu usuario, y dentro de ella, en .mozilla/firefox. Desde una terminal puedes entrar en ella mediante:</p>
+<p>dfreniche@galileo:~$ cd .mozilla/firefox/<br />
+dfreniche@galileo:~/.mozilla/firefox$</p>
+<p>una vez dentro, si haces un ls -l listarás los perfiles de usuario que hay dentro, y a quién pertenecen:<br />
+dfreniche@galileo:~/.mozilla/firefox$ ls -l<br />
+total 8<br />
+drwx&#8212;&#8212; 6 dfreniche dfreniche 4096 2009-12-31 10:53 8ctrypee.default<br />
+-rw-r&#8211;r&#8211; 1 dfreniche dfreniche   94 2009-12-06 13:58 profiles.ini</p>
+<p>como se puede ver, sólo tengo un perfil en este Firefox (con ese nombre tan bonito, 8ctrypee) y las carpetas y ficheros pertenecen al usuario dfreniche y al grupo dfreniche.</p>
+<p>El problema que tienes parece ser de permisos o de propietario de los ficheros. Si no tienes permiso para escribir en tus propios ficheros, o pertenecen a otro usuario y no te ha dado permisos, puede que algún programa no te funcione bien.</p>
+<p>Una forma de restaurar los permisos adecuados para la carpeta de tu perfil es hacer desde la consola:</p>
+<p>chmod -R 755 $HOME/.mozilla/firefox<br />
+sudo chown -R tu-usuario $HOME/.mozilla/firefox</p>
+<p>Esto equivale a la opción casi mágica de restaurar los permisos que hay en la utilidad de discos de OS X, pero eso es otra historia&#8230;</p>
+<p>Espero que te sirva!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: oniro</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/comment-page-1/#comment-3190</link>
+		<dc:creator><![CDATA[oniro]]></dc:creator>
+		<pubDate>Wed, 23 Dec 2009 15:28:45 +0000</pubDate>
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comment-3190</guid>
+		<description><![CDATA[He entrado de las dos formas (antes lo hacia por http), he probado también con la s, pero que va, no deja loguear.
+
+El caso es que deja ver la web y tal, pero no deja loguear sesión de usuario (cosa que el opera sí).
+
+Las cokis están activadas, o eso me dice la informacion de la página, que está almacenando cokis en el equipo.
+
+El java y el script java están activados.
+
+
+Y una ultima cosa. Uso ubuntu, por un asunto, inicié la sesión de root, y me dio por intentar meterme desde esa sesión, sorpresa, en sesión root loguea en la web con firefox.
+
+Y los complementos me parece que tienen los mismos instalados, en una y otra sesión, yo al menos los he visto iguales.
+
+¿Puede ser que estén cambiados los valores de about:config en una y otra sesión?Aunque de trapichear estos valores no tengo ni idea.]]></description>
+		<content:encoded><![CDATA[<p>He entrado de las dos formas (antes lo hacia por http), he probado también con la s, pero que va, no deja loguear.</p>
+<p>El caso es que deja ver la web y tal, pero no deja loguear sesión de usuario (cosa que el opera sí).</p>
+<p>Las cokis están activadas, o eso me dice la informacion de la página, que está almacenando cokis en el equipo.</p>
+<p>El java y el script java están activados.</p>
+<p>Y una ultima cosa. Uso ubuntu, por un asunto, inicié la sesión de root, y me dio por intentar meterme desde esa sesión, sorpresa, en sesión root loguea en la web con firefox.</p>
+<p>Y los complementos me parece que tienen los mismos instalados, en una y otra sesión, yo al menos los he visto iguales.</p>
+<p>¿Puede ser que estén cambiados los valores de about:config en una y otra sesión?Aunque de trapichear estos valores no tengo ni idea.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/comment-page-1/#comment-3184</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2009 11:28:40 +0000</pubDate>
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comment-3184</guid>
+		<description><![CDATA[Ummm! Curioso. Typo3 funciona perfectamente con Firefox. De hecho, los pocos sitios que he generado con Typo3 los he administrado con Firefox y nunca he tenido el problema de no poder entrar, salvo que tuviera los popups bloqueados, JavaScript apagado o las cookies desactivadas. Re-comprueba estos tres detalles y mira si estás entrando por http o por https. Si entras por https Firefox puede ser que no te deje porque no se fíe del certificado instalado en ese dominio.
+
+Si miras la lista de características de Typo3 (http://typo3.com/Feature_list.1243.0.html) en la primera ya te habla de su editor de texto enriquecido, que funciona con Firefox...
+
+Suerte, y ya me cuentas!]]></description>
+		<content:encoded><![CDATA[<p>Ummm! Curioso. Typo3 funciona perfectamente con Firefox. De hecho, los pocos sitios que he generado con Typo3 los he administrado con Firefox y nunca he tenido el problema de no poder entrar, salvo que tuviera los popups bloqueados, JavaScript apagado o las cookies desactivadas. Re-comprueba estos tres detalles y mira si estás entrando por http o por https. Si entras por https Firefox puede ser que no te deje porque no se fíe del certificado instalado en ese dominio.</p>
+<p>Si miras la lista de características de Typo3 (<a href="http://typo3.com/Feature_list.1243.0.html" rel="nofollow">http://typo3.com/Feature_list.1243.0.html</a>) en la primera ya te habla de su editor de texto enriquecido, que funciona con Firefox&#8230;</p>
+<p>Suerte, y ya me cuentas!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: oniro</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/comment-page-1/#comment-3180</link>
+		<dc:creator><![CDATA[oniro]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2009 21:13:06 +0000</pubDate>
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comment-3180</guid>
+		<description><![CDATA[Muchas gracias por la idea, pues he probado con el portable, y tampoco loguea en esa web (no es una web de este portal, es otra).
+
+Curioso, a ver si consigo contactar de una vez con el admin del sitio, pues la verdad que me tiene muy intrigada esto, el mozilla es muy utilizado, y si tiene problemas para loguear en typo 3, sería un gran inconveniente.]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias por la idea, pues he probado con el portable, y tampoco loguea en esa web (no es una web de este portal, es otra).</p>
+<p>Curioso, a ver si consigo contactar de una vez con el admin del sitio, pues la verdad que me tiene muy intrigada esto, el mozilla es muy utilizado, y si tiene problemas para loguear en typo 3, sería un gran inconveniente.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/comment-page-1/#comment-3147</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2009 09:46:39 +0000</pubDate>
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comment-3147</guid>
+		<description><![CDATA[Hola, Oniro
+
+Es algo raro esto de responder a un comentario casi en 2010 de una entrada de 2005, pero, en ccualquier caso ¡gracias por comentar!.
+
+Actualmente http://www.freniche.com/ sigue funcionando con Typo3, pero este blog ya funnciona con WP. Bueno, en cualquier caso, si puedes entrar con Opera es que la instalación de tu servidor funciona. Obvio, ¿no?. Luego el problema está en tu Firefox. Probablemente has restringido el JavaScript o los popups, o se te está quejando por algún certificado de seguridad. Prueba a cambiar estos ajustes, pero si no das con la clave, puedes hacer otra prueba.
+
+La idea es que te descargues un Firefox Portable (http://portableapps.com/) y que lo instales, bien en una llave USB o en una carpeta de tu disco duro. Así podrás probar con un Firefox &quot;nuevo&quot; y ver si todo funciona. Si te encuentras con problemas con el original, puedes comparar las configuraciones.
+
+Espero que te ayude este truco. Si es así, házmelo saber en este hilo de comentarios &quot;zombies&quot; que hemos rescatado del averno de los posts muertos :-)]]></description>
+		<content:encoded><![CDATA[<p>Hola, Oniro</p>
+<p>Es algo raro esto de responder a un comentario casi en 2010 de una entrada de 2005, pero, en ccualquier caso ¡gracias por comentar!.</p>
+<p>Actualmente <a href="http://www.freniche.com/" rel="nofollow">http://www.freniche.com/</a> sigue funcionando con Typo3, pero este blog ya funnciona con WP. Bueno, en cualquier caso, si puedes entrar con Opera es que la instalación de tu servidor funciona. Obvio, ¿no?. Luego el problema está en tu Firefox. Probablemente has restringido el JavaScript o los popups, o se te está quejando por algún certificado de seguridad. Prueba a cambiar estos ajustes, pero si no das con la clave, puedes hacer otra prueba.</p>
+<p>La idea es que te descargues un Firefox Portable (<a href="http://portableapps.com/" rel="nofollow">http://portableapps.com/</a>) y que lo instales, bien en una llave USB o en una carpeta de tu disco duro. Así podrás probar con un Firefox «nuevo» y ver si todo funciona. Si te encuentras con problemas con el original, puedes comparar las configuraciones.</p>
+<p>Espero que te ayude este truco. Si es así, házmelo saber en este hilo de comentarios «zombies» que hemos rescatado del averno de los posts muertos 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: oniro</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/comment-page-1/#comment-3141</link>
+		<dc:creator><![CDATA[oniro]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2009 05:36:06 +0000</pubDate>
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comment-3141</guid>
+		<description><![CDATA[Hola, tengo una duda sobre typo 3, y agradecería si pudiera ser aclarada. 
+
+Hay una página web hecha en typo3 en la cual no puedo loguear desde firefox.
+
+Es curioso, porque sin embargo, con en navegador opera si puedo loguear.
+
+¿Sabe por qué puede ser esto, y si hay solución para que firefox funiones?
+
+Gracias.]]></description>
+		<content:encoded><![CDATA[<p>Hola, tengo una duda sobre typo 3, y agradecería si pudiera ser aclarada. </p>
+<p>Hay una página web hecha en typo3 en la cual no puedo loguear desde firefox.</p>
+<p>Es curioso, porque sin embargo, con en navegador opera si puedo loguear.</p>
+<p>¿Sabe por qué puede ser esto, y si hay solución para que firefox funiones?</p>
+<p>Gracias.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

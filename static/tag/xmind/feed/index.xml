@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xmind &#8211; freniche.com</title>
+	<atom:link href="/tag/xmind/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Problemas con XMind: workaround encontrado</title>
+		<link>/2009/03/15/problemas-con-xmind-workaround-encontrado/</link>
+		<pubDate>Sun, 15 Mar 2009 22:39:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[xmind]]></category>
+
+		<guid isPermaLink="false">/2009/03/15/problemas-con-xmind-workaround-encontrado/</guid>
+		<description><![CDATA[Ya he comentado por aquí antes que uso los mapas mentales a menudo para organizar mis ideas. Y los uso para todo. Uno de ellos, que se está volviendo enorme, es el que uso para organizar mis proyectos de «retro-informática». Que si comprar una compact-flash para usarla como disco duro en un Amiga 600, que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Ya he comentado por aquí antes que uso los mapas mentales a menudo para organizar mis ideas. Y los uso para todo. Uno de ellos, que se está volviendo enorme, es el que uso para organizar mis proyectos de «retro-informática». Que si comprar una compact-flash para usarla como disco duro en un Amiga 600, que si montar una disquetera de 5&#8243;1/4, esas cosas.</p>
+<p align="justify">Pues XMind me ha dejado de funcionar en mi Mac. Y no me preguntéis porqué, porque no tengo ni idea de la causa raíz del problema. No se si será haber instalado el SDK para el iPhone, o haber trasteado cosas para prepararme el SCJP / SCBCD, el caso es que XMind ahora no me funciona. Al ser un programa Java, he buscado si dejaba algún log y el error que me aparece es: «No application id has been found». Después de Googlear un rato, parece que este problema se origina cuando Eclipse (o alguna de sus bibliotecas) no está bien instalado.</p>
+<p align="justify">Sea como sea, necesito que XMind funcione, y he localizado una solución temporal válida. En la web de XMind podemos descargar una versión Mac (un DMG) y una versión «portable». Me he bajado la versión portable y he copiado en la carpeta Aplicaciones de mi Mac las carpetas «XMind for Mac OS X», donde está el ejecutable, y «Commons», que es donde están las bibliotecas de Eclipse que antes no se encontraban. Mano de Santo. Ahora puedo seguir con mis mapas, que es lo que me urge. La solución definitiva, la publicaré si la encuentro.</p>
+<p align="justify">Os dejo con el mapa de mis retro-máquinas, que está en constante cambio <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p align="justify"><a href="/wp-content/uploads/2009/03/mismaquinas.png" title="Mapa mental de mis máquinas"><img src="/wp-content/uploads/2009/03/mismaquinas.thumbnail.png" alt="Mapa mental de mis máquinas" /></a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

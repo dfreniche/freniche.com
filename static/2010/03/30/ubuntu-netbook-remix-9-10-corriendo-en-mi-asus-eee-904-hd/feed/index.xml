@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Ubuntu Netbook Remix 9.10 corriendo en mi Asus EEE 904 HD</title>
+	<atom:link href="/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: pacoportables</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-203519</link>
+		<dc:creator><![CDATA[pacoportables]]></dc:creator>
+		<pubDate>Tue, 03 Sep 2013 14:18:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-203519</guid>
+		<description><![CDATA[hola friendniche&quot;  siento tardar para contestar
+Me descargue knoppix.iso de 
+ftp://ftp.uni-kl.de/pub/linux/knoppix/DVD/
+con comando dd, unebootin,multiboot o 
+simplemente extrayendolo a sd y ejecutando 
+el script deberia bastar,
+coger una sd lo mas grande posible ,8 gb mejor.
+una vez finalizado y  pulsando esc se arranca el pc  
+desde usb todo arranca normal ,pide persistencia y 
+encriptar ,,,a tu eleccion, luego es facil 
+menu-instalar knoppix hd-...y seguir 
+las recomendaciones,mejor tener una particion 
+previamente formateada en reiserfs con gparted p.ejem.
+al terminar de instalar el sistema,pide instalar grub ,dije si 
+y reconocio el arranque de winxp-7,asi que genial,me quedó 
+winxp (el original),win7,knoppix dvd con gnome.kde.lxde.
+
+pero de esto hace tiempo y ahora uso una sd 4gb  que 
+siempre esta metida en el lector en la que he instalado archbang
+q trae openbox, 1,3 gb recien instalado!!, esta distribucion realmente 
+vuela en este portatil,para hacerla mas diver le instale enlightenmment
+un escritorio candy-ligero,libreoffice,virtualbox,vlc,...y todo va bastante bien.
+Ottra distro que me fue de lujo fue crunchbang,sin duda recomendaria instalar esta pues fue creada para asus 701¿? y se sigue actualizando ,lo reconoce todo y va superapida,
+como moraleja diria que este portatil con openbox va muy muy bien]]></description>
+		<content:encoded><![CDATA[<p>hola friendniche»  siento tardar para contestar<br />
+Me descargue knoppix.iso de<br />
+<a href="ftp://ftp.uni-kl.de/pub/linux/knoppix/DVD/" rel="nofollow">ftp://ftp.uni-kl.de/pub/linux/knoppix/DVD/</a><br />
+con comando dd, unebootin,multiboot o<br />
+simplemente extrayendolo a sd y ejecutando<br />
+el script deberia bastar,<br />
+coger una sd lo mas grande posible ,8 gb mejor.<br />
+una vez finalizado y  pulsando esc se arranca el pc<br />
+desde usb todo arranca normal ,pide persistencia y<br />
+encriptar ,,,a tu eleccion, luego es facil<br />
+menu-instalar knoppix hd-&#8230;y seguir<br />
+las recomendaciones,mejor tener una particion<br />
+previamente formateada en reiserfs con gparted p.ejem.<br />
+al terminar de instalar el sistema,pide instalar grub ,dije si<br />
+y reconocio el arranque de winxp-7,asi que genial,me quedó<br />
+winxp (el original),win7,knoppix dvd con gnome.kde.lxde.</p>
+<p>pero de esto hace tiempo y ahora uso una sd 4gb  que<br />
+siempre esta metida en el lector en la que he instalado archbang<br />
+q trae openbox, 1,3 gb recien instalado!!, esta distribucion realmente<br />
+vuela en este portatil,para hacerla mas diver le instale enlightenmment<br />
+un escritorio candy-ligero,libreoffice,virtualbox,vlc,&#8230;y todo va bastante bien.<br />
+Ottra distro que me fue de lujo fue crunchbang,sin duda recomendaria instalar esta pues fue creada para asus 701¿? y se sigue actualizando ,lo reconoce todo y va superapida,<br />
+como moraleja diria que este portatil con openbox va muy muy bien</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-22666</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2011 16:07:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-22666</guid>
+		<description><![CDATA[Y cómo lo instalaste? Desde DVD? Desde USB? Puedes indicarme alguna guía?
+
+Gracias!]]></description>
+		<content:encoded><![CDATA[<p>Y cómo lo instalaste? Desde DVD? Desde USB? Puedes indicarme alguna guía?</p>
+<p>Gracias!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: pacoportables</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-22637</link>
+		<dc:creator><![CDATA[pacoportables]]></dc:creator>
+		<pubDate>Thu, 08 Sep 2011 05:31:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-22637</guid>
+		<description><![CDATA[le he metido knoppix dvd 6.4.4 al mismo netbook y anda maravilla]]></description>
+		<content:encoded><![CDATA[<p>le he metido knoppix dvd 6.4.4 al mismo netbook y anda maravilla</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Mis Gadgets estas vacaciones</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-5650</link>
+		<dc:creator><![CDATA[Mis Gadgets estas vacaciones]]></dc:creator>
+		<pubDate>Sat, 31 Jul 2010 09:48:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-5650</guid>
+		<description><![CDATA[[...] Netbook Asus 904HD. El año pasado lo usé como reproductor multimedia, fundamentalmente.Con su bolsa para [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Netbook Asus 904HD. El año pasado lo usé como reproductor multimedia, fundamentalmente.Con su bolsa para [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Alejandro Domínguez</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-4235</link>
+		<dc:creator><![CDATA[Alejandro Domínguez]]></dc:creator>
+		<pubDate>Mon, 17 May 2010 09:22:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-4235</guid>
+		<description><![CDATA[Pues sí, como suena, hubo rumores de que habían encontrado partes Linux en la beta de Steam para Mac, ya han confirmado que saldrá para Linux. Aunque no se cuando, será interesante ver cómo va.]]></description>
+		<content:encoded><![CDATA[<p>Pues sí, como suena, hubo rumores de que habían encontrado partes Linux en la beta de Steam para Mac, ya han confirmado que saldrá para Linux. Aunque no se cuando, será interesante ver cómo va.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-4233</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 17 May 2010 09:19:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-4233</guid>
+		<description><![CDATA[Steam para Linux? No lo sabía. Yo ahora he comenzado a usar Steam para Mac. Por cierto, Portal está ahora gratis para descargarlo: juegazo!]]></description>
+		<content:encoded><![CDATA[<p>Steam para Linux? No lo sabía. Yo ahora he comenzado a usar Steam para Mac. Por cierto, Portal está ahora gratis para descargarlo: juegazo!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Alejandro Domínguez</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-4231</link>
+		<dc:creator><![CDATA[Alejandro Domínguez]]></dc:creator>
+		<pubDate>Mon, 17 May 2010 08:43:47 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-4231</guid>
+		<description><![CDATA[Vaya, que buena pinta tiene ese interfaz adaptado, ¿eh?. Yo estoy apegado a windows más que nada por el &quot;visio&quot;, los juegos que hay en windows son bestiales. Pero ahora que Steam va a estar disponible para Linux, no se si va a ser por más tiempo. En fin.]]></description>
+		<content:encoded><![CDATA[<p>Vaya, que buena pinta tiene ese interfaz adaptado, ¿eh?. Yo estoy apegado a windows más que nada por el «visio», los juegos que hay en windows son bestiales. Pero ahora que Steam va a estar disponible para Linux, no se si va a ser por más tiempo. En fin.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-3741</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Wed, 07 Apr 2010 14:47:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-3741</guid>
+		<description><![CDATA[Pues mira, ahora que he sacado un momentito, me he bajado la iso y estoy intentando instalarla pero...¡agh! no consigo que arranque desde un disco duro externo (he seguido el procedimiento para &quot;quemar&quot; la iso). Si lo hago desde Mac o desde Windows, el sistema no reconoce la unidad como arrancable y se pasa a arrancar el sistema. Si lo hago desde Linux, se queda atontao  :(
+
+
+(cielos, este es probablemente el comentario más &quot;hoygan&quot; que he escrito en los últimos años...)]]></description>
+		<content:encoded><![CDATA[<p>Pues mira, ahora que he sacado un momentito, me he bajado la iso y estoy intentando instalarla pero&#8230;¡agh! no consigo que arranque desde un disco duro externo (he seguido el procedimiento para «quemar» la iso). Si lo hago desde Mac o desde Windows, el sistema no reconoce la unidad como arrancable y se pasa a arrancar el sistema. Si lo hago desde Linux, se queda atontao  🙁</p>
+<p>(cielos, este es probablemente el comentario más «hoygan» que he escrito en los últimos años&#8230;)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-3739</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 07 Apr 2010 10:37:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-3739</guid>
+		<description><![CDATA[Para SL, en las &lt;a href=&quot;http://support.apple.com/kb/HT4014&quot; rel=&quot;nofollow&quot;&gt;notas de la 10.6.3&lt;/a&gt; comentan que soluciona problemas con el reposo en algunos portátiles, al despertarlos con Bonjour. Yo no he tenido esos problemas, mi MBP ya es más viejito y no le hago WOL: prefiero hacerles Wake On Ponte a currar.
+Si puedes probarlo, estaría bien contrastar opiniones. El Netbook no lo uso a diario como los Macs, pero hasta ahora se ha portado como un campeón. Eso sí, teniendo siempre en mente que es un Netbook (que luego entran las tentaciones de instalarle una PostgreSQL...)
+
+Saludos!]]></description>
+		<content:encoded><![CDATA[<p>Para SL, en las <a href="http://support.apple.com/kb/HT4014" rel="nofollow">notas de la 10.6.3</a> comentan que soluciona problemas con el reposo en algunos portátiles, al despertarlos con Bonjour. Yo no he tenido esos problemas, mi MBP ya es más viejito y no le hago WOL: prefiero hacerles Wake On Ponte a currar.<br />
+Si puedes probarlo, estaría bien contrastar opiniones. El Netbook no lo uso a diario como los Macs, pero hasta ahora se ha portado como un campeón. Eso sí, teniendo siempre en mente que es un Netbook (que luego entran las tentaciones de instalarle una PostgreSQL&#8230;)</p>
+<p>Saludos!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/comment-page-1/#comment-3738</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Wed, 07 Apr 2010 08:48:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=954#comment-3738</guid>
+		<description><![CDATA[Tiene muy buena pinta. Nunca me había planteado instalarlo en el netbook porque estoy algo quemadete con Linux. Igual le doy una oportunidad, porque Snow Leopard me está dando problemas al poner el equipo en reposo :)]]></description>
+		<content:encoded><![CDATA[<p>Tiene muy buena pinta. Nunca me había planteado instalarlo en el netbook porque estoy algo quemadete con Linux. Igual le doy una oportunidad, porque Snow Leopard me está dando problemas al poner el equipo en reposo 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

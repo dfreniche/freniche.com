@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Trasteando &#8211; freniche.com</title>
+	<atom:link href="/tag/trasteando/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Una mañana de trabajo cualquiera</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/</link>
+		<comments>/2011/04/05/una-manana-de-trabajo-cualquiera/#comments</comments>
+		<pubDate>Tue, 05 Apr 2011 11:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1453</guid>
+		<description><![CDATA[Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para mi querido Amstrad CPC 464 con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para <a href="http://freniche.com/wp/?page_id=4">mi querido Amstrad CPC 464</a> con el monitor fósforo verde, con su unidad de casetes. El único periférico que tenía era un Joystick. Y a usarlo. Pero veía en las películas a gente en países lejanos y extraños, en salas llenas de ordenadores.</p>
+<p style="text-align: justify;">Como el programador de Parque Jurásico (que, por supuesto, además de ser el malo, cobarde y torpe, estaba mal pagado y era gordo y feo). Por cierto, si veis de nuevo JP os llamarán la atención dos cosas: una, que están programando fumando, algo impensable en cualquier entorno de hoy en día. La otra, que el sistema de «bug tracking» que usan es una libreta donde van anotando los errores <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/RfiQYRn7fBg"" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/RfiQYRn7fBg""></param></object></div>
+</div>
+<p style="text-align: justify;">Volviendo al tema que me traía aquí, en esta mañana he comenzado <a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/">programando en C</a>, en el IDE Eclipse corriendo sobre Windows 7. Ese <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">Windows 7 está instalado en mi MBP</a>. Por si fuera poco frikismo, he usado el escritorio remoto de Windows para programar esos ejemplos en una ventana del iMac de 27&#8243;, que para eso tengo una pantalla grande. Mientras programaba iba actualizando la presentación de Keynote que acompaña al curso, en el iMac. Sonaba la música desde iTunes, donde estaba restaurando mi iPhone 3Gs con una copia de seguridad de ayer: mis niños han borrado algunas fotos en un descuido.</p>
+<p style="text-align: justify;">He terminado con C y me he pasado a WordPress. Arrancando una máquina virtual VMWare de <a href="http://bitnami.org/">Bitnami</a>, que ya tiene un entorno WP completo sobre Linux, me he dedicado a crear un nuevo sitio para migrar una vieja web que hice hace ya la tira en Typo3. Es decir, instala plugins, widgets, temas, escribe posts, importa información, etc.</p>
+<p style="text-align: justify;">Ahora toca pensar en el próximo curso de Java EE que tengo que impartir a finales de mes. Java, Servlets, EJBs, JBoss, Eclipse de nuevo (aunque ahora en su «sabor» Java). Tendré que ojear un libro, que tengo en formato CHM (formato típico de Windows en otra época). Y luego, un poco de Objective C para comenzar un proyecto iPad que me han encargado. Tengo cosas que leer de UML&#8230;</p>
+<p style="text-align: justify;">Es por este desbarajuste de trabajo que tengo, con tantas tecnologías, frameworks, lenguajes, herramientas y entornos distintos por lo que amo a mis dos Macs. Necesito ser anti-minimalista, ya que si lo fuera no podría hacer la mitad de las cosas que hago. Esta es la razón de haber <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">ampliado mi iMac a 12 GB de RAM</a>. Aún así, procuro no instalar nada si ya tengo una aplicación que hace más o menos lo mismo, que si no acabas con un montón de aplicaciones similares que no acabas de dominar en profundidad.</p>
+<p style="text-align: justify;">Bueno, sigo, que quiero ir terminando. Que no hace mucho me comentaron que a lo mejor tengo que aprender <a href="http://clipsrules.sourceforge.net/">CLIPS</a>&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/05/una-manana-de-trabajo-cualquiera/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>«The more memory and HD you&#8217;ll have, the happier you&#8217;ll be»</title>
+		<link>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/</link>
+		<comments>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/#comments</comments>
+		<pubDate>Tue, 15 Mar 2011 11:09:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">/?p=1431</guid>
+		<description><![CDATA[No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le he puesto al iMac 12 GB de RAM. ¿Es mucho?. ¿Es poco?. Vamos con ello.</p>
+<p style="text-align: justify;">Lo  primero, dar la razón fundamental de ponerle tanta memoria al iMac: porque puedo. Sí, así de sencillo. En el 94 ni hubiera soñado con estas cantidades de memoria, ni siquiera para un disco duro. Es como pensar hoy en una RAM de 32 Hexabytes. Así que no podía plantearme si era mucho o poco: simplemente no podía. Pero hoy en día, cuando 8 GB cuestan 120 Eur. IVA inc., si necesitas esa memoria, o te apetece, tampoco es una inversión que te lleve a la bancarrota.</p>
+<p style="text-align: justify;">Además, cuando es aquí donde me gasto mi dinero. Quiero decir, que no tengo moto, no me gustan los coches potentes, ni la ropa de diseñador, ni juego al bingo, ni me gusta la coca, ni jugar al póker. Mis vicios son baratos ¡qué le vamos a hacer!. Nada me gusta más que un buen gadget electrónico. Hay quien le da por coleccionar sellos, o montar maquetas. O tener un yate. Yo tengo chismes.</p>
+<p style="text-align: justify;">Así que nada mejor para complementar a mi querido iMac Core i7 que estos 8 GB, que se han sumado a los 4 GB que traía de fábrica. Ahora tengo una máquina redonda, muy equilibrada, potente y estable. Y de la pantalla, para qué hablar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En un día normal de trabajo, si miro el consumo de memoria me puedo encontrar con algo como esto:</p>
+<div id="attachment_1432" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-usada-normal.png"><img class="size-full wp-image-1432 " title="Memoria usada" src="/wp-content/uploads/2011/03/memoria-usada-normal.png" alt="Memoria usada" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-usada-normal.png 860w, /wp-content/uploads/2011/03/memoria-usada-normal-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Memoria usada</p></div>
+<p style="text-align: justify;">Este es el consumo que tengo mientras escribo estas líneas. Se puede ver que, usado (ya sea por programas, por el S.O. o que está «cacheando» algo en memoria) tengo 4,59 GB. Algo más que los 4 GB originales. Hace unos meses, el equipo estaría paginando, es decir, tendría que sacar algún programa de memoria y guardarlo en disco (normalmente el que hace más tiempo que no se usa). El dato de Paginación (salidas) sería mayor que 0, y todo el sistema me iría más lento. Estaría tratando de ejecutar, a la vez, más programas de los cabrían en mi memoria RAM.</p>
+<p style="text-align: justify;">Como se puede ver, el problema ahora no es ese. Me sobran 7,40 GB. ¿Excesivo?. Para nada. En cuanto tenga que correr alguna máquina virtual con VMWare, o lanzar XCode 4 (con todo lo que ello implica), o jugar a Left 4 Dead 2 sin parar algo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> la memoria disminuye y se queda en algo como esto:</p>
+<div id="attachment_1433" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-tope.png"><img class="size-full wp-image-1433 " title="Usando memoria" src="/wp-content/uploads/2011/03/memoria-tope.png" alt="Usando memoria" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-tope.png 860w, /wp-content/uploads/2011/03/memoria-tope-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Usando memoria</p></div>
+<p>Uso el ordenador muchas horas al día. Por trabajo, y por placer. Y no hay cosa que me irrite más que quedarme sin espacio en disco, o ver que la máquina no va todo lo «fina» que debiera, por una tontería como es la RAM. Así que, como dice el título, un poco de RAM me hace mucho más feliz. ¡Comprueba la tuya!</p>
+<p>P.D.: Si quieres saber cómo interpretar el uso de memoria que está haciendo tu Mac, <a href="http://macperformanceguide.com/Mac-Monitoring-memory.html">te recomiendo este excelente post de MPG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>El proceso de instalación de mi MacBook Pro</title>
+		<link>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/</link>
+		<comments>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/#comments</comments>
+		<pubDate>Fri, 01 Oct 2010 15:53:38 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Trasteando]]></category>
+
+		<guid isPermaLink="false">/?p=1118</guid>
+		<description><![CDATA[Como ya he comentado, me he comprado un iMac como máquina principal de trabajo. Y esto ha supuesto que mi MacbookPro pasa a ser la máquina que me llevo al sofá cuando es temprano y los niños no se han levantado, o la que se viene conmigo a impartir un curso o una conferencia. He [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div style="width: 650px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/17258892@N05/2588347668/in/photostream/"><img title="Yo no hago fotos tan buenas. Click para ver el autor." src="http://farm4.static.flickr.com/3149/2588347668_a1006846fa_z.jpg?zz=1" alt="Yo no hago fotos tan buenas. Click para ver el autor." width="640" height="498" /></a><p class="wp-caption-text">Yo no hago fotos tan buenas. Click para ver el autor.</p></div>
+<p style="text-align: justify;">Como ya he comentado, <a href="/2010/09/17/shopping-spree/">me he comprado un iMac</a> como máquina principal de trabajo. Y esto ha supuesto que mi MacbookPro pasa a ser la máquina que me llevo al sofá cuando es temprano y los niños no se han levantado, o la que se viene conmigo a impartir un curso o una conferencia. He aprovechado para vaciarla de datos (todo está ahora en el HD del iMac),<a href="/2010/09/22/mi-macbookpro-con-un-nuevo-disco-duro-wd-scorpio-black/"> cambiarle el disco duro</a> y, de paso, reinstalarla.</p>
+<p style="text-align: justify;">Para no olvidar qué le he instalado y para poder realizar las siguientes instalaciones más rápidas (por ej. ahora que quiero disponer de una máquina virtual VMWare con Snow Leopard) he pensado en ir registrando los programas instalados. Antes de leer pensad que es un conjunto de programas para el portátil de un programador y formador de informáticos. No necesariamente tiene que encajar con lo que tú instalarías. Además, aunque están numerados, no son pasos. Veréis que muchas cosas se están haciendo en paralelo. Sugerencias welcome, en los comentarios. Bueno, aquí está el resultado.</p>
+<ol>
+<li>instalamos Max OS X Snow Leopard. Máquina limpia, con 10.6.0, después de un buen rato de escuchar girar el DVD</li>
+<li>quitamos el icono de iDisk del Finder :-). Lo agarras y lo arrastras fuera del Finder, y porque no hay un hacha que lo despedace, que si no&#8230;</li>
+<li>reiniciamos para medir la velocidad. Entre el nuevo HD y el sistema limpio, esto corre que se las pela</li>
+<li>configuramos el ratón multitouch, que no funciona el «botón derecho» ni el scroll con dos dedos. Es un Magic mouse.</li>
+<li>instalamos <a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/">Dropbox, aplicación de cabecera nº 1</a>.</li>
+<li>lanzamos Dropbox para comenzar la sincronización. En Dropbox tengo los datos de otras aplicaciones, así que si no instalo Dropbox no hay tu tía.</li>
+<li>instalamos iLife&#8217;09. Poco que comentar. iPhoto es imprescindible</li>
+<li>instalamos <a href="http://www.freemacsoft.net/AppCleaner/">AppCleaner</a>, un desinstalador de aplicaciones que te deja el disco algo más limpio.</li>
+<li>instalamos iWork&#8217;09. Las presentaciones de los cursos las hago ahora con Keynote (sorry, OpenOffice.org)</li>
+<li>instalamos <a href="http://www.videolan.org/vlc/">VLC</a>. No sólo de trabajo vive el geek.</li>
+<li>ejecutamos actualización de software: 10 actualizaciones, 1,56 GB de descarga :-). Llegaremos a la 10.6.4.</li>
+<li>intento instalar <a href="http://developer.apple.com/technologies/tools/xcode.html">XCode</a> 3.2.4 y FAIL! Necesita Mac OS X 10.6.2 al menos :-(. A esperar.</li>
+<li>instalado Murky, para manejar el sistema de control de versiones de código fuente Mercurial. Si no sabes lo que es, puedes vivir sin ello <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>instalado <a href="http://mercurial.berkwood.com/">mercurial</a> y GIT (otro <a href="http://en.wikipedia.org/wiki/Distributed_revision_control">DSCM</a>)</li>
+<li>configurado a mi gusto Safari: eliminados rss, noticias, favoritos, etc. Los RSS se leen en Google Reader</li>
+<li>Actualizado VLC, que lo pedía</li>
+<li>bajando <a href="http://www.evernote.com/">Evernote</a>, aplicación de cabecera nº 2</li>
+<li>cambiado nombre del ordenador en Preferencias -&gt; Compartir. No soporto los nombres por defecto de Mac OS X.</li>
+<li>comprobado que podemos acceder a los datos del disco USB :-). En él está el disco original con los datos.</li>
+<li>instalado <a href="http://agilewebsolutions.com/products/1Password">1Password</a>. Luego lo configuramos (los datos están en Dropbox, y aún no ha terminado de sincronizar)</li>
+<li>Instalando, de mi <a href="http://www.macbuzzer.com/">MacBuzzer</a> bundle 9 the big deal, <a href="http://appbodega.com/">Bodega</a>, <a href="http://www.delibarapp.com/">delibar</a> y <a href="http://www.icyblaze.com/idocument/">iDocument</a>.</li>
+<li>Evernote descargado, lo instalamos y lanzamos. La conexión echa humo: Dropbox, Actualización de Software y Evernote los tres a la vez <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Dropbox dice que le quedan 38 días para terminar la sincronización <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>lanzado y configurado delibar. Guardo mucho enlaces en Delicious y esta es la solución más cómoda que he encontrado en Mac, sin usar Firefox, claro.</li>
+<li>copiando librería de iDocument con mis PDFs (pocos) 822 MB. Marcado con color azul</li>
+<li>copiando algo más serio: carpeta Programming, con mi código fuente de trabajo.</li>
+<li>Evernote pide Growl: instalado</li>
+<li>finalizada sincronización Evernote</li>
+<li>instalado magic prefs, pero claro, FAIL2: no hay soporte de magic mouse aún, hasta que no termine la actualización del sistema</li>
+<li>actualizado finalmente a 10.6.4, iLife e iWork parcheados.</li>
+<li>XBench da <a href="/2010/09/22/mi-macbookpro-con-un-nuevo-disco-duro-wd-scorpio-black/">resultados impresionantes</a></li>
+<li>ahora sí, instalado XCode</li>
+<li>configuradas <a href="http://magicprefs.com/">Magic prefs</a> y Magic menu</li>
+<li>¿no ha terminado esto? Parece que hay nuevas actualizaciones de software: instaladas</li>
+<li>instalado <a href="http://culturedcode.com/things/">Things</a>. Dropbox sigue descargando&#8230;</li>
+<li>instalado <a href="http://www.macroplant.com/phonedisk/">Phone Disk</a> y <a href="http://pomodoro.ugolandini.com/">Pomodoro</a>. Pomodoro me ayuda a concentrarme en los días espesos.</li>
+<li>configuradas cuentas de correo en Mail</li>
+<li>instalado <a href="http://www.decimus.net/dterm.php">DTerm</a></li>
+<li><a href="http://www.decimus.net/dterm.php"></a>instalado <a href="http://irradiatedsoftware.com/sizeup/">SizeUp</a>. Fundamental para manejar ventanas con el teclado, moverlas entre monitores, etc. Windows 7 ya trae muchos de estos atajos de serie. Apple, ponte las pilas.</li>
+<li>Configurado 1password con el fichero de datos de Dropbox</li>
+<li>instalado salvapantallas <a href="http://www.9031.com/downloads/screensavers.html">Fliqlo</a></li>
+<li>instalado <a href="http://clicktoflash.com/">clickToFlash</a>. Perfecto para bloquear Flash en Safari.</li>
+<li>instalado <a href="http://www.vmware.com/products/fusion/">VMWare Fusion 3</a></li>
+<li>nocturne por si uso el portátil de noche y <a href="http://lightheadsw.com/caffeine/">caffeine</a> para evitar que se suspenda, cuando está haciendo algo que no requiere mi interacción (como descargar películas de internet corrección: yo nunca haría eso)</li>
+<li>eliminada advertencia de ejecutar apps de internet: escribe en un terminal defaults write com.apple.LaunchServices LSQuarantine -bool NO</li>
+</ol>
+<p>Y eso es todo. Ahora queda usarlo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Mi MacbookPro con un nuevo disco duro: WD Scorpio Black</title>
+		<link>/2010/09/22/mi-macbookpro-con-un-nuevo-disco-duro-wd-scorpio-black/</link>
+		<comments>/2010/09/22/mi-macbookpro-con-un-nuevo-disco-duro-wd-scorpio-black/#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 11:48:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Trasteando]]></category>
+
+		<guid isPermaLink="false">/?p=1094</guid>
+		<description><![CDATA[Mi Macbook Pro, mi portátil principal y hasta ahora máquina de trabajo, venía de fábrica con un disco duro de 160GB y 5200 rpm de velocidad de rotación de la marca Fujitsu. Hace dos años y medio cuando me lo compré, estaba bien. Pero ahora ni la velocidad ni la capacidad son satisfactorias. Especialmente la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Mi Macbook Pro, mi portátil principal y hasta ahora máquina de trabajo, venía de fábrica con un disco duro de 160GB y 5200 rpm de velocidad de rotación de la marca Fujitsu. Hace dos años y medio cuando me lo compré, estaba bien. Pero ahora ni la velocidad ni la capacidad son satisfactorias. Especialmente la velocidad. En dos años y medio no he reinstalado la máquina ni una vez. Actualicé de Leopard a Snow Leopard y gracias. Se ve que, con tanto instalar y desinstalar programas, y con la fragmentación del disco propia del uso, era demasiado para el S.O. La máquina iba un poco lenta. Muy estable, eso sí, sin cuelgues ni pérdidas extrañas de rendimiento. Pero lenta.</p>
+<p style="text-align: justify;">La solución: ampliar la memoria. Espera, que el portátil ya tiene 4 GB de RAM, y además el problema no está en la falta de memoria. Y me parece que estábamos hablando de discos duros. Cierto, bueno, pues la <em>otra</em> ampliación que se puede hacer a un portátil fácilmente (sin soldar) es cambiar el HD. Ya he comentado que <a href="/2010/09/17/shopping-spree/">me he lanzado a comprarlo</a>. Instalarlo me ha dado algún problema (torpe que es uno), pero he seguido <a href="http://www.youtube.com/watch?v=K9r1UAVq9AU">este vídeo</a> y al final se ha conseguido.</p>
+<h1>El resultado</h1>
+<p style="text-align: justify;">El Scorpio Black duplica en espacio al anterior Fujitsu que tenía instalado. Luego en este apartado hay poco más que comentar. Con el nuevo iMac como máquina principal, no creo tampoco que lo llene, pero si tengo un viaje de trabajo nunca vienen de más unos gigas para guardar alguna peliculita y la máquina virtual de rigor.</p>
+<p style="text-align: justify;">Es en velocidad del disco (y por tanto de operación en general de la máquina) donde se nota la mejora. Y vaya si se nota. He usado XBench para realizar un benchmark del equipo, antes y después.</p>
+<p style="text-align: justify;">Antes de hacer nada, con el disco Fujitsu 5200 rpm y Snow Leopard instalado sobre Leopard, con dos años y medio de maltrato encima los número eran los siguientes (click para verlo más grande):</p>
+<p style="text-align: justify;">
+<div id="attachment_1100" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/antes.png"><img class="size-medium wp-image-1100" title="Resultados con el disco original" src="/wp-content/uploads/2010/09/antes-300x94.png" alt="" width="300" height="94" srcset="/wp-content/uploads/2010/09/antes-300x94.png 300w, /wp-content/uploads/2010/09/antes.png 671w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Resultados con el disco original</p></div>
+<p>Después de instalar el nuevo disco, con un Snow Leopard limpio y con las aplicaciones instaladas desde cero, sin importar preferencias de ningún sitio, el resultado es (click para verlo más grande):</p>
+<div id="attachment_1097" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/despues.png"><img class="size-medium wp-image-1097" title="Resultados XBench tras instalar nuevo disco" src="/wp-content/uploads/2010/09/despues-300x86.png" alt="" width="300" height="86" srcset="/wp-content/uploads/2010/09/despues-300x86.png 300w, /wp-content/uploads/2010/09/despues.png 707w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Resultados XBench tras instalar nuevo disco</p></div>
+<p>La mejora global del benchmark es enorme, pero si vemos los números de acceso a disco, veremos que hay una mejora de más del 100%: el acceso a disco es casi el doble de rápido.</p>
+<p>Acceso a disco antes (click para verlo más grande):</p>
+<div id="attachment_1101" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/disco-antes.png"><img class="size-medium wp-image-1101" title="Datos benchmark disco antes" src="/wp-content/uploads/2010/09/disco-antes-300x145.png" alt="" width="300" height="145" srcset="/wp-content/uploads/2010/09/disco-antes-300x145.png 300w, /wp-content/uploads/2010/09/disco-antes.png 677w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Datos benchmark disco antes</p></div>
+<p>y después (click para verlo más grande):</p>
+<div id="attachment_1102" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/disco-despues.png"><img class="size-medium wp-image-1102 " title="Datos benchmark disco después" src="/wp-content/uploads/2010/09/disco-despues-300x143.png" alt="" width="300" height="143" srcset="/wp-content/uploads/2010/09/disco-despues-300x143.png 300w, /wp-content/uploads/2010/09/disco-despues.png 678w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Datos benchmark disco después</p></div>
+<p>La máquina arranca más rápido. Lanza las aplicaciones más rápido. Todo lo que tenga que usar disco va mejor.</p>
+<p style="text-align: justify;">¿Problemas? De momento, ninguno. Ni se calienta más, ni hace más ruido (en completo silencio, en plena noche, puedes llegar a oír el disco, pero nada más), ni vibra, ni nada. Como una seda.</p>
+<p style="text-align: justify;">Y por el precio que tiene, es para no pensárselo. Además, me lo compré junto con una caja externa USB para discos SATA2 2,5&#8243;, donde he puesto el disco antiguo. Puedo hasta arrancar con el sistema antiguo (cosa que ya he tenido que hacer, para exportar mi firma digital de la fnmt que se me olvidó) e ir pasando los datos poco a poco. Pues eso, que tengo portátil nuevo.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/22/mi-macbookpro-con-un-nuevo-disco-duro-wd-scorpio-black/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Shopping Spree</title>
+		<link>/2010/09/17/shopping-spree/</link>
+		<comments>/2010/09/17/shopping-spree/#comments</comments>
+		<pubDate>Fri, 17 Sep 2010 18:56:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Trasteando]]></category>
+
+		<guid isPermaLink="false">/?p=1083</guid>
+		<description><![CDATA[Una orgía de compras. Quemar la Visa, como dirían los castizos. Así ha empezado Septiembre. Qué me he comprado. De más a menos: Un iMac 27&#8243; Core i7 quad, con 4 GB RAM, 1 TB HD, 512 MB de gráfica, etc. Es un equipo refurbished, de los que vende Apple tras repararlos, o quedárseles obsoletos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Una <em>orgía</em> de compras. <em>Quemar la Visa</em>, como dirían los castizos. Así ha empezado Septiembre. Qué me he comprado. De más a menos:</p>
+<ul>
+<li style="text-align: justify;">Un iMac 27&#8243; Core i7 quad, con 4 GB RAM, 1 TB HD, 512 MB de gráfica, etc. Es un equipo refurbished, de los que vende Apple tras repararlos, o quedárseles obsoletos en los almacenes. Es como comprar un coche kilómetro 0: pagas menos y el coche tiene la misma calidad. Más que nada porque lo he comprado con Apple Care. Durante 3 años, si me da la lata, llamadita y se devuelve.</li>
+<li style="text-align: justify;">Un disco duro nuevo para mi portátil MacBook Pro, y una caja USB externa para el que sobra. Concretamente un WD Scorpio Black, 7200 rpm y 320 GB de espacio. Va como un tiro. Ha sido cambiar el HD Fujitsu que traía la máquina de fábrica, instalar Snow Leopard, y es como tener un ordenador nuevo. Ahora sí que se nota la velocidad en todo con este equipo. Tanto, que casi me arrepiento de haber pedido el iMac. Casi, pero no lo suficiente&#8230;</li>
+<li style="text-align: justify;">Y un adaptador PCMCIA-Compact Flash y un adaptador de HD IDE 2.5&#8243; a dos compact flash. Ambos para mis Commodore Amiga. Me explico. El Amiga 600 puede intercambiar ficheros con los otros Amiga (y con mis otros ordenadores) a base de disquettes de 3.5&#8243; de baja densidad. Pero es un rollo para trasladar cierta cantidad de información. Es mejor usar el adaptador, meterle una CF de, por ejemplo 2 GB (el <em>infinito</em> si hablamos de un Amiga) y copiar a velocidad de vértigo, sin problemas mecánicos ni discos estropeados. Y el adaptador para dos CF es aún mejor. Con el se puede sustituir el HD de cualquier Amiga (600/1200) por un SSD casero. Le pones dos CF de 2GB por cabeza y listo: un HD enorme, que apenas consume electricidad, rapidísimo y que no hace ruido. ¿Se puede pedir más? Sí, ponerme a jugar al Colonization en el Amiga <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+</ul>
+<p>Algunas fotos de los chismes comprados. Pronto, un post sobre el incremento de rendimiento de mi MBP y otro sobre el Core i7.</p>
+<div id="attachment_1087" style="width: 234px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC006341.jpg"><img class="size-medium wp-image-1087" title="Adaptador PCMCIA/CF e IDE/PCMCIA" src="/wp-content/uploads/2010/09/DSC006341-224x300.jpg" alt="" width="224" height="300" srcset="/wp-content/uploads/2010/09/DSC006341-224x300.jpg 224w, /wp-content/uploads/2010/09/DSC006341-767x1024.jpg 767w, /wp-content/uploads/2010/09/DSC006341.jpg 800w" sizes="(max-width: 224px) 100vw, 224px" /></a><p class="wp-caption-text">Adaptador PCMCIA/CF e IDE/PCMCIA</p></div>
+<div id="attachment_1088" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC00630.jpg"><img class="size-medium wp-image-1088" title="Adaptador para 2 CF" src="/wp-content/uploads/2010/09/DSC00630-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2010/09/DSC00630-300x225.jpg 300w, /wp-content/uploads/2010/09/DSC00630.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Adaptador para 2 CF</p></div>
+<div id="attachment_1089" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC00628.jpg"><img class="size-medium wp-image-1089" title="El HD antiguo de mi MBP" src="/wp-content/uploads/2010/09/DSC00628-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2010/09/DSC00628-300x225.jpg 300w, /wp-content/uploads/2010/09/DSC00628.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">El HD antiguo de mi MBP</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/17/shopping-spree/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Ubuntu Netbook Remix 9.10 corriendo en mi Asus EEE 904 HD</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/</link>
+		<comments>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/#comments</comments>
+		<pubDate>Tue, 30 Mar 2010 08:58:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=954</guid>
+		<description><![CDATA[Hace un tiempo ya que tengo este netbook. Bueno, hablando con propiedad lo tiene mi mujer, que es a quien se lo regalaron. Pero el usuario fundamental he sido yo todo este tiempo. Tuvo su momento de gloria en las pasadas vacaciones de verano, cuando lo utilicé como reproductor multimedia portátil. En el hotel, las [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_960" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-960" title="escribiendo" src="/wp-content/uploads/2010/03/escribiendo.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/escribiendo.png 640w, /wp-content/uploads/2010/03/escribiendo-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Me gusta editar en GEdit con un fondo oscuro. Me recuerda a WriteRoom, del Mac.</p></div>
+<p style="text-align: justify;">Hace un tiempo ya que tengo este netbook. Bueno, hablando con propiedad lo tiene mi mujer, que es a quien se lo regalaron. Pero el usuario fundamental he sido yo todo este tiempo. Tuvo su momento de gloria en las pasadas vacaciones de verano, cuando lo utilicé como reproductor multimedia portátil. En el hotel, las películas para niños amansaban a las fieras cuando queríamos descansar. Luego me ha acompañado en el hospital, que en los últimos doce meses he tenido que pisar como acompañante más veces de las que quisiera.</p>
+<p style="text-align: justify;">Después de aquello, ha dormido el sueño de los justos en su maletín. A veces lo sacaba y lo usaba, pero XP no es el S.O. <a href="http://es.wikipedia.org/wiki/Vintage_(término)">vintage</a> que más me gusta. Puestos a usar algo antiguo, me gusta más el <a href="/retrocomputing/">Amiga</a>. Bueno, tanto me gusta, que le he instalado al XP el emulador de Amiga UAE para jugar al Colonization, pero eso es frikada para otro post.</p>
+<p style="text-align: justify;">En Noviembre del año pasado intenté instalarle una distro de Mac OS X para hacer un hackintosh. Cogí una grabadora de DVD externa, con conexión USB prestada en Isotrol y lo instalé. Fallé estrepitosamente, sobre todo porque no había contado con la información de <a href="http://mymacnetbook.com/compatibility-chart/">esta lista</a>: el 904 HD no soporta Mac OS X, como yo comprobé en mis carnes.</p>
+<p style="text-align: justify;">Bueno, pues hace un mes pensé que le había llegado su hora. Estaba harto de ver el Chameleon instalado pero que sólo estuviera operativo el XP. Como venía particionado de serie con XP y una partición para datos, había aprovechado esa partición para el Mac OS X. Ahora quería probar con Windows 7. Tuve que pedir una unidad de CD externa y preparé el DVD de Windows 7 Professional para instalar. ¿Alguien ve el error?. Yo no lo vi hasta que intenté, como <em>quince veces</em>, arrancar el Asus desde DVD en una unidad de CD. ¡Hacía ruidos raros!. ¿Estará mal grabado?. ¡Ejem!, vaya, si es una unidad de CDs <em>que no soporta DVDs</em>, bueno&#8230; Finalmente conseguí grabar la ISO de Win 7 en un pendrive de 4 GB siguiendo <a href="http://www.intowindows.com/how-to-install-windows-7vista-from-usb-drive-detailed-100-working-guide/">estas instrucciones</a> (que sí funcionan) y la instalación fue como la seda. Y rápido: no es lo mismo leer de un medio óptico que de un pendrive. Es mucho más rápido.</p>
+<p style="text-align: justify;">Mis pruebas con Windows 7 no fueron satisfactorias. Se movía muy lento y no respondía como esperaba. Tras probar Windows 7 ultimate en mi <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">Dell Vostro 1510</a>, tenía unas expectativas muy altas con respecto a Win 7. Que, por cierto, me parece una excelente versión del S.O. de Redmond. Me sorprende que acalorados defensores de Windows sigan con esa antigualla de XP, pero, ya se sabe: malo conocido&#8230; El caso es que Windows 7 Professional + Asus EEE 904 HD = <strong>Epic Fail</strong>. Quizá tendría que haberle instalado la versión Starter, que se supone que es para Netbooks.</p>
+<p style="text-align: justify;">Y así estaba, con el «corazón partío», cuando me acordé de lo bien que va la última <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">Ubuntu 9.10 en mi otro Dell</a>, el Inspiron 9400. Así que me descargué la <a href="http://www.canonical.com/projects/ubuntu/unr">Netbook Remix</a>, la grabé igualmente en un pendrive, y la instalé en un plis plas.</p>
+<h2>¿Primera impresión?: impresionante</h2>
+<p style="text-align: justify;">El hardware, reconocido al 100%. No sólo tenía acceso a la partición XP (que, por cierto, había sobrevivido a toda esta <em>orgía</em> de instalaciones en la primera mitad del disco duro, más por suerte que por pericia propia), sino que funcionaban el sonido, la WiFi, la red cableada, los botones hardware, &#8230; Incluso el lector de tarjetas SD que tiene incorporado funcionaba a las mil maravillas. Y el trackpad, con soporte de <a href="http://www.apple.com/es/macbookpro/overlays/trackpad-video.html#trackpad">scroll apoyando dos dedos</a>, ¡como en mi MacBook Pro!. Y, lo mejor de todo: ¡al cerrar la tapa se suspendía sin problemas!, y al abrirla ¡volvía de la suspensión!. ¡Al fin!. Me he habituado a las suspensiones debido a lo bien que funcionan en los Mac, y en Linux, entre ACPI y las otras APIs de gestión de energía nunca me llegaba a funcionar. Ahora, el hard funciona perfectamente con el soft de Ubuntu, sin pelearte con la máquina y así da gusto.</p>
+<p style="text-align: justify;">Respecto al software, lo primero que me llamó la atención fue el Escritorio, con un menú desde el que se pueden lanzar de forma sencilla las aplicaciones. Realmente no hay <em>escritorio</em>, hay un súper-menú lanzador de cosas. Mejor, así no podemos llenar de basura el fondo que pongamos de pantalla.</p>
+<p style="text-align: justify;">
+<div id="attachment_959" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-959" title="apps-netbook" src="/wp-content/uploads/2010/03/apps-netbook.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/apps-netbook.png 640w, /wp-content/uploads/2010/03/apps-netbook-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Aplicaciones del UNR</p></div>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Los programas que vienen preinstalados son los que se encuentran en cualquier Ubuntu, pero nos han ahorrado el sufrimiento de buscarlos. Tenemos Firefox, OpenOffice.org, en fin, lo típico en una Ubuntu. Y, si queremos cualquier otra cosa, basta con abrir Synaptic y listo. Un detalle simpático ha sido descubrir Cheese, una aplicación calcada de PhotoBooth de Mac OS X. Copiar las buenas ideas no es mala idea.</p>
+<p style="text-align: justify;">Yo particularmente manejo esta máquina casi en exclusiva con <a href="http://do.davebsd.com/">Gnome-Do</a>, el lanzador de aplicaciones «a-la-quicksilver» que aumenta la productividad por 1000 en un entorno GNome. Además, el teclado siempre es más rápido que el ratón, y mucho más en este equipo, en el que cambiar de teclado a touchpad es un poco doloroso. A medida que se abren aplicaciones se van añadiendo sus iconos en el panel superior, en la parte izquierda. Para cambiar de aplicación puedes hacer click en su icono o (mucho más rápido) cambiar con Alt-Tab.</p>
+<p>La vida de la batería no es espectacular, pero sí permite unas dos h y media de trabajo continuo. Con el tamaño del equipo, lo uso como lector de eBooks cuando estoy en el sofá (todavía no hay iPad, habrá que esperar).</p>
+<h2>Aplicaciones imprescindibles que le he instalado</h2>
+<ul>
+<li style="text-align: justify;">el salvapantallas de Matrix <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>VLC, mi reproductor multimedia de cabecera. Lo uso en Mac, Linux, Windows, &#8230; y porque no lo hay para la lavadora.</li>
+<li>Dropbox. Ubícuo en mis máquinas. La mejor forma de intercambiar archivos, encima funciona en Mac, Linux, Windows, &#8230;</li>
+<li>Opera. Firefox es muy bueno, y con sus extensiones y plugins es una navaja suiza. Pero Opera se abre y navega ultrarápido. Y para un Netbook es lo suyo.</li>
+<li>Skype. Vital para las llamadas de VoIP. Y funciona a la primera, como el resto</li>
+</ul>
+<h2>Veredicto</h2>
+<p style="text-align: justify;">Si tienes un EEE 904 HD y estás un poco harto de XP, probar esta distro es muy recomendable. Yo es la única que utilizo ahora, y me estoy planteando si no borrar el XP. No lo borraré, porque quiero disponer de un IE por si las moscas, máquinas virtuales aparte.</p>
+<p style="text-align: justify;">
+<div id="attachment_961" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-961" title="preferencias" src="/wp-content/uploads/2010/03/preferencias1.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/preferencias1.png 640w, /wp-content/uploads/2010/03/preferencias1-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Menú de preferencias del Sistema</p></div>
+<p style="text-align: justify;">Repasando mis últimos posts, <a href="/2009/10/27/libre-no-es-una-caracteristica-gratis-si/">bastante negativos contra el sector Talibán del Software Libre</a> me alegra poder recomendar un Linux que simplemente funciona. Y muy bien, por cierto. Y no porque sea Libre (el XP que venía con la máquina no funciona mal y no me he podido escapar de esa licencia) sino porque este producto funciona mejor. Seguid así, Ubunteros.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

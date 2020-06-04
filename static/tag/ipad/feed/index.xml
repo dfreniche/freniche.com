@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iPad &#8211; freniche.com</title>
+	<atom:link href="/tag/ipad/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi nuevo ordenador es un iPad</title>
+		<link>/2018/12/29/mi-nuevo-ordenador-es-un-ipad/</link>
+		<pubDate>Sat, 29 Dec 2018 13:11:07 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[iPad]]></category>
+
+		<guid isPermaLink="false">/?p=2794</guid>
+		<description><![CDATA[Escribo esto en mi «poor man´s iPad Pro». Es un iPad normal, modelo 2018, color Space Gray. Eso sí, con 128 GB de almacenamiento interno, porque la nube no siempre está disponible. Prefiero controlar mi almacenamiento. Cosas de abuelete. Es un «iPad Pro para pobres» porque me he comprado el Apple Pencil (1ª generación, que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Escribo esto en mi «poor man´s iPad Pro». Es un iPad normal, modelo 2018, color Space Gray. Eso sí, con 128 GB de almacenamiento interno, porque <em>la nube</em> no siempre está disponible. Prefiero controlar mi almacenamiento. Cosas de abuelete. Es un «iPad Pro para pobres» porque me he comprado el Apple Pencil (1ª generación, que es el que soporta este iPad), y un teclado/funda de Logitech. Y, la verdad, el <em>combo</em> me está encantando.</p>
+<p><img src="/wp-content/uploads/img_0502.jpg" class="aligncenter size-medium wp-image-2799" width="4032" height="3024" alt="Mi nuevo iPad" srcset="/wp-content/uploads/img_0502.jpg 4032w, /wp-content/uploads/img_0502-300x225.jpg 300w, /wp-content/uploads/img_0502-768x576.jpg 768w, /wp-content/uploads/img_0502-1024x768.jpg 1024w, /wp-content/uploads/img_0502-920x690.jpg 920w" sizes="(max-width: 4032px) 100vw, 4032px" /></p>
+<p>En casa siempre hemos tenido un iPad. Desde el iPad 1 (que era <em>oficialmente</em> de mi mujer). Mi primer iPad fue un iPad 3, el primero con pantalla retina. Lo compré para leer libros y comics, entre otras cosas. Pero la verdad es que mi relación con el iPad siempre ha sido de indiferencia/aburrimiento total. No se por qué, pero no era capaz de encajarlo en mi flujo de trabajo habitual. Como muchos informáticos, veía la potencia del hardware del iPad desaprovechada por su software. ¿De qué me sirve tener un procesador y GPU tan potente, o esos resultados en benchmarks, si luego no puedo ejecutar un simple emulador o un entorno de desarrollo en el iPad? Así que siempre volvía al portátil, que para eso tiene teclado y <em>es un ordenador de verdad</em>. El iPad, para que los niños jueguen al Minecraft.</p>
+<p>A todo esto siempre han ayudado dos cosas. La primera, que soy un abuelete y prefiero un ordenador en el que pueda <em>trastear</em> por encima de todas las cosas. La segunda, que cuando antes trabajaba usaba mi portátil, por supuesto siempre sincronizado con mi Hackintosh y mi iMac usando <a href="https://syncthing.net/" target="_blank" rel="noopener">Syncthing</a>, Al tener en el ordenador las cosas de trabajo y mis cosas personales <em>mezcladas</em>, era sencillo echarle un ojo al correo o mirar esto o aquello en un momento. La frontera entre trabajo y usar mi ordenador para cosas personales era complicada. Siempre estaba <em>usando el ordenador</em>. Para algo.</p>
+<p>Pero todo esto ha cambiado en 2018. El iMac está fuera de servicio actualmente (tarjeta gráfica <em>kaput</em>). Empecé a trabajar en Teamwork.com (la mejor compañía del mundo, en la que estoy súper contento, por cierto, <a href="https://careers.teamwork.com/jobs/" target="_blank" rel="noopener">buscamos gente</a>) y me dieron un MBP para el trabajo. Decidí tener completamente separadas las cosas de trabajo y las personales. No instalar en el portátil de trabajo nada que no fuese <em>de trabajo</em>. Por aquello de separar mentalmente los contextos, algo importante si, como yo, trabajas desde casa. Ahora, abrir el portátil de Teamwork significa «cerebro, vamos a trabajar». cerrarlo significa «esto se acabó, ahora tus cosas». Pero la realidad es que <em>mis cosas</em> no han funcionado este año.</p>
+<p>Sólo el hecho de tener que ir a por el otro portátil, que a veces esté sin batería, subir una mochila, bajar otra&#8230; Me daba una pereza infinita. Y cuando me sentaba frente al Hackintosh lo único que me apetecía era arrancarlo en Windows 10 y jugar. Así que ya no tengo Hackintosh. Resultado: he dejado de escribir en el blog, he reducido mi presencia en redes sociales, no voy a meetups y tengo ahora mismo 178 correos sin leer, mis tareas personales, antes organizadas en Things son ahora un desastre&#8230; Incluso importar fotos, organizar mi música se ha convertido en un problema. Todo, porque hay que <em>ir a por el ordenador</em>. El ordenador me impide hacer cosas.</p>
+<p>Así que me he comprado este iPad. Le tenía ganas al Pencil. Siempre me ha gustado dibujar, pero volvemos a lo mismo: ir a por los lápices, libreta, etc. me suponía una barrera. Y también me frenaba mucho una estupidez mental muy mía: dibujar mal y ¡oh, no!, no poder corregirlo, emborronar el papel&#8230; Esto es una tontería, porque lo que yo busco dibujando (como cuando escribo) no es tanto el resultado, sino el placer que me reporta tener el cerebro haciendo sólo una cosa durante un rato. Siempre te gusta dibujar algo bonito, pero lo importante es la práctica, no el resultado (al menos para mí). Obligar al cerebro a hacer sólo una cosa y que el tiempo vuele es el descanso definitivo. Se ve que esto se me había olvidado. El caso es que no dibujaba.</p>
+<p>Con el teclado puedo escribir sin limitaciones. Me gustan los teclados físicos, qué le vamos a hacer. Y con este iPad puedo abrirlo y en segundos estar escribiendo en mi WordPress. Fricción cero. Espero que eso se traduzca en volver a escribir.</p>
+<p>Así que ahora mismo mi ordenador principal para mis cosas privadas es este iPad. Quiero forzarme a que así lo sea. Aunque tenga problemas y me encuentre con ciertas estrecheces al usarlo. Limitaciones casi siempre debidas al software, bien por la calidad de las apps o por las limitaciones que Apple nos impone. Ya, problemas del primer mundo. Pero para bien o para mal son <em>mis</em> problemas.</p>
+<p>Quiero ver si, aún con estas limitaciones, la inmediatez de uso, la menor fricción y la disponibilidad que me da el iPad me ayudan a hacer cosas. Y me quite la manía de <em>tengo que hacer cosas en un ordenador de verdad</em>. De momento, la sensación de liberación es enorme: puedo hacer casi todo lo que hacía con el portátil, excepto programar (ya se, puedo usar Playgrounds o Pythonista, pero para programar sí o sí quiero una consola a mano). Y para programar me estoy planteando una serie de herramientas y workflows que darán para unos cuantos posts. Y puedo hacer otras muchas cosas que en el ordenador no podía hacer o no me apetecía hacer.</p>
+<p>Quién me lo iba a decir&#8230;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mi máquina de escribir minimalista</title>
+		<link>/2013/09/08/mi-maquina-de-escribir-minimalista/</link>
+		<comments>/2013/09/08/mi-maquina-de-escribir-minimalista/#comments</comments>
+		<pubDate>Sun, 08 Sep 2013 09:04:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[filosofía]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[zen]]></category>
+
+		<guid isPermaLink="false">/?p=2011</guid>
+		<description><![CDATA[O gafapasta, que parece que viene a ser lo mismo. Pero no lo es. El gafapastismo es un término que ha venido a sustituir al snob de toda la vida. Es el listo que adopta una estética determinada y habla de unos temas determinados, casi siempre como dándole asco el mundo. Se es gafa pasta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<img src="/wp-content/uploads/2013/09/iPad-keyboard1.jpg" alt="Mi iPad con teclado Logitech" class="size-full wp-image-2052" srcset="/wp-content/uploads/2013/09/iPad-keyboard1.jpg 1024w, /wp-content/uploads/2013/09/iPad-keyboard1-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-keyboard1-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>O <a href="http://www.frikipedia.es/friki/Gafapasta"><em>gafapasta</em></a>, que parece que viene a ser lo mismo. Pero no lo es. El <em>gafapastismo</em> es un término que ha venido a sustituir al <em>snob</em> de toda la vida. Es el <em>listo</em> que adopta una estética determinada y habla de unos temas determinados, casi siempre <em>como dándole asco el mundo</em>. Se es gafa pasta por querer destacar y, como las animadoras de los institutos americanos, por querer ser más popular.</p>
+<p>El movimiento minimalista (o la moda, como prefieras) tiene raíces filosóficas mucho más profundas, basadas en el budismo y, muchas veces, en el budismo Zen. Dado que el sufrimiento lo provoca el deseo, la forma más rápida y efectiva de ser feliz es no sufrir, atacando a la causa (no al síntoma). Si somos infelices, podemos comer de más, o sufrir estrés. Podemos ponernos a dieta, o ir a que nos den un masaje, pero es más efectivo <em>entender</em> qué nos está pasando, por qué no estamos a gusto ahora mismo con nuestra vida y darnos cuenta, muchas veces, que sólo es porque deseamos cosas que no tenemos. Y que no nos hacen falta. Ser más alto, más guapo, tener el último coche o teléfono. Tener cosas no va a tapar el vacío que muchas veces sentimos dentro. Lo único que puede taparlo es conocerlo, comprender que se está creando por el deseo de una fantasía que nosotros imaginamos (que seremos más felices con ese nuevo pantalón o ligaremos más con el desodorante). Y entonces eliminar el deseo y ser felices <em>con lo que ya tenemos</em>.</p>
+<p>Como comenta <a href="http://zenhabits.net/">Leo Babauta</a> (unos de los <em>Gurús</em> en esto del minimalismo) la clave no está tampoco en no tener nada y dar la espalda al mundo. La clave está en tener aquellas cosas que realmente nos sirven, tienen un propósito en nuestra vida y nos hacen felices. Si quieres leer más sobre este tema, te recomiendo <a href="http://zenhabits.net/little-book/">este e-book de Leo Babauta</a> (que encima es gratis)</p>
+<p>El caso es que mi iPad 3 ha encontrado su ocupación definitiva. Aunque lo uso para muchas otras cosas, como ver vídeos en su pantalla retina, vídeos de Youtube, o leer cómics, es como <em>máquina de escribir</em> como realmente lo aprecio. Me encanta sentarme ante una pantalla en blanco, con un cursor parpadeante, y empezar a escribir. Apago las notificaciones y sólo estamos la página en blanco y yo.</p>
+<p>Bueno, e <a href="http://www.iawriter.com/mac/">iA Writer</a>, la App que utilizo para escribir y que <em>adoro</em>. Además de guardar los documentos en local y en Dropbox, de tener una tipografía clara y limpia, de funcionar perfectamente con mi teclado/funda Logitech tiene algo especial: el modo foco. En este modo el texto ocupa toda la pantalla y se resaltan sólo tres líneas, quedando el resto en un gris claro. Esto me permite enfocarme en lo que estoy escribiendo, con cero distracciones.</p>
+<img src="/wp-content/uploads/2013/09/iPad-focus.jpg" alt="iAWriter - modo foco"  class="size-full wp-image-2057" srcset="/wp-content/uploads/2013/09/iPad-focus.jpg 1024w, /wp-content/uploads/2013/09/iPad-focus-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-focus-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Mucho está teniendo que ver con esta <em>adoración</em> la comodidad de llevar un teclado físico junto con el iPad a todas partes. Gracias a un aviso de <a href="http://emilcar.es/">Emilcar</a> por Twitter este verano me compré en Macníficos una funda de aluminio Zagg con teclado Logitech, por un precio de risa, 25 Eur. Sí, es un modelo antiguo, y es cierto que ahora los hay más sencillos, más bonitos, <em>que te harán más feliz</em>. Pero volvemos a lo del minimalismo: este teclado es muy bonito y funciona perfectamente. No necesito comprar el último que ha salido por 80 € si puedo tener este por un tercio del precio. Este ya me hace feliz. Antes usaba uno de mis teclados BT Apple para escribir con el iPad. Pero eran dos cosas <em>sueltas</em> en la mochila. Ahora, una vez cerrado, el iPad queda protegido y forma un conjunto muy sólido y compacto con el teclado. Lo que le añade peso, claro (estamos hablando de otra capa de aluminio), pero algo malo había de tener. El teclado es fantástico para escribir, tiene atajos para copiar, cortar y pegar, para <em>despertar</em> el iPad y se empareja instantáneamente. Te puedes mover por el texto con los cursores. Hasta funcionan los atajos de Safari. Además, dispone de unos imanes para que el iPad se suspenda y despierte al separarlo del teclado.</p>
+<img src="/wp-content/uploads/2013/09/iPad-closed.jpg" alt="iPad cerrado en su funda" class="size-full wp-image-2059" srcset="/wp-content/uploads/2013/09/iPad-closed.jpg 1024w, /wp-content/uploads/2013/09/iPad-closed-300x225.jpg 300w, /wp-content/uploads/2013/09/iPad-closed-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" />
+<p>Esta es mi máquina de escribir <em>portable</em>. Cierto es que un iPad más un teclado cuestan <em>mucho más</em> que una máquina de escribir. Cierto es también que pesan y ocupan mucho menos y me sirven para otra infinidad de cosas. Todos los posts del blog se escriben aquí. Y el resto de cosas que voy escribiendo (desde emails largos hasta material para mis cursos) poco a poco van acabando aquí.</p>
+<p>Una pantalla en blanco y un cursor parpadeando. Me recuerda a mi AMSTRAD CPC después de hacer un CLS. Hay veces que hace falta poco para ser feliz.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/08/mi-maquina-de-escribir-minimalista/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Preparando el MWC 2013: First World Problems</title>
+		<link>/2013/02/19/preparando-el-mwc-2013-first-world-problems/</link>
+		<comments>/2013/02/19/preparando-el-mwc-2013-first-world-problems/#comments</comments>
+		<pubDate>Tue, 19 Feb 2013 08:34:41 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Blackberry]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[Viajes]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+
+		<guid isPermaLink="false">/?p=1888</guid>
+		<description><![CDATA[Hay problemas importantes. Luego están las chorradas. Y por último, en orden de importancia los problemas que nos crea en el primer mundo la «sobreabundancia». Que si estamos muy gordos (porque tenemos para comer en exceso), que si pagamos muchos impuestos al comprar una segunda vivienda (pero ya tenemos más de una), etc. Pese a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hay problemas importantes. Luego están las chorradas. Y por último, en orden de importancia los problemas que nos crea en el primer mundo la «sobreabundancia». Que si estamos muy gordos (porque tenemos para comer en exceso), que si pagamos muchos impuestos al comprar una segunda vivienda (pero ya tenemos más de una), etc. Pese a no ser problemas de vida o muerte, y sabiendo que gran parte de la población mundial nos cambiaría sus problemas, reales y auténticos por los nuestros, no dejan de ser <em>nuestros</em> problemas. Los que nos molestan, nos enojan o nos quitan el sueño.</p>
+<p><a href="http://xaxor.com/funny-pics/funny-more-of-the-first-world-problems.html"><img src="/wp-content/uploads/2013/02/More-of-the-first-world-problems3.jpg" alt="No puede usar su nuevo iPhone 5 en su Audi, así que tiene que aguantarse con su iPhone 4s" title="Problemas del primer mundo" width="500" height="375" class="aligncenter size-full wp-image-1889" /></a></p>
+<p>El caso es que la semana que viene me voy al <a href="http://www.mobileworldcongress.com/">Mobile World Congress 2013</a> que tiene lugar en Barcelona. El año pasado estuve y me lo pasé bien, pese a que llegué enfermo y me tuve que curar una gripe «en pie» para no perderme el espectáculo. Este año, además de pasarlo bien, como ya se <em>de qué va</em> esto del MWC voy a procurar no <em>pagar la novatada</em>. Por ejemplo, este año no voy a estar allí a las 9 de la mañana, que está todo cerrado y te miran como lo que eres: un friki ansioso. Y voy a enfocarme más en las reuniones y en los contactos. <em>Fem negoci</em>, que dicen los locales.</p>
+<p>Y claro, puestos a ir, surge la pregunta de todo <em>geek</em> bien equipado: ¿qué me llevo?. Esta pregunta es el equivalente del «¿Qué me pongo?» de nuestras novias / esposas, pero trasladado a cacharros. Porque, ya que tengo una serie de chismes, quiero aprovecharlos y sacarlos a que <em>les de el aire</em>.</p>
+<p>La primera cuestión es <strong>si llevar el portátil o no</strong>. Y creo que va a ser no. Pese a que me encanta mi MBP 13&#8243;, del que <a href="/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/">ya escribí hace no mucho</a>, no acabo de ver el sentido de llevármelo. Salgo de Sevilla el Lunes a las 8:30 en AVE y llego a BCN a las 14:30. Y dudo que me ponga a programar al llegar. Y una vez te metes en la locura del MWC, no creo que escriba una línea de código. Dentro del recinto, es seguro que no voy a hacer nada de eso. Y fuera, siempre habrá alguna reunión a la que ir, un rato para dormir o comer, o estar con gente. Y el Jueves a las 16:00 me vuelvo. Vamos, que no me lo llevo. Ya escribiré código el Viernes. El problema es que veré a otra gente con sus portátiles y me entrará <em>morriña</em></p>
+<p>Luego viene el asunto de la cámara. Teniendo una flamante Nikon D5100, quiero llevármela. Pero el chisme pesa lo suyo, y no voy como periodista (al final no pude conseguir una entrada de prensa por detalles sin importancia, como el cierre de MacWorld <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ). Así que estoy pensando en usar los móviles / tabletas y una compacta Sony que apenas uso (no la uso porque hace fotos aceptables a la luz del sol, pero en interiores es directamente una basura, la compré con los puntos de la gasolina). Venga, segundo tema liquidado: la compacta y el resto de móviles / tabletas harán de cámaras oficiales.</p>
+<p>Siendo el <em>Mobile</em> World Congress, hay que llevarse móviles y tabletas. En este apartado lo tengo casi claro. El iPhone 3Gs (que hasta ahora está siendo mi móvil principal) se viene conmigo, sin SIM, o con una de repuesto que tengo por ahí. Mi BlackBerry Alpha Device se viene, probablemente con la microSIM que tiene ahora el iPhone. Y la duda es si llevarme o no el Lumia 800, para ir cambiando. El iPad 3 en el que estoy escribiendo ahora mismo esto con iAWriter se viene seguro, junto con un teclado Apple BT inalábrico. Será mi <em>portátil</em> de guardia, en el que leer el correo, consultar Evernote, escribir, subir posts a WordPress. Vamos, que va a llevarse la parte importante de la paliza. Y claro, hablando de tabletas, me llevo también la Nexus 7, mi ojito derecho que me acabo de comprar, por si pruebo cosas de NFC. No me había dado cuenta hasta ahora, pero voy a llevar un dispositivo de cada S.O. principal: iOS, BlanckBerry 10, Windows Phone y Android. <em>Geek Achievement Unlocked</em></p>
+<p>Además de esto me llevaré cargadores y cables varios, algún pendrive por si hay que transferir un fichero en el último momento y creo que nada más. Ya tengo pensada la bolsa que me voy a llevar, una muy ligera que me regaló Migue Terrón y que él define «de los chinos» pero que parece cortada para este evento. O eso, o me llevo una que tengo por ahí de BlackBerry.</p>
+<p>Y ahora paso a preguntar <strong>¿qué te llevarías tú?</strong>. ¿Hago bien dejando el portátil detrás?. ¿Me llevo la cámara? Me gustaría contrastar opiniones en los comentarios.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/19/preparando-el-mwc-2013-first-world-problems/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>El iPhone de mil pulgadas</title>
+		<link>/2012/08/22/el-iphone-de-mil-pulgadas/</link>
+		<comments>/2012/08/22/el-iphone-de-mil-pulgadas/#comments</comments>
+		<pubDate>Wed, 22 Aug 2012 20:01:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[patios de vecinos]]></category>
+		<category><![CDATA[rumors]]></category>
+
+		<guid isPermaLink="false">/?p=1765</guid>
+		<description><![CDATA[Se acerca el lanzamiento de un nuevo iPhone. Lo puedo sentir, en los rumores que los recaudadores de adsense de esa cámara de eco que llamamos Blogosfera propagan copiándose unos a otros, sin demasiado pudor, muchas veces tirando de copy y paste. Eso sí, al final del post copiado ponen, en un tipo de letra [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="/wp-content/uploads/2012/08/magic_ball.jpg"><img class="aligncenter size-full wp-image-1769" title="Magic Ball. Author: http://www.flickr.com/photos/28931095@N03/2699978095/" src="/wp-content/uploads/2012/08/magic_ball.jpg" alt="Magic Ball. Author: http://www.flickr.com/photos/28931095@N03/2699978095/" width="500" height="375" srcset="/wp-content/uploads/2012/08/magic_ball.jpg 500w, /wp-content/uploads/2012/08/magic_ball-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p style="text-align: justify;">Se acerca el lanzamiento de un nuevo iPhone. Lo puedo sentir, en los rumores que los recaudadores de adsense de esa <a href="http://chris.pirillo.com/10-ways-to-eliminate-the-echo-chamber/">cámara de eco</a> que llamamos Blogosfera propagan copiándose unos a otros, sin demasiado pudor, muchas veces tirando de copy y paste. Eso sí, al final del post copiado ponen, en un tipo de letra diminuto, un enlace donde usando la lupa magnificadora podemos leer «fuente».</p>
+<p style="text-align: justify;">Es en estos días previos a los lanzamientos donde se crean nuevos rumores, o se reciclan los viejos. Total, si seguimos probando igual alguna vez acertamos y Apple saca el iPhone de 4&#8243;. Que ahora es «<em>inevitable</em>«. Como lo era reproducir <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Flash</a> o tener almacenamiento externo y batería intercambiable cuando salió el iPhone y el iPad. Echadle un vistazo al <a href="http://www.google.com/nexus/#/7/">Nexus 7</a> de Google y es curioso no escuchar a nadie al borde del suicidio porque la tableta cumpla religiosamente con los cánones de San Steve. Puyas aparte, y dependiendo del precio que tenga cuando se ponga a la venta en España es un dispositivo que me gustaría tener. <a href="/2012/08/20/instalar-android-ice-cream-sandwich-en-la-hp-touchpad/">ICS en una tableta Android es bastante chulo</a>.</p>
+<p style="text-align: justify;">El caso es que hay dos rumores opuestos pululando por ahí. Ambos de «fuentes confiables», como pueden ser mi pescadero o mi cuñada. Ambos opuestos</p>
+<p style="text-align: justify;">Por un lado parece que el iPhone tiene la pantalla demasiado pequeña algo de lo que los millones de clientes de Apple (pobres Fanboys!) aún no se han dado cuenta y necesita desesperadamente tener 4, 4.2 o incluso 5 pulgadas. Por otro, el iPad es <em>insoportablemente</em> grande y pesado, con sus desproporcionadas 9.7&#8243;. Hay que reducirlo por imperativo legal a 7&#8243;.</p>
+<p style="text-align: justify;">Yo no llevo mucho tiempo siguiendo el mundo Apple. Apenas unos 5 años. Pero creo que todos estaremos de acuerdo en que Apple no se distingue por dar muchas opciones. ¿Quieres un iPhone? Lo tienes en blanco o en negro. Y punto. Es famosa la cita de Tim Cook, cuando aún no era CEO de Apple:</p>
+<blockquote><p>We can put all of our products on the table you’re sitting at. Those products together sell $40 billion per year. No other company can make that claim except perhaps an oil company.<br />
+We are the most focused company that I know of, or have read of, or have any knowledge of.<br />
+We say no to good ideas every day; we say no to great ideas; to keep the number of things we focus on small in number.</p></blockquote>
+<p style="text-align: justify;">Todos los iPhones e iPads hasta ahora han tenido los mismos tamaños de pantalla. Pero parece que ahora no va a ser así, dicen los «expertos». Entonces, ¿cómo quedaría la línea de productos de Apple? Actualmente se venden el iPhone 3Gs, el 4 y el 4s. ¿Van a eliminar el 3Gs y el 4 y dejar el 4s y el nuevo «iPhone diseñado para el guante de béisbol»? Si esto es así, ¿el modelo de entrada va a ser el 4s? Si dejan el 4 y el 4s, con una bajada de precios del 4s y con la única mejora previsible de la pantalla «gorda» y quizás nueva GPU y CPU, ¿hay argumentos para comprarse el nuevo?</p>
+<p>Y con el iPad, qué dejan: ¿iPad3 AKA New iPad, iPad2 y el iPad mini? ¿Los tres? El iPad mini este tendría la resolución del iPad 2 para no molestar a los desarrolladores? Parecería lo lógico. Lo que no queda claro es si comprar un iPad de 7&#8243; o un iPhone de 5&#8243;, ya que estarían casi en el mismo rango de tamaños. Y tendríamos 3,5&#8243; y 4.2&#8243; (iPhones) y 7&#8243; y 9,7&#8243; (iPads). Demasiadas opciones. Goto cita Tim Cook.</p>
+<p>De todo esto, sólo le doy pábulo a dos cosas:</p>
+<ul>
+<li>Por un lado, es evidente que Apple va a sacar el iPhone 5, new iPhone o como lo llamen. iOS 6 anda ya por la Beta 4 y entiendo que quieran lanzar el S.O. con un hardware que le haga justicia. He visto modelos de un iPhone más delgado. Misma pantalla. Eso me lo creo. No creo que cambien el tamaño de la pantalla, porque para seguir siendo «retina» tendrían que aumentar el número de pixeles por pulgada. Eso cambiaría la resolución, que ya no sería 960&#215;480 y «mataría» a miles de desarrolladores y diseñadores. Además de algún gatito.</li>
+<li>Un iPad de 7&#8243;, con una resolución igual a la del iPad 2 (1024&#215;768) y a buen precio (unos 299$) plantaría cara al Nexus 7 y daría mucha guerra en el segmento de abajo. Sin afectar a las ventas del New iPad. Si quieres retina y potencia, ráscate el bolsillo.</li>
+</ul>
+<div style="text-align: justify;">Bueno, en un mes o así veremos. Igual me tengo que comer mis palabras. O no. Esta vez, como se equivoquen de nuevo, me parece que me voy a dedicar a crear un portal que se llame: rumoresappletelodije.com, a ver si cuando se hable de las cosas, se hace con algo de criterio.</div>
+<p>Casi a la vez, Migue en Enteratec deja su versión: «<a href="http://enteratec.com/apple/reflexion-sobre-la-nueva-presentacion-de-apple-y-su-nuevo-iphone-nadie-tiene-ni-puta-idea/">Reflexión sobre la nueva presentación de Apple y su nuevo iPhone. Nadie tiene ni puta idea.</a>«. Más claro&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/22/el-iphone-de-mil-pulgadas/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Mi primera aplicación para iPad</title>
+		<link>/2011/06/19/mi-primera-aplicacion-para-ipad/</link>
+		<comments>/2011/06/19/mi-primera-aplicacion-para-ipad/#comments</comments>
+		<pubDate>Sun, 19 Jun 2011 11:41:53 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Freelance]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=1532</guid>
+		<description><![CDATA[He terminado y entregado mi primera App para iPad. Ha sido un encargo, muy especial, para crear un cartel interactivo dentro de un museo. Así que no la busques en la App Store, porque no va a aparecer. La App está dedicada a narrar los sucesos que llevaron hasta la primera Constitución democrática de España, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">He terminado y entregado mi primera App para iPad. Ha sido un encargo, muy especial, para crear un cartel interactivo dentro de un museo. Así que no la busques en la App Store, porque no va a aparecer. La App está dedicada a narrar los sucesos que llevaron hasta la primera Constitución democrática de España, «La Pepa», proclamada en 1812. Es visualmente muy sencilla (debía ser «minimalista») y muy fácil de usar: se desplazan los sucesos con un «swipe» o bien se avanza por un «cover flow» en la parte inferior.</p>
+<div id="attachment_1533" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/timeline1.png"><img class="size-full wp-image-1533" title="Mi App para iPad en funcionamiento" src="/wp-content/uploads/2011/06/timeline1.png" alt="Mi App para iPad en funcionamiento" width="800" height="600" srcset="/wp-content/uploads/2011/06/timeline1.png 800w, /wp-content/uploads/2011/06/timeline1-300x225.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Mi App para iPad en funcionamiento</p></div>
+<p>Con esta App he aprendido muchas cosas:</p>
+<ul>
+<li>cómo desarrollar pensando en la resolución del iPad</li>
+<li>cómo hacer pruebas con el iPad de mi mujer cuando ella no lo está usando</li>
+<li>cómo usar a fondo UIScrollView</li>
+<li>cómo encontrar trozos de código en Internet que me resuelvan problemas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>cómo distribuir una App de forma sencilla para que el cliente la pruebe sin tener que ir yo a instalarla en sus dispositivos (gracias @xelecto por enseñarme <a href="http://www.hanchorllc.com/category/ios-betabuilder/">BetaBuilder</a>)</li>
+<li>a hacer un MVC del que me sienta contento</li>
+<li>a comenzar un proyecto pensando en cómo voy a reutilizar el código</li>
+<li>que el iPad no tiene motor de vibración <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>que desarrollar para un estudio de diseñadores te abre los ojos sobre muchos aspectos de diseño, pero también a ratos te hace odiar a la raza humana.</li>
+</ul>
+<div id="attachment_1534" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/timeline2.png"><img class="size-full wp-image-1534" title="Cambiando de evento" src="/wp-content/uploads/2011/06/timeline2.png" alt="Cambiando de evento" width="800" height="600" srcset="/wp-content/uploads/2011/06/timeline2.png 800w, /wp-content/uploads/2011/06/timeline2-300x225.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Cambiando de evento</p></div>
+<p style="text-align: justify;">Increíblemente he cumplido «casi» perfectamente en tiempo, pese a estar con mil cosas a la vez. Y me he vendido muy barato, debo decirlo, porque el proyecto me atraía mucho.</p>
+<p>Tengo ahora una buena base para plantearme una App que cuente cuentos, o explique cosas (al estilo de aquellos estupendos libros de «Cómo funcionan las cosas»).</p>
+<p style="text-align: justify;">Así que ya sabes: si tienes una App interesante para desarrollar, dinero en el bolsillo y las ideas claras, siempre puedes <a href="/contactar/">contactar</a> conmigo para contratarme como desarrollador Freelance. O directamente puedes donarme el dinero y ya yo voy haciendo algo «magical» <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div id="attachment_1535" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/timeline3.png"><img class="size-full wp-image-1535" title="Batalla de Trafalgar" src="/wp-content/uploads/2011/06/timeline3.png" alt="Batalla de Trafalgar" width="800" height="600" srcset="/wp-content/uploads/2011/06/timeline3.png 800w, /wp-content/uploads/2011/06/timeline3-300x225.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Batalla de Trafalgar</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/19/mi-primera-aplicacion-para-ipad/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>El pertinaz iPad (o iPhone) killer</title>
+		<link>/2011/04/20/el-pertinaz-ipad-o-iphone-killer/</link>
+		<comments>/2011/04/20/el-pertinaz-ipad-o-iphone-killer/#comments</comments>
+		<pubDate>Wed, 20 Apr 2011 09:00:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[Tablets]]></category>
+
+		<guid isPermaLink="false">/?p=1489</guid>
+		<description><![CDATA[pertinaz. (Del lat. pertinax, -acis). adj. Obstinado, terco o muy tenaz en su dictamen o resolución. adj. Muy duradero o persistente. Enfermedad pertinaz. Sea el iPad, el iPhone o lo que sea de Apple, últimamente la blogosfera tecnológica me parece la sección de necrológicas del periódico. Sólo les falta empezar con aquello de «La familia [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote><p><a href="http://buscon.rae.es/draeI/SrvltConsulta?LEMA=pertinaz">pertinaz</a>.</p>
+<p>(Del lat. pertinax, -acis).</p>
+<ol>
+<li>adj. Obstinado, terco o muy tenaz en su dictamen o resolución.</li>
+<li>adj. Muy duradero o persistente. Enfermedad pertinaz.</li>
+</ol>
+</blockquote>
+<p style="text-align: justify;">Sea el iPad, el iPhone o lo que sea de Apple, últimamente la blogosfera tecnológica me parece la sección de necrológicas del periódico. Sólo les falta empezar con aquello de «La familia y amigos de Steve piden un ruego por el alma de esta pobre tablet&#8230;» cada vez que otro fabricante anuncia que <em>va a publicar las especificaciones futuras de algo que a lo mejor a finales de año empiezan a fabricar</em>.</p>
+<p style="text-align: justify;">Porque es así de esperpéntico. Imaginemos esto en otra industria, por ejemplo la del automóvil. ¿Alguien se imagina cómo caerían las acciones de Renault si se descolgaran diciendo que van a fabricar un coche que va a ser el Ferrari-killer, sin mostrarlo?. Porque al menos en este sector, en las ferias, te enseñan un prototipo, en un stand dando vueltas y rodeado de niñas monas que no se qué hacen ahí, porque ni te explican cómo funciona el coche ni nada. Es decir, no se atreven a hacer anuncios de humo y esperan a tener algo más o menos tangible. No acabado, prototipos, pero algo.</p>
+<p style="text-align: justify;">En el sector del software / hardware, como es <em>virtual</em> (o eso se piensa más de uno al que la corbata le constriñe el riego del tronco cerebral) se puede anunciar cualquier parida y salir ante la prensa con un PowerPoint, dos papelitos y un PNG pasado por PhotoShop y listo. Y esto no sería demasiado grave, si no estuviera ahí el coro de palmeros blogueros. Porque empresas moribundas como Nokia o RIP (digoooo, RIM) pueden hacer todas las tonterías que quieran. Pero al que escribe su opinión desde su independencia se le debe exigir un mínimo criterio.</p>
+<p style="text-align: justify;">Pero claro, esto de los blogs se ha convertido en un negocio (para algunos, yo soy demasiado torpe para ni siquiera pagar el alojamiento de esto, que a fin de cuentas es mi página personal). Y ves comparativas del iPad2 y el Motorola Xoom junto con los modelos que los fabricantes dicen que van a sacar, que sí que sí, que verdad de la buena, para el Verano, o luego, o ya veremos, que te haremos una actualización OTA, y si no me tocas lo que rima&#8230; Entiendo que los grandes blogs viven de las visitas a sus sitios y de la publicidad, y que si pones dos semanas seguidas: «Últimas noticias en la guerra de las tablets: no hay guerra, el iPad sigue machacando a sus no-competidores, porque ni se ven» la gente deja de acudir porque total, para que me cuentes lo mismo semana tras semana&#8230;</p>
+<p style="text-align: justify;">Y nada crea más expectación que una buena pelea, aunque en realidad esa pelea no exista, porque de momento es uno pegando y los demás recibiendo. Y se inventan que si han visto el iPhone blanco, el de colores, te hablan de los rumores de lo que traerá, comparan cosas con precio y duración de la batería con papeles, etc. Pues eso no son «noticias tecnológicas». Es basura. Es el equivalente a los programas de chismorreo de los famosos, llevado a las máquinas. Son el Hola del periodismo tecnológico. Ni aprendes, ni ves nada tangible. Sólo noticias sacadas apresuradamente repitiendo como papagayos lo que las relaciones públicas de los fabricantes les pasan en las ferias (donde por cierto les pagan los viajes, comidas, etc.) o traduciendo rumores del Inglés al Español.</p>
+<p style="text-align: justify;">¿Qué me gustaría a mí, que me creo tan listo para criticar al resto? Dos cosas:</p>
+<ul>
+<li>menos prisa por escribir chorradas y más profundidad en los análisis. No hay que ser el primero en la fiesta, sino el mejor, que decía el tito Steve.</li>
+<li>una competencia seria y creíble al iPad. La competencia nos hará más fuertes, es lo que siempre digo. Hará un mejor iPad para los que queramos usarlo y mejores productos para los que no. La situación actual de monopolio de facto de Apple no es buena para nadie, ni siquiera para Apple, que aunque gane pasta a camiones se acaba relajando y, por ejemplo, nos mantiene el sistema de notificaciones de iOS, que está claramente diseñado por un <em>retard</em>.</li>
+</ul>
+<pre>&lt;/rant&gt;</pre>
+<pre>&lt;feed-the-troll-in-the-comments-section&gt;</pre>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/20/el-pertinaz-ipad-o-iphone-killer/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Revisando las profecías sobre el Tablet de Apple</title>
+		<link>/2010/01/28/revisando-las-profecias-sobre-el-tablet-de-apple/</link>
+		<pubDate>Thu, 28 Jan 2010 10:51:57 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Productos]]></category>
+
+		<guid isPermaLink="false">/?p=580</guid>
+		<description><![CDATA[Hace unos días, me aventuré a pronosticar cómo veía yo el nuevo tablet de Apple, el iPad. Y decía: Yo lo veo, como la pantalla del MabBook Air, evidentemente sin teclado, y de 10? (que según dicen los rumores es el tamaño que va a tener). Sin botones fisicos, al estilo del iPhone: uno para [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hace unos días, <a href="/2010/01/15/el-tablet-de-apple-va-a-triunfar-donde-otros-fracasaron/">me aventuré a pronosticar cómo veía yo el nuevo tablet de Apple</a>, el <a href="http://www.apple.com/ipad/">iPad</a>. Y decía:</p>
+<blockquote><p>Yo lo veo, como la pantalla del MabBook Air, evidentemente sin teclado, y de 10? (que según dicen los rumores es el tamaño que va a tener). Sin botones fisicos, al estilo del iPhone: uno para sacarlo del reposo, otro para el volumen, una entrada para auriculares, etc. Y muy fino. Aunque el S.O. que lleven permita ejecutar aplicaciones del iPhone de forma directa (lo que le daría de saque acceso a un catálogo enorme de programas de todo tipo), creo que no va a ser una copia aumentada del iPhone OS, sino algo distinto, que no alcanzo a pronosticar. Aunque el tamaño de pantalla de 10,1? que se rumorea se parece de forma curiosa a la superficie de 9 iPhones, colocados en un cuadrado de 3×3. Teniendo una pantalla que sea un múltiplo sencillo de la pantalla del iPhone, la emulación de las aplicaciones sería directa.</p></blockquote>
+<p>Después de ver el chisme, parece que no me he equivocado mucho. Voy a echar el CV en alguna consultora, a ver si cuela.</p>
+<p><a href="/wp-content/uploads/2010/01/best_experience_20100127.png"><img class="aligncenter size-full wp-image-581" title="Apple iPad" src="/wp-content/uploads/2010/01/best_experience_20100127.png" alt="Apple iPad" width="326" height="202" srcset="/wp-content/uploads/2010/01/best_experience_20100127.png 326w, /wp-content/uploads/2010/01/best_experience_20100127-300x185.png 300w" sizes="(max-width: 326px) 100vw, 326px" /></a></p>
+<p style="text-align: justify;">Y ahora viene toda la corte de agoreros (sean maqueros o no), diciendo que <em>si no era eso lo que esperaban</em>, que si <em>vaya ladrillo</em>, que si <em>yo ya tengo un portátil y para qué quiero esto</em>, etc. Vamos, lo de siempre cuando Apple saca un producto revolucionario. Lo mismo que con los iPods cuando salieron (que si eran muy caros, que si no tienen radio, que si sólo funcionan con iTunes, que si DRM). Ya, ya, hoy a los reproductores MP3 los llamamos <em>iPods</em>. La misma película con el iPhone. Que si vaya ladrillo, que si no tiene teclado QWERTY, que si hace muy pocas cosas, que si no tiene multitarea, &#8230; ¿Os suena?</p>
+<p style="text-align: justify;">En fin, a finales de este año, cuando tengan vendidos chorrocientos millones de unidades del iPad nos daremos cuenta de que la informática ha vuelto a cambiar. Tendremos portátiles, por supuesto, pero sólo para los que nos gusta complicarnos con estas cosas. El resto del mundo no quiere ser mecánico: les basta con saber conducir su coche.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

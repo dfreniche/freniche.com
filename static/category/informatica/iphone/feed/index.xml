@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iphone &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/iphone/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>La Conferencia NSSPain</title>
+		<link>/2013/09/23/la-conferencia-nsspain/</link>
+		<comments>/2013/09/23/la-conferencia-nsspain/#comments</comments>
+		<pubDate>Mon, 23 Sep 2013 11:15:46 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Logroño]]></category>
+		<category><![CDATA[NSSpain]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=2066</guid>
+		<description><![CDATA[Ya estoy de vuelta tras pasar una semana (casi) en Logroño. Se ha terminado la NSSpain 2013. Y ya tengo ganas de la NSSpain de 2014. Por hacer breve esto: si te dedicas al desarrollo iOS con algún grado de dedicación y te has perdido este evento, ya puedes ir a darte cabezazos con un [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_2071" style="width: 619px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/taller-core-data.png" alt="Empezando el taller de Core Data" width="609" height="609" class="size-full wp-image-2071" srcset="/wp-content/uploads/2013/09/taller-core-data.png 609w, /wp-content/uploads/2013/09/taller-core-data-150x150.png 150w, /wp-content/uploads/2013/09/taller-core-data-300x300.png 300w, /wp-content/uploads/2013/09/taller-core-data-535x535.png 535w" sizes="(max-width: 609px) 100vw, 609px" /><p class="wp-caption-text">Empezando el taller de Core Data</p></div>
+<p>Ya estoy de vuelta tras pasar una semana (casi) en Logroño. Se ha terminado la <a href="http://nsspain.com/">NSSpain 2013</a>. Y ya tengo ganas de la NSSpain de 2014. Por hacer breve esto: si te dedicas al desarrollo iOS con algún grado de dedicación y te has perdido este evento, ya puedes ir a darte <em>cabezazos</em> con un muro. La gente que ha venido, la calidad de las ponencias y, sobre todo, la intensidad técnica de las mismas ha sido para verlo y no creerlo. Estas cosas no se pueden dejar pasar.</p>
+<h2>Las charlas y los ponentes</h2>
+<p>Las charlas han sido increíbles. Nada de «relleno». Nada de hablar de «mobile márketing» ni de otras historias. Código. Ideas. Patrones. Hemos tenido tres niveles: sesiones duras, muy duras de seguir y luego la de Peter Steimberg (<a href="https://twitter.com/steipete">@steipete</a>). Esta sesión por sí sola se situó en una dimensión aparte. Cuando sea mayor quiero ser como Peter, el problema es que me falta cerebro para ello. Pero claro, es que el resto de los ponentes eran <em>todos</em> así. Gente que maneja git desde una consola zsh lanzando comandos como si no existiera mañana. Para los que todo es <em>evidente</em>. Todo lo que a <em>mi</em> cuesta años aprender, ellos ya lo saben. Da gusto estar con gente así. Porque, siendo auténticos <em>sabios</em>, son las personas más humildes, accesibles, sencillas y divertidas que puedas encontrarte. Por ejemplo, he podido desayunar con Marin (<a href="https://twitter.com/mneorr">@mneor</a>) y comentarle un issue que había respondido sobre en Github sobre Kiwi y Xcode 5, ¡cinco días antes!. Es decir, estaba hablando con el <em>tío de verdad</em> que reparte el bacalao en Kiwi. De película.</p>
+<p>Eso, o encontrarte con dos personajes como <a href="https://twitter.com/orta">@orta</a> y <a href="https://twitter.com/fabiopelosin">Favio</a>, Core Team de Cocoa Pods. Y que te digan que están contentos porque usas su proyecto. ¡Pero si lo que yo quiero es <em>echarme al suelo y besar por donde pisáis</em>!. Esta gente no se da cuenta del impacto que tienen <em>a diario</em> en las vidas de muchos desarrolladores. Y van por el mundo como personas normales, cuando <em>no lo son</em>. La comunidad les debe mucho. Mucho.</p>
+<div style="width: 864px" class="wp-caption aligncenter"><img src="https://ortastuff.s3.amazonaws.com/gifs/marin-6-thumb.gif" width="854" height="480" alt="Para Marin Usalj todo está OK :-)" class /><p class="wp-caption-text">Para Marin Usalj todo está OK <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Misma historia con el equipo al completo de <a href="http://www.objc.io/">Objc.io</a>. Es decir, en apenas dos semanas he visto a Dave Werner (de <a href="http://iosdevweekly.com/">iOS Dev Weekly</a>) en el <a href="/2013/09/08/iosdevuk-2013-retrospectiva-personal/">iOSDevUK</a> (ya conocía a Dave de otros años) y ahora a los de Objc.io. ¿Qué es lo siguiente? ¿Tomar café con Tim Cook? (Por cierto: Tim, cuando quieras; y no te preocupes: corre de mi cuenta)</p>
+<p><a href="http://www.louesfera.com/2013/09/22/nsspain-conferencia-ios-celebrada-en-logrono/">Victor Baro ha resumido los talleres</a> mucho mejor que yo en un post dentro del Blog de Louesfera. Lo mismo con el post de <a href="http://www.applesfera.com/aprendeiosonline/nsspain-primera-conferencia-internacional-de-desarrollo-ios-en-espana">Fernando Rodríguez en Applesfera</a>. Bien contado, incluso algún cotilleo de más <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2>Mis talleres</h2>
+<p>Han sido <strong>una basura</strong>. Cuando comparas lo que tú puedes ofrecer con lo que cualquiera de éstos trae, te da hasta vergüenza estar por allí. Inicialmente me ofrecí para echar una mano con la NSSpain, porque creo que en España necesitamos este tipo de eventos para poder tener un lugar donde reunir al <em>gremio</em> de desarrolladores Cocoa. Un sitio donde compartir experiencias, donde aprender de los que vienen de fuera. Donde <em>picarnos</em>, y que nos sintamos estimulados por la <em>alucinancia</em> del Cocoa-Fu de estos mónstruos. Por todo esto me propuse apoyar en todo lo posible a los organizadores, porque necesitamos que esto salga bien y crezca. Y no pensaba que fueran a reunir a gente de <em>Champions</em> junto con uno de <em>Regional preferente</em>.</p>
+<p>Pero es <em>duro</em> ir a la cena de ponentes y darte cuenta de que eres <strong>el tonto de la reunión</strong>. <strong>Es duro, pero me gusta</strong>. Sólo puedes crecer estando con gente muy inteligente, que además sabe mucho más que tú de todo. Y estoy dispuesto a dar batalla. Habrá que esforzarse más. Programando, aprendiendo, enseñando, con todo.</p>
+<p>Por cierto, llegué tarde a mi primer taller. De nuevo, <strong>os pido disculpas a los que me esperasteis con enorme paciencia</strong>. Aunque no fue <em>del todo</em> culpa mía, en la Mili decían que si no quieres llegar tarde te vas el día antes. Así que la culpa me la endosáis a mí, que para eso os tuve esperando.</p>
+<p>Por si alguien está interesado, he puesto en <a href="http://www.slideshare.net/dfreniche/core-data-ns-spain-26505051">slideshare</a> la presentación de los talleres, tanto de Core Data básico como algunas ideas de uso intermedio.</p>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/26505051" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/26506155" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+<p>Y algo de código de ejemplo, <a href="https://bitbucket.org/dfreniche/retrostuff-tracker-2">en este repo de Bitbucket</a>.</p>
+<h2>Logroño</h2>
+<p>No había estado en la ciudad y he podido visitar muchos de sus bares parques y rincones. Parece que vives en un bosque, al lado del Ebro. Viniendo de Sevilla, es normal que me encanten las ciudades con río. Pero es que es realmente bonito pasear y ver tanto verde junto. Y se come y se bebe bastante bien. Lo de beber, siendo la capital de La Rioja, es casi una obligación (de hecho, ya hay quien llamaba a la conferencia la <em>NSWine</em>). Me dejé una mañana para pasear y hacer fotos. Las he puesto en <a href="http://www.flickr.com/photos/dfreniche/sets/72157635848467335/">este album de Flickr</a>.</p>
+<h2>Resumiendo</h2>
+<p>Que voy a repetir, eso está claro. El año que viene, si puedo, como asistente <em>normal</em> y así voy más relajado. O no, ya veremos. Pero si voy a contar algo, va a ser complicadete. O no, ya veremos, que siempre hay mucha gente empezando a desarrollar.</p>
+<p>El caso es que quiero dar las gracias a <a href="http://www.louesfera.com/2013/07/17/entrevista-luis-ascorbe-borja-reinares-organizadores-nsspain/">Luis Ascorbe y Borja Reinares</a> por el palizón que se han metido al organizar este follón. Os debemos mucho. Y necesitamos la NSSpain.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/23/la-conferencia-nsspain/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>La era Nexus</title>
+		<link>/2013/08/30/la-era-nexus/</link>
+		<comments>/2013/08/30/la-era-nexus/#comments</comments>
+		<pubDate>Fri, 30 Aug 2013 08:45:42 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Nexus]]></category>
+		<category><![CDATA[Tablets]]></category>
+
+		<guid isPermaLink="false">/?p=2005</guid>
+		<description><![CDATA[Soy un fanboy de Apple. O eso dicen cuando me escuchan poner a caer de un burro las carencias de Android (especialmente de cara a los desarrolladores). Pero se ve que no me escuchan quejarme de los problemas que tienen los dispositivos Apple (o el software, como esas notificaciones modales para decirte que no se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Soy un fanboy de Apple. O eso dicen cuando me escuchan poner <em>a caer de un burro</em> las carencias de Android (especialmente de cara a los desarrolladores). Pero se ve que no me escuchan quejarme de los problemas que tienen los dispositivos Apple (o el software, como esas notificaciones modales para decirte que no se puede descargar el correo, <em>WFT</em> con mayúsculas en iOS). Sordera selectiva, se llama.</p>
+<p>Soy un fanboy de Apple, pese a tener (y usar) un Lumia 800 con Windows Phone, un Nexus 4 con Android 4.3 o una Blackberry Z10 con BB10. Sin contar la <a href="/2011/12/13/mi-touchpad/">Touchpad de HP</a> con webOS, la BB PlayBook con Qnx, el N900 de Nokia o mi primer smartphone, un <a href="/2008/05/03/haciendo-el-enjuto-mojamuto-con-mi-pda/">Windows Mobile 5</a>. Creo que soy un fanboy de la tecnología en general, y de la tecnología móvil en particular. <em>Me gusta todo aquello que caliente silicio</em> (1ª Ley Freniche de cómo la tecnología te pone <em>Palote</em>)</p>
+<p>Soy un fanboy de Apple, pero llevo casi dos meses usando como teléfono principal, sin descanso, un Nexus 4. Y lo complemento muchas veces con mi tableta Nexus 7 primera edición. Y ambos me gustan. Mucho.</p>
+<h2>Cómo comprar un Nexus</h2>
+<p>El Nexus 4 lo compré por necesidad. En Diciembre del año pasado vendí mi iPhone 4 y estuve tirando con el 3Gs, al que, por desgracia, se le notaba cada vez más la edad. El Lumia 800 me rescataba a veces, pero a la plataforma Windows Phone le faltaba el empuje que probablemente le de el nuevo Lumia 1020. Y no tenía la Z10 en esas fechas. Un día, desesperado por la lentitud del 3Gs con los mapas (y gracias a que <em>estaba de suerte</em>) pude comprar el Nexus 4 más pequeño, el de 8GB.</p>
+<p>Digo estar de suerte, porque esta fue la primera cosa que me chocó. No había stock en la página de Google del Nexus 4. A veces había, otras no. Y lo único que te recomendaba Google era que «volvieras a mirar pasado un tiempo». ¿Perdón?. ¿Volver luego?. Esto te pasa en una tienda online y no vuelves nunca. De aficionados. Nunca como entonces vi claro la diferencia entre Apple y Google.</p>
+<p>El negocio de Apple está claro: venderte el dispositivo, y es muy raro que te dejen salir «vivo» de su tienda online si entras con la tarjeta de crédito en la mano. Cuando lanzan nuevos productos puedes «reservar» el producto. Cuando se agotan la cosa es aún más astuta e insidiosa: te dejan comprar, pero el plazo de entrega «aproximado» es de 4 semanas. Es decir, que tú pagas por adelantado y con ese dinero (que ya tienen), fabrican el iPhone que te venden. Como probablemente paguen con retraso a sus proveedores, es el negocio redondo, la genialidad a la que todo el mundo aspira: ganar montañas de pasta sin arriesgar un euro, sabiendo de antemano el número de dispositivos que tengo que fabricar y a dónde enviarlos, con lo que optimizo los envíos, etc. Lo dicho: perfecto.</p>
+<p>Frente a esto, Google es una vendedora de anuncios on line, pero poco más. Decir que «se me han acabado», que no se cuándo tendré más, ni garantizarte una reserva, es lamentable. Se puede dar el caso de que alguien mire, vuelva a las dos semanas justo después de que yo compre, se quede sin su teléfono y tenga que volver a mirar. Algo a todas luces injusto. Casi parece que no quieren que se vendan estos teléfonos. Y yo estoy convencido de eso: <strong>Google no quiere que se vendan los Nexus</strong>. Los sacan casi <em>obligados</em> en las Google I/O, para demostrar las nuevas capacidades del S.O., pero no lo tratan como un producto que en sí mismo les genere beneficio. Además, en el caso del Nexus 4 si venden muchos le hacen la competencia a LG, que es su fabricante. Sólo pregúntate: ¿cuántos anuncios has visto en televisión de los Nexus (tabletas y teléfonos)?. Cero, ¿cierto?. Claro que puedes pensar: «es que la tele es cara». Aunque hablamos de Google, que no son precisamente pobres. Segunda prueba: ¿cuántos anuncios has visto en Youtube?.</p>
+<p>Y eso que el teléfono se vende solo. Una pantalla increíble, un diseño precioso, muy sólido. Un teléfono libre, con las últimas actualizaciones del S.O. Android por debajo de los 300 Eur. Perfecto. Quizás demasiado, y por eso Google no quiere venderlo (para no <em>molestar</em> a sus fabricantes). El caso es que es el teléfono de <em>los que se enteran</em> (Geeks, seguidores de Google y gente que está atenta a la evolución tecnológica). Pero no el de las masas, cuando debería serlo por muchas razones: precio, ser un terminal libre, características, software&#8230;</p>
+<h2>Hard</h2>
+<p>No voy a hacer ninguna <em>review</em> del Nexus 4 ni de la tableta Nexus 7. Hay montones en Internet. Sólo quiero llamar la atención sobre cosas que me hacen gracia, sobre todo porque fueron enormemente criticadas cuando se lanzó el primer (y segundo, y tercer) iPhone:</p>
+<ul>
+<li>¡no tienen un conector USB para ponerles un <em>pincho</em> USB!. Eso, al parecer, era uno de los pecados del iPad. Se ve que con el tiempo ha quedado demostrado que con Wifi y servicios en la nube (Dropbox, Skydrive, iCloud, etc.) no es necesario cargar con un pendrive. <em>El pendrive es la WiFi de los torpes</em>.</li>
+<li>siguiendo con el USB, vale, que no tengan entrada USB «gorda». Pero podrían soportar el modo USB On The Go con adaptadores microUSB-USB. Google es muy <em>open</em> con Android, pero para hacer esto necesitas hacerle root al teléfono. Fail.</li>
+<li>la batería de ambos es fija. No es intercambiable. Veo algunas similitudes con los dispositivos iOS. Aunque no puede ser ¿no?: las baterías fijas son algo del Averno.</li>
+<li>ídem con la tarjeta SD. Vamos, que no tienen. Curioso. Será para ahorrar costes, pero es que cada vez se parecen más al estándar que marca el iPhone.</li>
+<li>soporte para Flash. <em>¿Recuerda el Flash, abuela?</em> Pues eso.</li>
+</ul>
+<p>Ahora sí, tienen algunas cosas muy <em>innovadoras</em>:</p>
+<ul>
+<li>NFC. Perdón, <em>Android Beam</em>. No sirve para nada, pero está bonito tenerlo, para amontonarlo en listas de características inútiles. Si las fotos se suben automáticamente a Dropbox y G+ ¿para qué voy a tocar un dispositivo con otro para emparejarlos y pasarla por Wifi? ¡Si la foto ya está en Dropbox/Google +!. La marcas allí y se la mandas a quien quieras por correo, Twitter, Facebook&#8230; En fin, que hasta ahora NFC es una promesa pero no he visto un solo uso <em>útil</em> de esta tecnología en el mundo real. Usado por <em>personas normales</em>. Por cierto, cuando tocas el teléfono con la tableta por detrás, tienes que <em>apuntar bien</em> hasta que se activa el NFC. Lo que lleva a estar frotando los dispositivos, algo que no me gusta demasiado&#8230;</li>
+<li>cargador inalámbrico. Algo que excita mucho al que no ha tenido una tableta HP WouchPad con webOS y el cargador sin contacto TouchStone. Y el problema es que estos cargadores por inducción son lentos, <strong>muy lentos</strong>. Son muy chulos, la primera semana, y para hacer una demo <em>de lo que es capaz mi teléfono y no el tuyo</em>. Pero al final la base de carga debe estar enchufada, luego el <em>momento sin cables</em> se viene un poco abajo. Probadlo y me contáis.</li>
+</ul>
+<p>Las cosas realmente innovadoras para mí ya no son el hardware. Defender que <em>iOS es mejor que Android</em>, que <em>Android es mejor que iOS</em> o cualquier otra postura basándose en el hardware es absurda. Salvo raras excepciones, cualquier smartphone hoy en día tiene un hardware impresionante. Tanto, que por desgracia ya no nos maravillan. Por eso la gente dice que Samsung <em>no innova</em> con su S4, o que el próximo iPhone va a ser un fracaso. No es que no avancen: es que los avances no impactan tanto en nuestro uso diario. Una batería de una semana de duración sí sería un avance notable, por ejemplo. O un cristal <em>a prueba de balas</em> que no se rompa en la primera caída.</p>
+<h2>Apps</h2>
+<p>La clave es el ecosistema: Apps y mantenimiento del S.O.</p>
+<p>Y en el tema de las Apps la cosa ha cambiado mucho. Atentos, <em>haters</em> de iOS con lo que voy a decir: <strong>sólo me falta tener Things en el Nexus 4 (App de GTD) para poder prescindir de iOS y el iPhone</strong>. En mi caso, para lo que hago con el teléfono, tengo de todo. Repito, para que se vea bien lo <em>fanboy</em> que soy: <strong>uso un Nexus y me hace feliz, tanto que me planteo incluso cambiarme</strong>. Las Apps en Android no están tan bien acabadas como las de iOS, pero han mejorado en general mucho.</p>
+<p>Un inciso para que nadie olvide que soy un <em>Fanboy</em>. Las Apps de iOS son mejores que las Android. Esto es un hecho indiscutible, sólo hay que tener dos dispositivos iOS y Android y usarlos. Apple hace aplicaciones, como Pages, Garage Band o iPhoto / iMovie para iOS que son las mejores, no en iOS, sino en cualquier plataforma móvil. Google hace buenas Apps, pero creo que salvo Maps no tiene ninguna que sea tan <em>alucinante</em> como las anteriores de iOS. Y las que tiene buenas (Maps, G+, Gmail, Youtube) son iguales en iOS y en muchos casos, son mejores en este último (caso de Google Now).</p>
+<p>Por cierto, la aplicación de Mapas es muy chula. Además de ser un GPS casi perfecto, el detalle de ponerse en modo Street View al terminar un viaje es bastante chulo. También se equivoca a veces con las rutas, pero en general es una App que uso mucho y es muy buena. Google Now también me alucina, aunque es muy <em>creepy</em> y te sientes espiado cuando empieza a proponerte viajes basado en todo lo que ha recopilado de tu experiencia anterior. Por supuesto, Google nunca usará esos datos para venderte mejores anuncios (sabe si vives en un barrio con mayor o menor renta per capita, ve las veces que vas al cine, o de vacaciones, pero ellos nunca lo harán). <em>Don&#8217;t be evil</em>. <strong>My ass</strong>.</p>
+<p>Dicho todo esto, la cantidad y calidad de las aplicaciones son suficientes para que me plantee seriamente el cambio permanente a la plataforma Android. Bueno ¿permanente?. Llevo sin usar un iPhone desde Febrero, creo&#8230; Menudo <em>Fanboy</em>&#8230;</p>
+<h2>Las actualizaciones.</h2>
+<p>Esto es de lo que más me gusta. Es decir, estoy agradecido por tener un comportamiento <em>normal</em> en el resto de plataformas: que cuando salga una actualización pueda disponer de esas mejoras en mi teléfono o tableta inmediatamente.</p>
+<p>Pero por desgracia (para los desarrolladores) en el mundo Android esto es la excepción, no la norma. Incluso con un Nexus, tienes que esperar una cola que no entiendo (cuando hay actualizaciones de Apple llegan instantáneamente a todos los teléfonos, no hay que esperar dos semanas). Y no es que Google no sepa de infraestructuras de servidor grandes, que aguanten mucha carga. Es desidia, pura y dura. Si te venden los Nexus libres, y no hay un operador de telefonía por medio ¿cuál es la razón de que no se actualicen todos a la vez? Que no se le dedican los recursos necesarios porque <em>estos cuatro frikis que ya han sido maltratados cuando compraron el teléfono están domesticados y acostumbrados a esperar las migas que se caen de nuestro plato</em>. Al menos, esta es la sensación que se me quedó tras el I/O, esperando día tras día la actualización. O eso, o tienen un único Pentium III como servidor para las actualizaciones de Android.</p>
+<p>Además de tener la última versión, la respuesta y fluidez del teléfono y las Apps que uso (Evernote, la cámara, el correo, los navegadores: Firefox, Chrome y Opera, Swiftkey, los fondos animados, algún widget interesante, Dropbox, etc.) convierten este teléfono en una alternativa total a los Samsung Galaxy S4 de turno. Una persona <em>normal</em> le sacaría más partido (y le saldría más barato) si se comprara libre uno de estos. Pero se ve que no interesa: ni la operadora de turno te cuela un contrato de permanencia de 24 meses ni el fabricante saca un margen adecuado. Y por eso Google no lo publicita. Google fabrica los Nexus para su legión de adoradores, lo cual es triste. Porque deberían de estar al alcance de todos. Búscalos en El Corte Inglés. Suerte.</p>
+<p>Ahora vendrán los típicos comentarios: «Es que tú no sabes usar bien Android», «es que tienes que hacerle root al teléfono», «es que con el S.O. oficial no, pero con tal ROM cocinada puedes hacer tal o cual», «es que eres un fanboy». He usado Android desde la versión 1.6 (HTC Magic) y desarrollo para Android. Creo que tengo cierto conocimiento de causa. Los argumentos que escucho muchas veces no están basados en las ventajas que tenga Android de cara a los usuarios, sino al partido que pueden sacarle cuatro <em>geeks</em> al teléfono. Algo no al alcance de todos.</p>
+<h1>Nuevos precios y conclusión</h1>
+<p>Mientras escribía esto Google bajó los precios del Nexus 4 hasta los 200 Eur. A este precio, pese a cualquier molestia que puedas tener, <strong>no hay otro smartphone que le haga sombra</strong>. Por 200 Eur es imposible encontrar mejor hardware, con el S.O. siempre actualizado y la oferta de Apps de Android. Para mí, es la opción evidente. Porque además, <strong>es libre</strong>.</p>
+<p>Lo que me dejará un poso aún más amargo, ya que no se va a vender masivamente. Lo verás en las manos de muchos Geeks. Pero no en la de gente normal. Y la gente normal se merece este teléfono.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/30/la-era-nexus/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Charla sobre «El estado de la nación móvil»</title>
+		<link>/2012/09/14/charla-sobre-el-estado-de-la-nacion-movil/</link>
+		<pubDate>Fri, 14 Sep 2012 09:10:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Plataformas móviles]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+		<category><![CDATA[WP7]]></category>
+
+		<guid isPermaLink="false">/?p=1786</guid>
+		<description><![CDATA[Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-1788" title="Hablando del estado de la nación móvil" src="/wp-content/uploads/2012/09/Foto_1.jpg" alt="Hablando del estado de la nación móvil" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_1.jpg 640w, /wp-content/uploads/2012/09/Foto_1-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p style="text-align: justify;">Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo que los asistentes (que me tenían que aguantar), no tanto.</p>
+<p style="text-align: justify;">Es increíble lo mucho que cambia esta parte del sector informático en meses. En Julio estuve en Zafra realizando este taller, pero con más profundidad, para ayudar a una empresa a elegir su estrategia móvil para desarrollo. Como eran programas in house y ya sabían Java finalmente vimos que lo mejor era la ruta Android. Pero desde entonces Samsung ha sido condenada por copiona, ha salido el Kindle Fire HD, el Nexus 7, se han anunciado los nuevos Lumias&#8230; Esto va a velocidad de vértigo y son tantas las plataformas y hay tanto ruido que es normal que el que no esté al tanto quiera alguna indicación.</p>
+<div><a href="/wp-content/uploads/2012/09/Foto_2.jpg"><img class="aligncenter size-full wp-image-1789" title="Al fondo, inasequible al desaliento" src="/wp-content/uploads/2012/09/Foto_2.jpg" alt="Al fondo, inasequible al desaliento" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_2.jpg 640w, /wp-content/uploads/2012/09/Foto_2-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></div>
+<div>La pena es que no pudimos hacer casi ni un hola mundo con Xcode. Quería hacer algo también con Android, pero fue imposible. O haber enseñado alguna aplicación webOS, o Windows Phone. Pero cuatro horas se van volando, cuando hablas de algo que te apasiona <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+<p style="text-align: justify;">P.D.: <a href="http://www.avante.es/">Avante</a> ha convocado un <a href="http://www.avante.es/master/desarrollo_apps.html">máster de desarrollo iOS, Android y Windows Phone</a>. Tienes la oportunidad de aguantarme enseñando a programar en  iOS y Android si te apuntas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">P.P.D.: ya <a href="/2010/10/08/video-de-mi-intervencion-en-etic/">a finales de 2010 estuve hablando en un encuentro e-Tic de Avante sobre iOS</a>. Hay vídeo para recordarlo.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>ClockRing, Mi tercera App es Software Libre</title>
+		<link>/2011/01/27/clockring-mi-tercera-app-es-software-libre/</link>
+		<comments>/2011/01/27/clockring-mi-tercera-app-es-software-libre/#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 12:26:57 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Femtocoders]]></category>
+
+		<guid isPermaLink="false">/?p=1365</guid>
+		<description><![CDATA[Pues eso, que he mandado a revisión por parte de Apple mi tercera App. Actualmente ya tengo dos subidas: MyEvents, para gestionar tus eventos importantes y saber cuántos días quedan hasta ellos, y FXPlayer, una App escrita a cuatro manos con la ayuda de @jnhidalgo @jnhernandez, y que te permite superponer efectos de sonido a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Pues eso, que he mandado a revisión por parte de Apple mi tercera App. Actualmente ya tengo dos subidas: <a href="http://itunes.apple.com/es/app/myevents/id398956491?mt=8">MyEvents</a>, para gestionar tus eventos importantes y saber cuántos días quedan hasta ellos, y <a href="http://itunes.apple.com/es/app/fxplayer/id412711013?mt=8">FXPlayer</a>, una App escrita a cuatro manos con la ayuda de <a href="http://twitter.com/jnhidalgo">@jnhidalgo</a> @jnhernandez, y que te permite superponer efectos de sonido a una canción que tengas sonando en el iPod. Puedes verlas en la web de <a href="http://www.femtocoders.com/">Femtocoders</a> (Inglés) o en la sección <a href="/ios-apps/">iOS Apps</a> del blog.</p>
+<p style="text-align: justify;">Esta tercera se llama ClockRing, y la idea es muy sencilla: hace que suene un pitido de señal horaria en tu iPhone, como los relojes Casio de toda la vida. Con la particularidad que te permite escoger qué quieres que suene: una campana de iglesia, un reloj de cuco, un pitido típico de la radio&#8230;</p>
+<p style="text-align: justify;">
+<div id="attachment_1368" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/ClockRingApp.png"><img class="size-full wp-image-1368" title="ClockRing App" src="/wp-content/uploads/2011/01/ClockRingApp.png" alt="ClockRing App" width="320" height="480" srcset="/wp-content/uploads/2011/01/ClockRingApp.png 320w, /wp-content/uploads/2011/01/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">ClockRing App</p></div>
+<p style="text-align: justify;">Se me ocurrió la idea tras enterarme a través de <a href="http://twitter.com/jmortizsilva">José Mª Ortiz</a>, un compañero de <a href="http://twitter.com/jonathanchacon">Jonathan Chacón</a> (<a href="http://wap.elpais.com/index.php?module=elp_gen&amp;page=elp_gen_noticia&amp;idNoticia=20110104elpepirtv_1.Tes&amp;secc=tec">primer desarrollador ciego en el mundo</a> que ha publicado <a href="http://itunes.apple.com/es/app/buscaminas-accesible/id405094331?mt=8">una App</a> en el App Store, bromitas pocas), de que <a href="http://www.programaraciegas.es/2011/01/23/myevents-ejemplo-de-utilidad-simplicidad-y-accesibilidad-para-ios/">MyEvents era accesible</a>. Empecé entonces a pensar en los temas de accesibilidad y se me planteé “¿bueno, y un ciego cómo sabe de un vistazo que son las dos de la tarde y tiene que irse a comer?”. Evidentemente no <em>“de un vistazo”</em>, tienen que estar activando el iPhone, y VoiceOver te canta la hora. Pero se me ocurrió la idea de clockRing y pensé que podría ser útil. Además, José Mª, me pidió que implementase «para ayer» la posibilidad de programar alarmas en MyEvents (cosa que empiezo a preparar ya para la v1.2). Así que ClockRing era la oportunidad perfecta para practicar con la API de LocalNotifications.</p>
+<p style="text-align: justify;">La App es <strong>gratis</strong>, e incluye iAds para ver si me puedo pagar alguna cerveza a su costa. Pero hace tiempo que estoy con ganas de liberar algo de código. Así que <strong>ClockRing es Software Libre</strong>, según establece la licencia GPL v2. Vamos, que puedes ver el código, compilarlo, usarlo en tus proyectos, o para aprender, o para reírte, o para lo que quieras. Pero los trabajos derivados deben ser también libres. Si quieres una copia del código, pásate por la <a href="https://femtocoders.fogbugz.com/default.asp?W5">Wiki de la App ClockRing que tengo en FogBugz</a> (otro día  hablaré de FogBugz y su increíble sistema de Bug Tracking, predicción del tiempo de entregas, Wikis, repositorios de código, etc.)</p>
+<p style="text-align: justify;">ClockRing aún no está disponible para su descarga desde el App Store, ya que está en el proceso de aprobación (cruzad los dedos). En el momento en que esté disponible lo anunciaré aquí (actualizando esta entrada) y en Twitter.</p>
+<p style="text-align: justify;"><strong>Actualización</strong>: ya puedes bajarte <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing</a> gratis.</p>
+<p>Happy coding!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/27/clockring-mi-tercera-app-es-software-libre/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Cómo utilizar promo-codes en iTunes</title>
+		<link>/2010/12/10/como-utilizar-promo-codes-en-itunes/</link>
+		<comments>/2010/12/10/como-utilizar-promo-codes-en-itunes/#comments</comments>
+		<pubDate>Fri, 10 Dec 2010 09:27:32 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1307</guid>
+		<description><![CDATA[Los promo codes son códigos que Apple da a los desarrolladores (50 por versión de cada App) para que los regalemos a quien nos parezca. Se podrían gastar con la familia y los amigos, pero lo inteligente es guardarlos para los medios, bloggers y personas a las que te interese enseñar tu App sin que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Los promo codes son códigos que Apple da a los desarrolladores (50 por versión de cada App) para que los regalemos a quien nos parezca. Se podrían gastar con la familia y los amigos, pero lo inteligente es guardarlos para los medios, bloggers y personas a las que te interese enseñar tu App sin que les cueste el dinero. Así eliminas una barrera de entrada y pueden probar tu trabajo más fácilmente.</p>
+<p>¿Qué aspecto tiene un promo code? Es una ristra de números y letras tal que esta: KJT9MFJ3YLWN. De hecho, éste es un promo code real de la v1.1 de <a href="http://itunes.apple.com/us/app/myevents/id398956491?mt=8">MyEvents</a>, que <a href="http://twitter.com/dfreniche/status/12931173579751424">regalé en Twitter</a>. No te esfuerces: ya está gastado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>¿Qué hacer una vez que tenemos un promo code? Vamos con el paso a paso:</p>
+<ul>
+<li>Abrir iTunes</li>
+<li>Nos vamos a iTunes Store. Nos aparecerá una pantalla como ésta:</li>
+</ul>
+<div id="attachment_1308" style="width: 570px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/iTunes.png"><img class="size-full wp-image-1308 " title="iTunes abierto" src="/wp-content/uploads/2010/12/iTunes.png" alt="iTunes abierto" width="560" height="369" srcset="/wp-content/uploads/2010/12/iTunes.png 800w, /wp-content/uploads/2010/12/iTunes-300x197.png 300w" sizes="(max-width: 560px) 100vw, 560px" /></a><p class="wp-caption-text">iTunes abierto</p></div>
+<ul>
+<li>En la parte derecha, si nos fijamos, hay un enlace que pone «Canjear»:</li>
+</ul>
+<div id="attachment_1309" style="width: 232px" class="wp-caption aligncenter"><img class="size-full wp-image-1309" title="Canjear" src="/wp-content/uploads/2010/12/Canjear.png" alt="Canjear" width="222" height="82" /><p class="wp-caption-text">Canjear</p></div>
+<ul>
+<li>Pulsamos sobre él, se nos abrirá una ventana donde podremos meter el promo code:</li>
+</ul>
+<p><a href="/wp-content/uploads/2010/12/Canjeando.png"><img class="aligncenter size-full wp-image-1310" title="Canjeando" src="/wp-content/uploads/2010/12/Canjeando.png" alt="" width="789" height="491" srcset="/wp-content/uploads/2010/12/Canjeando.png 789w, /wp-content/uploads/2010/12/Canjeando-300x186.png 300w" sizes="(max-width: 789px) 100vw, 789px" /></a></p>
+<ul>
+<li>Metemos el promo code y ¡listo!, App bajando.</li>
+<li>Sincronizamos nuestro iPhone y ya la tenemos, por la patilla</li>
+</ul>
+<p style="text-align: justify;">Como nota añadir que, hasta hace unos días, los promo codes sólo funcionaban con la App Store de EE.UU. Ahora funcionan a nivel mundial. Apple ha tenido el detalle de esperar hasta la v1.1 de MyEvents para extender los promo codes a todas las tiendas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/10/como-utilizar-promo-codes-en-itunes/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Usando XCode 3.2.5 con dispositivos iOS 4.2.1</title>
+		<link>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/</link>
+		<comments>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/#comments</comments>
+		<pubDate>Wed, 24 Nov 2010 17:53:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=1276</guid>
+		<description><![CDATA[Hace unos días salió la 4.2.1 de iOS para iPhone y iPod Touch. Sin pensarlo demasiado, actualicé mi iPhone 3Gs, que es la máquina que uso en el día a día, pero también la uso como máquina de desarrollo y pruebas. Pero no caí en el posible problema: tener en mi dispositivo instalado una versión [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hace unos días salió la 4.2.1 de iOS para iPhone y iPod Touch. Sin pensarlo demasiado, actualicé mi iPhone 3Gs, que es la máquina que uso en el día a día, pero también la uso como máquina de desarrollo y pruebas. Pero no caí en el posible problema: tener en mi dispositivo instalado una versión de iOS no soportada por XCode.</p>
+<p>Pero salió la 3.2.5 de XCode y me la bajé e instalé. Bueno, problema solucionado ¿no?. Veamos, esta versión soporta&#8230; ¿iOS 4.2? ¿Y qué pasa con iOS 4.2.1? Un sudor frío me recorrió la espalda. Y se confirmaron mis miedos con este tweet de <a href="http://twitter.com/jdortiz">@jdortiz</a>:</p>
+<p><a href="/wp-content/uploads/2010/11/tweet.png"><img class="aligncenter size-full wp-image-1277" title="tweet" src="/wp-content/uploads/2010/11/tweet.png" alt="" width="540" height="93" srcset="/wp-content/uploads/2010/11/tweet.png 540w, /wp-content/uploads/2010/11/tweet-300x51.png 300w" sizes="(max-width: 540px) 100vw, 540px" /></a></p>
+<p>Lógicamente, estoy en fase de pruebas para lanzar la v1.1 de <a href="/2010/11/09/mi-primera-app-ya-esta-en-el-app-store-myevents/">MyEvents</a>. Esto sólo te pasa cuando estás probando. Murphy es cruel.</p>
+<p>Esta mañana, me remangué y me senté frente a XCode. Al abrir el proyecto, un solitario error:</p>
+<div id="attachment_1278" style="width: 328px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/11/base-sdk-missing.png"><img class="size-full wp-image-1278" title="base-sdk-missing" src="/wp-content/uploads/2010/11/base-sdk-missing.png" alt="" width="318" height="36" srcset="/wp-content/uploads/2010/11/base-sdk-missing.png 318w, /wp-content/uploads/2010/11/base-sdk-missing-300x33.png 300w" sizes="(max-width: 318px) 100vw, 318px" /></a><p class="wp-caption-text">Mi XCode no entiende qué es eso de iOS 4.2.1 <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Abrí el Organizer (para ver mis dispositivos), y nada más abrirlo me apareció la siguiente ventana:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/11/unknown-ios.png"><img class="aligncenter size-full wp-image-1279" title="unknown-ios" src="/wp-content/uploads/2010/11/unknown-ios.png" alt="" width="434" height="190" srcset="/wp-content/uploads/2010/11/unknown-ios.png 434w, /wp-content/uploads/2010/11/unknown-ios-300x131.png 300w" sizes="(max-width: 434px) 100vw, 434px" /></a>Vamos, que XCode me estaba diciendo: «esto de iOS 4.2.1 no tengo ni idea de qué es, pero si quieres me leo unos cuantos ficheros del iOS de este iPhone y trato de ver si soy capaz de manejarlo». Evidentemente, pulsé en Collect. Una barra de progreso me indicaba que se importaban los ficheros de iOS de mi iPhone. En segundo plano, XCode «desimbolicaba», es decir, desensamblaba el código de iOS 4.2.1 y lo preparaba para poder depurar con él. Al finalizar, supe que había triunfado porque el Organizer me mostraba la versión correcta en mi dispositivo:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/11/organizer.png"><img class="aligncenter size-medium wp-image-1281" title="organizer" src="/wp-content/uploads/2010/11/organizer-300x225.png" alt="" width="300" height="225" srcset="/wp-content/uploads/2010/11/organizer-300x225.png 300w, /wp-content/uploads/2010/11/organizer-1024x769.png 1024w, /wp-content/uploads/2010/11/organizer.png 1029w" sizes="(max-width: 300px) 100vw, 300px" /></a>Ahora ya sólo me quedaba actualizar la información del proyecto (para que se compilase usando el SDK correcto) y del target (el ejecutable que genera XCode) para se enlazase con las bibliotecas de la versión correcta. Pulsamos sobre el proyecto, ? + I (obtener información) y en la pestaña Build, cambiamos Base SDK. En mi caso ponía 4.1 (missing) y le he puesto la última. Luego repetimos, pero en el Target, ? + I, build y ponemos el Base SDK a 4.2.</p>
+<p><img class="aligncenter size-medium wp-image-1282" title="base-sdk" src="/wp-content/uploads/2010/11/base-sdk-300x73.png" alt="" width="300" height="73" srcset="/wp-content/uploads/2010/11/base-sdk-300x73.png 300w, /wp-content/uploads/2010/11/base-sdk.png 524w" sizes="(max-width: 300px) 100vw, 300px" />¡Listo! Graba (? + S) y cambia entre dispositivo y simulador un par de veces. Parece que XCode no refresca bien el cambio. Ahora, ya puedes probar con la 4.2.1 en el Simulador y en tus dispositivos.</p>
+<p>P.D.: Jorge me avisó en <a href="http://twitter.com/#!/jdortiz/status/7430352322691072">este Tweet</a> de que alguien ya había escrito algo sobre este problema, pero 1) está en Inglés y 2) no está tan mascadito. ¡Espero que os sirva!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/24/usando-xcode-3-2-5-con-dispositivos-ios-4-2-1/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Vídeo de mi intervención en eTic</title>
+		<link>/2010/10/08/video-de-mi-intervencion-en-etic/</link>
+		<comments>/2010/10/08/video-de-mi-intervencion-en-etic/#comments</comments>
+		<pubDate>Fri, 08 Oct 2010 15:58:33 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[presentaciones]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[Vimeo]]></category>
+
+		<guid isPermaLink="false">/?p=1147</guid>
+		<description><![CDATA[Pues aquí está el vídeo de mi intervención en el encuentro eTic 2010: Mobile Development y que se titula: «Crea ¡ya! tu equipo de trabajo para Apple iOS» En la intervención hablo de todo lo necesario para crear o reconvertir un equipo de programadores y que escriban apps para iOS. Está grabado con mi cámara [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pues aquí está el vídeo de mi intervención en el encuentro eTic 2010: Mobile Development y que se titula: «Crea ¡ya! tu equipo de trabajo para Apple iOS»</p>
+<p style="text-align: justify;">En la intervención hablo de todo lo necesario para crear o reconvertir un equipo de programadores y que escriban apps para iOS. Está grabado con mi cámara y la calidad no es profesional (gracias, Walter!), pero al menos así está a la altura del contenido <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://vimeo.com/15657007">Crea ¡ya! tu equipo de desarrollo en iOS</a> from <a href="http://vimeo.com/user1606809">Diego Freniche</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+<p><iframe src="//player.vimeo.com/video/15657007" width="640" height="360" frameborder="0" title="Crea &iexcl;ya! tu equipo de desarrollo en iOS" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>La <a href="https://docs.google.com/present/edit?id=0AYEGfwZYXjY3YWpmNGJuZHRidnNiXzRmY3Q4a2dkMg&amp;hl=en">presentación</a> que utilicé está en Google Docs</p>
+<p>La cobertura de los medios del evento:</p>
+<ul>
+<li>En <a href="http://www.20minutos.es/noticia/836984/0/">20 minutos</a></li>
+<li>En <a href="http://www.cibersur.com/portada/andalucia/006147/etic/mobile/develoment">Cibersur</a></li>
+</ul>
+<p>En el vídeo podéis verme con la <a href="/2010/08/30/pequenos-detalles/">camiseta que me preparé de Fanboy</a> gracias a los <a href="http://www.macniacos.com/">Macniacos</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/08/video-de-mi-intervencion-en-etic/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Mis Gadgets estas vacaciones</title>
+		<link>/2010/07/06/mis-gadgets-estas-vacaciones/</link>
+		<comments>/2010/07/06/mis-gadgets-estas-vacaciones/#comments</comments>
+		<pubDate>Tue, 06 Jul 2010 09:33:29 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[organización personal]]></category>
+
+		<guid isPermaLink="false">/?p=1055</guid>
+		<description><![CDATA[Después de leer este post en El Blog de Serantes, me he sorprendido por coincidir en la idea y en el tiempo con David. Pero el tuvo la idea antes (como un año antes), luego la paternidad está clara. 🙂 Este verano, antes de salir, me repetí varias veces aquello de «menos es más». Revisé [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Después de leer <a href="http://blogs.lavozdegalicia.es/serantes/?p=5413">este post en El Blog de Serantes</a>, me he sorprendido por coincidir en la idea y en el tiempo con David. Pero el tuvo la idea antes (como un año antes), luego la paternidad está clara. <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />
+Este verano, antes de salir, me repetí varias veces aquello de «menos es más». Revisé mentalmente todos los cacharros que me suelo llevar y el uso que realmente les acabo dando. Y tomé la decisión de reducir al máximo mi arsenal tecnológico.</p>
+<h2>Lo que no me llevo</h2>
+<ul>
+<li> mi cámara DSLR Nikon D70. Ya un poco vetusta, pero no deja de ser una excelente cámara. No me la llevo porque luego me da pereza llevarla para un rato, no quiero dejarla sola en la piscina y mucho menos llenarla de arena en la playa. Para fotos casuales, mejor mi iPhone 3Gs y para algo un poco más complicado, nada mejor que la pequeña Sony.</li>
+<li> mi videocámara. Graba en SD y en cinta MiniDV, pero funciona muy bien. Y no ocupa demasiado espacio. Pero las cintas eran un caos, no tenía claro qué estaba pasado al ordenador y qué no, etc. Encima es un cargador más, otra bolsa&#8230; Nada, los vídeos los grabo con mi iPhone 3Gs, que después de mi experiencia en NYC me demostró de lo que es capaz como video cámara. El iPhone 4 debe ser ya la pera.</li>
+<li> el <a href="/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/">Netbook Asus 904HD</a>. El año pasado lo usé como reproductor multimedia, fundamentalmente.Con su bolsa para transportar, etc. Este año, he metido en el iPod Touch de los niños un montón de películas, convertidas con VideoMonkey y listo.</li>
+</ul>
+<h2>Lo que me llevo</h2>
+<ul>
+<li>mi mujer su iPhone 3G y yo mi 3Gs. Imprescindibles como teléfonos, para el correo, e incluso para escribir esta entrada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>el iPod Touch 8GB de los niños. Como videoconsola para niños menores de 4 años es perfecta. No necesitan leer ni pulsar complicados botones. Tocan y listo. Aprendizaje instantáneo. Y como media center tampoco está mal, sobre todo si llevas el cable Belkin de conexión iPhone &lt;&#8211;&gt; TV. Pinchas el iPod a la tele del hotel y listo.</li>
+<li>mi cámara de fotos Sony. Me la dieron por los puntos de la gasolina. Aunque tiene 10 megapíxeles, se nota la falta de óptica y la velocidad, sobre todo acostumbrado a la D70. Pero para fotos en la playa es ideal.</li>
+<li>el iPad. Bueno, mi mujer se lleva su iPad, que es suyo, y del que no se despega para leer libros en formato electrónico. Lectora empedernida como es, le ha visto las ventajas al iPad como lector (y como todo lo demás) inmediatamente.</li>
+<li>como todos los cacharros de Apple usan el mismo cargador, me llevo un par de ellos y voy rotando. Menos chismes.</li>
+</ul>
+<p style="text-align: justify;">Resumiendo, que a las vacaciones va uno a desconectar. Y cargar con dos docenas de aparatos «por si tengo un rato y me aburro» es absurdo. Si te aburres en ese rato, vas y te pegas un baño. O lo disfrutas. Yo hace años que no tengo esa sensación de aburrimiento: siempre tengo miles de cosas por hacer y hay otras miles que me gustaría estar haciendo. Por eso, espero fervientemente esos momentos de no poder hacer otra cosa que mirar al mar y llenarme los ojos de luz y tranquilidad&#8230; si me dejan los niños <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/07/06/mis-gadgets-estas-vacaciones/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Leyendo para emprender</title>
+		<link>/2010/06/10/leyendo-para-emprender/</link>
+		<comments>/2010/06/10/leyendo-para-emprender/#comments</comments>
+		<pubDate>Thu, 10 Jun 2010 08:44:44 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[libros]]></category>
+
+		<guid isPermaLink="false">/?p=1036</guid>
+		<description><![CDATA[Cuando el año pasado en Octubre, decidí dejar Isotrol e iniciar una nueva etapa en solitario programando apps para el iOS (el S.O. del iPhone, iPod Touch e iPad) tenía claro que no quería cometer viejos errores de mis anteriores etapas como empresario. Quería crecer y mejorar, como persona, como profesional y como emprendedor. Por [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><img class="aligncenter size-full wp-image-1037" title="libros" src="/wp-content/uploads/2010/06/libros.jpg" alt="" width="399" height="600" srcset="/wp-content/uploads/2010/06/libros.jpg 399w, /wp-content/uploads/2010/06/libros-199x300.jpg 199w" sizes="(max-width: 399px) 100vw, 399px" />Cuando el año pasado en Octubre, <a href="/2009/11/29/iniciando-una-nueva-etapa/">decidí dejar Isotrol e iniciar una nueva etapa</a> en solitario programando apps para el iOS (el S.O. del iPhone, iPod Touch e iPad) tenía claro que no quería cometer viejos errores de mis anteriores etapas como empresario. Quería crecer y mejorar, como persona, como profesional y como emprendedor. Por ello me metí en Amazon y compré un conjunto de libros que tocan estos tres temas.</p>
+<p style="text-align: justify;">Pero claro, comprar los libros no es lo mismo que leerlos. Y leerlos no es lo mismo que comprenderlos. Y, en cualquier caso, lo importante, lo único importante de toda preparación, es aplicar lo aprendido. Leer, comprender, aceptar e interiorizar no son nada comparados con <strong>hacer</strong>. La parte más importante del Getting Thing Done es, precisamente, el Done.</p>
+<p>De momento, llevo leídos:</p>
+<ul>
+<li style="text-align: justify;"><a href="http://www.casadellibro.com/libro-gestiona-mejor-tu-vida-claves-y-habitos-para-ser-mas-productivo-/1486821/2900001342546?gclid=cn3-joiolaicfrg8laod8jaeea">Gestiona mejor tu vida</a>, de <a href="http://albertopena.com/libro/">Berto Pena</a>, librazo que recomiendo a cualquiera que sienta que no le llegan las horas al final del día.</li>
+<li style="text-align: justify;">The 4 hour workweek, un libro revolucionario por lo simple que te plantea cómo cambiar las cosas. Hay que leerlo dejándose retar por las nuevas ideas de Tim Ferriss y ser capaz de ser flexibles y responder al reto. Me lo recomendó Jaime Gallo y ha sido una revelación.</li>
+<li style="text-align: justify;">Beginning iPhone 3 Development ha sido mi primer libro de iPhone SDK, y me ha ayudado a preparar mis primeras Apps. He necesitado leerme también (en formato electrónico, no aparece en la foto) Learn Objective-C on the Mac, para tener una idea del lenguaje que está detrás de Cocoa Touch y no perderme. Este último me ha encantado, porque es muy académico y directo. Si sabes C, o Java, te explica las cosas con profundidad y sin mitos. Pero no te lleva de la manita, ni trata de suavizar según que cosas.</li>
+</ul>
+<p>Estoy ahora mismo con:</p>
+<ul>
+<li>Head First Servlets &amp; JSP, por aquello de <a href="/2010/06/09/preparando-el-scwcd/">prepararme el SCWCD</a>.</li>
+</ul>
+<p>Y luego vendrán:</p>
+<ul>
+<li>En Julio, SCJP 1.6 Study Guide.</li>
+<li>Y en Agosto &#8211; Septiembre, mezclaré los libros de Joel Spolsky y Micro ISV con el segundo del iPhone, iPhone SDK 3 Programming.</li>
+</ul>
+<p style="text-align: justify;">Por supuesto, seguiremos leyendo en blogs, en PDFs (algo del iPad habrá que mirar), etc. Es fundamental el estar permanentemente formándonos, revisando, mejorando (o intentándolo). Tener curiosidad y ganas de aprender es uno de los ingredientes de la salsa de la vida.</p>
+<p style="text-align: center;"><strong>¿Y tú? ¿Con qué libros andas ahora? ¿Me recomiendas alguno?</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/06/10/leyendo-para-emprender/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Controlar una presentación de KeyNote con tu iPhone</title>
+		<link>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/</link>
+		<comments>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/#comments</comments>
+		<pubDate>Fri, 21 May 2010 13:48:31 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[presentaciones]]></category>
+
+		<guid isPermaLink="false">/?p=514</guid>
+		<description><![CDATA[Controlar una presentación de KeyNote con tu iPhone Estoy asistiendo a un curso de Presentaciones Eficaces que me está gustando bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas miles de horas de formación, no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno cree que hace bien. O mejor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Controlar una presentación de KeyNote con tu iPhone</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Estoy asistiendo a un curso de Presentaciones Eficaces que me está gustando bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas miles de horas de formación, no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno cree que hace bien. O mejor debería decir que es imprescindible revisar precisamente lo que se piensa que es una fortaleza. Ya conocéis el dicho: «dime de qué presumes&#8230;».</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">El caso es que a mi me gusta aprender. Tanto cosas técnicas como habilidades personales. Suelo estar dispuesto a escuchar a aquel que pienso  que merece la pena escucharle. El problema suele ser convencerme. A medida que se cumplen años se tiende a pensar que «ésto ya lo he visto», etc. Y con el curso el profesor lo ha conseguido. Valentín nos ha enganchado con su hablar suave, su dominio del escenario, el contenido adecuado del curso. Vamos, con su saber hacer. Y nos ha puesto deberes.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Concretamente debemos presentar frente a la clase un proyecto para convencer a un jurado de que nos escoja. Apoyados por una presentación multimedia. Y es aquí donde me ha surgido la necesidad. Hasta ahora he utilizado para las presentaciones PowerPoint e Impress (de la suite OpenOffice.org). PP me parece demasiado complicado de usar en ocasiones, aunque con buenos resultados. E Impress da buenos resultados para una guardería, pero se aleja del toque pulido y postindustrial de las Keynotes de Apple. Así que la opción que me quedaba era Keynote, de Apple. Lo estoy usando desde hace poco, pero creo que han dado en el clavo. De manera sencilla tienes acceso a las principales funciones y los diseños predeterminados, así como las transiciones y animaciones de las diapositivas tienen «ese toque» Apple. Vamos, que voy a usarlo para esta presentación.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Hablamos de una presentación. Luego necesitamos más cosas. Una son las diapositivas / slides que aparezcan como apoyo a mi discurso. Esto ya lo tenemos. Otra es el discurso en sí y mi actuación frente al público. De eso me encargo yo. Me queda un detalle: el iPhone. Quiero decir, el control remoto de la presentación multimedia. Cuando hablas frente a un auditorio puedes quedarte clavado en un sitio, tras un atril, parapetado en una mesa, o bien usar el entorno y dominar el escenario de forma que apoye a tu discurso. A mi lo que me gusta es esto último. En mis cursos rompo muchas veces la distancia con mis alumnos, paseando por el aula, sentándome en la mesa, en una silla al lado de alguno, etc. Y para hacer todas estas cosas con estilo se precisa de un cacharro que permita ir pasando las diapositivas a medida que uno habla.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">El truco en sí</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Para controlar la presentación necesitamos:</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un Mac donde pondremos la presentación de KeyNote. En mi caso es mi querido MacBook Pro.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un proyector (lo pone el profesor)</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un iPhone para controlar KeyNote de forma remota</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">una aplicación para el iPhone, concretamente Mocha VNC Lite, que encima es gratis</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Los pasos a dar son:</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">1. crea tu presentación con KeyNote y tenla a mano. Sí, esto puede parecerte una chorrada, pero eres tú el que ha pedido un paso a paso.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">2. activa el acceso remoto al escrito de tu Mac, AKA VNC, mediante Preferencias del Sistema -&gt; Compartir -&gt; Compartir escritorio</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Una vez tengamos instalada la aplicación en el iPhone, bajada desde el AppStore, necesitaremos controlar la pantalla del Mac desde el iPhone. Para eso, Mocha VNC Lite nos permite introducir la dirección IP de nuestro Mac y ¡listo!. Pero claro, estamos suponiendo que hay un punto de acceso WiFi al que nos hemos podido conectar, tanto con nuestro Mac como con el iPhone, y que ambos están en la misma subred (sus direcciones IP son similares, por ejemplo son 192.168.1.10 la del Mac y 192.168.1.15 la del iPhone).</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">pondremos a ejecutarse la presentación en el ordenador. Se quedarátendremos que conseguir que veamos en la pantalla del</div>
+<p style="text-align: justify;">He asistido a un curso de Presentaciones Eficaces que me ha gustado bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas <em>miles</em> de horas de formación, que no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno se cree que hace bien. O mejor debería decir que es imprescindible revisar precisamente lo que se piensa que es una fortaleza. Ya conocéis el dicho: «dime de qué presumes&#8230;».</p>
+<p style="text-align: justify;">El caso es que a mi me gusta aprender. Tanto cosas técnicas como habilidades personales. Suelo estar dispuesto a escuchar a aquel que pienso  que merece la pena escucharle. El problema suele ser convencerme. A medida que se cumplen años se tiende a pensar que «ésto ya lo he visto», etc. Y con el curso el profesor lo ha conseguido. <a href="http://www.twitter.com/comunicatin">Valentín</a> nos ha enganchado con su hablar suave, su dominio del escenario, el contenido adecuado del curso. Vamos, con su saber hacer. Y nos ha puesto deberes.</p>
+<p style="text-align: justify;">Concretamente debemos presentar frente a la clase un proyecto para convencer a un jurado de que nos escoja. Apoyados por una presentación multimedia. Y es aquí donde me ha surgido la necesidad. Hasta ahora he utilizado para las presentaciones PowerPoint e Impress (de la suite OpenOffice.org). PowerPoint me parece demasiado complicado de usar (en ocasiones), aunque con buenos resultados. No le he dedicado el tiempo necesario, creo. E Impress da buenos resultados para una guardería, pero se aleja del toque pulido y postindustrial de las Keynotes de Apple. Así que la opción que me quedaba era Keynote, de Apple. Lo estoy usando desde hace poco, pero creo que han dado en el clavo. De manera sencilla tienes acceso a las principales funciones y los diseños predeterminados, así como las transiciones y animaciones de las diapositivas tienen «ese toque» Apple. Vamos, que voy a usarlo para esta presentación.</p>
+<p style="text-align: justify;">Hablamos de una presentación. Luego necesitamos más cosas:</p>
+<ul>
+<li>Una son las diapositivas / slides que aparezcan como apoyo a mi discurso. Esto ya lo tenemos. No confundamos nunca una presentación con un PowerPoint. Si no, llegamos rápidamente a la muerte por PowerPoint.</li>
+<li>Otra es el discurso en sí y mi actuación frente al público. De eso me encargo yo.</li>
+<li>Me queda un detalle: el iPhone. Quiero decir, el control remoto de la presentación multimedia.</li>
+</ul>
+<p style="text-align: justify;">Cuando hablas frente a un auditorio puedes quedarte clavado en un sitio, tras un atril, parapetado en una mesa, o bien usar el entorno y dominar el escenario de forma que apoye a tu discurso. A mi lo que me gusta es esto último. En mis cursos rompo muchas veces la distancia con mis alumnos, paseando por el aula, sentándome en la mesa, en una silla al lado de alguno, etc. Y para hacer todas estas cosas con estilo se precisa de un cacharro que permita ir pasando las diapositivas a medida que uno habla.</p>
+<h1>El truco en sí: controlar la presentación con el iPhone</h1>
+<p>Para controlar la presentación necesitamos:</p>
+<ul>
+<li>un Mac donde pondremos la presentación de KeyNote. En mi caso es mi querido MacBook Pro. Si no tienes un Mac, puedes hacer lo mismo con OO.org y Windows, o con Office y Windows. Es una pena, pero esta vez no hay truco para Linux <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>un proyector (lo pone el profesor)</li>
+<li>un iPhone para controlar KeyNote de forma remota</li>
+<li>una aplicación para el iPhone, concretamente <a href="itms://itunes.apple.com/us/app/touch-mouse/id338237450?mt=8">Logitech Air Mouse</a> que encima es gratis</li>
+<li>la parte servidora de la App de iPhone, el <a href="http://www.logitech.com/touchmouse">Logitech Touch Mouse Server</a></li>
+</ul>
+<p>Los pasos a dar son:</p>
+<ol>
+<li>crea tu presentación con KeyNote y tenla a mano. Sí, esto puede parecerte una chorrada, pero eres tú el que ha pedido un <em>paso a paso</em>. Pon un enlace en el escritorio.</li>
+<li>instala la aplicación Logitech Air Mouse en el iPhone.</li>
+<li>descarga el Logitech Touch Mouse Server para Mac. Es una imagen de disco (fichero DMG). No hace falta ni instalarla: haces doble click, se abre, arrancas el programa servidor y a esperar conexión del iPhone.</li>
+<li>necesitamos conectar con el Mac desde el iPhone. Para ello, hay que activar la WiFi en el iPhone (y en el Mac, claro)</li>
+<li>arrancamos la App en el iPhone. Una vez que nos aparece el Mac en la lista de servidores nos conectamos. Ya podemos mover el ratón por la pantalla del Mac tocando la pantalla del iPhone. Y hacer click. Y encima, como el iPhone es multitouch, tenemos los gestos de los Trackpads Mac en el iPhone.</li>
+<li>Arrancamos la presentación y listo: click izquierdo avanza y click derecho retrocede. ¡Misión cumplida!</li>
+</ol>
+<p>Y por si no ha quedado suficientemente claro, aquí os pongo un <a href="http://www.youtube.com/watch?v=Wh2rq2UvijI">vídeo que muestra cómo manejar el portátil con el Logitech Air Mouse</a>.  La noticia original la vi en el <a href="http://blog.logitech.com/2010/01/29/new-logitech-touch-mouse-turns-your-iphone-or-ipod-touch-into-a-wireless-trackpad-and-keyboard/">Blog oficial de Logitech</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>Programadores del iPhone: iconos gratis para tus aplicaciones</title>
+		<link>/2010/05/19/programadores-del-iphone-iconos-gratis-para-tus-aplicaciones/</link>
+		<pubDate>Wed, 19 May 2010 11:02:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[iconos]]></category>
+
+		<guid isPermaLink="false">/?p=1004</guid>
+		<description><![CDATA[Los programadores / informáticos sólo vemos en 7 colores: los del arcoiris. Eso del «verde manzana» lo podemos entender, porque hay un objeto real al que referirnos para la analogía. El problema es cuando nos hablan del «blanco roto», el «beige» o cualquier otra cosa por el estilo. Por eso, alguna autoridad superior creó a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Los programadores / informáticos sólo vemos en 7 colores: los del arcoiris. Eso del «verde manzana» lo podemos entender, porque hay un objeto real al que referirnos para la analogía. El problema es cuando nos hablan del «blanco roto», el «beige» o cualquier otra cosa por el estilo. Por eso, alguna autoridad superior creó a los Diseñadores. Esta gente sí que entiende los colores, los <a href="http://es.wikipedia.org/wiki/Pantone">pantones</a>, los <a href="http://es.wikipedia.org/wiki/Modelo_de_color_CMYK">CMYK</a> y los programas de magia negra: Photoshop, InDesign, Inkscape, Gimp, Pixelmator, &#8230;</p>
+<p style="text-align: justify;">Este problema es más universal de lo que pensaba. En <a href="http://cocoaheads.be/wordpress/2009/09/free-and-paid-iphone-tabbar-and-toolbar-icons/">este post de Stefaan Lesage de Cocoheads Belgium</a> comenta en la introducción sus problemas con los iconos, que coinciden plenamente con los míos.</p>
+<p style="text-align: justify;">El caso es que, intentando hacer aplicaciones para el iPhone me he encontrado cara a cara con mis limitaciones: mis aplicaciones son, probablemente, las más feas que he visto en un dispositivo multitouch. Casi parecen de Blackberry&#8230; En fin, bromas aparte, me he lanzado a buscar iconos que se puedan utilizar libremente y que sean gratis para mis aplicaciones de iPhone. Estos no son iconos para personalizar tu iPhone, sino para hacer aplicaciones. Por supuesto, cualquiera que esté programando para Android encontrará aquí un recurso valioso.</p>
+<h1>Pixel Press Icons</h1>
+<div style="width: 470px" class="wp-caption aligncenter"><a href="http://www.pixelpressicons.com/?p=108"><img title="Iconos de PixelPress" src="http://www.pixelpressicons.com/images/P-freeiphone.png" alt="" width="460" height="481" /></a><p class="wp-caption-text">Pulsa para ir a la página del autor</p></div>
+<p style="text-align: justify;">Licencia: <a onclick="return TrackClick('http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F2.5%2Fca%2F','Creative+Commons+Attribution+2.5+Canada+license')" href="http://creativecommons.org/licenses/by/2.5/ca/" target="_blank">Creative Commons Attribution 2.5 Canada license</a>. Se pueden usar libremente y modificar, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor)</p>
+<h1>App bits</h1>
+<p style="text-align: justify;">
+<p style="text-align: center;"><a href="http://app-bits.com/free-icons.html"><img class=" aligncenter" title="Iconos de App Bits" src="http://app-bits.com/assets/templates/app-bits/images/free_icons/freeicons_fullset.png" alt="" /></a></p>
+<p style="text-align: justify;">Licencia: Creative Commons Attribution-No Derivative Works 3.0 License. Se pueden usar libremente, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor). <strong>No se pueden modificar</strong></p>
+<h1><strong>Glyphish</strong></h1>
+<p style="text-align: center;"><a href="http://glyphish.com/"><img class=" aligncenter" title="Iconos Glyphish" src="http://glyphish.com/images/demo.png" alt="" /></a></p>
+<p style="text-align: justify;">Licencia: <a href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution</a>. Se pueden usar libremente y modificar, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor).</p>
+<h1>The Working Group</h1>
+<div style="width: 650px" class="wp-caption aligncenter"><a href="http://blog.twg.ca/2009/09/free-iphone-toolbar-icons/"><img title="Iconos The Working Group" src="http://blog.twg.ca/wp-content/uploads/2009/09/twg_iphone_icons_full1.jpg" alt="" width="640" height="1313" /></a><p class="wp-caption-text">Pulsa para ir a la página del autor</p></div>
+<p style="text-align: justify;">Licencia: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike license</a>. Se pueden usar libremente y modificar, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor)</p>
+<h1>Android Icons</h1>
+<p>Sí, ¿por qué no?. ¡Usemos los iconos, vengan de donde vengan, con tal de que sean bonitos! (y no contradigan las HIG de Apple)</p>
+<div style="width: 610px" class="wp-caption aligncenter"><a href="http://www.androidicons.com/"><img title="Android Icons" src="http://www.androidicons.com/images/set-menuicons.png" alt="" width="600" height="263" /></a><p class="wp-caption-text">Pulsa para ir a la página del autor</p></div>
+<p style="text-align: justify;">Licencia: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike license</a>. Se pueden usar libremente y modificar, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor)</p>
+<h1>Exprimiendo las fuentes del sistema</h1>
+<p style="text-align: left;">Si necesitas más iconos, <a href="http://oleb.net/blog/2009/10/apple-symbols-font-repository-for-iphone-icons/#comment-1136">Ole Begemann nos muestra cómo sacar iconos de las fuentes de Apple</a>.</p>
+<h1>Y tú, ¿qué otros iconos libres / gratis conoces?</h1>
+<p style="text-align: justify;">Compártelos en los comentarios, e iré actualizando esta entrada. Así ayudarás a los programadores a crear aplicaciones más bonitas y recuerda: por cada conocimiento sobre iPhone que compartes, San Jobs, allá en el Cielo, esboza una sonrisa.</p>
+<h1>Actualización 21/05/2010</h1>
+<p style="text-align: justify;">Me he encontrado con los iconos de FamFamFam, varios grupos de iconos, con distintas licencias (Creative Commons unos y gratis para uso particular otros).</p>
+<p style="text-align: justify;">
+<div id="attachment_1011" style="width: 314px" class="wp-caption aligncenter"><a href="http://www.famfamfam.com/lab/icons/"><img class="size-full wp-image-1011 " title="FamFamFam" src="/wp-content/uploads/2010/05/flags_preview_large.png" alt="" width="304" height="609" /></a><p class="wp-caption-text">Pulsa para ir a la página del autor</p></div>
+<h1>Actualización 21/06/2010</h1>
+<p>Haciendo limpieza en mis notas de Evernote me he encontrado con esta dirección, que es una lista como esta, pero más grande <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://www.maxpower.ca/free-icons/2006/03/05/">http://www.maxpower.ca/free-icons/2006/03/05/</a></p>
+<p style="text-align: center;">
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El mapa de red de mi casa</title>
+		<link>/2010/02/04/el-mapa-de-red-de-mi-casa/</link>
+		<comments>/2010/02/04/el-mapa-de-red-de-mi-casa/#comments</comments>
+		<pubDate>Thu, 04 Feb 2010 16:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[geek]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=583</guid>
+		<description><![CDATA[Mal vamos cuando me he tenido que hacer un mapa de red para enterarme de algunas máquinas (las principales) que tengo por casa. Digo algunas, porque no están todas. Están las fundamentales de trabajo y ocio, pero no aparecen mis iPhones ni algunas otras que colecciono y se pueden conectar a la red (Amiga 1200, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify; ">Mal vamos cuando me he tenido que hacer un mapa de red para enterarme de algunas máquinas (las principales) que tengo por casa. Digo algunas, porque no están todas. Están las fundamentales de trabajo y ocio, pero no aparecen mis iPhones ni algunas otras que colecciono y se pueden conectar a la red (Amiga 1200, Amiga 600, Sun Solaris, PowerMac G3, Pentium IV, etc.).</p>
+<div id="attachment_584" style="width: 624px" class="wp-caption alignnone"><a href="/wp-content/uploads/2010/01/Esquema-de-red.001.png"><img class="size-full wp-image-584 " title="Esquema de red" src="/wp-content/uploads/2010/01/Esquema-de-red.001.png" alt="El esquema de red de mi casa :-)" width="614" height="461" srcset="/wp-content/uploads/2010/01/Esquema-de-red.001.png 1024w, /wp-content/uploads/2010/01/Esquema-de-red.001-300x225.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">El esquema de red de mi casa <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify; ">¿Que para qué quiero tantas máquinas? ¡Eso mismo empiezo a preguntarme yo! Unas las he comprado por trabajo (el Dell Inspiron 9400 fue mi portátil de trabajo hace tres años), otras por gusto (mi MacBook Pro, o el PowerMac G5, aunque ahora son mis herramientas principales de trabajo). Otros me los he ido encontrando por el camino y, a fin de cuentas, a todo Geek le gusta almacenar cacharros con los que trastear. Si no, no nos llamaríamos Geeks <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify; ">Tengo que escribir un post de mi escritorio actual y cómo y para qué utilizo cada ordenador. Y también voy a empezar a soltar lastre. Ahora que acabo de ver este mapa, me ha entrado pánico <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/04/el-mapa-de-red-de-mi-casa/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Cosas que me traje de las Apple Stores de NYC</title>
+		<link>/2010/01/11/cosas-que-me-traje-de-las-apple-stores-de-nyc/</link>
+		<comments>/2010/01/11/cosas-que-me-traje-de-las-apple-stores-de-nyc/#comments</comments>
+		<pubDate>Mon, 11 Jan 2010 22:09:49 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[compras]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[ipod touch]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mophie]]></category>
+		<category><![CDATA[NYC]]></category>
+		<category><![CDATA[reviews]]></category>
+
+		<guid isPermaLink="false">/?p=560</guid>
+		<description><![CDATA[En este comentario Antonio se interesaba por saber qué había comprado en NYC. Lo típico: ropa, zapatos (pero eso no interesa en este blog) y chismes. Tampoco nada espectacular (no me cabía en la maleta un Mac Pro), pero cuando llegué grabé un pequeño vídeo que he subido ahora a YouTube, en mi canal de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">En <a href="/wp-admin/edit-comments.php?p=518">este comentario</a> <a href="http://antoniosanchez.wordpress.com/">Antonio</a> se interesaba por saber qué había comprado en NYC. Lo típico: ropa, zapatos (pero eso no interesa en este blog) y chismes. Tampoco nada espectacular (no me cabía en la maleta un Mac Pro), pero cuando llegué grabé un pequeño vídeo que he subido ahora a YouTube, en <a href="http://www.youtube.com/dfreniche">mi canal de vídeos de dfreniche</a>.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/H0orbTBo8O8" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/H0orbTBo8O8"></param></object></div>
+</div>
+<p style="text-align: justify;">Es cortito y además de ir mostrando todo lo que me he traído hago una mini-review de la batería / funda Mophie Juice Pack, con la que estoy súper contento. Si alguien tiene alguna duda sobre los chismes que muestro, ya sabéis: ¡comentad, malditos!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/11/cosas-que-me-traje-de-las-apple-stores-de-nyc/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Android ya hace cosas que mi iPhone no es capaz</title>
+		<link>/2009/12/28/android-ya-hace-cosas-que-mi-iphone-no-es-capaz/</link>
+		<pubDate>Mon, 28 Dec 2009 22:18:42 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Plataformas móviles]]></category>
+
+		<guid isPermaLink="false">/?p=537</guid>
+		<description><![CDATA[&#60;modo-irónico&#62; Hace ya algún tiempo contaba qué hacer cuando una aplicación en el iPhone no se acaba de instalar desde el App Store. Y hay aplicaciones en el iPhone que fallan. Como todo hijo de vecino, el iPhone tiene sus problemas y no es la plataforma perfecta (aunque es la que más se acerca). El [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&lt;modo-irónico&gt;</p>
+<p style="text-align: justify;">Hace ya algún tiempo contaba <a href="/2009/01/11/iphone-cuando-la-instalacion-de-una-aplicacion-se-queda-a-medias/">qué hacer cuando una aplicación en el iPhone no se acaba de instalar desde el App Store</a>. Y hay aplicaciones en el iPhone que fallan. Como todo hijo de vecino, el iPhone tiene sus problemas y no es la plataforma perfecta (aunque es la que más se acerca). El caso es que he estado unos días trasteando con un móvil de Vodafone con Android, concretamente un HTC Magic blanco. Y me ha gustado Android. Es la única plataforma que va a hacerle sombra al iPhone. Palm parece que también tiene una buena apuesta con su WebOS, pero no veo yo a los programadores corriendo a esta plataforma, por mucho WebKit que se pueda usar, ni a los usuarios adoptándola masivamente.</p>
+<p style="text-align: justify;">El caso es que el móvil se quedó colgado. No una aplicación, sino uno de los procesos principales del S.O. Y no pude resistir la tentación de sacarle una foto y ponerla por aquí. El mensaje es de lo más claro para un usuario normal «<em>El proceso android.process.acore no está respondiendo</em>«, en la más <a href="/2008/12/30/mensaje-de-error-actualizando-de-ubuntu-710-a-ubuntu-810/">clásica tradición Linuxera</a>. ¡Así da gusto!. Si algo falla en un terminal portátil, es mejor cerrar la aplicación y no contarle nada al usuario. La gente normal vuelve a abrir el programa y, si no falla de nuevo, sigue con su vida tan contenta. Esta manía de informático de poner un diálogo modal con un mensajito es algo que debe ir cambiando paulatinamente, si es que Android no quiere enfocarse únicamente a los iniciados en temas técnicos. Porque si va por ahí, va a durar bastante poco a medida que salgan nuevas generaciones de iPhones&#8230;</p>
+<div id="attachment_538" style="width: 235px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/12/android-cuelgue.jpg"><img class="size-medium wp-image-538" title="android-cuelgue" src="/wp-content/uploads/2009/12/android-cuelgue-225x300.jpg" alt="Un mensaje clarito además de tener el teléfono colgado..." width="225" height="300" srcset="/wp-content/uploads/2009/12/android-cuelgue-225x300.jpg 225w, /wp-content/uploads/2009/12/android-cuelgue-768x1024.jpg 768w, /wp-content/uploads/2009/12/android-cuelgue.jpg 1536w" sizes="(max-width: 225px) 100vw, 225px" /></a><p class="wp-caption-text">Un mensaje clarito además de tener el teléfono colgado...</p></div>
+<p>&lt;/modo-irónico&gt;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Iniciando una nueva etapa</title>
+		<link>/2009/11/29/iniciando-una-nueva-etapa/</link>
+		<comments>/2009/11/29/iniciando-una-nueva-etapa/#comments</comments>
+		<pubDate>Sun, 29 Nov 2009 08:32:45 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Isotrol]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+
+		<guid isPermaLink="false">/?p=495</guid>
+		<description><![CDATA[Estoy muy ilusionado. Excitado. Motivado. Todo lo bueno que puedas pensar que acabe en ado. La razón: inicio una nueva etapa profesional en Enero de 2010, que comienzo a preparar ahora en Diciembre, relacionada con la tecnología que más me gusta ahora. ¿Doy pistas?. Sí, es el mundo Mac y el iPhone. Voy a dedicarme [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify; ">Estoy muy ilusionado. Excitado. Motivado. Todo lo bueno que puedas pensar que acabe en <em>ado</em>. La razón: inicio una nueva etapa profesional en Enero de 2010, que comienzo a preparar ahora en Diciembre, relacionada con la tecnología que más me gusta ahora. ¿<a href="/category/informatica/iphone/" target="_blank">Doy pistas</a>?. Sí, es el mundo Mac y el iPhone. Voy a dedicarme a escribir aplicaciones para la plataforma Movil de Apple (iPhone y iPod touch).</p>
+<p style="text-align: justify; ">Mi vida laboral es un continuo cambio. De empresas y de roles. He hecho casi de todo, como se puede ver en <a href="http://es.linkedin.com/in/dfreniche/" target="_blank">mi perfil de linkedin</a>. Desde vender en una tienda de ordenadores, hasta tener mi propia empresa, ser consultor para Pymes, jefe de proyecto en Telefónica Soluciones, formador, responsable de TI&#8230; Muchos cambios, y casi siempre como Empresario Individual (autónomo o freelance, como prefieras). Mi perfil choca un poco en España (y más en el Sur), donde en mi sector los ciclos duran algunos años más. En otros sitios encajaría mejor. Pero vivo donde vivo y además me gusta. En todos los puestos que he estado he sido siempre un vector de cambio. Nunca me conformo. Cuando algo funciona mal, procuro cambiarlo. Cuando está bien, trato de mejorarlo. Bueno, todo, menos esta web, que está abandonada. Pero le va a llegar su hora pronto <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify; ">Bueno, que me pierdo. La verdad es que, con la crisis rugiendo fuera y todo el paro que hay ahora hay que estar un poco loco para lanzarse a montar un negocio. Eso, y ser muy optimista, tener energía, confiar en uno mismo, conocer el sector y, sobre todo, conocer los propios puntos débiles para no caer en los errores de pasadas veces. Esta es la segunda vez que monto una empresa. Y <a href="http://www.elelog.es/">Elelog</a> sigue existiendo, gracias al trabajo de David. Pero siempre me gusta pensar que si sigue ahí también es un poco por mi culpa.</p>
+<p style="text-align: justify; ">Lo peor del cambio es irme de <a href="https://www.isotrol.com/" target="_blank">Isotrol</a>. He conocido a mucha gente excelente y que, sorprendentemente, me aprecia de verdad. ¡Con lo mal que les trato!. Será por eso, a lo mejor ;-). El trabajo gestionando los servicios de Isotrol ha sido apasionante. Me ha encantado, porque he podido aprender sin parar, tanto de gestión de servicios (ITIL) como de gestión de equipos y de tecnología.  Encima, tenía pleno apoyo de la dirección y un equipo que solo puedo describir como casi inmejorable. Como personas, para comérselos. Como profesionales uno a uno, de lo mejorcito que he visto. Una vez que han empastado como equipo es impresionante el trabajo que han desarrollado. De 13 personas cuando yo llegué, con n servicios, hemos pasado a n*2 servicios con 7 personas. En serio, si alguien de Google está leyendo esto, que se lleve el lote completo, que esta gente te montan lo que necesites para la nube en un rato.</p>
+<p style="text-align: justify; ">
+<div id="attachment_496" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/11/parte_equipo.JPG"><img class="size-full wp-image-496" title="parte_equipo" src="/wp-content/uploads/2009/11/parte_equipo.JPG" alt="Parte de mi equipo en Isotrol: José, Gabri y Javi con un insider :-)" width="640" height="425" srcset="/wp-content/uploads/2009/11/parte_equipo.JPG 640w, /wp-content/uploads/2009/11/parte_equipo-300x199.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a><p class="wp-caption-text">Parte de mi equipo en Isotrol: José, Gabri y Javi con un insider <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify; ">Así que estamos en un cambio por amor al iPhone, por culpa de mi mala cabeza y dejando atrás un sitio en el que he estado muy, muy a gusto. Toca ahora leer sobre emprendimiento, web 2.0, Objective-C, XML, iPhone y no se cuántas cosas más. Configurar máquinas, programar, planificar, pensar&#8230;</p>
+<p style="text-align: justify; ">¡Nos vemos en el <a href="http://www.apple.com/iphone/apps-for-iphone/" target="_blank">AppStore</a> en breve!</p>
+<p style="text-align: justify; ">
+]]></content:encoded>
+			<wfw:commentRss>/2009/11/29/iniciando-una-nueva-etapa/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+	</channel>
+</rss>

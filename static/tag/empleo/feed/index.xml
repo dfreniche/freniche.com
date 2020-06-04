@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Empleo &#8211; freniche.com</title>
+	<atom:link href="/tag/empleo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Recruiting Nigeriano: Guía de supervivencia para que el personal de RRHH sepa cómo contratar informáticos</title>
+		<link>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/</link>
+		<comments>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/#comments</comments>
+		<pubDate>Sun, 05 Aug 2012 18:14:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Empleo]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[trabajo]]></category>
+
+		<guid isPermaLink="false">/?p=1739</guid>
+		<description><![CDATA[Hace un tiempo que trato bastante con «recruiters», con «expertos» en Recursos Humanos. Siempre he pensado que esta gente empezaban ya mal con ese nombre, ya que los trabajadores especializados no somos intercambiables (por ej., yo nunca podría hacer el trabajo de un administrador de BB.DD. porque no tengo ni idea de eso). Es decir, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.estrenoscinema.es/2011/05/el-viaje-del-director-de-recursos.html"><img class="aligncenter size-full wp-image-1742" title="Película: El viaje del director de RR.HH." src="/wp-content/uploads/2012/08/viaje_director_recursos_humanos.jpg" alt="Película: El viaje del director de RR.HH." width="286" height="400" srcset="/wp-content/uploads/2012/08/viaje_director_recursos_humanos.jpg 286w, /wp-content/uploads/2012/08/viaje_director_recursos_humanos-214x300.jpg 214w" sizes="(max-width: 286px) 100vw, 286px" /></a></p>
+<p>Hace un tiempo que trato bastante con «recruiters», con «expertos» en Recursos Humanos.</p>
+<p>Siempre he pensado que esta gente empezaban ya mal con ese nombre, ya que <strong>los trabajadores especializados no somos intercambiables</strong> (por ej., yo nunca podría hacer el trabajo de un administrador de BB.DD. porque no tengo ni idea de eso). Es decir, que no somos «recursos» que, si se agotan (porque se van a otra empresa)  va uno al supermercado y te traes otro. «¿Me pone cuarto y mitad de programador Java, por favor?». Somos especialistas con un grado de formación constante muy alto y eso es algo que fallan en reconocer. Como tampoco se valora la extrema dificultad que tiene el trabajo de programador: en cualquier momento, tienes que tener en la cabeza la estructura de tu proyecto, las reglas sintácticas del lenguaje que uses, cómo utilizar tu IDE y herramientas, cómo probar los ejecutables, SQL, dónde está tu base de datos en la red, Patrones de diseño, TDD, &#8230; Y claro, luego pasa lo que pasa. Que te contactan y dan una impresión de pena. <strong>Son los nuevos spammers</strong>, enviando el mismo correo a todo lo que se mueve en la esperanza de que alguien pique. Es la táctica «<strong>recruiting nigeriano</strong>«</p>
+<p>Si quieres contratar informáticos, y te precias de <a href="http://es.wikipedia.org/wiki/Sic">[sic]</a> «seleccionar a grandes profesionales» o cualquier otro rollo que aparezca en tu tarjeta de <em>body-shopper</em>, sigue estos consejos para al menos no mosquear al personal:</p>
+<ul>
+<li>si me contactas desde LinkedIn, por favor, no me pidas un «CV actualizado en formato Word». Uso LinkedIn precisamente <strong>para no mantener un documento con mi CV</strong>, documento que además no se suele tener actualizado. <a href="http://www.linkedin.com/in/dfreniche">En mi perfil</a> puedes ver todo lo que estoy haciendo. Y hay un fantástico botón de «imprimir como PDF». Así, de paso, cada uno hace su trabajo. No creo que yo tenga que andar rellenándote tu base de datos, porque tú no me vas a solucionar un par de bugs a cambio ¿cierto?</li>
+<li>cuando me mandes un mensaje, sea a través de LI o de email, suele agradar que te llamen por tu nombre correcto de pila y no por el de otro. Si veo que el mensaje es de manera muy evidente, un «corta, pinta y colorea» aumenta la sensación de «SPAM RRHH» y me lo tomo menos en serio. Y no, no me llamo Mario.</li>
+<li>trabajar para una «empresa líder en el sector de las telecomunicaciones» o cualquier otra frase rimbombante para ocultar la empresa final no me impresiona. Me molesta. <strong>Un contrato es un acuerdo entre dos partes. Quiero saber dónde me ofreces trabajar</strong>, ya que yo no oculto nada. He trabajado y colaborado (muchas veces de manera indirecta, en la cadena interminable de subcontratas) para Telefónica, HP o Fujitsu, luego no me deslumbra lo de «líder». Entiendo el miedo del reclutador: perder su comisión por conseguir al candidato para el puesto. Pero en este caso no creo que nadie se salte al recruiter. ¿Me van a pagar más si lo hago directamente con la empresa final? No tiene sentido este miedo y creo que, al contrario, crea confianza desde el primer momento.</li>
+<li>dime para qué me quieres contratar. Para programar Apps iOS, como formador, etc. <strong>Salario, empresa y qué voy a estar haciendo son las cosas que probablemente tienen más peso</strong>. Y no te inventes puestos de trabajo con nombres absurdos. Si voy a programar, soy programador o desarrollador. No soy «ensamblador de códigos y mago del teclado»</li>
+<li>detalles geeks, si quieres ganarme. ¿Qué ordenador y equipamiento voy a tener? ¿Se usan metodologías ágiles? ¿SVN o Git? ¿Puedo llevar mi portátil si el que me ofreces no me gusta? ¿Das algún dispositivo móvil? ¿Me mandarías al WWDC?</li>
+<li>otros detalles generales se agradecen: ¿Donde es el trabajo? ¿Hay que viajar? ¿Necesitas que hable inglés?</li>
+<li>trata de comprender las tecnologías que maneja la gente que vas a contratar. Si veo que no distingues entre una BBDD y programar en LISP puedo pensar que no distingas entre una buena y una mala oferta. Buscar filtrando por un montón de siglas que no comprendes normalmente no da buen resultado</li>
+<li>no termines tu mensaje diciéndome «pero si no te gusta el puesto, ¿puedes localizarme a alguien que le interese?». Perdona, pero <strong>ese es TU trabajo</strong>. Si el puesto es increíble y «awesomico» (como diría <a href="http://www.bonillaware.com/">David Bonilla</a>) ya me encargaré yo solito de comentárselo a mis amigos. Si no lo es, y quieres que trabaje por ti, hay una cosa que se llaman referrals: me pagas si te mando un candidato valido. Que ya está bien. Además de arreglar el ordenador del primo de turno gratis ahora tenemos que hacer esto también. Ni de coña.</li>
+</ul>
+<p>Si te ha gustado esto, puedes continuar leyendo mi análisis de <a href="/2010/11/06/los-dos-tipos-de-negocio-de-desarrollo-de-software/">los dos tipos de negocio de desarrollo de software</a>. Sobre vendedores de carne y demás.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+		<item>
+		<title>Isotrol: Freniche Strikes Back</title>
+		<link>/2007/09/15/isotrol-freniche-strikes-back/</link>
+		<pubDate>Sat, 15 Sep 2007 18:43:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Isotrol]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Empleo]]></category>
+
+		<guid isPermaLink="false">/2007/09/15/isotrol-freniche-strikes-back/</guid>
+		<description><![CDATA[Repasando las noticias que he publicado este año me he dado cuenta que estoy en Septiembre y no he comentado en ningún sitio que mi forma de ganarme la vida ha cambiado&#8230; de nuevo. Hace unos meses, hablando con David Ragel, el socio con el que fundé Elelog, me dijo que mi perfil era de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">
+<div id="attachment_597" style="width: 105px" class="wp-caption aligncenter"><a href="http://www.isotrol.com/"><img class="size-full wp-image-597" title="logo_isotrol" src="/wp-content/uploads/2007/09/logo_isotrol.gif" alt="Isotrol" width="95" height="30" /></a><p class="wp-caption-text">Isotrol</p></div>
+<p class="bodytext">Repasando las noticias que he publicado este año me he dado cuenta que estoy en Septiembre y no he comentado en ningún sitio que mi forma de ganarme la vida ha cambiado&#8230; de nuevo.</p>
+<p class="bodytext">Hace unos meses, hablando con David Ragel, el socio con el que fundé <a class="external-link-new-window" title="Opens external link in new window" href="http://www.elelog.es/" target="_blank">Elelog</a>, me dijo que mi perfil era de cambiar de trabajo cada dos años. Creo que me lo dijo como algo peyorativo. Ya se sabe que si cambias mucho de trabajo es que no eres constante, te desanimas ante las dificultades, no tienes las cosas claras&#8230; Bueno, eso que se lo digan a <a class="external-link-new-window" title="Opens external link in new window" href="http://en.wikipedia.org/wiki/Steve_Jobs" target="_blank">Steve Jobs</a>.</p>
+<p class="bodytext">Curiosamente, las empresas suelen buscar estos perfiles, cuando los cambios están justificados. Si te han despedido por, digámoslo románticamente, hacer de Robin Hood con los beneficios de la empresa o por aparecer borracho en aquella reunión con los clientes, o salir con la hija del jefe quizá debas replanteártelo. Aunque siempre te puedes fugar con ella al caribe y beber mojitos con el dinero afanado&#8230;</p>
+<p class="bodytext">Bueno, que me pierdo. El caso es que si has estado en diferentes puestos en diferentes empresas la teoría es que te has enriquecido como profesional. O eso dicen. Yo veo mis cambios como una búsqueda del trabajo que puedo hacer mejor, que es el que me hace feliz. Si un trabajo me aburre, lo normal es que me vaya. Si es difícil, o requiere muchas horas, o hay que trabajar mucho, o lo que sea, pero me motiva, es raro que me mueva.</p>
+<p class="bodytext">En un trabajo así estaba hasta Enero del 2007. Impartiendo <a class="internal-link" title="Opens internal link in current window" href="sobre-mi/trabajo/cursos-impartidos/">cursos de Java, Linux, UML</a>, etc. por España. Escribiendo algún <a class="internal-link" title="Opens internal link in current window" href="sobre-mi/trabajo/pcworld/">artículo en PCWorld</a>. Leyendo, aprendiendo. Impartiendo los cursos de <a class="internal-link" title="Opens internal link in current window" href="sobre-mi/trabajo/incyde/">Incyde</a> de consolidación de empresas. Viajando mucho. Vamos, el paraíso.</p>
+<p class="bodytext">El problema se llama Gonzalo y tiene ahora casi 20 meses. Me niego a no ver crecer a mis hijos. Y tanto viaje se acaba notando. Así que estaba pensando esto cuando me vinieron a ofrecer un puesto en Isotrol. Responsable de Formación. Suena bien.</p>
+<p>Así que me convertí en el Director del Departamento de Formación. Un compañero me dijo hace unos meses que yo era un departamento al que se puede invitar a un café: estoy yo solo. Mi trabajo: montar el departamento y gestionar la formación para una empresa de 230 personas, de momento.</p>
+<p class="bodytext">Dedico mis días a terminar de equipar el aula del edificio Bluenet, a gestionar los cursos para los trabajadores, a detectar las necesidades de formación y darles solución, a ayudar a conseguir las diferentes certificaciones (Sun, LPI,  Oracle, etc.), a impartir algún curso esporádicamente. Hago muchas cosas y muy variadas, de las que iré contando lo que pueda (lo siento chicos de la competencia :-)) en sucesivas noticias.</p>
+<p class="bodytext">Así que <a class="external-link-new-window" title="Opens external link in new window" href="http://maps.google.es/maps?f=q&amp;hl=es&amp;geocode=&amp;q=avda+isaac+newton+3,+41092,+sevilla&amp;sll=40.396764,-3.713379&amp;sspn=13.627337,34.628906&amp;ie=UTF8&amp;z=17&amp;iwloc=cent&amp;om=1" target="_blank">ya sabés dónde encontrarme</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Quién escribe estas ofertas de trabajo?</title>
+		<link>/2006/09/21/quien-escribe-estas-ofertas-de-trabajo/</link>
+		<pubDate>Thu, 21 Sep 2006 09:02:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[Empleo]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+
+		<guid isPermaLink="false">/2006/09/21/quien-escribe-estas-ofertas-de-trabajo/</guid>
+		<description><![CDATA[Una de mis aficiones, cuando estoy supuestamente trabajando, es entrar cada cierto tiempo en los portales de empleo y ver qué se cuece en el mercado informático. En parte, es morbo por ver la cara tan dura que tienen algunos empleadores ofreciendo 12.000 Eur./año por un puesto con 5 años de experiencia. ¡Pero encima hay [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Una de mis aficiones, cuando estoy supuestamente trabajando, es entrar cada cierto tiempo en los portales de empleo y ver qué se cuece en el mercado informático. En parte, es morbo por ver la cara tan dura que tienen algunos empleadores ofreciendo 12.000 Eur./año por un puesto con 5 años de experiencia. ¡Pero encima hay quien envía su C.V.! En parte, es nostalgia de aquellos tiempos en los que tenía jefe y de lo único que me ten?a que preocupar era de hacer mi trabajo y cobrar a fin de mes. Ser tu propio jefe suena muy bonito, pero cuando algo sale mal no puedes echarle las culpas a nadie (bueno, sí, a tí mismo).</p>
+<p class="bodytext">Hoy estaba mirando ofertas en <a href="http://www.tecnoempleo.com/" target="_blank">Tecnoempleo</a> y me he encontrado con dos «perlas». Vamos a por la primera:</p>
+<p class="bodytext">
+<blockquote>
+<div id="cita">PROGRAMADORES Y ANALISTAS JAVA/J2EE</p>
+<p class="bodytext">Preferiblemente Ingeniero Tecnico o Superior en informatica de gestión o sistemas con al menos 1 años de experiencia en el desarrollo de proyectos con tecnologia JAVA</p>
+<p class="bodytext">REQUISITOS MÍNIMOS:</p>
+<p class="bodytext">&#8211; JAVA/J2EE (JSP, Servlets,etc)</p>
+<p class="bodytext">&#8211; Patrón de diseño MVC &#8211; Struts</p>
+<p class="bodytext">&#8211; JDBC</p>
+<p class="bodytext">&#8211; Apache Tomcat</p>
+<p class="bodytext">&#8211; Linux nivel Usuario</p>
+<p class="bodytext">&#8211; UML</p>
+<p class="bodytext">&#8211; HTML, Javascript</p>
+<p class="bodytext">&#8211; XML</p>
+<p class="bodytext">&#8211; SQL-PostgreSQL</p>
+<p class="bodytext">&#8211; IDE&#8217;s Eclipse/Netbeans</p>
+<p class="bodytext">Experiencia en alguno/s de los siguientes REQUISITOS DESEADOS:</p>
+<p class="bodytext">Frameworks Jakarta:</p>
+<p class="bodytext">&#8211; JSF</p>
+<p class="bodytext">&#8211; Cocoon</p>
+<p class="bodytext">&#8211; Spring</p>
+<p class="bodytext">Bases de Datos:</p>
+<p class="bodytext">&#8211; Oracle</p>
+<p class="bodytext">&#8211; DB2</p>
+<p class="bodytext">Entornos Desarrollo:</p>
+<p class="bodytext">&#8211; JDeveloper</p>
+<p class="bodytext">&#8211; WebSphere Studio</p>
+<p class="bodytext">Herramientas OpenSource:</p>
+<p class="bodytext">&#8211; Persistencia Objetos Java : Hibernate, JDO, iBAtis, etc.</p>
+<p class="bodytext">&#8211; OPENCMS, ZOPE, Alfresco u otros gestores de contenidos</p>
+<p class="bodytext">&#8211; Motores de Workflow (como Bonita,etc.)</p>
+<p class="bodytext">Experiencia con alguno de los siguientes servidores de aplicaciones :</p>
+<p class="bodytext">&#8211; JBoss</p>
+<p class="bodytext">&#8211; SunOne Application Server</p>
+<p class="bodytext">&#8211; IBM Websphere</p>
+<p class="bodytext">&#8211; BEA Weblogic</p>
+<p class="bodytext">&#8211; Oracle IAS</p>
+<p class="bodytext">Herramientas CASE, análisis y diseño software:</p>
+<p class="bodytext">&#8211; PowerDesigner(SyBase)</p>
+<p class="bodytext">&#8211; Rational Rose</p>
+<p class="bodytext">Otros:</p>
+<p class="bodytext">&#8211; Administración electrónica, y/o Plataformas de la Junta de Andalucia (como @Firma, Trew @, Wand @, etc.)</p>
+<p class="bodytext">&#8211; PHP</p>
+<p class="bodytext">&#8211; Flex</p>
+<p class="bodytext">&#8211; Ajax</p>
+</div>
+</blockquote>
+<p class="bodytext">¿Ya? ¿Hemos terminado? ¡Buff, menos mal!. Sólo falta pedir experiencia programando el kernel de Linux y la obligación de realizar como prueba de ingreso en la empresa un compilador de COBOL escrito en Prolog.</p>
+<p class="bodytext">Vamos por partes. La frase «al menos 1 <em>años</em> de experiencia» me sugiere que la persona de RR.HH. no quiere pagar la experiencia necesaria para ser experto en todo lo que piden, pero probablemente algún técnico comentó la barbaridad de pedir un «experto» en todo esto con sólo un año de experiencia. Por eso escribieron inicialmente «al menos 3 años de experiencia» pero al coger la calculadora RR.HH. (aka <a href="http://es.wikipedia.org/wiki/T%C3%ADo_Gilito" target="_blank">Tío Gilito</a>) cambió el 3 por 1. Se le olvidó la concordancia en número de la frase, pero eso es un fallo menor.</p>
+<p class="bodytext">Es posible que una persona con un año de experiencia conozca los requisitos mínimos, aunque sin demasiada profundidad. No comprendo la necesidad de dominar los dos IDEs (Eclipse y NetBeans). Con conocer uno de los dos, basta. Y en 1 año no aprendes <em>en profundidad</em> a manejar ambos, eso seguro. Al menos, si tienes que ver el resto de requisitos DESEADOS.</p>
+<p class="bodytext">Porque es aquí donde comienza la paranoia. No bastaban dos IDEs, para pedir los otros dos dominantes en el mercado. Ya no quedan más IDEs Java por añadir a la oferta. Y encima, el WebSphere Studio es la versión comercial de Eclipse, que la propia IBM liberó como proyecto de Software Libre. El desconocimiento al poder.</p>
+<p class="bodytext">La parte que empieza con los «Frameworks Jakarta» es espectacular: <a href="http://jcp.org/en/jsr/detail?id=127" target="_blank">JSF</a> NO es de Jakarta. Existe una implementación de JSF de Jakarta, llamada <a href="http://myfaces.apache.org/" target="_blank">MyFaces</a>, lo que es <em>algo</em> distinto. ¿<a href="http://www.springframework.org/" target="_blank">Spring</a> tiene algo que ver con Jakarta?. Aquí me he perdido. Tenía entendido que era un producto Open Source creado por <a href="http://www.springframework.com/" target="_blank">Interface21</a>, pero seguro que me he equivocado.</p>
+<p class="bodytext">Cuando llegamos a la parte de Servidores de Aplicaciones, la persona que ha redactado esto continua con su carta a los Reyes Magos. Si la criatura no tuvo bastante con aprender Tomcat en 1 año, ¿por qué no pedir también un contenedor Java EE?. Total, pedir es gratis. Así que basta con saber <em>uno</em> de los listados, <em>además</em> de Tomcat.</p>
+<p class="bodytext">Como ya estamos desbocados a estas alturas de la oferta, pidamos BDs. ¿Nos conformamos con MySQL para ir tirando? No, hombre, no, pidamos Oracle <em>y</em> DB2. Total, todo el mundo instala en su casa para trastear DB2 ¿no? Continuamos con los datos. No basta con saber JDBC, queridos. Aprended un framework que os alivie de hacer el mapeado Objeto-Relacional. Bueno, qué digo, ¿para qué uno, pudiendo pedirlos todos? Así que pedimos Hibernate, JDO e iBatis DAO. Sólo falta OJB, de Jakarta, aunque supongo que ese es el «etc.»</p>
+<p class="bodytext">Y para qué seguir. Ajax, OpenCMS, Zope (aunque no entiendo qué demonios hace un gestor de contenidos escrito en Phyton en esta oferta), y la lista sigue y sigue&#8230;</p>
+<p class="bodytext">¿Quién redacta estas listas de acrónimos? ¿Quién es tan osado de pedir tal lista de tecnologías con sólo 1 año de experiencia? Entiendo que los recién titulados se sientan mal, se sientan estresados, porque el nuestro es un mundo cambiante y cada vez más amplio. Pero <em>genios</em> reclutadores como los que escriben estas ofertas no ayudan. Una persona trabajadora, brillante, apasionada de la Informática y la Programación puede deprimirse leyendo lo que piden para un novato.</p>
+<p class="bodytext">¿Y quién se apunta a estas ofertas? Sólo son leerla ya se vislumbra quién manda en la empresa demandante: gente que no tiene ni la más remota idea de la parte técnica del trabajo, que, por cierto, y a ver si nos enteramos aquí en España, <strong>es la más importante</strong>. Ya está bien de tanto comercial sin formación ni ganas de aprender, de tanto jefecillo intermedio con títulos que no caben en una cara de la tarjeta de visita, de gestores que intentan triunfar en el mundo de la consultoría sin conocer qué hacen los empleados que subcontratan frente al ordenador.</p>
+<p class="bodytext">Todo informático que esté buscando un empleo debería leerse <a href="http://www.joelonsoftware.com/articles/FieldGuidetoDevelopers.html" target="_blank">este artículo de Joel Spolsky</a>. A ver si así espabilamos un poco a los que escriben estas idioteces con forma de listas de acrónimos.</p>
+<p class="bodytext">
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

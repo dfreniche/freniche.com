@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>retrocomputing &#8211; freniche.com</title>
+	<atom:link href="/tag/retrocomputing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi MacMini con Morphos 2.6</title>
+		<link>/2010/10/19/mi-macmini-con-morphos-2-6/</link>
+		<comments>/2010/10/19/mi-macmini-con-morphos-2-6/#comments</comments>
+		<pubDate>Tue, 19 Oct 2010 10:15:04 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[MorphOS]]></category>
+		<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/?p=1161</guid>
+		<description><![CDATA[Lo he hecho. Una frikada de tomo y lomo. O un adelanto de mi cumpleaños, según se mire. Sea como sea, me he comprado un Mac Mini G4 de segunda mano. Sí, en los tiempos que corren. Y encima, le he instalado MorphOS como S.O., en exclusiva. Características del hardware: PowerPC G4 a 1.25 Ghz [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2010/10/morphos-mini.png"><img class="aligncenter size-full wp-image-1163" title="morphos-mini" src="/wp-content/uploads/2010/10/morphos-mini.png" alt="" width="320" height="240" srcset="/wp-content/uploads/2010/10/morphos-mini.png 320w, /wp-content/uploads/2010/10/morphos-mini-300x225.png 300w" sizes="(max-width: 320px) 100vw, 320px" /></a></p>
+<p style="text-align: justify;">Lo he hecho. Una frikada de tomo y lomo. O un adelanto de mi cumpleaños, según se mire. Sea como sea, me he comprado un Mac Mini G4 de segunda mano. Sí, en los tiempos que corren. Y encima, le he instalado <a href="http://es.wikipedia.org/wiki/MorphOS">MorphOS</a> como S.O., en exclusiva. Características del hardware:</p>
+<ul>
+<li>PowerPC G4 a 1.25 Ghz</li>
+<li>1 GB RAM. El máximo que soporta <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>HD de 40 GB. Un poco escaso para otros S.O., pero para MorphOS esto es el infinito, o casi. Como no lo llene de MP3s o de películas&#8230;</li>
+<li>Tarjeta de vídeo integrada de 32 MB. El punto flaco. Cuando abro muchas ventanas veo cómo se va quedando MorphOS sin memoria de vídeo, pero bueno, es lo que hay&#8230;</li>
+<li>No tiene bluetooth ni WiFi. No me quita el sueño: dispongo de un teclado Mac con cable USB, además de un Mighty Mouse (que le regalé a mi mujer, pero que nunca usa), así que BT no es imprescindible. Y respecto a la WiFi, además de no estar soportada (creo) tengo la máquina demasiado cerca de mi Time Capsule como para no conectarla con un cable.</li>
+</ul>
+<p style="text-align: justify;">El equipo cabe perfectamente bajo el <a href="http://www.griffintechnology.com/products/elevator">Griffin Elevator</a> que mantiene a mi Macbook Pro, de forma que lo puedo tener en la mesa para «echar un ratito rápido» sin que me ocupe espacio. Además, hace juego con el MBP y mi iMac de 27&#8243;, consiguiendo una «mesa mac» total. Aunque no tenga instalado Mac OS X, claro. Le he instalado MorhOS en exclusiva, porque en mi caso no tendría sentido disponer de Tiger (Mac OS X 10.4) o Leopard cuando ya tengo dos máquinas con Snow Leopard en la mesa. Y este equipo se ha pedido para lo que se ha pedido: para tontear con MorphOS.</p>
+<p style="text-align: justify;">
+<div id="attachment_1174" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg"><img class="size-full wp-image-1174" title="MacMiniG4BajoMBP" src="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg" alt="Mi Mac Mini G4 bajo mi MBP" width="800" height="625" srcset="/wp-content/uploads/2010/10/MacMiniG4BajoMBP1.jpg 800w, /wp-content/uploads/2010/10/MacMiniG4BajoMBP1-300x234.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Mi Mac Mini G4 bajo mi MBP</p></div>
+<p>Bueno, pero ¿qué es MorphOS? No voy a explicar una vez más todo lo que ya explican en la <a href="http://www.morphos-team.net/">página oficial de MorphOS</a>, pero sí os diré que es un S.O. derivado del AmigaOS, cuyos objetivos es ser compatible con los programas de Amiga (siempre que sea posible) y ser muy óptimo, tanto en espacio como en tiempo de ejecución. Ni es un UNIX (como los Linux, Mac OS X, Solaris, &#8230;) ni viene de la rama Windows. Es la auténtica tercera vía, algo distinto y nuevo, si no has visto un Amiga antes. Aunque muchas de sus ideas tienen ¿20 años? <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">El arranque de la máquina es fulgurante. No he visto nada igual (bueno, cuando se arrancaba un MSDOS recién instalado). Llevo sólo un par de días con él, pero lo quería presentar ya en sociedad, porque quiero dedicar una parte de mi sección de <a href="/retrocomputing/">Retroinformática</a> a <a href="/morphos/">MorphOS</a>, aunque estrictamente hablando, es un SO moderno que está en desarrollo y no es «retro», pero así me organizo mejor.</p>
+<p style="text-align: justify;">A medida que vaya haciendo cosas quiero iniciar una serie de posts hablando de MorphOS, ya que hay muy poca documentación en Español en la red. Bueno, en Inglés tampoco es que esté la cosa mucho mejor :-). Identificaré los posts claramente para que los no interesados se los salten sin piedad.</p>
+<p style="text-align: justify;">Como nota financiera final, indicar que me ha costado el equipo 160 Eur. puesto en casa, con su caja original impecable. Creo que ha sido una buena operación. A eso hay que sumarle el coste de la licencia de MorphOS (no, no es Software Libre, ni es gratis) que son 111,11 Eur. No es barato, pero quiero apoyar a los desarrolladores de este S.O., distinto y divertido.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/19/mi-macmini-con-morphos-2-6/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>Juegos de Amiga grabados en vídeo</title>
+		<link>/2007/03/05/juegos-de-amiga-grabados-en-video/</link>
+		<pubDate>Mon, 05 Mar 2007 14:40:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Retroinformática]]></category>
+		<category><![CDATA[Juegos]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/2007/03/05/juegos-de-amiga-grabados-en-video/</guid>
+		<description><![CDATA[Hoy en día ya casi no quedan salones de videojuegos. En los centros comerciales, mezclados con la mesa de hockey esa que se usa con las manos y la noria para bebés, quedan algunas máquinas con pantallas descomunales y sonido atronador que ya no nos impresionan. ¿Para qué?. La gente tiene 32&#8243; en la tele [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Hoy en día ya casi no quedan salones de videojuegos. En los centros comerciales, mezclados con la mesa de hockey esa que se usa con las manos y la noria para bebés, quedan algunas máquinas con pantallas descomunales y sonido atronador que ya <em>no nos impresionan</em>. ¿Para qué?. La gente tiene 32&#8243; en la tele de casa. Y una XBox 360. O lleva la misma potencia gráfica en una PSP.</p>
+<p class="bodytext">Recuerdo cuando veía en las presentaciones de las máquinas <a href="http://es.wikipedia.org/wiki/Neo_Geo" target="_blank">NEO-GEO</a> que tenían ¡»330 Meg» de memoria!. ?Alucinante!. Alucinante, claro, si tu ordenador es un 286 con 2MB de RAM. Hoy día mi tarjeta de vídeo tiene 512 MB&#8230;</p>
+<p class="bodytext">El caso es que en los tiempos dorados de los videojuegos, cuando me pasaba tardes enteras en los salones jugando a cosas como <a href="http://en.wikipedia.org/wiki/Yie_Ar_Kung_Fu" target="_blank">Yie-ar kung fu</a>, <a href="http://en.wikipedia.org/wiki/Black_Tiger_%28arcade_game%29" target="_blank">Black Tiger</a>, <a href="http://en.wikipedia.org/wiki/Kung_Fu_Master" target="_blank">Kung-fu master</a> y <a href="http://en.wikipedia.org/wiki/List_of_arcade_games" target="_blank">tántas otras</a>, una de las cosas que más se disfrutaba era ver a alguien que jugaba realmente bien a una máquina. Jugar era muy divertido, pero por la excitación del momento (luchabas por no perder tus 25 pesetas) no disfrutabas de la música, los gráficos, los movimientos, la ambientación, &#8230; Por eso se formaban corrillos detrás de algún <em>jugón</em>, de gente en éxtasis mirando cómo pasaba nivel tras nivel.</p>
+<p class="bodytext">Pues eso es lo que he vuelto a sentir al ver los vídeos de <a href="http://recordedamigagames.ath.cx/" target="_blank">Recorded Amiga games</a>, una web en la que gente se ha grabado jugando a maravillas como Monkey Island 2 y lo comparten con nosotros para disfrutarlo. Hay gente que prefiere ver vídeos de caídas en Youtube. Yo prefiero ésto.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Lleva tu blog en un Pendrive</title>
+		<link>/2006/05/01/lleva-tu-blog-en-un-pendrive/</link>
+		<pubDate>Mon, 01 May 2006 10:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Historia informática]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/2006/05/01/lleva-tu-blog-en-un-pendrive/</guid>
+		<description><![CDATA[Desde que llevo usando un ordenador (aprox. desde 1988) me doy cuenta de que sus usos crecen y crecen. Al principio no disponíamos de tarjetas de sonido en los PCs. Luego nada de WinAmp. Ni de CD-ROM (sí, sí, lector incrédulo, incluso existían disqueteras de 5&#8243;1/4). Luego nada de F.E.A.R. Pero también es cierto que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Desde que llevo usando un ordenador (aprox. desde <a href="/retrocomputing/">1988</a>) me doy cuenta de que sus usos crecen y crecen. Al principio no disponíamos de tarjetas de sonido en los PCs. Luego nada de WinAmp. Ni de CD-ROM (sí, sí, lector incrédulo, incluso existían disqueteras de 5&#8243;1/4). Luego nada de F.E.A.R. Pero también es cierto que hay necesidades de usar los ordenadores que no cambian.</p>
+<p class="bodytext">Para estas necesidades uno va cambiando de programa, esperando mejorar. Por ejemplo, para editar textos, he usado WordStar, ChiWriter, WordPerfect 5.1, Word (en muchas versiones) y ahora uso sobre todo OpenOffice.org Writer.</p>
+<p class="bodytext">Pues bien, una de las necesidades que aparecen cuando se usan ordenadores es guardar «perlas» de información de alguna manera organizada. Estas perlas pueden ser una respuesta de un foro en la que se explica cómo instalar los drivers de tu tarjeta gráfica, un enlace que te encontraste a una web muy interesante y que no quieres perder, una «frase mágica» escrita en la consola de Linux que te permite conectarte a una carpeta NFS, &#8230;</p>
+<p class="bodytext">He probado muchas formas de almacenar esta preciosa información, más que nada porque mi cabeza cada día anda peor. He probado con ficheros de texto, cada uno con una receta, en una carpeta (en los tiempos de <a href="http://www.elelog.es/" target="_blank">Elelog</a>). He probado con programas propios que acceden a una BD con las soluciones. Incluso usando un fichero .PST de Outlook compartido como «base de conocimiento».</p>
+<p class="bodytext">Y ninguno me gustaba. La mayoría no son ágiles. Los que lo son no permiten categorizar los datos. Los que me gustan (como esta web), necesitan de una infraestructura determinada para funcionar (servidor web, php, MySQL, etc.) que no los hace tan transportables.</p>
+<p class="bodytext">El caso es que he localizado el Grial. Es <a href="http://www.tiddlywiki.com/" target="_blank">TiddlyWiki</a>, un sistema mediante el cual, en un solo HTML está incluido todo el HTML, JavaScript y CSS necesarios para, por ejemplo, escribir un Blog. Simplemente guardando una copia de la página ya podemos usarla cambiando los datos, añadiendo contenido y categorizándolo mediante etiquetas. Genera un feed RSS y todo el contenido ocupa unos 159 Kb para la plantilla vac?a.</p>
+<p class="bodytext">Si lo quieres probar, que sepas que está traducido al Español (y a otros idiomas).</p>
+<p class="bodytext">La gracia está en que editas el texto en el orden en que se te ocurra. Luego, con establecer enlaces entre los diferentes trozos de texto y asignarles categorías, todo se ordena solo.</p>
+<p class="bodytext">Algunos usos que se me ocurren es:</p>
+<ul>
+<li>usarlo como base de conocimiento, para guardar enlaces, favoritos, trucos, FAQs, art?culos, etc.</li>
+<li>emplearlo en el an?lisis de requisitos. En esa fase, en la que todo debe ser flexible nada mejor que utilizar como editor un navegador.</li>
+<li>como Blog. ¿Para qué más historias técnicas? Si lo que quieres es hacerte tu web rápido y ocupando poco espacio, esta es la mejor solución.</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>A1200 Freaks</title>
+		<link>/2006/04/16/a1200-freaks/</link>
+		<pubDate>Sun, 16 Apr 2006 11:39:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/2006/04/16/a1200-freaks/</guid>
+		<description><![CDATA[Es curioso lo que está pasando con la afición a las retro-máquinas (léase AMSTRAD, COMMODORE, SPECTRUM, MSX, AMIGA, ATARI, etc., si me dejo alguna, perdón a los damnificados). Pese a lo que se podría pensar, es un mercado que sigue funcionando, con tiendas propias dedicadas a los coleccionistas, montañas de software clásico que se ha [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Es curioso lo que está pasando con la afición a las retro-máquinas (léase AMSTRAD, COMMODORE, SPECTRUM, MSX, AMIGA, ATARI, etc., si me dejo alguna, perdón a los damnificados). Pese a lo que se podría pensar, es un mercado que sigue funcionando, con tiendas propias dedicadas a los coleccionistas, montañas de software clásico que se ha liberado, usuarios entusiastas que siguen utilizando sus máquinas para seguir sintiendo que es su primera vez (con las máquinas, claro). Creo que gran parte de este fenómeno es la nostalgia. Otra parte importante es que los juegos de aquella época son la pera, aún hoy. Y encima todo eso sin ventiladores, que tambi?n es importante.</p>
+<p class="bodytext">Mantengo desde hace poco tiempo <a href="/retrocomputing/">un rinconcito en la web para las retromáquinas</a> y especialmente para mis dos Amigas (<a href="/retrocomputing/mi-amiga-500/">A500</a> y <a href="/retrocomputing/comprando-un-amiga-1200/">A1200</a>). Y me resulta curioso que contacten conmigo precisamente por este apartado de la web. Hay gente que me escribe para consultarme algo, ya sea de Linux, Typo3, de Guadalinfo o de cómo montar su empresa. Pero me sorprendió el mail de José Angel para preguntarme por temas del A1200. Por cierto, os recomiendo la bitácora (o el blog, o la web, o como os guste llamarlo) de José Angel: <a href="http://a1200.bitacoras.com/" target="_blank">a1200.bitacoras.com</a>, en la que recopila información sobre su A1200, al estilo de lo que yo pretendo.</p>
+<p class="bodytext">En fin, que aunque pase el tiempo, las buenas (y a veces viejas) ideas, siguen funcionando. Y si no, que se lo pregunten a la Coca-Cola.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Incorporando nuevo contenido</title>
+		<link>/2005/09/27/incorporando-nuevo-contenido/</link>
+		<pubDate>Tue, 27 Sep 2005 08:42:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Retroinformática]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/2005/09/27/incorporando-nuevo-contenido/</guid>
+		<description><![CDATA[Estoy preparando el portal para una gran mudanza. Le he preparado una nueva hoja de estilos (nada espectacular, más que nada porque no se hacerlas espectaculares) que aún no he subido. Estoy también incorporando las noticias que estaban en el antiguo Blog (escrito en Xoops) como noticias Typo3. Así se incorporarán a las búsquedas de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Estoy preparando el portal para una gran mudanza. Le he preparado una nueva hoja de estilos (nada espectacular, más que nada porque no se hacerlas espectaculares) que aún no he subido.</p>
+<p class="bodytext">Estoy también incorporando las noticias que estaban en el antiguo Blog (escrito en Xoops) como noticias Typo3. Así se incorporarán a las búsquedas de Typo3 y unificaré todo el contenido. He comenzado ya a transcribir las noticias (se pueden ir viendo en <a href="noticias/el-antiguo-blog/">El antiguo Blog</a>)</p>
+<p class="bodytext">Por último he abierto una nueva sección dedicada a una de mis pasiones (dentro de la Informática, por supuesto) como son los microordenadores de los 80. He comenzado esbozando una pequeña historia de las máquinas que he tenido, pero pronto colgaré información sobre los equipos que actualmente poseo, sus ampliaciones, hardware-hacks (o apaños) que les hago, etc. Los puedes ver <a href="que-me-interesa/retroinformatica/">aqu</a>í</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Lo que era la informática&#8230;</title>
+		<link>/2003/12/08/lo-que-era-la-informatica/</link>
+		<pubDate>Mon, 08 Dec 2003 11:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/2003/12/08/lo-que-era-la-informatica/</guid>
+		<description><![CDATA[Es impresionante cómo avanza el tema informático. Muchas veces hemos dicho o escuchado esta frase. Pero uno no se da realmente cuenta hasta que no lo ve con sus propios ojos. He rescatado del olvido una publicidad de El Corte Inglés del 92. La tenía guardada por ahí, no se muy bien para que. Es [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote>
+<p class="bodytext">Es impresionante cómo avanza el tema informático.</p>
+</blockquote>
+<p class="bodytext">Muchas veces hemos dicho o escuchado esta frase. Pero uno no se da realmente cuenta hasta que no lo ve con sus propios ojos.</p>
+<p class="bodytext">He rescatado del olvido una publicidad de El Corte Inglés del 92. La tenía guardada por ahí, no se muy bien para que. Es impactante pensar que en esa época no se vendían móviles. Parece la prehistoria, pero el caso es que nosotros flipábamos con aquellas máquinas.</p>
+<p class="bodytext">Como muestra, un botón: un flamante 486DX (el tope de la gama) con 8 MB de RAM y un HD de 245 MB. Y sólo por casi 3000 Eur.</p>
+<p class="bodytext"><img src="/wp-content/uploads/2008/04/publicidad-92-eci.jpg" alt="Expoelectrónica 92" /></p>
+<p class="bodytext">
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

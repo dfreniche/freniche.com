@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>typo3 &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/typo3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por fin Typo3 funciona en www.freniche.com</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/</link>
+		<comments>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comments</comments>
+		<pubDate>Mon, 07 Mar 2005 20:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[typo3]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/</guid>
+		<description><![CDATA[Tras una larga y dura pelea, parece que la migración al nuevo servidor va funcionando. Esto significa que todo lo que hay dinámico en la página ya funciona (por ej., las FAQs). Ahora que, por fin, la parte de sistemas va a funcionar me voy a dedicar a introducir todo el contenido que os mereceis. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext"><img src="/wp-content/uploads/2009/01/typo3logo.png" alt="Logo Typo3" /></p>
+<p class="bodytext">Tras una larga y dura pelea, parece que la migración al nuevo servidor va funcionando. Esto significa que todo lo que hay dinámico en la página ya funciona (por ej., las FAQs).</p>
+<p class="bodytext">Ahora que, por fin, la parte de sistemas va a funcionar me voy a dedicar a introducir todo el contenido que os mereceis.</p>
+<p class="bodytext">Saludos al fin desde un servidor estable.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

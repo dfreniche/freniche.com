@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Xen &#8211; freniche.com</title>
+	<atom:link href="/tag/xen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Todo Linux: resultado del artículo «virtualización en Linux» es que no uses VMWare</title>
+		<link>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/</link>
+		<comments>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/#comments</comments>
+		<pubDate>Thu, 20 Apr 2006 11:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Software Libre]]></category>
+		<category><![CDATA[Virtualización]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Xen]]></category>
+
+		<guid isPermaLink="false">/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/</guid>
+		<description><![CDATA[Hace poco que he leído el artículo sobre Virtualización en Linux de la revista Todo Linux, incluido en su número 65 y escrito por David Santo Orcero. Como ya sabreis soy un usuario habitual de máquinas virtuales, especialmente VMWare. Pero como debeis saber también, me gusta aprender nuevas cosas y escuchar diferentes puntos de vista. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Hace poco que he leído el artículo sobre Virtualización en Linux de la revista Todo Linux, incluido en su número 65 y escrito por David Santo Orcero. Como ya sabreis soy un usuario habitual de máquinas virtuales, especialmente VMWare. Pero como debeis saber también, me gusta aprender nuevas cosas y escuchar diferentes puntos de vista.</p>
+<p class="bodytext">Con ese objetivo me compré la revista. El artículo en general no está mal, ya que muestra desde una perspectiva histórica la virtualización y apunta sus posibles usos. Luego, pasa revista a las diferentes soluciones que existen para Linux. El problema es que desde el principio, y coincidiendo un poco con el tono general de la revista, <em>«lo que no es Software Libre no es bueno punto y no hay más que hablar y sobre todo como hables de Microsoft te cortamos el cuello u otra cosa a la que le tengas más aprecio»</em>, todas las soluciones que no sean Xen son malas.</p>
+<p class="bodytext">Es decir, los competidores de Xen se muestran con todos sus errores posibles. Xen, sin embargo, siendo un buen producto, no es capaz de ejecutar un XP que nos instalemos directamente desde los CDs de Microsoft, lo cual impide de momento usarlo para un montón de cosas, como por ejemplo ejecutar Access dentro de Linux (se entiende, dentro de un Windows que se ejecute en una máquina virtual en Linux).</p>
+<p class="bodytext">El colmo de este sectarismo «Software Libre» es el análisis exageradamente parcial que se hace de VMWare. En él, se resalta que no es Software Libre, pero no se comenta que tanto VMWare Player como Server son gratis. Bien, no es igual de bueno que S.L., pero a mucha gente ya puede valerle. Cuando se habla de VMWare el autor se remonta a su versión 2. ¿Cómo?. Que ya vamos por la versión 5 de VMWare, señores. Comparar la última versión de Xen con la versión de VMWare que funcionaba en un PDP-11 no me parece demasiado justo, pero bueno.</p>
+<p class="bodytext">El problema principal es que al continuar nos encontramos con dos afirmaciones erróneas:</p>
+<ul>
+<li>la primera es que para ejecutar un Linux con kernel 2.6 en una máquina virtual hay que instalar un parche o si no no es estable. Falso porque dispongo de media docena de máquinas instaladas con diferentes sabores de Linux todas con kernel 2.6 y funcionan sin ningún problema. Por supuesto, en el artículo no se mencionan cuáles son esos problemas ni se apunta un enlace donde leer acerca de esos problemas.</li>
+<li>la segunda es que todas las máquinas virtuales comparten la misma dirección MAC en la tarjetas de red. Esto es un error muy grave porque da la impresión de que el producto tiene una calidad determinada cuando es mentira. En la imagen que adjunto (resolución 1600&#215;1200) se pueden ver un par de máquinas virtuales corriendo sobre mi máquina real. Cada una tiene una MAC diferente, es decir, cada máquina virtual se comporta como un auténtico PC.</li>
+</ul>
+<p class="bodytext">
+<div id="attachment_671" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2006/04/9b8da97238.png"><img class="size-medium wp-image-671" title="9b8da97238" src="/wp-content/uploads/2006/04/9b8da97238-300x225.png" alt="Varias máquinas virtuales VMWare corriendo a la vez" width="300" height="225" srcset="/wp-content/uploads/2006/04/9b8da97238-300x225.png 300w, /wp-content/uploads/2006/04/9b8da97238.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Varias máquinas virtuales VMWare corriendo a la vez</p></div>
+<p class="bodytext">Soy un defensor convencido del S.L. Lo uso, me gusta y cuando me piden opinión, si existe una solución S.L. que solucione correctamente un problema, propongo primero esa solución. Por ejemplo, para navegar por Internet tengo claro que Firefox es la solución. O el servidor web es Apache. Pero comparar Xen con VMWare de manera tendenciosa para volcar la balanza en favor del producto S.L. no me parece lógico: al final la gente lo usa, se encuentra que no puede usar su XP desde Linux y lo dejan de lado enfadados y quejándose del S.L. «ya sabía yo que siendo gratis no podía ser bueno, etc. etc.»</p>
+<p class="bodytext">Mi punto de vista es que la gente tiene problemas que solucionar y que lo que les interesa es arreglar esos problemas y no centrarse en las herramientas. Por ello, les da igual que algo sea S.L. o no, y en ocasiones casi mejor que ni lo sepan. Así usarán el S.L. simplemente porque les hace más felices y no por una cuestión pseudo-religiosa.</p>
+<p class="bodytext">Por cierto, ni estoy afiliado a VMWare, ni me pagan un duro. Uso su producto porque me gusta. Se aceptan réplicas por mail. Y jamones.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

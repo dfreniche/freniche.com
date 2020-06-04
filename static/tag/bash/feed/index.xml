@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bash &#8211; freniche.com</title>
+	<atom:link href="/tag/bash/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Creando un fichero PDF a partir de varias imágenes</title>
+		<link>/2008/03/13/creando-un-fichero-pdf-a-partir-de-varias-imagenes/</link>
+		<pubDate>Thu, 13 Mar 2008 14:45:49 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[bash]]></category>
+		<category><![CDATA[PDF]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/13/creando-un-fichero-pdf-a-partir-de-varias-imagenes/</guid>
+		<description><![CDATA[Hoy he tenido que montar un fichero PDF con páginas escaneadas de diferentes fuentes. Muchos programas de escaneo permiten crear directamente un único fichero PDF con las diferentes sesiones y páginas capturadas, pero éste no había sido el caso. Me habían pasado una carpeta con 103 ficheros en formato JPG. Bueno, al menos el reto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Hoy he tenido que montar un fichero PDF con páginas escaneadas de diferentes fuentes. Muchos programas de escaneo permiten crear directamente un único fichero PDF con las diferentes sesiones y páginas capturadas, pero éste no había sido el caso. Me habían pasado una carpeta con 103 ficheros en formato JPG.</p>
+<p align="justify">Bueno, al menos el reto estaba claro: convertir uno a uno estos ficheros en PDF y luego unirlos. Bueno, un momento ¿porqué en este orden? Porque yo ya conocía la herramienta para unir varios PDF en uno: <a href="http://www.accesspdf.com/pdftk/">pdftk</a>.</p>
+<p align="justify">El caso es que abrí una terminal en mi Linux y pensé ¿cómo convierto de JPG a PDF?. Una búsqueda rápida  en Synaptic me llevó a sam2p, un pequeño programa que convierte cualquier fichero en formato Raster (Bitmap) a PDF. Por ejemplo, convierte GIF, JPG/JPEG, y PNG a PDF y a PS (PostScript). Pero claro, convertir uno a uno&#8230;</p>
+<p align="justify">Para eso se inventaron los bucles for. Un bucle for de la bash nos permite, entre otras cosas, iterar por una lista de ficheros aplicando la misma acción a los diferentes ficheros. Así, que, si vamos al grano bastará con hacer:</p>
+<pre> for f in `ls *.jpg`;do  sam2p $f PDF: $f.pdf ; done</pre>
+<p align="justify">Esto recorre todos los ficheros que aparecen como resultado de hacer un ls *.jpg. En cada iteración la variable f toma el valor de uno de los nombres de fichero. Así que llamamos a sam2p, que convierte los JPG en PDF.</p>
+<pre>pdftk *.pdf cat output resultado.pdf</pre>
+<p>Y una vez que tenemos múltiples ficheros PDF, pdftk los une en uno llamado resultado.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Estructura del if en la bash</title>
+		<link>/2005/10/20/estructura-del-if-en-la-bash/</link>
+		<pubDate>Thu, 20 Oct 2005 20:13:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[bash]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/estructura-del-if-en-la-bash/</guid>
+		<description><![CDATA[if list; then list; [ elif list; then list; ] ... [ else list; ] fi The if list is executed. If its exit status is zero, the then list is executed. Otherwise, each elif list is executed in turn, and if its exit status is zero, the corresponding then list is executed and the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<pre>if list; then list; [ elif list; then list; ] ... [ else list; ] fi</pre>
+<p>The if list is executed. If its exit status is zero, the then<br />
+list is executed. Otherwise, each elif list is executed in<br />
+turn, and if its exit status is zero, the corresponding then<br />
+list is executed and the command completes. Otherwise, the else<br />
+list is executed, if present. The exit status is the exit sta-<br />
+tus of the last command executed, or zero if no condition tested<br />
+true.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Crear un servicio personalizado</title>
+		<link>/2005/10/20/crear-un-servicio-personalizado/</link>
+		<comments>/2005/10/20/crear-un-servicio-personalizado/#comments</comments>
+		<pubDate>Thu, 20 Oct 2005 19:59:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[bash]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/crear-un-servicio-personalizado/</guid>
+		<description><![CDATA[A veces es deseable disponer de un servicio personalizado en /etc/init.d El método más rápido consiste en copiar un script de los que tengamos en /etc/init.d y retocarlo a nuestro gusto. Aparecerá en la herramienta Servicios (menú Sistema, aunque podemos llamarla desde consola con services-admin) Por ejemplo, un servicio que borre el tmp mediante la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A veces es deseable disponer de un servicio personalizado en /etc/init.d<a href="javascript:void(0)" id="file-link-41" title="Al crear el nuevo servicio (borra-tmp) aparece en la lista de services-admin" class="file-link image"><img src="http://freniche.com/wp/wp-content/uploads/2008/03/services-admin1.png" alt="Al crear el nuevo servicio (borra-tmp) aparece en la lista de services-admin" align="right" width="128" /></a></p>
+<p>El método más rápido consiste en copiar un script de los que tengamos en /etc/init.d y retocarlo a nuestro gusto. Aparecerá en la herramienta Servicios (menú Sistema, aunque podemos llamarla desde consola con services-admin)</p>
+<p>Por ejemplo, un servicio que borre el tmp mediante la orden /etc/init.d/borra-tmp start puede ser:</p>
+<pre>#!/bin/sh</pre>
+<pre>set -e</pre>
+<pre>PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin</pre>
+<pre>
+usage () {cat &lt;&lt; END$initd options:
+
+start
+
+Borra la carpeta tmp
+
+clear
+
+no usado
+
+END
+
+}</pre>
+<pre>case "$1" instart)rm -r /tmp/*
+
+;;
+
+clear)</pre>
+<pre>;;*)if test "$@"; then
+
+echo "Aborting iptables initd: unknown command(s): \"$@\"."
+
+fi
+
+usage
+
+;;
+
+esac</pre>
+<pre>exit 0</pre>
+]]></content:encoded>
+			<wfw:commentRss>/2005/10/20/crear-un-servicio-personalizado/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

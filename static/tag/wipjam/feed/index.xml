@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>WIPJam &#8211; freniche.com</title>
+	<atom:link href="/tag/wipjam/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Entrevista para el «Developer soportlight» de la WIPJam</title>
+		<link>/2014/05/14/entrevista-para-el-developer-soportlight-de-la-wipjam/</link>
+		<pubDate>Wed, 14 May 2014 15:40:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[WIPJam]]></category>
+
+		<guid isPermaLink="false">/?p=2182</guid>
+		<description><![CDATA[Este pasado MWC 2014 tuve la suerte de poder acudir y dar una de las charlas del nuevo formato de la WIPJam. La charla fue sobre Core Data, aunque no me dio tiempo a casi nada. Lo mejor (para mí) fue la gente y proyectos que conocí, y los días que pasé en Barcelona. En [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/">Este pasado MWC 2014 tuve la suerte de poder acudir y dar una de las charlas del nuevo formato de la WIPJam</a>. La charla fue sobre Core Data, aunque no me dio tiempo a casi nada. Lo mejor (para mí) fue la gente y proyectos que conocí, y los días que pasé en Barcelona.</p>
+<p>En el portal de la WIPJam entrevistan a desarrolladores de Apps móviles y nos ponen «bajo el foco». <a href="http://wip.org/blog/developer-spotlight-diego-frenciche/">Esta vez me ha tocado a mi</a>. Espero que os guste.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>WIP Jam 2014</title>
+		<link>/2014/03/11/wip-jam-2014/</link>
+		<pubDate>Tue, 11 Mar 2014 10:56:39 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[WIPJam]]></category>
+
+		<guid isPermaLink="false">/?p=2128</guid>
+		<description><![CDATA[Como comenté en el último post «Ponente en la WIPJam 2014«, este año he ido al Mobile World Congress de Barcelona, pero con una gran diferencia: este año, además de a ver móviles y tabletas iba a dar una charla y a estar en una mini conferencia de desarrollo (la WIPJam). Como el año pasado, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Como comenté en el último post «<a href="/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/">Ponente en la WIPJam 2014</a>«, este año he ido al Mobile World Congress de Barcelona, pero con una gran diferencia: este año, además de a ver móviles y tabletas iba a dar una charla y a estar en una mini conferencia de desarrollo (la WIPJam).</p>
+<p>Como el año pasado, me quedé en casa de Rafa. Y he pasado la semana con Luis Ascorbe, Pedro Muñoz y el resto de cracks del capítulo Cocoa de Barcelona (lo siento, sois muchos <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ) y de otras partes de España que estaban allí para el MWC.</p>
+<p>Del MWC en sí he visto poco. Cada vez me interesa menos: mucho móvil, mucha tableta, ves cosas muy chulas pero tienen poco impacto en mi día a día. En cambio, en la WIPJam he podido aprender sobre desarrollo con Google Glass, trucos de Android e iOS, &#8230; Creo que prefiero las conferencias de desarrollo, y cuanto más <em>hardcore</em> mejor.</p>
+<p>Es esto, la WIPJam debe mejorar. Creo que a todos nos gustó que fueran más días, pero hacía falta más contenido, y si hay que <em>vender</em> los productos de los espónsors, siempre se puede hacer de forma que de rebote aprendas cosas. Es decir, eché en falta más talleres de <em>remangarse y hacer cosas</em>. He enviado mis sugerencias al personal de la WIPJam (que, por cierto, son tan buena gente que parecen de Cádiz) y espero que a) me dejen aplicar algún cambio el año que viene y b) me dejen entrar el año que viene, pese a las críticas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>El caso es que estuve de Lunes a Miércoles en la WIPJam (en Plaza de España, no en la Nou Fira, que es donde está el MWC <em>de verdad</em>) y el Jueves me eché un paseo por el MWC. Que duelen los pies un montón: es muy grande y las moquetas del suelo muy duras, o algo pasa. Y vi cosas chulas, como el Galaxy Note 3 de Samsung, o los Nokia X, o los teléfonos Firefox OS. Pero poco más.</p>
+<p>Lo mejor: las cervezas, las charlas con <a href="https://twitter.com/pepito/">@Pepito</a>, las cenas, el humor de <a href="https://twitter.com/_carlosvillar_/">Carles</a>, las Google Glass, los iBeacons&#8230;</p>
+<h1>Material del taller de Core Data de la WIPJam</h1>
+<div id="attachment_2130" style="width: 610px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2014/03/BhOrYRPIgAAsre4.jpg"><img src="/wp-content/uploads/2014/03/BhOrYRPIgAAsre4.jpg" alt="En la charla de Core Data" width="600" height="450" class="size-full wp-image-2130" srcset="/wp-content/uploads/2014/03/BhOrYRPIgAAsre4.jpg 600w, /wp-content/uploads/2014/03/BhOrYRPIgAAsre4-300x225.jpg 300w, /wp-content/uploads/2014/03/BhOrYRPIgAAsre4-535x401.jpg 535w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">En la charla de Core Data</p></div>
+<p>Lo más importante para mi fue el poder impartir la charla sobre Core Data del Lunes y luego poder programar con un grupito una pequeña App usando mogenerator y Magical Record. Como prometí poner todo el material online, aquí está:</p>
+<ul>
+<li>la <a href="http://www.slideshare.net/dfreniche/core-data-wipjam-workshop-mwc14">presentación sobre Core Data</a>, en SlideShare</li>
+<li>un ejemplo de código, <a href="https://github.com/dfreniche/DFCoreDataStackDemo">usando mi Core Data Stack</a></li>
+<li>un segundo ejemplo, <a href="https://github.com/dfreniche/WIPReminders">con mogenerator y Magical Record</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FAQ &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/faq/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Conseguir que Mac OS X suene «a-la-Windows» al insertar un dispositivo USB</title>
+		<link>/2010/01/25/conseguir-que-mac-os-x-suene-a-la-windows-al-insertar-un-dispositivo-usb/</link>
+		<pubDate>Mon, 25 Jan 2010 11:53:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[GUM Sevilla]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Snow Leopard]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=575</guid>
+		<description><![CDATA[Escribo este post por una pregunta que me ha llegado a la lista de correo del GUM Sevilla. Concretamente la pregunta era: Tengo una consulta sobre Growl y eventos de sonido. Quisiera que, cuando pincho un dispositivo USB, al igual que sucede en Windows, suene un sonidito en mi MacOs Snow leopard.¿Es esto posible? Growl [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Escribo este post por una pregunta que me ha llegado a la lista de correo del <a href="http://gum-sevilla.blogspot.com/">GUM Sevilla</a>. Concretamente la pregunta era:</p>
+<blockquote><p>Tengo una consulta sobre Growl y eventos de sonido. Quisiera que, cuando pincho un dispositivo USB, al igual que sucede en Windows, suene un sonidito en mi MacOs Snow leopard.<br style="line-height: 1.22em;" />¿Es esto posible?</p></blockquote>
+<p style="text-align: justify;"><a href="http://growl.info/">Growl</a> es un sistema de notificaciones en pantalla que se controla mediante un panel de preferencias. Si vamos a las Preferencias del Sistema veremos a Growl en la parte final «Complementos». Un click y lo abrimos. Se nos mostrará la pestaña <em>General</em>. Vamos a la pestaña <em>Applications.</em> Ahí disponemos de una lista de aplicaciones que tenemos instaladas y que soportan el sistema de notificaciones de Growl. Es decir, estas aplicaciones, cuando tienen algo que contarnos, le mandan ese mensaje a Growl y el se encarga de ponerlo en pantalla, tocar un sonido, etc.</p>
+<p style="text-align: justify;">En el caso que nos ocupa, como es un tema hardware (conectar un dispositivo USB), buscaremos la aplicación <a href="http://growl.info/extras.php#HardwareGrowler">Hardware Growler</a>. Comprobaremos que está instalada en nuestro sistema (la hemos copiado desde el DMG de instalación de Growl a la carpeta Aplicaciones) y que está habilitada en Growl (enabled) y pulsaremos en <em>Configure</em>. Tras esto nos aparece una pantalla como la siguiente:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/01/config-growl.png"><img class="aligncenter size-full wp-image-576" title="Configuración de Growl" src="/wp-content/uploads/2010/01/config-growl.png" alt="Configuración de Growl" width="748" height="629" srcset="/wp-content/uploads/2010/01/config-growl.png 748w, /wp-content/uploads/2010/01/config-growl-300x252.png 300w" sizes="(max-width: 748px) 100vw, 748px" /></a>Pulsando en Notifications (tal y como se muestra antes), basta con seleccionar el sonido deseado en el último cuadro desplegable: Play Sound.</p>
+<p style="text-align: justify;">Y casi listo. Nos falta lanzar Hardware Growler para que monitorice todos los eventos anteriores de hardware y, cuando suceda alguno, nos muestre la notificación growl correspondiente. Funciona en Mac OS X 10.6.2 Snow Leopard. Supongo que en el resto también funcionará.</p>
+<p style="text-align: justify;">¿Que por qué cuento esto aquí y no en la lista de correo del GUM?. Porque esa lista no permite imágenes adjuntas :-).</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Instalar a mano el plugin Java para Firefox en Linux</title>
+		<link>/2008/04/09/instalar-a-mano-el-plugin-java-para-firefox-en-linux/</link>
+		<pubDate>Wed, 09 Apr 2008 12:56:45 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">/2008/04/09/instalar-a-mano-el-plugin-java-para-firefox-en-linux/</guid>
+		<description><![CDATA[Una vez más, me he sentado en un ordenador con Debian instalada y al intentar ejecutar un Applet me ha aparecido la pantalla «te faltan plugins adicionales, etc. etc.». Con mi cerebro pilotando en modo automático, abrí Synaptic desde una consola pero lo cerré inmediatamente. Recordaba que en esa máquina había una máquina virtual de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Una vez más, me he sentado en un ordenador con Debian instalada y al intentar ejecutar un Applet me ha aparecido la pantalla <em>«te faltan plugins adicionales, etc. etc.»</em>. Con mi cerebro pilotando en modo automático, abrí Synaptic desde una consola pero lo cerré inmediatamente. Recordaba que en esa máquina había una máquina virtual de Java instalada en /opt. El JRE incluye los plugins que necesita Firefox y todo se resume en crear un enlace simbólico al fichero correcto en la carpeta adecuada. Lo de siempre, vamos.</p>
+<p> Tras un par de segundos buscando las carpetas y ficheros adecuados con el tabulador desde una consola, la secuencia es la siguiente:</p>
+<pre>$ cd $HOME/.mozilla/plugin
+$ ln -s /opt/jdk1.5.0_07/jre/plugin/i386/ns7/libjavaplugin_oji.so</pre>
+<p>Suponiendo, claro, que el JRE está instalado en /opt. Si no, cambia adecuadamentela línea y listo.</p>
+<p>Me lo apunto aquí, no vaya a ser que se me olvide&#8230; otra vez.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Creando un fichero PDF a partir de varias imágenes</title>
+		<link>/2008/03/13/creando-un-fichero-pdf-a-partir-de-varias-imagenes/</link>
+		<pubDate>Thu, 13 Mar 2008 14:45:49 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[bash]]></category>
+		<category><![CDATA[PDF]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/13/creando-un-fichero-pdf-a-partir-de-varias-imagenes/</guid>
+		<description><![CDATA[Hoy he tenido que montar un fichero PDF con páginas escaneadas de diferentes fuentes. Muchos programas de escaneo permiten crear directamente un único fichero PDF con las diferentes sesiones y páginas capturadas, pero éste no había sido el caso. Me habían pasado una carpeta con 103 ficheros en formato JPG. Bueno, al menos el reto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Hoy he tenido que montar un fichero PDF con páginas escaneadas de diferentes fuentes. Muchos programas de escaneo permiten crear directamente un único fichero PDF con las diferentes sesiones y páginas capturadas, pero éste no había sido el caso. Me habían pasado una carpeta con 103 ficheros en formato JPG.</p>
+<p align="justify">Bueno, al menos el reto estaba claro: convertir uno a uno estos ficheros en PDF y luego unirlos. Bueno, un momento ¿porqué en este orden? Porque yo ya conocía la herramienta para unir varios PDF en uno: <a href="http://www.accesspdf.com/pdftk/">pdftk</a>.</p>
+<p align="justify">El caso es que abrí una terminal en mi Linux y pensé ¿cómo convierto de JPG a PDF?. Una búsqueda rápida  en Synaptic me llevó a sam2p, un pequeño programa que convierte cualquier fichero en formato Raster (Bitmap) a PDF. Por ejemplo, convierte GIF, JPG/JPEG, y PNG a PDF y a PS (PostScript). Pero claro, convertir uno a uno&#8230;</p>
+<p align="justify">Para eso se inventaron los bucles for. Un bucle for de la bash nos permite, entre otras cosas, iterar por una lista de ficheros aplicando la misma acción a los diferentes ficheros. Así, que, si vamos al grano bastará con hacer:</p>
+<pre> for f in `ls *.jpg`;do  sam2p $f PDF: $f.pdf ; done</pre>
+<p align="justify">Esto recorre todos los ficheros que aparecen como resultado de hacer un ls *.jpg. En cada iteración la variable f toma el valor de uno de los nombres de fichero. Así que llamamos a sam2p, que convierte los JPG en PDF.</p>
+<pre>pdftk *.pdf cat output resultado.pdf</pre>
+<p>Y una vez que tenemos múltiples ficheros PDF, pdftk los une en uno llamado resultado.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Estructura del if en la bash</title>
+		<link>/2005/10/20/estructura-del-if-en-la-bash/</link>
+		<pubDate>Thu, 20 Oct 2005 20:13:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[bash]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/estructura-del-if-en-la-bash/</guid>
+		<description><![CDATA[if list; then list; [ elif list; then list; ] ... [ else list; ] fi The if list is executed. If its exit status is zero, the then list is executed. Otherwise, each elif list is executed in turn, and if its exit status is zero, the corresponding then list is executed and the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<pre>if list; then list; [ elif list; then list; ] ... [ else list; ] fi</pre>
+<p>The if list is executed. If its exit status is zero, the then<br />
+list is executed. Otherwise, each elif list is executed in<br />
+turn, and if its exit status is zero, the corresponding then<br />
+list is executed and the command completes. Otherwise, the else<br />
+list is executed, if present. The exit status is the exit sta-<br />
+tus of the last command executed, or zero if no condition tested<br />
+true.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Error al instalar NFS: invoke-rc.d: initscript nfs-kernel-server, action «restart» failed.</title>
+		<link>/2005/10/20/error-al-instalar-nfs-invoke-rcd-initscript-nfs-kernel-server-action-restart-failed/</link>
+		<pubDate>Thu, 20 Oct 2005 20:12:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[nfs]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/error-al-instalar-nfs-invoke-rcd-initscript-nfs-kernel-server-action-restart-failed/</guid>
+		<description><![CDATA[Tras actualizar el servidor NFS nfs-kernel-daemon, nos encontramos con éste error.Este error se debe muchas veces a la prisa con la que se instalan los paquetes. Probablemente hemos dejado los ficheros de configuración que ya teníamos y no los que trae el nuevo paquete. Si no cambiamos nada, el nuevo NFS intenta utilizar el servidor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tras actualizar el servidor NFS nfs-kernel-daemon, nos encontramos con éste error.Este error se debe muchas veces a la prisa con la que se instalan los paquetes. Probablemente hemos dejado los ficheros de configuración que ya teníamos y no los que trae el nuevo paquete. Si no cambiamos nada, el nuevo NFS intenta utilizar el servidor sgss, que si no está configurado hace que no se inicie el servidor nfs.<br />
+Para solucionarlo iremos a la carpeta /etc/defaults que es donde nfsd guarda su configuración. Una vez allí, es posible que tengamos un fichero llamado nfs-kernel-server y otro nfs-kernel-server.dpkg-dist. Este último es el que nos ha instalado apt-get, con la configuración del paquete. En el caso que nos ocupa, no vamos a usar gssd, pero no se lo hemos dicho (en el fichero de configuración antiguo no lo teniamos). La solución:<br />
+NEED_SVCGSSD=no</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El terminal muestra símbolos raros ¿cómo lo arreglo?</title>
+		<link>/2005/10/20/el-terminal-muestra-simbolos-raros-como-lo-arreglo/</link>
+		<pubDate>Thu, 20 Oct 2005 20:08:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/el-terminal-muestra-simbolos-raros-%c2%bfcomo-lo-arreglo/</guid>
+		<description><![CDATA[A veces, tras mostrar por pantalla un fichero de binario con un cat, el terminal se queda mostrando caracteres raros en vez de los normales. El mandato reset lo volverá a dejar en condiciones]]></description>
+				<content:encoded><![CDATA[<p>A veces, tras mostrar por pantalla un fichero de binario con un cat, el terminal se queda mostrando caracteres raros en vez de los normales. El mandato reset lo volverá a dejar en condiciones</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>CUPS no imprime en Red</title>
+		<link>/2005/10/20/cups-no-imprime-en-red/</link>
+		<pubDate>Thu, 20 Oct 2005 20:03:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[CUPS]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/cups-no-imprime-en-red/</guid>
+		<description><![CDATA[Se puede deber a múltiples causas. El puerto 631 (IPP) no debe estar bloqueado por el firewall. El servicio cupsd debe estar corriendo (/etc/init.d/cupsd start). En el fichero /etc/cups/cupsd.conf, la sección viene por defecto: Order Deny,Allow Deny From All Allow From 127.0.0.1 Lo cual sólo nos permite imprimir desde la máquina que tiene la impresora [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Se puede deber a múltiples causas. El puerto 631 (IPP) no debe estar bloqueado por el firewall. El servicio cupsd debe estar corriendo (/etc/init.d/cupsd start).<br />
+En el fichero /etc/cups/cupsd.conf, la sección <location> viene por defecto:</location></p>
+<pre><location>Order Deny,Allow</location></pre>
+<pre><location>Deny From All</location></pre>
+<pre><location>Allow From 127.0.0.1</location></pre>
+<pre><location></location></pre>
+<p>Lo cual sólo nos permite imprimir desde la máquina que tiene la impresora conectada. Debemos añadir una línea como:</p>
+<pre>Allow From 10.1.1.*</pre>
+<p>si nuestra red privada tiene esta dirección, claro.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Crear un servicio personalizado</title>
+		<link>/2005/10/20/crear-un-servicio-personalizado/</link>
+		<comments>/2005/10/20/crear-un-servicio-personalizado/#comments</comments>
+		<pubDate>Thu, 20 Oct 2005 19:59:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[bash]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/crear-un-servicio-personalizado/</guid>
+		<description><![CDATA[A veces es deseable disponer de un servicio personalizado en /etc/init.d El método más rápido consiste en copiar un script de los que tengamos en /etc/init.d y retocarlo a nuestro gusto. Aparecerá en la herramienta Servicios (menú Sistema, aunque podemos llamarla desde consola con services-admin) Por ejemplo, un servicio que borre el tmp mediante la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>A veces es deseable disponer de un servicio personalizado en /etc/init.d<a href="javascript:void(0)" id="file-link-41" title="Al crear el nuevo servicio (borra-tmp) aparece en la lista de services-admin" class="file-link image"><img src="http://freniche.com/wp/wp-content/uploads/2008/03/services-admin1.png" alt="Al crear el nuevo servicio (borra-tmp) aparece en la lista de services-admin" align="right" width="128" /></a></p>
+<p>El método más rápido consiste en copiar un script de los que tengamos en /etc/init.d y retocarlo a nuestro gusto. Aparecerá en la herramienta Servicios (menú Sistema, aunque podemos llamarla desde consola con services-admin)</p>
+<p>Por ejemplo, un servicio que borre el tmp mediante la orden /etc/init.d/borra-tmp start puede ser:</p>
+<pre>#!/bin/sh</pre>
+<pre>set -e</pre>
+<pre>PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin</pre>
+<pre>
+usage () {cat &lt;&lt; END$initd options:
+
+start
+
+Borra la carpeta tmp
+
+clear
+
+no usado
+
+END
+
+}</pre>
+<pre>case "$1" instart)rm -r /tmp/*
+
+;;
+
+clear)</pre>
+<pre>;;*)if test "$@"; then
+
+echo "Aborting iptables initd: unknown command(s): \"$@\"."
+
+fi
+
+usage
+
+;;
+
+esac</pre>
+<pre>exit 0</pre>
+]]></content:encoded>
+			<wfw:commentRss>/2005/10/20/crear-un-servicio-personalizado/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Crear modelines. X no coge la resolución de mi monitor.</title>
+		<link>/2005/10/20/crear-modelines-x-no-coge-la-resolucion-de-mi-monitor/</link>
+		<pubDate>Thu, 20 Oct 2005 19:57:38 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[XWindows]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/crear-modelines-x-no-coge-la-resolucion-de-mi-monitor/</guid>
+		<description><![CDATA[Si con las XFREE-4 tu monitor no se ve a la resolución y con la tasa de refresco que esperabas, deberías hacer:1) comprobar que efectivamente XFREE-4 intenta y no puede poner tu monitor en la resolución esperada. Hay que leerse /var/log/XFree86.0.log # less /var/log/XFree86.0.log especialmente las lineas que aparecen como: (II) SIS(0): Not using default [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Si con las XFREE-4 tu monitor no se ve a la resolución y con la tasa de refresco que esperabas, deberías hacer:1) comprobar que efectivamente XFREE-4 intenta y no puede poner tu monitor en la resolución esperada. Hay que leerse /var/log/XFree86.0.log</p>
+<pre># less /var/log/XFree86.0.log</pre>
+<p>especialmente las lineas que aparecen como:</p>
+<pre>(II) SIS(0): Not using default mode "800x600" (vrefresh out of range)</pre>
+<pre>(II) SIS(0): Not using default mode "800x600" (hsync out of range)</pre>
+<p>Esto son mensajes de información (II): los modos definidos en /etc/X11/XF86Config-4 y de nombre «800&#215;600» no cuadran con la información de sincronización vertical y horizontal que ha detectado para nuestro monitor.<br />
+Si miramos en /etc/X11/XF86Config-4 nos encontraremos con unas curiosas líneas en las que se describen los modos que soportan la mayoría de los monitores, líneas llamadas modeline y que tienen esta pinta:<br />
+Modeline «800&#215;600» 40.12 800 848 968 1056 600 601 605 628 #60Hz</p>
+<p>2) Suponiendo que tras leer /var/log/XFree86.0.log vemos que se detecta nuestra tarjeta de video y que indica que nuestro monitor soporta la resolución que deseamos (o tenemos Windows instalado en otra partición y lo tenemos con esa resolución) podemos:<br />
+a) buscar los modelines por Internet<br />
+b) generar nuestras propias modelines</p>
+<p>3) Para generar los modelines, usa videogen (instala antes el paquete, se usa desde consola) y create un fichero en el directorio donde vayas a ejecutar videogen que se llame .videogen y con un contenido más o menos como:</p>
+<pre>max_dotclk=60 # the maximum pixel/dot clock supported by my projector</pre>
+<pre>max_hfreq=54; max_vfreq=90 # the max horizontal and vertical frequency</pre>
+<pre>desired_vfreq=60 # the frequency you decided to use</pre>
+<pre>mode 1024x768 # the resolution your HTPC will be running</pre>
+<p>Es decir, si en tu consola estás en /home/pepe, crea un fichero .videogen mediante un:<br />
+dfreniche@tesla:home/pepe $ gedit .videogen</p>
+<p>y copias en el editor el contenido mostrado más arriba.<br />
+Tras ésto, grabas, cierras gedit y ejecutas videogen. Te imprimirá en la consola una línea Modelines. La copias, editas el fichero de configuración de las X (debes ser root para cambiarlo), grabas y pruebas.<br />
+En mi caso, el monitor es un LG StudioWorks 550M. Lo he puesto a 1024&#215;768 y a 60 Hz.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Configurar hosts virtuales en Apache</title>
+		<link>/2005/10/20/configurar-hosts-virtuales-en-apache/</link>
+		<pubDate>Thu, 20 Oct 2005 19:55:48 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[apache]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/configurar-hosts-virtuales-en-apache/</guid>
+		<description><![CDATA[Los host virtuales en apache nos permiten tener en una misma máquina diferentes sitios web, cada uno con una URL diferente pero apuntando a la misma IP. De esta forma, podemos tener dos versiones de un mismo portal web, de producción y desarrollo, con URLs: desarrollo.miportal.com y produccion.miportal.com Para conseguir ésto, hay que tocar tres [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Los host virtuales en apache nos permiten tener en una misma máquina diferentes sitios web, cada uno con una URL diferente pero apuntando a la misma IP. De esta forma, podemos tener dos versiones de un mismo portal web, de producción y desarrollo, con URLs: desarrollo.miportal.com y produccion.miportal.com<br />
+Para conseguir ésto, hay que tocar tres ficheros:<br />
+1. Hay que redirigir las URLs a la IP de la máquina. Hay que editar /etc/hosts para conseguir ésto. Mi /etc/hosts tiene la pinta:</p>
+<pre>127.0.0.1 tesla localhost
+10.1.1.1servidorservidor
+127.0.0.1local.freniche.comlocal.freniche.com
+127.0.0.1phpmyadminphpmyadmin
+127.0.0.1phpphp</pre>
+<p>para comprobarlo, hay que hacer ping a las direcciones nuevas para ver que «responden». Es decir, ping local.freniche.com, ping php, etc<br />
+Todos deben responder desde el 127.0.0.1<br />
+2. Una vez hecho esto, hay que editar /etc/apache/httpd.conf y modificar la sección virtual hosts</p>
+<pre>NameVirtualHost 127.0.0.1</pre>
+<pre>#
+# VirtualHost example:
+# Almost any Apache directive may go into a VirtualHost container.
+#
+#<virtualhost>
+# ServerAdmin webmaster@host.some_domain.com
+# DocumentRoot /www/docs/host.some_domain.com
+# ServerName host.some_domain.com
+# ErrorLog logs/host.some_domain.com-error.log
+# CustomLog logs/host.some_domain.com-access.log common
+#</virtualhost></pre>
+<pre>#<virtualhost>
+#</virtualhost></pre>
+<pre><virtualhost>
+# ServerAdmin webmaster@host.some_domain.com
+#Options Indexes Includes FollowSymLinks MultiViews
+#DocumentRoot /home/dfreniche/Documents/trabajo/xoops/xoops-2.0.5/html
+DirectoryIndex index.php
+DocumentRoot /home/dfreniche/xoops/html
+ServerName local.freniche.com
+# ErrorLog logs/host.some_domain.com-error.log
+# CustomLog logs/host.some_domain.com-access.log common
+</virtualhost></pre>
+<pre><virtualhost>
+# ServerAdmin webmaster@host.some_domain.com
+#Options Indexes Includes FollowSymLinks MultiViews
+#DocumentRoot /home/dfreniche/Documents/trabajo/xoops/xoops-2.0.5/html
+DirectoryIndex index.php
+DocumentRoot /home/dfreniche/phpMyAdmin-2.5.4
+ServerName phpmyadmin
+# ErrorLog logs/host.some_domain.com-error.log
+# CustomLog logs/host.some_domain.com-access.log common
+</virtualhost></pre>
+<pre><virtualhost>
+# ServerAdmin webmaster@host.some_domain.com
+#Options Indexes Includes FollowSymLinks MultiViews
+#DocumentRoot /home/dfreniche/Documents/trabajo/xoops/xoops-2.0.5/html
+DirectoryIndex index.php
+DocumentRoot /home/dfreniche/php
+ServerName php
+# ErrorLog logs/host.some_domain.com-error.log
+# CustomLog logs/host.some_domain.com-access.log common
+</virtualhost></pre>
+<ol>
+<li>No olvidemos cambiar la configuración del proxy del navegador/explorador para que no intente.</li>
+</ol>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Cómo obligo a SAMBA a que los ficheros creados en una carpeta compartida pertenezcan a un usuario determinado?</title>
+		<link>/2005/10/20/como-obligo-a-samba-a-que-los-ficheros-creados-en-una-carpeta-compartida-pertenezcan-a-un-usuario-determinado/</link>
+		<pubDate>Thu, 20 Oct 2005 17:47:07 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Samba]]></category>
+
+		<guid isPermaLink="false">/2005/10/20/%c2%bfcomo-obligo-a-samba-a-que-los-ficheros-creados-en-una-carpeta-compartida-pertenezcan-a-un-usuario-determinado/</guid>
+		<description><![CDATA[Si tenemos una carpeta compartida en SAMBA con permisos de escritura para los usuarios que accedan por la red (como es el caso de la carpeta /home/compartido en Guadalinex), los nuevos ficheros creados pueden, o pueden no pertenecer al usuario que nos interese. Es decir, al pasar ficheros por la red puede pasarnos que estos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Si tenemos una carpeta compartida en SAMBA con permisos de escritura para los usuarios que accedan por la red (como es el caso de la carpeta /home/compartido en Guadalinex), los nuevos ficheros creados pueden, o pueden no pertenecer al usuario que nos interese.</p>
+<p>Es decir, al pasar ficheros por la red puede pasarnos que estos ficheros no podamos editarlos porque pertenecen a nobody, nogroup. Para obligar a samba a que el usuario sea dfreniche y el grupo users hay que añadir en smb.conf:</p>
+<pre>force user = dfreniche
+ force group = users</pre>
+<p>Por supuesto hay que reiniciar samba</p>
+<pre>/etc/init.d/samba restart</pre>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Cómo monto una carpeta compartida en red Windows en Linux?</title>
+		<link>/2005/10/20/como-monto-una-carpeta-compartida-en-red-windows-en-linux/</link>
+		<pubDate>Thu, 20 Oct 2005 17:45:57 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Samba]]></category>
+
+		<guid isPermaLink="false">/2005/10/20/%c2%bfcomo-monto-una-carpeta-compartida-en-red-windows-en-linux/</guid>
+		<description><![CDATA[Usando el script que aparece más abajo: if [ $1 == "" ] then echo montar-smb.sh echo Uso: montar-smb.sh //maquina/carpeta pto.montaje usuario else mount -t smbfs -o rw -o username=$3 $1 $2]]></description>
+				<content:encoded><![CDATA[<p>Usando el script que aparece más abajo:</p>
+<pre>if [ $1 == "" ]
+then
+echo montar-smb.sh
+echo Uso: montar-smb.sh //maquina/carpeta pto.montaje usuario
+else
+mount -t smbfs -o rw -o username=$3 $1 $2</pre>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Cómo descargar rápido imágenes?</title>
+		<link>/2005/10/20/como-descargar-rapido-imagenes/</link>
+		<pubDate>Thu, 20 Oct 2005 17:32:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[wget]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/%c2%bfcomo-descargar-rapido-imagenes/</guid>
+		<description><![CDATA[Supongamos que necesitas descargar de una web todos los archivos de un mismo tipo: imágenes, documentos, películas, mp3s&#8230; que aparecen como enlaces pero no quieres ir uno a uno descargándolos. En Windows existen una serie de programas que se descargan webs completas. En Linux tenemos wget. Un script de ejemplo que se bajaría todos los [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Supongamos que necesitas descargar de una web todos los archivos de un mismo tipo: imágenes, documentos, películas, mp3s&#8230; que aparecen como enlaces pero no quieres ir uno a uno descargándolos.</p>
+<p>En Windows existen una serie de programas que se descargan webs completas. En Linux tenemos wget. Un script de ejemplo que se bajaría todos los mpgs de una página es:</p>
+<p>&#8212;&#8212; CORTAD POR AQUI, EL CONTENIDO A UN FICHERO descarga.sh &#8212;&#8212;-</p>
+<pre># permite descargar todos los archivos de tipo .mpg de </pre>
+<pre># la URL pasada como primer parámetro </pre>
+<p>wget -r -l1 &#8211;no-parent -A.mpg $1 </p>
+<p>&#8212;&#8212;- FIN CORTAD, RECORDAD HACERLE UN chmod a+x descarga.sh &#8212;&#8211;Para entender la frase mágica, man wget</p>
+<p> </p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Cómo defino una variable global?</title>
+		<link>/2005/10/20/como-defino-una-variable-global/</link>
+		<pubDate>Thu, 20 Oct 2005 17:30:13 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/%c2%bfcomo-defino-una-variable-global/</guid>
+		<description><![CDATA[En MS-DOS/Windows, si pongo una variable en el autoexec.bat (o a través de Mi Pc -&#62; Propiedades -&#62; Entorno, etc.) la tengo disponible para el sistema. ¿En Linux cómo lo hago? Introduciendo las variables en /etc/profile, el equivalente al autoexec.bat en MS-DOS (bueno, más bien al revés 😉 ) Ejemplo: añadidos a /etc/profile las lineas:  [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>En MS-DOS/Windows, si pongo una variable en el autoexec.bat (o a través de Mi Pc -&gt; Propiedades -&gt; Entorno, etc.) la tengo disponible para el sistema. ¿En Linux cómo lo hago?<br />
+Introduciendo las variables en /etc/profile, el equivalente al autoexec.bat en MS-DOS (bueno, más bien al revés <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )</p>
+<p>Ejemplo:</p>
+<h1>añadidos a /etc/profile las lineas: </h1>
+<p>set http_proxy=»http://servidor:8080&/#8243; </p>
+<p>set ftp_proxy=»http://servidor:8080&/#8243; </p>
+<p>export http_proxy ftp_proxy</p>
+<p>Esto define las variables http_proxy y ftp_proxy, por ej. para que funcionen lynx y el gestor de paquetes synaptic</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>¿Cómo creo un dispositivo de CDROM?</title>
+		<link>/2005/10/20/como-creo-un-dispositivo-de-cdrom/</link>
+		<pubDate>Thu, 20 Oct 2005 17:28:34 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/%c2%bfcomo-creo-un-dispositivo-de-cdrom/</guid>
+		<description><![CDATA[No podemos montar el cdrom porque en /dev no están creados los ficheros de dispositivo necesarios, es decir, no existe un fichero /dev/cdrom Bastará con usar mknod, herramienta que sirve para crear los ficheros especiales (de dispositivo). Para ello, nos convertiremos en root con su y haremos: cd /dev  mknod cdrom b 22 0 Donde [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No podemos montar el cdrom porque en /dev no están creados los ficheros de dispositivo necesarios, es decir, no existe un fichero /dev/cdrom</p>
+<p>Bastará con usar mknod, herramienta que sirve para crear los ficheros especiales (de dispositivo). Para ello, nos convertiremos en root con su y haremos:</p>
+<pre>cd /dev </pre>
+<pre>mknod cdrom b 22 0</pre>
+<p>Donde cdrom es el nombre del nuevo fichero de dispositivo (/dev/cdrom), b es e tipo del fichero (fichero de bloques), 22 es el major number y 0 es el minor number, números que de cara al kernel identifican a los diferentes dispositivos.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

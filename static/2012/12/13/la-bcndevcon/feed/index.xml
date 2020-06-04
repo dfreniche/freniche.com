@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: La BcnDevCon</title>
+	<atom:link href="/2012/12/13/la-bcndevcon/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/12/13/la-bcndevcon/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Fotos de la BCNDevCon &#124; freniche.com: iPhone, Java, Macs, Linux...</title>
+		<link>/2012/12/13/la-bcndevcon/comment-page-1/#comment-121683</link>
+		<dc:creator><![CDATA[Fotos de la BCNDevCon &#124; freniche.com: iPhone, Java, Macs, Linux...]]></dc:creator>
+		<pubDate>Tue, 22 Jan 2013 08:47:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1815#comment-121683</guid>
+		<description><![CDATA[[...] Home Informática Fotos de la BCNDevCon  &#171; La BcnDevCon [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Home Informática Fotos de la BCNDevCon  &laquo; La BcnDevCon [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trabajo &#8211; freniche.com</title>
+	<atom:link href="/tag/trabajo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Expectativas salariales</title>
+		<link>/2016/08/24/expectativas-salariales/</link>
+		<pubDate>Wed, 24 Aug 2016 14:18:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[trabajo]]></category>
+
+		<guid isPermaLink="false">/?p=2689</guid>
+		<description><![CDATA[Muy a menudo recibo ofertas de recruiters, con tal o cual puesto que buscan cubrir. Antes de seguir, un apunte. Ponerse tiquis-miquis con el paro que hay podría parecer prepotencia, pero la realidad es esta: no se me concedió en la cuna el privilegio Papal de estudiar informática y la automática prohibición al resto. Quien [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Muy a menudo recibo ofertas de <em>recruiters</em>, con tal o cual puesto que buscan cubrir. Antes de seguir, un apunte.</p>
+<p>Ponerse <em>tiquis-miquis</em> con el paro que hay podría parecer prepotencia, pero la realidad es esta: no se me concedió en la cuna el privilegio Papal de estudiar informática y la automática prohibición al resto. Quien quiera puede estudiar esta carrera. En la universidad pública, nada de Oxford ni Yale. Vamos, que si se quiere se puede. No soy hijo del Marqués de Cubas. Si hay trabajo en esto y el personal se empeña en seguirse matriculando en carreras con 100% de paro la culpa encima no va a ser mía&#8230;</p>
+<p>Los recruiters. Las ofertas. Sigamos. Siempre he pensado que cuando ofertas un puesto debes tener claro:</p>
+<ul>
+<li>qué problema tiene que resolver la persona que venga (no basta con un «estoy agobiado de trabajo y necesito alguien que me <em>eche una mano</em>«). </li>
+<li>con quién va a trabajar esa persona, en qué equipo va a estar y quien va a ser su responsable. Quién se va a encargar de ayudarle a adaptarse.</li>
+<li>que contratar a alguien cuesta. Tiempo y dinero. Y cuando lo contratas pasará un tiempo hasta que sea productivo, entendiendo por eso que aporte a la facturación neta de la empresa más de lo que te cuesta tenerlo por allí. </li>
+<li>el coste de contratar. No sólo el salario neto (que no lo puedes conocer sin saber las circunstancias particulares de la persona), ni el bruto. Además, los costes sociales, o el coste del puesto de trabajo. Un gran empresario amigo mío dijo una vez que «los trabajadores comen, cagan y mean». Desde la mesa hasta el ordenador, pasando por el coste de luz eléctrica, limpieza, etc. Tener a alguien siempre incrementa los costes. Y muchos son ocultos: línea de movil, costes de Gestoría, papel higiénico en el baño, costes de despedir a esa persona si te has equivocado, etc.</li>
+</ul>
+<p>Todo esto se aleja mucho de la retórica brillante de los libros tipo «monta tu startup como en Silicon Valley» o «Silicon Valley Spanish Style». Aquí no hay «realismo mágico» sino «neorealismo cazurro». Sin mesas de Ping-Pong. Pero es que yo a lo más que he llegado es a ser empresario en mi vida. No he alcanzado los puntos de Hype necesarios ni para llegar a <em>entrepreneur</em>. Lo de <em>Serial Entrepreneur</em> (especialista en <em>dar el pase</em>) requiere de muchos puntos más de Karma.</p>
+<p>Pues bien, de los puntos anteriores, el coste laboral para la empresa lo puedes calcular de antemano. Lo <em>debes</em> calcular de antemano. Si no, ¿qué empresario eres? Por eso me matan las ofertas de trabajo tipo:</p>
+<blockquote>
+<p>«Cárnica Incorporated te ofrece incorporarte en Cojo-Empresa Líder en su sector, pero que no te decimos el nombre para que no vayas directamente a ellos y perder la comisión, y tan buena que no es capaz de seleccionar a su propia gente porque no sabe responder a las sencillas preguntas de arriba.</p>
+<p>Ni idea de lo que harás allí, pero por sí acaso aquí va una lista de buzz-words para ver si puedes preparar un CV mentiroso que las incluya y así todos nos engañamos: nosotros por pedir la luna a precio de coste y tú porque piensas que vamos a contar contigo.</p>
+<ul>
+<li>jQuery mobile, iOS (10 Años de experiencia), Java EE, SQL, Arduino y por sí acaso saber programar la TDT. </li>
+</ul>
+<p>Ya, sabemos que hemos contactado contigo a través de LinkedIn y podríamos leernos tu perfil, pero es que nos da pereza y a fin de cuentas esto es recruiting al por mayor. Sabemos que a los mejores no los pescaremos con este tipo de correos, pero si a fin de cuentas la gente sigue usando Infojobs eso significa que el <em>batallón de los tristes</em> es amplio.</p>
+<p>Indica tus expectativas salariales «</p>
+</blockquote>
+<p>Vaya. Así qué ofreces un puesto pero no sabes lo que vas a pagar por el. O eso, o quieres «retribuir según valía del candidato». Lo que normalmente suele ser una subasta a la baja, a ver a quien encontramos más desesperado que acceda al salario más miserable. Porque sí tu salario es digno, o no lo es, pero es lo que estás dispuesto a ofertar, pues eso, lo ofertas. Pero no entras en estas tonterías.</p>
+<p>A partir de ahora voy a participar en todas estas ofertas. Expectativas salariales: 120.000€ al año, netos. Y una Gameboy advance SP.</p>
+<p>Para decir tonterías ya me basto yo solito.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mi rutina diaria de trabajo</title>
+		<link>/2014/02/06/mi-rutina-diaria-de-trabajo/</link>
+		<comments>/2014/02/06/mi-rutina-diaria-de-trabajo/#comments</comments>
+		<pubDate>Thu, 06 Feb 2014 18:32:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[organización personal]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[trabajo]]></category>
+
+		<guid isPermaLink="false">/?p=1885</guid>
+		<description><![CDATA[Trabajar por tu cuenta es el sueño de muchos. Tiene muchas cosas buenas, como poder decidir el horario que mejor se ajusta a tu vida y tus necesidades, y la posibilidad de cambiarlo para adaptarte a éstas. O (algo muy importante para mi), poder escoger las herramientas con las que te sientes más productivo, o [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Trabajar por tu cuenta es el sueño de muchos. Tiene muchas cosas buenas, como poder decidir el horario que mejor se ajusta a tu vida y tus necesidades, y la posibilidad de cambiarlo para adaptarte a éstas. O (algo muy importante para mi), poder escoger las herramientas con las que te sientes más productivo, o que te gustan más. Así, no tengo que usar un PC polvoriento con XP, o un teléfono del Pleistoceno (eso sí, <strong>corporativo</strong>). Puedo invertir mi dinero en el equipamiento que, dentro de mis posibilidades, más feliz me haga.</p>
+<p>Pero también tiene sus cosas no tan buenas. Toda la responsabilidad es tuya. Si te equivocas en algo, o la pifias, no hay excusas. No hay <em>equipo del proyecto</em> en el que envolverse. Ni un jefe que te cubra las espaldas (sí, por increíble que parezca, yo creo en los jefes que dan la cara por sus equipos; incluso cuando me ha tocado ser jefe me he llevado yo las tortas antes que mi gente, pero eso es otra historia). Cuando trabajas por cuenta ajena no hay que pensar tanto: tienes que ejecutar el trabajo que te mandan. Y tienes la seguridad de un sueldo a final de mes. Por cierto, si sientes que tu trabajo no es seguro, que ganas poco y tienes muchas responsabilidades, igual deberías plantearte montarte algo por tu cuenta&#8230;</p>
+<p>Bueno, al grano, que me pierdo. Una de las cosas en las que hay poco que pensar si eres trabajador por cuenta ajena es el horario: normalmente tienes que <strong>tragar</strong> con el que te propone tu empresa. Pero si trabajas por tu cuenta y en casa, esto del horario no es tan sencillo. Para empezar la familia tiende a pensar que, como estás en casa, puedes hacer a la vez las labores domésticas. Es decir, que como estás en casa, <em>no estás trabajando</em>. Y si tienes niños, la cosa se pone peor: hay que levantarlos, vestirlos, ponerles el desayuno, llevarlos al colegio, etc. Y claro, quieres hacer algo de deporte, lo justo para mantener la barriga dentro de unos límites razonables. Y hay que mantener la casa. Y trabajar.</p>
+<p>Así que lo primero es dejarte llevar y mimetizarte con un horario de 9 a 5, 8 h como el resto de los mortales. Hasta que ves que no empiezas a las 9, sino a las 9:30. Y que te cansas, porque 5 h seguidas pensando, aunque hagas descansos, es mucho tiempo. Y que te interrumpen con llamadas al principio de la jornada, cuando estás más fresco. Y que al final del día no tienes ganas de hacer deporte, no tienes energía para nada y no te sientes bien, porque no has cumplido con todo lo que esperabas. Y no eres feliz.</p>
+<p>Empecé a hacer pruebas y, en mi caso, he llegado a varias conclusiones:</p>
+<ul>
+<li>no son necesarias 8h de trabajo al día para <strong>rendir</strong> como 8h. 8h de oficina incluyen las charlas con nos compañeros, las paradas en la máquina del café, los correos con chistes de los amigotes, las interrupciones constantes, las reuniones&#8230; Cuando sólo estad tú, este panorama cambia de manera radical.</li>
+<li>en la oficina el horario es contínuo, que no la concentración ni la creatividad. Por eso vienen las visitas a las máquinas de café. Hacer <em>bloques monolíticos</em> de esfuerzo mental seguido no funciona. Hay que parar de vez en cuando.</li>
+<li>el móvil, pese a lo que muchos piensan, es perfectamente capaz de informarte de las llamadas perdidas. Por eso, no te obsesiones en tenerlo siempre preparado para descolgar. Cuando hay que trabajar, lo mejor es quitarle el sonido y ponerlo boca abajo. Ya luego devolverás las llamadas <em>cuando te venga bien a ti</em>.</li>
+<li>tú eres tu peor enemigo. Tú te distraes. Tú tienes que motivarte. Tú te organizas. De nuevo, el peso de la responsabilidad <em>total</em>. Hay que metalizarse.</li>
+</ul>
+<h1>La rutina</h1>
+<p>Evidentemente no puedo seguirla todas las semanas. Las semanas que tengo curso, todo se rige por el horario del curso. Pero las que estoy en casa intento seguir este horario:</p>
+<ul>
+<li>me levanto temprano. A las 5:30 o las 6:00. Y me siento en el salón, con el portátil, que he dejado allí la noche anterior. He apuntado las tareas que quiero hacer, y a esa hora sólo programo. Ni correo, ni planificar, ni nada. Programar hasta las 07:30, que es cuando se empieza a <em>despertar la casa</em>. </li>
+<li>de 07:30 a 9:00, dedico el tiempo a estar con mi familia. Mi mujer se va a su trabajo y así tengo tiempo de hablar algo con ella justo antes de salir. Voy a comprar el pan. Despierto a los niños (si no están levantados ya) y preparamos el desayuno. Se visten, los peino, preparo su bocadillo (o lo que toque) de media mañana. Les llevo al colegio. A las 9:05 suelo estar en casa. Me preparo algo para mantenerme hidratado (un té, manzanilla, lo que sea) y subo a mi oficina.</li>
+<li>aquí empiezo el segundo <em>bloque de trabajo</em>. Leo el correo (a las 9:30, luego a las 12:30 y por la tarde a las 16:30). He configurado unas alarmas en un calendario llamado <em>Hábitos</em>. En este segundo bloque hay menos programación y más de otras cosas: preparar presupuestos, responder al correo, a los mensajes de LinkedIn, resolver alguna tarea que requiera de Internet (como mirar el banco, etc.). A las 13:00 paro (en días alternos) y, si puedo, me voy a correr media hora. Luego me ducho y voy a por los niños al colegio. Si no voy a correr, simplemente hago una pausa y sigo hasta las dos menos diez.</li>
+<li>como en casa de mi suegra. Así los abuelos están con los niños y todos comemos comida de verdad. A las 15:00 estamos de vuelta en casa. Ventajas de vivir en un pueblo pequeño: los desplazamientos son instantáneos.</li>
+<li>me acuesto la siesta. Me he levantado temprano y ya he trabajado, como mínimo, 4h y media. Es una siesta <em>de verdad</em>, de 40 min al menos. Cuando me levanto, me siento muy bien: he descansado y me he dado un pequeño lujo. Me preparo un café y encaro el último bloque de trabajo del día.</li>
+<li>que suele ser de 16:30 a 18:30. A esa hora corto, y me pongo con otras cosas. Mi blog, jugar con el ordenador, hacer los deberes con los niños, recoger la casa, reparar algo&#8230; Lo que toque.</li>
+<li>me acuesto temprano (antes de las 23:00). La clave para empezar bien el siguiente día es dejar el ordenador <strong>y</strong> las tareas preparadas ahora.</li>
+</ul>
+<p>Como puedes ver, esta rutina no es la mejor para todo el mundo. Es la que mejor me funciona a mi, en este momento de mi vida. Probablemente cuando mis hijos tengan 15 años cambiaré cosas, porque no tendré que peinarles y eso. Pero ahora mismo, es la que, al final del día, me deja mejor sabor de boca y una sensación más clara de aprovechar el día.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/02/06/mi-rutina-diaria-de-trabajo/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>Recruiting Nigeriano: Guía de supervivencia para que el personal de RRHH sepa cómo contratar informáticos</title>
+		<link>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/</link>
+		<comments>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/#comments</comments>
+		<pubDate>Sun, 05 Aug 2012 18:14:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Empleo]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[trabajo]]></category>
+
+		<guid isPermaLink="false">/?p=1739</guid>
+		<description><![CDATA[Hace un tiempo que trato bastante con «recruiters», con «expertos» en Recursos Humanos. Siempre he pensado que esta gente empezaban ya mal con ese nombre, ya que los trabajadores especializados no somos intercambiables (por ej., yo nunca podría hacer el trabajo de un administrador de BB.DD. porque no tengo ni idea de eso). Es decir, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.estrenoscinema.es/2011/05/el-viaje-del-director-de-recursos.html"><img class="aligncenter size-full wp-image-1742" title="Película: El viaje del director de RR.HH." src="/wp-content/uploads/2012/08/viaje_director_recursos_humanos.jpg" alt="Película: El viaje del director de RR.HH." width="286" height="400" srcset="/wp-content/uploads/2012/08/viaje_director_recursos_humanos.jpg 286w, /wp-content/uploads/2012/08/viaje_director_recursos_humanos-214x300.jpg 214w" sizes="(max-width: 286px) 100vw, 286px" /></a></p>
+<p>Hace un tiempo que trato bastante con «recruiters», con «expertos» en Recursos Humanos.</p>
+<p>Siempre he pensado que esta gente empezaban ya mal con ese nombre, ya que <strong>los trabajadores especializados no somos intercambiables</strong> (por ej., yo nunca podría hacer el trabajo de un administrador de BB.DD. porque no tengo ni idea de eso). Es decir, que no somos «recursos» que, si se agotan (porque se van a otra empresa)  va uno al supermercado y te traes otro. «¿Me pone cuarto y mitad de programador Java, por favor?». Somos especialistas con un grado de formación constante muy alto y eso es algo que fallan en reconocer. Como tampoco se valora la extrema dificultad que tiene el trabajo de programador: en cualquier momento, tienes que tener en la cabeza la estructura de tu proyecto, las reglas sintácticas del lenguaje que uses, cómo utilizar tu IDE y herramientas, cómo probar los ejecutables, SQL, dónde está tu base de datos en la red, Patrones de diseño, TDD, &#8230; Y claro, luego pasa lo que pasa. Que te contactan y dan una impresión de pena. <strong>Son los nuevos spammers</strong>, enviando el mismo correo a todo lo que se mueve en la esperanza de que alguien pique. Es la táctica «<strong>recruiting nigeriano</strong>«</p>
+<p>Si quieres contratar informáticos, y te precias de <a href="http://es.wikipedia.org/wiki/Sic">[sic]</a> «seleccionar a grandes profesionales» o cualquier otro rollo que aparezca en tu tarjeta de <em>body-shopper</em>, sigue estos consejos para al menos no mosquear al personal:</p>
+<ul>
+<li>si me contactas desde LinkedIn, por favor, no me pidas un «CV actualizado en formato Word». Uso LinkedIn precisamente <strong>para no mantener un documento con mi CV</strong>, documento que además no se suele tener actualizado. <a href="http://www.linkedin.com/in/dfreniche">En mi perfil</a> puedes ver todo lo que estoy haciendo. Y hay un fantástico botón de «imprimir como PDF». Así, de paso, cada uno hace su trabajo. No creo que yo tenga que andar rellenándote tu base de datos, porque tú no me vas a solucionar un par de bugs a cambio ¿cierto?</li>
+<li>cuando me mandes un mensaje, sea a través de LI o de email, suele agradar que te llamen por tu nombre correcto de pila y no por el de otro. Si veo que el mensaje es de manera muy evidente, un «corta, pinta y colorea» aumenta la sensación de «SPAM RRHH» y me lo tomo menos en serio. Y no, no me llamo Mario.</li>
+<li>trabajar para una «empresa líder en el sector de las telecomunicaciones» o cualquier otra frase rimbombante para ocultar la empresa final no me impresiona. Me molesta. <strong>Un contrato es un acuerdo entre dos partes. Quiero saber dónde me ofreces trabajar</strong>, ya que yo no oculto nada. He trabajado y colaborado (muchas veces de manera indirecta, en la cadena interminable de subcontratas) para Telefónica, HP o Fujitsu, luego no me deslumbra lo de «líder». Entiendo el miedo del reclutador: perder su comisión por conseguir al candidato para el puesto. Pero en este caso no creo que nadie se salte al recruiter. ¿Me van a pagar más si lo hago directamente con la empresa final? No tiene sentido este miedo y creo que, al contrario, crea confianza desde el primer momento.</li>
+<li>dime para qué me quieres contratar. Para programar Apps iOS, como formador, etc. <strong>Salario, empresa y qué voy a estar haciendo son las cosas que probablemente tienen más peso</strong>. Y no te inventes puestos de trabajo con nombres absurdos. Si voy a programar, soy programador o desarrollador. No soy «ensamblador de códigos y mago del teclado»</li>
+<li>detalles geeks, si quieres ganarme. ¿Qué ordenador y equipamiento voy a tener? ¿Se usan metodologías ágiles? ¿SVN o Git? ¿Puedo llevar mi portátil si el que me ofreces no me gusta? ¿Das algún dispositivo móvil? ¿Me mandarías al WWDC?</li>
+<li>otros detalles generales se agradecen: ¿Donde es el trabajo? ¿Hay que viajar? ¿Necesitas que hable inglés?</li>
+<li>trata de comprender las tecnologías que maneja la gente que vas a contratar. Si veo que no distingues entre una BBDD y programar en LISP puedo pensar que no distingas entre una buena y una mala oferta. Buscar filtrando por un montón de siglas que no comprendes normalmente no da buen resultado</li>
+<li>no termines tu mensaje diciéndome «pero si no te gusta el puesto, ¿puedes localizarme a alguien que le interese?». Perdona, pero <strong>ese es TU trabajo</strong>. Si el puesto es increíble y «awesomico» (como diría <a href="http://www.bonillaware.com/">David Bonilla</a>) ya me encargaré yo solito de comentárselo a mis amigos. Si no lo es, y quieres que trabaje por ti, hay una cosa que se llaman referrals: me pagas si te mando un candidato valido. Que ya está bien. Además de arreglar el ordenador del primo de turno gratis ahora tenemos que hacer esto también. Ni de coña.</li>
+</ul>
+<p>Si te ha gustado esto, puedes continuar leyendo mi análisis de <a href="/2010/11/06/los-dos-tipos-de-negocio-de-desarrollo-de-software/">los dos tipos de negocio de desarrollo de software</a>. Sobre vendedores de carne y demás.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+	</channel>
+</rss>

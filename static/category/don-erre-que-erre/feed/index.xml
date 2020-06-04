@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Don erre que erre &#8211; freniche.com</title>
+	<atom:link href="/category/don-erre-que-erre/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi nuevo ordenador es un iPad</title>
+		<link>/2018/12/29/mi-nuevo-ordenador-es-un-ipad/</link>
+		<pubDate>Sat, 29 Dec 2018 13:11:07 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[iPad]]></category>
+
+		<guid isPermaLink="false">/?p=2794</guid>
+		<description><![CDATA[Escribo esto en mi «poor man´s iPad Pro». Es un iPad normal, modelo 2018, color Space Gray. Eso sí, con 128 GB de almacenamiento interno, porque la nube no siempre está disponible. Prefiero controlar mi almacenamiento. Cosas de abuelete. Es un «iPad Pro para pobres» porque me he comprado el Apple Pencil (1ª generación, que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Escribo esto en mi «poor man´s iPad Pro». Es un iPad normal, modelo 2018, color Space Gray. Eso sí, con 128 GB de almacenamiento interno, porque <em>la nube</em> no siempre está disponible. Prefiero controlar mi almacenamiento. Cosas de abuelete. Es un «iPad Pro para pobres» porque me he comprado el Apple Pencil (1ª generación, que es el que soporta este iPad), y un teclado/funda de Logitech. Y, la verdad, el <em>combo</em> me está encantando.</p>
+<p><img src="/wp-content/uploads/img_0502.jpg" class="aligncenter size-medium wp-image-2799" width="4032" height="3024" alt="Mi nuevo iPad" srcset="/wp-content/uploads/img_0502.jpg 4032w, /wp-content/uploads/img_0502-300x225.jpg 300w, /wp-content/uploads/img_0502-768x576.jpg 768w, /wp-content/uploads/img_0502-1024x768.jpg 1024w, /wp-content/uploads/img_0502-920x690.jpg 920w" sizes="(max-width: 4032px) 100vw, 4032px" /></p>
+<p>En casa siempre hemos tenido un iPad. Desde el iPad 1 (que era <em>oficialmente</em> de mi mujer). Mi primer iPad fue un iPad 3, el primero con pantalla retina. Lo compré para leer libros y comics, entre otras cosas. Pero la verdad es que mi relación con el iPad siempre ha sido de indiferencia/aburrimiento total. No se por qué, pero no era capaz de encajarlo en mi flujo de trabajo habitual. Como muchos informáticos, veía la potencia del hardware del iPad desaprovechada por su software. ¿De qué me sirve tener un procesador y GPU tan potente, o esos resultados en benchmarks, si luego no puedo ejecutar un simple emulador o un entorno de desarrollo en el iPad? Así que siempre volvía al portátil, que para eso tiene teclado y <em>es un ordenador de verdad</em>. El iPad, para que los niños jueguen al Minecraft.</p>
+<p>A todo esto siempre han ayudado dos cosas. La primera, que soy un abuelete y prefiero un ordenador en el que pueda <em>trastear</em> por encima de todas las cosas. La segunda, que cuando antes trabajaba usaba mi portátil, por supuesto siempre sincronizado con mi Hackintosh y mi iMac usando <a href="https://syncthing.net/" target="_blank" rel="noopener">Syncthing</a>, Al tener en el ordenador las cosas de trabajo y mis cosas personales <em>mezcladas</em>, era sencillo echarle un ojo al correo o mirar esto o aquello en un momento. La frontera entre trabajo y usar mi ordenador para cosas personales era complicada. Siempre estaba <em>usando el ordenador</em>. Para algo.</p>
+<p>Pero todo esto ha cambiado en 2018. El iMac está fuera de servicio actualmente (tarjeta gráfica <em>kaput</em>). Empecé a trabajar en Teamwork.com (la mejor compañía del mundo, en la que estoy súper contento, por cierto, <a href="https://careers.teamwork.com/jobs/" target="_blank" rel="noopener">buscamos gente</a>) y me dieron un MBP para el trabajo. Decidí tener completamente separadas las cosas de trabajo y las personales. No instalar en el portátil de trabajo nada que no fuese <em>de trabajo</em>. Por aquello de separar mentalmente los contextos, algo importante si, como yo, trabajas desde casa. Ahora, abrir el portátil de Teamwork significa «cerebro, vamos a trabajar». cerrarlo significa «esto se acabó, ahora tus cosas». Pero la realidad es que <em>mis cosas</em> no han funcionado este año.</p>
+<p>Sólo el hecho de tener que ir a por el otro portátil, que a veces esté sin batería, subir una mochila, bajar otra&#8230; Me daba una pereza infinita. Y cuando me sentaba frente al Hackintosh lo único que me apetecía era arrancarlo en Windows 10 y jugar. Así que ya no tengo Hackintosh. Resultado: he dejado de escribir en el blog, he reducido mi presencia en redes sociales, no voy a meetups y tengo ahora mismo 178 correos sin leer, mis tareas personales, antes organizadas en Things son ahora un desastre&#8230; Incluso importar fotos, organizar mi música se ha convertido en un problema. Todo, porque hay que <em>ir a por el ordenador</em>. El ordenador me impide hacer cosas.</p>
+<p>Así que me he comprado este iPad. Le tenía ganas al Pencil. Siempre me ha gustado dibujar, pero volvemos a lo mismo: ir a por los lápices, libreta, etc. me suponía una barrera. Y también me frenaba mucho una estupidez mental muy mía: dibujar mal y ¡oh, no!, no poder corregirlo, emborronar el papel&#8230; Esto es una tontería, porque lo que yo busco dibujando (como cuando escribo) no es tanto el resultado, sino el placer que me reporta tener el cerebro haciendo sólo una cosa durante un rato. Siempre te gusta dibujar algo bonito, pero lo importante es la práctica, no el resultado (al menos para mí). Obligar al cerebro a hacer sólo una cosa y que el tiempo vuele es el descanso definitivo. Se ve que esto se me había olvidado. El caso es que no dibujaba.</p>
+<p>Con el teclado puedo escribir sin limitaciones. Me gustan los teclados físicos, qué le vamos a hacer. Y con este iPad puedo abrirlo y en segundos estar escribiendo en mi WordPress. Fricción cero. Espero que eso se traduzca en volver a escribir.</p>
+<p>Así que ahora mismo mi ordenador principal para mis cosas privadas es este iPad. Quiero forzarme a que así lo sea. Aunque tenga problemas y me encuentre con ciertas estrecheces al usarlo. Limitaciones casi siempre debidas al software, bien por la calidad de las apps o por las limitaciones que Apple nos impone. Ya, problemas del primer mundo. Pero para bien o para mal son <em>mis</em> problemas.</p>
+<p>Quiero ver si, aún con estas limitaciones, la inmediatez de uso, la menor fricción y la disponibilidad que me da el iPad me ayudan a hacer cosas. Y me quite la manía de <em>tengo que hacer cosas en un ordenador de verdad</em>. De momento, la sensación de liberación es enorme: puedo hacer casi todo lo que hacía con el portátil, excepto programar (ya se, puedo usar Playgrounds o Pythonista, pero para programar sí o sí quiero una consola a mano). Y para programar me estoy planteando una serie de herramientas y workflows que darán para unos cuantos posts. Y puedo hacer otras muchas cosas que en el ordenador no podía hacer o no me apetecía hacer.</p>
+<p>Quién me lo iba a decir&#8230;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El lamentable estado de las herramientas de desarrollo iOS</title>
+		<link>/2017/06/01/el-lamentable-estado-de-las-herramientas-de-desarrollo-ios/</link>
+		<pubDate>Thu, 01 Jun 2017 10:36:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">/?p=2782</guid>
+		<description><![CDATA[Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen en las que ya hay. Y que las herramientas funcionen. No que añadan cosas. Que arreglen bugs.</p>
+<p>Hace tres años escribí sobre <a href="/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/">El lamentable estado de las herramientas de desarrollo Android</a>. En aquella época, lo que existía para desarrollo Android (oficial) era el plugin ADT para Eclipse. Y, como relato en el post, no funcionaba algo que era un simple ZIP. Eclipse, Java 6, fallos en las herramientas, un Android Studio que estaba en Alpha, una documentación horrorosa, una API discutible (ver p.ej. el método <code>isUserAGoat</code> en <a href="https://developer.android.com/reference/android/os/UserManager.html#//apple_ref/clm/isUserAGoat%28%29">UserManager</a>), la lentitud de Gradle si probabas AS&#8230; Esto era la muerte por mil cortes, comparado con el mundo iOS, con esas APIs Cocoa tan consistentes, un Xcode tan bonito y que entonces no fallaba tanto&#8230;</p>
+<p>Y encima Apple presentó Swift en Junio de 2014. La promesa de un nuevo lenguaje, compatible con Objective-C, con C, C++, pero funcional, con inmutabilidad, Opcionales, genéricos, &#8230; Todo se veía de color de rosa desde el mundo iOS, comparado con el cenagal que era el desarrollo Android.</p>
+<h2>Apple: Non-Pro Macs</h2>
+<p>Apple <a href="/2017/05/08/apple-tenemos-que-hablar/">ya no hace ordenadores para desarrolladores</a>. Y me parece muy bien, si así gana más dinero. Pero debe entonces afrontar las cosecuencias, que van a ser (porque esto ya ha lo he visto antes en otras plataformas):</p>
+<ul>
+<li>los desarrolladores se compran otras máquinas y se montan un Hackintosh para seguir desarrollando en iOS / Mac. MacOS se convierte en «ese sistema operativo que te ves obligado a usar por el trabajo». Apple no gana dinero con las máquinas. Tienes dual-boot y cada vez usas más Windows. Peligro.</li>
+<li>los desarrolladores directamente se pasan a Windows 10 / Linux con mejores portátiles (y a mejores precios, que no todos tenemos una mina de oro en el sótano de casa) y usan MacOS en una máquina virtual (cosa que prohíbe la licencia, como el Hackintosh, pero ponle puertas a ese campo&#8230;). Goto 1</li>
+<li>algunos desarrolladores se cabrean tanto con el poco aprecio que sienten desde Apple que <a href="https://twitter.com/spolsky/status/833082540995014656">directamente abandonan la plataforma</a>, algo que a dia de hoy se puede hacer ya que el mercado de trabajo tiene ofertas casi para todo tipo de perfiles de desarrollo. </li>
+</ul>
+<p>Si los programadores se van de una plataforma, esta se muere. Lo he visto con OS/2, con Amiga, con Linux (¿este es el año de Linux en el escritorio? Y sí, ya se que se usa mucho Linux en Android, que es Linux, y en la RaspberryPi, y que llevo usando Linux desde el 93, que no me cuentes de qué va eso que yo voté porque Tux fuera la mascota de Linux y tú no).</p>
+<p>Casi le pasa a Microsoft. El rechazo que generó con sus Internet Explorers le ha llevado a ceder casi toda la cuota de mercado a Chrome. Y no hablemos del patinazo Vista, que enmendó con Windows 7. Es por eso el titánico esfuerzo que está haciendo ahora mismo Microsoft, permitiéndote ejecutar <a href="https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/">Linux en Windows</a> de forma nativa, o dándote la <a href="https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/#zyguw3uS8gw66FL3.97">bash</a>. Atraer programadores que son los que riegan este campo con sus aplicaciones.</p>
+<h2>2017</h2>
+<p>Es 2017. Swift va a sacar la versión 4, con nuevos cambios que te obliguen a actualizar tu código, o no compila. Con ese asistente que tiene Xcode tan bueno. Si no tenías listo el lenguaje en 2014&#8230; ¿para qué sacarlo? ¿Porque Chris Latter estaba harto y se <a href="http://www.businessinsider.com/chris-lattner-swift-creator-leaves-apple-2017-1">quería ir</a>? Pero bueno, era 2014 y podíamos entenderlo, Apple. Pasamos por Swift 1, 1.1, 1.2, y los cambios a Swift 2. Y Swift 3. Contínuamente cambiando una base de código que funciona para hacer que siga funcionando. Es decir, gastar horas para seguir en el mismo punto. No añadir nuevas funcionalidades. Que <em>compile</em>. Coding is fun.</p>
+<p>Al menos el compilador de Swift es rápido. Tanto, que cuando ejecuto Gradle en Android me parece instantáneo. Gradle, quiero decir. Pero en cada WWDC nos dicen que «ahora el compilador de Swift es un 20% más rápido». Con tantos avances en velocidad mi código debería terminar de compilar&#8230; en 1984. De lo rápido que compila. Pero la realidad es la realidad, y Swift es <strong>horriblemente</strong> más lento compilando que su equivalente en Objective C. Y es una pena, porque el lenguaje es muy bonito. Apple ha hecho un <a href="https://en.wikipedia.org/wiki/Sherlock_(software)">Sherlock</a> de Kotlin con Swift, lo que está bien. Si ahora hiciese un Sherlock de IntelliJ, todos contentos.</p>
+<p>Porque cansa ver cómo se arrastra el compilador. Cómo haces Cmd+click en un símbolo y no lo encuentra (es una función de ámbito global <em>y no la encuentra</em>). O cómo el autocompletado es totalmente random. O cómo pones un punto de ruptura dentro de una clausura y no puedes depurar el valor de las variables de la clausura. Bueno, sí puedes&#8230; usando println. NSlog oriented debugging FTW!</p>
+<p>Al menos podemos refactorizar nuestro código. Esto significa que puedes cambiar el nombre a una clase. Fin de los refactors. Y en Objective-C. En Swift nada. Zero. Nil. Y de generar código ni hablamos. Últimamente Xcode no es capaz ni de comentar líneas de código con Cmd + / o <em>acertar</em> y autocompletarte los nombres de las librerías en los imports.</p>
+<p>O cómo la comunidad ha tenido que solucionar problemas básicos que Apple se niega a ver. ¿Resolución de dependencias y librerías de terceros? En Android: Gradle. Soportado. En iOS: CocoaPods, Carthage, o a mano. Todos proyectos de la comunidad. ¿Plugins? En Android: Android Studio tiene de todo. En iOS: han metido un sistema de plugins tan restringido que, la verdad, no conozco a nadie que esté usando algún plugin que merezca la pena (indicadme por Twitter los mejores, por favor). Y de paso se han cargado un proyecto como Alcatraz, que sí que ofrecía un montón de plugins, temas y plantillas de ficheros porque, ¿quién quiere algo mejor cuando mi versión inferior patentada por Apple ya viene con Xcode? Y sí, entiendo los problemas de seguridad de los plugins, y que Xcode viene firmado y todo eso. Pero digo yo que habrá alguna solución intermedia colocando los plugins en otro proceso fuera del sandbox de Xcode&#8230;</p>
+<h2>WWDC</h2>
+<p>Así que, en esta próxima <strong>Developers Conference</strong>, vamos a abrir la Keynote hablando de lo mucho que vendemos, de lo buenos que son los portátiles con la ToyBar, de lo chulos que son los auriculares Beats, de todas esas cosas que nos interesan muchísimo a los programadores, <strong>que es a los que debe ir dirigida la Keynote</strong>. Nuevos colores para las correas del reloj. Nuevas animaciones en macOS para organizar tus ventanas en 15 espacios para que nadie lo use nunca, porque todos usamos un monitor externo. Y Apple Music, que todo programador necesita música de fondo y eso. Pagando.</p>
+<p>Pues no. Este año no renové mi Apple Membership por primera vez en 6 años. Y cada vez me cuesta más y me duele más abrir Xcode. Porque veo lo que podría ser, lo comparo con un excelente IDE (con sus problemas, pero mucho mejor para <em>escribir</em> código) como IntelliJ y me sangra el corazón. Quiero seguir programando en un Mac en 2027. No me eches de tu jardín, Apple.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Expectativas salariales</title>
+		<link>/2016/08/24/expectativas-salariales/</link>
+		<pubDate>Wed, 24 Aug 2016 14:18:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[trabajo]]></category>
+
+		<guid isPermaLink="false">/?p=2689</guid>
+		<description><![CDATA[Muy a menudo recibo ofertas de recruiters, con tal o cual puesto que buscan cubrir. Antes de seguir, un apunte. Ponerse tiquis-miquis con el paro que hay podría parecer prepotencia, pero la realidad es esta: no se me concedió en la cuna el privilegio Papal de estudiar informática y la automática prohibición al resto. Quien [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Muy a menudo recibo ofertas de <em>recruiters</em>, con tal o cual puesto que buscan cubrir. Antes de seguir, un apunte.</p>
+<p>Ponerse <em>tiquis-miquis</em> con el paro que hay podría parecer prepotencia, pero la realidad es esta: no se me concedió en la cuna el privilegio Papal de estudiar informática y la automática prohibición al resto. Quien quiera puede estudiar esta carrera. En la universidad pública, nada de Oxford ni Yale. Vamos, que si se quiere se puede. No soy hijo del Marqués de Cubas. Si hay trabajo en esto y el personal se empeña en seguirse matriculando en carreras con 100% de paro la culpa encima no va a ser mía&#8230;</p>
+<p>Los recruiters. Las ofertas. Sigamos. Siempre he pensado que cuando ofertas un puesto debes tener claro:</p>
+<ul>
+<li>qué problema tiene que resolver la persona que venga (no basta con un «estoy agobiado de trabajo y necesito alguien que me <em>eche una mano</em>«). </li>
+<li>con quién va a trabajar esa persona, en qué equipo va a estar y quien va a ser su responsable. Quién se va a encargar de ayudarle a adaptarse.</li>
+<li>que contratar a alguien cuesta. Tiempo y dinero. Y cuando lo contratas pasará un tiempo hasta que sea productivo, entendiendo por eso que aporte a la facturación neta de la empresa más de lo que te cuesta tenerlo por allí. </li>
+<li>el coste de contratar. No sólo el salario neto (que no lo puedes conocer sin saber las circunstancias particulares de la persona), ni el bruto. Además, los costes sociales, o el coste del puesto de trabajo. Un gran empresario amigo mío dijo una vez que «los trabajadores comen, cagan y mean». Desde la mesa hasta el ordenador, pasando por el coste de luz eléctrica, limpieza, etc. Tener a alguien siempre incrementa los costes. Y muchos son ocultos: línea de movil, costes de Gestoría, papel higiénico en el baño, costes de despedir a esa persona si te has equivocado, etc.</li>
+</ul>
+<p>Todo esto se aleja mucho de la retórica brillante de los libros tipo «monta tu startup como en Silicon Valley» o «Silicon Valley Spanish Style». Aquí no hay «realismo mágico» sino «neorealismo cazurro». Sin mesas de Ping-Pong. Pero es que yo a lo más que he llegado es a ser empresario en mi vida. No he alcanzado los puntos de Hype necesarios ni para llegar a <em>entrepreneur</em>. Lo de <em>Serial Entrepreneur</em> (especialista en <em>dar el pase</em>) requiere de muchos puntos más de Karma.</p>
+<p>Pues bien, de los puntos anteriores, el coste laboral para la empresa lo puedes calcular de antemano. Lo <em>debes</em> calcular de antemano. Si no, ¿qué empresario eres? Por eso me matan las ofertas de trabajo tipo:</p>
+<blockquote>
+<p>«Cárnica Incorporated te ofrece incorporarte en Cojo-Empresa Líder en su sector, pero que no te decimos el nombre para que no vayas directamente a ellos y perder la comisión, y tan buena que no es capaz de seleccionar a su propia gente porque no sabe responder a las sencillas preguntas de arriba.</p>
+<p>Ni idea de lo que harás allí, pero por sí acaso aquí va una lista de buzz-words para ver si puedes preparar un CV mentiroso que las incluya y así todos nos engañamos: nosotros por pedir la luna a precio de coste y tú porque piensas que vamos a contar contigo.</p>
+<ul>
+<li>jQuery mobile, iOS (10 Años de experiencia), Java EE, SQL, Arduino y por sí acaso saber programar la TDT. </li>
+</ul>
+<p>Ya, sabemos que hemos contactado contigo a través de LinkedIn y podríamos leernos tu perfil, pero es que nos da pereza y a fin de cuentas esto es recruiting al por mayor. Sabemos que a los mejores no los pescaremos con este tipo de correos, pero si a fin de cuentas la gente sigue usando Infojobs eso significa que el <em>batallón de los tristes</em> es amplio.</p>
+<p>Indica tus expectativas salariales «</p>
+</blockquote>
+<p>Vaya. Así qué ofreces un puesto pero no sabes lo que vas a pagar por el. O eso, o quieres «retribuir según valía del candidato». Lo que normalmente suele ser una subasta a la baja, a ver a quien encontramos más desesperado que acceda al salario más miserable. Porque sí tu salario es digno, o no lo es, pero es lo que estás dispuesto a ofertar, pues eso, lo ofertas. Pero no entras en estas tonterías.</p>
+<p>A partir de ahora voy a participar en todas estas ofertas. Expectativas salariales: 120.000€ al año, netos. Y una Gameboy advance SP.</p>
+<p>Para decir tonterías ya me basto yo solito.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El agobio de repuesto</title>
+		<link>/2015/07/23/el-agobio-de-repuesto/</link>
+		<comments>/2015/07/23/el-agobio-de-repuesto/#comments</comments>
+		<pubDate>Thu, 23 Jul 2015 10:50:04 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[automachaque]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Reflexiones]]></category>
+
+		<guid isPermaLink="false">/?p=2640</guid>
+		<description><![CDATA[TL;DR: auto fustigación y pesimismo ahead. Igual prefieres ponerte Les Luthiers para divertirte. No se si es por ser programador, o por ser informático. No, debe ser por intentar sobrevivir como autónomo en España, luchando contra unos impuestos disparatados que no ayudan mucho al que gana poco. O directamente porque soy tonto del culo. El [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote>
+<p>TL;DR: auto fustigación y pesimismo  ahead. Igual prefieres ponerte <a href="http://www.lesluthiers.com/">Les Luthiers</a> para divertirte.</p>
+</blockquote>
+<p>No se si es por ser programador, o por ser informático. No, debe ser por intentar sobrevivir como autónomo en España, luchando contra unos impuestos disparatados que no ayudan mucho al que gana poco. O directamente porque soy tonto del culo. El caso es que siempre ando preocupado. Agobiado. Por pequeñas cosas, cosas insignificantes, pero que están ahí. Y molestan.</p>
+<p>Cuando estás sano, tienes una estupenda relación con tu mujer, dos hijos a los que quieres con locura, has estudiado lo que te gusta, tienes trabajo, disfrutas de tus padres y familia&#8230; Parece que quejarse no es una opción. Hay que ser tonto, ¿no?. Problemas del primer mundo&#8230;</p>
+<p>Pero como me dijo una vez un compañero, cuando estaba empezando y me dedicaba a arreglar ordenadores <em>«uno siempre quiere más»</em>. Y con el tiempo he acuñado esta frase: «cuando todo te va bien siempre tienes a mano un agobio de repuesto».</p>
+<p><em>Siempre quieres más</em>. Aquí está esa idea del deseo no satisfecho, una sed que no puedes apagar del todo, pero  que muchas veces es sólo una fantasía. Uno piensa: «si pierdo cinco kilos me sentiré mejor y haré tal o cual cosa». O peor «<em>cuando pierda 5 Kg</em> hago esto o lo otro». Son fantasías, autoengaños. Perder los kilos probablemente no te haga tan feliz como esperas. Aprende a disfrutar del deporte que practiques para perderlos. Haz ahora lo que quieras hacer o no lo hagas, pero no lo pospongas.</p>
+<p>Estos deseos me llevan, en mi caso, a comprar cosas para acallar <em>que algo no va bien</em>. Menos mal para mis finanzas (y mi salud) que las cosas que compro para generar dopamina son baratas: no soy un aficionado al juego, ni a los coches caros o las drogas (más allá del café). Me relaja mucho más comprar un viejo AMSTRAD CPC 6128 y jugar con él. Aunque no me hace tan feliz como había imaginado, porque las cosas no me pueden hacer feliz: sólo yo, reconociendo lo que tengo ahora, dando gracias por lo que tengo y disfrutándolo, podré ser feliz. No hay otra.</p>
+<h2>Las críticas</h2>
+<p>Siempre he sido así, desde que tengo uso de razón. He pasado rápido por encima de mis éxitos, porque me da un poco de pereza estar alardeando de cosas que pienso cualquiera puede conseguir, si se esfuerza. Y siempre me han afectado mucho las críticas. Pero no las externas.</p>
+<p>Esas las escucho, pero he aprendido a aceptar sólo aquellas de gente que respeto, no del primero que pasa por la calle. Las que de verdad me machacan son las internas. Esa voz interior que no para de juzgarte. De recordarte cómo has fracasado en perder los 5 Kg. O cómo no has arreglado la cerradura del patio que está rota. O que no has escrito ese libro que querías. O que no ganas el dinero que suponías te iba a hacer feliz. Esa voz que es tu peor enemigo. Esa voz siempre trae el agobio de repuesto.</p>
+<p>Este agobio, esta duda permanente en mi mismo y en si hago lo mejor o no tomando esta decisión o la otra me paralizaba antes muchísimo más que ahora. Antes me devanaba los sesos. Y sufría mucho. En silencio, como las hemorroides. Pero sufría. Así que empecé a leer libros de «autoayuda», a probar métodos de trabajo que me librasen del estrés, a hacer cosas en lugar de pensar en cómo hacerlas perfectas o si debería hacerlas.</p>
+<h2>Herramientas para salir del pozo</h2>
+<p>Por el camino he aprendido que apuntar todas las tareas en algún sitio, siguiendo el método <a href="https://es.wikipedia.org/wiki/Getting_Things_Done">GTD</a> te libera de la obligación de recordar. Una vez apuntado ya sabes que tu lista de tareas se acordará. Que reflexionar con un mapa mental, pintando en un cuaderno, me ayuda a ver mejor las cosas desde arriba y a tomar decisiones. Que no hay que ver todas las tareas a la vez, sino visualizarlas una tras otra. Es difícil luchar contra tantos problemas a la vez. ¿Pero contra uno? Seguro que gano. Me he ido conociendo y he desarrollado <a href="/2014/02/06/mi-rutina-diaria-de-trabajo/">rutinas para trabajar mejor</a>. Y me <em>autoengaño</em>, por ejemplo, empezando siempre con una tarea muy sencilla, casi absurda. Pero una vez has empezado, sólo hay que mantener la bola rodando. «El principio es la mitad del todo» (Pitágoras, sí, el culpable de que suspendieras el examen de senos y cosenos).</p>
+<p>Me he hecho un gurú <em>de cartón piedra</em> de la productividad personal. Y claro, uno piensa que «cuando me sepa organizar perfectamente el agobio se irá». Y, como todas las fantasías, se desvanece en contacto con la realidad. Hay días buenos. Y días malos.</p>
+<p>Lo malo es que, una vez que tuviste un día muy bueno en el que fuiste un 150% productivo tu cerebro quiere que todos los días sean siempre como ese. Y claro, eso no puede ser. La vida cambia: te pones enfermo, se acaba la comida del frigorífico, hay que pagar los impuestos, se estropea el coche, un amigo te invita a su segunda boda&#8230; Hay que <a href="https://www.youtube.com/watch?v=gme1h1IfJZA&amp;feature=youtu.be&amp;t=95">improvisar, adaptarse, vencer</a>. Y no hay que sufrir porque hoy sólo has rendido un 50%</p>
+<p>El resumen de todas las técnicas de autoayuda, productividad personal, herramientas, etc. es sencillo: haz cosas. Al hacer cosas te sentirás un poco mejor. Haz muchas cosas y te sentirás bastante mejor. ¿Meditación? Un 5% más de felicidad. ¿Deporte? Otro 10%. Tus aficiones, otro 10%. Ve sumando.</p>
+<h2>Soy un fraude</h2>
+<p>Pero todo esto no me quita la sensación de engañar a todo el mundo. Dicen que se llama <a href="https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor">síndrome del impostor</a>. En mi caso lo soy. Un impostor, digo. Porque es muy difícil, al ritmo que cambian las tecnologías, mantenerte al día. Ser relevante. Aprender iOS, Objective-C, Xcode, Cocoa, sus patrones de diseño, a manejar herramientas como Instruments, git, organiza tu trabajo&#8230; Y luego métete con Android, Eclipse, Java, Android Studio&#8230;</p>
+<p>Demasiado para mi. Me hago viejo y tonto. Si fuera tan listo como me gustaría habría montado una empresa de la que me sintiera orgulloso. O tendría un proyecto software libre que fuera mío. O al menos una biblioteca de funciones que valiera la pena. O un buen blog. O un libro&#8230; La realidad es que soy un fraude y no tengo nada de esto porque no doy el nivel. No excuses.</p>
+<p>Sufro cuando tengo que enseñar a alguien. Siempre pienso que me van a pillar, que se va a descubrir el fraude, que todos van a ver que realmente no tengo ni idea. O cuando tengo que hacer una App para un cliente. App con la que tardaré más de lo presupuestado, perderé dinero como siempre y de la que no me sentiré satisfecho. Me hace gracia cuando me llaman «Senior» developer. Será por lo viejo.</p>
+<p>Por eso no tengo la empresa. Por eso no publico el código que tengo. Por todo eso.</p>
+<p>Hay días buenos, cuando ves que te acercas a tus objetivos. Otros no son tan buenos y sólo puedes agachar la cabeza y seguir avanzando. Y esperar que la cosa mejore.</p>
+<p>Pero me gustaría tanto que todos los días fueran buenos&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/07/23/el-agobio-de-repuesto/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Los ideístas</title>
+		<link>/2014/09/12/los-ideistas/</link>
+		<comments>/2014/09/12/los-ideistas/#comments</comments>
+		<pubDate>Fri, 12 Sep 2014 08:09:06 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[liderazgo]]></category>
+		<category><![CDATA[Negocio]]></category>
+
+		<guid isPermaLink="false">/?p=2243</guid>
+		<description><![CDATA[Idea, definición de la RAE Primero y más obvio de los actos del entendimiento, que se limita al simple conocimiento de algo. Ideísta (definición de Diego Freniche, sobre un palabro inventado por él mismo) Dícese de aquel que considera ser la única persona capaz de tener ideas de negocio. Especialmente si se dirige a un [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h3>Idea, <a href="http://buscon.rae.es/drae/srv/search?id=nW6rBmRmCDXX2BVV3sD1|DRJEQrluGDXX2HHzuq6R">definición de la RAE</a></h3>
+<blockquote>
+<p>Primero y más obvio de los actos del entendimiento, que se limita al simple conocimiento de algo.</p>
+</blockquote>
+<h3>Ideísta (definición de Diego Freniche, sobre un <em>palabro</em> inventado por él mismo)</h3>
+<blockquote>
+<p>Dícese de aquel que considera ser la única persona capaz de tener ideas de negocio. Especialmente si se dirige a un informático que pretende trabaje para él gratis. Aunque el Ideista tiene muchas ideas, usualmente no puede transmitirlas al estar aquejado de <em>NDAitis</em></p>
+</blockquote>
+<h2>Esos líderes</h2>
+<p>Ideístas. Tan tiernos. Me encantan. Asumen que, dado que eres informático, eres un tarado incapaz de diseñar un plan de negocio. Ya, quizá has cursado unos estudios, trabajado unos años y puede ser que te exprimas el cerebro cada día para aprender cómo conseguir que los ordenadores hagan <em>más o menos</em> lo que tú quieres. Pero eso no te exime, amigo/a: eres tonto/a. De remate.</p>
+<p>Delante tuyo fluye imparable un río de dinero, pero eres tan <em>anormal</em> que no lo ves, no te das cuenta que sólo con tener una <em>idea</em> se abrirán las puertas del cielo, bajarán de las nubes unicornios vomitando arcoiris que pastarán billetes de a 100 Eur., generando pepitas de oro cada vez que levanten la cola en la pradera. Y serás rico. Y tu barriga desaparecerá. Y te crecerá el pelo. Y podrás ganar alguna negociación con tu mujer. Y todo con una <em>idea</em>.</p>
+<p>Pero claro, como eres tonto, no ves que es tan sencillo. Por eso, prefiero tener <em>yo</em> la idea, que para eso soy el ideísta y que tú trabajes para mi. Con <em>pasión y entrega</em>, porque claro, si sólo lo haces porque te gusta, pero no pones <em>pasión</em>, como que eres un triste que medio lo intenta, pero que no merece su reconocimiento. Eso sí, gratis.</p>
+<p>Porque todo ideísta es un Steve Jobs. Todos son Jeff Bezos, o Hewlett y Packard. Son líderes natos, a los que ni por un momento se te puede pasar por la cabeza dejar de seguir. Eso sí, no te presentan ningún <em>track record</em>, esto es, las grandes compañías que han fundado antes en base a sus ideas. Más que nada porque tienen la misma experiencia laboral que Paris Hilton. Son <em>visionarios</em>. No tienen obligación de demostrarte que sus visiones sean algo concreto, claro.</p>
+<h2>El contacto</h2>
+<p>Reconocer al ideísta es fácil. Tanto, que he creado una plantilla para buscar concordancia de sus mensajes. Os presento el <strong>ideísta-canvas</strong>:</p>
+<p><script src="https://gist.github.com/dfreniche/d5af8a1bee5a793e7e83.js"></script> Aquí podéis ver el esquema general de las cosas. Estos líderes tecnológicos, estos avezados descubridores de nuevos nichos de mercado en la economía de las Apps, son incapaces de registrar su propio dominio. Y siguen usando Hotmail. Te hablan de San Francisco, pero no te muestran las compañías que han creado antes. Tienen <em>ideas</em> pero <em>ni zorra idea</em> de cómo llevarlas a cabo. Te <em>retan</em>, ya que ejecutar su idea va a ser muy divertido y estimulante para tu cerebro. Porque a tí te gusta trabajar gratis. Reconócelo.</p>
+<p>Y ellos no tienen un duro, claro.</p>
+<h2>Mi problema</h2>
+<p>Mi problema es que estoy contaminado, pero no se cómo explicarlo. Como pertenezco a una generación que extrae sabiduría de las citas de las películas, voy a usar una. Antes se extraían citas de la Ilíada. En Facebook se sacan de Paulo Coelho, uno de los escritores de <strong>pósters de gatitos</strong> más prolíficos que se conocen. El caso es que desde que escuché a El Jóker decir esto, no puedo evitar repetirlo siempre:</p>
+<blockquote>
+<p>Si eres bueno en algo, nunca lo hagas gratis</p>
+</blockquote>
+<p><img src="http://24.media.tumblr.com/tumblr_m81q3gTlDF1qfw0deo1_500.gif" alt="" /></p>
+<p>Y claro, también está la hipoteca. Y los recibos de la luz y el agua. Y que me gusta que mis hijos tengan tres comidas al día. Y por desgracia, si me acerco a la tienda y miro a los ojos al dependiente, diciéndole de forma seductora: <em>tengo una idea y por eso me voy a llevar seis rollos de papel higiénico gratis, porque para eso soy un líder</em> nunca funciona. Mis poderes Jedi están oxidados. No soy un ideísta.</p>
+<p>Y no lo soy, pese a haber fundado en el pasado una empresa (¿o fueron dos?). Pese a llevar unos años trabajando. Pese a pagar mis facturas ofreciendo mis servicios a clientes <em>de verdad</em>. Y, algunas veces, incluso teniendo ideas.</p>
+<p>Porque esa es la otra: pese a ser un mero <em>picateclas</em> ¡igual también tengo ideas!. Claro, que lo complicado no es tener la idea. Lo complicado es ejecutarla. Y ejecutarla bien. Con un presupuesto. Y encontrando todos los problemas del mundo. Y contratando y despidiendo. Y luchando. Y pese así, triunfar, no quebrar, ganar dinero&#8230; Lo difícil es que hay que esforzarse, querido ideísta. Y tú no lo estás haciendo. Buscas a un <em>pardillo</em> que se esfuerce por tí.</p>
+<p>Ayer tuve una idea: voy a ponerme como Arnold Schwarzenegger. El rollo es que hay que levantar pesas y eso. Ya me pongo mañana.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/09/12/los-ideistas/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>El lamentable estado de las herramientas de desarrollo Android</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/</link>
+		<comments>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/#comments</comments>
+		<pubDate>Thu, 26 Jun 2014 12:19:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Amateur]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chapuzas]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Payasos]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=2213</guid>
+		<description><![CDATA[Advertencia: si le tienes mucho cariño a Google, mejor que no sigas leyendo. Si desarrollas Apps como es mi caso (para iOS y Android) y no tomas como dogma de fe todo lo que dice Google (ni Apple, ni Microsoft, ni nadie), adelante. Segunda advertencia: leed el update de abajo del todo, por favor. Para [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Advertencia</strong>: si le tienes mucho cariño a Google, mejor que no sigas leyendo. Si desarrollas Apps como es mi caso (para iOS y Android) y no tomas como <em>dogma de fe</em> todo lo que dice Google (ni Apple, ni Microsoft, ni nadie), adelante.</p>
+<p><strong>Segunda advertencia</strong>: leed el update de abajo del todo, por favor. Para que os hagáis una idea de lo grave que es este asunto&#8230;</p>
+<p>Ahora mismo estamos en pleno Google I/O, la conferencia para desarrolladores de Google. Se están presentando muchas novedades de consumo, lo que me parecen muy bien. Hay incluso un nuevo <em>lenguaje visual</em> llamado Material (que, por desgracia no veremos mas que en los Nexus, ya que los fabricantes se lo van a cargar; y aún así habrá que ver en qué Nexus y cuándo).</p>
+<p>Todo muy bien, pero ¿qué pasa con las herramientas <strong>de verdad</strong> para desarrolladores?</p>
+<p>Estas herramientas, no nos engañemos, son: el compilador, el lenguaje y el IDE. Eso es lo que usamos el 90% del tiempo mientras desarrollamos Apps. Pues parece que, en 2014, todo sigue como en 2013. En la edad de la piedra. <strong>En el más absoluto desprecio de Google hacia sus desarrolladores</strong>.</p>
+<p>Sí señores: <strong>desprecio</strong>. No es de recibo las herramientas que proporciona Google, insisto, en 2014. Revisemos.</p>
+<h2>El lenguaje de programación</h2>
+<p>Es Java. Ni creado ni controlado por Google. Conste que no odio Java (he invertido mucho tiempo en aprenderlo y <a href="/2010/06/25/scwcd-aprobado/">certificarme</a> como para no tomarle cariño). Pero seguir en Java 6 cuando ha salido Java 8 con un montón de novedades interesantes me <em>escuece</em>. Mucho. Quiero esos tipos opcionales, clausuras y funciones de primer orden. En Android. Y lo quiero ya. Llámame caprichoso, pero creo que ya toca avanzar.</p>
+<p>Seguir con esta versión de Java se debe seguramente al <a href="http://es.wikipedia.org/wiki/Oracle_v._Google">litigio que Oracle le está ganando a Google sobre la <em>copia</em> de Java para la máquina virtual Dalvik</a>. Es ese el motivo de <em>aguantar</em> mientras puedan con Dalvik, cambiar a ART (el runtime que se va a usar a partir de ahora) y en cuanto puedan (probablemente la I/O de 2015) presentar el desarrollo de Android con <a href="http://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>. Que es un lenguaje creado por Google. Lo cual, por cierto, tampoco me disgustaría.</p>
+<p>El cambio de Dalvik por ART no se debe a que incorpore 64 bits. Ni a que sea más óptimo. Si Dalvik es ya abierto ¿por qué no incorporar esas novedades y mejoras en la máquina virtual que ya tienen todos los Android? Probablemente por huir de un barco que se hunde. Y además: ¿para qué darle a todos los que están haciendo <em>clones</em> de Android (Nokia X, Amazon, Barnes &amp; Noble Nook, Aliyun) estas mejoras? Me juego algo a que al final ART sólo lo podrán usar los miembros de la Open Handset Alliance. <em>¿Open?</em></p>
+<h2>IDE</h2>
+<p>Controlar el lenguaje es algo importante para crear un buen ecosistema de desarrollo. Microsoft creó C#, escribe su runtime, compilador y tiene el que probablemente sea el mejor IDE de todos: Visual Studio. Apple escribe su propio IDE, Xcode, que es una maravilla (como editor es mejorable y le faltan refactors, pero en Xcode se pueden hacer cosas que Eclipse no hará en la vida y Android Studio dentro de 100 años; ante las dudas ver un Storyboard, el diseñador de efectos de partículas con SpriteKit, los PlayGrounds de Xcode 6 o los <a href="https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/DebugYourApp/DebugYourApp.html">Gauges</a>). Apple influye poderosamente en el compilador, llvm, hasta el punto de haber creado un nuevo lenguaje de programación (Swift) para avanzar tras usar casi en exclusiva Objective-C los últimos 20 años.</p>
+<p>Google, por contra, empezó creando un plugin de Eclipse para añadir algunos refactors, un asistente aquí y allá, un visualizador del XML de los layouts y poco más. Eclipse ni es de Google, ni Google puede influir en su desarrollo para hacerlo más <em>Android</em>. Luego, esperaron a que la comunidad demostrase que IntelliJ Idea era una alternativa viable para el desarrollo Android y propusieron Android Studio con mucho bombo y platillo&#8230; en Mayo de 2013. Es casi Julio de 2014 y seguimos con una herramienta en versión Alpha, que no ha alcanzado aún la versión 1.0.</p>
+<h2>Excusas</h2>
+<p>No, no me valen excusas sobre «es que Google ya se sabe, pone las cosas en Beta y tal». Google no es una startup montada por cuatro chavales. Es la compañía más valiosa del planeta. Tienen pasta y tienen cerebros. <strong>Lo que no tienen es ningún interés en mejorar las herramientas de desarrollo</strong>.</p>
+<p><strong>Google sólo se preocupa de aquellos productos en los que puede vender su publicidad</strong>. Todo lo que no sirva para imprimir anuncios, sigue el camino de Google Reader y del Dodo. Y como no pueden imprimir anuncios mientras compilas, tenemos lo que tenemos.</p>
+<h2>Modelos de negocio distintos</h2>
+<p>Hay que entender el modelo de negocio de cada una de estas tres empresas para comprender cómo actúan:</p>
+<ul>
+<li>Microsoft quiere venderte licencias. Por eso hacen el software que hacen, sólo para Windows, porque quieren venderte las licencias de Visual Studio, Team Foundation Server y Windows. Lo tomas o lo dejas, pero son claros.</li>
+<li>Apple quiere meterte en su ecosistema y venderte chismes, que es donde ganan pasta, no con software (que ahora lo dan gratis, desde el S.O. hasta Xcode pasando por la suite ofimática). Ellos quieren que te compres un iPad, un iPhone, un MacBook Pro retina con AppleCare y que sigas y sigas comprando sus productos. Hacen buen software para apoyar la venta de sus productos hardware.</li>
+<li>Google vende publicidad. Es con lo que gana dinero. No es nada innoble ni lo de que avengonzarse, pero todo esto de ir de salvapatrias de los open y darse aires de ir curando el cáncer cuando lo que hacen es espiarte para vender mejores anuncios me resulta muy gracioso. Google <strong>nunca</strong> ha sido pro software libre. </li>
+</ul>
+<h2>Open no es Libre</h2>
+<p><em>Open</em> no significa nada y me molesta el uso torticero que Google hace de este término. No dicen <em>libre</em> porque se le echaría encima todo el mundo del Software ídem, dicen <em>open</em> como en <em>voy a tirarte las migajas de los repositorios de código fuente de Android para que veas lo bueno que soy</em>.</p>
+<p>Eso <em>no</em> es libre.</p>
+<p>En un proyecto Software Libre se puede ver el código <em>mientras</em> se desarrolla, y no después. Se puede aportar código. Es una meritocracia.</p>
+<p>Aquí tenemos un desarrollo totalmente propietario y cerrado creado por una compañía que libera código al terminar. Y, por cierto, sólo parte de ese código. Google Maps o Gmail no lo liberan. Ahí lo <em>open</em> no entra, que eso es parte de mi maquinaria de vender anuncios&#8230; Llevo usando, aportando y tratando de comprender a la comunidad del Software Libre desde el 94. Me molesta que la gente se confunda y crea que Google nos defiende de las «Megacorporaciones» como Microsoft o Apple. Como si ellos fueran Teresa de Calcuta.</p>
+<p>Las tres son iguales: compañías que tratan de imponer sus productos en el mercado. Ninguna tiene como misión salvar al mundo. No le demos más vueltas.</p>
+<h2>Gradle</h2>
+<p>Así que para poner la guinda al pastel, tras usar un lenguaje que no es suyo y ofrecerte dos IDEs que tampoco hacen, han cambiado a Gradle, un sistema de construcción que tiene muy buena pinta, pero que de salida es <em>muuuucho</em> más lento que Ant. Es decir: tu proyecto en Eclipse compila más rápido que en Android Studio. Que sí, que se puede acelerar Gradle. Entonces ¿por qué no viene de salida ya configurado correctamente? ¿Por qué machacar a los devs que ya tenemos bastante al migrar un proyecto de Eclipse a AS? Es en estas cosas donde veo la desidia de Google.</p>
+<p>Y ese es el meollo de la cuestión. Que el equipo de desarrollo de AS en Google deben ser un programador y un becario. Y el becario a tiempo parcial. Sólo así se puede explicar el ritmo de no-avance de la herramienta. De nuevo, sin excusas: si Apple puede en un año sacar una nueva versión de Xcode, digo yo que Google podrá. Pero claro, si pierdes el foco creando gafas, relojes, coches, drones y mil cosas más pero no vas a lo fundamental pasan estas cosas.</p>
+<h2>Costes</h2>
+<p>Y ahora es cuando alguien pensará: «ya, pero es que en Apple hay que pagar 80 € anuales y en Microsoft el Visual Studio <em>de verdad</em> cuesta pasta, mientras que en Google pagas una vez en la vida 25 dólares y ya».</p>
+<p>Efectivamente: ¿ves una tendencia?. Pagas por un producto == calidad. No pagas y no pueden ponerte publicidad == Google Reader, digo herramientas de desarrollo.</p>
+<h2>Tú es que eres un Fanboy de Apple</h2>
+<p>Vaaaale, venga, sí, soy un Fanboy de Apple. Los tiempos de compilación de Gradle me los invento. Y tener un IDE más de un año en Alpha es de lo más normal. O que para lanzar el emulador tengamos que andar con trucos como la aceleración Intel o usar Genymotion (de nuevo, nada de esto de Google). De paso, que nada de lo que usa Google Play Services (que cada vez son más cosas) no funcione en el emulador y tengamos que tirar de dispositivo también es un <em>triunfo</em>.</p>
+<p>Quizá tu problema es que no has tratado de desarrollar con otro entorno que no sea Android Studio. En mi caso, sí. Uso Xcode, Eclipse y Android Studio a diario. Y antes usé Visual Studio, Aptana, Delphi, Turbo C y vim. ¡Hasta Blackberry ha hecho un mejor trabajo con Eclipse para BB10 que Google!</p>
+<p>Creo que hablo con cierto conocimiento de causa. Pero si tienes argumentos en contra de algo que lo que digo (que no sean <em>es que a mi me gusta más X en lugar de Y</em>) sino cosas como «resulta que el roadmap de Gradle muestra que Z y Android Studio se puede mejorar de tal y cual forma» bienvenidos sean. Si quieres ponerme a parir, no comentes: escribe un post en tu propio blog. Gracias.</p>
+<p>Y, por cierto ¿en qué parte de I/O se está hablando de las mejoras del lenguaje, IDE o compilador, más allá de ART?</p>
+<p>Pues eso.</p>
+<h2>Actualización del 1 de Julio, 2014</h2>
+<p>Escribí esta entrada en el avión, mientras me dirigía al <a href="/2014/06/24/imparto-dos-talleres-en-el-gctic-ios-y-android/">GCTIC a impartir unos talleres</a>, uno de ellos de Android. El día antes tuve la precaución de copiarme el ADT Bundle que proporciona Google para todas las plataformas, por si alguien no lo tenía instalado. Tuve que usarlo: algunos de los asistentes no lo tenían instalado, y se lo proporcioné. Total, es descomprimir un ZIP en el que va Eclipse y el SDK. Es tan sencillo, que incluso escribí en este blog <a href="/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/">cómo crearte tu propio entorno de desarrollo Android portable con Eclipse</a>.</p>
+<p>Pues no. No era tan sencillo. Nada funcionaba. Lo instalé en mi máquina con cierta sonrisa de desdén pensando «novatillos&#8230;». Y no. No funcionaba. Ningún ADT Bundle funcionaba. Ni en Mac, ni en Windows, ni en Linux. Pensé que estarían mal descargados y empezamos a bajarlos de nuevo. Hasta que nos dimos cuenta de que la culpa era de Google:</p>
+<p><strong>En la página oficial de descargas del ADT Bundle han colgado versiones que no funcionan</strong></p>
+<p>Y no avisan. A día de hoy puedes seguir bajándote una versión <em>rota</em> de ADT Bundle de la página de Google. Y sabiéndolo, no la quitan de en medio ni ponen un aviso. No. Juegan con tu tiempo. ¿Tienes una entrega de una App? Me da igual. ¿Vas a impartir un taller? No me importa. Soy Google, la prepotencia con patas, y me importa [inserta aquí un adjetivo colorido] mi comunidad de desarrolladores. Ellos son muy listos, que se busquen la vida. Total, la culpa es suya <em>por fiarse de mi página oficial de descargas</em>.</p>
+<p>Eso sí, en su <a href="https://code.google.com/p/android/issues/detail?id=72419">bug tracker</a> sí que parece que lo saben. Y dicen que lo arreglarán en uno o dos días. Después de una semana.</p>
+<p>Estoy harto.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+		<item>
+		<title>Que no se den cuenta de que eres tonto</title>
+		<link>/2014/06/23/que-no-se-den-cuenta-de-que-eres-tonto/</link>
+		<comments>/2014/06/23/que-no-se-den-cuenta-de-que-eres-tonto/#comments</comments>
+		<pubDate>Mon, 23 Jun 2014 14:09:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+
+		<guid isPermaLink="false">/?p=2204</guid>
+		<description><![CDATA[Auto-equiquetarse. Hay gente que le encanta. En esta era de la velocidad, de tener que sonar ingenioso en 140 caracteres, de las «charlas de ascensor», del speed-dating, parece que no hay tiempo para poder explicar quién es uno, qué hace, en qué puede ayudar. No hay tiempo ni de pensar. Por eso, y dado que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Auto-equiquetarse. Hay gente que le encanta. En esta era de la velocidad, de tener que sonar ingenioso en 140 caracteres, de las «charlas de ascensor», del speed-dating, parece que no hay tiempo para poder explicar quién es uno, qué hace, en qué puede ayudar. No hay tiempo ni de pensar. Por eso, y dado que las tarjetas de visita están <em>demodé</em>, hay que etiquetarse. En el perfil de LinkedIn. En la Bio de Twitter. En Facebook.</p>
+<p><strong>No vaya a ser que pase desapercibido y no se den cuenta de que soy tonto.</strong></p>
+<p>Y digo lo de ser tonto porque el contraste con cómo se etiqueta a sí misma cierta gente no puede menos que ser llamativo. <a href="http://es.wikipedia.org/wiki/Tim_Berners-Lee">Sir Tim Berners-Lee</a>, el <em>motherfucker</em> que inventó Internet, físico de formación y premio Nobel de vocación <a href="https://twitter.com/LordManley/status/480952764231843841/photo/1">se pone en los Hangouts de Google «Web developer»</a>. Como un becario aquí en España, vamos. Y mientras, hay gente que se pone de etiqueta:</p>
+<h2>CEO de un blog</h2>
+<p>Esta me genera mucha ternura. Lo digo porque para ser CEO de un blog creo que basta con abrirse una cuenta en WordPress y empezar a escribir, ¿no?. ¿O me he perdido algo?. Bueeeno, aceptamos Tumblr como blog también.</p>
+<p>Bueno, yo es que soy un antiguo y aún considero «Blog» a la bitácora personal, la página en la que a modo de diario escribe una persona que habla de los temas que le interesan. Y no el mega-portal de rumores donde se infiere cómo será el próximo iPhone a partir de fotos borrosas de una carcasa supuestamente tomadas en China (y nunca contrastadas). Mito de la caverna de Platón en acción.</p>
+<p>Claro que, generar contenido requiere esfuerzo. Y que sea bueno, mucho esfuerzo. Generar bazofia de rumores y refritos es mucho más sencillo. Pero ya lo decían antes: <em>«come mierda: cincuenta millones de moscas no pueden estar equivocadas»</em>. Por eso, presentarse como <em>CEO de un blog</em>, si no eres el dueño de The Verge o estás en conversaciones con Time Warner para que te compre por unos cuantos millones, me parece una tontada importante. Bloguero es más normalito. Gafapasta, pero normalito.</p>
+<p>Yo, por si te preguntabas, tengo una web. Desde hace diez años. Punto.</p>
+<h2>LION</h2>
+<p>LION == <a href="http://help.linkedin.com/app/answers/detail/a_id/1146/~/definition-of-l.i.o.n.">Linked In Open Networker</a>. Es decir, el que no tiene criterio para selecciona su red de contactos y acepta a todo el mundo. O, como es mi caso, que acepto a todo el mundo porque sigo el adagio de un empresario sevillano: <em>«el que un día te trae una mierda, al siguiente puede traerte un tesoro»</em>. Vamos, que contactos nunca sobran. Que los uses o no, es otra cosa. Pero es mejor tenerlos para cuando te hagan falta que no al contrario.</p>
+<p>Ponerte en tu perfil que eres un <em>LION</em> (buscad por Internet, os sorprenderá el montón que hay) me parece algo pretencioso. Y es forzar la máquina para decirle al mundo <em>«hey, mirad qué popular soy y el montón de amiguitos que tengo, soy el que más muchos amiguitos tiene en el patio del colegio y tú no, chincha rabiña»</em>.</p>
+<p>En fin, con ver que en tu cuenta de contactos pone +500 ya se sabe que no tienes criterio&#8230;</p>
+<h2>KnowMad</h2>
+<p>Esta es de las últimas <a href="http://www.wordreference.com/definicion/gilipollez">etiquetas</a> que he visto últimamente. Como se describe <a href="http://es.wikipedia.org/wiki/Knowmad">aquí</a>, es la contracción entre las palabras inglesas Conocimiento (Know) y Nómada (Nomad). Así que es un <em>culo inquieto</em>, como siempre se ha llamado a este tipo de personas. Yo mismo. Con curiosidad por las cosas, siempre aprendiendo, interesados por compartir y así aprender aún más&#8230;</p>
+<p>Se ve que <em>culo inquieto</em> no quedaba bien en las tarjetas (era demasiado largo) y prefirieron algo más cortito. Y en Inglés, que siempre mola más.</p>
+<h2>¿Y tú?</h2>
+<p>Pues que acabo de descubrir que soy un <em>Knowmad, LION CEO de un blog</em>. Estoy pensando en ponerlo en mi BIO de Twitter. A ver si me llueven las piedras. Madre, qué de gente tratando de destacar como sea&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/23/que-no-se-den-cuenta-de-que-eres-tonto/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>La gran golfada de Samsung</title>
+		<link>/2014/06/16/la-gran-golfada-de-samsung/</link>
+		<comments>/2014/06/16/la-gran-golfada-de-samsung/#comments</comments>
+		<pubDate>Mon, 16 Jun 2014 15:39:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[caraduras]]></category>
+		<category><![CDATA[golfos]]></category>
+		<category><![CDATA[Impresora]]></category>
+		<category><![CDATA[Konver]]></category>
+		<category><![CDATA[Sansung]]></category>
+
+		<guid isPermaLink="false">/?p=2198</guid>
+		<description><![CDATA[Pese a que la mayoría de mis ordenadores son Macs estos días (aunque también tengo y uso mi viejo Dell Inspiron 9400 y un ThinkPad X61, en el que estoy escribiendo esto ahora mismo) soy un entusiasta de la tecnología en general. Esto me lleva a tener chismes de varias marcas, colores y tamaños. En [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pese a que la mayoría de mis ordenadores son Macs estos días (aunque también tengo y uso mi viejo Dell Inspiron 9400 y un ThinkPad X61, en el que estoy escribiendo esto ahora mismo) soy un entusiasta de la tecnología en general. Esto me lleva a tener <em>chismes</em> de varias marcas, colores y tamaños. En cuestión de impresoras siempre he tenido una Samsung.</p>
+<p>La primera que tuve, una ML1510, LASER monocromo, no hacía nada más que imprimir. Ni nada menos. Ni inalámbrica, ni colores, ni escáner, ni nada de nada. Pero funcionaba. La compré nueva, muy bien de precio, hace un montón de años. Hoy en día imprimo pocas cosas: las facturas y algunos documentos para la gestoría que me lleva las cuentas, dibujos para que mis hijos coloreen y algún que otro documento. Así que, por mí, la hubiera usado hasta el infinito y más allá. Pero empezó a dar problemas mecánicos. Se atascaba siempre. Y era frustrante intentar imprimir algo. No podía. Así que la regalé, junto con un cartucho nuevo de tóner, a un compañero de la <a href="http://nscoder-sev.tumblr.com/">NSCoder Night de Sevilla</a>. Y me compré una nueva.</p>
+<p>En esta ocasión, entre las más baratas busqué una Samsung que tuviera escáner, por aquello de poder digitalizar documentos. Y porque si la anterior Samsung me había ido bien, para qué cambiar. Así que me hice por poco más de 100 Eur. con una Samsung SCX-3400. Es impresora y también escáner. De paso, es <em>fotocopiadora</em> (es decir, que escanea cosas y las imprime <em>sin</em> tu ordenador de por medio, de forma autónoma). Venía con un cartucho, que estaba seguro iba a durar poco, pero dado que imprimo también poco, no había problema.</p>
+<p>Efectivamente, al año el cartucho empezó a avisarme de que se terminaba. Sin problemas, compremos uno nuevo. No se lo que habré imprimido en este año, pero ya sabíamos que el primer cartucho viene medio vacío. Miro los precios y me encuentro con que un cartucho nuevo, original de Samsung cuesta casi tanto como la impresora. ¿Cómo? Esa era la táctica que empleaban con las impresoras de chorro de tinta, pero no lo había visto con las LASER baratas. Supongo que como son para consumidores, han adaptado la técnica a los nuevos tiempos.</p>
+<p>Pues me niego. Busqué en Amazon y encontré cartuchos compatibles Samsung en venta por un precio más que razonable. Había visto vídeos en Youtube mostrando cómo recargar tu propio cartucho con tóner, pero me parecía un follón y tampoco me ahorraba tanto, así que preferí ir a lo seguro (que alguien que lo sepa rellenar lo rellene) y pedí el compatible a <a href="http://www.amazon.es/gp/node/index.html?ie=UTF8&amp;marketplaceID=A1RKKUPIHCS9HS&amp;me=A0826674ZOJLM6I8IWO4&amp;merchant=A0826674ZOJLM6I8IWO4&amp;redirect=true">KONVER, Distribuciones Informáticas</a>, que vende en la tienda de Amazon. Llegó enseguida, lo instalé en la impresora y durante unas semanas, todo fue perfecto.</p>
+<h2>Mi impresora ha muerto</h2>
+<p>De pronto, un día, enciendo la impresora, la conecto por USB al iMac y lanzo un par de páginas para que se impriman. Sigo con mis cosas sin darme cuenta de que la impresora no imprime. Tiene una luz roja. Vaya, debe ser un atasco. La miro, pero no. En el iMac hay un aviso de error. La impresora dice que no tiene tóner. Pero eso no puede ser, ¿no?. A fin de cuentas se lo he cambiado hace nada&#8230;</p>
+<p>Apago la impresora, vuelvo a encenderla&#8230; Nada. Cambio el cable USB&#8230; Nada. Empiezo a preocuparme y miro por Internet a ver si alguien ha tenido problemas similares y&#8230; ¡bingo! Docenas de problemas iguales. Veo vídeos por Youtube, leo en foros. Voy aprendiendo. Instalo los drivers y el software de Samsung en el Windows 8 que está en mi iMac en Bootcamp, por si puedo obtener más información&#8230; Nada de nada. Me desespero: cambio el cartucho para probar con el original, que está vacío y da error de tóner. Pero el nuevo lo mismo. Y lo peor es que, aunque esté <em>rellenado</em> es un cartucho Samsung <em>pata negra</em>.</p>
+<h2>El problema</h2>
+<p>Samsung ha decidido que puedes comprar cartuchos de tóner, pero sólo a ellos. Así que ha puesto un chip en cada cartucho. En ese chip hay un contador de páginas impresas. Cuando llegas a la «vida útil» que ellos estiman (o te imponen) que debe tener un cartucho se acabó. La impresora lee ese contador y te impide imprimir. La excusa de Samsung para hacer ésto: que de esa manera <em>te pueden avisar con su software y así puedes cambiar el tóner a tiempo</em>. Vamos, que tú no estás capacitado para saber cuándo está bajo el tóner: esos grises que no aparecen, la mala calidad, etc. no son una pista. No, te lo tiene que indicar un software que, curiosamente, te pone un enlace en un sitio prominente para que compres sus recambios en su tienda.</p>
+<p>Que no se me entienda mal. No me parece mal que Samsung quiera vender sus cartuchos. E incluso que pongan el enlace a su tienda puede ayudar al que no sepa dónde comprar (aunque lo dudo). Lo que me parece una golfada absoluta es que pongan un contador de páginas <em>en el cartucho</em> en lugar de <em>en la impresora</em>. Desde la impresora te podrían indicar perfectamente: <em>«lleva usted impresas 1.500 páginas desde el último cambio de cartucho y pensamos que es hora de que lo cambies. Si empiezas a imprimir y te da asco lo que ves, que conste que no se te ha roto la impresora: es que eres un tacaño».</em></p>
+<h2>La solución</h2>
+<p>Pasa por resetear el contador del cartucho. Es decir, borrar el chip del cartucho y ponerlo a cero, como si fuera nuevo, lo cual, si has rellenado el cartucho con tóner nuevo se aproxima bastante a la realidad. Por Internet vi que había gente que vendía programas para hacerlo, pero ante la duda en si gastarme otros 12 USD para arreglar un cartucho que debía venir bien, me puse en contacto con Konver a través del formulario de Amazon. Les conté mi odisea y les pregunté qué podía hacer. Bien, <em>no sólo me respondieron súper rápido, sino que me dieron la solución a mi cartucho</em>. Me proporcionaron un programa (<em>sorry, no lo voy a pasar, contacta con tu distribuidor, ese no es mi departamento</em>) con el que borrar el cartucho. No puedo dejar de estarles súper agradecido. Hay momentos en los que ya no sabes qué pasa y que te solucionen un problema así te alegra el día. Aquí tienen a un cliente de por vida.</p>
+<p>El caso es que para resetear el cartucho tuve que lanzar un programa desde Windows (en este caso, desde mi ThinkPad x61) y <em>flashear</em> la memoria del cartucho. Conectado por USB le <em>subí</em> un programa a la impresora.</p>
+<p><a href="/wp-content/uploads/2014/06/uploading_toner_bios-e1402932822448.jpg"><img src="/wp-content/uploads/2014/06/uploading_toner_bios-e1402932822448.jpg" alt="Mi impresora mientras borro el contador" width="1024" height="768" class="aligncenter size-full wp-image-2201" /></a></p>
+<p>Sí, he grabado la memoria de <em>un cartucho de tóner</em>. Lo siguiente va a ser actualizar el firmware de la tostadora&#8230;</p>
+<p>Pues ¡milagro!. Una vez borrado el contador de los golfos estos, listo. La impresora me reconoce el cartucho reciclado (que es de Samsung, insisto) como nuevo, hay luz verde y la vida es bella.</p>
+<h2>Conclusiones</h2>
+<p>Entiendo que Samsung quiera vender cartuchos y quiera traer ese modelo de negocio en el que los consumibles son más caros que la máquina que los consume. Están en su derecho. Pero eso se avisa. Se indica claramente: <em>cada cartucho es de un solo uso y no puede reutilizarse</em>. Y con esa información <strong>y mi dinero</strong> tomo una decisión informada de compra. Encontrarte esto cuando ya has comprado la impresora te cabrea, y no es una buena técnica, ya que encima se puede saltar fácilmente. Y sólo queda el cabreo.</p>
+<p>Ni que hablar de lo anti-ecológico y carísimo que es andar tirando cartuchos de tóner. O del desprecio al usuario, al que se trata por tonto. Mal hecho, Samsung. No hay galleta.</p>
+<p>No puedo dejar de pensar en qué pasaría si estas cositas las hicieran Microsoft o Apple&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/16/la-gran-golfada-de-samsung/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Una mañana de trabajo cualquiera</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/</link>
+		<comments>/2011/04/05/una-manana-de-trabajo-cualquiera/#comments</comments>
+		<pubDate>Tue, 05 Apr 2011 11:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1453</guid>
+		<description><![CDATA[Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para mi querido Amstrad CPC 464 con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para <a href="http://freniche.com/wp/?page_id=4">mi querido Amstrad CPC 464</a> con el monitor fósforo verde, con su unidad de casetes. El único periférico que tenía era un Joystick. Y a usarlo. Pero veía en las películas a gente en países lejanos y extraños, en salas llenas de ordenadores.</p>
+<p style="text-align: justify;">Como el programador de Parque Jurásico (que, por supuesto, además de ser el malo, cobarde y torpe, estaba mal pagado y era gordo y feo). Por cierto, si veis de nuevo JP os llamarán la atención dos cosas: una, que están programando fumando, algo impensable en cualquier entorno de hoy en día. La otra, que el sistema de «bug tracking» que usan es una libreta donde van anotando los errores <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/RfiQYRn7fBg"" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/RfiQYRn7fBg""></param></object></div>
+</div>
+<p style="text-align: justify;">Volviendo al tema que me traía aquí, en esta mañana he comenzado <a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/">programando en C</a>, en el IDE Eclipse corriendo sobre Windows 7. Ese <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">Windows 7 está instalado en mi MBP</a>. Por si fuera poco frikismo, he usado el escritorio remoto de Windows para programar esos ejemplos en una ventana del iMac de 27&#8243;, que para eso tengo una pantalla grande. Mientras programaba iba actualizando la presentación de Keynote que acompaña al curso, en el iMac. Sonaba la música desde iTunes, donde estaba restaurando mi iPhone 3Gs con una copia de seguridad de ayer: mis niños han borrado algunas fotos en un descuido.</p>
+<p style="text-align: justify;">He terminado con C y me he pasado a WordPress. Arrancando una máquina virtual VMWare de <a href="http://bitnami.org/">Bitnami</a>, que ya tiene un entorno WP completo sobre Linux, me he dedicado a crear un nuevo sitio para migrar una vieja web que hice hace ya la tira en Typo3. Es decir, instala plugins, widgets, temas, escribe posts, importa información, etc.</p>
+<p style="text-align: justify;">Ahora toca pensar en el próximo curso de Java EE que tengo que impartir a finales de mes. Java, Servlets, EJBs, JBoss, Eclipse de nuevo (aunque ahora en su «sabor» Java). Tendré que ojear un libro, que tengo en formato CHM (formato típico de Windows en otra época). Y luego, un poco de Objective C para comenzar un proyecto iPad que me han encargado. Tengo cosas que leer de UML&#8230;</p>
+<p style="text-align: justify;">Es por este desbarajuste de trabajo que tengo, con tantas tecnologías, frameworks, lenguajes, herramientas y entornos distintos por lo que amo a mis dos Macs. Necesito ser anti-minimalista, ya que si lo fuera no podría hacer la mitad de las cosas que hago. Esta es la razón de haber <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">ampliado mi iMac a 12 GB de RAM</a>. Aún así, procuro no instalar nada si ya tengo una aplicación que hace más o menos lo mismo, que si no acabas con un montón de aplicaciones similares que no acabas de dominar en profundidad.</p>
+<p style="text-align: justify;">Bueno, sigo, que quiero ir terminando. Que no hace mucho me comentaron que a lo mejor tengo que aprender <a href="http://clipsrules.sourceforge.net/">CLIPS</a>&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/05/una-manana-de-trabajo-cualquiera/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Portabilidad a Simyo</title>
+		<link>/2011/03/31/portabilidad-a-simyo/</link>
+		<comments>/2011/03/31/portabilidad-a-simyo/#comments</comments>
+		<pubDate>Thu, 31 Mar 2011 09:22:43 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Isotrol]]></category>
+		<category><![CDATA[Móviles]]></category>
+		<category><![CDATA[Movistar]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Simyo]]></category>
+
+		<guid isPermaLink="false">/?p=1444</guid>
+		<description><![CDATA[Hace un par de días que estoy con mi número principal en Simyo. He abandonado Movistar de nuevo (lo dejé hace un montón de años para irme a Orange y luego volví). Mi estancia en MS, y los 18 meses que he mantenido el contrato han tenido una buena razón: el iPhone 3Gs de 32 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace un par de días que estoy con mi número principal en Simyo. He abandonado Movistar de nuevo (lo dejé hace un montón de años para irme a Orange y luego volví). Mi estancia en MS, y los 18 meses que he mantenido el contrato han tenido una buena razón: el iPhone 3Gs de 32 GB que hoy en día sigue siendo mi teléfono principal. Cuando me planteé actualizarme desde mi <a href="/2008/12/10/¡ya-tengo-mi-iphone/">iPhone 3G</a>, comprado libre en Bruselas, miré las ofertas y si hacía portabilidad desde Orange a Movistar con la tarifa de 25 Eur de datos me quedaba el 3Gs por 49 Eur. En esa época mi consumo de datos era alto, así que me venía muy bien el trato.</p>
+<p style="text-align: justify;">Pero las cosas cambian con el tiempo. <a href="/2009/11/29/iniciando-una-nueva-etapa/">Dejé Isotrol</a> (de nuevo, por segunda vez) y me quedé en casa haciendo mis <a href="/ios-apps/">Apps para iPhone</a> y preparando mis <a href="/formacion/">cursos</a>. Y claro, en casa hay WiFi. Encima donde vivo Movistar no tiene cobertura 3G. Ni buena ni mala: no hay. Resultado: estaba pagando por un tráfico de datos que no consumía.</p>
+<p style="text-align: justify;">Cuando se ha cumplido la permanencia, he llamado a Movistar para liberar el 3Gs por IMEI. Sólo me ha costado un par de llamadas. Lo probé con una SIM de Simyo, que tenía para ir probando el servicio y como segunda línea por si las moscas, y todo funcionaba perfectamente. Estaba listo para el salto.</p>
+<p style="text-align: justify;">He escogido la tarifa del 3 de Simyo. No hay permanencia. Pagas cada mes 8 Eur. + IVA y tienes 500 MB de datos. Y, por supuesto, pagas lo que hables, a 3 céntimos de Eur. el minuto + establecimiento de llamada. Los SMS son baratos (aunque ya los uso muy poco, pero siempre es mejor que sean baratos, ¿no?). No he pasado un mes completo con Simyo, así que ya veremos como son las facturas. Bueno, si me he equivocado siempre puedo cambiarme a otra.</p>
+<p style="text-align: justify;">La portabilidad ha tenido algún que otro bache. Tras solicitarla, me llegó una carta de Simyo con la SIM. Hasta aquí sin problemas. Me llamaron de Movistar para que no abandonase el redil, pero les dije que eso de «<em>mucho te quiero perrito, pero pan poquito</em>» no iba ya conmigo. Si tan buen cliente soy, dame un iPhone 4 gratis y mejores tarifas. ¿Que pido mucho? Vale, pues me voy.</p>
+<p style="text-align: justify;">Superada la llamada de MS estuve esperando el SMS que según Simyo me mandarían para indicarme que esa noche se realizaría la portabilidad. El SMS no llegaba. Estaba temiendo que comenzaría el nuevo mes sin estar «portado» cuando me di cuenta la otra mañana que no tenía cobertura en el móvil. Así que pensé «¿a que me han portado y no me lo han comunicado?». Cambié la SIM y&#8230; voilá. Teléfono funcionando. Pequeño fallo de comunicación, pero bueno. En teoría me debía llegar la configuración de los datos del iPhone por SMS. Tampoco me llegó. Llamé al soporte técnico de Simyo (antes de ver que la configuración estaba descrita en sus FAQs) y conseguí hacer que el iPhone mandase correos, tras introducir los nuevos parámetros y sincronizar con iTunes (esto último no me lo indicaron).</p>
+<p style="text-align: justify;">¿Resultado final? Tengo más cobertura 3G con Simyo que con Movistar. Y telefónica. Todo funciona bien y la web de Simyo está a años luz de la de Movistar, que es de lo más complicado y anti-cliente que he visto. Encima, tras quejarme en twitter, me han «<a href="http://twitter.com/#!/simyo_es/status/53008223237705728">pasado la mano por el lomo</a>» los de @Simyo_es. Da gusto.</p>
+<p style="text-align: justify;">P.D.: puse un ticket en la web de Simyo preguntando por la activación de los datos. Me han respondido ahora, aunque se supone que ya me resolvieron el problema por teléfono. Detecto descoordinación entre el Call Center y su soporte de primer nivel. Encima el correo viene del dominio kpn.es, que es la propietaria de Simyo y no de Simyo.es, que es lo que esperaría cualquiera. Señores, contraten una consultoría ITIL ASAP. A mi, si es posible. Facturo tan caro como necesiten <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/31/portabilidad-a-simyo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>ClockRing y la Hermenéutica de las Apple Review Guidelines</title>
+		<link>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/</link>
+		<comments>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/#comments</comments>
+		<pubDate>Thu, 03 Feb 2011 11:03:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Productos]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1377</guid>
+		<description><![CDATA[ClockRing ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1378" style="width: 380px" class="wp-caption aligncenter"><img class="size-full wp-image-1378 " title="ClockRing rechazada :-)" src="/wp-content/uploads/2011/02/ClockRing-rejected.png" alt="ClockRing rechazada :-)" width="370" height="197" srcset="/wp-content/uploads/2011/02/ClockRing-rejected.png 370w, /wp-content/uploads/2011/02/ClockRing-rejected-300x159.png 300w" sizes="(max-width: 370px) 100vw, 370px" /><p class="wp-caption-text">ClockRing rechazada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;"><a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a> ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema con la licencia, que es <a href="https://femtocoders.fogbugz.com/default.asp?W5">GPL</a>, pero como eso no aparece de entrada, no hay <em>bronca</em> (el problema lo tienen aplicaciones que, nada más abrirlas, te informan de su licencia y otras historias).</p>
+<p style="text-align: justify;">El correo que he recibido del equipo de revisión me parece perfecto, en serio. Muy educado, te dan las gracias por enviar Apps al App Store y te explican exactamente cual es el problema (en mi caso una de las capturas de pantalla que había enviado) y cómo solucionarlo. Acabo de crear una nueva captura y la he enviado ya para que me la revisen, a ver si ahora todo funciona OK. No entiendo los programadores que se quejan todo el rato del proceso de revisión. Yo hasta ahora he tenido dos problemas, y en ambos casos me han indicado qué pasaba y cómo arreglarlo. Y todo como la seda, oiga.</p>
+<p style="text-align: justify;">Lo que me hace gracia es la razón exacta del rechazo:</p>
+<blockquote>
+<p style="text-align: justify;">3.2   Apps with placeholder text will be rejected</p>
+</blockquote>
+<p style="text-align: justify;">Bueno, mi captura de pantalla inicial lo que mostraba era un anuncio vacío (un iAd sin nada, ya que estaba probando la App). Y yo tenía que interpretar que un texto de relleno (placeholder text) es lo mismo que un iAd sin anuncios. Es por eso que habría que crear una <a href="http://es.wikipedia.org/wiki/Hermenéutica">hermenéutica</a> de las reglas de Apple, de forma que mentes ilustradas nos expliquen a los más torpes exactamente qué puedes y qué no puedes hacer <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">En resumen, que si mandas esto, te rechazan:</p>
+<p style="text-align: justify;">
+<div id="attachment_1381" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingApp.png"><img class="size-full wp-image-1381" title="Captura de ClockRing App que NO cumple las reglas :-)" src="/wp-content/uploads/2011/02/ClockRingApp.png" alt="Captura de ClockRing App que NO cumple las reglas :-)" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingApp.png 320w, /wp-content/uploads/2011/02/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Captura de ClockRing App que NO cumple las reglas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Pero si mandas esto otro, todo es perfecto:</p>
+<div id="attachment_1382" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png"><img class="size-full wp-image-1382" title="Esta es la buena" src="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png" alt="Esta es la buena" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png 320w, /wp-content/uploads/2011/02/ClockRingScreenShot-edited-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Esta es la buena</p></div>
+<p>Nunca me había alegrado tanto de tener mi licencia de Pixelmator. Problema solucionado en 5 min. Bueno, eso si te acuerdas de cambiar las imágenes promocionales en todas las App Stores. Si no, te mandan otro amable correo rebosante de paciencia pidiéndote que cambies los screenshots de la App española <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Por cierto, <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing ya está disponible en el App Store</a>. Y su <a href="https://femtocoders.fogbugz.com/default.asp?W5">código fuente está aquí</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Manifiesto: En defensa de los derechos fundamentales en Internet</title>
+		<link>/2009/12/03/manifiesto-en-defensa-de-los-derechos-fundamentales-en-internet/</link>
+		<pubDate>Thu, 03 Dec 2009 21:29:06 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[chorizos]]></category>
+		<category><![CDATA[políticos]]></category>
+		<category><![CDATA[porquevivirtranquilopudiendovivircrispado]]></category>
+		<category><![CDATA[ramoncines]]></category>
+		<category><![CDATA[Rants&Flames]]></category>
+
+		<guid isPermaLink="false">/?p=501</guid>
+		<description><![CDATA[Ante la inclusión en el Anteproyecto de Ley de Economía sostenible de modificaciones legislativas que afectan al libre ejercicio de las libertades de expresión, información y el derecho de acceso a la cultura a través de Internet, los periodistas, bloggers, usuarios, profesionales y creadores de Internet manifestamos nuestra firme oposición al proyecto, y declaramos que: [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Ante la inclusión en el Anteproyecto de Ley de Economía sostenible de modificaciones legislativas que afectan al libre ejercicio de las libertades de expresión, información y el derecho de acceso a la cultura a través de Internet, los periodistas, bloggers, usuarios, profesionales y creadores de Internet manifestamos nuestra firme oposición al proyecto, y declaramos que:</p>
+<ol>
+<li style="text-align: justify;"><strong>Los derechos de autor no pueden situarse por encima de los derechos fundamentales de los ciudadanos</strong>, como el derecho a la privacidad, a la seguridad, a la presunción de inocencia, a la tutela judicial efectiva y a la libertad de expresión.</li>
+<li style="text-align: justify;"><strong>La suspensión de derechos fundamentales es y debe seguir siendo competencia exclusiva del poder judicial</strong>. Ni un cierre sin sentencia. Este anteproyecto, en contra de lo establecido en el artículo 20.5 de la Constitución, pone en manos de un órgano no judicial -un organismo dependiente del ministerio de Cultura-, la potestad de impedir a los ciudadanos españoles el acceso a cualquier página web.</li>
+<li style="text-align: justify;"><strong>La nueva legislación creará inseguridad jurídica en todo el sector tecnológico español</strong>, perjudicando uno de los pocos campos de desarrollo y futuro de nuestra economía, entorpeciendo la creación de empresas, introduciendo trabas a la libre competencia y ralentizando su proyección internacional.</li>
+<li style="text-align: justify;"><strong>La nueva legislación propuesta amenaza a los nuevos creadores y entorpece la creación cultural</strong>. Con Internet y los sucesivos avances tecnológicos se ha democratizado extraordinariamente la creación y emisión de contenidos de todo tipo, que ya no provienen prevalentemente de las industrias culturales tradicionales, sino de multitud de fuentes diferentes.</li>
+<li style="text-align: justify;"><strong>Los autores</strong>, como todos los trabajadores, <strong>tienen derecho a vivir de su trabajo con nuevas ideas creativas, modelos de negocio y actividades asociadas a sus creaciones</strong>. <strong>Intentar sostener con cambios legislativos a una industria obsoleta que no sabe adaptarse a este nuevo entorno no es ni justo ni realista</strong>. Si su modelo de negocio se basaba en el control de las copias de las obras y en Internet no es posible sin vulnerar derechos fundamentales, deberían buscar otro modelo.</li>
+<li style="text-align: justify;">Consideramos que las industrias culturales necesitan para sobrevivir alternativas modernas, eficaces, creíbles y asequibles y que se adecuen a los nuevos usos sociales, en lugar de limitaciones tan desproporcionadas como ineficaces para el fin que dicen perseguir.</li>
+<li style="text-align: justify;"><strong>Internet debe funcionar de forma libre y sin interferencias políticas</strong> auspiciadas por sectores que pretenden perpetuar obsoletos modelos de negocio e imposibilitar que el saber humano siga siendo libre.</li>
+<li style="text-align: justify;"><strong>Exigimos que el Gobierno garantice por ley la neutralidad de la Red en España</strong>, ante cualquier presión que pueda producirse, como marco para el desarrollo de una economía sostenible y realista de cara al futuro.</li>
+<li style="text-align: justify;">Proponemos una verdadera reforma del derecho de propiedad intelectual orientada a su fin: devolver a la sociedad el conocimiento, promover el dominio público y limitar los abusos de las entidades gestoras.</li>
+<li style="text-align: justify;">En democracia las leyes y sus modificaciones deben aprobarse tras el oportuno debate público y habiendo consultado previamente a todas las partes implicadas. No es de recibo que se realicen cambios legislativos que afectan a derechos fundamentales en una ley no orgánica y que versa sobre otra materia.</li>
+</ol>
+<p><em>Me uno al Manifiesto en defensa de los derechos fundamentales de Internet. Ya está bien de tanto canon, de considerarnos chorizos de forma preventiva, de que una entidad privada aterrorice a toda España como los nuevos matones del barrio cobrando por su protección digital y a que nos tomen por tontos.</em></p>
+<p style="text-align: justify;"><em>Este Manifiesto está por toda Internet. Os animo a copiarlo y difundirlo si estáis de acuerdo. En mi caso, lo he copiado de </em><a href="http://www.microsiervos.com/archivo/internet/en-defensa-de-los-derechos-fundamentales-en-internet.html"><em>Microsiervos</em></a><em>.</em></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Iluminado por mi iPhone</title>
+		<link>/2009/11/13/iluminado-por-mi-iphone/</link>
+		<pubDate>Fri, 13 Nov 2009 10:14:33 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Rants]]></category>
+
+		<guid isPermaLink="false">/?p=455</guid>
+		<description><![CDATA[No, no es éste un post místico, hablando de que, gracias al iPhone, he visto la luz. Aunque, bueno, también. A fin de cuentas, gracias al iPhone va a cambiar mi vida pronto, pero eso es otra historia y ya habrá tiempo de contarla. Así que no me ha pasado como en todas las películas [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, no es éste un post místico, hablando de que, gracias al iPhone, he visto la luz. Aunque, bueno, también. A fin de cuentas, gracias al iPhone va a cambiar mi vida pronto, pero eso es otra historia y ya habrá tiempo de contarla. Así que no me ha pasado como en todas las películas de cárceles americanas, donde siempre hay algún preso diciendo «que ha encontrado a Jesús, que si Jesús esto y Jesús aquello y ahora soy una mejor persona». Pese a que el mote del iPhone sea el «<a href="http://www.iphonesavior.com/">Jesus Phone</a>«.</p>
+<p style="text-align: justify;">El problema viene de las zonas de aparcamiento en el centro de Sevilla. Cada vez son más escasas y me encontré con una a las 12 de la noche. El problema: tenía una placa de prohibición: <em>puedes dejar tu coche aquí, pero a las 7 de la mañana se lo puede llevar la grúa municipal</em>. Como no está la cosa para muchas multas, me propuse levantarme temprano, a las 6:45, ducharme e ir a por el coche. Llegaría antes al trabajo, a Isotrol, y punto. Así aprovecho mejor la mañana, sin interrupciones, y puedo concentrarme en el trabajo, que es de lo que se trata ¿no? Pero no contaba yo con mi querida amiga, la Compañía Sevillana de Electricidad, más conocida hoy día como Endesa.</p>
+<p style="text-align: justify;">A las 6:45 me despertó la alarma de mi iPhone 3G S, pulsé el interruptor de la luz&#8230; y nada. Debo de estar dormido, así que apagué y encendí la luz un rato hasta que me di cuenta del problema. ¡Ya se ha fundido la bombilla! -pensé. Pero no, no había luz. En todo el bloque. Comprobé mi cuadro eléctrico y estaba todo en orden. Llamé al número de averías de Endesa (que llevo grabado en el iPhone, lo cual no es buena señal) y me informaron de que en 60 minutos estaría todo solucionado&#8230; ¡Qué bien!. O me voy sin ducharme como un guarro o me multan por dejar el coche en prohibido, ¡qué buena perspectiva!. Gracias, Endesa, por hacer mi vida un poco más difícil. Como dijo el genio: «¿para qué vivir tranquilo pudiendo vivir crispado?».</p>
+<p style="text-align: justify;">Así que decidí ducharme, aunque no se veía nada dentro del piso. Negro como la boca de un lobo negro con dientes negros después de comerse una paella de arroz negro. Tengo una linterna para las emergencias, de esas que no tienen pilas y necesitan que permanentemente estés accionando una palanca para que una pequeña dinamo encienda unos LEDs. Es decir: o veo dónde está el jabón o me ducho, pero ambas cosas no. ¡Si tuviera una linterna con pilas! Y fue en este punto de desesperación cuando vino el iPhone a socorrerme. Bueno, <em>los</em> iPhones. Además de mi nuevo iPhone 3G S, que conseguí hace poco tras hacer una portabilidad de Orange a Movistar, sigo conservando mi iPhone 3G libre. Así que, con la aplicación <a href="http://www.johnhaney.com/flashlight/">Flashlight</a> (para que luego se rían de las linternas que hay en la App Store) que tengo instalada en ambos iPhones, pude ducharme apuntando las dos pantallas hacia mi. La luz era tenue, como con velas, pero al menos me veía los pies asomando por debajo de mi barriga.</p>
+<p style="text-align: justify;">
+<div id="attachment_459" style="width: 490px" class="wp-caption aligncenter"><img class="size-full wp-image-459 " title="Flashlight" src="/wp-content/uploads/2009/11/Flashlight.jpg" alt="iPhone 3G S, 3G y iPod Touch" width="480" height="550" srcset="/wp-content/uploads/2009/11/Flashlight.jpg 800w, /wp-content/uploads/2009/11/Flashlight-262x300.jpg 262w" sizes="(max-width: 480px) 100vw, 480px" /><p class="wp-caption-text">iPhone 3G S, 3G y iPod Touch</p></div>
+<p style="text-align: justify;">Si, ya se que todos hemos usado el móvil como linterna alguna vez. Pero, al menos yo, nunca había tenido tan buena luz en una situación tan oscura. Aquí es donde la pantalla del iPhone triunfa, ya que es muy brillante y, en completa oscuridad, es enorme. Cuando terminé de ducharme y vestirme, entre la luz de la luna que entraba por la puerta abierta del apartamento y el amanecer, pude salir de casa y evitar la multa.</p>
+<p style="text-align: justify;">Ahora sólo queda que alguien escriba una novela sobre los <a href="http://es.wikipedia.org/wiki/Illuminati">illuminati</a> del iPhone&#8230;</p>
+<p style="text-align: justify;">
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Hoy es 11 de Marzo</title>
+		<link>/2006/03/11/hoy-es-11-de-marzo/</link>
+		<pubDate>Sat, 11 Mar 2006 16:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Perry]]></category>
+
+		<guid isPermaLink="false">/2006/03/11/hoy-es-11-de-marzo/</guid>
+		<description><![CDATA[Hace ya dos años del salvaje atentado que algunos animales realizaron en Madrid, no se sabe en defensa de que «ideales». Lo que sí se sabe es que 192 personas perdieron la vida y más de 1.500 resultaron heridas. A todos estos héroes, mi admiración, mi respeto, mi ayuda, mi mano tendida. A los otros, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext"><a href="/wp-content/uploads/2006/03/ribbon_blk.gif"><img class="alignright size-full wp-image-679" title="ribbon_blk" src="/wp-content/uploads/2006/03/ribbon_blk.gif" alt="ribbon_blk" width="34" height="48" /></a></p>
+<p class="bodytext">Hace ya dos años del salvaje atentado que algunos animales realizaron en Madrid, no se sabe en defensa de que «ideales». Lo que sí se sabe es que 192 personas perdieron la vida y más de 1.500 resultaron heridas.</p>
+<p class="bodytext">A todos estos héroes, mi admiración, mi respeto, mi ayuda, mi mano tendida.</p>
+<p class="bodytext">A los otros, y a todos los que justifican los terrorismos&#8230; espero que la Justicia os alcance algún día. No mereceis llamaros personas.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Comité contra las faltas voluntarias y el lenguaje sms</title>
+		<link>/2006/02/25/comite-contra-las-faltas-voluntarias-y-el-lenguaje-sms/</link>
+		<pubDate>Sat, 25 Feb 2006 11:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Internet]]></category>
+
+		<guid isPermaLink="false">/2006/02/25/comite-contra-las-faltas-voluntarias-y-el-lenguaje-sms/</guid>
+		<description><![CDATA[Todavía me estoy riendo. Desde luego, al que se le ha ocurrido hacer el GIF con el mensajito, mis felicitaciones. Ha sabido catalizar la sensibilidad de mucha gente que cuando le llega un SMS con el texto «bsos wpo», primero se pasa un rato pensando que el mensaje ha llegado mal, luego consigue traducir a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: center;"><a href="http://www.online.com.es/1127/humor/comite-contra-las-faltas-voluntarias-y-el-lenguaje-sms/"><img class="size-full wp-image-682 aligncenter" title="foronomovil" src="/wp-content/uploads/2006/02/foronomovil.gif" alt="" width="377" height="77" srcset="/wp-content/uploads/2006/02/foronomovil.gif 377w, /wp-content/uploads/2006/02/foronomovil-300x61.gif 300w" sizes="(max-width: 377px) 100vw, 377px" /></a></p>
+<p class="bodytext" style="text-align: justify;">Todavía me estoy riendo. Desde luego, al que se le ha ocurrido hacer el GIF con el mensajito, mis felicitaciones. Ha sabido catalizar la sensibilidad de mucha gente que cuando le llega un SMS con el texto «bsos wpo», primero se pasa un rato pensando que el mensaje ha llegado mal, luego consigue traducir a «besos, guapo», en tercer lugar se pregunta porqué la gente es tan cursi al escribir y finalmente acaba maldiciendo el sistema estatal de enseñanza y las leyes que permiten no aplicar la cadena perpetua al que escriba (es un decir) de esa manera.</p>
+<p class="bodytext" style="text-align: justify;"><a href="http://www.online.com.es/1127/humor/comite-contra-las-faltas-voluntarias-y-el-lenguaje-sms/">Enlace al comité</a> y <a href="http://www.microsiervos.com/archivo/internet/ccfvls.html">enlace en Microsiervos</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

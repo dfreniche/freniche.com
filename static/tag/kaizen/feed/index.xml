@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kaizen &#8211; freniche.com</title>
+	<atom:link href="/tag/kaizen/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo estoy aprendiendo a programar en Cocoa Touch para iOS</title>
+		<link>/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/</link>
+		<comments>/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/#comments</comments>
+		<pubDate>Sun, 14 Nov 2010 15:12:22 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Kaizen]]></category>
+
+		<guid isPermaLink="false">/?p=1248</guid>
+		<description><![CDATA[En el post en el que anunciaba que mi primera App para iOS, MyEvents, ya estaba disponible en el App Store, David me pedía en un comentario que escribiera algo de cómo me he ido preparando para programar en Cocoa. Este post ya me estaba rondando por mi Things desde hacía tiempo, y un par [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">En el post en el que anunciaba que mi primera App para iOS, <a href="/2010/11/09/mi-primera-app-ya-esta-en-el-app-store-myevents/">MyEvents</a>, ya estaba disponible en el App Store, <a href="/2010/11/09/mi-primera-app-ya-esta-en-el-app-store-myevents/comment-page-1/#comment-8539">David me pedía en un comentario</a> que escribiera algo de cómo me he ido preparando para programar en Cocoa. Este post ya me estaba rondando por mi <a href="http://culturedcode.com/things/">Things</a> desde hacía tiempo, y un par de correos pidiendo lo mismo, unido a que en las NSCoder Nights mucha gente va a preguntarlo (y es una lata repetir siempre lo mismo ;-)) me han llevado a escribir mi experiencia.</p>
+<p style="text-align: justify;">No esperes aquí un camino formativo «de academia», con unos objetivos, etc. Es mi experiencia. Y por ello mismo, está en contínuo cambio. Os agradecería que, si habéis leído otros libros, consultáis otras webs, tenéis otros ejemplos, etc. los pongáis en los comentarios de forma que todos los programadores que lean el post se beneficien de las experiencias de todos.</p>
+<p style="text-align: justify;">Antes de empezar, <em>disclaimer</em> al canto. Probablemente son los años, o el haber estado alejado de los teclados unos años, o el tener mis neuronas seriamente perjudicadas por el abuso de alcohol en mi juventud y cafeína en la actualidad, pero a mí Cocoa / ObjectiveC / XCode no me han resultado «un juego de niños». He tenido que esforzarme, leer mucho, probar cosas, equivocarme, frustrarme, volver a empezar, ver vídeos, etc. Lo digo, porque he leído en muchos sitios por Internet que la gente se pone a toda máquina con Cocoa Touch en dos/tres meses. Pues yo tengo que ser tonto de remate. Si tú tampoco eres capaz de saberte toda la API (incluyendo la parte privada) de iOS en dos meses, que sepas que tienes mi solidaridad.</p>
+<h2>El comienzo</h2>
+<p style="text-align: justify;">Cuando me planteé meterme en Cocoa Touch, yo partía con tres grandes ventajas. Por un lado, en mi juventud programé mucho en C y C++, y C siempre ha sido mi lenguaje favorito. Sobre todo, porque fue el primero con el que hice cosas. Por otra parte, tras el intensivo machaque con las certificaciones Java e impartir un montón de cursos tenía bastante claro el patrón MVC. Ambas cosas son básicas: C + MVC, así que, si no tienes claro C te recomiendo lo primero que te mires el <a href="http://en.wikipedia.org/wiki/The_C_Programming_Language_(book)">libro clásico de Kerninghan y Ritchie «The C Programming Language»</a> para tener claro qué es un #define, un puntero, los tipos de datos que hay, estructuras de control (if, switch), el operador ternario ?, etc. MVC lo explican fantásticamente bien en los vídeos de iTunes U de la Universidad de Stanford, «Developing Apps for iOS», capítulos 1 y 2. El cap. 2 es un ejemplo de cómo aplicar MVC.</p>
+<p style="text-align: justify;">La última ventaja, algo que me sigue sorprendiendo que sorprenda, es que hablo Inglés. Dominar el Inglés te da acceso a un montón de información escrita, vídeos, podcasts, y la posibilidad de charlar con gente si vas a la WWDC (de momento, un sueño para mi, pero ya veremos en 2011). Hay muchas formas de aprender Inglés, y distintos métodos. Escoge el que quieras, pero ponte ya. Sin excusas. Lee comics, ve las películas subtituladas en Inglés y con la pista de audio en Inglés, mira videos en Youtube, lo que sea. Pero practica. Ya. Deja de leer estas líneas, en serio: el impacto en tu vida de aprender Inglés será más importante que cualquier cosa que yo pueda contar.</p>
+<h2>Los primeros libros</h2>
+<p style="text-align: justify;">Para arrancar, lo tenía muy claro: iba a leerme de cabo a rabo un par de libros, uno para principiantes y de estilo tutorial, y otro avanzado que se metiera a más bajo nivel con Cocoa Touch. Los comenté <a href="/2010/06/10/leyendo-para-emprender/">en este post</a>. Pero como soy así de bueno, listo los cuatro que he leído para que los tengáis a mano:</p>
+<p style="text-align: justify;"><a href="http://www.iphonedevbook.com/">Beginning iPhone 3 Development</a>, de Dave Mark y Jeff LaMarche. El primero por el que empecé. Te explica todo paso a paso, y trata un montón de temas. En un punto tuve que parar, porque no tenía clara la base de ObjectiveC, y cosas como el <a href="http://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/KeyValueCoding/Concepts/Overview.html%23//apple_ref/doc/uid/20001838-SW1">KVC</a>, las categorías o la gestión de memoria se me escapaban. Así que lo aparqué y me leí:</p>
+<p style="text-align: justify;"><a href="http://apress.com/book/view/1430218150">Learn Objective C on the Mac</a>, de Mark Dalrymple y Scott Knaster. Este libro me gusta mucho porque es muy directo, si sabes de lo que te está hablando. No es tan tutorial como el otro, va al grano y te da una base imprescindible para programar. Debería haber empezado con este <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Tras estos dos, he leído algunos capítulos de <a href="http://www.amazon.com/More-iPhone-Development-Tackling-Beginning/dp/143022505X">More iPhone 3 Development</a>, también de Dave Mark y Jeff LaMarche. No lo he leído completo, sino los capítulos que iba necesitando, de forma ad-hoc.</p>
+<p style="text-align: justify;">El último con el que estoy es <a href="http://www.amazon.com/iPhone-SDK-Programming-Advanced-Development/dp/0470683988">iPhone SDK Programming</a>, de Maher Ali. Más avanzado, prescinde de Interface Builder y lo construye todo a mano. Ideal, para saber qué pasa «detrás del telón» de IB. Y su introducción a Objective-C es muy buena, compacta, pero un poco densa.</p>
+<h2>Vídeo y audio</h2>
+<p style="text-align: justify;">Mientras estaba leyendo esos libros he ido alternando con los vídeos de la Universidad de Stanford (que están disponibles en iTunes) sobre cómo programar para el iPhone. Son gratuítos y la única pega que se les puede buscar es que están en Inglés. El enlace para la versión en HD es <a href="http://itunes.apple.com/es/itunes-u/developing-apps-for-ios-hd/id395605774">este</a>. También hay una versión en SD. Me parece casi perfecto ir leyendo y viendo un vídeo de vez de cuando, de forma que una cosa se apoya en la otra. Yo no tengo iPad donde verlo, pero se me ocurre que la forma perfecta es por la noche, en el sofá, con los auriculares puestos mientras tu media naranja ve otra cosa. El problema es que es mi media naranja la que lee en el iPad. Es suyo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">En audio sólo he escuchado un podcast de Cocoa: <a href="http://ochentaycincoporcientococoa.tumblr.com/">85% cocoa</a>. Súper recomendable, tanto por el contenido como por la estructura. Y no sólo se tratan temas de programación estrictamente: se hablan de otros detalles necesarios para el desarrollo. Un gran trabajo de José A. Lobato, culpable junto con otros de la comunidad <a href="http://www.nscodecenter.com/">NSCodeCenter</a> y de las iniciativas <a href="/2010/11/12/nscoder-nights-sevilla/">NSCoder Night</a> en España.</p>
+<h2>Webs</h2>
+<p style="text-align: justify;">Además de los recursos de Apple (el Developer Center), uso mucho <a href="http://stackoverflow.com/">StackOverflow</a> y ahora me estoy animando a entrar en <a href="http://www.nscodecenter.com/">NSCodeCenter</a>. Con estos tres cubro prácticamente cualquier pregunta, además de blogs de programadores en Cocoa y otras cosas que me encuentro por Internet y guardo en <a href="http://www.delicious.com/dfreniche/cocoa">Delicious</a>.</p>
+<h2>Programar</h2>
+<p style="text-align: justify;">Al final, a programar sólo se aprende programando. Por mucho que leas, por mucho que creas que sepas, la única forma de aprender a programar es haciendo programas. Puede parecer una perogrullada, pero no lo es. Así que ya sabes: programa. Aunque tu código sea feo, aunque no te apetezca enseñarlo (eso siempre pasa, somos muy pudorosos con nuestro código), sigue adelante. Ya aprenderás formas de hacerlo más bonito. Yo hasta que no me planteé algo propio no empecé a encontrarme con cosas que quería hacer y no sabía cómo.</p>
+<h2>Un compañero</h2>
+<p style="text-align: justify;">Yo me he buscado recientemente un compi para hacer Apps a cuatro manos. De esta forma, puedo ver cómo programan otras personas, tengo que esforzarme en «hacerlo bonito», ya que van a leer mi código, y avanzo mucho más rápido. Y me motiva mucho. Otra opción son las NSCoder Nights. Y si no lo hay en tu ciudad, monta tu la tuya. No necesitas más que una cuenta en Twitter y un bar. De ambas cosas hay abundancia en España.</p>
+<p style="text-align: justify;">Así que ya sabes: happy coding!</p>
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/feed/</wfw:commentRss>
+		<slash:comments>13</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Cambiar el nombre de varios ficheros a la vez en Mac OS X</title>
+	<atom:link href="/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/comment-page-1/#comment-16497</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2011 18:25:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1506#comment-16497</guid>
+		<description><![CDATA[Cierto! Automator es una tarea pendiente. Aunque también tengo el terminal y mv, pero la idea era buscar algo sencillo, gratis y rápido. Y creo que cumple los requisitos :-)]]></description>
+		<content:encoded><![CDATA[<p>Cierto! Automator es una tarea pendiente. Aunque también tengo el terminal y mv, pero la idea era buscar algo sencillo, gratis y rápido. Y creo que cumple los requisitos 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Pako</title>
+		<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/comment-page-1/#comment-16495</link>
+		<dc:creator><![CDATA[Pako]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2011 18:00:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1506#comment-16495</guid>
+		<description><![CDATA[Tío, que para eso y mucho mas tienes el automator que viene de serie en Mac OS!!!! ;)]]></description>
+		<content:encoded><![CDATA[<p>Tío, que para eso y mucho mas tienes el automator que viene de serie en Mac OS!!!! 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/comment-page-1/#comment-15862</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 07 Jun 2011 05:59:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1506#comment-15862</guid>
+		<description><![CDATA[No conocía NameMangler. Gracias!]]></description>
+		<content:encoded><![CDATA[<p>No conocía NameMangler. Gracias!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: jacksmirk</title>
+		<link>/2011/05/18/cambiar-el-nombre-de-varios-ficheros-a-la-vez-en-mac-os-x/comment-page-1/#comment-15823</link>
+		<dc:creator><![CDATA[jacksmirk]]></dc:creator>
+		<pubDate>Mon, 06 Jun 2011 13:09:42 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1506#comment-15823</guid>
+		<description><![CDATA[Una aplicación bastante buena para cambiar nombres de archivo es NameMangler, muy sencilla de usar y con bastantes opciones. La única pega es que es de pago aunque no es cara.]]></description>
+		<content:encoded><![CDATA[<p>Una aplicación bastante buena para cambiar nombres de archivo es NameMangler, muy sencilla de usar y con bastantes opciones. La única pega es que es de pago aunque no es cara.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

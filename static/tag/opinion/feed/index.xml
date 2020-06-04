@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Opinión &#8211; freniche.com</title>
+	<atom:link href="/tag/opinion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Portabilidad a Simyo</title>
+		<link>/2011/03/31/portabilidad-a-simyo/</link>
+		<comments>/2011/03/31/portabilidad-a-simyo/#comments</comments>
+		<pubDate>Thu, 31 Mar 2011 09:22:43 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Isotrol]]></category>
+		<category><![CDATA[Móviles]]></category>
+		<category><![CDATA[Movistar]]></category>
+		<category><![CDATA[Opinión]]></category>
+		<category><![CDATA[Simyo]]></category>
+
+		<guid isPermaLink="false">/?p=1444</guid>
+		<description><![CDATA[Hace un par de días que estoy con mi número principal en Simyo. He abandonado Movistar de nuevo (lo dejé hace un montón de años para irme a Orange y luego volví). Mi estancia en MS, y los 18 meses que he mantenido el contrato han tenido una buena razón: el iPhone 3Gs de 32 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace un par de días que estoy con mi número principal en Simyo. He abandonado Movistar de nuevo (lo dejé hace un montón de años para irme a Orange y luego volví). Mi estancia en MS, y los 18 meses que he mantenido el contrato han tenido una buena razón: el iPhone 3Gs de 32 GB que hoy en día sigue siendo mi teléfono principal. Cuando me planteé actualizarme desde mi <a href="/2008/12/10/¡ya-tengo-mi-iphone/">iPhone 3G</a>, comprado libre en Bruselas, miré las ofertas y si hacía portabilidad desde Orange a Movistar con la tarifa de 25 Eur de datos me quedaba el 3Gs por 49 Eur. En esa época mi consumo de datos era alto, así que me venía muy bien el trato.</p>
+<p style="text-align: justify;">Pero las cosas cambian con el tiempo. <a href="/2009/11/29/iniciando-una-nueva-etapa/">Dejé Isotrol</a> (de nuevo, por segunda vez) y me quedé en casa haciendo mis <a href="/ios-apps/">Apps para iPhone</a> y preparando mis <a href="/formacion/">cursos</a>. Y claro, en casa hay WiFi. Encima donde vivo Movistar no tiene cobertura 3G. Ni buena ni mala: no hay. Resultado: estaba pagando por un tráfico de datos que no consumía.</p>
+<p style="text-align: justify;">Cuando se ha cumplido la permanencia, he llamado a Movistar para liberar el 3Gs por IMEI. Sólo me ha costado un par de llamadas. Lo probé con una SIM de Simyo, que tenía para ir probando el servicio y como segunda línea por si las moscas, y todo funcionaba perfectamente. Estaba listo para el salto.</p>
+<p style="text-align: justify;">He escogido la tarifa del 3 de Simyo. No hay permanencia. Pagas cada mes 8 Eur. + IVA y tienes 500 MB de datos. Y, por supuesto, pagas lo que hables, a 3 céntimos de Eur. el minuto + establecimiento de llamada. Los SMS son baratos (aunque ya los uso muy poco, pero siempre es mejor que sean baratos, ¿no?). No he pasado un mes completo con Simyo, así que ya veremos como son las facturas. Bueno, si me he equivocado siempre puedo cambiarme a otra.</p>
+<p style="text-align: justify;">La portabilidad ha tenido algún que otro bache. Tras solicitarla, me llegó una carta de Simyo con la SIM. Hasta aquí sin problemas. Me llamaron de Movistar para que no abandonase el redil, pero les dije que eso de «<em>mucho te quiero perrito, pero pan poquito</em>» no iba ya conmigo. Si tan buen cliente soy, dame un iPhone 4 gratis y mejores tarifas. ¿Que pido mucho? Vale, pues me voy.</p>
+<p style="text-align: justify;">Superada la llamada de MS estuve esperando el SMS que según Simyo me mandarían para indicarme que esa noche se realizaría la portabilidad. El SMS no llegaba. Estaba temiendo que comenzaría el nuevo mes sin estar «portado» cuando me di cuenta la otra mañana que no tenía cobertura en el móvil. Así que pensé «¿a que me han portado y no me lo han comunicado?». Cambié la SIM y&#8230; voilá. Teléfono funcionando. Pequeño fallo de comunicación, pero bueno. En teoría me debía llegar la configuración de los datos del iPhone por SMS. Tampoco me llegó. Llamé al soporte técnico de Simyo (antes de ver que la configuración estaba descrita en sus FAQs) y conseguí hacer que el iPhone mandase correos, tras introducir los nuevos parámetros y sincronizar con iTunes (esto último no me lo indicaron).</p>
+<p style="text-align: justify;">¿Resultado final? Tengo más cobertura 3G con Simyo que con Movistar. Y telefónica. Todo funciona bien y la web de Simyo está a años luz de la de Movistar, que es de lo más complicado y anti-cliente que he visto. Encima, tras quejarme en twitter, me han «<a href="http://twitter.com/#!/simyo_es/status/53008223237705728">pasado la mano por el lomo</a>» los de @Simyo_es. Da gusto.</p>
+<p style="text-align: justify;">P.D.: puse un ticket en la web de Simyo preguntando por la activación de los datos. Me han respondido ahora, aunque se supone que ya me resolvieron el problema por teléfono. Detecto descoordinación entre el Call Center y su soporte de primer nivel. Encima el correo viene del dominio kpn.es, que es la propietaria de Simyo y no de Simyo.es, que es lo que esperaría cualquiera. Señores, contraten una consultoría ITIL ASAP. A mi, si es posible. Facturo tan caro como necesiten <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/31/portabilidad-a-simyo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

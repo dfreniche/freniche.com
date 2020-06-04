@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gestión de proyectos &#8211; freniche.com</title>
+	<atom:link href="/tag/gestion-de-proyectos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Los cuatro aspectos de la gestión de proyectos, vistos gráficamente</title>
+		<link>/2007/05/03/los-cuatro-aspectos-de-la-gestion-de-proyectos-vistos-graficamente/</link>
+		<comments>/2007/05/03/los-cuatro-aspectos-de-la-gestion-de-proyectos-vistos-graficamente/#comments</comments>
+		<pubDate>Thu, 03 May 2007 08:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Gestión de proyectos]]></category>
+
+		<guid isPermaLink="false">/2007/05/03/los-cuatro-aspectos-de-la-gestion-de-proyectos-vistos-graficamente/</guid>
+		<description><![CDATA[Cuando se habla de gestionar un proyecto se tratan habitualmente tres dimensiones: el tiempo disponible para realizarlo, los recursos (materiales y humanos) con los que contamos, y los requisitos o alcance que tiene el proyecto: qué tiene que hacer. Siempre que hablo de un proyecto pienso automáticamente en uno informático, es decir, cuyo resultado será [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext"><a href="/wp-content/uploads/2007/05/0860f52634.png"><img class="aligncenter size-full wp-image-612" src="/wp-content/uploads/2007/05/0860f52634.png" alt="" width="500" height="500" srcset="/wp-content/uploads/2007/05/0860f52634.png 500w, /wp-content/uploads/2007/05/0860f52634-150x150.png 150w, /wp-content/uploads/2007/05/0860f52634-300x300.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p class="bodytext" style="text-align: justify;">Cuando se habla de gestionar un proyecto se tratan habitualmente tres dimensiones: el tiempo disponible para realizarlo, los recursos (materiales y humanos) con los que contamos, y los requisitos o alcance que tiene el proyecto: qué tiene que hacer. Siempre que hablo de un proyecto pienso automáticamente en uno informático, es decir, cuyo resultado será un portal web, o un programa, o un plan de formación técnico o algo así, aunque también vale pensar en la organización de una boda o de un viaje, como ahora veremos.</p>
+<p class="bodytext" style="text-align: justify;">Para ilustrar estos tres aspectos y su relación se pinta casi inevitablemente un triángulo en la pizarra. La situación ideal es que el triángulo sea equilátero, que todos los lados estén equilibrados (nota a los malos traductores: balanced no se traduce por <em>balanceado</em>, sino por equilibrado). Si alguno de los tres lados crece, los otros se ajustan para mantener el tri?ngulo.</p>
+<p class="bodytext"><strong>Ejemplo 1: Desarrollo de un portal web.</strong></p>
+<p class="bodytext">Si nos fijan una fecha de entrega, y los requisitos no están claros (lo que, por la primera ley Freniche del Software hace que no paren de crecer) tenemos dos posibilidades. La primera, huir del proyecto rápido, rápido y sin mirar atrás. La segunda, la más habitual (bueno, ahora que lo pienso&#8230;) es aumentar los recursos: contratar a más gente.</p>
+<p class="bodytext"><strong>Ejemplo 2: La boda</strong></p>
+<p class="bodytext">Si los requisitos cambian, por ejemplo, porque no coincidan las fechas en que está disponible el cura y el lugar donde vamos a celebrar el enlace, ya que los recursos son limitados (la organización de una boda siempre recae en la novia que acaba al borde del histerismo) el plazo de entrega debe variar: se mueve la ceremonia a mejores fechas.</p>
+<p class="bodytext">En todas estas situaciones se supone que no hay problemas, ni errores. Al planificar, todo va a ir bien. Pero en los proyectos informáticos (como en todos los demás, por cierto) hay que contar con el nivel de calidad que debemos entregar. Podemos pensar en que nuestro sistema no tendrá ni un solo error, lo que es en sí mismo un error. <a href="http://www.joelonsoftware.com/articles/fog0000000014.html" target="_blank">No tiene sentido resolver un problema cuyo coste supera al beneficio que aporta.</a></p>
+<p class="bodytext">Luego hay que tener siempre presente la tasa de errores con la que queremos vivir. Si nuestro programa debe ser perfecto, los recursos para control de calidad, test y comprobaciones aumentarán. Necesitaremos más tiempo para hacerlo todo con calma. Y el alcance no puede crecer y crecer, ya que con cada requisito nuevo la probabilidad de introducir un error nuevo, o de que el sistema no funcione bien debido a las interacciones entre componentes aumenta.</p>
+<p class="bodytext"><em>¿Aburrido?</em></p>
+<p class="bodytext">La verdad es que hablar de gestión de proyectos le resulta un ladrillo a mucha gente. Y encima es algo <em>que no puedes ver</em>. Bueno, no exactamente. Hoy me he topado con un pequeño applet que ilustra perfectamente (y, en parte, ha inspirado) este post. Está en <a href="http://www.basilv.com/psd/software-files/launchManagementDiamond.html" target="_blank">www.basilv.com/psd/software-files/launchManagementDiamond.html</a>.</p>
+<p class="bodytext">Juega con él fijando el tiempo, aumentando el ámbito y tratando de disminuir los recursos: verás que no es posible. Como en la vida real. Sólo en las mentes de algunos gestores cabe tener listo «para ayer» ese portal que integra LDAP, SingleSingOn, un CMS, WorkFlow y dos huevos duros contando con un equipo formado por dos becarios y el chaval de prácticas en empresas.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/05/03/los-cuatro-aspectos-de-la-gestion-de-proyectos-vistos-graficamente/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Escribir en lugar de leer</title>
+	<atom:link href="/2013/02/17/escribir-en-lugar-de-leer/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/02/17/escribir-en-lugar-de-leer/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Volver a empezar &#124; freniche.com: iPhone, Java, Macs, Linux...</title>
+		<link>/2013/02/17/escribir-en-lugar-de-leer/comment-page-1/#comment-166195</link>
+		<dc:creator><![CDATA[Volver a empezar &#124; freniche.com: iPhone, Java, Macs, Linux...]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2013 09:57:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1879#comment-166195</guid>
+		<description><![CDATA[[...] no me refiero al hecho de que dijera que tenía que escribir más y leer menos, y luego no he escrito desde hace meses. Me refiero a que tengo que volver a empezar a programar, [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] no me refiero al hecho de que dijera que tenía que escribir más y leer menos, y luego no he escrito desde hace meses. Me refiero a que tengo que volver a empezar a programar, [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguelon</title>
+		<link>/2013/02/17/escribir-en-lugar-de-leer/comment-page-1/#comment-128047</link>
+		<dc:creator><![CDATA[Miguelon]]></dc:creator>
+		<pubDate>Mon, 18 Feb 2013 09:05:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1879#comment-128047</guid>
+		<description><![CDATA[Seguirá siendo un placer leer lo que escribas. 
+
+Aunque ya sabes que hace tiempo que intento hacer lo que dices, es complejo, te deseo suerte en el intento.]]></description>
+		<content:encoded><![CDATA[<p>Seguirá siendo un placer leer lo que escribas. </p>
+<p>Aunque ya sabes que hace tiempo que intento hacer lo que dices, es complejo, te deseo suerte en el intento.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

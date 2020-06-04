@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Software Libre &#8211; freniche.com</title>
+	<atom:link href="/tag/software-libre/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>«Libre» no es una característica; «gratis», sí</title>
+		<link>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/</link>
+		<comments>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/#comments</comments>
+		<pubDate>Tue, 27 Oct 2009 17:04:33 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Productos]]></category>
+		<category><![CDATA[Rants&Flames]]></category>
+		<category><![CDATA[Software Libre]]></category>
+
+		<guid isPermaLink="false">/?p=404</guid>
+		<description><![CDATA[Aquella tarde, Pepito Pérez llegó sudando copiosamente al dentista de su barrio. Por supuesto que estaba en una segunda planta y, por supuesto, el ascensor estaba estropeado. Con cada latigazo de su muela un escalofrío le recorría la espinal dorsal y se olvidó de su miedo a los dentistas, del sonido del torno, del sabor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote>
+<div id="attachment_445" style="width: 510px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/perlita/3256109881/"><img class="size-full wp-image-445" title="3256109881_8dd8905b1a" src="/wp-content/uploads/2009/10/3256109881_8dd8905b1a.jpg" alt="Foto de un dentista, sacada de Flickr" width="500" height="333" srcset="/wp-content/uploads/2009/10/3256109881_8dd8905b1a.jpg 500w, /wp-content/uploads/2009/10/3256109881_8dd8905b1a-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><p class="wp-caption-text">Foto de un dentista, sacada de Flickr</p></div>
+<p>Aquella tarde, Pepito Pérez llegó sudando copiosamente al dentista de su barrio. Por supuesto que estaba en una segunda planta y, por supuesto, el ascensor estaba estropeado. Con cada latigazo de su muela un escalofrío le recorría la espinal dorsal y se olvidó de su miedo a los dentistas, del sonido del torno, del sabor amargo de la anestesia&#8230;</p>
+<p>Se sentó en el sillón, tras esperar lo que le pareció una eternidad (lo suyo <em>sí</em> era una emergencia) y le dijo al dentista:</p>
+<ul>
+<li>doctor, esta muela me está matando, ¡Sáquemela, por favor!</li>
+</ul>
+<p>a lo que el dentista, mirándole perplejo y quitándose la mascarilla (el <em>cubrebocas</em>) le respondió:</p>
+<ul>
+<li>mi querido Pepito, veo que tu uso habitual de otros servicios y tu nivel de ignorancia te hacen creer que soy médico. Pero no, soy dentista. Y lo que tienes mal es un canino, no una muela. Además, probablemente con una endodoncia te baste, no hay necesidad de una extracción&#8230;</li>
+</ul>
+</blockquote>
+<p style="text-align: justify;">¿Alguien se imagina, <em>dónde</em> mandó pepito a aquel dentista? Pepito lamentó no disponer <a href="http://www.elmundotoday.com/2009/06/un-teclado-permite-escribir-a-tomar-por-el-culo-con-una-sola-tecla/" target="_blank">de un teclado como éste</a> para esa misión, pero le dejó muy claro, entre gritos, <em>al de blanco</em>, que fuera médico, dentista o churrera, a él le dolía <em>un diente</em>, y que acabara con el dolor, que luego para cobrar no íbamos a ser tan detallistas&#8230;</p>
+<p style="text-align: justify;">Parecerá una exageración, pero esto es lo que te encuentras en ciertos círculos informáticos cuando te tratan de convencer de que Sí, éste es el año de Linux en el Escritorio, sólo porque es libre. Y aquí está la clave: para un usuario normal (el 99,99% de los usuarios de una plataforma) que el Software sea <em>libre </em>no le aporta nada, no es una característica conocida y por tanto deseable. Que sea <em>gratis</em> y se pueda usar sin pagar de forma legal sí que lo es.</p>
+<h1>¿Es <em>realmente</em> necesaria otra batallita?</h1>
+<p style="text-align: justify; ">Sí, lo es. Estáis en mi web y ya me conocéis.</p>
+<p style="text-align: justify; ">Supongamos que el fabricante de mi coche, en este caso Ford, fuera un fabricante libre. Me daría los planos del motor y una lista de componentes «marca blanca» para que yo me mantuviera la máquina, si me apetece. Podría incluso cambiar el logotipo de Ford y me mantendrían la garantía. ¿Alguien piensa que los talleres quebrarían?. Yo soy un usuario de los coches. Los uso para ir a sitios y lo que me interesa es la capacidad que tienen de desplazarme a mí y a la carga que lleve. Pero no me interesan los coches. Vamos, que no quiero tocar un motor, porque además no tengo ni idea. Pues con los ordenadores, estimados colegas y predicadores de la <em>Verdad Libre</em> (<a href="http://www.gnu.org/licenses/gpl.html">GPL</a>?, GPL2?, <a href="http://www.apache.org/licenses/">ASL</a>?, es verdad, aquí hay varias <em>verdades</em>, igual que cada religión tiene la suya&#8230;) pasa lo mismo.</p>
+<p><em>Repeat after me, fanboys of free as in speech</em>: «No podemos pedirle al 99,99% de los usuarios que aprendan a programar en C, para tener la libertad de poder modificar ellos mismos su sistema». Porque simplemente no quieren.</p>
+<div id="attachment_452" style="width: 510px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/bhalash/"><img class="size-full wp-image-452" title="ubuntu-geek" src="/wp-content/uploads/2009/10/ubuntu-geek.jpg" alt="Geek Felino (click para ir a la galería del autor en Flickr)" width="500" height="333" srcset="/wp-content/uploads/2009/10/ubuntu-geek.jpg 500w, /wp-content/uploads/2009/10/ubuntu-geek-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><p class="wp-caption-text">Geek Felino (click para ir a la galería del autor en Flickr)</p></div>
+<p style="text-align: justify; ">Las ideas del Software Libre, tan pregonadas por <a href="http://es.wikipedia.org/wiki/Richard_Stallman">Richard Stallman</a>, funcionan bien cuando se dirigen a la comunidad a la que estaban dirigidas inicialmente: a los programadores. Bueno, debería decir a algunos programadores. Uno de los problemas del Software Libre (y uno de sus mayores alicientes, según como se mire) es que toda la responsabilidad está en nuestro lado. Aquí no hay una gran empresa que nos de soporte (y nos cobre por ello). Es el propio usuario el que debe mantener su propio sistema, con la ayuda de la comunidad, y con todo lo que ello implica. Hay que aprender cosas. Y leer mucho. Y probar y dedicarle tiempo. Y ser conscientes de que la responsabilidad es nuestra, de que no podemos quejarnos de una empresa que nos ha vendido «basura».</p>
+<p>Y que la audiencia en la que piensan muchos de los gurús del S.L. siguen siendo los programadores lo demuestra las <a href="http://news.cnet.com/8301-13505_3-10358024-16.html?tag=col1;post-4897">preocupaciones mostradas por Linus Torvalds sobre el tamaño del núcleo de Linux</a>. A un usuario le da igual si el kernel pesa unos megas más o menos. Nunca lo va a compilar, ni se va a leer el código. Pero a los programadores ciertas cosas les ponen histéricos. Por eso a Linus le preocupa que el Kernel esté engordando. No pasa nada por engordar: le pasa a los S.O. que maduran, que evolucionan, que se usan. Lo peor que le puede pasar a un programa es que su código no cambie: entonces estará muerto.</p>
+<h1>Productos Sorfware Libre que triunfan</h1>
+<p style="text-align: justify;">Creo que ésta es la parte curiosa del asunto. Hay productos que son libres y que han triunfado. Como Firefox. Como el servidor web Apache (httpd). Como el JDK de Java. O Eclipse, entre los programadores. Y otros tantos. ¿Porqué estos triunfan pero Linux sigue esperando su «año de Linux en el escritorio»?. Desde mi punto de vista, por varias razones:</p>
+<ul>
+<li>Firefox es simplemente mejor que IE. Tiene solapas. <em>Solapas</em>. Hoy en día cualquier navegador tiene solapas. Pero antes había que abrir una ventana nueva por cada página que queríamos ver. Y eso eran muchas ventanas abiertas. Lo que significaban muchos iconos en la barra de tareas de Windows. Y mucho tiempo perdido pulsando Alt + Tab hasta encontrar de nuevo la web que buscábamos. Cuando aparecieron las solapas, fue una revolución. Y detrás vinieron los plug-ins de Firefox. Hoy en día hay pocas cosas que Firefox no pueda hacer. Es una auténtica navaja suiza.</li>
+<li>La gente solo sabe que es bueno, que es más seguro que IE, que hace más cosas&#8230; y que no tiene coste.</li>
+<li>Firefox es una marca. Linux no. Desde la fundación Mozilla se han esforzado por crear una marca única, luchando contra varios problemas (Firefox comenzó con otro nombre, que estaba registrado: <a href="http://es.wikipedia.org/wiki/Firebird#Choque_de_nombres_con_Mozilla_Firefox">FireBird</a>). Han creado un logotipo reconocible. Recuerdo cuando se lanzó la v1.0 de Firefox, que se pidieron donaciones para <a href="http://www-archive.mozilla.org/press/mozilla-2004-12-15.html">publicar en el New York Times un anuncio a toda página</a>. Es tan reconocible que por culpa de una camiseta de Firefox, en esa época, me reconoció otro friki de lo libre en un aeropuerto y estuvimos hablando. Y por cierto, da igual que estés en Linux, Windows o Mac: siempre hay un Firefox disponible y siempre con el mismo icono.</li>
+</ul>
+<p style="margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Helvetica;">
+<div id="attachment_453" style="width: 334px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/10/Firefox-logo.jpg"><img class="size-full wp-image-453" title="Firefox-logo" src="/wp-content/uploads/2009/10/Firefox-logo.jpg" alt="Firefox, ese gran navegador" width="324" height="243" srcset="/wp-content/uploads/2009/10/Firefox-logo.jpg 324w, /wp-content/uploads/2009/10/Firefox-logo-300x225.jpg 300w" sizes="(max-width: 324px) 100vw, 324px" /></a><p class="wp-caption-text">Firefox, ese gran navegador</p></div>
+<p>Y estas son las tres claves de todo producto:</p>
+<ul>
+<li>Ser bueno en lo que hace</li>
+<li>Tener un mejor coste total de propiedad que las otras alternativas</li>
+<li>Ser un producto: es decir, tener identidad propia entre otras cosas</li>
+</ul>
+<p>Pensemos en otros productos que nos gustan (al menos a mí) y veremos que se cumplen estas tres reglas: los productos de Apple, los Paradores de Turismo, los mantecados y polvorones de Estepa, los <em><a href="http://www.elripolles.com/fornsantroc/">porquets</a></em><a href="http://www.elripolles.com/fornsantroc/"> de Camprodón</a>, &#8230;</p>
+<p>En el caso de Linux:</p>
+<ul>
+<li>Es bueno, si estás dispuesto a permanentemente parchear el sistema. Cosas que antes funcionaban, con la siguiente actualización pueden dejar de funcionar, mágicamente. Un ejemplo, que no tiene por qué ser significativo, pero que me molesta bastante: el soporte de Tablet PC que lleva Ubuntu. Cada vez que se actualiza Ubuntu, hay que andar parcheando el fichero de configuración de las X porque se pierde el soporte de dispositivos Wacom. Uno, que ya es perro viejo, tiene una copia de seguridad del fichero de configuración de las X, y cada vez que actualizo el sistema gráfico, sobrescribo el ficherito&#8230; Linux es un buen S.O. UNIX. Lo uso desde hace <a href="/2009/09/23/sistemas-operativos-que-he-usado-en-los-ultimos-20-anos/">muuuchos años</a>, y en forma exclusiva en casa (<a href="/2009/07/12/la-ifamily/">hasta que me pasé a Mac</a>) desde 2001. En el trabajo es mi día a día. Pero para un usuario normal&#8230; es demasiado complicado y punto. Ahora, todos los <em>GNU-trolls</em> del globo hispanohablante (y con ayuda de Google Translator algunos más) comentarán que no, que el problema no es el sistema, son los usuarios contaminados por su experiencia anterior con Windows, etc. Ya, ya, pero aunque sea más eficiente poner el volante del coche en medio, yo lo prefiero a la izquierda y los ingleses a la derecha. Qué le vamos a hacer. Y por cierto, me gusta que la gente comente <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Es gratis si hablamos de licencias. Pero hay que invertir tiempo en aprender a usarlo. En cualquier caso, lo recomiendo: aprender a usar cualquier UNIX es una experiencia que nos hará aprender de todo, pero sobre todo cosas de Windows <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Pero (y es el problema más gordo que tiene) <strong>Linux no es un producto</strong>. Cuando tienes que desgañitarte con tu amigo del alma para explicarle que estás hablando de Linux, no del kernel, o de las diferentes distribuciones, o que es GNU/Linux y qué significa eso&#8230; es que algo va mal. No hay que explicar qué es Windows. O qué es la Coca-Cola. O un Mercedes. o Firefox. Pero con Linux la cosa cambia: ¿hablas de Ubuntu o de Red Hat?. ¿Del kernel o del S.O.?. Aquí, ni los expertos se ponen de acuerdo: hay una <a href="http://es.wikipedia.org/wiki/Linux_(desambiguación)">página de desambiguación en la Wikipedia</a>. Mal síntoma.</li>
+</ul>
+<h1>Linux nunca pintará nada en el Escritorio: Ubuntu puede que sí</h1>
+<div id="attachment_449" style="width: 510px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/najib/"><img class="size-full wp-image-449" title="gates-ubuntu" src="/wp-content/uploads/2009/10/gates-ubuntu.jpg" alt="Bill recomienda Ubuntu (click para ir al autor)" width="500" height="256" srcset="/wp-content/uploads/2009/10/gates-ubuntu.jpg 500w, /wp-content/uploads/2009/10/gates-ubuntu-300x153.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a><p class="wp-caption-text">Bill recomienda Ubuntu (click para ir al autor)</p></div>
+<p style="text-align: justify;">Y es que Ubuntu sí que es un producto. Es conocido. Tiene su propia marca. Se basa en Debian, luego tiene todo lo bueno de Linux, pero simplificado. Hay una hoja de ruta clara y actualizaciones predecibles. Por eso, si algún Linux va a triunfar masivamente en el mercado va a ser Ubuntu. Además, hay empresas detrás que pueden dar los servicios que administraciones y otras empresas necesitan. Y generar mejoras para el resto de usuarios domésticos.</p>
+<p style="text-align: justify;">Aunque, por supuesto, todos los supuestos defensores de «lo libre», en lugar de hacer lo que ellos quieran y dejar que la gente use Ubuntu, o no lo usen, o que usen MSDOS si quieren, los tacharán de traidores, por usar software <em>impuro</em> que no viene de repositorios 100% GPL2. Este tipo de defensores de la libertad en el uso del software me resultan divertidos: eres libre si no usas Windows y haces exactamente lo que ellos dicen. Si no, envueltos en la bandera de protegerte de las peligrosas consecuencias que tendrá usar software sólo 99% libre, te pondrán a caer de un burro para que repares tu error. Ha pasado con Miguel de Icaza recientemente. Uno de los impulsores de Gnome, que ha escrito tanto y tan buen software, sólo porque quiere ser 99% libre ya es un traidor.Y son estas disputas internas las que ocasionaron que apareciera KDE. Así, en lugar de tener un escritorio como el de Mac, Linux tiene múltiples gestores de ventanas casi-funcionales. Y que no me hablen de Beryl y el cubo de marras. Muy bonito visualmente, pero es como el Aero de Vista: no sirve para nada, salvo para hacer un <a href="http://www.youtube.com/watch?v=xC5uEe5OzNQ">video en YouTube</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/10/27/libre-no-es-una-caracteristica-gratis-si/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Todo Linux: resultado del artículo «virtualización en Linux» es que no uses VMWare</title>
+		<link>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/</link>
+		<comments>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/#comments</comments>
+		<pubDate>Thu, 20 Apr 2006 11:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Software Libre]]></category>
+		<category><![CDATA[Virtualización]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Xen]]></category>
+
+		<guid isPermaLink="false">/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/</guid>
+		<description><![CDATA[Hace poco que he leído el artículo sobre Virtualización en Linux de la revista Todo Linux, incluido en su número 65 y escrito por David Santo Orcero. Como ya sabreis soy un usuario habitual de máquinas virtuales, especialmente VMWare. Pero como debeis saber también, me gusta aprender nuevas cosas y escuchar diferentes puntos de vista. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Hace poco que he leído el artículo sobre Virtualización en Linux de la revista Todo Linux, incluido en su número 65 y escrito por David Santo Orcero. Como ya sabreis soy un usuario habitual de máquinas virtuales, especialmente VMWare. Pero como debeis saber también, me gusta aprender nuevas cosas y escuchar diferentes puntos de vista.</p>
+<p class="bodytext">Con ese objetivo me compré la revista. El artículo en general no está mal, ya que muestra desde una perspectiva histórica la virtualización y apunta sus posibles usos. Luego, pasa revista a las diferentes soluciones que existen para Linux. El problema es que desde el principio, y coincidiendo un poco con el tono general de la revista, <em>«lo que no es Software Libre no es bueno punto y no hay más que hablar y sobre todo como hables de Microsoft te cortamos el cuello u otra cosa a la que le tengas más aprecio»</em>, todas las soluciones que no sean Xen son malas.</p>
+<p class="bodytext">Es decir, los competidores de Xen se muestran con todos sus errores posibles. Xen, sin embargo, siendo un buen producto, no es capaz de ejecutar un XP que nos instalemos directamente desde los CDs de Microsoft, lo cual impide de momento usarlo para un montón de cosas, como por ejemplo ejecutar Access dentro de Linux (se entiende, dentro de un Windows que se ejecute en una máquina virtual en Linux).</p>
+<p class="bodytext">El colmo de este sectarismo «Software Libre» es el análisis exageradamente parcial que se hace de VMWare. En él, se resalta que no es Software Libre, pero no se comenta que tanto VMWare Player como Server son gratis. Bien, no es igual de bueno que S.L., pero a mucha gente ya puede valerle. Cuando se habla de VMWare el autor se remonta a su versión 2. ¿Cómo?. Que ya vamos por la versión 5 de VMWare, señores. Comparar la última versión de Xen con la versión de VMWare que funcionaba en un PDP-11 no me parece demasiado justo, pero bueno.</p>
+<p class="bodytext">El problema principal es que al continuar nos encontramos con dos afirmaciones erróneas:</p>
+<ul>
+<li>la primera es que para ejecutar un Linux con kernel 2.6 en una máquina virtual hay que instalar un parche o si no no es estable. Falso porque dispongo de media docena de máquinas instaladas con diferentes sabores de Linux todas con kernel 2.6 y funcionan sin ningún problema. Por supuesto, en el artículo no se mencionan cuáles son esos problemas ni se apunta un enlace donde leer acerca de esos problemas.</li>
+<li>la segunda es que todas las máquinas virtuales comparten la misma dirección MAC en la tarjetas de red. Esto es un error muy grave porque da la impresión de que el producto tiene una calidad determinada cuando es mentira. En la imagen que adjunto (resolución 1600&#215;1200) se pueden ver un par de máquinas virtuales corriendo sobre mi máquina real. Cada una tiene una MAC diferente, es decir, cada máquina virtual se comporta como un auténtico PC.</li>
+</ul>
+<p class="bodytext">
+<div id="attachment_671" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2006/04/9b8da97238.png"><img class="size-medium wp-image-671" title="9b8da97238" src="/wp-content/uploads/2006/04/9b8da97238-300x225.png" alt="Varias máquinas virtuales VMWare corriendo a la vez" width="300" height="225" srcset="/wp-content/uploads/2006/04/9b8da97238-300x225.png 300w, /wp-content/uploads/2006/04/9b8da97238.png 500w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Varias máquinas virtuales VMWare corriendo a la vez</p></div>
+<p class="bodytext">Soy un defensor convencido del S.L. Lo uso, me gusta y cuando me piden opinión, si existe una solución S.L. que solucione correctamente un problema, propongo primero esa solución. Por ejemplo, para navegar por Internet tengo claro que Firefox es la solución. O el servidor web es Apache. Pero comparar Xen con VMWare de manera tendenciosa para volcar la balanza en favor del producto S.L. no me parece lógico: al final la gente lo usa, se encuentra que no puede usar su XP desde Linux y lo dejan de lado enfadados y quejándose del S.L. «ya sabía yo que siendo gratis no podía ser bueno, etc. etc.»</p>
+<p class="bodytext">Mi punto de vista es que la gente tiene problemas que solucionar y que lo que les interesa es arreglar esos problemas y no centrarse en las herramientas. Por ello, les da igual que algo sea S.L. o no, y en ocasiones casi mejor que ni lo sepan. Así usarán el S.L. simplemente porque les hace más felices y no por una cuestión pseudo-religiosa.</p>
+<p class="bodytext">Por cierto, ni estoy afiliado a VMWare, ni me pagan un duro. Uso su producto porque me gusta. Se aceptan réplicas por mail. Y jamones.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/04/20/todo-linux-resultado-del-articulo-virtualizacion-en-linux-es-que-no-uses-vmware/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

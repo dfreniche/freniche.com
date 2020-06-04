@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Formación &#8211; freniche.com</title>
+	<atom:link href="/tag/formacion/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo ver los vídeos de la WWDC 2015</title>
+		<link>/2015/06/29/como-ver-los-videos-de-la-wwdc-2015/</link>
+		<pubDate>Mon, 29 Jun 2015 16:16:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">/?p=2631</guid>
+		<description><![CDATA[&#8230;y no dejar que Twitter, y los sobrehumanos que por allí pululan, me machaquen con sus capacidades heroicas de ver en una semana todas las sesiones. Terminó la WWDC 2015, y como todos los años, me he echo un firme propósito: ver todos los vídeos antes de que llegue la WWDC 2016. Si miro mi [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote>
+<p>&#8230;y no dejar que Twitter, y los <em>sobrehumanos</em> que por allí pululan, me machaquen con sus capacidades heroicas de ver en una semana todas las sesiones.</p>
+</blockquote>
+<p>Terminó la WWDC 2015, y como todos los años, me he echo un firme propósito: <em>ver todos los vídeos antes de que llegue la WWDC 2016</em>. Si miro mi <em>track record</em> en este tema, no es para ser optimista: siempre he fracasado. Esto es mi <em>voy a dejar de fumar</em> o <em>tengo que aprender alemán</em>. Lo de los kilos, es evidente a simple vista que tampoco lo llevo bien del todo.</p>
+<p>Sí, lo confieso, voy por el mundo desarrollando para iOS y a veces enseñando sobre ello y no he visto todos los vídeos de todas las WWDCs. Una vergüenza, ya lo se. Últimamente, mi síndrome del impostor está súper-desarrollado y tengo muy asumido que soy una <em>estafa con patas</em>, pero eso es tema para otro post. Así que esta vez va a ser diferente. <em>Tiene</em> que ser diferente. Me voy a organizar de manera diferente y quizás alguna de estas ideas os sirva para algo. O no.</p>
+<h2>Good Ol&#8217; Streaming</h2>
+<p>El streaming y todas estas cosas <em>modernas</em> están muy bien y tal. Hasta que tienes que ver un vídeo y se ha caído tu conexión. O quieres copiar unas cuantas sesiones a tu iPad para estar entretenido en un vuelo, y necesitas tenerlas en tu Mac primero. Y en cualquier caso, porque mañana puede estar caído el servidor de Apple o pueden retirar los vídeos a voluntad. Mi estrategia es sencilla: aquellas cosas de Internet que <em>de verdad</em> me interesan van a mi Drobo o a cualquiera de mis HDs externos. Al coste por GB actual, ni me lo pienso. Para bajar los vídeos os recomiendo <a href="https://github.com/ohoachuck/wwdc-downloader">este script</a>, que además se baja los PDFs con las presentaciones y el código fuente de los ejemplos. Todo lo necesario para explorar las sesiones. Es bastante configurable y puede bajarse los vídeos de otros años, grabar en la carpeta que le indiques, descargar en calidad SD o HD&#8230;</p>
+<p>Para instalar el script, debes mostrarlo en formato «raw», es decir, en texto plano (pulsando <a href="https://github.com/ohoachuck/wwdc-downloader">en este enlace</a> lo tienes, de nada, soy así de majo), seleccionar todo el texto y copiar y pegarlo en un fichero de solo texto. En mi caso, uno que me creado con vi. Lo llamas como quieras, pero <code>download-wwdc-videos.sh</code> no es mal nombre. Te quedaría por darle permisos de ejecución con la orden: <code>$ chmod a+x download-wwdc-videos.sh</code>.</p>
+<p>Para bajar los vídeos la orden que he usado es:</p>
+<pre><code>./download-videos.sh -f HD -o ./
+</code></pre>
+<p>que significa: «baja los vídeos de la WWDC 2015 (por defecto), en calidad HD (<em>caballo grande, ande o no ande</em>) y me los pones en la carpeta actual». Previamente me había creado esa carpeta en el Drobo y había ido en <a href="https://www.iterm2.com/">iTerm</a> con <code>cd /Volumes/Video-Drobo/WWWDC-2015</code> hasta la carpeta en cuestión.</p>
+<h2>Separar la paja del grano</h2>
+<p>No todas las sesiones me interesan. Y a ti tampoco deberían. Hay que tener foco y empezar por aquellas que realmente te van a aportar más. Por ejemplo, la entrega de los Apple Design Awards es algo que no me va a hacer más feliz. Las nuevas características de Swift 2.0, sí. Así que hay sesiones que me interesan seguro, otras que ya habré visto y otras que, o seguro no quiero ver o estoy en duda. Primera criba resuelta: <strong>si dudas, es que no quieres verlo</strong>. No pasa nada, no borres el vídeo (yo no lo hago), no se va a ir de ahí. Pero si no tienes claro de entrada si te sirve para algo, es que no te sirve verlo ahora.</p>
+<div id="attachment_2634" style="width: 1027px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/06/videos-etiquetas.png"><img src="/wp-content/uploads/2015/06/videos-etiquetas.png" alt="Videos WWDC 2015 con etiquetas" width="1017" height="667" class="size-full wp-image-2634" srcset="/wp-content/uploads/2015/06/videos-etiquetas.png 1017w, /wp-content/uploads/2015/06/videos-etiquetas-300x196.png 300w, /wp-content/uploads/2015/06/videos-etiquetas-920x603.png 920w" sizes="(max-width: 1017px) 100vw, 1017px" /></a><p class="wp-caption-text">Videos WWDC 2015 con etiquetas</p></div>
+<p>Para distinguirlos he usado las etiquetas del Finder, que puedes cambiar y crear en preferencias del Finder. Me he creado tres nuevas: Ya vistos, en color verde, pendientes, en color naranja (que destaque) y en gris no me interesan. Marco todas en gris y a partir de ahí selecciono con mucho cuidado las que quiero ver. Es mejor marcar sólo cinco vídeos, verlos, y tener la sensación de <em>he cumplido esta etapa</em> y poder volver y añadir más vídeos luego <em>para subir nota</em>. Mucho mejor que marcar cincuenta vídeos y <em>cargarte con una obligación más</em> todo un año. Además de todas las otras cosas <em>imprescindibles</em> que ya <em>tienes</em> que hacer: leer todos los feeds RSS, leer completo tu <em>timeline</em> de Twitter, leer las noticias diarias, etc.</p>
+<p><strong>Pista: no lo hagas. Sobrecarga de información inútil == ruido.</strong></p>
+<div id="attachment_2636" style="width: 466px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2015/06/finder-prefs.png"><img src="/wp-content/uploads/2015/06/finder-prefs.png" alt="Preferencias del Finder para gestionar las etiquetas" width="456" height="656" class="size-full wp-image-2636" srcset="/wp-content/uploads/2015/06/finder-prefs.png 456w, /wp-content/uploads/2015/06/finder-prefs-208x300.png 208w" sizes="(max-width: 456px) 100vw, 456px" /></a><p class="wp-caption-text">Preferencias del Finder para gestionar las etiquetas</p></div>
+<h2>Ver los vídeos</h2>
+<p>En mi caso, si puedo, los veo en el iMac. Porque estos vídeos no basta con «verlos». A mi me gusta tener abierto Xcode y los ejemplos de código, y cuando veo algo que me llama la atención pauso el vídeo, tomo notas, pruebo código, etc. Sin hacer esto, a los dos minutos de terminar el vídeo no recuerdo nada. Si no intento repetir la demo que estoy viendo, no voy a aprender nada.</p>
+<p>Así que en mi caso, nada de verlos <em>a 2x</em> para marcarlos como vistos. <strong>A mi me interesa marcarlos como <em>aprovechados</em>, que es distinto</strong>. Lo otro es como visitar 10 ciudades en 7 días e ir <em>de Turista</em>. Yo prefiero ver una y <em>vivir</em> 10 días en ella.</p>
+<p>Para verlos, los añado a iTunes. Pero con cuidado. Si arrastras la carpeta de los vídeos a iTunes se van a copiar dentro de la biblioteca, duplicando el número de GB. Que puede ser que sea lo que quieres. O no. Siempre puedes borrarlos. En mi caso, los vídeos se quedan en su carpeta del Drobo y sólo <em>enlazo</em> el contenido. Para ello, en las preferencias de iTunes debemos desmarcar la opción <em>Avanzado > Copiar en iTunes Medio los archivos añadidos a la biblioteca</em> que copia por defecto los ficheros dentro de nuestra biblioteca. Ahora podemos arrastrar los ficheros y no se copiarán. Pero podremos sincronizarlos con nuestros dispositivos (en mi caso, mi iPad), para verlos sin conexión. Win!</p>
+<h2>Programar y tomar notas</h2>
+<p>No te quedes sólo con los vídeos. Crea tus proyectos de prueba, escribe código usando los Playgrounds de Xcode. Usa las betas de Xcode 7. Y si encuentras errores <a href="http://bugreport.apple.com/"><em>file a radar</em></a>. En mi caso, por cada vídeo que voy a ver, creo una tarea en Things, que es lo que uso para llevar un sistema más o menos GTD. En esta tarea anoto cosas que me llaman la atención, de forma que siempre puedo volver y buscar esta tarea para revisar las notas. Si las notas crecen mucho, o van a un Playground junto con código de ejemplo, o a un fichero de texto markdown que luego presento con <a href="http://www.decksetapp.com/">Deckset</a>.</p>
+<h2>End</h2>
+<p>Y esto es todo. Espero esta vez no sentirme culpable cuando compruebe que es Junio de 2016 de nuevo y no he visto más que tres vídeos. Pero una cosa es segura: tampoco voy a poder verlos en una semana. Hay muchas cosas que aprender, y una vida que vivir.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Aprende Android en la playa</title>
+		<link>/2014/10/29/aprende-android-en-la-playa/</link>
+		<pubDate>Wed, 29 Oct 2014 06:55:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+
+		<guid isPermaLink="false">/?p=2628</guid>
+		<description><![CDATA[Este Noviembre, en El Puerto de Santa María (Cádiz) hay convocado un curso para aprender a desarrollar Apps Android que pretendo impartir y pasarlo bien contigo. Toda la info está en la web: http://desarrollaapps.com/ Y tras la pausa, la nota de prensa. ¡Nos vemos! Curso intensivo de ANDROID para programadores en El Puerto de Santa [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Este Noviembre, en El Puerto de Santa María (Cádiz) hay convocado un curso para aprender a desarrollar Apps Android que pretendo impartir y pasarlo bien contigo.</p>
+<p>Toda la info está en la web: <a href="http://desarrollaapps.com/">http://desarrollaapps.com/</a></p>
+<p>Y tras la pausa, la nota de prensa. ¡Nos vemos!</p>
+<p><span id="more-2628"></span></p>
+<p>Curso intensivo de ANDROID para programadores en El Puerto de Santa María</p>
+<ul>
+<li>Aprende a programar en una semana (38 horas) en Android con el especialista Diego Freniche en el CEEI Bahía de Cádiz (El Puerto de Santa María)</li>
+<li>El curso intensivo tendrá un horario de lunes a viernes por las tardes (16:00 a 22:00) y sábado de 9 a 18:00</li>
+<li>El curso cuenta con la financiación del BBVA de Máster Blue e incluye además formación de Marketing para Apps y Preparación de proyectos para potenciales inversores</li>
+</ul>
+<p>El Puerto Santa María, Cádiz, 8 Octubre 2014. El CEEI y Comunicación Plus lanzan el curso intensivo de Android de 38 horas con el especialista Diego Freniche, que se celebrará del 10 al 15 de noviembre 2014 en horario de tarde en El Puerto de Santa María (www.desarrollaapps.com)</p>
+<p>El curso ofrecerá una formación integral y muy práctica para crear aplicaciones que puedan cubrir la creciente demanda del mercado en este sector empresarial. Según la Comunidad Europea, se necesitarán 4.8 millones de puestos de trabajo relacionados con estas tecnologías hasta el 2018.</p>
+<p>Las clases tendrán lugar en las instalaciones del CEEI Bahía de Cádiz en El Puerto de Santa María, con una duración de 33 horas de desarrollo Android y 3 horas de marketing móvil que permitirá conocer cuál es la mejor estrategia para posicionar las apps de los asistentes al curso. Asimismo se ofrecerán 2 horas de asesoramiento para presentar proyectos a potenciales inversores para la captación de socios o capital, y que permitirá a los asistentes completar una formación orientada a un desarrollo eficaz de negocios de aplicaciones móviles.</p>
+<p>El curso es uno de los módulos dentro del I Máster en Desarrollo de Aplicaciones Móviles, que ha completado ya la primera edición de iOS y Apps multiplataforma (HTML5) con excelentes valoraciones por parte de los asistentes. Los módulos se pueden realizar individualmente o completar el Máster con el resto de plataformas. Se abrirán nuevas convocatorias para 2015 de iOS y HTML5.</p>
+<h2>Financiación</h2>
+<p>Además del CEEI y la Cámara de Comercio de Cádiz, participan como colaboradores del Máster la entidad bancaria BBVA que pondrá a disposición de los alumnos excelentes ventajas financieras.</p>
+<p>Los asistentes podrán adquirir los conocimientos a través de su producto Master Blue, que permitirá contratar financiación con la posibilidad de no abonar ninguna cuota durante los dos primeros años y financiar hasta un plazo máximo de 8 años adicionales que les permita aprender y formarse para poder desarrollar su carrera profesional con los conocimientos adquiridos.</p>
+<h2>Profesorado</h2>
+<p>Todo el profesorado del Máster en Desarrollo de Aplicaciones Móviles está en activo desarrollando las materias que imparten:</p>
+<p>Diego Freniche: Especialista en iOS y Android (33 horas) Marian Burgos: Profesora de Marketing móvil (3 horas) Carmen Carpintero: Presenta tu proyecto a inversores (2 horas)</p>
+<p>HORAS: 38 horas semanales presenciales</p>
+<p>FECHAS: Del 10 al 15 de Noviembre 2014</p>
+<p>HORARIOS: De Lunes a Viernes (16:00 a 22:00) y sábado de 9 a 18:00</p>
+<p>DÓNDE: CEEI Bahía de Cádiz. Calle del Manantial, 13 (Las Salinas). 11500 El Puerto Santa María (A 5 minutos de estación de tren)</p>
+<p>PRECIO: 700 euros (incluye formación, coffee-breaks y almuerzo del sábado)</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Máster de Apps Móviles en Chiclana: experiencias en la radio</title>
+		<link>/2014/05/12/master-de-apps-moviles-en-chiclana-experiencias-en-la-radio/</link>
+		<pubDate>Mon, 12 May 2014 18:20:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[Chiclana]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2179</guid>
+		<description><![CDATA[Una pequeña actualización a la información del Máster de Comunicación Plus para aprender a desarrollar Apps en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta: tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur Conectados en RAI. Javier Suárez Ruiz, el profesor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg"><img src="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg" alt="Selfie Conectados en RAI" width="1168" height="876" class="aligncenter size-full wp-image-2180" srcset="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg 1168w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-300x225.jpg 300w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-1024x768.jpg 1024w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-535x401.jpg 535w" sizes="(max-width: 1168px) 100vw, 1168px" /></a></p>
+<p>Una pequeña actualización a la información del <a href="/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/">Máster de Comunicación Plus para aprender a desarrollar Apps</a> en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta:</p>
+<ul>
+<li>tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur <a href="https://www.facebook.com/pages/Conectados-en-RAI/1410704842504486?ref=stream&amp;hc_location=timeline">Conectados en RAI</a>.  </li>
+<li><a href="http://javiersuarezruiz.wordpress.com/2014/05/11/i-master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Javier Suárez Ruiz</a>, el profesor del Máster encargado de Windows Phone (genuflexión y respeto al crack) ha escrito en su blog (que, por cierto, para los que quieran aprender Windows Phone es el sitio a donde ir) una entrada sobre el Máster y su visión del mismo.</li>
+<li>he rectificado en el post que escribí sobre el Máster las horas totales del mismo. Son 240 h, ya que cada semana son 60 h de formación: 50 h de la plataforma de la semana (iOS, WP, Android) y 10 de otras cosas (prototipado, UX, etc.)</li>
+<li>el Máster empieza el próximo Domingo 18. Muchas ganas de irme a Chiclana y huir del pólen y las alergias del campo.</li>
+<li>durante el Máster, esperad fotos y recochineo desde la playa y piscina. He avisado.</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Aprende iOS, Android, HTML5 y Windows Phone en la playa</title>
+		<link>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/</link>
+		<comments>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/#comments</comments>
+		<pubDate>Mon, 28 Apr 2014 08:15:39 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2147</guid>
+		<description><![CDATA[TL;DR; Me voy a la playa a enseñar iOS y Android. Si no vienes, puedes sentir envidia. Es normal. El Máster Pues sí. Este es el panorama al que se enfrentan los alumnos del I Máster en Desarrollo de Aplicaciones Móviles en Andalucía de Comunicación Plus. Retirarse del mundanal ruido junto a las playas de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>TL;DR;</h2>
+<pre><code>Me voy a la playa a enseñar iOS y Android. Si no vienes, puedes sentir envidia. Es normal.
+</code></pre>
+<h2>El Máster</h2>
+<p>Pues sí. Este es el panorama al que se enfrentan los alumnos del <a href="http://comunicacionplus.com/es/master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">I Máster en Desarrollo de Aplicaciones Móviles en Andalucía de Comunicación Plus</a>. Retirarse del mundanal ruido junto a las playas de Chiclana, en Cádiz. En un apartahotel de 4 llaves. Y una vez allí, darle a la tecla 50 h por plataforma, en formato ultra-intensivo, empezando un Domingo y acabando un Sábado.</p>
+<p>Si echáis cuentas, 50 h seguidas de Domingo a Sábado queman a cualquiera. Por eso nos han prometido actividades “extraescolares” con las que recuperar cuerpo y mente en tiempo récord. Algo he oído de masajes, paseos en bici de montaña por la playa, clases de Pádel o salir al mar a hacer <a href="http://es.wikipedia.org/wiki/Surf_de_remo">Paddle Surf</a>. Y claro, además tenemos las piscinas y la playa de Chiclana. Mal no vamos a estar.</p>
+<p>Pero volviendo al contenido del Máster, me parece muy interesante que se traten cuatro plataformas distintas (luego se puede escoger la que te guste más, o de la que te ofrezca trabajo). Además de aprender mucho, puedes comparar y ver lo que tienen de mejor unas sobre otras. Por ejemplo, en Windows Phone tienen bindings (en iOS no tenemos Cocoa Bindings, sólo en OS X). O puedes ver que la forma de internacionalizar proyectos de Android probablemente sea la más limpia (en mi opinión). O por qué Eclipse necesita ya la jubilación (después de ver Visual Studio y Xcode). Y además, habrá unas horas dedicadas a Márketing Online o a pensar en la Experiencia de Usuario. Esto último lo dará el gran <a href="http://about.me/jorgegalindocruces">Jorge Galindo</a> de 47 Degrees con el que organicé en Febrero pasado <a href="/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/">el curso gratuito para parados y estudiantes de iOS</a>.</p>
+<p>Yo me voy a encargar de las partes de iOS y Android. Vamos, de las que se algo, porque de las otras dos flojito, flojito. Creo que 50 h dan para mucho y podremos ver de todo: herramientas, código, patrones de diseño, frameworks, … y apps. Muchas apps. Cosas aplicables directamente (o eso espero).</p>
+<p>Hay muchas cosas buenas en este Máster, pero el alejarte del trabajo para enfocarte en aprender, la intensidad de la formación (un poco <em>a la Big Nerd Ranch</em>, pero en Cádiz, que lo mejora todo) y el apoyo del Director del Máster, <a href="http://comunicacionplus.com/en/equipo/pablo-garcia-trespalacios/">Pablo Gª Trespalacios</a> (que sabe de lo que habla porque para eso ha sido alumno mío) me parecen lo mejor. Y los alumnos, claro, que no saben dónde se meten <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2>El vil metal</h2>
+<p>Como he leído por ahí <em>es muy caro</em>. Bueno, para empezar puedes buscarte el alojamiento y ahorrarte algo, o escoger semanas sueltas. Si vamos a lo más “caro”, son 5000 Eur., que es un dinero. Pero eso incluye:</p>
+<ul>
+<li>un mes alojado en un complejo de apartamentos con pensión completa</li>
+<li>todas las pausas de cafés</li>
+<li>las actividades extra académicas</li>
+<li>y 200 h, al menos, de formación. Si valoras en 1000 Eur todo lo anterior, cada hora de formación te sale a 20 Eur. </li>
+</ul>
+<p><strong>UPDATE 12 Mayo</strong> No son 200 h. Son 240 h, ya que cada semana tiene otras horas dedicadas a prototipado, UX, márketing&#8230; sólo había incluido mis 50 h e ignorado al resto <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<ul>
+<li>y hay una financiación muy interesante (los dos primeros años no pagas nada).</li>
+</ul>
+<p>Si te interesa esto, tienes toda la información en la web de <a href="http://comunicacionplus.com/es/master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Comunicación Plus</a>.</p>
+<p>Yo ya estoy buscando las chanclas de la playa para echar en la mochila junto con el portátil. Lo dicho: puedes sentir envidia <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Curso gratuito iOS en Cádiz AKA ayudando a la comunidad</title>
+		<link>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/</link>
+		<comments>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/#comments</comments>
+		<pubDate>Thu, 16 Jan 2014 19:39:14 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2103</guid>
+		<description><![CDATA[Ser awesómico es la marca de la casa de David Bonilla. Montar movidas guapas la de Jorge Galindo. La mía, probablemente, es ponerse palote con cualquier trozo de código. El caso es que, por culpa de David y su #weareatwar se están haciendo cosas y hay gente predispuesta a hacer cosas que antes no se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ser <em>awesómico</em> es la marca de la casa de <a href="http://www.bonillaware.com/">David Bonilla</a>. Montar <em>movidas guapas</em> la de <a href="http://blog.jorgegalindo.me/">Jorge Galindo</a>. La mía, probablemente, es <em>ponerse palote</em> con cualquier trozo de código.</p>
+<p>El caso es que, por culpa de David y su <a href="http://www.bonillaware.com/weareatwar">#weareatwar</a> se están haciendo cosas y hay gente predispuesta a hacer cosas que antes no se nos hubieran ocurrido. Está dinamizando a la comunidad TI española que quiere escuchar. Esas son las razones que han llevado a Jorge a dejarse liar (aunque para liar a Jorge tampoco es que tengas que esforzarte mucho) y pegarse el curro de cargar con todas las tareas necesarias para que yo pueda llegar a Cádiz e impartir este curso. <a href="http://blog.jorgegalindo.me/post/73436654982/curso-gratuito-de-desarrollo-de-apps-en-ios-para">Lo explica muy bien en su blog</a>.</p>
+<p>Yo quería contar aquí el porqué de esta iniciativa. Cómo es que un camarada mercenario como yo deje el vil metal de lado y decida pasar un fin de semana en Cádiz hablando de desarrollo iOS.</p>
+<p>La primera razón es que tampoco es tan malo como parece. Cuando tu trabajo te gusta tanto como a mi, estar hablando de desarrollo y programando es casi lo mismo que haces para divertirte. Así que tampoco es tan dura la cosa. Cierto es que a mucha gente la perspectiva de impartir 20h de curso entre Viernes, Sábado y Domingo frente a un grupo de 15 personas le aterraría. Bueno, a mi me aterra la contabilidad. Todos tenemos limitaciones (yo, muchas).</p>
+<p>Pero esto es algo que me lleva dando vueltas en la cabeza desde el año pasado. La idea de que somos pocos informáticos, de que es una carrera / estudios que se cursan poco. De que los que estamos cada vez somos más viejos. Que hay pocos chavales. Y chavalas, ni te cuento. Y no es bueno. Pensando en la ley de Oferta y Demanda, cuantos menos seamos, más pasta y trabajo para los que quedemos. Pero la realidad es que la demanda crece muy muy por encima de la oferta, y esto va a seguir así en el futuro. No sólo son los móviles. Son los wearables. Son los edificios conectados. El Internet de las cosas. Los coches. Todo. Todo necesita un ordenador conectado y Apps para eso. Las TVs. Las nuevas consolas. Y no hay manos para todo este trabajo.</p>
+<p>Y cuando nos vienen los agobios uno se dedica a vampirizar la comunidad. Copiamos código de Stack Overflow. Usamos librerías de Github. Preguntamos en nuestras reuniones (como la NSCoder Night de Sevilla). Nos pasamos trabajo unos a otros. Escuchamos podcasts. Nos seguimos en Twitter. Nos vemos en las conferencias. La comunidad nos motiva y nos enseña. La necesitamos para ser mejores programadores.</p>
+<p>Esta es la segunda razón por la que he querido poner este granito de arena: ampliar la pequeña comunidad iOS / Cocoa en Andalucía. Y, de paso, ayudar en lo que pueda a una de las zonas de España con más paro, en lo poco que pueda. Ojo, que no soy Teresa de Calcuta. Pero muchas veces no hacen falta grandes gentos: con ser un poco mejor cada día y <a href="http://www.shorinjikempo.or.jp/wsko/kaiso/23.html">dar la mitad para tí y la mitad para los demás</a>, basta.</p>
+<p>Así que ya sabes. Si estás parado y sabes programar, o eres estudiante (que, por definición, está parados a no ser que seas tonto como yo y trabajes mientras estudias, forma perfecta de no acabar la carrera) intentaremos meterte en una de las 15 plazas del curso de desarrollo iOS que vamos a impartir en Cádiz. <a href="http://www.meetup.com/Curso-gratuito-de-desarrollo-de-apps-en-iPhone-e-iPad/">Todos los detalles aquí</a>.</p>
+<p>Espero dar un curso <em>awesómico</em>, que sea una <em>movida tan guapa</em> que todos nos pongamos <em>palotes</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Voy a aprender Git</title>
+		<link>/2013/04/02/voy-a-aprender-git/</link>
+		<comments>/2013/04/02/voy-a-aprender-git/#comments</comments>
+		<pubDate>Tue, 02 Apr 2013 07:49:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[aprender]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[Mercurial]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1905</guid>
+		<description><![CDATA[Git. Ese sistema de control de versiones para superdotados. Es un hijo de Linus (el creador de Linux). Por ello, la sencillez no es una de sus características. Si alguna vez has configurado y compilado un kernel de Linux, sabrás que a este señor no le gusta ningún programa sin al menos cincuenta opciones en [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://git-scm.com/">Git</a>. Ese sistema de control de versiones para superdotados. Es un <em>hijo de <a href="http://en.wikipedia.org/wiki/Linus_Torvalds">Linus</a></em> (el creador de Linux). Por ello, la <strong>sencillez</strong> no es una de sus características. Si alguna vez has configurado y compilado un kernel de Linux, sabrás que a este señor no le gusta ningún programa sin al menos cincuenta opciones en la línea de comandos: veinticinco empezando por <code>-</code>y otras veinticinco por <code>--</code>. Y diez más que no están documentadas. Para usar Git se asume que ya tienes de antemano una serie de habilidades (manejo de la Terminal, uso de ssh, resistencia innata al desaliento ante una documentación fea como un demonio, coeficiente intelectual de 300, &#8230;)</p>
+<p>Así que uso habitualmente <a href="http://mercurial.selenic.com/">Mercurial</a> (siempre que puedo, antes que Git) por varias razones:</p>
+<ul>
+<li>me resultó muy sencillo aprender a usar Mercurial gracias al <a href="http://hginit.com/">excelente tutorial de Joel Spolsky</a> </li>
+<li>el 80% de las cosas que haces habitualmente es muy sencillo de hacer con HG</li>
+<li>no necesitas configurar nada: te lo bajas, lo instalas, vas a una carpeta, escribes <code>hg init</code> y listo</li>
+<li>tanto BitBucket como SourceTree lo soportan. Luego es perfecto para mi.</li>
+<li>si funciona, no lo toques</li>
+</ul>
+<p><em>Pero claro, no se Git. Y me siento estúpido.</em></p>
+<p>Hay varias cosas que considero «la maratón mental del informático». Lo que distingue a los buenos de los que tienen que seguir esforzándose. Cosas difíciles, que te obligan a aprender y a exprimirte el cerebro. Por supuesto, no he hecho ninguna de ellas, autocolocándome en uno de los dos anteriores grupos. Estos retos son:</p>
+<ul>
+<li>dominar el uso de expresiones regulares (sin mirar en StackOverflow)</li>
+<li>escribir una pequeña aplicación o demo completamente en ensamblador</li>
+<li>hacer una aplicación web en un lenguaje funcional, como Clojure</li>
+<li>hacer un juego usando OpenGL</li>
+<li>entender qué demonios hace git con las ramas y git flow</li>
+</ul>
+<p>Pues bien, una de ellas voy a tacharla de la lista, pero ya. El uso de Git está muy extendido, y soluciones que uso habitualmente como Cocoa Pods lo utilizan de forma extensa. Tengo que aprender a usarlo, quiera o no. Además, en varios proyectos se necesita Git y aunque con SourceTree puedo ir tirando, quiero comprender qué se cuece tras la interfaz bonita y ser capaz de manejar este DCVS yo solito.</p>
+<p>La opción de leer un libro me aterrorizaba: demasiado esfuerzo tras tanto esfuerzo con otras cosas. Así que la mejor solución va a ser asistir al curso <a href="http://www.cursodegit.com/">Entendiendo Git</a> que <a href="https://twitter.com/aalbagarcia">Alfonso Alba</a> imparte en Las Rozas. Creo que aún estás a tiempo de conseguir un descuento por compra anticipada. Voy con muchas esperanzas puestas en el curso, para tener una base que me permita manejar en el día a día este DCVS sin problemas, y explorar por mi cuenta. Vamos, que espero entrar chapurreando un par de palabras en Git y salir <em>hablando</em>, con acento y poco vocabulario, Git. Pero entendiéndolo al menos.</p>
+<p>Escribiré qué he aprendido en el curso cuando lo termine. Pero conociendo a Alfonso de las <a href="http://nscoder-mad.tumblr.com/">NSCoder Night de Madrid</a> creo que la duda no está en la calidad del curso, sino en si mi mente será capaz de pasar por la <em>maratón</em>. Espero que si.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/02/voy-a-aprender-git/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Fotos de la BCNDevCon</title>
+		<link>/2013/01/22/fotos-de-la-bcndevcon/</link>
+		<pubDate>Tue, 22 Jan 2013 08:46:59 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Formación]]></category>
+
+		<guid isPermaLink="false">/?p=1836</guid>
+		<description><![CDATA[Acabo de ver en Twitter que han subido un álbum con fotos de la BCNDevCon. Incluso salgo yo, para demostrar que estuve allí, hablando encima de la tarima :-D. Por cierto, hablaba sobre cómo integrar la API de PayPal para el iPhone, demostrando un pequeño ejemplo que he puesto en Bitbucket. De mis impresiones sobre [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Acabo de ver en Twitter que <a href="https://picasaweb.google.com/107600868179108627197">han subido un álbum con fotos de la BCNDevCon</a>. Incluso salgo yo, para demostrar que estuve allí, hablando encima de la tarima :-D. Por cierto, hablaba sobre cómo integrar la API de PayPal para el iPhone, demostrando un pequeño ejemplo que he puesto en <a href="https://bitbucket.org/dfreniche/caganets">Bitbucket</a>. De mis impresiones sobre la BCNDevCon ya hablé <a href="/2012/12/13/la-bcndevcon/">en un post anterior</a>.</p>
+<p><img alt="@dfreniche (yo mismo) en el escenario de la BCNDevCon" src="https://lh6.googleusercontent.com/-vdPPISqTeHc/UNGo_C6AoJI/AAAAAAAAAew/cFN0vUlaNq4/s912/_MG_2680.JPG" title="@dfreniche (yo mismo) en el escenario de la BCNDevCon" class="aligncenter" width="912" height="445" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Un día en «Teacher&#8217;s Hell»</title>
+		<link>/2012/11/09/un-dia-en-teachers-hell/</link>
+		<comments>/2012/11/09/un-dia-en-teachers-hell/#comments</comments>
+		<pubDate>Fri, 09 Nov 2012 10:44:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[Infraestructura]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[presentaciones]]></category>
+
+		<guid isPermaLink="false">/?p=1794</guid>
+		<description><![CDATA[He impartido muchos cursos a lo largo de mi vida profesional. Muchos. Muchas horas de formación. Es algo que me gusta mucho y me llena. Puedo explotar mi faceta de abuelo cebolleta y contar todas las batallitas que me apetezcan a un público cautivo que no puede huir a ninguna otra parte. Y encima me [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div style="width: 362px" class="wp-caption aligncenter"><img title="Credit: http://www.flickr.com/photos/barkbud/4257136773/" src="http://farm5.staticflickr.com/4044/4257136773_5634a21fa2.jpg" alt="Credit: http://www.flickr.com/photos/barkbud/4257136773/" width="352" height="500" /><p class="wp-caption-text">Credit: http://www.flickr.com/photos/barkbud/4257136773/</p></div>
+<p style="text-align: justify;">He impartido muchos cursos a lo largo de mi vida profesional. Muchos. Muchas horas de formación. Es algo que me gusta mucho y me llena. Puedo explotar mi faceta de abuelo cebolleta y contar todas las batallitas que me apetezcan a un público cautivo que no puede huir a ninguna otra parte. Y encima me pagan por ello. Así qué todos contentos (menos los alumnos que tienen que aguantarme, claro)</p>
+<p style="text-align: justify;">Debido a esta experiencia acumulada, suelo preparar con mucho esmero cada curso. Reviso mi bolsa para comprobar que llevo el cargador del portátil, los cables de conexión al proyector, si llevo algún bolígrafo o libreta, el mando a distancia para pasearme mientras pongo alguna presentación en Keynote. Y voy preparado para todo. Bueno, para casi todo. Hace poco viví un completo<em> Teacher&#8217;s Hell</em>, una de las peores situaciones que he vivido. Hasta perder el avión de ida en el viaje a Panamá para el curso de Android que impartí en Julio me parece menos grave. Por la acumulación de problemas.</p>
+<p style="text-align: justify;">Llegué al aula con tiempo. Al menos, 40 minutos antes de empezar el curso. Empezamos a las 16:00 y acabamos a las 21:00, y son las 15:20. Así tengo tiempo de encender el equipo, probar el proyector, conectarme a la red, beber un café&#8230; Entro en el aula y todos los alumnos ya están allí, sentados. El proyector encendido. En tono de sorna digo «bueno, parece que hay ganas de empezar, ¿no?. ¡Eso es bueno, venís con ganas!». Mirada sería del responsable. «Diego, empezábamos a las 15:00».</p>
+<p style="text-align: justify;">De pronto, una sensación de caer en el vacío. El mundo se me viene encima. Una vez me presenté para un curso en la dirección equivocada y tuve que recorrer media Córdoba a la carrera. Pero llegar tarde, nunca, si puedo evitarlo. En mi calendario, apuntado el inicio a las 16:00. En la presentación del curso, igual. En mi mente, las 16:00. Reviso el correo, y efectivamente no aparece ninguna hora. Hablamos de «por la tarde». Probablemente asumí mal el horario, pero me extraña.</p>
+<p style="text-align: justify;">Me rehago. Saco el ordenador con una sonrisa nerviosa mientras me disculpo, lo enciendo y lo conecto al proyector. No se ve. Miro el cable de conexión al proyector: hay un bifurcador extraño, uno de esos cables en Y que permiten ver el proyector y la imagen en un monitor a la vez. Desconecto y conecto el proyector directamente al portátil. Se ve en la pantalla. Uf.</p>
+<p style="text-align: justify;">Tengo que dejarles los ejemplos a los alumnos, y además ellos deben conectarse a una B.D. MySQL que llevo en mi MacBook Pro. Es un curso de Hibernate. No MySQL == No curso. Pregunto por la WiFi. No hay WiFi. Bueno, sin problema, pienso: «me conecto con un cable Ethernet y listo». No, no tan rápido, la dirección de sistemas no te deja conectarte a la red, y además no vas a obtener IP con tu portátil. Bien. El entorno de desarrollo que traigo montado y la base de datos MySQL al infierno.</p>
+<p style="text-align: justify;">Bueno, aunque todo se tuerce, puedo montarlo todo durante el curso, mientras hablo de la teoría con mi keynote del Mac. El ordenador del profesor es un Dell con Windows XP. A fin de cuentas, me han dejado usuario y contraseña. Los introduzco y me sale el típico «<em>tu contraseña ha caducado, y como veo que no tienes mucha prisa ahora mismo voy a molestarte un poco más obligándote a cambiarla</em>«. Evito la tentación creciente de gritar y golpear algo. Me concentro e introduzco una contraseña segura, para evitar chorradas con el criterio de generación de contraseñas: «la contraseña es corta, debe tener mayúsculas, minúsculas y el Emoji de un <a href="http://es.wikipedia.org/wiki/Caganer">caganet</a>«. El ordenador me dice que no puedo cambiar la contraseña, que no tengo permisos para ello, pero que o la cambio o no puedo iniciar sesión. Llamo a soporte. Comento el problema, y lo solucionan de forma remota. Inicio sesión y se lanza un logon script de esos que tardan en una red corporativa medio año mientras un intérprete de comandos realiza tareas misteriosas. Tras lo que me parece una eternidad, llego al escritorio de XP.</p>
+<p style="text-align: justify;">Bueno, vamos a descargarlo todo: MySQL, etc. La velocidad de descarga se mide en Kbs, no en Mbs. Y son pocos. Estoy en el CiberDespacio. La descarga comienza a alargarse ante mis ojos, cansados y tristes. Los nervios aumentan. Se me acaba la teoría. No tengo BD. Tengo he pasar a los alumnos los ejemplos, esos que ya están en la carpeta pública de mi Mac, esa a la que no pueden acceder. Empiezo a pensar en preguntar por un cable serie <a href="http://es.wikipedia.org/wiki/Null-módem">Null-Módem</a> para pasar las cosas, pero me muerdo la lengua. No hay red, y me acuerdo de la cita de Tanenbaum: «Never underestimate the bandwidth of a station wagon full of tapes hurtling down the highway». Tiro de USB.</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-1796" title="Disco Kaput" src="/wp-content/uploads/2012/11/disco-kaput.png" alt="Disco Kaput" width="534" height="306" srcset="/wp-content/uploads/2012/11/disco-kaput.png 534w, /wp-content/uploads/2012/11/disco-kaput-300x171.png 300w" sizes="(max-width: 534px) 100vw, 534px" /></p>
+<p style="text-align: justify;">Vamos con el pendrive. Saco mi flamante pendrive de 4GB. «Lo copio todo aquí, se lo paso a un alumno, lo pone en la red y listo». Parece que hay un servidor de ficheros, así que probablemente lo use. Introduzco el pendrive en el Mac. Aparece un error en pantalla. Algo de que copie los datos, que está mal el pendrive. No me lo creo. Parece que lo voy a tener que formatear. Ya formalmente cabreado, abro la Utilidad de Discos. Voy a darle formato FAT, que luego hay que usarlo en un XP y no quiero más problemas a estas alturas. No puedo. Me dice que el sector cero está defectuoso y que tire el pendrive. A estas alturas, empiezo a mirar alrededor buscando la cámara oculta. He llegado a la hora que no era, estoy sin WiFi, sin posibilidad de conectarme a la red, sin pendrive&#8230; Pregunto a los alumnos. Ninguno tiene uno encima. Quiero morir.</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2012/11/utilidad-discos.png"><img class="aligncenter size-medium wp-image-1797" title="Utilidad de discos no puede formatear el disco" src="/wp-content/uploads/2012/11/utilidad-discos-300x229.png" alt="Utilidad de discos no puede formatear el disco" width="300" height="229" srcset="/wp-content/uploads/2012/11/utilidad-discos-300x229.png 300w, /wp-content/uploads/2012/11/utilidad-discos-1024x784.png 1024w, /wp-content/uploads/2012/11/utilidad-discos.png 1179w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p style="text-align: justify;">Hablo con el responsable del curso, que amablemente me ofrece uno. Lo uso para copiarlo todo en el pendrive y se lo paso a los alumnos. Mientras copian, mi mente procesa a toda velocidad. Vale, tienen los ejemplos, pueden ver la teoría en pantalla, pero me falta la B.D. Puedo instalarla en el ordenador del profesor, pero creo que lleva 20 Kb descargados o algo así. ¡Al menos podría <a href="http://www.youtube.com/watch?v=gsNaR6FRuO0">pitar como pitaban los módems antiguos</a>!.</p>
+<p style="text-align: justify;">De pronto, me viene la inspiración. Desde informática me han dicho que no puedo conectarme y que no obtendría una IP en mi equipo. Eso es lo que me han dicho. Pero no lo he comprobado. Busco el cable Ethernet conectado al ordenador del profesor y lo conecto a mi MacBook Pro. ¡<em>Voilà</em>!. Tengo acceso a la red local y a Internet. Todo cambia, al fin, para bien. Continuamos con el curso y se acaban los incidentes.</p>
+<p style="text-align: justify;">Cosas que he aprendido de esta experiencia:</p>
+<ul>
+<li>por bien que creas que llevas preparadas las cosas, piensa mal, hasta que te parezca que es de manera absurda. Todo puede torcerse, todo. Y varias veces.</li>
+<li>las presentaciones las debo llevar en dos pendrives. Si muere uno, tengo el otro.</li>
+<li>las presentaciones debería copiarlas en formato PDF. Si se muere mi MBP siempre puedo usar cualquier otro ordenador que muestre un PDF.</li>
+<li>siempre copiarlo todo en Dropbox. Aunque recientemente, en otro curso, me falló Dropbox al ir a bajar una presentación <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>antes de impartir una charla o un curso en un sitio nuevo, confirmar el equipamiento de que dispongo. Me ahorro sustos luego.</li>
+<li>confirmar las horas y fechas (algo que siempre hago, pero en este caso se ve que no&#8230;)</li>
+<li>no cabrearse es mejor. Solucionas los problemas y te sientes bien por duplicado: porque has solventado el marrón y porque te has controlado a ti mismo.</li>
+</ul>
+<p>Por cierto, recuperamos todo el tiempo perdido, de forma que los alumnos no perdieron nada. Eso nunca: lo primero son mis alumnos.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/09/un-dia-en-teachers-hell/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Aprendiendo a aprender Informática (y JavaScript)</title>
+		<link>/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/</link>
+		<comments>/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/#comments</comments>
+		<pubDate>Tue, 16 Aug 2011 11:38:53 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Enyo]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[libros]]></category>
+		<category><![CDATA[WebOS]]></category>
+
+		<guid isPermaLink="false">/?p=1585</guid>
+		<description><![CDATA[Esta es la vida del informático. Da igual los años que tengas: la sensación es que nunca tienes ni idea de nada. Avanza tan rápida la industria que, por mucho que hagas, siempre te quedas atrás. Y hay que tomar decisiones. Los tiempos aquellos de poder ser un «informático renacentista» que sabía de hardware, de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Esta es la vida del informático. Da igual los años que tengas: la sensación es que nunca tienes ni idea de nada. Avanza tan rápida la industria que, por mucho que hagas, siempre te quedas atrás. Y hay que tomar decisiones. Los tiempos aquellos de poder ser un «informático renacentista» que sabía de hardware, de software, de todo un poco, pasaron. Yo hace tiempo que desistí de aprender ciertas cosas (como BB.DD.) y me centré en otras. Si no enfocas sobre un tema, no hay manera.</p>
+<p>Por eso te recomiendo que sigas mi «método» sobre cómo aprender, en general, mientras avanzas en tu carrera profesional como informático:</p>
+<ul>
+<li>asúmelo: siempre va a haber muchas más cosas que NO sepas, que las que sabes. Aunque ahora aprendas Ruby, mañana necesitarás Java. O JavaScript. O C++, Clojure, o lo que sea. Nunca lo vas a saber todo. Y no pasa nada.</li>
+<li>hablar estas cosas y admitir las propias carencias frente a nuestros compañeros nos quita un gran peso. Porque la mente es mala, y constantemente te dice «<em>mira que no saber CSS, seguro que todos estos ya hacen transformaciones CSS3 mientras duermen, y tú aquí, sin tener ni zorra idea de nada, mira que eres torpe&#8230;</em>«. Nos machacamos sin piedad, y resulta que cuando preguntas no todo el mundo está tan avanzado. Es más, si tienes esta inquietud, probablemente tú ya sepas algo: «<a href="http://es.wikipedia.org/wiki/Sócrates">sólo se que no se nada</a>«. Uno de los motivos por los que voy a las <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">NSCoder Night</a> es por hacer esta «terapia de grupo».</li>
+<li>no te dejes llevar por el agobio, o el estrés. Sí, vale, que tienes que entregar el proyecto para ayer: entonces usa Google (o mejor, <a href="http://stackoverflow.com/">stackoverflow</a>). Pero márcate unos objetivos cada año, y aprende o profundiza en algún aspecto que te sirva y te interese: un lenguaje de programación, dominar un IDE, ver qué sistema de control de versiones te gusta más, patrones de diseño, UML, etc. Si tienes esos objetivos marcados y los cumples, cada año sabrás más que el anterior. No son importantes los años de experiencia, sino lo que experimentas durante esos años.</li>
+<li><a href="/2010/06/10/leyendo-para-emprender/">lee libros</a>. Internet es fantástico para búsquedas de dudas, y hay muchos tutoriales. Pero muchos de ellos no se pueden comparar al material que encuentras en un libro: bien pensado, estructurado, con ejemplos. Además, leer un libro supone un esfuerzo y desarrollar una concentración que nos viene bien como programadores: cada vez somos menos capaces de concentrarnos durante un par de horas, por culpa de las interrupciones. Leer te obliga a trabajar esos conocimientos, y así a aprender.</li>
+<li>una vez leas libros, busca vídeos del tema. En iTunes (y en Internet en general) hay vídeos de casi todo. Es bastante ameno ver cómo se hace algo, en lugar de tener que leerlo. Pero hazlo siempre después de leer el libro.</li>
+</ul>
+<div style="text-align: justify;">Estos son los pasos que suelo dar, y me han servido tanto para las <a href="/2010/06/25/scwcd-aprobado/">certificaciones Java</a>, como para <a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/">aprender Cocoa Touch</a>. Y este verano me ha surgido la oportunidad de poder empezar a desarrollar Apps para otra plataforma móvil, WebOS y el HP TouchPad. El problema es que (ver punto primero) no tengo ni idea de JavaScript. Solución: tirar de Amazon.co.uk (que a partir de una cantidad no cobra gastos de envío) y pedirme estos dos libros sobre JavaScript:</div>
+<div>
+<div id="attachment_1589" style="width: 1034px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/JavaScriptBooks.jpg"><img class="size-large wp-image-1589" title="Libros JavaScript" src="/wp-content/uploads/2011/08/JavaScriptBooks-1024x764.jpg" alt="Libros JavaScript" width="1024" height="764" srcset="/wp-content/uploads/2011/08/JavaScriptBooks-1024x764.jpg 1024w, /wp-content/uploads/2011/08/JavaScriptBooks-300x224.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><p class="wp-caption-text">Libros JavaScript</p></div>
+</div>
+<div>Tienen el visto bueno de los Tuiteros expertos en JavaScript (<a href="http://twitter.com/#!/jablanco">José Blanco</a> y <a href="http://ramblings.luismedel.com/">Luis Medel</a>), así que deben ser la pera.</div>
+<div style="text-align: justify;">Con ellos voy a seguir explorando el Framework Enyo y WebOS, a la espera de que me llegue una unidad de pruebas HP TouchPad para depurar las Apps. Cuando llegue, pondré por aquí mis impresiones.</div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+		<item>
+		<title>Instalar el plugin de Mercurial en Eclipse</title>
+		<link>/2011/06/18/instalar-el-plugin-de-mercurial-en-eclipse/</link>
+		<comments>/2011/06/18/instalar-el-plugin-de-mercurial-en-eclipse/#comments</comments>
+		<pubDate>Sat, 18 Jun 2011 17:31:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[DCVS]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[Mercurial]]></category>
+
+		<guid isPermaLink="false">/?p=1512</guid>
+		<description><![CDATA[Los sistemas de control de versiones son adictivos. No puedes probarlos, porque luego no puedes vivir sin ellos. Aunque sea un pequeño ejemplo el que vas a programar, te sientes perdido sin tu repositorio y empiezas a pensar «¿y si se me ocurre cambiar esto o lo otro, y luego me arrepiento?». Ese tipo de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Los sistemas de control de versiones son adictivos. No puedes probarlos, porque luego no puedes vivir sin ellos. Aunque sea un pequeño ejemplo el que vas a programar, te sientes <em>perdido</em> sin tu repositorio y empiezas a pensar «¿y si se me ocurre cambiar esto o lo otro, y luego me arrepiento?». Ese tipo de «problemas» se solucionan casi en el acto con un VCS. Y si es distribuido (Git o Mercurial), mejor que mejor.</p>
+<p style="text-align: justify;">Antes de seguir, quiero dejar claro que no entro en las guerras religiosas entre los DCVS Git o Mercurial. Yo uso <a href="http://mercurial.selenic.com/">Mercurial</a> porque <a href="http://hginit.com/">Joel Spolsky</a> lo explica de forma increíblemente sencilla. Aunque ahora que Git viene integrado con XCode4, probablemente es una buena alternativa&#8230; bueno, no :-). En fin, usa el que te de la gana, pero usa uno.</p>
+<p style="text-align: justify;">Para <em>casi</em> todos mis proyectos uso Mercurial. No lo uso para los ejemplos que escribo para mis cursos. Y estaba pensando «¿porqué no usarlo?». Por pereza mental, y por hacer siempre las cosas de la misma forma. Mi padre dice que «si un burro tira de una noria para un lado y le das la vuelta, ya no sabe tirar de ella». Y es que nos acostumbramos a hacer siempre lo mismo, de la misma forma, y nos estancamos. De vez en cuando hay que revisarlo todo con una mirada fresca y en lugar de pensar «¿hay una manera de optimizar esto que estoy haciendo?» debemos plantearnos «¿en <em>serio</em> tengo que seguir haciendo esto?».</p>
+<p style="text-align: justify;">El caso es que un sistema de control de versiones es casi perfecto para dar clases. Puedes tener una primera versión, sencilla, y luego ir promoviendo a las distintas versiones más avanzadas, que pueden ser changesets o bien nuevas ramas. Los cambios que hagas durante la clase para demostrar algo siempre puedes revertirlos sin problemas. Para eso está el DCVS. Y distribuir el código es más sencillo: compartes tu repo, y los alumnos se clonan los repositorios y punto. No hay que andar con historias de copiar los Workspaces de Eclipse y que luego falle (los WS de Eclipse dependen del sistema en el que los uses, hay que cambiar luego los Build Paths, etc.). Como se puede ver, todo son ventajas. La pregunta es porqué no lo he usado hasta ahora&#8230;</p>
+<h1>Instalar Mercurial</h1>
+<p style="text-align: justify;">Evidentemente, antes de nada lo primero es instalar Mercurial, ya sea para Linux, Windows o Mac, o para donde vayas a usar el DCVS. Si no, el plugin de Eclipse no podrá usar Mercurial porque no lo encontrará en tu sistema. Te lo bajas de su <a href="http://mercurial.selenic.com/">sitio web oficial</a>.</p>
+<h1>Instalando hgEclipse</h1>
+<p style="text-align: justify;"><a href="http://www.javaforge.com/project/HGE">HgEclipse</a> es un plugin para Eclipse que añade soporte Mercurial a tus proyectos. Una vez instalado, en el menú contextual del proyecto encontrarás en la opción Team &gt; Share la parte de Mercurial. Para instalarlo, iremos a Help &gt; Install New Software e introduciremos el repositorio http://cbes.javaforge.com/update. En mi caso (instalándolo en Mac) no necesito los binarios de Mercurial para Windows, así que no los marco para instalar.</p>
+<p style="text-align: justify;">
+<div id="attachment_1517" style="width: 825px" class="wp-caption aligncenter"><img class="size-full wp-image-1517" title="Instalando hgEclipse: repositorios" src="/wp-content/uploads/2011/06/install-hgeclipse.png" alt="Instalando hgEclipse: repositorios" width="815" height="715" srcset="/wp-content/uploads/2011/06/install-hgeclipse.png 815w, /wp-content/uploads/2011/06/install-hgeclipse-300x263.png 300w" sizes="(max-width: 815px) 100vw, 815px" /><p class="wp-caption-text">Instalando hgEclipse: repositorios</p></div>
+<p style="text-align: justify;">Cuando pulsemos Next, pasaremos a descargar e instalar el plugin. Al final no hay más remedio que reiniciar Eclipse. Así que hazlo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div id="attachment_1518" style="width: 566px" class="wp-caption aligncenter"><img class="size-full wp-image-1518" title="hgEclipse instalándose" src="/wp-content/uploads/2011/06/installing-hgeclipse.png" alt="hgEclipse instalándose" width="556" height="378" srcset="/wp-content/uploads/2011/06/installing-hgeclipse.png 556w, /wp-content/uploads/2011/06/installing-hgeclipse-300x203.png 300w" sizes="(max-width: 556px) 100vw, 556px" /><p class="wp-caption-text">hgEclipse instalándose</p></div>
+<h1>Usando HgEclipse</h1>
+<p style="text-align: justify;">Una vez con todo instalado, lo primero es crear el repositorio Mercurial en nuestro proyecto. Eso lo prepara todo para poder gestionar las versiones de tu codigo fuente. Equivale a un «hg init». Para ello, pulsaremos con el botón derecho del ratón en el nombre de nuestro proyecto y seleccionaremos Team &gt; Share Project. Si todo está correctamente instalado nos aparecerá una ventana como la siguiente:</p>
+<div id="attachment_1525" style="width: 615px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/ShareProject.png"><img class="size-full wp-image-1525" title="Share &gt; Project" src="/wp-content/uploads/2011/06/ShareProject.png" alt="Share &gt; Project" width="605" height="491" srcset="/wp-content/uploads/2011/06/ShareProject.png 605w, /wp-content/uploads/2011/06/ShareProject-300x243.png 300w" sizes="(max-width: 605px) 100vw, 605px" /></a><p class="wp-caption-text">Share &gt; Project</p></div>
+<p style="text-align: justify;">Como queremos crear un repo Mercurial, basta con pulsar siguiente. Nos mostrará dónde va a crear el repositorio (que es una carpeta llamada .hg, dentro de nuestra carpeta de proyecto). Aparecerán unos nuevos iconos en las carpetas y ficheros de nuestro proyecto y la palabra [new] indicando que el repo es nuevo, pero aún no se ha realizado el primer commit.</p>
+<div id="attachment_1526" style="width: 245px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/RepoCreado.png"><img class="size-full wp-image-1526" title="Repositorio tras el init" src="/wp-content/uploads/2011/06/RepoCreado.png" alt="Repositorio tras el init" width="235" height="86" /></a><p class="wp-caption-text">Repositorio tras el init</p></div>
+<p style="text-align: justify;">¡Vamos a añadir ficheros a nuestro repositorio! Botón derecho en el proyecto &gt; Share Project, pero ahora aparece un menú con un montón de opciones. Seleccionamos Add. Esto añade los ficheros del proyecto al repositorio. Yo suelo añadir únicamente el código fuente, pero no los ajustes del proyecto, ni las carpetas propias de Eclipse, como muestro a continuación:</p>
+<div id="attachment_1528" style="width: 489px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/Add.png"><img class="size-full wp-image-1528" title="Añadamos ficheros al repo!" src="/wp-content/uploads/2011/06/Add.png" alt="Añadamos ficheros al repo!" width="479" height="519" srcset="/wp-content/uploads/2011/06/Add.png 479w, /wp-content/uploads/2011/06/Add-276x300.png 276w" sizes="(max-width: 479px) 100vw, 479px" /></a><p class="wp-caption-text">Añadamos ficheros al repo!</p></div>
+<p style="text-align: justify;">Ahora que hemos añadido, los iconos de los ficheros fuente cambian y tienen un «+» azul al lado. Están ya controlados por el repositorio, pero no hemos subido este cambio, que en este caso es subir la primera versión. Para ello, Team &gt; Share Project &gt; Commit y añadimos un mensaje de commit. HgEclipse nos muestra los ficheros que va a subir, y los que no tiene «controlados», por si queremos añadirlos.</p>
+<div id="attachment_1529" style="width: 640px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/Commit.png"><img class="size-full wp-image-1529" title="Commit" src="/wp-content/uploads/2011/06/Commit.png" alt="Commit" width="630" height="686" srcset="/wp-content/uploads/2011/06/Commit.png 630w, /wp-content/uploads/2011/06/Commit-275x300.png 275w" sizes="(max-width: 630px) 100vw, 630px" /></a><p class="wp-caption-text">Commit</p></div>
+<p style="text-align: justify;">Al pulsar OK, ¡listo!. Ya tenemos control de versiones funcionando. Ahora, si modificamos un fichero se nos mostrará como cambiado y podremos hacer un commit con esos cambios. O podremos compartir el código fuente del proyecto por la red con la opción Serve. Cualquiera en la red podrá hacer un Pull del repo y bajarse este código fuente. Mucho más rápido que compartir el proyecto en una carpeta SMB y encima evitas problemas con las configuraciones de Eclipse (yo lo uso en Mac y mis alumnos, normalmente, en Windows)</p>
+<p style="text-align: justify;">Las opciones del menú de Share Project son muy amplias. Os animo a irlas probando y a aprender Mercurial entre todos. El que tenga un truco especial de cómo usa Mercurial, ya sabe, que use los comentarios.</p>
+<pre>hg commit -m "post acabado"</pre>
+<pre>hg tag -m "v1.0"</pre>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/18/instalar-el-plugin-de-mercurial-en-eclipse/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Qué necesitas instalar para programar en C en Windows</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/</link>
+		<comments>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/#comments</comments>
+		<pubDate>Wed, 05 Jan 2011 11:21:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[C]]></category>
+		<category><![CDATA[Formación]]></category>
+
+		<guid isPermaLink="false">/?p=1331</guid>
+		<description><![CDATA[Tengo que impartir un curso de introducción a la programación, utilizando el lenguaje C, dentro de unos días. ¡Bien!. Ya hacía años que no podía disfrutar con un curso así, en el que puedes enseñar los fundamentos a un grupo de personas, y ves cómo aprenden desde el principio y cómo van evolucionando. Encima, para [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Tengo que impartir un curso de introducción a la programación, utilizando el lenguaje C, dentro de unos días. ¡Bien!. Ya hacía años que no podía disfrutar con un curso así, en el que puedes enseñar los fundamentos a un grupo de personas, y ves cómo aprenden desde el principio y cómo van evolucionando. Encima, para mayor regocijo del docente, el lenguaje elegido es C. Siempre he considerado C como mi lenguaje totem, el <em>hogar</em> a la que volver, con el que me siento más a gusto. En los 90 programé bastante en C y C++. Pero a finales de la década, llegaron primero Visual Basic y luego Java, y no volví a programar en C. Hasta que el año pasado empecé a aprender Cocoa y Objective C para hacer Apps en Apple iOS. Y me ilusioné al descubrir que Objective C es un superconjunto estricto de C, es decir, que tiene todo lo que tiene C, y más cosas.</p>
+<p style="text-align: justify;">Así que el curso pinta bien. Si lo pudiera impartir en Linux, ya sería la repera (porque en Mac ni me lo planteo: <a href="/2010/11/06/los-dos-tipos-de-negocio-de-desarrollo-de-software/"><span style="color: #000000;">las empresas cárnicas aún no lo usan</span></a>). Pero todo no puede ser perfecto. El cliente quiere Windows. Bueno, sin problemas, yo no soy anti-nada. Windows 7, <a href="/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/"><span style="color: #000000;">como ya he comentado antes</span></a>, me parece un buen S.O. No es mi elección para el día a día, porque me siento más cómodo en UNIX (Mac en este caso), pero la última versión es una buena elección para sus usuarios. El problema entonces era encontrar un compilador y entorno integrado que fuese cómodo para programar y que ya conociese. Y si fuera Software Libre, perfecto.</p>
+<p style="text-align: justify;">Con estos requisitos, <a href="http://www.microsoft.com/express/"><span style="color: #000000;">Visual Studio</span></a> queda fuera. Cierto, llevas el IDE y el compilador integrados de una vez, pero no lo he usado nunca. Y aunque ahora es gratis la versión exprés (o podría usar una de prueba para el curso) no me apetecía pelearme con otro IDE. Netbeans cumple casi todo, pero no lleva integrado el compilador. Ni Eclipse, pero ya que conozco razonablemente Eclipse tras todo el tiempo que le he dedicado <a href="/formacion/"><span style="color: #000000;">impartiendo cursos de Java</span></a> y preparando <a href="/category/informatica/programacion/java/scjp/"><span style="color: #000000;">certificaciones</span></a>, me parecía la mejor opción. Así que vamos con la instalación de Eclipse para programar en C en Windows.</p>
+<h2>Instalar el compilador de C</h2>
+<p style="text-align: justify;">Lo primero que hay que tener claro es que Eclipse sólo es un Entorno Integrado de Desarrollo. Un IDE. Un editor potente, un programa para organizar tus proyectos de software y no pelearte con ficheros sueltos en una carpeta, un sitio donde ver los errores de compilación y leer la ayuda. Un aglutinador de herramientas. Pero no es un compilador. No lo incluye. E igual que cuando preparas un Elcipse para programar en Java hay que instalar previamente el JDK, que incluye el compilador de Java, aquí hay que instalar el compilador de C.</p>
+<p style="text-align: justify;">Buscando uno libre y moderno (el último compilador de C que usé en S.O. Microsoft fue el <a href="http://www.delorie.com/djgpp/history.html"><span style="color: #000000;">djgpp</span></a> sobre MSDOS), di con <a href="http://www.mingw.org/"><span style="color: #000000;">MinGW</span></a>, Minimalist GNU for Windows, un conjunto de herramientas GNU (las mismas que se encuentran en GNU/Linux) pero compiladas para Windows. ¡Perfecto!. Instalando esto ya tengo GCC (el compilador de C en Linux y Mac de toda la vida), make y el resto de herramientas de desarrollo desde la linea de comandos. Instalarlo es descargar el ejecutable y pulsar en Siguiente, Siguiente hasta el final. Ojo: instala MinGW en C:\MinGW para evitar problemas posteriores. Es el sitio que aparece por defecto al instalar, así que déjalo como esté.</p>
+<p style="text-align: justify;">Tras la instalación, y para que Eclipse pueda encontrarlo, tendremos que añadir la carpeta con los ejecutables de MinGW al PATH del sistema (<a href="http://www.mingw.org/wiki/InstallationHOWTOforMinGW"><span style="color: #000000;">instrucciones en Inglés</span></a>, o bien sigues leyendo). Para poder usar cualquier programa en Windows tenemos dos opciones: o bien vamos a la carpeta donde está el programa y lo lanzamos desde ahí, o incluímos la carpeta en la variable PATH del sistema de forma que cada vez que se necesite ejecutar ese programa Windows lo encuentre. Vamos a ello. Abrimos un explorador de Windows (Tecla Windows + E) y pulsamos con el botón derecho del ratón sobre Equipo.</p>
+<div style="text-align: justify;">
+<div id="attachment_1333" style="width: 962px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/config.-sistema.png"><img class="size-full wp-image-1333" title="Configuración del Sistema" src="/wp-content/uploads/2011/01/config.-sistema.png" alt="Configuración del Sistema" width="952" height="731" srcset="/wp-content/uploads/2011/01/config.-sistema.png 952w, /wp-content/uploads/2011/01/config.-sistema-300x230.png 300w" sizes="(max-width: 952px) 100vw, 952px" /></a><p class="wp-caption-text">Configuración del Sistema</p></div>
+</div>
+<p style="text-align: justify;">Si pulsamos en «Configuración Avanzada del Sistema» nos aparecerá la ventana clásica de «Propiedades del Sistema» de XP. Si no está abierta, hacemos click sobre la pestaña «Opciones avanzadas» y veremos un botón abajo del todo que pone «Variables de entorno». Entrando, veremos dos tipos de variables: del Sistema y de nuestro usuarios. Las variables del Sistema tienen efecto para cualquier usuario que inicie sesión en esta máquina, mientras que las del usuario sólo nos afectan a nosotros mismos. Cuando añado algo al PATH, me gusta que sea a nivel del Sistema, así que buscamos PATH y doble click. En la ventana que se abre, debemos ir al final de la lista de directorios, añadir un punto y coma y la carpeta donde está MinGW.</p>
+<div style="text-align: justify;">
+<div id="attachment_1334" style="width: 389px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/path.png"><img class="size-full wp-image-1334" title="Configurando PATH" src="/wp-content/uploads/2011/01/path.png" alt="Configurando PATH" width="379" height="153" srcset="/wp-content/uploads/2011/01/path.png 379w, /wp-content/uploads/2011/01/path-300x121.png 300w" sizes="(max-width: 379px) 100vw, 379px" /></a><p class="wp-caption-text">Configurando PATH</p></div>
+</div>
+<div style="text-align: justify;">Mi PATH queda algo como:</div>
+<pre>%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;...;C:\MinGW\bin</pre>
+<p style="text-align: justify;">
+<p style="text-align: justify;">La prueba definitiva de que todo está OK es abrir un intérprete de comandos de Windows, pulsando la Tecla Windows + R y escribiendo «cmd» en el diálogo que aparece. Si escribimos gcc -v y nos aparece información sobre nuestra versión instalada del compilador de C GCC, felicidades. Ya podemos compilar.</p>
+<div id="_mcePaste">
+<div id="attachment_1335" style="width: 687px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/prueba-mingw.png"><img class="size-full wp-image-1335" title="MinGW funciona!" src="/wp-content/uploads/2011/01/prueba-mingw.png" alt="MinGW funciona!" width="677" height="342" srcset="/wp-content/uploads/2011/01/prueba-mingw.png 677w, /wp-content/uploads/2011/01/prueba-mingw-300x151.png 300w" sizes="(max-width: 677px) 100vw, 677px" /></a><p class="wp-caption-text">MinGW funciona!</p></div>
+</div>
+<h2>Instalar un entorno JRE de Java</h2>
+<p style="text-align: justify;">Eclipse es un programa que está escrito en Java. Luego para poder ejecutarlo necesitamos <a href="http://www.java.com/es/download/">instalar en nuestro Windows el JRE</a> (Java Runtime Environment). Una vez que lo tengamos, podremos ejecutar cualquier programa Java, así como Applets en el navegador. Probablemente ya lo tengas instalado (puedes ver si tienes en Archivos de Programa una carpeta llamada Java) pero si tienes dudas, instálate el último JRE de la página de Sun (ahora Oracle). Para comprobarlo, desde una terminal, escribe java -version.</p>
+<h2>Instalar Eclipse CDT</h2>
+<p style="text-align: justify;">Siguente paso: descargar Eclipse. Para ello, buscaremos la versión correcta, ya que Eclipse es un IDE que sirve para todo. Con Eclipse podemos programar en C, C++, Java, PHP, &#8230; casi en cualquier cosa. Por ello, hay paquetes ya precreados con un Eclipse totalmente configurado para un uso determinado. El que nos hace falta en este caso es el <a href="http://www.eclipse.org/cdt/">Eclipse CDT</a></p>
+<p style="text-align: justify;">Descargamos el fichero (tardará un rato, pesa unos cuantos MB) y una vez lo tengamos, lo movemos a la carpeta que queramos. Aunque Eclipse sea un programa no se «instala» en Archivos de Programa, aunque podemos moverlo ahí. Realmente se descomprime, se abre, se pulsa sobre el icono de Eclipse y listo.</p>
+<p style="text-align: justify;">Si todo ha ido bien, podremos crear un nuevo proyecto C, añadir un fichero y compilar sin problemas. Pero esto va a ser material para otro post.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>Vídeo de mi intervención en eTic</title>
+		<link>/2010/10/08/video-de-mi-intervencion-en-etic/</link>
+		<comments>/2010/10/08/video-de-mi-intervencion-en-etic/#comments</comments>
+		<pubDate>Fri, 08 Oct 2010 15:58:33 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[presentaciones]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[Vimeo]]></category>
+
+		<guid isPermaLink="false">/?p=1147</guid>
+		<description><![CDATA[Pues aquí está el vídeo de mi intervención en el encuentro eTic 2010: Mobile Development y que se titula: «Crea ¡ya! tu equipo de trabajo para Apple iOS» En la intervención hablo de todo lo necesario para crear o reconvertir un equipo de programadores y que escriban apps para iOS. Está grabado con mi cámara [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pues aquí está el vídeo de mi intervención en el encuentro eTic 2010: Mobile Development y que se titula: «Crea ¡ya! tu equipo de trabajo para Apple iOS»</p>
+<p style="text-align: justify;">En la intervención hablo de todo lo necesario para crear o reconvertir un equipo de programadores y que escriban apps para iOS. Está grabado con mi cámara y la calidad no es profesional (gracias, Walter!), pero al menos así está a la altura del contenido <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://vimeo.com/15657007">Crea ¡ya! tu equipo de desarrollo en iOS</a> from <a href="http://vimeo.com/user1606809">Diego Freniche</a> on <a href="http://vimeo.com/">Vimeo</a>.</p>
+<p><iframe src="//player.vimeo.com/video/15657007" width="640" height="360" frameborder="0" title="Crea &iexcl;ya! tu equipo de desarrollo en iOS" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p>La <a href="https://docs.google.com/present/edit?id=0AYEGfwZYXjY3YWpmNGJuZHRidnNiXzRmY3Q4a2dkMg&amp;hl=en">presentación</a> que utilicé está en Google Docs</p>
+<p>La cobertura de los medios del evento:</p>
+<ul>
+<li>En <a href="http://www.20minutos.es/noticia/836984/0/">20 minutos</a></li>
+<li>En <a href="http://www.cibersur.com/portada/andalucia/006147/etic/mobile/develoment">Cibersur</a></li>
+</ul>
+<p>En el vídeo podéis verme con la <a href="/2010/08/30/pequenos-detalles/">camiseta que me preparé de Fanboy</a> gracias a los <a href="http://www.macniacos.com/">Macniacos</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/08/video-de-mi-intervencion-en-etic/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Controlar una presentación de KeyNote con tu iPhone</title>
+		<link>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/</link>
+		<comments>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/#comments</comments>
+		<pubDate>Fri, 21 May 2010 13:48:31 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Keynote]]></category>
+		<category><![CDATA[presentaciones]]></category>
+
+		<guid isPermaLink="false">/?p=514</guid>
+		<description><![CDATA[Controlar una presentación de KeyNote con tu iPhone Estoy asistiendo a un curso de Presentaciones Eficaces que me está gustando bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas miles de horas de formación, no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno cree que hace bien. O mejor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Controlar una presentación de KeyNote con tu iPhone</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Estoy asistiendo a un curso de Presentaciones Eficaces que me está gustando bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas miles de horas de formación, no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno cree que hace bien. O mejor debería decir que es imprescindible revisar precisamente lo que se piensa que es una fortaleza. Ya conocéis el dicho: «dime de qué presumes&#8230;».</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">El caso es que a mi me gusta aprender. Tanto cosas técnicas como habilidades personales. Suelo estar dispuesto a escuchar a aquel que pienso  que merece la pena escucharle. El problema suele ser convencerme. A medida que se cumplen años se tiende a pensar que «ésto ya lo he visto», etc. Y con el curso el profesor lo ha conseguido. Valentín nos ha enganchado con su hablar suave, su dominio del escenario, el contenido adecuado del curso. Vamos, con su saber hacer. Y nos ha puesto deberes.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Concretamente debemos presentar frente a la clase un proyecto para convencer a un jurado de que nos escoja. Apoyados por una presentación multimedia. Y es aquí donde me ha surgido la necesidad. Hasta ahora he utilizado para las presentaciones PowerPoint e Impress (de la suite OpenOffice.org). PP me parece demasiado complicado de usar en ocasiones, aunque con buenos resultados. E Impress da buenos resultados para una guardería, pero se aleja del toque pulido y postindustrial de las Keynotes de Apple. Así que la opción que me quedaba era Keynote, de Apple. Lo estoy usando desde hace poco, pero creo que han dado en el clavo. De manera sencilla tienes acceso a las principales funciones y los diseños predeterminados, así como las transiciones y animaciones de las diapositivas tienen «ese toque» Apple. Vamos, que voy a usarlo para esta presentación.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Hablamos de una presentación. Luego necesitamos más cosas. Una son las diapositivas / slides que aparezcan como apoyo a mi discurso. Esto ya lo tenemos. Otra es el discurso en sí y mi actuación frente al público. De eso me encargo yo. Me queda un detalle: el iPhone. Quiero decir, el control remoto de la presentación multimedia. Cuando hablas frente a un auditorio puedes quedarte clavado en un sitio, tras un atril, parapetado en una mesa, o bien usar el entorno y dominar el escenario de forma que apoye a tu discurso. A mi lo que me gusta es esto último. En mis cursos rompo muchas veces la distancia con mis alumnos, paseando por el aula, sentándome en la mesa, en una silla al lado de alguno, etc. Y para hacer todas estas cosas con estilo se precisa de un cacharro que permita ir pasando las diapositivas a medida que uno habla.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">El truco en sí</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Para controlar la presentación necesitamos:</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un Mac donde pondremos la presentación de KeyNote. En mi caso es mi querido MacBook Pro.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un proyector (lo pone el profesor)</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">un iPhone para controlar KeyNote de forma remota</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">una aplicación para el iPhone, concretamente Mocha VNC Lite, que encima es gratis</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Los pasos a dar son:</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">1. crea tu presentación con KeyNote y tenla a mano. Sí, esto puede parecerte una chorrada, pero eres tú el que ha pedido un paso a paso.</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">2. activa el acceso remoto al escrito de tu Mac, AKA VNC, mediante Preferencias del Sistema -&gt; Compartir -&gt; Compartir escritorio</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">Una vez tengamos instalada la aplicación en el iPhone, bajada desde el AppStore, necesitaremos controlar la pantalla del Mac desde el iPhone. Para eso, Mocha VNC Lite nos permite introducir la dirección IP de nuestro Mac y ¡listo!. Pero claro, estamos suponiendo que hay un punto de acceso WiFi al que nos hemos podido conectar, tanto con nuestro Mac como con el iPhone, y que ambos están en la misma subred (sus direcciones IP son similares, por ejemplo son 192.168.1.10 la del Mac y 192.168.1.15 la del iPhone).</div>
+<div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">pondremos a ejecutarse la presentación en el ordenador. Se quedarátendremos que conseguir que veamos en la pantalla del</div>
+<p style="text-align: justify;">He asistido a un curso de Presentaciones Eficaces que me ha gustado bastante. Aunque tengo a mis espaldas muchos cursos (literalmente muchas <em>miles</em> de horas de formación, que no de vuelo) siempre es bueno seguir aprendiendo y revisar hasta lo que uno se cree que hace bien. O mejor debería decir que es imprescindible revisar precisamente lo que se piensa que es una fortaleza. Ya conocéis el dicho: «dime de qué presumes&#8230;».</p>
+<p style="text-align: justify;">El caso es que a mi me gusta aprender. Tanto cosas técnicas como habilidades personales. Suelo estar dispuesto a escuchar a aquel que pienso  que merece la pena escucharle. El problema suele ser convencerme. A medida que se cumplen años se tiende a pensar que «ésto ya lo he visto», etc. Y con el curso el profesor lo ha conseguido. <a href="http://www.twitter.com/comunicatin">Valentín</a> nos ha enganchado con su hablar suave, su dominio del escenario, el contenido adecuado del curso. Vamos, con su saber hacer. Y nos ha puesto deberes.</p>
+<p style="text-align: justify;">Concretamente debemos presentar frente a la clase un proyecto para convencer a un jurado de que nos escoja. Apoyados por una presentación multimedia. Y es aquí donde me ha surgido la necesidad. Hasta ahora he utilizado para las presentaciones PowerPoint e Impress (de la suite OpenOffice.org). PowerPoint me parece demasiado complicado de usar (en ocasiones), aunque con buenos resultados. No le he dedicado el tiempo necesario, creo. E Impress da buenos resultados para una guardería, pero se aleja del toque pulido y postindustrial de las Keynotes de Apple. Así que la opción que me quedaba era Keynote, de Apple. Lo estoy usando desde hace poco, pero creo que han dado en el clavo. De manera sencilla tienes acceso a las principales funciones y los diseños predeterminados, así como las transiciones y animaciones de las diapositivas tienen «ese toque» Apple. Vamos, que voy a usarlo para esta presentación.</p>
+<p style="text-align: justify;">Hablamos de una presentación. Luego necesitamos más cosas:</p>
+<ul>
+<li>Una son las diapositivas / slides que aparezcan como apoyo a mi discurso. Esto ya lo tenemos. No confundamos nunca una presentación con un PowerPoint. Si no, llegamos rápidamente a la muerte por PowerPoint.</li>
+<li>Otra es el discurso en sí y mi actuación frente al público. De eso me encargo yo.</li>
+<li>Me queda un detalle: el iPhone. Quiero decir, el control remoto de la presentación multimedia.</li>
+</ul>
+<p style="text-align: justify;">Cuando hablas frente a un auditorio puedes quedarte clavado en un sitio, tras un atril, parapetado en una mesa, o bien usar el entorno y dominar el escenario de forma que apoye a tu discurso. A mi lo que me gusta es esto último. En mis cursos rompo muchas veces la distancia con mis alumnos, paseando por el aula, sentándome en la mesa, en una silla al lado de alguno, etc. Y para hacer todas estas cosas con estilo se precisa de un cacharro que permita ir pasando las diapositivas a medida que uno habla.</p>
+<h1>El truco en sí: controlar la presentación con el iPhone</h1>
+<p>Para controlar la presentación necesitamos:</p>
+<ul>
+<li>un Mac donde pondremos la presentación de KeyNote. En mi caso es mi querido MacBook Pro. Si no tienes un Mac, puedes hacer lo mismo con OO.org y Windows, o con Office y Windows. Es una pena, pero esta vez no hay truco para Linux <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f641.png" alt="🙁" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>un proyector (lo pone el profesor)</li>
+<li>un iPhone para controlar KeyNote de forma remota</li>
+<li>una aplicación para el iPhone, concretamente <a href="itms://itunes.apple.com/us/app/touch-mouse/id338237450?mt=8">Logitech Air Mouse</a> que encima es gratis</li>
+<li>la parte servidora de la App de iPhone, el <a href="http://www.logitech.com/touchmouse">Logitech Touch Mouse Server</a></li>
+</ul>
+<p>Los pasos a dar son:</p>
+<ol>
+<li>crea tu presentación con KeyNote y tenla a mano. Sí, esto puede parecerte una chorrada, pero eres tú el que ha pedido un <em>paso a paso</em>. Pon un enlace en el escritorio.</li>
+<li>instala la aplicación Logitech Air Mouse en el iPhone.</li>
+<li>descarga el Logitech Touch Mouse Server para Mac. Es una imagen de disco (fichero DMG). No hace falta ni instalarla: haces doble click, se abre, arrancas el programa servidor y a esperar conexión del iPhone.</li>
+<li>necesitamos conectar con el Mac desde el iPhone. Para ello, hay que activar la WiFi en el iPhone (y en el Mac, claro)</li>
+<li>arrancamos la App en el iPhone. Una vez que nos aparece el Mac en la lista de servidores nos conectamos. Ya podemos mover el ratón por la pantalla del Mac tocando la pantalla del iPhone. Y hacer click. Y encima, como el iPhone es multitouch, tenemos los gestos de los Trackpads Mac en el iPhone.</li>
+<li>Arrancamos la presentación y listo: click izquierdo avanza y click derecho retrocede. ¡Misión cumplida!</li>
+</ol>
+<p>Y por si no ha quedado suficientemente claro, aquí os pongo un <a href="http://www.youtube.com/watch?v=Wh2rq2UvijI">vídeo que muestra cómo manejar el portátil con el Logitech Air Mouse</a>.  La noticia original la vi en el <a href="http://blog.logitech.com/2010/01/29/new-logitech-touch-mouse-turns-your-iphone-or-ipod-touch-into-a-wireless-trackpad-and-keyboard/">Blog oficial de Logitech</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/21/controlar-una-presentacion-de-keynote-con-tu-iphone/feed/</wfw:commentRss>
+		<slash:comments>17</slash:comments>
+		</item>
+		<item>
+		<title>De curso por Madrid (I)</title>
+		<link>/2009/05/27/de-curso-por-madrid-i/</link>
+		<pubDate>Wed, 27 May 2009 22:42:07 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Formación]]></category>
+
+		<guid isPermaLink="false">/2009/05/27/de-curso-por-madrid-i/</guid>
+		<description><![CDATA[Escribo esto justo antes de irme a la cama, en el hotel en el que estoy parando en Madrid. Las conexiones 3G son una maravilla y nos han cambiado la idea de lo que es estar conectado. En el AVE he venido conectado sin interrupciones desde Sevilla, trabajando, respondiendo correos, cerrando incidentes con el otrs&#8230; [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Escribo esto justo antes de irme a la cama, en el hotel en el que estoy parando en Madrid. Las conexiones 3G son una maravilla y nos han cambiado la idea de lo que es estar conectado. En el AVE he venido conectado sin interrupciones desde Sevilla, trabajando, respondiendo correos, cerrando incidentes con el <a href="http://otrs.org/">otrs</a>&#8230; Algo impensable hace bien poco. Y encima, en el hotel, me permite conectarme y hacerle un corte de mangas a la conexión esta que cobran a precio de oro. ¿Dos Euros por una hora de conexión, a través de una Wifi no segura?. No, aún no estamos locos, no.</p>
+<p align="justify">Estoy en Madrid para asistir a un curso de IDC sobre consolidación de CPDs mediante virtualización. Pinta bien. Y vengo de otro curso sobre cableado estructural esta tarde, en Sevilla, cortesía de Ortronics. He decidido unir todo lo relativo a formarme sobre CPDs en un par de días o tres, lo que me permite enfocarme sobre los problemas y las posibles soluciones del CPD del que soy responsable en Isotrol. Así que ahora estoy «en modo CPD». Es otra manera de ser más productivo, como no para de machacar Berto en su blog, <a href="http://thinkwasabi.com/">Thinkwasabi</a>, que recomiendo para todos aquellos que les guste el trabajo bien hecho. Ese blog es una gozada de leer.</p>
+<p align="justify"><img src="/wp-content/uploads/2009/05/img_0221.JPG" alt="La Gran Vía Madrileña" width="600" /></p>
+<p align="justify">Estoy en el hotel Tryp Cibeles. La entrada, en la calle Mesonero Romanos (a un lado de la Gran Vía), no inspira demasiada confianza. Al llegar, hay un vigilante y dos ascensores. Das el santo y seña y te dejan subir. Parece un poco la oficina del Superagente 86. Pero luego la habitación que me han dado está genial. Con tres camas, enorme. Y lo mejor de todo: con un balcón sobre la Gran Vía. Sin quejas del hotel, todo lo contrario.</p>
+<p align="justify">Me he ido a dar una vuelta por Madrid, paseando. No se qué me pasa cuando vengo, pero tengo que ir a ver la Puerta de Alcalá. Igual, en aquella canción de los 80 grabaron algún tipo de orden subsconciente, pero es que no puedo evitarlo. Y ya me he paseado por los sitios típicos. Hablando de cosas típicas, si vengo a Madrid y no me como una bravas es como si no hubiera venido. Y he querido inmortalizar el momento <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p align="justify"><img src="/wp-content/uploads/2009/05/img_0223.JPG" alt="Papas Bravas" width="600" /></p>
+<p align="justify">Para ser de noche, y estar usando la vituperada cámara del iPhone, tampoco están mal estas fotos. ¡Tengo pulso para robar panderetas!</p>
+<p align="justify">Bueno, mañana la parte interesante del curso. A ver qué vemos que se pueda emplear para mejorar los servicios de TI de Isotrol. Buenas noches.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Feria de Nuevas  Tecnologías en Melilla</title>
+		<link>/2005/11/23/feria-de-nuevas-tecnologias-en-melilla/</link>
+		<pubDate>Wed, 23 Nov 2005 18:29:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[Incyde]]></category>
+
+		<guid isPermaLink="false">/2005/11/23/feria-de-nuevas-tecnologias-en-melilla/</guid>
+		<description><![CDATA[Desde hoy Miércoles 23 estamos por Melilla. Hasta el próximo Domingo 27, en el que me montaré en el avión de vuelta a Málaga. Y después de una semana (la pasada) con un intensísimo curso de Incyde en Sanlúcar la Mayor (Sevilla), por cierto, con unos alumnos majísimos (saludos a todos/as). Ahora tocan talleres en [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">Desde hoy Miércoles 23 estamos por <a href="http://www.melilla.es/" target="_blank">Melilla</a>. Hasta el próximo Domingo 27, en el que me montaré en el avión de vuelta a Málaga. Y después de una semana (la pasada) con un intensísimo curso de <a href="sobre-mi/trabajo/incyde/">Incyde</a> en Sanlúcar la Mayor (Sevilla), por cierto, con unos alumnos majísimos (saludos a todos/as).</p>
+<p class="bodytext" style="text-align: justify;">Ahora tocan talleres <em>en directo</em>. Estos talleres son de Linux, OpenOffice.org y OpenCMS. Como siempre, los voy a dar «a la carta». Creo que hay pocos profesores que impartan cursos sin papeles y adaptándose siempre a lo que pide el alumno. Aunque así debería ser: enseñar a cada persona lo que realmente necesita y no lo que el profesor conozca mejor. Evidentemente, esta filosofía implica un mayor desgaste para quien imparte el curso, pero&#8230;</p>
+<p class="bodytext" style="text-align: justify;">En Melilla acaban de sacar una nueva distro de Linux, basada en SuSe, llamada <a href="http://www.melilla.es/solime/" target="_blank">Melinux</a> (no confundir con otra distro, esta de Oriente Medio, llamada <a href="http://melinux.com/" target="_blank">Middle East Linux</a>). Está aún en fase de desarrollo, pero es otro ejemplo más del empuje del Software Libre.</p>
+<p class="bodytext">
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

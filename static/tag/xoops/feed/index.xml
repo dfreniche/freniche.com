@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>XOOPS &#8211; freniche.com</title>
+	<atom:link href="/tag/xoops/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Lavado de cara y retomado con más ímpetu</title>
+		<link>/2004/04/19/lavado-de-cara-y-retomado-con-mas-impetu/</link>
+		<pubDate>Mon, 19 Apr 2004 13:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[freniche.com]]></category>
+		<category><![CDATA[XOOPS]]></category>
+
+		<guid isPermaLink="false">/2004/04/19/lavado-de-cara-y-retomado-con-mas-impetu/</guid>
+		<description><![CDATA[Como se puede ver, la web tiene un nuevo aspecto. Gracias a los temas de 4thefort, que están disponibles para XOOPS en 4thefort. Le faltan algunos retoques gordos y, sobre todo, meterle todo el contenido que tengo pendiente. Espero que poco a poco, y con paciencia y saliva, esté todo más completito. NOTA: esta noticia [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Como se puede ver, la web tiene un nuevo aspecto. Gracias a los temas de <a href="http://www.4thefort.com/" target="_blank">4thefort</a>, que están disponibles para XOOPS en 4thefort. Le faltan algunos retoques gordos y, sobre todo, meterle todo el contenido que tengo pendiente. Espero que poco a poco, y con paciencia y saliva, esté todo más completito.</p>
+<p><em>NOTA: esta noticia está obsoleta, ya que se escribió cuando este Blog se hacía con XOOPS. La guardo por nostalgia, Síndrome de Diógenes y afán de completitud.<br />
+</em></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Nueva galería de fotos</title>
+		<link>/2003/12/04/nueva-galeria-de-fotos/</link>
+		<pubDate>Thu, 04 Dec 2003 13:24:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[freniche.com]]></category>
+		<category><![CDATA[XOOPS]]></category>
+
+		<guid isPermaLink="false">/2003/12/04/nueva-galeria-de-fotos/</guid>
+		<description><![CDATA[Tenemos recién instalado el módulo de galería de fotos (xoops_gallery). Lo tienes en el menú principal (abajo, a la izquierda) o bien pulsando aqui. Podéis ver algunas de las fotos que voy haciendo por el mundo y, para los usuarios registrados, algunas más. NOTA: esta noticia está obsoleta, ya que se escribió cuando este Blog [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Tenemos recién instalado el módulo de galería de fotos (xoops_gallery). Lo tienes en el menú principal (abajo, a la izquierda) o bien pulsando aqui. Podéis ver algunas de las fotos que voy haciendo por el mundo y, para los usuarios registrados, algunas más.</p>
+<address>NOTA: esta noticia está obsoleta, ya que se escribió cuando este Blog se hacía con XOOPS. La guardo por nostalgia, Síndrome de Diógenes y afán de completitud. </address>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

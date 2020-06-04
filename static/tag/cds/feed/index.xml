@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CDs &#8211; freniche.com</title>
+	<atom:link href="/tag/cds/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Ordenando CDs</title>
+		<link>/2013/08/18/ordenando-cds/</link>
+		<pubDate>Sun, 18 Aug 2013 15:22:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[CDs]]></category>
+		<category><![CDATA[oficina]]></category>
+		<category><![CDATA[organización personal]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=1963</guid>
+		<description><![CDATA[&#60;disclaimer&#62; Dada la edad del que escribe, voy a usar indistintamente CD por DVD y viceversa. Me da mucha pereza hablar todo el tiempo de *medio óptico* &#60;/disclaimer&#62; Si eres como yo, probablemente tengas montones de CDs y DVDs rodando por casa. En mi oficina, las estanterías estaban llenas de CDs cubiertos de polvo, sin [&#8230;]]]></description>
+				<content:encoded><![CDATA[<pre><code>&lt;disclaimer&gt;
+Dada la edad del que escribe, voy a usar indistintamente 
+CD por DVD y viceversa.
+Me da mucha pereza hablar todo el tiempo de *medio óptico*
+&lt;/disclaimer&gt;
+</code></pre>
+<p>Si eres como yo, probablemente tengas montones de CDs y DVDs <em>rodando</em> por casa. En mi oficina, las estanterías estaban llenas de CDs cubiertos de polvo, sin ninguna inscripción ni nada escrito. ¿Contienen algo importante, están vírgenes?. Sólo mirar la montaña de tarrinas, cajas con CDs, cajas vacías, DVDs desparramados&#8230; me daba una pereza terrible.</p>
+<p>Y sí, tuve otra edad en la que me copiaba software no legal. Hace ya bastante tiempo de eso, porque desde que uso Macs es muy raro que tenga que buscar algún programa pirata. Las tiendas de aplicaciones, Steam y los precios razonables, unidos a los <em>bundles</em> de aplicaciones han matado la piratería. Al menos para mi. Hoy día, antes de usar e instalar nada me pregunto si es imprescindible. Y si no le voy a sacar demasiado partido, busco una alternativa. ¿Realmente necesitas Photoshop o te vale con Pixelmator?</p>
+<p>Hace una semana, a raíz de que <a href="/2013/07/29/organizando-mi-espacio-de-trabajo/">estoy organizando y mejorando mi espacio de trabajo</a> me lancé a ordenar la montaña amorfa de CDs y me resultó bastante más sencillo de lo que pensaba. Fue hasta divertido. Y tomé algunas decisiones que quiero compartir por si te ves en una situación similar.</p>
+<p>Antes de empezar, quizás el mejor consejo me lo dio por Twitter <a href="http://www.albertmata.net/">Albert Mata</a>:</p>
+<p><a href="/wp-content/uploads/2013/08/Captura-de-pantalla-2013-08-20-a-las-18.32.12.png"><img src="/wp-content/uploads/2013/08/Captura-de-pantalla-2013-08-20-a-las-18.32.12.png" alt="Tweet de Albert mata: &quot;tira los CDs a la basura&quot;" width="514" height="84" class="aligncenter size-full wp-image-1969" srcset="/wp-content/uploads/2013/08/Captura-de-pantalla-2013-08-20-a-las-18.32.12.png 514w, /wp-content/uploads/2013/08/Captura-de-pantalla-2013-08-20-a-las-18.32.12-300x49.png 300w" sizes="(max-width: 514px) 100vw, 514px" /></a></p>
+<p>Pero ya había empezado y además era algo que quería hacer, por demostrarme a mi mismo que podía vencer el miedo al <em>montón amorfo de CDs</em>.</p>
+<h2>Vamos con los consejos</h2>
+<ol>
+<li>Prepara un trapo para quitar el polvo. Las cajas de CDs/DVDs y los CDs desparramados son un imán para el polvo.</li>
+<li>Si vas a guardar las cajas transparentes de CDs, prepara una caja más grande para almacenarlas, o un cajón. En mi caso, tenía una caja de Ikea libre y la etiqueté con mi Dymo Letratag. Queda muy bonita y se lee desde cualquier sitio.</li>
+<li>Toma un montón de CDs y ponlos en tu mesa. Da igual por dónde empieces. Ponlos ahí y empieza por algún lado, <strong>pero empieza</strong>.</li>
+<li><strong>Tira CDs</strong>. De manera agresiva. Muy agresiva. <strong>Todo lo que tires no lo tienes que ordenar</strong>.</li>
+<li>Ve tomando CDs de uno en uno y ponlo en uno de estos montones: la papelera (el montón más importante), CDs originales y con carátulas bonitas, CDs con <em>backups</em> de programas (como Office, S.O., etc.), CDs con <em>backups</em> de juegos, CDs con datos propios (fotos familiares, vídeos de los niños, presentaciones, documentos, backups), CDs con <em>media</em> (películas bajadas con torrent, CDs de música, etc.) o CDs en blanco.</li>
+<li>Saca todos los CDs no originales de las cajas y ponlos en las bobinas de los CDs (si las tienes). Es la forma más eficiente de almacenarlos. No te preocupes ahora de qué habrá en la parte inferior de las bobinas. Avanza.</li>
+<li>¿Has tirado suficientes CDs? Vuelve a pensarlo y <strong>tira más cosas</strong>. ¿Realmente necesitas copias de <em>todas</em> las distros Ubuntu que han existido?</li>
+<li>Cuando acabes, el montón de cajas de CDs será lo más voluminoso. Guárdalo y verás el enorme avance que experimientas. Te quedan de pronto unos cuantos montones y bobinas de CDs. Nada de lo que asustarse. Ya no es amorfo.</li>
+<li>Para dar el último toque, crea una libreta en Evernote y llámala «Listas de CDs» o como te parezca. En esa libreta, crea una nota por cada montón de CDs. Anota en estas notas listas numeradas (Evernote va generando los números) con los títulos de los CDs que hay en las bobinas. Así, si alguna vez necesitas un programa antiguo del que tienes una copia, o una máquina virtual con un Windows 98 que almacenaste en un DVD, primero la localizas en Evernote y luego ves en qué zona de la torre debe estar.</li>
+<li>Lo bueno de usar Evernote es que, si localizas algún papel con instrucciones sobre cómo instalar algo, o con una clave, que dejaste anotado hace tiempo, puedes añadirlo a la lista sacándole una foto con la cámara de tu ordenador. Sencillo y muy rápido. Y Evernote busca texto <em>dentro de tus imágenes</em>, lo cual es bastante chulo.</li>
+<li>Copia las películas a tu HD de películas. Los CDs <em>ripealos</em> en iTunes. Y tíralos a la basura. Ya.</li>
+<li>Crea una carpeta en tu HD de datos externo (si es que lo tienes) y copia los CDs de datos (con presentaciones, o fotos). Si están repetidos (ya tienes esos datos) márcalo en CD con un «repetido». Para eso tienes montones de marcadores permanentes para CDs. Aunque siempre queda más bonito con la Dymo.</li>
+</ol>
+<div id="attachment_1974" style="width: 310px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/08/2013-08-08-18.45.39-300x225.jpg" alt="Torres de CDs" width="300" height="225" class="size-medium wp-image-1974" srcset="/wp-content/uploads/2013/08/2013-08-08-18.45.39-300x225.jpg 300w, /wp-content/uploads/2013/08/2013-08-08-18.45.39.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" /><p class="wp-caption-text">]<a href="/wp-content/uploads/2013/08/2013-08-08-18.45.39.jpg">5</a> Torres de CDs</p></div>
+<p>Tras esto, tendrás claro qué había en la montaña de CDs, tendrás menos cosas que almacenar y el impacto visual en tu estantería/cajón/armario/mesa será mucho menor. Y habrás vencido un miedo.</p>
+<p>Puedes irlo haciendo poco a poco, pero en dos tardes lo tienes listo. <strong>No le des más vueltas y ve a por ese montón. Te sentirás mejor persona.</strong></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

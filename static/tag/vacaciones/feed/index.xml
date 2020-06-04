@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vacaciones &#8211; freniche.com</title>
+	<atom:link href="/tag/vacaciones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Sensaciones olvidadas</title>
+		<link>/2010/07/04/sensaciones-olvidadas/</link>
+		<comments>/2010/07/04/sensaciones-olvidadas/#comments</comments>
+		<pubDate>Sun, 04 Jul 2010 11:13:07 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[vacaciones]]></category>
+
+		<guid isPermaLink="false">/2010/07/04/sensaciones-olvidadas/</guid>
+		<description><![CDATA[La felicidad se compone de muchas pequeñas cosas. Eso es lo que se dice. Hoy me ha sorprendido comprobar que rescatar sensaciones que se creían ya olvidadas también nos hace un poquito más felices. Es como en el cuento del Rey y el Pastor, donde el Rey saboreaba como nunca una sopa en la cabaña [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>La felicidad se compone de muchas pequeñas cosas. Eso es lo que se dice. Hoy me ha sorprendido comprobar que rescatar sensaciones que se creían ya olvidadas también nos hace un poquito más felices.<br />
+Es como en el cuento del Rey y el Pastor, donde el Rey saboreaba como nunca una sopa en la cabaña del Pastor, disfrutándola tras una caminata y pasar frío en el bosque. Y todo porque redescubría una sensación: el hambre.</p>
+<p>Pues hoy me ha pasado eso, primero con una máquina de petacos. Un pimball. Esos chismes que se enchufaban en la pared, eran del alto de una mesa y tenían un cristal bajo el que corría la bola. Y que si les pegabas muy fuerte se bloqueaban y ponían la tan temida sentencia en sus primitivas pantallas: TILT. He disfrutado como un niño (y con mis hijos) jugando a una máquina que ya creía perdida en el abismo de los tiempos. Ellos se han subido en una silla y se han apoyado a un lado sobre el cristal, mirando la bola. Y yo he retrocedido 25 años de golpe, a mis tardes en la piscina, cuando el Space Invaders o el Galaga eran casi ciencia ficción, y había casi profesionales de los petacos.</p>
+<p>La verdad es que lo primero que pensé al echar el dinero en la máquina fue: «vaya, la resolución de este juego es casi perfecta, y hay que ver lo bien simulada que está la física de la bola». Pero es que era una máquina del mundo real, y no de Matrix <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>El segundo momento dejavú ha sido cuando me he visto solo, sentado en la piscina, sin poder bañarme (esperando a uno de los niños volver del miniclub). No tenía a mano nada para leer. Ni el iPhone. Ni ningún cacharro electrónico. Ni nada con lo que entretenerme. Y me he puesto a repasar cosas mentalmente. Hasta que ha llegado el momento: me he aburrido. Hacía siglos que no tenía el tiempo ni la oportunidad de aburrirme. Y, como cuando sientes miedo en una película de terror, lo he disfrutado. Es casi un lujo en estos tiempos que corren de no parar. Aunque me ha durado poco. Pero ha sido estimulante: elegir aburrirse y disfrutarlo. Un poco extraño, pero recomendable. Relaja mucho.</p>
+<p>[Este post se ha escrito de cabo a rabo en un iPhone 3Gs, con la App de WordPress. Para que luego digan que los teclados virtuales son incómodos ;-)]</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/07/04/sensaciones-olvidadas/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

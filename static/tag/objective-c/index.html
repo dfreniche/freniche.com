@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Objective C | freniche.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/readly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; RSS de los comentarios" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Objective C RSS de la etiqueta" href="/tag/objective-c/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-style-css'  href='/wp-content/themes/readly/fancybox/jquery.fancybox.css?v=2.1.5&#038;ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='readly-style-css'  href='/wp-content/themes/readly/style.css?ver=4.8.13' type='text/css' media='all' />
+<style id='readly-style-inline-css' type='text/css'>
+.gallery .gallery-item {
+	max-width: 150px;
+}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.13' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery-ui-1.10.2.custom.min.js?ver=20130317'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/readly.js?ver=20140331'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 4.8.13" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.6';
+</script>
+<style type="text/css" media="screen">
+/* Begin WPvideo CSS */
+.wpv_videoc {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+/* border: 1px solid #aaa; */
+}
+
+.wpv_video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px 0 4px 0;
+	width: 425px;
+	height: 350px;
+}
+
+.wpv_rating {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+	font: 8pt "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	text-align: right;	
+}
+
+.wpv_titleauthor, .wpv_durationdate, .wpv_description {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #666;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+}
+
+.wpv_download {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+}
+
+.wpv_download a {
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #f44;
+}
+
+.wpv_download a:hover {
+	text-decoration: none;
+}
+
+.wpv_download img {
+	border: 0;
+}
+
+.wpv_self {
+	text-align: left;
+}
+
+.wpv_self a {
+	font: bold 9px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #000;
+}
+/* End WPvideo CSS */
+</style>
+
+<style type="text/css" id="custom-background-css">
+a {
+	color: #1e83cb;
+}
+.entry-content a {
+	-webkit-transition: border-bottom-color 0.2s linear;
+	-moz-transition: border-bottom-color 0.2s linear;
+	-o-transition: border-bottom-color 0.2s linear;
+	transition: border-bottom-color 0.2s linear;
+}
+.entry-content a:hover {
+	border-bottom-color: #1e83cb;
+}
+#masthead .site-title a, #site-navigation a, .sub-menu a, #nav-below a, .entry-title a, #image-navigation a {
+	-webkit-transition: color 0.2s linear;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+#masthead .site-title a:hover, #nav-below a:hover, .entry-title a:hover, #image-navigation a:hover {
+	color: #1e83cb;
+}
+#s, #commentform input[type="text"], #commentform textarea, .password_protected, #social a, a.more-link {
+	-webkit-transition: background-color 0.2s linear;
+	-moz-transition: background-color 0.2s linear;
+	-o-transition: background-color 0.2s linear;
+	transition: background-color 0.2s linear;
+}
+a.more-link span {
+	-webkit-transition: border-left-color 0.2s linear;
+	-moz-transition: border-left-color 0.2s linear;
+	-o-transition: border-left-color 0.2s linear;
+	transition: border-left-color 0.2s linear;
+}
+#s:focus, #commentform input[type="text"]:focus, #commentform textarea:focus, .password_protected:focus {
+	background-color: #fff;
+}
+#social a:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover span {
+	border-left-color: #1e83cb;
+}
+.entry-meta a, footer .site-info a, #comments a, .link_post_p a {
+	-webkit-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-moz-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-o-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	transition: color 0.2s linear, border-bottom-color 0.2s linear;
+}
+.entry-meta a:hover, footer .site-info a:hover, #comments a:hover, #comments a#cancel-comment-reply-link:hover, .link_post_p a:hover {
+	color: #1e83cb;
+	border-bottom-color: #1e83cb;
+}
+@media only screen and (min-width : 641px) {
+	#site-navigation a:hover, .sub-menu a:hover {
+		color: #1e83cb;
+	}
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+.hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #1e83cb;
+}
+</style>
+<script type="text/javascript">
+var hover_color = "#1e83cb";
+</script></head>
+
+<body class="archive tag tag-objective-c tag-247">
+<header id="masthead" class="site-header" role="banner">
+	<div id="header-wrapper">
+		<hgroup>
+			<div id="hgroup-wrapper">
+				<div id="hgroup-wrapper2">
+					<h1 class="site-title"><a href="/" title="freniche.com" rel="home">freniche.com</a></h1>
+					<h2 class="site-description">Another personal blog about everything tech-related</h2>
+				</div>
+			</div>
+		</hgroup>
+
+		<nav id="site-navigation" class="navigation-main" role="navigation">
+			<div id="site-navigation-wrapper">
+				<div id="site-navigation-wrapper2">
+					<h1 class="menu-toggle">Menu<span>m</span></h1>
+					<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2650"><a href="/about">Acerca de&#8230;</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://www.github.com/dfreniche/cv">CV</a></li>
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="/ios-apps/">iOS Apps</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="/formacion/">Formación</a></li>
+</ul>
+</li>
+<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="/contactar/">Contactar</a></li>
+<li id="menu-item-2649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2649"><a href="/mis-entradas-favoritas/">Lo mejor del blog</a></li>
+<li id="menu-item-2648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="/archivo-blog/">Archivo</a></li>
+<li id="menu-item-1993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1993"><a href="http://www.cafeycocoa.com.es/">Otros Proyectos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2652"><a href="http://wedevelopers.com/">Podcast We.Developers</a></li>
+	<li id="menu-item-2051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2051"><a href="http://readthencode.tumblr.com/">Read Then Code</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1996"><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a></li>
+	<li id="menu-item-1995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1995"><a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.youtube.com/dfreniche">YouTube</a></li>
+	<li id="menu-item-1992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1992"><a href="https://www.flickr.com/photos/dfreniche">Flickr</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</div>
+</header><!-- #masthead -->
+
+<div id="page" class="hfeed site">
+	<div id="main" class="site-main">
+
+	<section id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">
+					Tag Archives: <span>Objective C</span>				</h1>
+							</header><!-- .page-header -->
+
+						
+				
+<article id="post-2088" class="post-2088 post type-post status-publish format-standard hentry category-apple-informatica category-informatica category-objectivec category-programacion tag-cocoa tag-comunidad tag-objective-c">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/" title="10:28 am" rel="bookmark"><time class="entry-date" datetime="enero 19th, 2014">enero 19th, 2014</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/" title="Permalink to La comunidad de desarrollo Mac en España" rel="bookmark">La comunidad de desarrollo Mac en España</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p>He recibido un par de correos preguntándome sobre esto mismo en los últimos días. Además, es algo que me gusta comentar en los cursos que imparto sobre iOS (y en los de Android, solo que en esos hablo lógicamente de la comunidad Androide). Así que voy a resumir y reunir aquí lo que necesitas para acceder a la <em>misteriosa y privilegiada comunidad de desarrollo iOS/Mac en España</em>.</p>
+<h2>Sin miedos</h2>
+<p>Primero, lo más importante: si te interesa el desarrollo con tu Mac, en Cocoa, usando Xcode y Objective C <em>ya eres miembro de esta comunidad</em>. No ha sido tan difícil entrar, ¿no?. Como en cualquier comunidad, sólo hace falta que tengas interés, o curiosidad, o conocimientos, y que quieras compartirlos. No hay que hacer pactos con el Anticristo, ni con los bancos, ni firmar contratos con la sangre de un gallo. Cosa asquerosa, por cierto.</p>
+<p>Puedes disfrutar de esta comunidad <em>a distancia</em>, usando tu ordenador e Internet, pero yo siempre recomiendo el contacto cara a cara, personal. El periodo más productivo de mi vida como programador fue cuando estudiaba la carrera de Informática. Y así lo recuerdo por el grupo de personas con las que me reunía a programar y a <em>hablar</em> sobre programación. Probablemente es más la sensación de que «cualquier tiempo pasado fue mejor» que algo objetivo (probablemente, no, seguro, mi código era una <em>abominación</em>), pero hablar con gente que sabe mucho más que tú es algo que estimula mucho, motiva y te fuerza a mejorar para no sentir que haces el ridículo entre ellos.</p>
+<p>Aunque eso nunca pasa: <strong>nadie, nunca, se va a reír del que no sabe</strong>. Lo que hará es ayudarle. Así que destierra ese miedo de tu mente, esa pesadilla que alguna vez has tenido: nadie se va a levantar, en medio del bar señalándote y gritando «mirad al pardillo este, que no sabe nada de nada». Si alguien actuara así es causa objetiva para que te tatúen <em>tonto</em> en la frente, y de no ser parte de esta comunidad.</p>
+<h2>Blogs</h2>
+<p>Pongo aquí una lista de los mejores blogs de programación Cocoa en Español <strong>que conozco y leo</strong>. Debe haber más: apórtalos en los comentarios. Siempre son bienvenidos. Van sin un orden concreto, salvo Objective-C.es, el blog de Rafa, claro ejemplo de superación personal y, como se que al final acabará en Apple, le voy haciendo ya la pelota para que pase mi CV cuando llegue el momento.</p>
+<ul>
+<li><a href="http://objective-c.es/">Objective-C.es</a></li>
+<li><a href="http://www.migueldiazrubio.com/">Blog de Miguel Díaz Rubio</a></li>
+<li><a href="http://www.cocoaosx.com/">Cocoa Mental</a></li>
+</ul>
+<h2>Reuniones periódicas</h2>
+<p>Aquí tenemos las reuniones que se tienen en distintas ciudades de España, con distintas periodicidades. Si no tienes ninguna cerca <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">siempre puedes animarte y fundar la tuya propia</a>. Sólo necesitas a una segunda persona interesada en lo mismo.</p>
+<ul>
+<li><a href="http://nscoder-mad.tumblr.com/">NSCoder Night Madrid</a> </li>
+<li><a href="http://nsexperience.tumblr.com/">NSXperience BCN</a> </li>
+<li><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a> <a href="">NSCoder Night Valencia</a></li>
+<li><a href="http://nscoder-cor.tumblr.com/">NSCoder Night Córdoba</a></li>
+</ul>
+<p>Todas estas reuniones tienen su propio Twitter. Busca y ponte en contacto con ellos.</p>
+<h2>«La» Conferencia</h2>
+<p>La conferencia de la comunidad Cocoa Española, el sitio al que hay que ir es la <a href="http://nsspain.com/">NSSPain</a>. Es una conferencia internacional (luego es en Inglés), pero es la que más cerca vas a encontrar con mejor contenido. Yo me he hecho fijo en el primer año.</p>
+<h2>Twitter</h2>
+<p>Hay montones de gente interesante a la que seguir. Te recomiendo que sigas por twitter a los blogueros anteriores y que mires a quiénes siguen. Es la forma más rápida.</p>
+<h2>Preguntas y respuestas</h2>
+<p>El portal <a href="http://www.nscodecenter.com/preguntas/">NSCoderCenter</a> es lo que buscas</p>
+<h2>Pull request</h2>
+<p>Si quieres que incluya un apartado, o quieres completar todo esto con más información, usa los comentarios más abajo. Gracias.</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-2091" class="post-2091 post type-post status-publish format-standard hentry category-apple-informatica category-cocoa category-informatica category-objectivec category-programacion tag-cocoa tag-objective-c tag-polemicas tag-programacion">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2014/01/10/notacion-hungara-contrapost/" title="10:38 am" rel="bookmark"><time class="entry-date" datetime="enero 10th, 2014">enero 10th, 2014</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2014/01/10/notacion-hungara-contrapost/" title="Permalink to Notación Húngara: contrapost" rel="bookmark">Notación Húngara: contrapost</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<h1>¿A quién no le gusta una buena polémica?</h1>
+<p><a href="/wp-content/uploads/2014/01/polemica-tuitera.png"><img src="/wp-content/uploads/2014/01/polemica-tuitera.png" alt="Polémica Tuitera" width="558" height="624" class="aligncenter size-full wp-image-2096" srcset="/wp-content/uploads/2014/01/polemica-tuitera.png 558w, /wp-content/uploads/2014/01/polemica-tuitera-268x300.png 268w, /wp-content/uploads/2014/01/polemica-tuitera-535x598.png 535w" sizes="(max-width: 558px) 100vw, 558px" /></a></p>
+<p>Esta semana en Twitter <a href="http://www.punteroavoid.com/">Sendoa Portuondo</a> planteó una conversación bastante interesante sobre si era conveniente (o estaba de moda) usar prefijos en las variables de nuestros programas Objective-C. Mi respuesta fue que, a veces los usaba. Especialmente uso los prefijos para los <code>IBOutlets</code>, de forma que puedo completar el código rápidamente (o encontrar un Outlet sin tener que hacer un viaje al<code>@interface</code> correspondiente.</p>
+<p>Fernando Rodríguez (<a href="http://www.cocoaosx.com/">Cocoa Mental</a>, Big Nerd Ranch, <em>super Bad-Ass Master of the Universe</em>) argumentaba totalmente en contra y <a href="http://www.cocoaosx.com/2014/01/09/nomenclatura-hungara-objective-c/">ha escrito un artículo en Cocoa Mental</a> al respecto. Normalmente estoy de acuerdo con las cosas que publica Fernando, más que nada porque voy al blog a <em>leer para aprender</em> y puedo aportar poco. Pero en este tema concreto (el uso o no de prefijos para identificar <em>qué</em> es una variable), no estoy de acuerdo.</p>
+<p>Sus argumentos, que he visto esgrimidos en muchos sitios, se basan en la horrenda interpretación que se hizo de la Notación Húngara propuesta por <a href="http://es.wikipedia.org/wiki/Charles_Simonyi">Charles Simonyi</a>. Nadie lo explica mejor que Joel Spolsky en el artículo <a href="http://www.joelonsoftware.com/articles/Wrong.html">Doing it wrong</a>, pero por si no tenéis ganas de leerlo (<em>mal!, dejad en este momento todo esto y leed el blog de Joel de cabo a rabo</em>), voy a intentar explicarlo.</p>
+<h1>Notación Húngara</h1>
+<p>Si lees el <a href="http://msdn.microsoft.com/en-us/library/aa260976(VS.60).aspx"><em>paper</em> original de Simonyi</a>, encontrarás que la idea que presenta es: «pongamos el <em>qué es</em> de una variable en el prefijo, de forma que sepamos de qué estamos hablando al usarlo luego». Probablemente por no ser el Inglés su lengua materna Simonyi usó la palabra <em>type</em>. Pero no se refiere al tipo que el compilador asigna a una variable, sino a su forma, características, esencia, chi o como lo llames. Su <em>Kind</em>. En un párrafo hablando de cómo prefijar cantidades (índices, filas, etc.) podemos leer:</p>
+<blockquote>
+<p>Quantities are named by their type possibly followed by a qualifier. A convenient (and legal) punctuation is recommended to separate the type and qualifier part of a name. (In C, we use a capital initial for the qualifier as in rowFirst: row is the type; First is the qualifier.)</p>
+</blockquote>
+<p>Si os fijáis atentamente, para dar nombre aquí a una variable que representa una fila, la llama *row_First, y no longFirst o intFirst. Es decir, usa &#95;qué&#95; es esa variable y no el &#95;tipo&#95; de nuestro lenguaje elegido para representar a ese elemento. Los grandes detractores de la notación húngara han visto código escritos por otros que no la han entendido y que les obligaban a hacer tonterías como:</p>
+<pre><code>int *ptrFirstNumber;        // ¡ya sabemos que el tipo es un puntero a int!
+char *strName;              // con leer la declaración, basta...
+NSString stringAddress;     // esto es de nota
+</code></pre>
+<h1>Apple Will Never Do That</h1>
+<p>Por cierto y como nota <em>inocente</em>. Dado que esto lo extendió Microsoft y dado que Apple nunca se equivoca, Cocoa es elegante, etc. etc. en Cocoa no encontraremos <strong>nunca</strong> esta horrible notación, ¿no?. Bueno, no esta, sino <em>notación húngara a la inversa</em> (HungarianNotation^-1): usando sufijos <strong>en los tipos</strong>. Por ejemplo estas cositas:</p>
+<pre><code>AboutViewController *vc;    // ¡ejem! Ya sabemos que vc es de tipo "Pantalla About". 
+</code></pre>
+<p>¿Pero realmente es necesario poner «ViewController» al final de un tipo que extiende de UIViewController? Ya puesto así, que se llame <code>AboutViewControllerUIResponderNSObject</code>, y vemos todas las clases de las que hereda, ¿no?. ¡Error!.</p>
+<p>Aquí Apple está <em>marcando</em> en el nombre de la clase <em>qué</em> es, y no su tipo. Para Apple, un ViewController es una <em>pantalla</em> en un programa iOS. Fijáos que el sufijo no es <code>UIViewController</code>, que sería el tipo. Además, sólo leyendo AboutViewController no sabes si es un <code>UIViewController</code>, un <code>UITableViewController</code>, &#8230; lo que sí entiendes es que es una pantalla.</p>
+<p>Hungarian Notation at its best!</p>
+<h1>Un ejemplo, que me duermo</h1>
+<p>Quiero cerrar con un pequeño ejemplo. Supongamos que tenemos una clase que nos devuelve Usuarios (de un servicio web o una BD). Es la clase <code>Users</code>. Esta clase dispone de dos métodos:</p>
+<pre><code>+ (NSDictionary *)allUsers;
++ (NSDictionary *)allUsersOrderedByName;
+</code></pre>
+<p>Los nombres de los métodos son <em>autoexplicativos</em>. Usamos un diccionario en el que buscaremos usando una clave (en este caso, el nº de usuario).</p>
+<p>Si en mi código, más adelante, quiero guardar estos dos diccionarios (uno está ordenado por los valores de sus claves, que ya que estamos es la forma de ordenar un diccionario, el otro no) podría usar <em>Hungarian Notation Dark Side Style</em>, la criticada por Fernando:</p>
+<pre><code>NSDictionary *dictionaryAllUsers = [Users allUsers];
+NSDictionary *dictionaryAllUsersOrdered = [Users allUsersOrderedByName];
+</code></pre>
+<p>Aquí, el ver que son un NSDictionary no me aporta nada. Es una tontería redundante poner estos prefijos. Mucho mejor usando <em>Hungarian Notation Luke Style</em>:</p>
+<pre><code>NSDictionary *listUsers;
+NSDictionary *orderedListUsers;
+</code></pre>
+<p>Aquí usamos <em>qué</em> es para nosotros estas variables, qué representan en el flujo del programa. Son listas de usuarios. Que utilizaremos para mostrar en pantalla, buscar o lo que sea. Me da igual su tipo. Pueden ser NSDictionary, NSArray, un tipo propio, un B-Tree&#8230; Lo que me interesa es comprender de un vistazo que a) son listas y b) una de ellas viene ordenada.</p>
+<h1>Conclusión</h1>
+<p>Así que, sí, estoy de acuerdo con Fernando en que poner el tipo del compilador al identificador de una variable es una chorrada. Pero eso no es Notación Húngara. Es la mala interpretación que se hizo de ella. La Notación Húngara tal y como se definió es valiosa.</p>
+<h1>Vale, pero al final, ¿tú lo usas?</h1>
+<p>Pues creo que sí. Pero no de una manera consciente. Este tipo de discusiones, que algunos obsesionados por «hacer que funcione» verán como una pérdida de tiempo son las que nos permiten aprender y entender por qué hacemos las cosas como las hacemos. Es lo que nos hace Informáticos. Que no Ingenieros. Los Ingenieros no entenderían esto :-D. Pero esta polémica la dejo para otro post.</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1626" class="post-1626 post type-post status-publish format-standard has-post-thumbnail hentry category-apple-informatica category-informatica category-objectivec category-programacion tag-apple tag-cocoa tag-nscoder-nights tag-objective-c">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/" title="8:04 pm" rel="bookmark"><time class="entry-date" datetime="octubre 20th, 2011">octubre 20th, 2011</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/" title="Permalink to Conferencia NSCoders Apple Conference 2011, ¡ya casi está aquí!" rel="bookmark">Conferencia NSCoders Apple Conference 2011, ¡ya casi está aquí!</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<div id="attachment_1627" style="width: 680px" class="wp-caption aligncenter"><a href="http://nsconf.nscoders.org/"><img class="size-full wp-image-1627" title="NSCoders Apple Conference 2001" src="/wp-content/uploads/2011/10/nsconf11.gif" alt="NSCoders Apple Conference 2001" width="670" height="260" srcset="/wp-content/uploads/2011/10/nsconf11.gif 670w, /wp-content/uploads/2011/10/nsconf11-300x116.gif 300w" sizes="(max-width: 670px) 100vw, 670px" /></a><p class="wp-caption-text">NSCoders Apple Conference 2001</p></div>
+<p style="text-align: justify;">¿Cómo? ¿Que aún no te has apuntado a la NSCoders Apple Conference 2011? ¡Pues ya estás tardando! Podrás ver allí a lo más granado de las distintas NSCoder Nights de toda España. Yo voy a impartir una de las sesiones. Así que ya sabes: no hay excusa para no invitarme a un café, o a un MacBook Air, lo que te venga mejor.</p>
+<p style="text-align: justify;">Por si esto de la NSCoder te deja frío y no sabes de qué te hablo, <a href="/2011/10/04/primera-conferencia-de-la-asociacion-nscoders-espana/">te recuerdo</a> que las NSCoder Nights son reuniones de programadores, diseñadores, gente interesada en el desarrollo en plataforma Apple, que se juntan en un bar a charlar, tomar unas copas, e incluso programar. En <a href="/2010/11/12/nscoder-nights-sevilla/">Sevilla tenemos una muy animada</a>, a la que te invito a venir, si te pasas por la ciudad. Incluso <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">puedes montar la tuya propia</a>.</p>
+<p style="text-align: justify;">El caso es que la idea ha cuajado, y han surgido como setas las NSCoders. Y claro, todos queremos más. Realmente nos da envidia la WWDC, pero es que es una pasta ir a San Francisco :-D. Y aquí va a ir gente de auténtico nivel. Yo voy de relleno.</p>
+<p>No le des más vueltas y reserva ya. ¡Es gratis!. Vente en barco, en avión o en burro, pero vente con tu Mac.</p>
+<p><strong>Keep coding!</strong></p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+			
+		
+		</div><!-- #content -->
+	</section><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search" class="widget widget_search">
+				<form method="get" id="searchform" class="searchform" action="/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" id="searchsubmit" value="Search" />
+	</form>
+		</aside>
+	</div><!-- #secondary -->
+
+	</div><!-- #main -->
+</div><!-- #page -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div id="footer-wrapper">
+		<div class="site-info">
+			<div id="site-info-wrapper">
+				<div id="site-info-wrapper2">
+										&#169; Copyright 2014 <a href="/">freniche.com</a>. Powered By <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">WordPress</a>.
+					<br />
+					Designed & Crafted by <a href="http://wpshower.com/">Wpshower</a>.
+				</div>
+			</div>
+		</div><!-- .site-info -->
+		<div id="social">
+			<div id="social_wrapper">
+				<div id="social_wrapper2">
+						<a href="https://twitter.com/dfreniche">w</a>
+						<a href="http://feeds.feedburner.com/dfreniche">r</a>
+					</div>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+
+<link rel='stylesheet' id='wp-markdown-prettify-css'  href='/wp-content/plugins/wp-markdown/css/prettify.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"es-ES","strings":{"Close":"Cerrar","Fullscreen":"Pantalla completa","Turn off Fullscreen":"Salir de pantalla completa","Go Fullscreen":"Ver en pantalla completa","Download File":"Descargar archivo","Download Video":"Descargar v\u00eddeo","Play":"Reproducir","Pause":"Pausa","Captions\/Subtitles":"Pies de foto \/ Subt\u00edtulos","None":"Ninguno","Time Slider":"Control de tiempo","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Reproductor de v\u00eddeo","Audio Player":"Reproductor de audio","Volume Slider":"Control de volumen","Mute Toggle":"Desactivar sonido","Unmute":"Activar sonido","Mute":"Silenciar","Use Up\/Down Arrow keys to increase or decrease volume.":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.13'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/wpshower-responsive-videos.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery.mousewheel.js?ver=3.1.6'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/fancybox/jquery.fancybox.js?ver=3b1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/prettify.min.js?ver=1.5.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/markdown.min.js?ver=1.5.1'></script>
+
+</body>
+</html>

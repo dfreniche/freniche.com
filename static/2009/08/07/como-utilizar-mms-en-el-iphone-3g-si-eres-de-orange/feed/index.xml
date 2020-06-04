@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Cómo utilizar MMS en el iPhone 3G, si eres de Orange</title>
+	<atom:link href="/2009/08/07/como-utilizar-mms-en-el-iphone-3g-si-eres-de-orange/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/08/07/como-utilizar-mms-en-el-iphone-3g-si-eres-de-orange/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2009/08/07/como-utilizar-mms-en-el-iphone-3g-si-eres-de-orange/comment-page-1/#comment-2623</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 06 Sep 2009 08:47:37 +0000</pubDate>
+		<guid isPermaLink="false">/2009/08/07/como-utilizar-mms-en-el-iphone-3g-si-eres-de-orange/#comment-2623</guid>
+		<description><![CDATA[@Ester:
+Creo que tienes ambas cosas. Este post actualizado y en:
+/2009/09/06/configuracion-del-iphone-para-navegar-por-internet-con-gprs/
+la configuración de Orange para navegar con GPRS. Con 3G desconozco los ajustes.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>@Ester:<br />
+Creo que tienes ambas cosas. Este post actualizado y en:<br />
+<a href="/2009/09/06/configuracion-del-iphone-para-navegar-por-internet-con-gprs/" rel="nofollow">/2009/09/06/configuracion-del-iphone-para-navegar-por-internet-con-gprs/</a><br />
+la configuración de Orange para navegar con GPRS. Con 3G desconozco los ajustes.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Ester</title>
+		<link>/2009/08/07/como-utilizar-mms-en-el-iphone-3g-si-eres-de-orange/comment-page-1/#comment-2619</link>
+		<dc:creator><![CDATA[Ester]]></dc:creator>
+		<pubDate>Sat, 05 Sep 2009 11:45:25 +0000</pubDate>
+		<guid isPermaLink="false">/2009/08/07/como-utilizar-mms-en-el-iphone-3g-si-eres-de-orange/#comment-2619</guid>
+		<description><![CDATA[Hola, 
+
+yo he probado los ajustes que das y no me sale el icono para enviar mms. He hecho algo mal?
+
+Por cierto, también me interesan los ajustes para internet con orange para el iPhone.]]></description>
+		<content:encoded><![CDATA[<p>Hola, </p>
+<p>yo he probado los ajustes que das y no me sale el icono para enviar mms. He hecho algo mal?</p>
+<p>Por cierto, también me interesan los ajustes para internet con orange para el iPhone.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

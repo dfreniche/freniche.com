@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>Java | freniche.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/readly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; RSS de los comentarios" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Java RSS de la etiqueta" href="/tag/java/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-style-css'  href='/wp-content/themes/readly/fancybox/jquery.fancybox.css?v=2.1.5&#038;ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='readly-style-css'  href='/wp-content/themes/readly/style.css?ver=4.8.13' type='text/css' media='all' />
+<style id='readly-style-inline-css' type='text/css'>
+.gallery .gallery-item {
+	max-width: 150px;
+}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.13' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery-ui-1.10.2.custom.min.js?ver=20130317'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/readly.js?ver=20140331'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 4.8.13" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.6';
+</script>
+<style type="text/css" media="screen">
+/* Begin WPvideo CSS */
+.wpv_videoc {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+/* border: 1px solid #aaa; */
+}
+
+.wpv_video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px 0 4px 0;
+	width: 425px;
+	height: 350px;
+}
+
+.wpv_rating {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+	font: 8pt "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	text-align: right;	
+}
+
+.wpv_titleauthor, .wpv_durationdate, .wpv_description {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #666;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+}
+
+.wpv_download {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+}
+
+.wpv_download a {
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #f44;
+}
+
+.wpv_download a:hover {
+	text-decoration: none;
+}
+
+.wpv_download img {
+	border: 0;
+}
+
+.wpv_self {
+	text-align: left;
+}
+
+.wpv_self a {
+	font: bold 9px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #000;
+}
+/* End WPvideo CSS */
+</style>
+
+<style type="text/css" id="custom-background-css">
+a {
+	color: #1e83cb;
+}
+.entry-content a {
+	-webkit-transition: border-bottom-color 0.2s linear;
+	-moz-transition: border-bottom-color 0.2s linear;
+	-o-transition: border-bottom-color 0.2s linear;
+	transition: border-bottom-color 0.2s linear;
+}
+.entry-content a:hover {
+	border-bottom-color: #1e83cb;
+}
+#masthead .site-title a, #site-navigation a, .sub-menu a, #nav-below a, .entry-title a, #image-navigation a {
+	-webkit-transition: color 0.2s linear;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+#masthead .site-title a:hover, #nav-below a:hover, .entry-title a:hover, #image-navigation a:hover {
+	color: #1e83cb;
+}
+#s, #commentform input[type="text"], #commentform textarea, .password_protected, #social a, a.more-link {
+	-webkit-transition: background-color 0.2s linear;
+	-moz-transition: background-color 0.2s linear;
+	-o-transition: background-color 0.2s linear;
+	transition: background-color 0.2s linear;
+}
+a.more-link span {
+	-webkit-transition: border-left-color 0.2s linear;
+	-moz-transition: border-left-color 0.2s linear;
+	-o-transition: border-left-color 0.2s linear;
+	transition: border-left-color 0.2s linear;
+}
+#s:focus, #commentform input[type="text"]:focus, #commentform textarea:focus, .password_protected:focus {
+	background-color: #fff;
+}
+#social a:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover span {
+	border-left-color: #1e83cb;
+}
+.entry-meta a, footer .site-info a, #comments a, .link_post_p a {
+	-webkit-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-moz-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-o-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	transition: color 0.2s linear, border-bottom-color 0.2s linear;
+}
+.entry-meta a:hover, footer .site-info a:hover, #comments a:hover, #comments a#cancel-comment-reply-link:hover, .link_post_p a:hover {
+	color: #1e83cb;
+	border-bottom-color: #1e83cb;
+}
+@media only screen and (min-width : 641px) {
+	#site-navigation a:hover, .sub-menu a:hover {
+		color: #1e83cb;
+	}
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+.hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #1e83cb;
+}
+</style>
+<script type="text/javascript">
+var hover_color = "#1e83cb";
+</script></head>
+
+<body class="archive tag tag-java tag-3">
+<header id="masthead" class="site-header" role="banner">
+	<div id="header-wrapper">
+		<hgroup>
+			<div id="hgroup-wrapper">
+				<div id="hgroup-wrapper2">
+					<h1 class="site-title"><a href="/" title="freniche.com" rel="home">freniche.com</a></h1>
+					<h2 class="site-description">Another personal blog about everything tech-related</h2>
+				</div>
+			</div>
+		</hgroup>
+
+		<nav id="site-navigation" class="navigation-main" role="navigation">
+			<div id="site-navigation-wrapper">
+				<div id="site-navigation-wrapper2">
+					<h1 class="menu-toggle">Menu<span>m</span></h1>
+					<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2650"><a href="/about">Acerca de&#8230;</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://www.github.com/dfreniche/cv">CV</a></li>
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="/ios-apps/">iOS Apps</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="/formacion/">Formación</a></li>
+</ul>
+</li>
+<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="/contactar/">Contactar</a></li>
+<li id="menu-item-2649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2649"><a href="/mis-entradas-favoritas/">Lo mejor del blog</a></li>
+<li id="menu-item-2648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="/archivo-blog/">Archivo</a></li>
+<li id="menu-item-1993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1993"><a href="http://www.cafeycocoa.com.es/">Otros Proyectos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2652"><a href="http://wedevelopers.com/">Podcast We.Developers</a></li>
+	<li id="menu-item-2051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2051"><a href="http://readthencode.tumblr.com/">Read Then Code</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1996"><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a></li>
+	<li id="menu-item-1995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1995"><a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.youtube.com/dfreniche">YouTube</a></li>
+	<li id="menu-item-1992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1992"><a href="https://www.flickr.com/photos/dfreniche">Flickr</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</div>
+</header><!-- #masthead -->
+
+<div id="page" class="hfeed site">
+	<div id="main" class="site-main">
+
+	<section id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+		
+			<header class="page-header">
+				<h1 class="page-title">
+					Tag Archives: <span>Java</span>				</h1>
+							</header><!-- .page-header -->
+
+						
+				
+<article id="post-2752" class="post-2752 post type-post status-publish format-standard hentry category-informatica category-java category-programacion tag-certificaciones tag-java tag-java-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2017/05/24/como-preparar-las-certificaciones-de-java-y-probablemente-el-resto/" title="1:28 pm" rel="bookmark"><time class="entry-date" datetime="mayo 24th, 2017">mayo 24th, 2017</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2017/05/24/como-preparar-las-certificaciones-de-java-y-probablemente-el-resto/" title="Permalink to Cómo preparar las certificaciones Java (y probablemente el resto)" rel="bookmark">Cómo preparar las certificaciones Java (y probablemente el resto)</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p>Estoy preparándome la certificación OCP Java SE 8. No preguntes por qué. Quizás porque soy <a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/">adicto a coleccionarlas</a>, tras tener el SCJP 1.5, 1.6, SCWCD 1.5 y SCBCD 1.3 y llevaba años sin presentarme a ninguna. O porque las que tengo ya son <em>antiguas</em> y quería tener una actualizada. O porque quería aprender Java 8 con cierta profundidad, ver todo lo nuevo que tiene que ofrecer (que es mucho, aunque quizás llega tarde) y compararlo con lo que he aprendido en otros lenguajes (Swift, te estoy mirando).</p>
+<p>Además, he tenido la oportunidad de preparar a varios grupos para obtener esta certificación&#8230; que yo ahora mismo no tengo. <a href="/2015/08/11/fraudismo-101-ensenar-las-verguenzas/"><em>Fraudismo at its best</em></a>. Aunque en este caso no tengo tanto síndrome del impostor por una razón: puede que no tenga (aún) la certificación Java 8, y mis conocimientos de Java son muy mejorables, pero me autotitulo como el <em>mayor experto mundial en aprobar estos exámenes</em>. Y eso es gracias a mi sistema, el <em>Sistema Freniche para aprobar las Certificaciones Java</em> AKA sentido común.</p>
+<h2>El Sistema Freniche para aprobar las Certificaciones Java</h2>
+<p>Es un sistema muy probado, tanto personalmente como con montones de alumnos que he preparado para distintas certificaciones. Se basa en 9 pasos:</p>
+<ol>
+<li>
+<p>Buscar un buen libro, que cubra todo el temario de la certificación. En este caso, he escogido el <a href="https://www.amazon.es/OCP-Certified-Professional-Programmer-1Z0-809/dp/1119067901/ref=sr_1_1?ie=UTF8&amp;qid=1490033852&amp;sr=8-1&amp;keywords=ocp">oficial de Oracle</a></p>
+</li>
+<li>
+<p>Leer el libro, saboreando cada capítulo. Aunque el objetivo último es aprobar el examen, hay mucho que podemos aprender aunque tengamos muchos años de experiencia con Java. <em>Especialmente</em> si tenemos muchos años de experiencia con Java trabajando siempre en proyectos similares, porque habrá montones de cosas que no hemos probado o visto por falta de tiempo.</p>
+</li>
+<li>
+<p>Escribe código. Mucho código. Haz pequeños ejemplos. Búscate las vueltas. Piensa retorcidamente. Prueba cosas extrañas (ver anexo Cosas Extrañas al final)</p>
+</li>
+<li>
+<p>Crea tus propios apuntes. O extiende <a href="https://github.com/dfreniche/ocp-java8-notes">los míos</a></p>
+</li>
+<li>
+<p>Escribe más código. Cuando te surjan dudas, vuelve a leer esa parte del libro. Y vuelve a escribir código probando todo.</p>
+</li>
+<li>
+<p>Cuando termines el libro, haz las preguntas de repaso de cada tema. Descubrirás que aún no has memorizado o te has fijado en partes. Goto 2</p>
+</li>
+<li>
+<p>Busca un simulador de exámenes. En mi caso siempre uso <a href="http://enthuware.com/index.php/mock-exams/oracle-certified-professional/ocpjp-8-questions">Enthuware</a> porque me ha ido bien (no porque me paguen por hacerles publicidad, aunque ya podrían 🙂 )</p>
+</li>
+<li>
+<p>Haz exámenes de prueba. Falla. Vuelve a leer. Escribe código. Haz exámenes.</p>
+</li>
+<li>
+<p>Cuando en los exámenes del simulador estés llegando al 80% de aciertos, preséntate. Pasarás con nota.</p>
+</li>
+</ol>
+<h2>¿Cuánto tiempo me va a llevar esto?</h2>
+<p>Pues depende. Leer el libro e ir probando pueden ser unas 30 h. Y luego hay que hacer los exámenes de prueba. Lo ideal es ponerse una fecha tope y en un par de meses <em>power through it</em>. Quitártelo de en medio, vamos.</p>
+<p>Aunque recibir un excelente curso de formación, patrocinado por tu empresa e impartido por un profesional de prestigio siempre puede ayudarte bastante y</p>
+<p><code>(interrumpimos este _shameless plug_ para continuar con lo que has venido a leer aquí)</code></p>
+<h2>Cómo presentarte al examen</h2>
+<p>Yo tengo mi ritual, pero lo ideal es que cada uno ejecute el suyo, porque lo normal es que estés nervioso/a ese día. Lo que yo hago es:</p>
+<ul>
+<li>levantarme bastante temprano</li>
+<li>comprobar que llevo algún documento, como el DNI en España que me identifique. Si no, no puedo hacer el exámen.</li>
+<li>llegar con más de 1h de adelanto a los alrededores de donde tenga el Centro Prometric para presentarme.</li>
+<li>desayunar o tomar café. Aunque el examen sea a las 13:00h en Sevilla en Agosto. Café. Para estar <em>tranquilo</em>.</li>
+<li>llevar el libro de preparación de la certificación conmigo en la mochila, aunque no lo voy a leer mientras tomo café ni me van a dejar tenerlo conmigo durante el examen. Lo uso de talismán y porque no soy el más listo. Pero tengo que sentir que está cerca por si me ataca el pánico y alguna duda concreta en el último momento.</li>
+<li>cargar con el portátil que no me van a dejar usar por las mismas razones que el punto anterior: porque no soy demasiado astuto.</li>
+<li>llevar agua. Y caramelos. Para darte un premio según avance el exámen y beber para mantenerse hidratado.</li>
+<li>ir al cuarto de baño justo antes de entrar, porque voy a estar bebiendo más agua que un caracol en el desierto durante la prueba.</li>
+</ul>
+<h2>¿Pero esto de las certificaciones sirve para algo?</h2>
+<p>Pues esto es un debate interesante, que puedes tener con quien quieras menos conmigo poque que en mi caso lo tengo bastante claro:</p>
+<ul>
+<li>las certificaciones no demuestran que sepas más Java que nadie</li>
+<li>demuestran que eres capaz de fijarte un objetivo, que te va a requerir un esfuerzo extra y cierto sacrificio y pasarlo</li>
+<li>demuestran que tienes una base en el lenguaje Java</li>
+<li>preparar esta certificación me ha supuesto toda una sorpresa, porque la he encontrado 100% útil: multihilo con Thread Pools y el paquete <code>java.util.concurrent</code>, programación funcional con Lambdas, map, reduce, streams, parallel streams, problemas de concurrencia y multihilo, acceso a BDs con JDBC (que hasta ahora era lo único que usaba en Android), uso de ficheros, excepciones, Opcionales,&#8230;</li>
+<li>demuestran que eres capaz de estar 2 horas y media seguidas trabajando enfocado en una sola tarea, sin usar Internet ni mirar Twitter. Y eso es una rara cualidad hoy día, en los entornos multi-interrupción de que <em>disfrutamos</em> trabajando. </li>
+</ul>
+<p>Esto último es probablente lo más difícil. Ser capaz de nuevo de estar haciendo una tarea durante 2 horas y media sin moverte de la silla. Esto se entrena con los exámenes del simulador. Y es duro, porque tú eres tu mayor enemigo.</p>
+<h2>Anexo: Cosas extrañas</h2>
+<p>Cosas que puedes hacer con Java, como escribir bucles así</p>
+<pre><code>Predicate&lt;Integer&gt; end = e -&gt; e &lt; 10; int i = 0; 
+for (int j = 1; end.test(i) ; i++, j++, System.out.println("i " + i)) ;
+
+// imprime i 1, i 2, i 3...
+</code></pre>
+<p>Usar bloques de código de instancia (NO usar en código real)</p>
+<pre><code>class Cat {
+    String name;
+
+    {
+        System.out.println("I'm a Cat!");
+        name = "Meow!";
+    }
+
+    Cat() {
+        name = "Garfield";
+    }
+}
+</code></pre>
+<p>Programar «código encriptado» 😀</p>
+<pre><code>class _ {
+    String _ = "Hello";
+}
+
+// más adelante...
+
+_ _ = new _();
+System.out.println(_._);   // imprime "Hello"
+
+_ $ = _;
+System.out.println($._);   // imprime "Hello"
+</code></pre>
+<p>Y otras muchas barbaridades que podría añadir&#8230;</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1050" class="post-1050 post type-post status-publish format-standard hentry category-informatica category-java category-programacion category-scjp tag-certificaciones tag-java tag-scjp tag-scwcd">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2010/06/25/scwcd-aprobado/" title="11:05 pm" rel="bookmark"><time class="entry-date" datetime="junio 25th, 2010">junio 25th, 2010</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2010/06/25/scwcd-aprobado/" title="Permalink to SCWCD aprobado!" rel="bookmark">SCWCD aprobado!</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p style="text-align: justify;">Un poco (más) de autobombo. <a href="/2010/06/09/preparando-el-scwcd/">Comentaba hace unos días</a> que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. Hoy, tras un par de semanas intensas y más sufrimiento del que esperaba, lo he aprobado con un 79%. Un poco raspado, ya que el aprobado está en el 70%, pero&#8230; está aprobado, ¿no?</p>
+<p style="text-align: justify;">Esta certificación se une al Sun Certified Java Programmer 1.5 y Sun Certified Business Component Developer 1.3 que ya tenía. Y, si todo va bien, a finales de Julio me presentaré al SCJP 1.6, para así tener estas cuatro certificaciones y poder cobrar mis horas a precio de <em>Gurú</em> :-). No, ahora en serio, voy a intentar aplicar estas certificaciones en algo que quiero preparar en los próximos meses. Permanezcan atentos a sus receptores&#8230;</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-1036" class="post-1036 post type-post status-publish format-standard hentry category-emprendiendo category-informatica category-iphone category-java category-objectivec category-programacion tag-emprendiendo tag-iphone tag-java tag-libros">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2010/06/10/leyendo-para-emprender/" title="10:44 am" rel="bookmark"><time class="entry-date" datetime="junio 10th, 2010">junio 10th, 2010</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2010/06/10/leyendo-para-emprender/" title="Permalink to Leyendo para emprender" rel="bookmark">Leyendo para emprender</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p style="text-align: justify;"><img class="aligncenter size-full wp-image-1037" title="libros" src="/wp-content/uploads/2010/06/libros.jpg" alt="" width="399" height="600" srcset="/wp-content/uploads/2010/06/libros.jpg 399w, /wp-content/uploads/2010/06/libros-199x300.jpg 199w" sizes="(max-width: 399px) 100vw, 399px" />Cuando el año pasado en Octubre, <a href="/2009/11/29/iniciando-una-nueva-etapa/">decidí dejar Isotrol e iniciar una nueva etapa</a> en solitario programando apps para el iOS (el S.O. del iPhone, iPod Touch e iPad) tenía claro que no quería cometer viejos errores de mis anteriores etapas como empresario. Quería crecer y mejorar, como persona, como profesional y como emprendedor. Por ello me metí en Amazon y compré un conjunto de libros que tocan estos tres temas.</p>
+<p style="text-align: justify;">Pero claro, comprar los libros no es lo mismo que leerlos. Y leerlos no es lo mismo que comprenderlos. Y, en cualquier caso, lo importante, lo único importante de toda preparación, es aplicar lo aprendido. Leer, comprender, aceptar e interiorizar no son nada comparados con <strong>hacer</strong>. La parte más importante del Getting Thing Done es, precisamente, el Done.</p>
+<p>De momento, llevo leídos:</p>
+<ul>
+<li style="text-align: justify;"><a href="http://www.casadellibro.com/libro-gestiona-mejor-tu-vida-claves-y-habitos-para-ser-mas-productivo-/1486821/2900001342546?gclid=cn3-joiolaicfrg8laod8jaeea">Gestiona mejor tu vida</a>, de <a href="http://albertopena.com/libro/">Berto Pena</a>, librazo que recomiendo a cualquiera que sienta que no le llegan las horas al final del día.</li>
+<li style="text-align: justify;">The 4 hour workweek, un libro revolucionario por lo simple que te plantea cómo cambiar las cosas. Hay que leerlo dejándose retar por las nuevas ideas de Tim Ferriss y ser capaz de ser flexibles y responder al reto. Me lo recomendó Jaime Gallo y ha sido una revelación.</li>
+<li style="text-align: justify;">Beginning iPhone 3 Development ha sido mi primer libro de iPhone SDK, y me ha ayudado a preparar mis primeras Apps. He necesitado leerme también (en formato electrónico, no aparece en la foto) Learn Objective-C on the Mac, para tener una idea del lenguaje que está detrás de Cocoa Touch y no perderme. Este último me ha encantado, porque es muy académico y directo. Si sabes C, o Java, te explica las cosas con profundidad y sin mitos. Pero no te lleva de la manita, ni trata de suavizar según que cosas.</li>
+</ul>
+<p>Estoy ahora mismo con:</p>
+<ul>
+<li>Head First Servlets &amp; JSP, por aquello de <a href="/2010/06/09/preparando-el-scwcd/">prepararme el SCWCD</a>.</li>
+</ul>
+<p>Y luego vendrán:</p>
+<ul>
+<li>En Julio, SCJP 1.6 Study Guide.</li>
+<li>Y en Agosto &#8211; Septiembre, mezclaré los libros de Joel Spolsky y Micro ISV con el segundo del iPhone, iPhone SDK 3 Programming.</li>
+</ul>
+<p style="text-align: justify;">Por supuesto, seguiremos leyendo en blogs, en PDFs (algo del iPad habrá que mirar), etc. Es fundamental el estar permanentemente formándonos, revisando, mejorando (o intentándolo). Tener curiosidad y ganas de aprender es uno de los ingredientes de la salsa de la vida.</p>
+<p style="text-align: center;"><strong>¿Y tú? ¿Con qué libros andas ahora? ¿Me recomiendas alguno?</strong></p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-330" class="post-330 post type-post status-publish format-standard hentry category-java category-programacion category-scjp tag-java tag-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/" title="3:57 pm" rel="bookmark"><time class="entry-date" datetime="marzo 1st, 2009">marzo 1st, 2009</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2009/03/01/ya-ha-pasado-el-mes-de-descanso-mental/" title="Permalink to Ya ha pasado el mes de descanso mental" rel="bookmark">Ya ha pasado el mes de descanso mental</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p align="justify">Cuando <a href="/2009/02/05/scbcd-aprobado-tambien/trackback/">aprobé el SCBCD</a>, el pasado Enero, terminé con el cerebro como si tuviera a <a href="http://es.wikipedia.org/wiki/Enfermedad_de_Creutzfeldt-Jakob">Bob Esponja</a> en lugar de meninges. Decidí darme un mes para recuperar la temperatura de funcionamiento normal de mi cabeza. Ese mes ha pasado, y hoy voy a empezar con el SCWCD. Otra sopa de letras. Esta es la certificación de Java EE sobre Servlets y JSP, y alguna tecnología web más.</p>
+<p align="justify">No tengo ni idea de cuándo me voy a presentar. Esta vez quiero dedicar un mes a leerme el libro y, cuando lo tenga visto, hacer exámenes de prueba tranquilamente. Y luego presentarme.</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-325" class="post-325 post type-post status-publish format-standard hentry category-java category-programacion category-scjp tag-certificaciones tag-java tag-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2009/02/05/scbcd-aprobado-tambien/" title="1:41 pm" rel="bookmark"><time class="entry-date" datetime="febrero 5th, 2009">febrero 5th, 2009</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2009/02/05/scbcd-aprobado-tambien/" title="Permalink to SCBCD aprobado, también" rel="bookmark">SCBCD aprobado, también</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p>Ya comenté en Diciembre que <a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/trackback/">había aprobado el SCJP</a> (Certificación de Sun como Programador Java, v1.5). Pues bien, hace una semana aprobé la SCBCD, la certificación de desarrollador de componentes de negocio, v1.3.</p>
+<p>¿Bueno, y qué es ésto?. Una manera de demostrar que medio empiezo a entender qué es un Enterprise Java Bean (EJB), que es, explicado muy llanamente, un componente (un conjunto de clases java, archivos de configuración XML y otras muchas cositas y reglas) que se comprime en formato ZIP y que permite representar datos, tratar mensajes o bien gestionar los procesos de una web. Supongo que los puristas se estarán removiendo en su silla por esta explicación, pero es que no quiero extenderme ni largar un rollo sobre EJBs.</p>
+<p>Este año, 2009, me quiero dedicar a «coleccionar» certificaciones. Me explico. Durante unos años he sido profesor errante de diversas materias. Desde Java básico a gestión de proyectos. Y he tenido que leer un par de libros. Creo que ahora es tiempo de recoger y plasmar en <em>titulitos</em> del fabricante lo que se supone que medio controlo.</p>
+<div id="attachment_434" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/02/libros1.jpg"><img class="size-full wp-image-434" title="libros" src="/wp-content/uploads/2009/02/libros1.jpg" alt="Algunos de los libros frikis que poseo" width="800" height="531" srcset="/wp-content/uploads/2009/02/libros1.jpg 800w, /wp-content/uploads/2009/02/libros1-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Algunos de los libros frikis que poseo</p></div>
+<p>La siguiente certificación va a ser el Desarrollador de Componentes Web (SCWCD). Probablemente después venga el SCJD y a lo mejor alguna certificación Linux, como la LPI-1 (la sencillita).</p>
+<p>Pero antes, me voy a dar un mes de reposo mental, que falta me hace, mientras espero el suspenso en la certificación de ITIL Service Manager 🙂</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-300" class="post-300 post type-post status-publish format-standard hentry category-programacion category-scjp tag-certificaciones tag-java tag-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/" title="7:25 pm" rel="bookmark"><time class="entry-date" datetime="diciembre 22nd, 2008">diciembre 22nd, 2008</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/" title="Permalink to SCJP 1.5 aprobado con un pírrico 70%, pero aprobado al fin" rel="bookmark">SCJP 1.5 aprobado con un pírrico 70%, pero aprobado al fin</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p>Probablemente los SCJPs entre el público piensen «pues vaya nota», «tampoco es para sacar pecho publicándola», etc. Y tienen razón. Para aprobar el SCJP es necesario sacar al menos un 59%, y con un 70% uno está más que aprobado. Con lo que una buena nota sería del 80% para arriba. Pero considerando mi situación actual:</p>
+<ul>
+<li>con dos niños de menos de 3 años el mayor. Vamos, que no duermo mucho.</li>
+<li>viviendo a 120 Km del lugar de trabajo (3 h. de desplazamientos diarios, para que luego digan que la juventud no queremos trabajar 🙂 )</li>
+<li>con unos años ya, ¡que la costumbre de estudiar se pierde!</li>
+<li>con el nuevo rol que desempeño en Isotrol de Service Manager, que me exige un 120% de dedicación.</li>
+</ul>
+<p>estoy feliz de haber <em>cumplido</em>, como me exigía a mi mismo <a href="/2008/01/02/preparando-el-scjp-2/trackback/">en éste post</a>.</p>
+<p>Y al final lo que cuenta es, al final, tenerlo o no. Y ya lo tengo. Algo más tarde de lo que comentaba <a href="/2008/06/04/fecha-para-el-scjp/trackback/">en un post pasado</a>, pero al final lo que bien acaba&#8230;</p>
+<p>Para prepararlo, he seguido todo lo que comentaba <a href="/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/trackback/">en éste post</a>, pero además he añadido los test de preparación de <a href="http://www.enthuware.com/">Enthuware</a>, tests que recomiendo encarecidamente (no me llevo comisión) ya que imitan a la perfección el entorno que después te encuentras en el examen. Y el coste es de risa, comparado con lo que te ayudan a estudiar.</p>
+<p>Durante la certificación he generado mucho, pero que mucho código fuente de ejemplo. No estaría mal subirlo por aquí cuando tenga un rato.</p>
+<p>Y ahora, a preparar el SCBCD, Sun Certified Business Component Developer, el de los EJBs&#8230; y el Service Manager de ITIL&#8230; a la vez&#8230; y en Navidades&#8230; si es que&#8230;</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-268" class="post-268 post type-post status-publish format-standard hentry category-java category-perry category-scjp tag-java tag-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2008/06/04/fecha-para-el-scjp/" title="6:33 pm" rel="bookmark"><time class="entry-date" datetime="junio 4th, 2008">junio 4th, 2008</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2008/06/04/fecha-para-el-scjp/" title="Permalink to Fecha para el SCJP" rel="bookmark">Fecha para el SCJP</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p align="justify">Ya comenté en entradas anteriores que quería sacarme el <a href="/2008/01/02/preparando-el-scjp-2/">SCJP</a>, y <a href="/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/">con qué armas estaba afrontando el lance</a>. Pero el tiempo pasa, y no hay examen a la vista. Por eso, hoy me he comprometido con un compañero a presentarnos ambos el 1 de Septiembre. Con una fecha límite todo es más sencillo.</p>
+<p>&lt;</p>
+<p>p align=»justify»>Ahora hay que mantener la <em>machada</em>.</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-87" class="post-87 post type-post status-publish format-standard hentry category-faq category-java category-linux tag-faq tag-java tag-linux">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2008/04/09/instalar-a-mano-el-plugin-java-para-firefox-en-linux/" title="12:56 pm" rel="bookmark"><time class="entry-date" datetime="abril 9th, 2008">abril 9th, 2008</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2008/04/09/instalar-a-mano-el-plugin-java-para-firefox-en-linux/" title="Permalink to Instalar a mano el plugin Java para Firefox en Linux" rel="bookmark">Instalar a mano el plugin Java para Firefox en Linux</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p align="justify">Una vez más, me he sentado en un ordenador con Debian instalada y al intentar ejecutar un Applet me ha aparecido la pantalla <em>«te faltan plugins adicionales, etc. etc.»</em>. Con mi cerebro pilotando en modo automático, abrí Synaptic desde una consola pero lo cerré inmediatamente. Recordaba que en esa máquina había una máquina virtual de Java instalada en /opt. El JRE incluye los plugins que necesita Firefox y todo se resume en crear un enlace simbólico al fichero correcto en la carpeta adecuada. Lo de siempre, vamos.</p>
+<p> Tras un par de segundos buscando las carpetas y ficheros adecuados con el tabulador desde una consola, la secuencia es la siguiente:</p>
+<pre>$ cd $HOME/.mozilla/plugin
+$ ln -s /opt/jdk1.5.0_07/jre/plugin/i386/ns7/libjavaplugin_oji.so</pre>
+<p>Suponiendo, claro, que el JRE está instalado en /opt. Si no, cambia adecuadamentela línea y listo.</p>
+<p>Me lo apunto aquí, no vaya a ser que se me olvide&#8230; otra vez.</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-13" class="post-13 post type-post status-publish format-standard hentry category-java category-programacion category-scjp tag-java tag-scjp">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/" title="6:54 pm" rel="bookmark"><time class="entry-date" datetime="enero 20th, 2008">enero 20th, 2008</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/" title="Permalink to Herramientas que estoy usando para conseguir el SCJP" rel="bookmark">Herramientas que estoy usando para conseguir el SCJP</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p><span class="Apple-style-span" style="color: #444444; font-family: 'Lucida Sans Unicode'; font-size: 10px; line-height: normal"></span></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em" align="justify">Se podría pensar que para superar el SCJP, que a fin de cuentas no es más que un examen, bastaría con disponer de papel, lápiz, neuronas y cafeína en abundancia. Sin más misterios, lo más importante es estudiar, con todo lo que conlleva: entender, comprender, aprehender, memorizar, practicar&#8230;<br style="margin: 0px; padding: 0px" />Pero lo cierto es que estoy usando algunas otras<em style="margin: 0px; padding: 0px"> herramientas</em>, bien en la forma de libros, o de programas, que me están ayudando a conseguir alguno de los anteriores objetivos.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><strong style="margin: 0px; padding: 0px">Libros<br style="margin: 0px; padding: 0px" /></strong><br style="margin: 0px; padding: 0px" />&#8211; en primer lugar me estoy leyendo los libros oficiales de Sun, correspondientes a los cursos SL-110: Fundamentals of the Java Programming Language, y SL-275 El lenguaje de programación Java. Estos libros, que en apariencia son muy sencillos y hasta inocentes, hacen hincapié en temas muy sensibles para la certificación. Por ejemplo, se deja caer que l<a href="http://java.sun.com/j2se/1.5.0/docs/api/java/lang/String.html" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">os Strings en Java son inmutables</a>. Esta afirmación encierra mucho<em style="margin: 0px; padding: 0px"> dolor</em> si no se entiende, ya que el funcionamiento de los literales String y de la clase String es fundamental, tanto para programar con Java como para superar el SCJP.<br style="margin: 0px; padding: 0px" />&#8211; tras estos libros voy a pasar a leerme el libro de Kathy Sierra y Bert Bates, <a href="http://www.amazon.com/Certified-Programmer-310-055-Certification-Guides/dp/0072253606/ref=pd_bbs_sr_1?ie=UTF8&amp;s=books&amp;qid=1200846605&amp;sr=8-1" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">SCJP Sun Certified Programmer for Java 5 Study Guide</a>. De momento lo he hojeado y tiene muy buena pinta, pero nada más.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">&#8211; hoy he realizado la reserva de <a href="http://www.amazon.com/Certified-Programmer-Practice-310-055-Certification/dp/0072260882/ref=pd_sim_b_title_2" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">SCJP Sun Certified Programmer for Java 5 Practice Exams</a>, para hacer exámenes por un tubo una vez acabemos con la teoría.<br style="margin: 0px; padding: 0px" /></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><strong style="margin: 0px; padding: 0px">Un grupo de estudio</strong></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">En <a href="https://www.isotrol.com/" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">Isotrol</a> hay actualmente varias personas preparándose para obtener el SCJP. Pocas cosas motivan más a la hora de estudiar que hacerlo en grupo. Al compartir experiencias, uno pone el foco en algo que a los demás les ha pasado desapercibido, otro ha descubierto una web que merece la pena, un tercero dispone de unos apuntes o ejemplos geniales&#8230; La idea es disponer de una lista de correo, una página en la Wiki de Isotrol y tener reuniones periódicas para hablar de Java.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><strong style="margin: 0px; padding: 0px">Programas</strong></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">Por supuesto. Además del JDK y el vi, algo más vendría bién.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">En primer lugar, para tomar apuntes, <a href="http://freemind.sourceforge.net/wiki/index.php/Main_Page" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">FreeMind</a> es ideal. Una vez se acostumbra uno de nuevo a hacer esquemas, no puedes pasar sin él. Algunos ejemplos de los mapas, exportados a swf están en: <a href="http://www.freniche.com/noticias/noticia/que-me-interesa/java/scjp/apuntes/" title="Opens internal link in current window" class="internal-link" style="margin: 0px; padding: 0px; color: #3366cc">apuntes SCJP</a><br style="margin: 0px; padding: 0px" />Por otro lado, el entorno Eclipse, para mi el único entorno para programar en Java (aunque NetBeans tampoco está mal)</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">Aunque no exactamente un programa (a fin de cuentas es un servicio), los Blocks de Notas de Google me ayudan a no olvidar enlaces interesantes para posterior lectura. Aquí tienes un enlace a mi <a href="http://www.google.com/notebook/public/05755056901245864311/BDSdwQwoQ7Puu2vEi?hl=es" title="Opens external link in new window" target="_blank" class="external-link-new-window" style="margin: 0px; padding: 0px; color: #3366cc">block de notas de SCJP, oficialmente declarado zona de desastre.</a></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em">Moodle. Además de ser una plataforma de e-learning, Moodle permite generar exámenes con preguntas aleatorias. Perfecto para ir apuntando cosas y luego repasarlas de forma divertida. Pronto dispondré de un Moodle operativo en freniche.com, con preguntas del SCJP. Por supuesto, será libre de usar, como el resto de la web.</p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><strong style="margin: 0px; padding: 0px">Mi iPaq HW6915</strong></p>
+<p class="bodytext" style="margin: 0px; padding: 0px 0px 1.2em; font-size: 1.2em"><a href="http://www.freniche.com/noticias/noticia/que-me-interesa/hp-ipaq-hw6915/" title="Opens internal link in current window" class="internal-link" style="margin: 0px; padding: 0px; color: #3366cc">Esta es mi gran baza</a> para aprovechar el tiempo en el tren, en la espera de los desayunos, en cualquier sitio. Su capacidad de leer el correo, documentos en formato HTML / PDF / DOC y poder navegar por Internet le hacen el compañero ideal para estudiar arañando minutos al día.</p>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+				
+<article id="post-46" class="post-46 post type-post status-publish format-standard hentry category-java category-programacion tag-isotrol tag-java">
+		<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2007/11/20/una-de-patrones-de-diseno/" title="8:14 pm" rel="bookmark"><time class="entry-date" datetime="noviembre 20th, 2007">noviembre 20th, 2007</time></a>
+			
+					</div><!-- .entry-meta -->
+				<h1 class="entry-title">	
+			<a href="/2007/11/20/una-de-patrones-de-diseno/" title="Permalink to Una de patrones de diseño" rel="bookmark">Una de patrones de diseño</a>
+		</h1>
+			</header><!-- .entry-header -->
+	
+	
+	<div class="entry-content">
+		<p>Me ha pasado <a href="http://www.ajsa.net/" title="Opens external link in new window" target="_blank" class="external-link-new-window">AJSA</a> de <a href="http://www.isotrol.com/" title="Opens external link in new window" target="_blank" class="external-link-new-window">Isotrol</a> un par de enlaces muy interesantes sobre Patrones de Diseño a los que he añadido otro par sacados de la lista <a href="http://www.freniche.com/imasd/" title="Opens internal link in current window" class="internal-link">I+D</a>. Para los que no sepan de qué va esto, un Patrón de Diseño te muestra cómo diseñar (valga la repugnancia) el código de tu programa para hacer frente a un problema al que otras personas más sabias ya se han enfrentado. Es la reutilización pura y dura de las <em>ideas</em>, y no del <em>código</em>.</p>
+<p class="bodytext">Bueno, no me enrollo más, mejor vete a leer los enlaces:</p>
+<blockquote style="margin-bottom: 0pt; margin-top: 0pt"></blockquote>
+<ul>
+<li>La Biblia de los Patrones de Diseño: <a href="http://en.wikipedia.org/wiki/Design_Patterns" title="Opens external link in new window" target="_blank" class="external-link-new-window">el libro del GoF</a> (Gang of Four, la banda de los cuatro, tiene narices el personal cuando se pone a inventar nombres&#8230;)</li>
+<li><a href="http://chuidiang.blogspot.com/2005/12/qu-son-los-patrones-de-diseo-el-patrn.html" title="Opens external link in new window" target="_blank" class="external-link-new-window">Una explicación breve de qué son los Patrones, sin entrar en verlos uno a uno</a></li>
+<li><a href="http://www2.ing.puc.cl/%7Ejnavon/IIC2142/patexamples.htm" title="Opens external link in new window" target="_blank" class="external-link-new-window">Ejemplos de Patrones de diseño con cosas de la vida real</a></li>
+<li><a href="http://freemind.sourceforge.net/wiki/extensions/freemind/flashwindow.php?startCollapsedToLevel=2&amp;initLoadFile=/wiki/images/0/02/Software_design_patterns.mm&amp;mm_title=Software_design_patterns.mm" title="Opens external link in new window" target="_blank" class="external-link-new-window">Un expectacular mapa mental (creado con FreeMind) de los Patrones y Anti-patrones </a></li>
+</ul>
+<blockquote style="margin-bottom: 0pt; margin-top: 0pt"></blockquote>
+	</div><!-- .entry-content -->
+
+				
+	<div class="article-separator">j j j</div>
+</article><!-- #post-## -->
+
+			
+			
+		
+		</div><!-- #content -->
+	</section><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search" class="widget widget_search">
+				<form method="get" id="searchform" class="searchform" action="/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" id="searchsubmit" value="Search" />
+	</form>
+		</aside>
+	</div><!-- #secondary -->
+
+	</div><!-- #main -->
+</div><!-- #page -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div id="footer-wrapper">
+		<div class="site-info">
+			<div id="site-info-wrapper">
+				<div id="site-info-wrapper2">
+										&#169; Copyright 2014 <a href="/">freniche.com</a>. Powered By <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">WordPress</a>.
+					<br />
+					Designed & Crafted by <a href="http://wpshower.com/">Wpshower</a>.
+				</div>
+			</div>
+		</div><!-- .site-info -->
+		<div id="social">
+			<div id="social_wrapper">
+				<div id="social_wrapper2">
+						<a href="https://twitter.com/dfreniche">w</a>
+						<a href="http://feeds.feedburner.com/dfreniche">r</a>
+					</div>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+
+<link rel='stylesheet' id='wp-markdown-prettify-css'  href='/wp-content/plugins/wp-markdown/css/prettify.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"es-ES","strings":{"Close":"Cerrar","Fullscreen":"Pantalla completa","Turn off Fullscreen":"Salir de pantalla completa","Go Fullscreen":"Ver en pantalla completa","Download File":"Descargar archivo","Download Video":"Descargar v\u00eddeo","Play":"Reproducir","Pause":"Pausa","Captions\/Subtitles":"Pies de foto \/ Subt\u00edtulos","None":"Ninguno","Time Slider":"Control de tiempo","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Reproductor de v\u00eddeo","Audio Player":"Reproductor de audio","Volume Slider":"Control de volumen","Mute Toggle":"Desactivar sonido","Unmute":"Activar sonido","Mute":"Silenciar","Use Up\/Down Arrow keys to increase or decrease volume.":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.13'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/wpshower-responsive-videos.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery.mousewheel.js?ver=3.1.6'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/fancybox/jquery.fancybox.js?ver=3b1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/prettify.min.js?ver=1.5.1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/markdown.min.js?ver=1.5.1'></script>
+
+</body>
+</html>

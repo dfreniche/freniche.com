@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>FogBugz &#8211; freniche.com</title>
+	<atom:link href="/tag/fogbugz/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Episodio 19 de 85% Cocoa</title>
+		<link>/2011/03/18/episodio-19-de-85-cocoa/</link>
+		<pubDate>Fri, 18 Mar 2011 10:15:49 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[FogBugz]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Productos]]></category>
+
+		<guid isPermaLink="false">/?p=1439</guid>
+		<description><![CDATA[Que escucho 85% Cocoa habitualmente es algo que cualquiera que se lea mi timeline de Twitter verá en un rato. Es un podcast que te anima a seguir aprendiendo cosas en el mundo del desarrollo Mac con Cocoa, y que trata también temas extrapolables al desarrollo con cualquier lenguaje. ¡Jose Antonio Lobato hasta habla de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_1440" style="width: 180px" class="wp-caption aligncenter"><a href="http://ochentaycincoporcientococoa.tumblr.com/"><img class="size-full wp-image-1440" title="85% Cocoa Podcast. Pulsa para ir al podcast. Imagen usada sin consentimiento de nadie. Espero que no me denuncien" src="/wp-content/uploads/2011/03/85_cocoa.jpg" alt="85% Cocoa Podcast. Pulsa para ir al podcast. Imagen usada sin consentimiento de nadie. Espero que no me denuncien" width="170" height="170" srcset="/wp-content/uploads/2011/03/85_cocoa.jpg 170w, /wp-content/uploads/2011/03/85_cocoa-150x150.jpg 150w" sizes="(max-width: 170px) 100vw, 170px" /></a><p class="wp-caption-text">85% Cocoa Podcast. Pulsa para ir al podcast. Imagen usada sin consentimiento de nadie. Espero que no me denuncien</p></div>
+<p style="text-align: justify;">Que escucho 85% Cocoa habitualmente es algo que cualquiera que se lea mi timeline de Twitter verá en un rato. Es un podcast que te anima a seguir aprendiendo cosas en el mundo del desarrollo Mac con Cocoa, y que trata también temas extrapolables al desarrollo con cualquier lenguaje. ¡Jose Antonio Lobato hasta habla de cómo correr en su podcast!. Te lo recomiendo si programas en cualquier lenguaje. Bueno, si lo haces en <a href="http://www.haskell.org/haskellwiki/Haskell">Haskell</a> o <a href="http://es.wikipedia.org/wiki/Brainfuck">BrainFuck</a> estás más allá de toda ayuda o tratamiento&#8230;</p>
+<p style="text-align: justify;">En el <a href="http://ochentaycincoporcientococoa.tumblr.com/post/3897215920/85-cocoa-episodio-19-tickets">episodio 19</a> Jose tuvo a bien invitarme a hablar, junto con su socio en Binary Tricks, Jesús Fidalgo (<a href="http://twitter.com/jfid">@jfid</a>), sobre los sistemas de gestión de bugs, tareas, tickets o asuntos (issues) que usamos. En mi caso, hablé de <a href="http://www.fogcreek.com/fogbugz/">FogBugz</a>, que es el que actualmente uso. Me he dado cuenta de que en <a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">esta entrada</a> prometía hablar de FogBugz en el blog. Bueno, considero mi cuenta saldada conmigo mismo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">La charla me resultó muy, muy agradable. <em>Me la pasé rebién</em>, que dicen los argentinos. La hora que estuvimos hablando se fue en un momento, y tratamos muchos temas. Quiero dejar aquí el enlace al <a href="http://www.joelonsoftware.com/items/2007/10/26.html">artículo en el que Joel Spolsky explica su «Evidence Based Scheduling»</a>, es decir, su sistema de «predicción» estadística de la probabilidad real que tienes de lanzar tu producto en las fechas que tú propones. Es lectura obligada.</p>
+<p style="text-align: justify;">Curiosamente ha levantado cierto revuelo la frase «el terrible complejo de sentirse inútil», que es lo que cada informático siente todos los días de su vida cuando se levanta de la cama. Con el ritmo de cambio habitual, siempre tienes la sensación de no saber nada. Pero eso no es real. Voy a dedicar algún post a este tema, ya que creo que necesitamos mucha terapia de grupo.</p>
+<p style="text-align: justify;">Y nada más. Que espero que lo disfrutéis y que, si no conocíais el podcast os apuntéis a el. Y, por cierto, es harto desagradable la experiencia de escucharte a ti mismo durante una hora. Nadie debería tener una voz que suene distinta fuera de su cabeza.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

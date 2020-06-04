@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Palm &#8211; freniche.com</title>
+	<atom:link href="/tag/palm/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Ejemplo de menú para una aplicación Enyo/WebOS</title>
+		<link>/2011/08/27/ejemplo-de-menu-para-una-aplicacion-enyowebos/</link>
+		<comments>/2011/08/27/ejemplo-de-menu-para-una-aplicacion-enyowebos/#comments</comments>
+		<pubDate>Sat, 27 Aug 2011 10:24:25 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Enyo]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[Palm]]></category>
+		<category><![CDATA[WebOS]]></category>
+
+		<guid isPermaLink="false">/?p=1594</guid>
+		<description><![CDATA[Si no te quieres leer todo este rollo, puedes ir a GitHub y bajarte el código fuente. Este año he tenido la gran suerte de que se me presenten muchos proyectos, a cual más interesante y excitante. Desde una oportunidad para trabajar como Genius en una Apple Store hasta la posibilidad de integrarme en una [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Si no te quieres leer todo este rollo, puedes <a href="https://github.com/dfreniche/EnyoMenuDemo">ir a GitHub y bajarte el código fuente</a>.</p>
+<p style="text-align: justify;">Este año he tenido la gran suerte de que se me presenten muchos proyectos, a cual más interesante y excitante. Desde una oportunidad para trabajar como Genius en una Apple Store hasta la posibilidad de integrarme en una compañía fantástica de desarrollo móvil, como es <a href="http://www.mobivery.com/">Mobivery</a>. Oportunidades realmente estimulantes, que me hacen pensar que estoy <em>vendiendo la moto</em> de forma inconsciente, porque tampoco soy tan bueno programando. Aunque sí que me merezco los sueldos más altos que se puedan pagar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">No me he arrepentido de no aceptar estas ofertas porque volví de las vacaciones con mi «vocación emprendedora» más fuerte que nunca. Con ganas de hacer cosas, y sobre todo, de programar. Y parece que el Karma me ha recompensado, ya que se me planteó la posibilidad de desarrollar para la plataforma WebOS, y concretamente para la tableta de HP/Palm TouchPad. Tenía muchas ganas de conocer otra plataforma de desarrollo móvil, y, aunque ya me había hecho el «Hello World» con QT para Maemo y no acabo de encontrar ganas para explorar Android, no me lo pensé y acepté. Con una condición: quería un dispositivo para hacer las pruebas. ¡Me encantan los chismes!</p>
+<p style="text-align: justify;">He dedicado Agosto a aprender sobre el desarrollo de WebOS, a la vez que iba desarrollando la App para el cliente. No tenía ni idea, nunca había visto nada de WebOS (aparte del S.O. a nivel de usuario, y a través de <a href="http://www.youtube.com/watch?v=S3EU8GezRUg&amp;list=PLD99338052D4DC78A&amp;feature=plpp">vídeos</a>). Empecé viendo vídeos sobre el desarrollo con Mojo, hasta que me di cuenta de que para la nueva versión del S.O. WebOS (la que viene con la TouchPad) es necesario desarrollar con el framework <a href="https://developer.palm.com/content/api/dev-guide/enyo.html">Enyo</a>. Me instalé el <a href="https://developer.palm.com/">SDK y el emulador</a>, y me lancé a probar ejemplos. Me registré como desarrollador en Palm. Era divertido. Salvo cuando no lo era. Apenas hay ejemplos de Enyo por ahí para mirar, casi ningún tutorial, y en StackOverflow muy pocas preguntas / respuestas. Me quedaban los propios foros de Palm.</p>
+<p style="text-align: justify;">A esto hay que sumarle que yo no tengo ni idea de JavaScript. Cuando digo ni idea me refiero a que podía usar una biblioteca de funciones, pero sin conocer el lenguaje. Esto tiene fácil arreglo y <a href="/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/">me he lanzado a aprender JavaScript</a>.</p>
+<p style="text-align: justify;">Y entonces llegó el bombazo: HP abandona la producción de dispositivos con WebOS, vende de forma apresurada las TouchPads para quitarse de en medio el Stock, y dice que quiere vender su parte del negocio de venta de PCs. Muy divertido. Incluso he bromeado en Twitter, viendo mis últimas adquisiciones y su posterior destino (Nokia N900, HP TouchPad) sobre mi capacidad <em>gafe</em> para hundir una empresa. Aunque pocas bromas: el proyecto que estaba haciendo entró en soporte vital, y estuve unos días esperando a ver qué pasaba. Finalmente se ha decidido concluir las Apps y subirlas a la tienda española, que se abrirá espero en Septiembre / Octubre. un alivio, porque realmente me gusta el desarrollo con Enyo, me parece un cambio tan radical desde Cocoa que me permite mantenerme fresco programando todo el día: un rato Cocoa y luego Enyo / Javascript.</p>
+<p style="text-align: justify;">Pero hay muy pocos ejemplos sobre Enyo. Así que, tras sufrir unos días con una parte de la App, he decidido crear un pequeño ejemplo de una App con un menú fijo a la izquierda, y con vistas que van cambiando según se pulsan las opciones de menú. Nada espectacular, pero hasta dar con la tecla de cómo combinar los Enyo.Pane con los Enyo.SlidingPanel me ha llevado un rato. Así que, si quieres probar la app, te instalas el SDK (lo necesitas para tener la librería Enyo), <a href="https://github.com/dfreniche/EnyoMenuDemo">te bajas el código fuente del ejemplo de GitHub</a>, y lo pruebas con un navegador WebKit (Chrome o Safari). También puedes usar el código como esqueleto para tus nuevos proyectos con Enyo, si es que te animas.</p>
+<p style="text-align: justify;">Os dejo unas capturas de la App, para que la veáis en acción:</p>
+<div id="attachment_1595" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/menu-demo1.png"><img class="size-medium wp-image-1595" title="Primera opción de menú" src="/wp-content/uploads/2011/08/menu-demo1-300x230.png" alt="Primera opción de menú" width="300" height="230" srcset="/wp-content/uploads/2011/08/menu-demo1-300x230.png 300w, /wp-content/uploads/2011/08/menu-demo1-1024x786.png 1024w, /wp-content/uploads/2011/08/menu-demo1.png 1104w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Primera opción de menú</p></div>
+<div id="attachment_1596" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/menu-demo2.png"><img class="size-medium wp-image-1596" title="Segunda opción de menú" src="/wp-content/uploads/2011/08/menu-demo2-300x230.png" alt="Segunda opción de menú" width="300" height="230" srcset="/wp-content/uploads/2011/08/menu-demo2-300x230.png 300w, /wp-content/uploads/2011/08/menu-demo2-1024x786.png 1024w, /wp-content/uploads/2011/08/menu-demo2.png 1104w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Segunda opción de menú</p></div>
+<div id="attachment_1598" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/menu-demo3.png"><img class="size-medium wp-image-1598" title="Lo más complicado: el menú y los sliding Panels" src="/wp-content/uploads/2011/08/menu-demo3-300x230.png" alt="Lo más complicado: el menú y los sliding Panels" width="300" height="230" srcset="/wp-content/uploads/2011/08/menu-demo3-300x230.png 300w, /wp-content/uploads/2011/08/menu-demo3-1024x786.png 1024w, /wp-content/uploads/2011/08/menu-demo3.png 1104w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Lo más complicado: el menú y los sliding Panels</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/27/ejemplo-de-menu-para-una-aplicacion-enyowebos/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>typo3 &#8211; freniche.com</title>
+	<atom:link href="/tag/typo3/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Migrar las noticias de Typo3 (tt_news) a WordPress paso a paso</title>
+		<link>/2008/06/08/migrar-las-noticias-de-typo3-tt_news-a-wordpress-paso-a-paso/</link>
+		<comments>/2008/06/08/migrar-las-noticias-de-typo3-tt_news-a-wordpress-paso-a-paso/#comments</comments>
+		<pubDate>Sun, 08 Jun 2008 17:31:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Programación]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[typo3]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/2008/06/08/migrar-las-noticias-de-typo3-tt_news-a-wordpress-paso-a-paso/</guid>
+		<description><![CDATA[Hace ya un tiempo escribí este post contando que había conseguido pasar de Typo a WordPress. También decía que algún día escribiría un paso a paso. Un comentario del usuario June me lo pedía, y vamos a tratar de explicarlo. Para realizar éste paso a paso se necesitan tres cosas (evidentemente): una instalación de Typo3 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hace ya un tiempo escribí <a href="/2008/04/16/%c2%a1acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/">este post contando que había conseguido pasar de Typo a WordPress</a>. También decía que algún día escribiría un paso a paso. Un <a href="/2008/04/16/%c2%a1acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/#comment-29">comentario del usuario June</a> me lo pedía, y vamos a tratar de explicarlo.</p>
+<p>Para realizar éste paso a paso se necesitan tres cosas (evidentemente):</p>
+<ul>
+<li>una instalación de Typo3 con la extensión tt_news instalada, que son las noticias que queremos migrar</li>
+<li>una instalación de WordPress vacía, donde queremos importar las noticias de Typo3</li>
+<li>paciencia y nervios de acero <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+</ul>
+<p align="justify">La idea general del proceso es que WordPress permite importar entradas desde diferentes fuentes. Una de ellas es un archivo RSS 2.0. Por ello, lo que vamos a buscar es generar un RSS con todas las noticias en Typo3. Guardaremos ese fichero y posteriormente lo importaremos en WordPress.</p>
+<h1>Typo3</h1>
+<p align="justify">En Typo3 necesitamos generar las noticias, pero en formato RSS y no mostrarlas como normalmente aparecen. Para ello, nos vamos a crear dos páginas, una llamada RSS que es donde colocaremos un plug-in tt_news y otra colgando de ésta que es necesaria para mostrar las noticias una a una.</p>
+<p><img src="/wp-content/uploads/2008/06/typo3_pages_rss.png" alt="Páginas Typo3 para conseguir RSS" align="middle" /><img src="/wp-content/uploads/2008/06/content_rss_page.png" alt="Contenido de la página que genera los RSS" align="right" /></p>
+<p align="justify">He creado ambas páginas activando la opción de «ocultar en menú», ya que en mi caso no quería que aparecieran en el menú principal de mi sitio.</p>
+<p align="justify">Dentro de la página rss news (podemos ver su contenido en la imagen lateral) crearemos un plug-in tt_news y un template de extensión (llamado por defecto, y así se quedó, +ext).</p>
+<p align="justify">La configuración del plugin tt_news: ponemos en la opción de mostrar las noticias LIST (todas las noticias). Es importante definir en Otras opciones la «PageId donde se muestran noticias individuales» y «PageId a donde regresar», apuntando a la página «one rss». El punto de inicio de las noticias será, como siempre, la carpeta donde almacenemos nuestros tt_news.</p>
+<h2>El contenido del Template</h2>
+<h3>Constants:</h3>
+<pre>### Configure tt_news to display the xml template</pre>
+<pre>### Page that contains the News List</pre>
+<pre>xmlnewsfeed_id = 171</pre>
+<pre>### RSS Setup</pre>
+<pre>plugin.tt_news  {</pre>
+<pre>displayXML {</pre>
+<pre>rss2_tmplFile = EXT:tt_news/res/rss_2.tmpl</pre>
+<pre>xmlFormat = rss2xmlTitle = Export RSS to WordPress</pre>
+<pre>
+<pre>xmplLink = http://www.freniche.com/</pre>
+<pre>xmlDesc = Exporting to WPxmlLang = es</pre>
+<pre>xmlIcon = fileadmin/rss_icon.giftitle_stdWrap.htmlSpecialChars = 1</pre>
+<p>title_stdWrap.htmlSpecialChars.preserveEntities = 1</p>
+<p>subheader_stdWrap.stripHtml = 1</p>
+<p>subheader_stdWrap.htmlSpecialChars = 1</p>
+<p>subheader_stdWrap.htmlSpecialChars.preserveEntities = 1</p>
+<p>subheader_stdWrap.crop = 500| ... | 1</p>
+<p>subheader_stdWrap.ifEmpty.field = bodytext</p>
+<p>xmlLastBuildDate = 1</p>
+<p>}</p>
+<p>}</p>
+<p>plugin.tt_news.limit = 5</p>
+<p>plugin.tt_news.displayXML.xmlLimit = 1000</p>
+<h3>Setup:</h3>
+<pre># ------------- RSS News Plugin ------------------------------</pre>
+<pre>###Header</pre>
+<pre>page.headerData.500 = TEXT</pre>
+<pre># MUY IMPORTANTE: las dos siguientes líneas deben ir juntas, las he separado para que se lean mejor en el post</pre>
+<pre>page.headerData.500.value = &lt;link rel="alternate"</pre>
+<pre>type="application/rss+xml" title="RSS-Feed" href="http://www.freniche.com/index.php?id={$xmlnewsfeed_id}&amp;type=100" /&gt;</pre>
+<pre># ------------- This enables the xml news feed ---------------------</pre>
+<pre>xmlnews = PAGExmlnews {</pre>
+<pre>typeNum = 10020 &gt;20 &lt; plugin.tt_news20.pid_list &gt;
+
+20.pid_list = {$xmlnews.pid_list}
+
+20.singlePid = {$xmlnews.singlePid}20.defaultCode = XML
+
+config {disableAllHeaderCode = 1
+
+additionalHeaders = Content-type:text/xmlno_cache = 1
+
+xhtml_cleaning = 0}
+
+}</pre>
+<p>Es muy importante que en el plugin se incluya el template estático  plugin.alt.xml (96) y el template estático (de las extensiones) News Feed (RSS, RD, ATOM) (tt_news), como se puede ver en la imagen.</p>
+<p><img src="/wp-content/uploads/2008/06/template.png" alt="Configuración del template" /></p>
+<p>En la página one-rss debemos poner un plug-in tt_news (noticias) para que se muestren las noticias una a una (opción qué mostrar puesta a SINGLE).</p>
+<h2>Generar el RSS</h2>
+<p>Ahora ya podemos probar si funciona la generación del RSS. Para ello, mostraremos en otra ventana (o pestaña) la página rss news, usando su pageId (que en éste caso es 171) e indicando que el tipo de página es 100. Este type=100 lo indicamos en la parte setup del template (typenum = 100). Luego si vamos a: http://www.freniche.com/index.php?id=171&amp;type=100, se mostrará un flujo RSS al que podremos suscribirnos.</p>
+<p>Si hemos llegado hasta aquí, podemos probar a pulsar CTRL-U (o, en mi Mac, Command-U) para ver el código fuente del RSS. Veremos que aparecen las entradas de las noticias de Typo3. ¡Vamos por el buen camino!<img src="/wp-content/uploads/2008/06/rss.png" alt="rss.png" /></p>
+<p>Este código XML podemos guardarlo como un fichero que se llame rss.txt. Ahora pasemos a WordPress para importarlo.</p>
+<p>WordPress</p>
+<p>Aquí es todo muuuucho más fácil. WordPress importa RSS sin problemas, a través de la opción Administrar -&gt; Importar. Entre los formatos disponibles aparece RSS. Basta ahora con seleccionar el fichero rss.txt que hemos generado antes y ¡listo!. Las entradas comienzan a importarse.</p>
+<p><img src="/wp-content/uploads/2008/06/importar-rss.png" alt="importar-rss.png" /></p>
+<p>En mi caso el límite de subida del fichero RSS de WordPress era demasiado pequeño, así que tiré por la calle de enmedio y rompí el fichero en varios trozos para que entraran correctamente en su tamaño. Para eso está en UNIX el comando split.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/06/08/migrar-las-noticias-de-typo3-tt_news-a-wordpress-paso-a-paso/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>¡Acabo de importar todas las entradas de Typo3 a WordPress!</title>
+		<link>/2008/04/16/acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/</link>
+		<comments>/2008/04/16/acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/#comments</comments>
+		<pubDate>Wed, 16 Apr 2008 14:12:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[freniche.com]]></category>
+		<category><![CDATA[typo3]]></category>
+		<category><![CDATA[wordpress]]></category>
+
+		<guid isPermaLink="false">/2008/04/16/%c2%a1acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/</guid>
+		<description><![CDATA[Oh Yeah! ¡Prueba superada! Acabo de incorporar todas las entradas del blog antiguo Typo3 de freniche.com (gestionadas mediante la extensión de Typo3 tt_news) en esta nueva encarnación del Blog que usa WordPress. Estuve buscando un tiempo por Internet, pero no encontré un «cómo migrar de Typo3 a WordPress». Más adelante escribiré un paso a paso [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Oh Yeah! ¡Prueba superada!</p>
+<p>Acabo de incorporar todas las entradas del blog antiguo Typo3 de freniche.com (gestionadas mediante la extensión de Typo3 tt_news) en esta nueva encarnación del Blog que usa WordPress. Estuve buscando un tiempo por Internet, pero no encontré un «cómo migrar de Typo3 a WordPress». Más adelante escribiré un paso a paso de cómo lo he hecho yo, pero de momento sólo quería anunciar que:</p>
+<ul>
+<li>todas las entradas que estaban disponibles en freniche.com (typo3) están ahora disponibles en freniche.com (WordPress)</li>
+<li>probablemente algunos enlaces ya no funcionen (las primeras entradas son de 2003)</li>
+<li>los caracteres especiales del Español (acentos, eñe, etc.) se han perdido. Pido paciencia.</li>
+<li>progresivamente voy a revisar entrada por entrada para corregir estos errores e incluir las imágenes que tenían originalmente.</li>
+<li>se han creado categorías duplicadas, o algunos posts duplicados. Lo iremos solucionando.</li>
+<li>terminar de pulir los problemas que el plugin de «multiidioma» le causa a la plantilla, y es lo que causa que las fechas aparezcan a veces «raras».</li>
+</ul>
+<p>Ahora ya quedan dos tareas fundamentales, para considerar la web en su v1.0 terminada (ya me vale, tras casi 5 años):</p>
+<ul>
+<li>acabar de importar los artículos (páginas en Typo3) que no eran parte del Blog, sino información más o menos estática (ya hay algunos en la sección <a href="/articulos/">Artículos</a>). Esto me exigirá redactar de nuevo algunos, revisarlos, etc. Un poco como las entradas.</li>
+<li>cambiar entre Typo3 y WordPress, de forma que cuando alguien escriba www.freniche.com en su navegador por defecto le salga WordPress.</li>
+</ul>
+<p>Tras estos cambios quiero adaptar el Blog para que sea cómodo de ver desde el móvil, traducir algunas entradas al Inglés, etc. Lo de siempre, vamos.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/04/16/acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Muchos cambios en freniche.com</title>
+		<link>/2006/06/14/muchos-cambios-en-frenichecom/</link>
+		<pubDate>Wed, 14 Jun 2006 08:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[freniche.com]]></category>
+		<category><![CDATA[typo3]]></category>
+
+		<guid isPermaLink="false">/2006/06/14/muchos-cambios-en-frenichecom/</guid>
+		<description><![CDATA[Hace tiempo que vengo observando las carencias en este sitio web. Había cosas evidentes que se debían arreglar, pero no encontraba el tiempo. Hoy me he puesto manos a la obra y he solucionado algunas de ellas: Para empezar, ahora se muestran 10 posts en la página de inicio, y no tres, que es como [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Hace tiempo que vengo observando las carencias en este sitio web. Había cosas evidentes que se debían arreglar, pero no encontraba el tiempo. Hoy me he puesto manos a la obra y he solucionado algunas de ellas:</p>
+<ul>
+<li>Para empezar, ahora se muestran 10 posts en la página de inicio, y no tres, que es como viene por defecto el plug-in tt_news, encargado de las noticias. Creo que es más sencillo desplazar la página hacia abajo que no <em>intuir</em> que hay que pinchar en la opción de menú «Archivo completo» para ver todos los envíos.</li>
+<li>Para empeorar las cosas, al final de la lista había un enlace «Ir al Archivo» que no estaba activo. No hay nada peor que algo así. Si muestras algo en una web, que funcione. Y si no, no lo enseñes, porque frustra a la gente. Intenta pinchar y nada, mueve el ratón alrededor y ¡nada!. En fin, ahora funciona.</li>
+<li>He añadido una opción de «envíos por meses», que muestra los posts agrupados por años y meses, al estilo del resto de los blogs del mundo. Hay que imitar a la mayoría porque, si no, si se es «demasiado diferente», se hace pensar demasiado al visitante y puede ser que se acabe largando y no vuelva jamás. Ya se sabe lo que dice Steve Krug: <a href="http://www.amazon.com/gp/product/0789723107/ref=nosim/103-8505613-0642269?n=283155" target="_blank">«Don&#8217;t make me think»</a></li>
+<li>Por fin funciona el libro de visitas. Está en Inglés. Ya lo traduciremos, etc. etc. Pero funciona.</li>
+<li>Y por último, pero no por ello menos importante, he conseguido activar la simulación de URL estática en Typo3 (SimulateStaticDocuments). Typo3 ofrece unas URLs francamente feas y complicadas de recordar. Encima, estas URLs no les gustan demasiado a los buscadores. Por ejemplo, la URL antigua para ir al inicio es:</li>
+</ul>
+<p>www.freniche.com/index.php?id=20<br />
+y la nueva es:<br />
+www.freniche.com/index.php/Noticias/37/0/<br />
+¿Cuál es m?s fácil de recordar? Al menos la segunda lleva la palabra «Noticias» dentro <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p class="bodytext">Quedan algunas mejoras evidentes en el uso de la página y su navegación, que iré preparando poco a poco. También debería repasar el aspecto estético. Pero eso será en Agosto.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Por fin Typo3 funciona en www.freniche.com</title>
+		<link>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/</link>
+		<comments>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/#comments</comments>
+		<pubDate>Mon, 07 Mar 2005 20:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[typo3]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+
+		<guid isPermaLink="false">/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/</guid>
+		<description><![CDATA[Tras una larga y dura pelea, parece que la migración al nuevo servidor va funcionando. Esto significa que todo lo que hay dinámico en la página ya funciona (por ej., las FAQs). Ahora que, por fin, la parte de sistemas va a funcionar me voy a dedicar a introducir todo el contenido que os mereceis. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext"><img src="/wp-content/uploads/2009/01/typo3logo.png" alt="Logo Typo3" /></p>
+<p class="bodytext">Tras una larga y dura pelea, parece que la migración al nuevo servidor va funcionando. Esto significa que todo lo que hay dinámico en la página ya funciona (por ej., las FAQs).</p>
+<p class="bodytext">Ahora que, por fin, la parte de sistemas va a funcionar me voy a dedicar a introducir todo el contenido que os mereceis.</p>
+<p class="bodytext">Saludos al fin desde un servidor estable.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2005/03/07/por-fin-typo3-funciona-en-wwwfrenichecom/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

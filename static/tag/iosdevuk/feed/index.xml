@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iOSDevUK &#8211; freniche.com</title>
+	<atom:link href="/tag/iosdevuk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>iOSDevUK 2013: retrospectiva personal</title>
+		<link>/2013/09/08/iosdevuk-2013-retrospectiva-personal/</link>
+		<comments>/2013/09/08/iosdevuk-2013-retrospectiva-personal/#comments</comments>
+		<pubDate>Sun, 08 Sep 2013 09:03:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOSDevUK]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=2010</guid>
+		<description><![CDATA[Otro año más esperando en la estación de tren de Aberystwyth para irme definitivamente. Otro iOSDevUK más al que acudo (y van tres seguidos). Creo que soy el más pesado de los delegados internacionales de esta conferencia. Tanto, que necesitaban a un guiri representativo de la conferencia en la radio de Gales y Chris (el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Otro año más esperando en la estación de tren de Aberystwyth para irme definitivamente. Otro <a href="http://www.iosdevuk.com/">iOSDevUK</a> más al que acudo (y van tres seguidos). Creo que soy el más pesado de los delegados internacionales de esta conferencia. Tanto, que necesitaban a un <em>guiri</em> representativo de la conferencia en la radio de Gales y Chris (el organizador de la conferencia) tuvo la idea de invitarme para hablar sobre Apps. A las 6:30 de la mañana. Sí, están puestas las calles y las emisoras de radio a esas horas.</p>
+<div id="attachment_2013" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/radio-wales.jpg" alt="Chris Price en la Radio de Gales" class="size-full wp-image-2013" srcset="/wp-content/uploads/2013/09/radio-wales.jpg 1024w, /wp-content/uploads/2013/09/radio-wales-300x225.jpg 300w, /wp-content/uploads/2013/09/radio-wales-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Chris Price en la Radio de Gales</p></div>
+<p>Mi balance de la conferencia, como el de otros años, es: <em>awesome</em>.</p>
+<p>Pero este año se han añadido varios factores que me han hecho disfrutar de la estancia como nunca.</p>
+<ul>
+<li>Debido a los <a href="/2013/07/29/organizando-mi-espacio-de-trabajo/">cambios</a> que estoy <a href="/2013/08/07/dejo-dropbox-por-bittorrent-sync/">realizando</a> en múltiples <a href="/2013/08/18/ordenando-cds/">aspectos</a> de mi vida, este año he venido muy relajado y con una clara mentalidad: aprovechar el momento al máximo. Suena a <em>cliché</em> barato, pero la realidad es que muchas veces sale uno de viaje y en lugar de disfrutar las cosas buenas del viaje te dedicas a quejarte por las inevitables incomodidades y, por un lado a recordar lo bien que estabas en casa y por otro a estresarte por todo el trabajo que te espera a la vuelta. La verdad, para tener este estrés, casi mejor no viajar ¿no?. Pues este año no ha sido así: he podido hacer muchas cosas, y en cada momento he estado completamente presente y disfrutando de lo que hacía, ya fuera conversando con otros compañeros, comiendo, paseando, bebiendo cerveza o corriendo. </li>
+<li>he venido con un viaje mucho mejor organizado. Para mi, la mejor ruta es avión Málaga &#8211; Birmingham y desde el aeropuerto tren directo a Aberystwyth. Nada de conducir desde Londres como <a href="http://www.cocoaosx.com/2013/04/27/iosdevuk-201/">el primer año con Fernando Rodríguez</a> o de pasarme la noche vagando por Nottigham como el segundo año tras llegar al East Midlands Airport. Si el viaje es más descansado, lo tienes claro y la ruta es conocida todo va bastante mejor. Además, me he dado montones de tiempo entre las conexiones tren &#8211; avión. Tiempo en teoría <em>muerto</em> (aunque el tiempo es el que es, todo depende de lo que tú haces con el; es decir, que lo <em>matamos</em> nosotros, no viene <em>muerto</em> de serie). Esta vez me he dedicado a leer y escribir. <em>Well done</em>.</li>
+</ul>
+<div id="attachment_2019" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/running-pals-2.jpg" width="800px" alt="Compañeros de carreras" class="size-full wp-image-2019" srcset="/wp-content/uploads/2013/09/running-pals-2.jpg 1024w, /wp-content/uploads/2013/09/running-pals-2-300x225.jpg 300w, /wp-content/uploads/2013/09/running-pals-2-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Compañeros de carreras</p></div>
+<div id="attachment_2020" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/running-pals.jpg" alt="Más corredores" width="800px" class="size-full wp-image-2020" srcset="/wp-content/uploads/2013/09/running-pals.jpg 1024w, /wp-content/uploads/2013/09/running-pals-300x225.jpg 300w, /wp-content/uploads/2013/09/running-pals-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Más corredores</p></div>
+<ul>
+<li>ha sido la primera vez que he podido / querido hacer deporte. Además, he podido contar con compañeros que me han ayudado en los momentos difíciles, cuando ves que tu barriga te impide subir la colina. Gracias a Sebastián, <a href="https://twitter.com/Pmunoz08">Pedro</a> y <a href="https://twitter.com/wolffan">Raimón</a> he podido correr por bosques de cuento viendo a los conejos correr a esconderse, y trepar a acantilados a ver el pueblo desde arriba. O perdernos por caminos en los que los helechos me llegaban a los hombros (lo que es fácil con mi altura por otra parte, pero aún así&#8230;) </li>
+<li>he disfrutado las noches en el pub mucho más que nunca. Tanto en el Varsity como en el Pier Royal, han caído muchas pintas de Carling y varias de sidra Strongbow. Y muchas conversaciones muy interesantes sobre trabajo, programación, tecnología, chistes, la forma de vida de cada uno&#8230; La culpa de esto ha sido el <em>rat pack</em> que hemos formado, con gente como <a href="https://twitter.com/frr149">Fernando Rodríguez</a>, <a href="http://www.linkedin.com/in/acvivo">Antonio</a>, <a href="https://twitter.com/Pmunoz08">Pedro</a>, <a href="https://twitter.com/jsanchezsierra">Javier</a>, <a href="https://twitter.com/SebasDesimone">Sebastián</a>, <a href="https://twitter.com/wolffan">Raimón</a>, <a href="https://twitter.com/RCachATX">René</a>, Petteri, &#8230; </li>
+</ul>
+<div id="attachment_2022" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/comiendo-bien-768x1024.jpg" alt="Comer fruta en una conferencia: achievent unlocked"  class="size-large wp-image-2022" srcset="/wp-content/uploads/2013/09/comiendo-bien-768x1024.jpg 768w, /wp-content/uploads/2013/09/comiendo-bien-225x300.jpg 225w, /wp-content/uploads/2013/09/comiendo-bien-535x713.jpg 535w, /wp-content/uploads/2013/09/comiendo-bien.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" /><p class="wp-caption-text">Comer fruta en una conferencia: achievent unlocked</p></div>
+<ul>
+<li>he dormido algo menos, pero no lo he echado tanto de menos. Y quitando el último día, en el que he prescindido de dietas, he comido bastante bien y de forma muy razonable.</li>
+<li>las charlas a las que he asistido me han inspirado, ayudado, enseñado, me han hecho pensar y tomar decisiones. El taller de Core Data fue de una calidad y nivel espectacular. iOSDevUK es un evento especialmente enfocado en los desarrolladores <em>indie</em> (entre los que no me encuentro, ya que no vendo mis productos, hago cosas para otros como freelance) y me ha vuelto a entrar <em>el gusanillo</em> de publicar mis Apps y volver a intentar vender mis ideas. Tengo miedo al rechazo, a crear aplicaciones feas y horribles que nadie quiera. La única forma de vencer esto es escribir código, construir cosas y publicarlas. Y ver qué pasa entonces.</li>
+<li>He conocido a gente increíblemente inteligente, brillante, divertida, humilde. En estos sitios siempre eres el <em>retrasado</em> de la clase. Lo cual es muy bueno: tienes ganas casi de llorar cuando ves a Alan Cannistraro preguntando cosas a Marcus Zarra. Pero esta <em>impotencia</em> y sentimiento de <em>soy tonto</em> es lo que nos anima a continuar aprendiendo.</li>
+<li>he visto algo más de esta maravillosa ciudad. Creo que ya casi se pronunciar su nombre correctamente. He ido en el tren de vapor al <a href="http://en.wikipedia.org/wiki/Vale_of_Rheidol_Railway">Valle de Rheidol</a>, he vuelto a pasear por sus calles y he visitado el museo de Gales. Y me he comprado un libro del Canal Historia sobre la Primera Guerra Mundial como autoregalo. No se puede pedir más.</li>
+</ul>
+<p>En mi caso tras el iOSDevUK 2013 vuelvo aún más motivado a seguir aprendiendo, pero sobre todo, quiero escribir líneas de código. Tengo ganas de programar.</p>
+<p>Y en una semana me voy a Logroño, a disfrutar del Evento iOS internacional que <em>desesperadamente</em> necesitamos en España: <a href="http://nsspain.com/">NSSPain</a>. ¿Te lo vas a perder?</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/08/iosdevuk-2013-retrospectiva-personal/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>apple &#8211; freniche.com</title>
+	<atom:link href="/tag/apple/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El lamentable estado de las herramientas de desarrollo iOS</title>
+		<link>/2017/06/01/el-lamentable-estado-de-las-herramientas-de-desarrollo-ios/</link>
+		<pubDate>Thu, 01 Jun 2017 10:36:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">/?p=2782</guid>
+		<description><![CDATA[Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen en las que ya hay. Y que las herramientas funcionen. No que añadan cosas. Que arreglen bugs.</p>
+<p>Hace tres años escribí sobre <a href="/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/">El lamentable estado de las herramientas de desarrollo Android</a>. En aquella época, lo que existía para desarrollo Android (oficial) era el plugin ADT para Eclipse. Y, como relato en el post, no funcionaba algo que era un simple ZIP. Eclipse, Java 6, fallos en las herramientas, un Android Studio que estaba en Alpha, una documentación horrorosa, una API discutible (ver p.ej. el método <code>isUserAGoat</code> en <a href="https://developer.android.com/reference/android/os/UserManager.html#//apple_ref/clm/isUserAGoat%28%29">UserManager</a>), la lentitud de Gradle si probabas AS&#8230; Esto era la muerte por mil cortes, comparado con el mundo iOS, con esas APIs Cocoa tan consistentes, un Xcode tan bonito y que entonces no fallaba tanto&#8230;</p>
+<p>Y encima Apple presentó Swift en Junio de 2014. La promesa de un nuevo lenguaje, compatible con Objective-C, con C, C++, pero funcional, con inmutabilidad, Opcionales, genéricos, &#8230; Todo se veía de color de rosa desde el mundo iOS, comparado con el cenagal que era el desarrollo Android.</p>
+<h2>Apple: Non-Pro Macs</h2>
+<p>Apple <a href="/2017/05/08/apple-tenemos-que-hablar/">ya no hace ordenadores para desarrolladores</a>. Y me parece muy bien, si así gana más dinero. Pero debe entonces afrontar las cosecuencias, que van a ser (porque esto ya ha lo he visto antes en otras plataformas):</p>
+<ul>
+<li>los desarrolladores se compran otras máquinas y se montan un Hackintosh para seguir desarrollando en iOS / Mac. MacOS se convierte en «ese sistema operativo que te ves obligado a usar por el trabajo». Apple no gana dinero con las máquinas. Tienes dual-boot y cada vez usas más Windows. Peligro.</li>
+<li>los desarrolladores directamente se pasan a Windows 10 / Linux con mejores portátiles (y a mejores precios, que no todos tenemos una mina de oro en el sótano de casa) y usan MacOS en una máquina virtual (cosa que prohíbe la licencia, como el Hackintosh, pero ponle puertas a ese campo&#8230;). Goto 1</li>
+<li>algunos desarrolladores se cabrean tanto con el poco aprecio que sienten desde Apple que <a href="https://twitter.com/spolsky/status/833082540995014656">directamente abandonan la plataforma</a>, algo que a dia de hoy se puede hacer ya que el mercado de trabajo tiene ofertas casi para todo tipo de perfiles de desarrollo. </li>
+</ul>
+<p>Si los programadores se van de una plataforma, esta se muere. Lo he visto con OS/2, con Amiga, con Linux (¿este es el año de Linux en el escritorio? Y sí, ya se que se usa mucho Linux en Android, que es Linux, y en la RaspberryPi, y que llevo usando Linux desde el 93, que no me cuentes de qué va eso que yo voté porque Tux fuera la mascota de Linux y tú no).</p>
+<p>Casi le pasa a Microsoft. El rechazo que generó con sus Internet Explorers le ha llevado a ceder casi toda la cuota de mercado a Chrome. Y no hablemos del patinazo Vista, que enmendó con Windows 7. Es por eso el titánico esfuerzo que está haciendo ahora mismo Microsoft, permitiéndote ejecutar <a href="https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/">Linux en Windows</a> de forma nativa, o dándote la <a href="https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/#zyguw3uS8gw66FL3.97">bash</a>. Atraer programadores que son los que riegan este campo con sus aplicaciones.</p>
+<h2>2017</h2>
+<p>Es 2017. Swift va a sacar la versión 4, con nuevos cambios que te obliguen a actualizar tu código, o no compila. Con ese asistente que tiene Xcode tan bueno. Si no tenías listo el lenguaje en 2014&#8230; ¿para qué sacarlo? ¿Porque Chris Latter estaba harto y se <a href="http://www.businessinsider.com/chris-lattner-swift-creator-leaves-apple-2017-1">quería ir</a>? Pero bueno, era 2014 y podíamos entenderlo, Apple. Pasamos por Swift 1, 1.1, 1.2, y los cambios a Swift 2. Y Swift 3. Contínuamente cambiando una base de código que funciona para hacer que siga funcionando. Es decir, gastar horas para seguir en el mismo punto. No añadir nuevas funcionalidades. Que <em>compile</em>. Coding is fun.</p>
+<p>Al menos el compilador de Swift es rápido. Tanto, que cuando ejecuto Gradle en Android me parece instantáneo. Gradle, quiero decir. Pero en cada WWDC nos dicen que «ahora el compilador de Swift es un 20% más rápido». Con tantos avances en velocidad mi código debería terminar de compilar&#8230; en 1984. De lo rápido que compila. Pero la realidad es la realidad, y Swift es <strong>horriblemente</strong> más lento compilando que su equivalente en Objective C. Y es una pena, porque el lenguaje es muy bonito. Apple ha hecho un <a href="https://en.wikipedia.org/wiki/Sherlock_(software)">Sherlock</a> de Kotlin con Swift, lo que está bien. Si ahora hiciese un Sherlock de IntelliJ, todos contentos.</p>
+<p>Porque cansa ver cómo se arrastra el compilador. Cómo haces Cmd+click en un símbolo y no lo encuentra (es una función de ámbito global <em>y no la encuentra</em>). O cómo el autocompletado es totalmente random. O cómo pones un punto de ruptura dentro de una clausura y no puedes depurar el valor de las variables de la clausura. Bueno, sí puedes&#8230; usando println. NSlog oriented debugging FTW!</p>
+<p>Al menos podemos refactorizar nuestro código. Esto significa que puedes cambiar el nombre a una clase. Fin de los refactors. Y en Objective-C. En Swift nada. Zero. Nil. Y de generar código ni hablamos. Últimamente Xcode no es capaz ni de comentar líneas de código con Cmd + / o <em>acertar</em> y autocompletarte los nombres de las librerías en los imports.</p>
+<p>O cómo la comunidad ha tenido que solucionar problemas básicos que Apple se niega a ver. ¿Resolución de dependencias y librerías de terceros? En Android: Gradle. Soportado. En iOS: CocoaPods, Carthage, o a mano. Todos proyectos de la comunidad. ¿Plugins? En Android: Android Studio tiene de todo. En iOS: han metido un sistema de plugins tan restringido que, la verdad, no conozco a nadie que esté usando algún plugin que merezca la pena (indicadme por Twitter los mejores, por favor). Y de paso se han cargado un proyecto como Alcatraz, que sí que ofrecía un montón de plugins, temas y plantillas de ficheros porque, ¿quién quiere algo mejor cuando mi versión inferior patentada por Apple ya viene con Xcode? Y sí, entiendo los problemas de seguridad de los plugins, y que Xcode viene firmado y todo eso. Pero digo yo que habrá alguna solución intermedia colocando los plugins en otro proceso fuera del sandbox de Xcode&#8230;</p>
+<h2>WWDC</h2>
+<p>Así que, en esta próxima <strong>Developers Conference</strong>, vamos a abrir la Keynote hablando de lo mucho que vendemos, de lo buenos que son los portátiles con la ToyBar, de lo chulos que son los auriculares Beats, de todas esas cosas que nos interesan muchísimo a los programadores, <strong>que es a los que debe ir dirigida la Keynote</strong>. Nuevos colores para las correas del reloj. Nuevas animaciones en macOS para organizar tus ventanas en 15 espacios para que nadie lo use nunca, porque todos usamos un monitor externo. Y Apple Music, que todo programador necesita música de fondo y eso. Pagando.</p>
+<p>Pues no. Este año no renové mi Apple Membership por primera vez en 6 años. Y cada vez me cuesta más y me duele más abrir Xcode. Porque veo lo que podría ser, lo comparo con un excelente IDE (con sus problemas, pero mucho mejor para <em>escribir</em> código) como IntelliJ y me sangra el corazón. Quiero seguir programando en un Mac en 2027. No me eches de tu jardín, Apple.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Cómo instalar Xcode 6 GM (o cualquier versión final de Xcode) sin sobreescribir la anterior</title>
+		<link>/2014/09/10/como-instalar-xcode-6-gm-o-cualquier-version-final-de-xcode-sin-sobreescribir-la-anterior/</link>
+		<pubDate>Wed, 10 Sep 2014 08:11:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=2233</guid>
+		<description><![CDATA[De nuevo es esa época del año. Vuelta al cole. Fin del verano. Nuevo Xcode. Me encanta el olor a nuevo Xcode por la mañana Y siempre, el mismo temor: ¿qué pasa al instalar? ¿Voy a sobreescribir mi Xcode actual? Un poco de teoría Una App en OS X no es más que una carpeta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>De nuevo es esa época del año. Vuelta al cole. Fin del verano. Nuevo Xcode.</p>
+<blockquote>
+<p>Me encanta el olor a nuevo Xcode por la mañana</p>
+</blockquote>
+<p>Y siempre, el mismo temor: ¿qué pasa al instalar? ¿Voy a sobreescribir mi Xcode actual?</p>
+<h2>Un poco de teoría</h2>
+<p>Una App en OS X no es más que una carpeta (un <em>bundle</em>) que contiene los ficheros ejecutables y recursos que la App necesita. Podemos verlo más claro desde el Finder pulsando con el botón derecho del ratón y escogiendo <em>Mostrar contenido del paquete</em>. Desde la terminal es aún más evidente. Si hacemos:</p>
+<pre><code>$ cd /Applications/ 
+$ ls -d Xcode*
+
+drwxr-xr-x@ 3 dfreniche admin 102B 10 sep 09:47 Xcode.app/ 
+drwxr-xr-x  3 root wheel 102B 16 abr 10:30 Xcode5.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 2 jul 02:52 Xcode6-Beta3.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 1 ago 23:17 Xcode6-Beta5.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 16 ago 00:35 Xcode6-Beta6.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 28 ago 09:01 Xcode6-Beta7.app/
+</code></pre>
+<p>veremos todas las versiones de Xcode que tenemos instaladas. No son más que directorios UNIX normales</p>
+<h2>La práctica</h2>
+<p>Durante la fase de Betas la imagen de disco con Xcode que descargamos contiene una carpeta con un nombre como Xcode6-Beta5. Este nombre es distinto de <code>Xcode</code>, con lo que no hay conflicto.</p>
+<p>Cuando llega la GM y la versión definitiva, Apple distribuye un DMG con una App que ya se llama Xcode. Es Xcode 6, pero tiene <em>el mismo nombre de carpeta que el Xcode 5 que ya tienes instalado en tu disco duro</em>. Si lo copias, vas a perder Xcode 5.</p>
+<div id="attachment_2234" style="width: 1467px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/09/Xcode5-antes-copiar.png" alt="Xcode5 antes de copiar Xcode6 GM" width="1457" height="700" class="size-full wp-image-2234" srcset="/wp-content/uploads/2014/09/Xcode5-antes-copiar.png 1457w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-300x144.png 300w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-1024x491.png 1024w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-920x442.png 920w" sizes="(max-width: 1457px) 100vw, 1457px" /><p class="wp-caption-text">]Xcode5 antes de copiar Xcode6 GM</p></div>
+<p>Solución sencilla: <em>antes</em> de copiar nada a la carpeta Applications, renombra Xcode (como si fuera un fichero o carpeta normal, probablemente tengas que introducir tu clave de administrador) y ponle de nombre Xcode 5 (o el que prefieras, yo tengo por ahí una llamada <em>Ye olde Xcode 4.3</em>)</p>
+<div id="attachment_2235" style="width: 1467px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/09/Installing-Xcode6.png" alt="Instalando Xcode 6 tras renombrar Xcode 5" width="1457" height="700" class="size-full wp-image-2235" srcset="/wp-content/uploads/2014/09/Installing-Xcode6.png 1457w, /wp-content/uploads/2014/09/Installing-Xcode6-300x144.png 300w, /wp-content/uploads/2014/09/Installing-Xcode6-1024x491.png 1024w, /wp-content/uploads/2014/09/Installing-Xcode6-920x442.png 920w" sizes="(max-width: 1457px) 100vw, 1457px" /><p class="wp-caption-text">]Instalando Xcode 6 tras renombrar Xcode 5</p></div>
+<p>Fácil, ¿no?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Especial MacWorld Mountain Lion</title>
+		<link>/2013/02/21/especial-macworld-mountain-lion/</link>
+		<comments>/2013/02/21/especial-macworld-mountain-lion/#comments</comments>
+		<pubDate>Thu, 21 Feb 2013 06:55:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[MacWorld]]></category>
+
+		<guid isPermaLink="false">/?p=1883</guid>
+		<description><![CDATA[No es ninguna novedad y, probablemente ya no quede ninguno en los quioscos. Pero sentía que tenía una deuda conmigo mismo y quería hablar acerca de lo último que escribí para la ahora difunta MacWorld España. Concretamente, este número especial sobre cómo usar OS X Mountain Lion que se publicó en Enero. Mi legendario efecto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/02/MacWorld-practico-mountain-lion.jpg"><img src="/wp-content/uploads/2013/02/MacWorld-practico-mountain-lion.jpg" alt="MacWorld Práctico Especial Mountain Lion" title="MacWorld Práctico Especial Mountain Lion" width="500"  class="aligncenter size-full wp-image-1889" /></a></p>
+<p>No es ninguna novedad y, probablemente ya no quede ninguno en los quioscos. Pero sentía que tenía una deuda conmigo mismo y quería hablar acerca de lo último que escribí para la ahora difunta MacWorld España. Concretamente, este número especial sobre cómo usar OS X Mountain Lion que se publicó en Enero. Mi legendario <strong>efecto gafe</strong>, capaz de acabar con webOS o poner en serio aprieto a Nokia, ha sido capaz de acabar con la revista para la que a veces escribía como colaborador.</p>
+<p>El caso es que estuve dedicado a escribir este <strong>tocho</strong> durante Agosto de 2012, esperando que si me enfocaba y esforzaba lo suficiente finalmente lo acabaría para primeros de Septiembre. A punto de llegar Septiembre vi que no lo tenía listo del todo, pero sí que había reunido un tocho considerable y que no me quedaría tanto: había cumplido con el plan de trabajo. Una vez enviado el borrador, me dieron la mala noticia de que el enfoque no era el esperado: se necesitaba un tutorial paso a paso, y no una review y opinión sobre el nuevo sistema operativo de Apple. <strong>Patinazo en toda regla</strong>.</p>
+<p>Durante Septiembre y Octubre estuve muchas horas, <em>muchas</em>, dedicado a ir avanzando el <strong>libro</strong>. Finalmente lo entregué. <em>Parir</em> cualquier cosa escrita siempre es más duro de lo que uno espera. Pero cuando hablamos de un documento de este tamaño (más de 140 páginas de revista escrita casi sin publicidad, lo que haría un librito de unas 200 páginas o más) cualquier previsión que hago siempre se me cae al suelo. Y debería tener experiencia: en 2011 estuve escribiendo unos manuales para cursos de teleformación, he escritos <a href="http://dialnet.unirioja.es/servlet/busquedadoc?t=Diego%20Freniche&amp;db=1&amp;td=ARTREV">algunos artículos</a> para MacWorld y PCWorld y <a href="/2005/12/08/pcworld-practico-n-6-exprime-linux/">hace mucho se publicó un especial sobre Linux</a> (era mi época <em>Linuxera</em>) que tecleé enterito.</p>
+<p>Con una suerte digna de mejor causa, en Enero me encontré al pasar por un kiosko, en Madrid, con la revista. Iba a impartir una de las jornadas del curso a medida avanzado de iOS que tuve el gusto de dar a la gente de Redsys junto con Mobile Business School. Cuando tuve la revista en las manos, no la reconocía. Claro, yo sólo la había visto en la pantalla de mi iMac dentro de Pages, pero no había visto la versión final. Supe que era la mía por el artículo sobre accesibilidad que Jonathan Chacón tuvo la deferencia de escribirme para que apareciera en el especial (¡gracias, Jonathan!). Y ahora, aquí la tengo.</p>
+<p>Es un recordatorio de varias cosas, y con el <em>ansia de automachaque</em> que define a todo buen informático, para empezar todas las que me recuerda son malas:</p>
+<ul>
+<li>la próxima vez no uses Pages para escribir un libro. Si tienes una licencia de Scrivener, aprende a usarlo. Es la aplicación definitiva para escritores. Ahora me he dado cuenta, tarde, pero mejor que nunca. </li>
+<li>si te encargan escribir sobre algo, pregunta antes de empezar por el enfoque. Define los requisitos, como con un programa. Si al cliente no le gusta lo que has hecho, vas a tener que empezar de nuevo y no va a ser divertido. </li>
+<li>se pesimista con las estimaciones, y después de eso, aplica un factor de corrección de +50% del tiempo que has estimado. Y aún así <em>ni te acercarás</em>. Escribir lleva mucho tiempo, y por mucho que invoque mis capacidades <strong>super heroicas</strong>, luego no se avanza al ritmo que se quiere, sino al que se puede. </li>
+</ul>
+<p>Pero también he aprendido mucho sobre mí mismo y sobre las herramientas que he usado. Vamos, que algunas cosas he hecho bien:</p>
+<ul>
+<li>ya que tenía que escribir sobre OS X Mountain Lion, he aprendido mucho sobre el OS. Ahora hay un montón de cosas más que se hacer. </li>
+<li>he mantenido un ritmo constante de escritura. He sido bastante disciplinado y todos los días escribía un par de horas. Ni yo me lo creo. </li>
+<li>me he agobiado, pero dentro de un límite. Cuando me dieron la mala noticia, en lugar de cabrearme y gritar saqué mi libreta y me hice un mapa mental para <strong>comerme</strong> ese marrón. Y convertí el problema amorfo en una lista de tareas que podía ir resolviendo.</li>
+<li>tengo a mi lado un recordatorio en papel, algo físico, de que soy capaz de escribir un librito si me pongo a ello. No me he dado el tiempo para disfrutar de esto, quizás es ahora la primera vez que estoy reflexionando sobre ello. </li>
+<li>he aprendido a usar algo más de Pixelmator, para editar las imagenes de las capturas. Mola.</li>
+</ul>
+<p>Así que ya está. El libro está en mi mesa. El trabajo terminado. Pero MacWorld ha cerrado, mucha gente ha perdido su trabajo y probablemente nadie lea este número, al que he dedicado tantas horas. Al no estar en edición digital (en Zinio, por ejemplo) poca gente lo va a leer. Y eso me deja un poco triste.</p>
+<p>Ahora tendré que <strong>matar el gusanillo de escribir</strong> de alguna manera. <strong>Probablemente escribiendo un libro para enseñar a desarrollar Apps para iOS</strong>. ¿Alguien interesado? Acepto ideas y sugerencias. Luego haré lo que me de la gana, pero prometo tenerlas en cuenta <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/21/especial-macworld-mountain-lion/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Mi nueva máquina y por qué no me he comprado un rMBP</title>
+		<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/</link>
+		<comments>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 05:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=1826</guid>
+		<description><![CDATA[Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras lo esperaba. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/mbp.jpg"><img src="/wp-content/uploads/2013/01/mbp.jpg" alt="Foto de mi MBP 13 pulgadas abierto, con Safari corriendo" title="Mi MBP 13&quot;" width="800" height="598" class="aligncenter size-full wp-image-1850" srcset="/wp-content/uploads/2013/01/mbp.jpg 800w, /wp-content/uploads/2013/01/mbp-300x224.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a> Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras <a href="/2012/11/20/la-dulce-espera/">lo esperaba</a>. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, «¿todo el día hablando de tecnología y te compras <em>eso</em>?». Pues sí. Os cuento qué máquina me he comprado, las razones que me llevaron a ella y cómo la uso.</p>
+<h1>La máquina</h1>
+<p><a href="/wp-content/uploads/2013/01/aboutthismac.png"><img src="/wp-content/uploads/2013/01/aboutthismac.png" alt="Ventana Acerca de Este Mac abierta, mostrando las características del MBP" title="Las características de mi Mac" width="321" height="393" class="aligncenter size-full wp-image-1845" srcset="/wp-content/uploads/2013/01/aboutthismac.png 321w, /wp-content/uploads/2013/01/aboutthismac-245x300.png 245w" sizes="(max-width: 321px) 100vw, 321px" /></a></p>
+<p>El equipo en sí es un MBP 13&#8243; no retina, de Julio 2012. Por ello, tiene una resolución de pantalla infame (1280&#215;800) pero a cambio tiene otras cosas muy interesantes dentro de su cuerpo unibody de aluminio: USB 3, una CPU que al tener dos núcleos con hiperthreading, se convierten en cuatro núcleos de ejecución, una tarjeta gráfica HD 4000 (no demasiado buena, pero es lo que hay) y un HD de 500 GB bastante lento. Dado que la máquina es capaz de direccionar hasta 16 GB RAM, pensé que en lugar de poner una CPU enorme era mejor equilibrar el rendimiento global del equipo. Así que compré un par de módulos de 8 GB y un SSD de 256 GB. En cuanto me llegó, le monté el SSD y la memoria y el rendimiento global es bastante impresionante. Evidentemente, un rMBP de 15&#8243; tendrá el mismo rendimiento o más. Entonces ¿porqué esta?</p>
+<h1>Mis razones</h1>
+<p>El retina MBP es una máquina impresionante. Es como mirar al futuro y ver cómo serán los ordenadores dentro de cinco años. Pero mi equipo, además de mirarlo, tengo que usarlo. Y mucho. Y lo uso para dos tareas muy concretas: programar en el sofá o llevarlo a los cursos de programación que imparto. Así que casi todo el tiempo es acerca de programar. Una mayor resolución <em>siempre</em> es bienvenida (y ya me he quejado antes de la triste resolución máxima del MBP 13&#8243;, máxime cuando el MBA 13&#8243; tiene 1440&#215;900), pero entre la resolución retina y todo lo que pierdes a cambio, preferí el resto. ¿Y qué pierdes?</p>
+<ul>
+<li>sensor de infrarrojos. No está en el rMBP. Ya no puedo usar mi mando a distancia Apple de aluminio para controlar KeyNote. Que sí, que puedo comprar uno BlueTooth, pero ya que tengo este y es sencillo de manejar&#8230;</li>
+<li>indicador de batería. En el lateral del MBP 13&#8243; hay una línea de LEDs y un botón. Lo pulsas y sin encender el equipo ves si tiene o no batería suficiente. Lo uso mucho.</li>
+<li>puertos. Tengo discos FireWire que me gusta usar. Al igual que me gusta conectarme a la red con un cable Ethernet. Llámame viejo, o bien que 1Gbps siempre es más que 300 Mbps. Como tres veces más rápido y fiable. Ethernet no se «cae». O funciona bien, o se te ha quemado el switch. No hay otras calidades de servicio. Y se que tengo la posibilidad de usar el puerto Thunderbolt, en ambos equipos, pero no me gusta llevar adaptadores colgando, si puedo evitarlo.</li>
+<li>posibilidad de ampliación sin hipotecarme. He podido ponerle un HD SSD y ampliar la memoria a mi MBP 13&#8243;. Al rMBP no se le puede ampliar, porque todo viene soldado.</li>
+<li>mi mujer tiene un venerable MacBook blanquito de 2007. Su cargador es compatible con el mío. Nada de MagSafe2 ni historias: si pierdo el mío o explota, tengo un reemplazo de emergencia cerca.</li>
+<li>pasta. El rMBP cuesta bastante más que el MBP 13&#8243; y en mi opinión, salvo la pantalla y que pesa algo menos, no me aporta demasiado por su coste. Prefiero buscar ese MBP 13&#8243;, ampliarlo y comprar Apple Care. Y ya, para rematar el ahorro, he comprado el equipo Refurbished, con lo que te ahorras unos buenos euros.</li>
+</ul>
+<p>El equipo que pienso es el que más prestaciones te da actualmente a un precio razonable es un MBP 15&#8243; con resolución extra (1.680 por 1.050) y pantalla mate y con 16 GB RAM + SSD. Al tener una gráfica discreta, es la mejor opción. Pero quería renovar mi viejo MBP 15&#8243; del 2008 por lo mínimo posible, y además quería cambiar de factor de forma y pasar a algo más compacto.</p>
+<p>El rMBP 13&#8243; me parece una buena idea, pero esperaría a una segunda o tercera versión. No tiene sentido que lleve la misma gráfica y CPU que el no retina y que por esa resolución extra tengas que pagar 498 Eur.</p>
+<h1>Cómo lo uso</h1>
+<p>Mi MBP es el equipo que uso para los cursos y salidas varias: a Conferencias, Hackathones, reuniones de la NSCoder Night de Sevilla, etc. Es muy compacto y me transmite una sensación de solidez. Arranca en muy pocos segundos (menos de 10) y todo es instantáneo. Con los 16 GB de RAM, nada hace swap y todos los procesos tienen más memoria de la que puedan necesitar. Y el acceso a disco es muy rápido gracias al SSD. El S.O. está instalado en el SSD y los datos en el HD. Todo como la seda.</p>
+<p>Además de para los cursos, cuando puedo levantarme temprano lo uso para escribir código en Xcode / Eclipse. Y probar las Apps. Para eso, es perfecto.</p>
+<p>Pero no todo es perfecto. Alguien pensará qué pasa cuando necesito más resolución, para trabajar cómodamente o usando Pixelmator o similares. Respuesta sencilla: para esos casos tengo mi iMac 27&#8243; con su segundo monitor de 24&#8243;. Creo que con 2560&#215;1440 + 1920&#215;1080 (5.760.000 pixeles) tengo de sobra. Y pensar que mi primer AMSTRAD, en su modo de máxima resolución (MODE 2) alcanzaba 640*200 (128.000 pixeles). Eso sí, en blanco y negro, o en mi caso, en fósforo verde encendido o fósforo verde apagado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>La dulce espera</title>
+		<link>/2012/11/20/la-dulce-espera/</link>
+		<comments>/2012/11/20/la-dulce-espera/#comments</comments>
+		<pubDate>Tue, 20 Nov 2012 12:36:03 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[compras]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[SSD]]></category>
+
+		<guid isPermaLink="false">/?p=1810</guid>
+		<description><![CDATA[No, no estoy esperando un bebé. No estoy «embarazado»&#8216;, como se suele decir en estos casos. No, espero un «niño», pero de otro tipo. Me he comprado un ordenador nuevo. Y, de nuevo, como cada vez desde que me compraron mis padres mi primer Amstrad CPC 464, cuento las horas y fantaseo pensando en lo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, no estoy esperando un bebé. No estoy «embarazado»&#8216;, como se suele decir en estos casos. No, espero un «niño», pero de otro tipo. Me he comprado un ordenador nuevo. Y, de nuevo, como cada vez desde que me compraron mis padres mi primer Amstrad CPC 464, cuento las horas y fantaseo pensando en lo rápido que va a funcionar el nuevo equipo, la de cosas que voy a poder hacer con el, lo feliz que me va a hacer&#8230;</p>
+<p>Así somos los informáticos. Tontos hasta decir basta. No conozco otras profesiones en las que pase esto. No me imagino un albañil llegando por la noche a casa excitado porque en el trabajo le han puesto una hormigonera nueva y contándole a su mujer: «no veas lo bien que hace el hormigón, no hace apenas ruido, está limpita y con la pintura aún sin ensuciar, me voy a pasar toda la noche haciendo hormigón y mañana voy a grabar una comparativa con las otras hormigoneras&#8230;». Vamos, que no lo veo. En lo nuestro el salario es algo importante, pero los chismes también. Nos gustan demasiado los gadgets. Es también lo que nos ayuda a no volvernos locos, con tantos cambios (y tan rápidos).</p>
+<p><a href="/wp-content/uploads/2012/11/material-ampliación.jpeg"><img class="aligncenter size-full wp-image-1812" title="Material para la ampliación del nuevo MBP" src="/wp-content/uploads/2012/11/material-ampliación.jpeg" alt="Material para la ampliación del nuevo MBP" width="800" height="598" srcset="/wp-content/uploads/2012/11/material-ampliación.jpeg 800w, /wp-content/uploads/2012/11/material-ampliación-300x224.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>El Jueves, cuando  llegue el equipo, le voy a instalar algunas ampliaciones, que podéis ver en la foto. Los detalles del «mini-bicho», cuando esté montado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>La única «pena» que tengo: he tenido que vender mi viejo y queridísimo MBP 15&#8243;. Ha sido mi primer Mac, y ahora me está dando realmente pena deshacerme de el. Pero las cosas cambian, y hay que cambiar con ellas. Al menos se que estará en buenas manos.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/20/la-dulce-espera/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>El iPhone de mil pulgadas</title>
+		<link>/2012/08/22/el-iphone-de-mil-pulgadas/</link>
+		<comments>/2012/08/22/el-iphone-de-mil-pulgadas/#comments</comments>
+		<pubDate>Wed, 22 Aug 2012 20:01:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[patios de vecinos]]></category>
+		<category><![CDATA[rumors]]></category>
+
+		<guid isPermaLink="false">/?p=1765</guid>
+		<description><![CDATA[Se acerca el lanzamiento de un nuevo iPhone. Lo puedo sentir, en los rumores que los recaudadores de adsense de esa cámara de eco que llamamos Blogosfera propagan copiándose unos a otros, sin demasiado pudor, muchas veces tirando de copy y paste. Eso sí, al final del post copiado ponen, en un tipo de letra [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="/wp-content/uploads/2012/08/magic_ball.jpg"><img class="aligncenter size-full wp-image-1769" title="Magic Ball. Author: http://www.flickr.com/photos/28931095@N03/2699978095/" src="/wp-content/uploads/2012/08/magic_ball.jpg" alt="Magic Ball. Author: http://www.flickr.com/photos/28931095@N03/2699978095/" width="500" height="375" srcset="/wp-content/uploads/2012/08/magic_ball.jpg 500w, /wp-content/uploads/2012/08/magic_ball-300x225.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p style="text-align: justify;">Se acerca el lanzamiento de un nuevo iPhone. Lo puedo sentir, en los rumores que los recaudadores de adsense de esa <a href="http://chris.pirillo.com/10-ways-to-eliminate-the-echo-chamber/">cámara de eco</a> que llamamos Blogosfera propagan copiándose unos a otros, sin demasiado pudor, muchas veces tirando de copy y paste. Eso sí, al final del post copiado ponen, en un tipo de letra diminuto, un enlace donde usando la lupa magnificadora podemos leer «fuente».</p>
+<p style="text-align: justify;">Es en estos días previos a los lanzamientos donde se crean nuevos rumores, o se reciclan los viejos. Total, si seguimos probando igual alguna vez acertamos y Apple saca el iPhone de 4&#8243;. Que ahora es «<em>inevitable</em>«. Como lo era reproducir <a href="http://www.apple.com/hotnews/thoughts-on-flash/">Flash</a> o tener almacenamiento externo y batería intercambiable cuando salió el iPhone y el iPad. Echadle un vistazo al <a href="http://www.google.com/nexus/#/7/">Nexus 7</a> de Google y es curioso no escuchar a nadie al borde del suicidio porque la tableta cumpla religiosamente con los cánones de San Steve. Puyas aparte, y dependiendo del precio que tenga cuando se ponga a la venta en España es un dispositivo que me gustaría tener. <a href="/2012/08/20/instalar-android-ice-cream-sandwich-en-la-hp-touchpad/">ICS en una tableta Android es bastante chulo</a>.</p>
+<p style="text-align: justify;">El caso es que hay dos rumores opuestos pululando por ahí. Ambos de «fuentes confiables», como pueden ser mi pescadero o mi cuñada. Ambos opuestos</p>
+<p style="text-align: justify;">Por un lado parece que el iPhone tiene la pantalla demasiado pequeña algo de lo que los millones de clientes de Apple (pobres Fanboys!) aún no se han dado cuenta y necesita desesperadamente tener 4, 4.2 o incluso 5 pulgadas. Por otro, el iPad es <em>insoportablemente</em> grande y pesado, con sus desproporcionadas 9.7&#8243;. Hay que reducirlo por imperativo legal a 7&#8243;.</p>
+<p style="text-align: justify;">Yo no llevo mucho tiempo siguiendo el mundo Apple. Apenas unos 5 años. Pero creo que todos estaremos de acuerdo en que Apple no se distingue por dar muchas opciones. ¿Quieres un iPhone? Lo tienes en blanco o en negro. Y punto. Es famosa la cita de Tim Cook, cuando aún no era CEO de Apple:</p>
+<blockquote><p>We can put all of our products on the table you’re sitting at. Those products together sell $40 billion per year. No other company can make that claim except perhaps an oil company.<br />
+We are the most focused company that I know of, or have read of, or have any knowledge of.<br />
+We say no to good ideas every day; we say no to great ideas; to keep the number of things we focus on small in number.</p></blockquote>
+<p style="text-align: justify;">Todos los iPhones e iPads hasta ahora han tenido los mismos tamaños de pantalla. Pero parece que ahora no va a ser así, dicen los «expertos». Entonces, ¿cómo quedaría la línea de productos de Apple? Actualmente se venden el iPhone 3Gs, el 4 y el 4s. ¿Van a eliminar el 3Gs y el 4 y dejar el 4s y el nuevo «iPhone diseñado para el guante de béisbol»? Si esto es así, ¿el modelo de entrada va a ser el 4s? Si dejan el 4 y el 4s, con una bajada de precios del 4s y con la única mejora previsible de la pantalla «gorda» y quizás nueva GPU y CPU, ¿hay argumentos para comprarse el nuevo?</p>
+<p>Y con el iPad, qué dejan: ¿iPad3 AKA New iPad, iPad2 y el iPad mini? ¿Los tres? El iPad mini este tendría la resolución del iPad 2 para no molestar a los desarrolladores? Parecería lo lógico. Lo que no queda claro es si comprar un iPad de 7&#8243; o un iPhone de 5&#8243;, ya que estarían casi en el mismo rango de tamaños. Y tendríamos 3,5&#8243; y 4.2&#8243; (iPhones) y 7&#8243; y 9,7&#8243; (iPads). Demasiadas opciones. Goto cita Tim Cook.</p>
+<p>De todo esto, sólo le doy pábulo a dos cosas:</p>
+<ul>
+<li>Por un lado, es evidente que Apple va a sacar el iPhone 5, new iPhone o como lo llamen. iOS 6 anda ya por la Beta 4 y entiendo que quieran lanzar el S.O. con un hardware que le haga justicia. He visto modelos de un iPhone más delgado. Misma pantalla. Eso me lo creo. No creo que cambien el tamaño de la pantalla, porque para seguir siendo «retina» tendrían que aumentar el número de pixeles por pulgada. Eso cambiaría la resolución, que ya no sería 960&#215;480 y «mataría» a miles de desarrolladores y diseñadores. Además de algún gatito.</li>
+<li>Un iPad de 7&#8243;, con una resolución igual a la del iPad 2 (1024&#215;768) y a buen precio (unos 299$) plantaría cara al Nexus 7 y daría mucha guerra en el segmento de abajo. Sin afectar a las ventas del New iPad. Si quieres retina y potencia, ráscate el bolsillo.</li>
+</ul>
+<div style="text-align: justify;">Bueno, en un mes o así veremos. Igual me tengo que comer mis palabras. O no. Esta vez, como se equivoquen de nuevo, me parece que me voy a dedicar a crear un portal que se llame: rumoresappletelodije.com, a ver si cuando se hable de las cosas, se hace con algo de criterio.</div>
+<p>Casi a la vez, Migue en Enteratec deja su versión: «<a href="http://enteratec.com/apple/reflexion-sobre-la-nueva-presentacion-de-apple-y-su-nuevo-iphone-nadie-tiene-ni-puta-idea/">Reflexión sobre la nueva presentación de Apple y su nuevo iPhone. Nadie tiene ni puta idea.</a>«. Más claro&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/22/el-iphone-de-mil-pulgadas/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Enero 2012: Apocalipsis Maya para mis dos ordenadores Apple</title>
+		<link>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/</link>
+		<comments>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/#comments</comments>
+		<pubDate>Fri, 03 Feb 2012 13:43:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1662</guid>
+		<description><![CDATA[Este Enero mis capacidades gafe han llegado a cotas insospechadas. Si no lees habitualmente este blog, igual no sabes que me pasé completamente a Mac, porque pienso que los Macs no son caros. Y que en mi escritorio trabajo habitualmente con dos equipos, mi iMac de 27&#8243; Core i7 y mi viejo Mac Book Pro. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://www.flickr.com/photos/imlsdcc/5576596277/"><img class="aligncenter size-full wp-image-1666" title="Tren descarrilado. Foto de la IMLS DCC" src="/wp-content/uploads/2012/02/train.jpg" alt="Tren descarrilado. Foto de la IMLS DCC" width="512" height="320" srcset="/wp-content/uploads/2012/02/train.jpg 512w, /wp-content/uploads/2012/02/train-300x187.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></a></p>
+<p style="text-align: justify;">Este Enero mis capacidades <em>gafe</em> han llegado a cotas insospechadas. Si no lees habitualmente este blog, igual no sabes que <a href="/2008/03/23/cambiando-a-mac/">me pasé completamente a Mac</a>, porque <a href="/2008/04/04/razones-para-no-usar-un-mac/">pienso que los Macs no son caros</a>. Y que en mi escritorio trabajo habitualmente con dos equipos, <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">mi iMac de 27&#8243; Core i7</a> y mi viejo Mac Book Pro. También sabrás que anteriormente <a href="/2011/03/01/mi-time-capsule-ha-muerto-%C2%A1larga-vida-a-mi-time-capsule/">se me ha roto hardware de Apple, y que Apple me lo arregló gratis</a>, aunque ya no estuviera en garantía.</p>
+<p style="text-align: justify;">El caso es que desde Noviembre vengo quejándome del horroroso rendimiento de Lion en el iMac. Con un Core i7 quadcore 2.8 Ghz y 12GB espero que todo vuele. Ni SSD ni gaitas. Lo tienes todo en memoria y punto. Máquina hay de sobra. Pero no era así. Y el HD hacía un ruído horroroso. No se por qué me empeñé en que el fallo era software, y probé a desactivar, reactivar y toquetear casi todos los ajustes del sistema. Instalé y quité aplicaciones para ver si encontraba a la App culpable. Incluso desactivé las copias de seguridad con Time Machine, para que no me enlentecieran el equipo. Pero nada. Lion era desesperante. Y el HD cada vez sonaba más y más. Aunque me avisaban desde Twitter que a ver si no era un problema hard, yo ni caso. Al final, instalando el programa Tech Tool Pro 6, para defragmentar el disco del iMac, me avisó de que el estado SMART del disco avisaba de fallo inminente. El estado SMART es un sistema que en teoría te avisa de un fallo futuro en el hardware del disco duro, de forma que antes de que el disco muera puedas hacer algo.</p>
+<p style="text-align: justify;">En mi caso, lo primero que hice fue copiar el HD entero en una imagen de disco (un DMG) desde la utilidad de discos. Luego llamé a Apple, a ver qué podíamos hacer. Lo primero que me dicen es que mi iMac no tiene Apple Care. Les digo que no, que yo compré el Apple Care y que el comercial me indicó que se auto activaba.  Pues no. Busqué la caja del Apple Care y lo activamos correctamente con otra llamada a Apple. Una vez comprobado que el HD daba error SMART me ofrecieron cambiarlo sin coste alguno. Incluso podía elegir a dónde llevar la máquina. Así que preferí hacerlo en Golden Mac, que para eso son el APR de Sevilla y es allí donde imparto algún curso de iOS que otro. Llevé la máquina, estuvo allí una semana y ha vuelto como nueva. He reinstalado Lion, aplicado actualizaciones y recuperado el sistema desde el DMG que creé y he continuado desde ese punto. Esta parte, tras el disgusto, ha sido fácil.</p>
+<p style="text-align: justify;">Y además tenía mi querido MBP para seguir trabajando, ¿no?. <strong>Pues no</strong>. Un Sábado estoy trabajando con el y de pronto pega un «pantallazo» y se pone en modo CGA. Los viejunos me entenderán. Pero se recupera solo, y sigue funcionando sin normalidad. Le echo la culpa al driver de vídeo de Lion, total, <a href="/2011/08/06/las-prisas-por-lion/">la culpa siempre va a ser de Lion</a>, ¿no? Cierro el MBP y lo dejo en reposo, como siempre. El Domingo, me levanto con ganas de hacer cosas y abro el equipo. Pero la pantalla está en negro. No se ve nada. Intento todas las combinaciones de teclas y al final lo apago con un «botonazo». Arranco y no se ve nada. Además, antes de apagarlo le quité el sonido y no suena el Mac al encender. Luego no se si está arrancando bien o no. Tras varios apagados en modo Chuck Norris, decido conectarlo a un monitor externo. No Luck. No se ve nada. Pienso que es la placa base, que se ha ido al garete. Pero veo que desde una máquina windows puedo hacer ping a la IP del portátil. Luego está vivo. No suena porque le quité el sonido. Y no se ve porque la gráfica nVidia ha <em>muerto</em>. Busco por Internet y tras un rato me encuentro con esta página, en la que Apple reconoce un fallo en las nVidia de los MBP que coinciden con el mío. Y tienen un programa de cobertura: si el equipo tienen menos de 4 años, aunque no esté en garantía, si se le va la gráfica te cambian la placa base gratis.</p>
+<p style="text-align: justify;">De nuevo, llamada a Apple. Y paseo a Golden Mac. Recojo el iMac y dejo mi MBP. Y tras dos semanas, aquí están en mi mesa de nuevo los dos, trabajando codo con codo. He superado la «crisis hardware» mayor que he sufrido en mi vida (en casa).</p>
+<p style="text-align: justify;">Moralejas. Varias. <strong>Las cosas de Apple se rompen</strong>, como las de todos. Pero con una llamada y pulsar una tecla te atiende una persona que te informa si sí, si no, o le que cuesta. Y se hacen cargo de sus fallos. Los reconocen y los <em>pagan</em>. Y hay puntos de servicio por toda España. No quiero imaginarme lo que hubiera pasado con dos equipos Acer o Dell. Envío a portes debidos, mala atención, etc. Así que con Apple se paga un poco más, que en mi opinión está muy justificado por la calidad de los materiales y <strong>el soporte postventa, que es el mejor</strong>.</p>
+<p style="text-align: justify;">Y otra moraleja. Pensaba que tenía muchos ordenadores en casa. Y es verdad. Pero en una semana «murieron» en combate dos de golpe. Tuve que tirar durante una semana de <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">mi viejo Dell 17&#8243; </a>(un PC transportable, más que portátil), pero que me ha sacado del apuro. Una experiencia insufrible volver a XP después de OS X, si al menos fuese Win 7&#8230; El caso es que cierta redundancia en hardware, si te dedicas a esto, nunca está mal. Lección aprendida.</p>
+<p style="text-align: justify;">Espero que ahora las cosas se calmen un poco, deje de romper cosas y pueda centrarme en crear algo interesante. Tus historias de miedo, a continuación en los comentarios. Siempre es bueno ventilar esos problemas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Conferencia NSCoders Apple Conference 2011, ¡ya casi está aquí!</title>
+		<link>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/</link>
+		<comments>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/#comments</comments>
+		<pubDate>Thu, 20 Oct 2011 18:04:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+		<category><![CDATA[Objective C]]></category>
+
+		<guid isPermaLink="false">/?p=1626</guid>
+		<description><![CDATA[¿Cómo? ¿Que aún no te has apuntado a la NSCoders Apple Conference 2011? ¡Pues ya estás tardando! Podrás ver allí a lo más granado de las distintas NSCoder Nights de toda España. Yo voy a impartir una de las sesiones. Así que ya sabes: no hay excusa para no invitarme a un café, o a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1627" style="width: 680px" class="wp-caption aligncenter"><a href="http://nsconf.nscoders.org/"><img class="size-full wp-image-1627" title="NSCoders Apple Conference 2001" src="/wp-content/uploads/2011/10/nsconf11.gif" alt="NSCoders Apple Conference 2001" width="670" height="260" srcset="/wp-content/uploads/2011/10/nsconf11.gif 670w, /wp-content/uploads/2011/10/nsconf11-300x116.gif 300w" sizes="(max-width: 670px) 100vw, 670px" /></a><p class="wp-caption-text">NSCoders Apple Conference 2001</p></div>
+<p style="text-align: justify;">¿Cómo? ¿Que aún no te has apuntado a la NSCoders Apple Conference 2011? ¡Pues ya estás tardando! Podrás ver allí a lo más granado de las distintas NSCoder Nights de toda España. Yo voy a impartir una de las sesiones. Así que ya sabes: no hay excusa para no invitarme a un café, o a un MacBook Air, lo que te venga mejor.</p>
+<p style="text-align: justify;">Por si esto de la NSCoder te deja frío y no sabes de qué te hablo, <a href="/2011/10/04/primera-conferencia-de-la-asociacion-nscoders-espana/">te recuerdo</a> que las NSCoder Nights son reuniones de programadores, diseñadores, gente interesada en el desarrollo en plataforma Apple, que se juntan en un bar a charlar, tomar unas copas, e incluso programar. En <a href="/2010/11/12/nscoder-nights-sevilla/">Sevilla tenemos una muy animada</a>, a la que te invito a venir, si te pasas por la ciudad. Incluso <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">puedes montar la tuya propia</a>.</p>
+<p style="text-align: justify;">El caso es que la idea ha cuajado, y han surgido como setas las NSCoders. Y claro, todos queremos más. Realmente nos da envidia la WWDC, pero es que es una pasta ir a San Francisco :-D. Y aquí va a ir gente de auténtico nivel. Yo voy de relleno.</p>
+<p>No le des más vueltas y reserva ya. ¡Es gratis!. Vente en barco, en avión o en burro, pero vente con tu Mac.</p>
+<p><strong>Keep coding!</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>El primer día de la era Post Steve</title>
+		<link>/2011/10/07/el-primer-dia-de-la-era-post-steve/</link>
+		<comments>/2011/10/07/el-primer-dia-de-la-era-post-steve/#comments</comments>
+		<pubDate>Thu, 06 Oct 2011 23:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Steve]]></category>
+
+		<guid isPermaLink="false">/?p=1617</guid>
+		<description><![CDATA[Es cerca de la una de la madrugada mientras escribo estas líneas. Estoy sentado, solo, en total oscuridad. Los vecinos duermen. Y la habitación se ilumina, por un lado, con la luz de la pantalla TFT de mi Macbook Pro. Por el otro, gracias a luz de la manzana de Apple. Esa manzana que todos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1619" style="width: 650px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/10/steve.png"><img class="size-full wp-image-1619" title="Steve en mi iPhone" src="/wp-content/uploads/2011/10/steve.png" alt="Steve en mi iPhone" width="640" height="960" srcset="/wp-content/uploads/2011/10/steve.png 640w, /wp-content/uploads/2011/10/steve-200x300.png 200w" sizes="(max-width: 640px) 100vw, 640px" /></a><p class="wp-caption-text">Steve en mi iPhone</p></div>
+<p style="text-align: justify;">Es cerca de la una de la madrugada mientras escribo estas líneas. Estoy sentado, solo, en total oscuridad. Los vecinos duermen. Y la habitación se ilumina, por un lado, con la luz de la pantalla TFT de mi Macbook Pro. Por el otro, gracias a luz de la manzana de Apple. Esa manzana que todos los que amamos esta compañía reconocemos y nos hace felices. Esa misma luz que se ha apagado un poquito hoy.</p>
+<p style="text-align: justify;">Hoy es uno de esos días en los que he tenido que trabajar 12 horas. Y estoy agotado. Pero algo se mueve en mi mente, algo que tengo que expresar con palabras para poder dormir. Hoy es uno de esos días en los que estoy seguro que dentro de diez años recordaré y me vendrá a la cabeza dónde estaba cuando me enteré de la muerte de Steve Jobs. Hoy es uno de esos días en los que uno sigue trabajando, aunque no tenga ánimos. En los que se siente triste. Uno de esos días en los que ves una noticia más, y sin querer se te saltan las lágrimas.</p>
+<p>Y habrá mucha gente que no me entienda, que se rían de mi. <em>“¿Llorar por Steve Jobs, un tipo al que nunca conocí, un multimillonario americano?. ¡Fanboy!”</em>. Sí. Porque Steve no era sólo alguien a quien admiraba. Era una persona que cambió el mundo. Y, especialmente, cambió <em>mi</em> mundo.</p>
+<p style="text-align: justify;">He contado en este blog <a href="/2008/04/04/razones-para-no-usar-un-mac/">cómo me compré mi primer Mac</a>, este Macbook Pro que va para 4 años y sigue conmigo como el primer día. O cómo nos hemos convertido en una <a href="/2009/07/12/la-ifamily/">iFamily</a>. O <a href="/2009/11/29/iniciando-una-nueva-etapa/">cómo dejé el trabajo que tenía para aprender a desarrollar Apps para iOS</a>. Y de cómo he ido creando <a href="/ios-apps/">mis modestas Apps</a>. O cómo ha nacido <a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a>. Nada de esto hubiera sido posible sin Steve. No podría trabajar, como hago ahora, sentado frente a mi iMac en mi despacho de casa, haciendo algo que me apasiona y me da de comer. Ni mis hijos asumirían que todos los ordenadores se manejan tocándose, como el iPad que usan para ver sus series de Clan TV, cuando se lo quitan a su madre. Sin Steve, mi vida y mi mundo serían ahora distintos.</p>
+<p>Y además de los cambios externos, o visibles que he podido experimentar, están las lecciones que Steve nos dejó, como su memorable discurso en Stanford. El supo expresar con palabras ideas que ya estaban en mi cabeza y en mi corazón, y que me empujaron a querer hacer un poco mejor las cosas cada día. El me motivó y me enseñó.</p>
+<p>Por todo esto, gracias Steve. Seguiremos teniendo a tu Apple, y los maravillosos productos con los que has cambiado el mundo. Pero no te tendremos a tí. Y aunque no te conociera, eras importante para mí. Y para muchos otros.</p>
+<p>We love you, Steve!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/07/el-primer-dia-de-la-era-post-steve/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Creando una lista de Podcasts en iTunes</title>
+		<link>/2011/07/19/creando-una-lista-de-podcasts-en-itunes/</link>
+		<pubDate>Tue, 19 Jul 2011 10:10:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Deporte]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iTunes]]></category>
+
+		<guid isPermaLink="false">/?p=1549</guid>
+		<description><![CDATA[Uno de los objetivos que me planteé este año fue volver a hacer deporte de forma habitual. Sin querer convertirme en un Iron Man (aunque estaría chulo poder correr una de esas), el objetivo era incorporar el deporte de nuevo a mi rutina de vida diaria. Y lo he conseguido. Ahora salgo todas las semanas, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Uno de los objetivos que me planteé este año fue volver a hacer deporte de forma habitual. Sin querer convertirme en un <a href="http://es.wikipedia.org/wiki/Ironman" target="_blank">Iron Man</a> (aunque estaría chulo poder correr una de esas), el objetivo era incorporar el deporte de nuevo a mi rutina de vida diaria. Y lo he conseguido. Ahora salgo todas las semanas, 3 ó 4 veces, a caminar, marchar o trotar de forma suave.</p>
+<p style="text-align: justify;">Me he habituado a ir escuchando música mientras camino. Ya, ya se que la mayoría de la gente lo hace, pero es que yo era un «anti-cacharros» para correr, y me molestaban hasta las zapatillas. Pero el iPhone 4 engancha, y más si usas una herramienta de tracking como <a href="http://runkeeper.com/" target="_blank">RunKeeper Pro</a>. Durante el Invierno y la Primavera he ido con el iPhone sin problemas. Pero ahora en Verano me apetecía algo más ligero. Y mi mujer tenía tirado por aquí, sin usar, un iPod Shuffle de 2GB (rosa, eso sí). Ante tamaño sacrilegio, no tuve más remedio que ponerlo en uso y cargarlo con música.</p>
+<p style="text-align: justify;">Y todo perfecto. Pero echo de menos mis podcasts. Porque cuando antes he dicho que escucho música he mentido: yo escucho podcasts, y así aprovecho el deporte para enterarme de cosas, o entretenerme. Es la mejor radio, y la que más escucho. El caso es que en el Shuffle, que lo cargué de emergencia con un aleatorio de canciones de 5 estrellas, no había ni un podcast. Tenía que solventarlo. Mi mente ya sabía lo que quería:</p>
+<blockquote><p>«Dile a iTunes que SELECT * FROM podcasts WHERE nombre_podcast = Game Over OR Macniacos OR 85% Cocoa OR &#8230;»</p></blockquote>
+<p style="text-align: justify;">El problema es que aún no he terminado el Interfaz Mente de Diego &#8211; iMac. Está en preAlpha :-). Así que tenía que pelearme con el interfaz de iTunes, que será muy intuitivo, pero para otros. Porque lo que es para mí&#8230;</p>
+<p style="text-align: justify;">Lo que sí tenía claro, es que debía ser una lista de reproducción, y luego cambiarle los criterios hasta llegar a algo como el SELECT de arriba. ¡ERROR!. Las listas de reproducción te permiten arrastrar ahí canciones para luego reproducirlas, pero no definir criterios. Lo que necesito es una nueva lista de reproducción <em>inteligente</em>.</p>
+<div id="attachment_1551" style="width: 227px" class="wp-caption aligncenter"><img class="size-full wp-image-1551" title="Listas de reproducción inteligentes" src="/wp-content/uploads/2011/07/lista-reprod.png" alt="Listas de reproducción inteligentes" width="217" height="140" /><p class="wp-caption-text">Listas de reproducción inteligentes</p></div>
+<p style="text-align: justify;">Me lancé a crear la lista, pero eso de hacer que me listara todos los podcast Y que luego pusiera los capítulos no reproducidos de unos cuantos de ellos, seleccionados a mano me ha llevado unos minutos hasta comprenderlo. Sí, soy demasiado estúpido. Pero una búsqueda booleana directa me gustaría más. A mí al menos&#8230; Sin aburrir más al personal, para crear la lista he llegado a:</p>
+<div id="attachment_1552" style="width: 916px" class="wp-caption aligncenter"><img class="size-full wp-image-1552" title="Configuración de la Lista de Reproducción" src="/wp-content/uploads/2011/07/config-lista.png" alt="Configuración de la Lista de Reproducción" width="906" height="638" srcset="/wp-content/uploads/2011/07/config-lista.png 906w, /wp-content/uploads/2011/07/config-lista-300x211.png 300w" sizes="(max-width: 906px) 100vw, 906px" /><p class="wp-caption-text">Configuración de la Lista de Reproducción</p></div>
+<p>Ahora esto hace lo que yo quiero: me saca 10 podcasts de entre los de arriba que no estén marcados como reproducidos. ¡Bien!. iTunes 0, Diego 1.</p>
+<div id="attachment_1553" style="width: 410px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/resultado-lista.png"><img class="size-full wp-image-1553" title="El resultado de la Lista: los podcast que quiero escuchar" src="/wp-content/uploads/2011/07/resultado-lista.png" alt="El resultado de la Lista: los podcast que quiero escuchar" width="400" height="232" srcset="/wp-content/uploads/2011/07/resultado-lista.png 400w, /wp-content/uploads/2011/07/resultado-lista-300x174.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a><p class="wp-caption-text">El resultado de la Lista: los podcast que quiero escuchar</p></div>
+<p><span style="text-decoration: underline;"><strong>Actualización 27/07/2011:</strong></span></p>
+<p>Tal y como aparece la captura de pantalla con las reglas anteriores, NO se muestran los 10 podcasts añadidos recientemente y que no se han reproducido. Sólo se muestran los 10 añadidos hace menos tiempo. Eso me ha llevado a que, por ejemplo, si me bajo 10 episodios de 85% Cocoa y otros 10 de iCharlas, y escucho todos los de iCharlas me seguirán apareciendo en la lista (aunque ya los he escuchado) porque son los últimos que he añadido. Se soluciona con una condición «Nº de reproducciones es 0», quedando las reglas:</p>
+<div id="attachment_1560" style="width: 790px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/nuevas-reglas.png"><img class="size-full wp-image-1560" title="Nuevas reglas de la lista inteligente" src="/wp-content/uploads/2011/07/nuevas-reglas.png" alt="Nuevas reglas de la lista inteligente" width="780" height="549" srcset="/wp-content/uploads/2011/07/nuevas-reglas.png 780w, /wp-content/uploads/2011/07/nuevas-reglas-300x211.png 300w" sizes="(max-width: 780px) 100vw, 780px" /></a><p class="wp-caption-text">Nuevas reglas de la lista inteligente</p></div>
+<h1>Sincronizando el iPod Shuffle</h1>
+<p style="text-align: justify;">El Shuffle que tengo es uno de los de primera generación. Que por cierto, son los que más me gustan de diseño. Los de la 3ª generación han vuelto a este diseño original del que nunca debieron apartarse <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Si tratas de autorellenar uno de estos Shuffles desde iTunes con la lista de podcasts, una ventanita te dice que <em>tralará</em>:</p>
+<div id="attachment_1556" style="width: 564px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/error-shuffle.png"><img class="size-full wp-image-1556" title="Error Shuffle 1ª generación: no soporta podcasts" src="/wp-content/uploads/2011/07/error-shuffle.png" alt="Error Shuffle 1ª generación: no soporta podcasts" width="554" height="226" srcset="/wp-content/uploads/2011/07/error-shuffle.png 554w, /wp-content/uploads/2011/07/error-shuffle-300x122.png 300w" sizes="(max-width: 554px) 100vw, 554px" /></a><p class="wp-caption-text">Error Shuffle 1ª generación: no soporta podcasts</p></div>
+<p>Y Apple te lo deja <a href="http://support.apple.com/kb/HT1831?viewlocale=es_ES">bien clarito</a>:</p>
+<blockquote><p>La función Autorrelleno de iTunes no añadirá audiolibros y podcasts a ningún modelo de iPod. Es posible añadirlos manualmente si los arrastras hasta el iPod shuffle en iTunes.</p></blockquote>
+<p>Así que nada de hacer las cosas automáticamente (bueno, sí puedes si te dejas la pasta en un Shuffle de los nuevos). En mi caso, la sincronización la hago en tres pasos:</p>
+<ol>
+<li>borro todo del Shuffle</li>
+<li>copio los podcasts de mi lista en el Shuffle</li>
+<li>y entonces que iTunes autorellene con mis canciones favoritas. No caben todas, OK, mete las que quieras</li>
+</ol>
+<div>Y de esta forma, llevo podcasts y música en el Shuffle. El problema ahora es encontrar los podcasts para reproducirlos, pero esa es otra historia <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Mi oficina en casa (Home Office), Junio 2011</title>
+		<link>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/</link>
+		<comments>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/#comments</comments>
+		<pubDate>Mon, 18 Jul 2011 17:01:25 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[iMac]]></category>
+
+		<guid isPermaLink="false">/?p=1540</guid>
+		<description><![CDATA[Me gusta el porno Geek. Y mucho. Eso de mirar chismes «me pone». Y no te rías: si estás leyendo esto, es porque te gusta esa variante del porno Geek, para voyeurs, llamada Home Office Setups. Me encanta ver las oficinas de otras personas (si son informáticos mejor, ya que entonces el factor Geek se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me gusta el <em>porno Geek</em>. Y mucho. Eso de mirar chismes «me pone». Y no te rías: si estás leyendo esto, es porque te gusta esa variante del porno Geek, para voyeurs, llamada Home Office Setups. Me encanta ver las oficinas de otras personas (si son informáticos mejor, ya que entonces el factor Geek se multiplica).</p>
+<p style="text-align: justify;">Comencé esta afición con dos clásicos, las increíbles oficinas de <a href="http://www.biscade.com/office/">Mitch Haile</a> y de <a href="http://www.stefandidak.com/">Stefan Didak</a>. Vídeos como los de <a href="http://www.youtube.com/watch?v=nlWx1cDvDs4&amp;hd=1">Bilsta57</a> no me ayudaron mucho a superar este vicio. Finalmente me hice seguidor de <a href="http://www.workstationsetups.com/">Workstation Setups</a> en Twitter. Y ahora he dado un paso más. Ya que mucha gente tiene curiosidad en ver cómo amontono los ordenadores que atesoro, he decidido hacer una fotos (bastante malas, aviso), y subirlas a Flickr. Abajo tienes una presentación «bonita» de las fotos, pero si quieres, puedes <a href="http://www.flickr.com/photos/dfreniche/sets/72157626871600533/">ir a Flickr</a> y ver las fotos con sus descripciones, comentarlas, etc.</p>
+<p><object width="700" height="525"><param name="flashvars" value="offsite=true&#038;lang=en-us&#038;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2Fshow%2F&#038;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2F&#038;set_id=72157626871600533&#038;jump_to="></param><param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=104087"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=104087" allowFullScreen="true" flashvars="offsite=true&#038;lang=en-us&#038;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2Fshow%2F&#038;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2F&#038;set_id=72157626871600533&#038;jump_to=" width="700" height="525"></embed></object></p>
+<p>Ya sabes, me encantaría que me enseñaras tus «vídeos caseros». En el buen sentido, claro <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Una mañana de trabajo cualquiera</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/</link>
+		<comments>/2011/04/05/una-manana-de-trabajo-cualquiera/#comments</comments>
+		<pubDate>Tue, 05 Apr 2011 11:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1453</guid>
+		<description><![CDATA[Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para mi querido Amstrad CPC 464 con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para <a href="http://freniche.com/wp/?page_id=4">mi querido Amstrad CPC 464</a> con el monitor fósforo verde, con su unidad de casetes. El único periférico que tenía era un Joystick. Y a usarlo. Pero veía en las películas a gente en países lejanos y extraños, en salas llenas de ordenadores.</p>
+<p style="text-align: justify;">Como el programador de Parque Jurásico (que, por supuesto, además de ser el malo, cobarde y torpe, estaba mal pagado y era gordo y feo). Por cierto, si veis de nuevo JP os llamarán la atención dos cosas: una, que están programando fumando, algo impensable en cualquier entorno de hoy en día. La otra, que el sistema de «bug tracking» que usan es una libreta donde van anotando los errores <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/RfiQYRn7fBg"" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/RfiQYRn7fBg""></param></object></div>
+</div>
+<p style="text-align: justify;">Volviendo al tema que me traía aquí, en esta mañana he comenzado <a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/">programando en C</a>, en el IDE Eclipse corriendo sobre Windows 7. Ese <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">Windows 7 está instalado en mi MBP</a>. Por si fuera poco frikismo, he usado el escritorio remoto de Windows para programar esos ejemplos en una ventana del iMac de 27&#8243;, que para eso tengo una pantalla grande. Mientras programaba iba actualizando la presentación de Keynote que acompaña al curso, en el iMac. Sonaba la música desde iTunes, donde estaba restaurando mi iPhone 3Gs con una copia de seguridad de ayer: mis niños han borrado algunas fotos en un descuido.</p>
+<p style="text-align: justify;">He terminado con C y me he pasado a WordPress. Arrancando una máquina virtual VMWare de <a href="http://bitnami.org/">Bitnami</a>, que ya tiene un entorno WP completo sobre Linux, me he dedicado a crear un nuevo sitio para migrar una vieja web que hice hace ya la tira en Typo3. Es decir, instala plugins, widgets, temas, escribe posts, importa información, etc.</p>
+<p style="text-align: justify;">Ahora toca pensar en el próximo curso de Java EE que tengo que impartir a finales de mes. Java, Servlets, EJBs, JBoss, Eclipse de nuevo (aunque ahora en su «sabor» Java). Tendré que ojear un libro, que tengo en formato CHM (formato típico de Windows en otra época). Y luego, un poco de Objective C para comenzar un proyecto iPad que me han encargado. Tengo cosas que leer de UML&#8230;</p>
+<p style="text-align: justify;">Es por este desbarajuste de trabajo que tengo, con tantas tecnologías, frameworks, lenguajes, herramientas y entornos distintos por lo que amo a mis dos Macs. Necesito ser anti-minimalista, ya que si lo fuera no podría hacer la mitad de las cosas que hago. Esta es la razón de haber <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">ampliado mi iMac a 12 GB de RAM</a>. Aún así, procuro no instalar nada si ya tengo una aplicación que hace más o menos lo mismo, que si no acabas con un montón de aplicaciones similares que no acabas de dominar en profundidad.</p>
+<p style="text-align: justify;">Bueno, sigo, que quiero ir terminando. Que no hace mucho me comentaron que a lo mejor tengo que aprender <a href="http://clipsrules.sourceforge.net/">CLIPS</a>&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/05/una-manana-de-trabajo-cualquiera/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>«The more memory and HD you&#8217;ll have, the happier you&#8217;ll be»</title>
+		<link>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/</link>
+		<comments>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/#comments</comments>
+		<pubDate>Tue, 15 Mar 2011 11:09:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">/?p=1431</guid>
+		<description><![CDATA[No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le he puesto al iMac 12 GB de RAM. ¿Es mucho?. ¿Es poco?. Vamos con ello.</p>
+<p style="text-align: justify;">Lo  primero, dar la razón fundamental de ponerle tanta memoria al iMac: porque puedo. Sí, así de sencillo. En el 94 ni hubiera soñado con estas cantidades de memoria, ni siquiera para un disco duro. Es como pensar hoy en una RAM de 32 Hexabytes. Así que no podía plantearme si era mucho o poco: simplemente no podía. Pero hoy en día, cuando 8 GB cuestan 120 Eur. IVA inc., si necesitas esa memoria, o te apetece, tampoco es una inversión que te lleve a la bancarrota.</p>
+<p style="text-align: justify;">Además, cuando es aquí donde me gasto mi dinero. Quiero decir, que no tengo moto, no me gustan los coches potentes, ni la ropa de diseñador, ni juego al bingo, ni me gusta la coca, ni jugar al póker. Mis vicios son baratos ¡qué le vamos a hacer!. Nada me gusta más que un buen gadget electrónico. Hay quien le da por coleccionar sellos, o montar maquetas. O tener un yate. Yo tengo chismes.</p>
+<p style="text-align: justify;">Así que nada mejor para complementar a mi querido iMac Core i7 que estos 8 GB, que se han sumado a los 4 GB que traía de fábrica. Ahora tengo una máquina redonda, muy equilibrada, potente y estable. Y de la pantalla, para qué hablar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En un día normal de trabajo, si miro el consumo de memoria me puedo encontrar con algo como esto:</p>
+<div id="attachment_1432" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-usada-normal.png"><img class="size-full wp-image-1432 " title="Memoria usada" src="/wp-content/uploads/2011/03/memoria-usada-normal.png" alt="Memoria usada" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-usada-normal.png 860w, /wp-content/uploads/2011/03/memoria-usada-normal-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Memoria usada</p></div>
+<p style="text-align: justify;">Este es el consumo que tengo mientras escribo estas líneas. Se puede ver que, usado (ya sea por programas, por el S.O. o que está «cacheando» algo en memoria) tengo 4,59 GB. Algo más que los 4 GB originales. Hace unos meses, el equipo estaría paginando, es decir, tendría que sacar algún programa de memoria y guardarlo en disco (normalmente el que hace más tiempo que no se usa). El dato de Paginación (salidas) sería mayor que 0, y todo el sistema me iría más lento. Estaría tratando de ejecutar, a la vez, más programas de los cabrían en mi memoria RAM.</p>
+<p style="text-align: justify;">Como se puede ver, el problema ahora no es ese. Me sobran 7,40 GB. ¿Excesivo?. Para nada. En cuanto tenga que correr alguna máquina virtual con VMWare, o lanzar XCode 4 (con todo lo que ello implica), o jugar a Left 4 Dead 2 sin parar algo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> la memoria disminuye y se queda en algo como esto:</p>
+<div id="attachment_1433" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-tope.png"><img class="size-full wp-image-1433 " title="Usando memoria" src="/wp-content/uploads/2011/03/memoria-tope.png" alt="Usando memoria" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-tope.png 860w, /wp-content/uploads/2011/03/memoria-tope-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Usando memoria</p></div>
+<p>Uso el ordenador muchas horas al día. Por trabajo, y por placer. Y no hay cosa que me irrite más que quedarme sin espacio en disco, o ver que la máquina no va todo lo «fina» que debiera, por una tontería como es la RAM. Así que, como dice el título, un poco de RAM me hace mucho más feliz. ¡Comprueba la tuya!</p>
+<p>P.D.: Si quieres saber cómo interpretar el uso de memoria que está haciendo tu Mac, <a href="http://macperformanceguide.com/Mac-Monitoring-memory.html">te recomiendo este excelente post de MPG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Mi Time Capsule ha muerto. ¡Larga vida a mi Time Capsule!</title>
+		<link>/2011/03/01/mi-time-capsule-ha-muerto-larga-vida-a-mi-time-capsule/</link>
+		<pubDate>Tue, 01 Mar 2011 08:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1418</guid>
+		<description><![CDATA[Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_1421" style="width: 555px" class="wp-caption aligncenter"><a href="http://timecapsuledead.org/"><img class="size-full wp-image-1421" title="TC Memorial. Click para ir al sitio" src="/wp-content/uploads/2011/03/TCMemorial.png" alt="TC Memorial. Click para ir al sitio" width="545" height="229" srcset="/wp-content/uploads/2011/03/TCMemorial.png 545w, /wp-content/uploads/2011/03/TCMemorial-300x126.png 300w" sizes="(max-width: 545px) 100vw, 545px" /></a><p class="wp-caption-text">TC Memorial. Click para ir al sitio</p></div>
+<p style="text-align: justify;">Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no tuve más remedio que subir al estudio a reiniciar el router Linksys, al que le echaba la culpa. Pero al ir a cogerlo, vi algo terrorífico, que me sobrecogió el alma: la luz de la TC estaba apagada.</p>
+<p style="text-align: justify;">Para los que no sepan lo que es, la Time Capsule es un todo-en-uno de Apple que incluye en el mismo aparato un router, un switch con tres entradas de red Ethernet de 1Gb, un punto de acceso inalámbrico (lo que Apple llama un Airport Extreme) 802.11n + g + b y un disco duro en red para copias de seguridad u otros contenidos. También es servidor de impresión (se le pueden conectar impresoras a través del puerto USB que incorpora). Puntos negativos: no es servidor DNS, lo cual es un rollo y en mi opinión es una característica básica que le falta. Y se calienta bastante.</p>
+<p style="text-align: justify;">El caso es que, dados los antecedentes que ya conocía de <a href="http://twitter.com/juaconet/status/42302419794804737">@juaconet</a>, que ha pasado ya por tres time capsules, cuando me planteé mi <a href="/2010/10/03/mi-plan-de-backups/">estrategia de backups</a> decidí poner en la Time Capsule únicamente las copias de seguridad de Time Machine. De esta forma, si fallaba el ordenador, tenía la copia en la Time Capsule, y si era al revés (como al final ha sucedido) podría comprar otra TC y volver a hacer una copia de Time Machine de los portátiles. Porque, una vez que el aparato se apaga, ya no hay forma de acceder a los datos: hay que desmontarlo para llegar al disco duro. Fallo.</p>
+<p style="text-align: justify;">Estaba frente a la TC apagada y probé lo típico: a volver a enchufarla, probar con un enchufe distinto, ver si era el cable, etc. Pero nada. No hacía ningún ruido y no se encendía. Así que llamé a Apple Care. Cuando me salió la persona de Apple (el Apple Advisor) le conté mi problema, haciendo especial hincapié en que era una TC de las primeras que salieron. Me solicitó el número de serie. Cuando confirmó que efectivamente era de las primeras, me indicó que estaba cubierta por un <a href="http://support.apple.com/kb/TS3351">programa de reemplazo de Apple</a> y que me mandaban a casa una nueva ¡gratis!.</p>
+<p style="text-align: justify;">Apple sabe que las primeras TC estaban mal diseñadas. Han caído tantas que, como me indicaba @juaconet en este tweet, hay hasta un <a href="http://timecapsuledead.org/">memorial de TCs muertas</a>. Pero al menos han puesto en marcha el programa de reemplazo de forma que, en un par de días, tienes una TC nueva en casa. Eso sí, los datos los has perdido. Por eso el tener sólo las copias de Time Machine. Espero ahora que mi portátil no decida morir igualmente.</p>
+<p style="text-align: justify;">Estas son las cosas que te gustan de la compañía: el trato a los clientes. Sí, la inversión inicial puede ser superior, pero ¿es más caro? Después de tres años usándola, falla y ahora tengo una nueva con el doble de disco duro. Para mí no es mala inversión, no.</p>
+<p style="text-align: justify;">Espero que mañana me la entreguen. Y luego habrá que configurarla, y volver a lanzar Time Machine, y, y&#8230; D&#8217;oh!</p>
+<p style="text-align: justify;"><strong>Actualización 15/03/2011</strong>: hace ya unos días que tengo instalada y en uso la TC. Pero la que me mandaron finalmente era igual a la que tenía, de 500 GB. Bueno, al menos, aunque ya no estaba cubierta por la garantía, han dado la cara. Pero hubiera estado mejor lo del TB <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>ClockRing y la Hermenéutica de las Apple Review Guidelines</title>
+		<link>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/</link>
+		<comments>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/#comments</comments>
+		<pubDate>Thu, 03 Feb 2011 11:03:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Productos]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1377</guid>
+		<description><![CDATA[ClockRing ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1378" style="width: 380px" class="wp-caption aligncenter"><img class="size-full wp-image-1378 " title="ClockRing rechazada :-)" src="/wp-content/uploads/2011/02/ClockRing-rejected.png" alt="ClockRing rechazada :-)" width="370" height="197" srcset="/wp-content/uploads/2011/02/ClockRing-rejected.png 370w, /wp-content/uploads/2011/02/ClockRing-rejected-300x159.png 300w" sizes="(max-width: 370px) 100vw, 370px" /><p class="wp-caption-text">ClockRing rechazada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;"><a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a> ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema con la licencia, que es <a href="https://femtocoders.fogbugz.com/default.asp?W5">GPL</a>, pero como eso no aparece de entrada, no hay <em>bronca</em> (el problema lo tienen aplicaciones que, nada más abrirlas, te informan de su licencia y otras historias).</p>
+<p style="text-align: justify;">El correo que he recibido del equipo de revisión me parece perfecto, en serio. Muy educado, te dan las gracias por enviar Apps al App Store y te explican exactamente cual es el problema (en mi caso una de las capturas de pantalla que había enviado) y cómo solucionarlo. Acabo de crear una nueva captura y la he enviado ya para que me la revisen, a ver si ahora todo funciona OK. No entiendo los programadores que se quejan todo el rato del proceso de revisión. Yo hasta ahora he tenido dos problemas, y en ambos casos me han indicado qué pasaba y cómo arreglarlo. Y todo como la seda, oiga.</p>
+<p style="text-align: justify;">Lo que me hace gracia es la razón exacta del rechazo:</p>
+<blockquote>
+<p style="text-align: justify;">3.2   Apps with placeholder text will be rejected</p>
+</blockquote>
+<p style="text-align: justify;">Bueno, mi captura de pantalla inicial lo que mostraba era un anuncio vacío (un iAd sin nada, ya que estaba probando la App). Y yo tenía que interpretar que un texto de relleno (placeholder text) es lo mismo que un iAd sin anuncios. Es por eso que habría que crear una <a href="http://es.wikipedia.org/wiki/Hermenéutica">hermenéutica</a> de las reglas de Apple, de forma que mentes ilustradas nos expliquen a los más torpes exactamente qué puedes y qué no puedes hacer <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">En resumen, que si mandas esto, te rechazan:</p>
+<p style="text-align: justify;">
+<div id="attachment_1381" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingApp.png"><img class="size-full wp-image-1381" title="Captura de ClockRing App que NO cumple las reglas :-)" src="/wp-content/uploads/2011/02/ClockRingApp.png" alt="Captura de ClockRing App que NO cumple las reglas :-)" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingApp.png 320w, /wp-content/uploads/2011/02/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Captura de ClockRing App que NO cumple las reglas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Pero si mandas esto otro, todo es perfecto:</p>
+<div id="attachment_1382" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png"><img class="size-full wp-image-1382" title="Esta es la buena" src="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png" alt="Esta es la buena" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png 320w, /wp-content/uploads/2011/02/ClockRingScreenShot-edited-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Esta es la buena</p></div>
+<p>Nunca me había alegrado tanto de tener mi licencia de Pixelmator. Problema solucionado en 5 min. Bueno, eso si te acuerdas de cambiar las imágenes promocionales en todas las App Stores. Si no, te mandan otro amable correo rebosante de paciencia pidiéndote que cambies los screenshots de la App española <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Por cierto, <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing ya está disponible en el App Store</a>. Y su <a href="https://femtocoders.fogbugz.com/default.asp?W5">código fuente está aquí</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

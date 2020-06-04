@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Guadalinex &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/guadalinex/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El Mundo y Guadalinex</title>
+		<link>/2004/11/11/el-mundo-y-guadalinex/</link>
+		<pubDate>Thu, 11 Nov 2004 17:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Guadalinex]]></category>
+
+		<guid isPermaLink="false">/2004/11/11/el-mundo-y-guadalinex/</guid>
+		<description><![CDATA[Parece ser (eso leo en Barrapunto) que el peri?dico El Mundo va a distribuir, entre los CDs de aplicaciones imprescindibles (por supuesto, para esa plataforma propietaria de cuyo nombre no quiero acordarme) la GuadaLinex 2004. Fobias y Filias aparte entre Linuxeros, es una buena noticia que al gran p?blico le empiece a sonar ?sto de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Parece ser (<a href="http://barrapunto.com/softlibre/04/11/09/0142220.shtml" target="_blank" >eso leo en Barrapunto</a>) que el peri?dico El Mundo va a distribuir, entre los CDs de aplicaciones imprescindibles (por supuesto, para esa plataforma propietaria de cuyo nombre no quiero acordarme) la GuadaLinex 2004.
+</p>
+<p class="bodytext">Fobias y Filias aparte entre Linuxeros, es una buena noticia que al gran p?blico le empiece a sonar ?sto de &quot;Linux&quot; y &quot;Software Libre&quot;. Alguno se dar? cuenta de que hace el primo pagando por algo que puede tener de forma libre. Claro, que estoy suponiendo, en un exceso de optimismo, que los Windows intalados en Espa?a son originales
+</p>
+<p class="bodytext">Y <a href="http://www.freniche.com/index.php?id=62&amp;tx_ttnews[pointer]=4&amp;tx_ttnews[tt_news]=56&amp;tx_ttnews[backPid]=85&amp;cHash=375c0513da" target="_blank" >aprovecho para recordaros alguna de mis opiniones sobre las Ventanas</a>. ?Vaya!. Acabo de descubrir algo tremendamente c?modo. La pr?xima vez que tenga esta discusi?n con alguien (la tendr?, es algo recurrente), en vez de soltarle el mismo rollo basta con que le mande a esta URL </p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Nueva RC (en este caso la RC5) de Guadalinex</title>
+		<link>/2004/09/14/nueva-rc-en-este-caso-la-rc5-de-guadalinex/</link>
+		<pubDate>Tue, 14 Sep 2004 08:35:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Guadalinex]]></category>
+
+		<guid isPermaLink="false">/2004/09/14/nueva-rc-en-este-caso-la-rc5-de-guadalinex/</guid>
+		<description><![CDATA[Guadalinex sigue avanzando. Adem?s de cambiar de la distribuci?n inestable de Debian (Sid) a la que pronto ser? estable (Sarge) ya han sacado la nueva RC5, con nuevos fallos solucionados y basada en el nuevo repositorio. Como sabeis yo uso Guadalinex, entre otras cosas, porque me resulta una distro muy sencilla de manejar, pero que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext"><a href="http://www.guadalinex.org/" target="_blank" >Guadalinex</a> sigue avanzando. Adem?s de cambiar de la distribuci?n inestable de Debian (Sid) a la que pronto ser? estable (Sarge) ya han sacado la nueva RC5, con nuevos fallos solucionados y basada en el nuevo repositorio.
+</p>
+<p class="bodytext">Como sabeis yo uso Guadalinex, entre otras cosas, porque me resulta una distro muy sencilla de manejar, pero que sigue siendo pura Debian. Al que no la haya probado, se lo recomiendo encarecidamente. Palabrita que merece la pena.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Cuarta candidata de Guadalinex</title>
+		<link>/2004/09/03/cuarta-candidata-de-guadalinex/</link>
+		<pubDate>Fri, 03 Sep 2004 06:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Guadalinex]]></category>
+
+		<guid isPermaLink="false">/2004/09/03/cuarta-candidata-de-guadalinex/</guid>
+		<description><![CDATA[Ya lleva un tiempo fuera la RC4 de Guadalinex. Su noticia correspondiente est? aqu?. Cada vez se lo curran m?s, con un kernel 2.6.5 y detectando absolutamente todo. Pongamos un par de ejemplos. Tengo un port?til Airis Vulcano (2 a?itos) y el sonido, ni a tiros me lo reconoc?a el kernel 2.4. Ahora, todo funciona [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Ya lleva un tiempo fuera la RC4 de Guadalinex. Su noticia correspondiente est? <a href="http://www.guadalinex.org/modules/news/article.php?storyid=88" target="_blank" >aqu?</a>. Cada vez se lo curran m?s, con un kernel 2.6.5 y detectando absolutamente todo.
+</p>
+<p class="bodytext">Pongamos un par de ejemplos. Tengo un port?til Airis Vulcano (2 a?itos) y el sonido, ni a tiros me lo reconoc?a el kernel 2.4. Ahora, todo funciona a las mil maravillas. Primero se prueba desde Live-CD y como todo &quot;anda&quot;, pues a instalar. En este port?til tengo un XP instalado en otra partici?n, que ya debe tener telara?as del tiempo que hace que no entro. Pero lo voy a solucionar instalando en esa partici?n la RC4 y compartiendo el Swap de la RC3 con la que os escribo. Cuando acabe la migraci?n, probablemente use la partici?n de la RC3 como /home, o similar.
+</p>
+<p class="bodytext">Seguimos&#8230;
+</p>
+<p class="bodytext">Otro ejemplo. Despu?s de la cat?strofe inform?tica de que me quejaba en este env?o le puse una placa ASUS P4P800S SE con su P4 Prescott y 512 MB DDR a mi &quot;cabez?n&quot;. Evidentemente, el kernel 2.4 no me reconoc?a casi nada. Tras pelearme con varias versiones, he encontrado el amor en la 2.6.8 (la 2.6.0 funcionaba bien, pero al hacer NAT se colgaba). Y resulta que la RC4 lo detecta TODO. He estado quebr?ndome el coco para nada. Bueno, algo he aprendido por el camino.
+</p>
+<p class="bodytext">Resumiendo. Que por funcionalidad, sencillez, facilidad de prueba, etc., merece la pena disponer de una RC4 para pruebas, rescates de emergencia, formatear particiones XP, eliminar Windows 98, ejecutar las nuevas aplicaciones de Linux, probar a desinstalar XP, &#8230;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ya está fuera la Segunda Revisión de GuadaLinex</title>
+		<link>/2004/04/19/ya-esta-fuera-la-segunda-revision-de-guadalinex/</link>
+		<pubDate>Mon, 19 Apr 2004 13:25:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Guadalinex]]></category>
+		<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">/2004/04/19/ya-esta-fuera-la-segunda-revision-de-guadalinex/</guid>
+		<description><![CDATA[Pos eso, que en la web oficial del proyecto os podéis informar de las instrucciones para aplicar este segundo «parche» con mejoras. ¡A disfrutar!]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Pos eso, que en la <a href="http://www.guadalinex.org/" target="_blank">web oficial del proyecto</a> os podéis informar de las instrucciones para aplicar este segundo «parche» con mejoras.</p>
+<p class="bodytext">¡A disfrutar!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>GuadaLinex v1.0 lleva ya un tiempo fuera</title>
+		<link>/2004/03/30/guadalinex-v10-lleva-ya-un-tiempo-fuera/</link>
+		<pubDate>Tue, 30 Mar 2004 16:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Guadalinex]]></category>
+		<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">/2004/03/30/guadalinex-v10-lleva-ya-un-tiempo-fuera/</guid>
+		<description><![CDATA[&#8230; y la verdad es que yo la tengo instalada en mis dos máquinas e intento hacer tanto proselitismo como me es posible . En serio, creo que es una muy buena distro, con algunos flecos, pero que ya mismo sacan el SP1 . Y, además, al que no le guste, que contribuya con algo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">&#8230; y la verdad es que yo la tengo instalada en mis dos máquinas e intento hacer tanto proselitismo como me es posible . En serio, creo que es una muy buena distro, con algunos flecos, pero que ya mismo sacan el SP1  . Y, además, al que no le guste, que contribuya con algo y colabore, leñe!</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Disponible Guadalinex RC4</title>
+		<link>/2003/12/02/disponible-guadalinex-rc4/</link>
+		<pubDate>Tue, 02 Dec 2003 21:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Guadalinex]]></category>
+		<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">/2003/12/02/disponible-guadalinex-rc4/</guid>
+		<description><![CDATA[Ya ha salido la RC4 de GuadaLinex. De hecho, lleva unos días fuera, ya que este portal se maqueta desde una RC4. Las mejoras desde la RC3 son muchas, pero tanto la lista de cambios como la propia distribución las tenéis en http://www.guadalinex.org/ ¿Mi opinión? ¡Pero si la estoy usando! Es una distribución que te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Ya ha salido la RC4 de GuadaLinex. De hecho, lleva unos días fuera, ya que este portal se maqueta desde una RC4.</p>
+<p class="bodytext">Las mejoras desde la RC3 son muchas, pero tanto la lista de cambios como la propia distribución las tenéis en <a href="http://www.guadalinex.org/" target="_blank">http://www.guadalinex.org/</a></p>
+<p class="bodytext">¿Mi opinión? ¡Pero si la estoy usando! Es una distribución que te da todo lo bueno de Debian (el Sistema de ficheros tiene todo donde yo espero que esté, lleva GNOME, el sistema de paquetes es apt-get,&#8230;) pero nada de lo malo (se instala en media hora, todo viene en español, todo viene ya configurado,&#8230;)</p>
+<p class="bodytext">Espero que la disfrutéis.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

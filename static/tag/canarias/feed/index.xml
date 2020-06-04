@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Canarias &#8211; freniche.com</title>
+	<atom:link href="/tag/canarias/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Imparto dos talleres en el GCTIC: iOS y Android</title>
+		<link>/2014/06/24/imparto-dos-talleres-en-el-gctic-ios-y-android/</link>
+		<pubDate>Tue, 24 Jun 2014 18:21:48 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Canarias]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[GCTIC]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2210</guid>
+		<description><![CDATA[El #CGTIC es el Foro de Nuevas Tecnologías de la Información y la Comunicación que va a tener lugar en Las Palmas de Gran Canaria este próximo fin de semana (del 26 al 29 de Junio). Y tengo la enorme suerte de poder asistir e impartir un par de talleres: uno sobre cómo crear tu [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>El #CGTIC es el <a href="http://www.gctic.eu/">Foro de Nuevas Tecnologías de la Información y la Comunicación</a> que va a tener lugar en Las Palmas de Gran Canaria este próximo fin de semana (del 26 al 29 de Junio). Y tengo la <strong>enorme suerte</strong> de poder asistir e impartir un par de talleres:</p>
+<ul>
+<li>uno sobre <a href="http://www.gctic.eu/#/detalle/Mios">cómo crear tu primera App con iOS</a></li>
+<li>lo mismo, pero con <a href="http://www.gctic.eu/#/detalle/Mandroid">Android</a> </li>
+</ul>
+<p>Esta es mi tercera visita a las Islas Canarias, y la tercera isla en la que voy a estar, tras Tenerife y Lanzarote. Muchas ganas no sólo de ir al GCTIC, sino de estar por Las Palmas al menos el Jueves y echar un paseo en condiciones. No tendré tiempo de mucho más (recordemos que voy a <em>trabajar</em>, no de vacaciones) pero la verdad es no que se puede ir a mejor sitio. Se puede estar igual de bien, pero mejor es complicado.</p>
+<p>Ambos talleres son gratuitos, y el Foro ha tenido la amabilidad de hacerse cargo de los gastos de transporte. Aparte de esto, yo voy «de gratis» porque creo que hay que apoyar a la comunidad de desarrollo. Este año ya he participado en dos iniciativas similares: el <a href="/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/">Curso de iOS en Cádiz</a> con el inimitable Jorge Galindo y el taller que hice con la ayuda del Ironhack en Madrid.</p>
+<p>Si me ves, saluda. Y te invitas a algo. Si pongo cara rara, es que no estoy acostumbrado a que me saluden gente que no conozco <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Android &#8211; freniche.com</title>
+	<atom:link href="/tag/android/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El lamentable estado de las herramientas de desarrollo iOS</title>
+		<link>/2017/06/01/el-lamentable-estado-de-las-herramientas-de-desarrollo-ios/</link>
+		<pubDate>Thu, 01 Jun 2017 10:36:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[swift]]></category>
+		<category><![CDATA[WWDC]]></category>
+
+		<guid isPermaLink="false">/?p=2782</guid>
+		<description><![CDATA[Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Apelando a Murphy, voy a escribir esto justo antes de la WWDC, a ver si Apple me deja por tonto cambiando todo de lo que me voy a quejar aquí. Por desgracia no lo espero. Espero que presenten «otras 1000 APIs» que realmente no necesito. Lo que necesito es que eliminen los bugs que existen en las que ya hay. Y que las herramientas funcionen. No que añadan cosas. Que arreglen bugs.</p>
+<p>Hace tres años escribí sobre <a href="/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/">El lamentable estado de las herramientas de desarrollo Android</a>. En aquella época, lo que existía para desarrollo Android (oficial) era el plugin ADT para Eclipse. Y, como relato en el post, no funcionaba algo que era un simple ZIP. Eclipse, Java 6, fallos en las herramientas, un Android Studio que estaba en Alpha, una documentación horrorosa, una API discutible (ver p.ej. el método <code>isUserAGoat</code> en <a href="https://developer.android.com/reference/android/os/UserManager.html#//apple_ref/clm/isUserAGoat%28%29">UserManager</a>), la lentitud de Gradle si probabas AS&#8230; Esto era la muerte por mil cortes, comparado con el mundo iOS, con esas APIs Cocoa tan consistentes, un Xcode tan bonito y que entonces no fallaba tanto&#8230;</p>
+<p>Y encima Apple presentó Swift en Junio de 2014. La promesa de un nuevo lenguaje, compatible con Objective-C, con C, C++, pero funcional, con inmutabilidad, Opcionales, genéricos, &#8230; Todo se veía de color de rosa desde el mundo iOS, comparado con el cenagal que era el desarrollo Android.</p>
+<h2>Apple: Non-Pro Macs</h2>
+<p>Apple <a href="/2017/05/08/apple-tenemos-que-hablar/">ya no hace ordenadores para desarrolladores</a>. Y me parece muy bien, si así gana más dinero. Pero debe entonces afrontar las cosecuencias, que van a ser (porque esto ya ha lo he visto antes en otras plataformas):</p>
+<ul>
+<li>los desarrolladores se compran otras máquinas y se montan un Hackintosh para seguir desarrollando en iOS / Mac. MacOS se convierte en «ese sistema operativo que te ves obligado a usar por el trabajo». Apple no gana dinero con las máquinas. Tienes dual-boot y cada vez usas más Windows. Peligro.</li>
+<li>los desarrolladores directamente se pasan a Windows 10 / Linux con mejores portátiles (y a mejores precios, que no todos tenemos una mina de oro en el sótano de casa) y usan MacOS en una máquina virtual (cosa que prohíbe la licencia, como el Hackintosh, pero ponle puertas a ese campo&#8230;). Goto 1</li>
+<li>algunos desarrolladores se cabrean tanto con el poco aprecio que sienten desde Apple que <a href="https://twitter.com/spolsky/status/833082540995014656">directamente abandonan la plataforma</a>, algo que a dia de hoy se puede hacer ya que el mercado de trabajo tiene ofertas casi para todo tipo de perfiles de desarrollo. </li>
+</ul>
+<p>Si los programadores se van de una plataforma, esta se muere. Lo he visto con OS/2, con Amiga, con Linux (¿este es el año de Linux en el escritorio? Y sí, ya se que se usa mucho Linux en Android, que es Linux, y en la RaspberryPi, y que llevo usando Linux desde el 93, que no me cuentes de qué va eso que yo voté porque Tux fuera la mascota de Linux y tú no).</p>
+<p>Casi le pasa a Microsoft. El rechazo que generó con sus Internet Explorers le ha llevado a ceder casi toda la cuota de mercado a Chrome. Y no hablemos del patinazo Vista, que enmendó con Windows 7. Es por eso el titánico esfuerzo que está haciendo ahora mismo Microsoft, permitiéndote ejecutar <a href="https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/">Linux en Windows</a> de forma nativa, o dándote la <a href="https://blogs.windows.com/buildingapps/2016/03/30/run-bash-on-ubuntu-on-windows/#zyguw3uS8gw66FL3.97">bash</a>. Atraer programadores que son los que riegan este campo con sus aplicaciones.</p>
+<h2>2017</h2>
+<p>Es 2017. Swift va a sacar la versión 4, con nuevos cambios que te obliguen a actualizar tu código, o no compila. Con ese asistente que tiene Xcode tan bueno. Si no tenías listo el lenguaje en 2014&#8230; ¿para qué sacarlo? ¿Porque Chris Latter estaba harto y se <a href="http://www.businessinsider.com/chris-lattner-swift-creator-leaves-apple-2017-1">quería ir</a>? Pero bueno, era 2014 y podíamos entenderlo, Apple. Pasamos por Swift 1, 1.1, 1.2, y los cambios a Swift 2. Y Swift 3. Contínuamente cambiando una base de código que funciona para hacer que siga funcionando. Es decir, gastar horas para seguir en el mismo punto. No añadir nuevas funcionalidades. Que <em>compile</em>. Coding is fun.</p>
+<p>Al menos el compilador de Swift es rápido. Tanto, que cuando ejecuto Gradle en Android me parece instantáneo. Gradle, quiero decir. Pero en cada WWDC nos dicen que «ahora el compilador de Swift es un 20% más rápido». Con tantos avances en velocidad mi código debería terminar de compilar&#8230; en 1984. De lo rápido que compila. Pero la realidad es la realidad, y Swift es <strong>horriblemente</strong> más lento compilando que su equivalente en Objective C. Y es una pena, porque el lenguaje es muy bonito. Apple ha hecho un <a href="https://en.wikipedia.org/wiki/Sherlock_(software)">Sherlock</a> de Kotlin con Swift, lo que está bien. Si ahora hiciese un Sherlock de IntelliJ, todos contentos.</p>
+<p>Porque cansa ver cómo se arrastra el compilador. Cómo haces Cmd+click en un símbolo y no lo encuentra (es una función de ámbito global <em>y no la encuentra</em>). O cómo el autocompletado es totalmente random. O cómo pones un punto de ruptura dentro de una clausura y no puedes depurar el valor de las variables de la clausura. Bueno, sí puedes&#8230; usando println. NSlog oriented debugging FTW!</p>
+<p>Al menos podemos refactorizar nuestro código. Esto significa que puedes cambiar el nombre a una clase. Fin de los refactors. Y en Objective-C. En Swift nada. Zero. Nil. Y de generar código ni hablamos. Últimamente Xcode no es capaz ni de comentar líneas de código con Cmd + / o <em>acertar</em> y autocompletarte los nombres de las librerías en los imports.</p>
+<p>O cómo la comunidad ha tenido que solucionar problemas básicos que Apple se niega a ver. ¿Resolución de dependencias y librerías de terceros? En Android: Gradle. Soportado. En iOS: CocoaPods, Carthage, o a mano. Todos proyectos de la comunidad. ¿Plugins? En Android: Android Studio tiene de todo. En iOS: han metido un sistema de plugins tan restringido que, la verdad, no conozco a nadie que esté usando algún plugin que merezca la pena (indicadme por Twitter los mejores, por favor). Y de paso se han cargado un proyecto como Alcatraz, que sí que ofrecía un montón de plugins, temas y plantillas de ficheros porque, ¿quién quiere algo mejor cuando mi versión inferior patentada por Apple ya viene con Xcode? Y sí, entiendo los problemas de seguridad de los plugins, y que Xcode viene firmado y todo eso. Pero digo yo que habrá alguna solución intermedia colocando los plugins en otro proceso fuera del sandbox de Xcode&#8230;</p>
+<h2>WWDC</h2>
+<p>Así que, en esta próxima <strong>Developers Conference</strong>, vamos a abrir la Keynote hablando de lo mucho que vendemos, de lo buenos que son los portátiles con la ToyBar, de lo chulos que son los auriculares Beats, de todas esas cosas que nos interesan muchísimo a los programadores, <strong>que es a los que debe ir dirigida la Keynote</strong>. Nuevos colores para las correas del reloj. Nuevas animaciones en macOS para organizar tus ventanas en 15 espacios para que nadie lo use nunca, porque todos usamos un monitor externo. Y Apple Music, que todo programador necesita música de fondo y eso. Pagando.</p>
+<p>Pues no. Este año no renové mi Apple Membership por primera vez en 6 años. Y cada vez me cuesta más y me duele más abrir Xcode. Porque veo lo que podría ser, lo comparo con un excelente IDE (con sus problemas, pero mucho mejor para <em>escribir</em> código) como IntelliJ y me sangra el corazón. Quiero seguir programando en un Mac en 2027. No me eches de tu jardín, Apple.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Aprende Android en la playa</title>
+		<link>/2014/10/29/aprende-android-en-la-playa/</link>
+		<pubDate>Wed, 29 Oct 2014 06:55:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+
+		<guid isPermaLink="false">/?p=2628</guid>
+		<description><![CDATA[Este Noviembre, en El Puerto de Santa María (Cádiz) hay convocado un curso para aprender a desarrollar Apps Android que pretendo impartir y pasarlo bien contigo. Toda la info está en la web: http://desarrollaapps.com/ Y tras la pausa, la nota de prensa. ¡Nos vemos! Curso intensivo de ANDROID para programadores en El Puerto de Santa [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Este Noviembre, en El Puerto de Santa María (Cádiz) hay convocado un curso para aprender a desarrollar Apps Android que pretendo impartir y pasarlo bien contigo.</p>
+<p>Toda la info está en la web: <a href="http://desarrollaapps.com/">http://desarrollaapps.com/</a></p>
+<p>Y tras la pausa, la nota de prensa. ¡Nos vemos!</p>
+<p><span id="more-2628"></span></p>
+<p>Curso intensivo de ANDROID para programadores en El Puerto de Santa María</p>
+<ul>
+<li>Aprende a programar en una semana (38 horas) en Android con el especialista Diego Freniche en el CEEI Bahía de Cádiz (El Puerto de Santa María)</li>
+<li>El curso intensivo tendrá un horario de lunes a viernes por las tardes (16:00 a 22:00) y sábado de 9 a 18:00</li>
+<li>El curso cuenta con la financiación del BBVA de Máster Blue e incluye además formación de Marketing para Apps y Preparación de proyectos para potenciales inversores</li>
+</ul>
+<p>El Puerto Santa María, Cádiz, 8 Octubre 2014. El CEEI y Comunicación Plus lanzan el curso intensivo de Android de 38 horas con el especialista Diego Freniche, que se celebrará del 10 al 15 de noviembre 2014 en horario de tarde en El Puerto de Santa María (www.desarrollaapps.com)</p>
+<p>El curso ofrecerá una formación integral y muy práctica para crear aplicaciones que puedan cubrir la creciente demanda del mercado en este sector empresarial. Según la Comunidad Europea, se necesitarán 4.8 millones de puestos de trabajo relacionados con estas tecnologías hasta el 2018.</p>
+<p>Las clases tendrán lugar en las instalaciones del CEEI Bahía de Cádiz en El Puerto de Santa María, con una duración de 33 horas de desarrollo Android y 3 horas de marketing móvil que permitirá conocer cuál es la mejor estrategia para posicionar las apps de los asistentes al curso. Asimismo se ofrecerán 2 horas de asesoramiento para presentar proyectos a potenciales inversores para la captación de socios o capital, y que permitirá a los asistentes completar una formación orientada a un desarrollo eficaz de negocios de aplicaciones móviles.</p>
+<p>El curso es uno de los módulos dentro del I Máster en Desarrollo de Aplicaciones Móviles, que ha completado ya la primera edición de iOS y Apps multiplataforma (HTML5) con excelentes valoraciones por parte de los asistentes. Los módulos se pueden realizar individualmente o completar el Máster con el resto de plataformas. Se abrirán nuevas convocatorias para 2015 de iOS y HTML5.</p>
+<h2>Financiación</h2>
+<p>Además del CEEI y la Cámara de Comercio de Cádiz, participan como colaboradores del Máster la entidad bancaria BBVA que pondrá a disposición de los alumnos excelentes ventajas financieras.</p>
+<p>Los asistentes podrán adquirir los conocimientos a través de su producto Master Blue, que permitirá contratar financiación con la posibilidad de no abonar ninguna cuota durante los dos primeros años y financiar hasta un plazo máximo de 8 años adicionales que les permita aprender y formarse para poder desarrollar su carrera profesional con los conocimientos adquiridos.</p>
+<h2>Profesorado</h2>
+<p>Todo el profesorado del Máster en Desarrollo de Aplicaciones Móviles está en activo desarrollando las materias que imparten:</p>
+<p>Diego Freniche: Especialista en iOS y Android (33 horas) Marian Burgos: Profesora de Marketing móvil (3 horas) Carmen Carpintero: Presenta tu proyecto a inversores (2 horas)</p>
+<p>HORAS: 38 horas semanales presenciales</p>
+<p>FECHAS: Del 10 al 15 de Noviembre 2014</p>
+<p>HORARIOS: De Lunes a Viernes (16:00 a 22:00) y sábado de 9 a 18:00</p>
+<p>DÓNDE: CEEI Bahía de Cádiz. Calle del Manantial, 13 (Las Salinas). 11500 El Puerto Santa María (A 5 minutos de estación de tren)</p>
+<p>PRECIO: 700 euros (incluye formación, coffee-breaks y almuerzo del sábado)</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>El lamentable estado de las herramientas de desarrollo Android</title>
+		<link>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/</link>
+		<comments>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/#comments</comments>
+		<pubDate>Thu, 26 Jun 2014 12:19:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Amateur]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Chapuzas]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[Payasos]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=2213</guid>
+		<description><![CDATA[Advertencia: si le tienes mucho cariño a Google, mejor que no sigas leyendo. Si desarrollas Apps como es mi caso (para iOS y Android) y no tomas como dogma de fe todo lo que dice Google (ni Apple, ni Microsoft, ni nadie), adelante. Segunda advertencia: leed el update de abajo del todo, por favor. Para [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><strong>Advertencia</strong>: si le tienes mucho cariño a Google, mejor que no sigas leyendo. Si desarrollas Apps como es mi caso (para iOS y Android) y no tomas como <em>dogma de fe</em> todo lo que dice Google (ni Apple, ni Microsoft, ni nadie), adelante.</p>
+<p><strong>Segunda advertencia</strong>: leed el update de abajo del todo, por favor. Para que os hagáis una idea de lo grave que es este asunto&#8230;</p>
+<p>Ahora mismo estamos en pleno Google I/O, la conferencia para desarrolladores de Google. Se están presentando muchas novedades de consumo, lo que me parecen muy bien. Hay incluso un nuevo <em>lenguaje visual</em> llamado Material (que, por desgracia no veremos mas que en los Nexus, ya que los fabricantes se lo van a cargar; y aún así habrá que ver en qué Nexus y cuándo).</p>
+<p>Todo muy bien, pero ¿qué pasa con las herramientas <strong>de verdad</strong> para desarrolladores?</p>
+<p>Estas herramientas, no nos engañemos, son: el compilador, el lenguaje y el IDE. Eso es lo que usamos el 90% del tiempo mientras desarrollamos Apps. Pues parece que, en 2014, todo sigue como en 2013. En la edad de la piedra. <strong>En el más absoluto desprecio de Google hacia sus desarrolladores</strong>.</p>
+<p>Sí señores: <strong>desprecio</strong>. No es de recibo las herramientas que proporciona Google, insisto, en 2014. Revisemos.</p>
+<h2>El lenguaje de programación</h2>
+<p>Es Java. Ni creado ni controlado por Google. Conste que no odio Java (he invertido mucho tiempo en aprenderlo y <a href="/2010/06/25/scwcd-aprobado/">certificarme</a> como para no tomarle cariño). Pero seguir en Java 6 cuando ha salido Java 8 con un montón de novedades interesantes me <em>escuece</em>. Mucho. Quiero esos tipos opcionales, clausuras y funciones de primer orden. En Android. Y lo quiero ya. Llámame caprichoso, pero creo que ya toca avanzar.</p>
+<p>Seguir con esta versión de Java se debe seguramente al <a href="http://es.wikipedia.org/wiki/Oracle_v._Google">litigio que Oracle le está ganando a Google sobre la <em>copia</em> de Java para la máquina virtual Dalvik</a>. Es ese el motivo de <em>aguantar</em> mientras puedan con Dalvik, cambiar a ART (el runtime que se va a usar a partir de ahora) y en cuanto puedan (probablemente la I/O de 2015) presentar el desarrollo de Android con <a href="http://en.wikipedia.org/wiki/Go_(programming_language)">Go</a>. Que es un lenguaje creado por Google. Lo cual, por cierto, tampoco me disgustaría.</p>
+<p>El cambio de Dalvik por ART no se debe a que incorpore 64 bits. Ni a que sea más óptimo. Si Dalvik es ya abierto ¿por qué no incorporar esas novedades y mejoras en la máquina virtual que ya tienen todos los Android? Probablemente por huir de un barco que se hunde. Y además: ¿para qué darle a todos los que están haciendo <em>clones</em> de Android (Nokia X, Amazon, Barnes &amp; Noble Nook, Aliyun) estas mejoras? Me juego algo a que al final ART sólo lo podrán usar los miembros de la Open Handset Alliance. <em>¿Open?</em></p>
+<h2>IDE</h2>
+<p>Controlar el lenguaje es algo importante para crear un buen ecosistema de desarrollo. Microsoft creó C#, escribe su runtime, compilador y tiene el que probablemente sea el mejor IDE de todos: Visual Studio. Apple escribe su propio IDE, Xcode, que es una maravilla (como editor es mejorable y le faltan refactors, pero en Xcode se pueden hacer cosas que Eclipse no hará en la vida y Android Studio dentro de 100 años; ante las dudas ver un Storyboard, el diseñador de efectos de partículas con SpriteKit, los PlayGrounds de Xcode 6 o los <a href="https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/DebugYourApp/DebugYourApp.html">Gauges</a>). Apple influye poderosamente en el compilador, llvm, hasta el punto de haber creado un nuevo lenguaje de programación (Swift) para avanzar tras usar casi en exclusiva Objective-C los últimos 20 años.</p>
+<p>Google, por contra, empezó creando un plugin de Eclipse para añadir algunos refactors, un asistente aquí y allá, un visualizador del XML de los layouts y poco más. Eclipse ni es de Google, ni Google puede influir en su desarrollo para hacerlo más <em>Android</em>. Luego, esperaron a que la comunidad demostrase que IntelliJ Idea era una alternativa viable para el desarrollo Android y propusieron Android Studio con mucho bombo y platillo&#8230; en Mayo de 2013. Es casi Julio de 2014 y seguimos con una herramienta en versión Alpha, que no ha alcanzado aún la versión 1.0.</p>
+<h2>Excusas</h2>
+<p>No, no me valen excusas sobre «es que Google ya se sabe, pone las cosas en Beta y tal». Google no es una startup montada por cuatro chavales. Es la compañía más valiosa del planeta. Tienen pasta y tienen cerebros. <strong>Lo que no tienen es ningún interés en mejorar las herramientas de desarrollo</strong>.</p>
+<p><strong>Google sólo se preocupa de aquellos productos en los que puede vender su publicidad</strong>. Todo lo que no sirva para imprimir anuncios, sigue el camino de Google Reader y del Dodo. Y como no pueden imprimir anuncios mientras compilas, tenemos lo que tenemos.</p>
+<h2>Modelos de negocio distintos</h2>
+<p>Hay que entender el modelo de negocio de cada una de estas tres empresas para comprender cómo actúan:</p>
+<ul>
+<li>Microsoft quiere venderte licencias. Por eso hacen el software que hacen, sólo para Windows, porque quieren venderte las licencias de Visual Studio, Team Foundation Server y Windows. Lo tomas o lo dejas, pero son claros.</li>
+<li>Apple quiere meterte en su ecosistema y venderte chismes, que es donde ganan pasta, no con software (que ahora lo dan gratis, desde el S.O. hasta Xcode pasando por la suite ofimática). Ellos quieren que te compres un iPad, un iPhone, un MacBook Pro retina con AppleCare y que sigas y sigas comprando sus productos. Hacen buen software para apoyar la venta de sus productos hardware.</li>
+<li>Google vende publicidad. Es con lo que gana dinero. No es nada innoble ni lo de que avengonzarse, pero todo esto de ir de salvapatrias de los open y darse aires de ir curando el cáncer cuando lo que hacen es espiarte para vender mejores anuncios me resulta muy gracioso. Google <strong>nunca</strong> ha sido pro software libre. </li>
+</ul>
+<h2>Open no es Libre</h2>
+<p><em>Open</em> no significa nada y me molesta el uso torticero que Google hace de este término. No dicen <em>libre</em> porque se le echaría encima todo el mundo del Software ídem, dicen <em>open</em> como en <em>voy a tirarte las migajas de los repositorios de código fuente de Android para que veas lo bueno que soy</em>.</p>
+<p>Eso <em>no</em> es libre.</p>
+<p>En un proyecto Software Libre se puede ver el código <em>mientras</em> se desarrolla, y no después. Se puede aportar código. Es una meritocracia.</p>
+<p>Aquí tenemos un desarrollo totalmente propietario y cerrado creado por una compañía que libera código al terminar. Y, por cierto, sólo parte de ese código. Google Maps o Gmail no lo liberan. Ahí lo <em>open</em> no entra, que eso es parte de mi maquinaria de vender anuncios&#8230; Llevo usando, aportando y tratando de comprender a la comunidad del Software Libre desde el 94. Me molesta que la gente se confunda y crea que Google nos defiende de las «Megacorporaciones» como Microsoft o Apple. Como si ellos fueran Teresa de Calcuta.</p>
+<p>Las tres son iguales: compañías que tratan de imponer sus productos en el mercado. Ninguna tiene como misión salvar al mundo. No le demos más vueltas.</p>
+<h2>Gradle</h2>
+<p>Así que para poner la guinda al pastel, tras usar un lenguaje que no es suyo y ofrecerte dos IDEs que tampoco hacen, han cambiado a Gradle, un sistema de construcción que tiene muy buena pinta, pero que de salida es <em>muuuucho</em> más lento que Ant. Es decir: tu proyecto en Eclipse compila más rápido que en Android Studio. Que sí, que se puede acelerar Gradle. Entonces ¿por qué no viene de salida ya configurado correctamente? ¿Por qué machacar a los devs que ya tenemos bastante al migrar un proyecto de Eclipse a AS? Es en estas cosas donde veo la desidia de Google.</p>
+<p>Y ese es el meollo de la cuestión. Que el equipo de desarrollo de AS en Google deben ser un programador y un becario. Y el becario a tiempo parcial. Sólo así se puede explicar el ritmo de no-avance de la herramienta. De nuevo, sin excusas: si Apple puede en un año sacar una nueva versión de Xcode, digo yo que Google podrá. Pero claro, si pierdes el foco creando gafas, relojes, coches, drones y mil cosas más pero no vas a lo fundamental pasan estas cosas.</p>
+<h2>Costes</h2>
+<p>Y ahora es cuando alguien pensará: «ya, pero es que en Apple hay que pagar 80 € anuales y en Microsoft el Visual Studio <em>de verdad</em> cuesta pasta, mientras que en Google pagas una vez en la vida 25 dólares y ya».</p>
+<p>Efectivamente: ¿ves una tendencia?. Pagas por un producto == calidad. No pagas y no pueden ponerte publicidad == Google Reader, digo herramientas de desarrollo.</p>
+<h2>Tú es que eres un Fanboy de Apple</h2>
+<p>Vaaaale, venga, sí, soy un Fanboy de Apple. Los tiempos de compilación de Gradle me los invento. Y tener un IDE más de un año en Alpha es de lo más normal. O que para lanzar el emulador tengamos que andar con trucos como la aceleración Intel o usar Genymotion (de nuevo, nada de esto de Google). De paso, que nada de lo que usa Google Play Services (que cada vez son más cosas) no funcione en el emulador y tengamos que tirar de dispositivo también es un <em>triunfo</em>.</p>
+<p>Quizá tu problema es que no has tratado de desarrollar con otro entorno que no sea Android Studio. En mi caso, sí. Uso Xcode, Eclipse y Android Studio a diario. Y antes usé Visual Studio, Aptana, Delphi, Turbo C y vim. ¡Hasta Blackberry ha hecho un mejor trabajo con Eclipse para BB10 que Google!</p>
+<p>Creo que hablo con cierto conocimiento de causa. Pero si tienes argumentos en contra de algo que lo que digo (que no sean <em>es que a mi me gusta más X en lugar de Y</em>) sino cosas como «resulta que el roadmap de Gradle muestra que Z y Android Studio se puede mejorar de tal y cual forma» bienvenidos sean. Si quieres ponerme a parir, no comentes: escribe un post en tu propio blog. Gracias.</p>
+<p>Y, por cierto ¿en qué parte de I/O se está hablando de las mejoras del lenguaje, IDE o compilador, más allá de ART?</p>
+<p>Pues eso.</p>
+<h2>Actualización del 1 de Julio, 2014</h2>
+<p>Escribí esta entrada en el avión, mientras me dirigía al <a href="/2014/06/24/imparto-dos-talleres-en-el-gctic-ios-y-android/">GCTIC a impartir unos talleres</a>, uno de ellos de Android. El día antes tuve la precaución de copiarme el ADT Bundle que proporciona Google para todas las plataformas, por si alguien no lo tenía instalado. Tuve que usarlo: algunos de los asistentes no lo tenían instalado, y se lo proporcioné. Total, es descomprimir un ZIP en el que va Eclipse y el SDK. Es tan sencillo, que incluso escribí en este blog <a href="/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/">cómo crearte tu propio entorno de desarrollo Android portable con Eclipse</a>.</p>
+<p>Pues no. No era tan sencillo. Nada funcionaba. Lo instalé en mi máquina con cierta sonrisa de desdén pensando «novatillos&#8230;». Y no. No funcionaba. Ningún ADT Bundle funcionaba. Ni en Mac, ni en Windows, ni en Linux. Pensé que estarían mal descargados y empezamos a bajarlos de nuevo. Hasta que nos dimos cuenta de que la culpa era de Google:</p>
+<p><strong>En la página oficial de descargas del ADT Bundle han colgado versiones que no funcionan</strong></p>
+<p>Y no avisan. A día de hoy puedes seguir bajándote una versión <em>rota</em> de ADT Bundle de la página de Google. Y sabiéndolo, no la quitan de en medio ni ponen un aviso. No. Juegan con tu tiempo. ¿Tienes una entrega de una App? Me da igual. ¿Vas a impartir un taller? No me importa. Soy Google, la prepotencia con patas, y me importa [inserta aquí un adjetivo colorido] mi comunidad de desarrolladores. Ellos son muy listos, que se busquen la vida. Total, la culpa es suya <em>por fiarse de mi página oficial de descargas</em>.</p>
+<p>Eso sí, en su <a href="https://code.google.com/p/android/issues/detail?id=72419">bug tracker</a> sí que parece que lo saben. Y dicen que lo arreglarán en uno o dos días. Después de una semana.</p>
+<p>Estoy harto.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/26/el-lamentable-estado-de-las-herramientas-de-desarrollo-android/feed/</wfw:commentRss>
+		<slash:comments>45</slash:comments>
+		</item>
+		<item>
+		<title>Imparto dos talleres en el GCTIC: iOS y Android</title>
+		<link>/2014/06/24/imparto-dos-talleres-en-el-gctic-ios-y-android/</link>
+		<pubDate>Tue, 24 Jun 2014 18:21:48 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Canarias]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[GCTIC]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2210</guid>
+		<description><![CDATA[El #CGTIC es el Foro de Nuevas Tecnologías de la Información y la Comunicación que va a tener lugar en Las Palmas de Gran Canaria este próximo fin de semana (del 26 al 29 de Junio). Y tengo la enorme suerte de poder asistir e impartir un par de talleres: uno sobre cómo crear tu [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>El #CGTIC es el <a href="http://www.gctic.eu/">Foro de Nuevas Tecnologías de la Información y la Comunicación</a> que va a tener lugar en Las Palmas de Gran Canaria este próximo fin de semana (del 26 al 29 de Junio). Y tengo la <strong>enorme suerte</strong> de poder asistir e impartir un par de talleres:</p>
+<ul>
+<li>uno sobre <a href="http://www.gctic.eu/#/detalle/Mios">cómo crear tu primera App con iOS</a></li>
+<li>lo mismo, pero con <a href="http://www.gctic.eu/#/detalle/Mandroid">Android</a> </li>
+</ul>
+<p>Esta es mi tercera visita a las Islas Canarias, y la tercera isla en la que voy a estar, tras Tenerife y Lanzarote. Muchas ganas no sólo de ir al GCTIC, sino de estar por Las Palmas al menos el Jueves y echar un paseo en condiciones. No tendré tiempo de mucho más (recordemos que voy a <em>trabajar</em>, no de vacaciones) pero la verdad es no que se puede ir a mejor sitio. Se puede estar igual de bien, pero mejor es complicado.</p>
+<p>Ambos talleres son gratuitos, y el Foro ha tenido la amabilidad de hacerse cargo de los gastos de transporte. Aparte de esto, yo voy «de gratis» porque creo que hay que apoyar a la comunidad de desarrollo. Este año ya he participado en dos iniciativas similares: el <a href="/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/">Curso de iOS en Cádiz</a> con el inimitable Jorge Galindo y el taller que hice con la ayuda del Ironhack en Madrid.</p>
+<p>Si me ves, saluda. Y te invitas a algo. Si pongo cara rara, es que no estoy acostumbrado a que me saluden gente que no conozco <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Máster de Apps Móviles en Chiclana: experiencias en la radio</title>
+		<link>/2014/05/12/master-de-apps-moviles-en-chiclana-experiencias-en-la-radio/</link>
+		<pubDate>Mon, 12 May 2014 18:20:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[Chiclana]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2179</guid>
+		<description><![CDATA[Una pequeña actualización a la información del Máster de Comunicación Plus para aprender a desarrollar Apps en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta: tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur Conectados en RAI. Javier Suárez Ruiz, el profesor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg"><img src="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg" alt="Selfie Conectados en RAI" width="1168" height="876" class="aligncenter size-full wp-image-2180" srcset="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg 1168w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-300x225.jpg 300w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-1024x768.jpg 1024w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-535x401.jpg 535w" sizes="(max-width: 1168px) 100vw, 1168px" /></a></p>
+<p>Una pequeña actualización a la información del <a href="/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/">Máster de Comunicación Plus para aprender a desarrollar Apps</a> en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta:</p>
+<ul>
+<li>tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur <a href="https://www.facebook.com/pages/Conectados-en-RAI/1410704842504486?ref=stream&amp;hc_location=timeline">Conectados en RAI</a>.  </li>
+<li><a href="http://javiersuarezruiz.wordpress.com/2014/05/11/i-master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Javier Suárez Ruiz</a>, el profesor del Máster encargado de Windows Phone (genuflexión y respeto al crack) ha escrito en su blog (que, por cierto, para los que quieran aprender Windows Phone es el sitio a donde ir) una entrada sobre el Máster y su visión del mismo.</li>
+<li>he rectificado en el post que escribí sobre el Máster las horas totales del mismo. Son 240 h, ya que cada semana son 60 h de formación: 50 h de la plataforma de la semana (iOS, WP, Android) y 10 de otras cosas (prototipado, UX, etc.)</li>
+<li>el Máster empieza el próximo Domingo 18. Muchas ganas de irme a Chiclana y huir del pólen y las alergias del campo.</li>
+<li>durante el Máster, esperad fotos y recochineo desde la playa y piscina. He avisado.</li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Aprende iOS, Android, HTML5 y Windows Phone en la playa</title>
+		<link>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/</link>
+		<comments>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/#comments</comments>
+		<pubDate>Mon, 28 Apr 2014 08:15:39 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2147</guid>
+		<description><![CDATA[TL;DR; Me voy a la playa a enseñar iOS y Android. Si no vienes, puedes sentir envidia. Es normal. El Máster Pues sí. Este es el panorama al que se enfrentan los alumnos del I Máster en Desarrollo de Aplicaciones Móviles en Andalucía de Comunicación Plus. Retirarse del mundanal ruido junto a las playas de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>TL;DR;</h2>
+<pre><code>Me voy a la playa a enseñar iOS y Android. Si no vienes, puedes sentir envidia. Es normal.
+</code></pre>
+<h2>El Máster</h2>
+<p>Pues sí. Este es el panorama al que se enfrentan los alumnos del <a href="http://comunicacionplus.com/es/master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">I Máster en Desarrollo de Aplicaciones Móviles en Andalucía de Comunicación Plus</a>. Retirarse del mundanal ruido junto a las playas de Chiclana, en Cádiz. En un apartahotel de 4 llaves. Y una vez allí, darle a la tecla 50 h por plataforma, en formato ultra-intensivo, empezando un Domingo y acabando un Sábado.</p>
+<p>Si echáis cuentas, 50 h seguidas de Domingo a Sábado queman a cualquiera. Por eso nos han prometido actividades “extraescolares” con las que recuperar cuerpo y mente en tiempo récord. Algo he oído de masajes, paseos en bici de montaña por la playa, clases de Pádel o salir al mar a hacer <a href="http://es.wikipedia.org/wiki/Surf_de_remo">Paddle Surf</a>. Y claro, además tenemos las piscinas y la playa de Chiclana. Mal no vamos a estar.</p>
+<p>Pero volviendo al contenido del Máster, me parece muy interesante que se traten cuatro plataformas distintas (luego se puede escoger la que te guste más, o de la que te ofrezca trabajo). Además de aprender mucho, puedes comparar y ver lo que tienen de mejor unas sobre otras. Por ejemplo, en Windows Phone tienen bindings (en iOS no tenemos Cocoa Bindings, sólo en OS X). O puedes ver que la forma de internacionalizar proyectos de Android probablemente sea la más limpia (en mi opinión). O por qué Eclipse necesita ya la jubilación (después de ver Visual Studio y Xcode). Y además, habrá unas horas dedicadas a Márketing Online o a pensar en la Experiencia de Usuario. Esto último lo dará el gran <a href="http://about.me/jorgegalindocruces">Jorge Galindo</a> de 47 Degrees con el que organicé en Febrero pasado <a href="/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/">el curso gratuito para parados y estudiantes de iOS</a>.</p>
+<p>Yo me voy a encargar de las partes de iOS y Android. Vamos, de las que se algo, porque de las otras dos flojito, flojito. Creo que 50 h dan para mucho y podremos ver de todo: herramientas, código, patrones de diseño, frameworks, … y apps. Muchas apps. Cosas aplicables directamente (o eso espero).</p>
+<p>Hay muchas cosas buenas en este Máster, pero el alejarte del trabajo para enfocarte en aprender, la intensidad de la formación (un poco <em>a la Big Nerd Ranch</em>, pero en Cádiz, que lo mejora todo) y el apoyo del Director del Máster, <a href="http://comunicacionplus.com/en/equipo/pablo-garcia-trespalacios/">Pablo Gª Trespalacios</a> (que sabe de lo que habla porque para eso ha sido alumno mío) me parecen lo mejor. Y los alumnos, claro, que no saben dónde se meten <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2>El vil metal</h2>
+<p>Como he leído por ahí <em>es muy caro</em>. Bueno, para empezar puedes buscarte el alojamiento y ahorrarte algo, o escoger semanas sueltas. Si vamos a lo más “caro”, son 5000 Eur., que es un dinero. Pero eso incluye:</p>
+<ul>
+<li>un mes alojado en un complejo de apartamentos con pensión completa</li>
+<li>todas las pausas de cafés</li>
+<li>las actividades extra académicas</li>
+<li>y 200 h, al menos, de formación. Si valoras en 1000 Eur todo lo anterior, cada hora de formación te sale a 20 Eur. </li>
+</ul>
+<p><strong>UPDATE 12 Mayo</strong> No son 200 h. Son 240 h, ya que cada semana tiene otras horas dedicadas a prototipado, UX, márketing&#8230; sólo había incluido mis 50 h e ignorado al resto <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<ul>
+<li>y hay una financiación muy interesante (los dos primeros años no pagas nada).</li>
+</ul>
+<p>Si te interesa esto, tienes toda la información en la web de <a href="http://comunicacionplus.com/es/master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Comunicación Plus</a>.</p>
+<p>Yo ya estoy buscando las chanclas de la playa para echar en la mochila junto con el portátil. Lo dicho: puedes sentir envidia <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>WIP Jam 2014</title>
+		<link>/2014/03/11/wip-jam-2014/</link>
+		<pubDate>Tue, 11 Mar 2014 10:56:39 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[WIPJam]]></category>
+
+		<guid isPermaLink="false">/?p=2128</guid>
+		<description><![CDATA[Como comenté en el último post «Ponente en la WIPJam 2014«, este año he ido al Mobile World Congress de Barcelona, pero con una gran diferencia: este año, además de a ver móviles y tabletas iba a dar una charla y a estar en una mini conferencia de desarrollo (la WIPJam). Como el año pasado, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Como comenté en el último post «<a href="/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/">Ponente en la WIPJam 2014</a>«, este año he ido al Mobile World Congress de Barcelona, pero con una gran diferencia: este año, además de a ver móviles y tabletas iba a dar una charla y a estar en una mini conferencia de desarrollo (la WIPJam).</p>
+<p>Como el año pasado, me quedé en casa de Rafa. Y he pasado la semana con Luis Ascorbe, Pedro Muñoz y el resto de cracks del capítulo Cocoa de Barcelona (lo siento, sois muchos <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ) y de otras partes de España que estaban allí para el MWC.</p>
+<p>Del MWC en sí he visto poco. Cada vez me interesa menos: mucho móvil, mucha tableta, ves cosas muy chulas pero tienen poco impacto en mi día a día. En cambio, en la WIPJam he podido aprender sobre desarrollo con Google Glass, trucos de Android e iOS, &#8230; Creo que prefiero las conferencias de desarrollo, y cuanto más <em>hardcore</em> mejor.</p>
+<p>Es esto, la WIPJam debe mejorar. Creo que a todos nos gustó que fueran más días, pero hacía falta más contenido, y si hay que <em>vender</em> los productos de los espónsors, siempre se puede hacer de forma que de rebote aprendas cosas. Es decir, eché en falta más talleres de <em>remangarse y hacer cosas</em>. He enviado mis sugerencias al personal de la WIPJam (que, por cierto, son tan buena gente que parecen de Cádiz) y espero que a) me dejen aplicar algún cambio el año que viene y b) me dejen entrar el año que viene, pese a las críticas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>El caso es que estuve de Lunes a Miércoles en la WIPJam (en Plaza de España, no en la Nou Fira, que es donde está el MWC <em>de verdad</em>) y el Jueves me eché un paseo por el MWC. Que duelen los pies un montón: es muy grande y las moquetas del suelo muy duras, o algo pasa. Y vi cosas chulas, como el Galaxy Note 3 de Samsung, o los Nokia X, o los teléfonos Firefox OS. Pero poco más.</p>
+<p>Lo mejor: las cervezas, las charlas con <a href="https://twitter.com/pepito/">@Pepito</a>, las cenas, el humor de <a href="https://twitter.com/_carlosvillar_/">Carles</a>, las Google Glass, los iBeacons&#8230;</p>
+<h1>Material del taller de Core Data de la WIPJam</h1>
+<div id="attachment_2130" style="width: 610px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2014/03/BhOrYRPIgAAsre4.jpg"><img src="/wp-content/uploads/2014/03/BhOrYRPIgAAsre4.jpg" alt="En la charla de Core Data" width="600" height="450" class="size-full wp-image-2130" srcset="/wp-content/uploads/2014/03/BhOrYRPIgAAsre4.jpg 600w, /wp-content/uploads/2014/03/BhOrYRPIgAAsre4-300x225.jpg 300w, /wp-content/uploads/2014/03/BhOrYRPIgAAsre4-535x401.jpg 535w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">En la charla de Core Data</p></div>
+<p>Lo más importante para mi fue el poder impartir la charla sobre Core Data del Lunes y luego poder programar con un grupito una pequeña App usando mogenerator y Magical Record. Como prometí poner todo el material online, aquí está:</p>
+<ul>
+<li>la <a href="http://www.slideshare.net/dfreniche/core-data-wipjam-workshop-mwc14">presentación sobre Core Data</a>, en SlideShare</li>
+<li>un ejemplo de código, <a href="https://github.com/dfreniche/DFCoreDataStackDemo">usando mi Core Data Stack</a></li>
+<li>un segundo ejemplo, <a href="https://github.com/dfreniche/WIPReminders">con mogenerator y Magical Record</a></li>
+</ul>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>La era Nexus</title>
+		<link>/2013/08/30/la-era-nexus/</link>
+		<comments>/2013/08/30/la-era-nexus/#comments</comments>
+		<pubDate>Fri, 30 Aug 2013 08:45:42 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Nexus]]></category>
+		<category><![CDATA[Tablets]]></category>
+
+		<guid isPermaLink="false">/?p=2005</guid>
+		<description><![CDATA[Soy un fanboy de Apple. O eso dicen cuando me escuchan poner a caer de un burro las carencias de Android (especialmente de cara a los desarrolladores). Pero se ve que no me escuchan quejarme de los problemas que tienen los dispositivos Apple (o el software, como esas notificaciones modales para decirte que no se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Soy un fanboy de Apple. O eso dicen cuando me escuchan poner <em>a caer de un burro</em> las carencias de Android (especialmente de cara a los desarrolladores). Pero se ve que no me escuchan quejarme de los problemas que tienen los dispositivos Apple (o el software, como esas notificaciones modales para decirte que no se puede descargar el correo, <em>WFT</em> con mayúsculas en iOS). Sordera selectiva, se llama.</p>
+<p>Soy un fanboy de Apple, pese a tener (y usar) un Lumia 800 con Windows Phone, un Nexus 4 con Android 4.3 o una Blackberry Z10 con BB10. Sin contar la <a href="/2011/12/13/mi-touchpad/">Touchpad de HP</a> con webOS, la BB PlayBook con Qnx, el N900 de Nokia o mi primer smartphone, un <a href="/2008/05/03/haciendo-el-enjuto-mojamuto-con-mi-pda/">Windows Mobile 5</a>. Creo que soy un fanboy de la tecnología en general, y de la tecnología móvil en particular. <em>Me gusta todo aquello que caliente silicio</em> (1ª Ley Freniche de cómo la tecnología te pone <em>Palote</em>)</p>
+<p>Soy un fanboy de Apple, pero llevo casi dos meses usando como teléfono principal, sin descanso, un Nexus 4. Y lo complemento muchas veces con mi tableta Nexus 7 primera edición. Y ambos me gustan. Mucho.</p>
+<h2>Cómo comprar un Nexus</h2>
+<p>El Nexus 4 lo compré por necesidad. En Diciembre del año pasado vendí mi iPhone 4 y estuve tirando con el 3Gs, al que, por desgracia, se le notaba cada vez más la edad. El Lumia 800 me rescataba a veces, pero a la plataforma Windows Phone le faltaba el empuje que probablemente le de el nuevo Lumia 1020. Y no tenía la Z10 en esas fechas. Un día, desesperado por la lentitud del 3Gs con los mapas (y gracias a que <em>estaba de suerte</em>) pude comprar el Nexus 4 más pequeño, el de 8GB.</p>
+<p>Digo estar de suerte, porque esta fue la primera cosa que me chocó. No había stock en la página de Google del Nexus 4. A veces había, otras no. Y lo único que te recomendaba Google era que «volvieras a mirar pasado un tiempo». ¿Perdón?. ¿Volver luego?. Esto te pasa en una tienda online y no vuelves nunca. De aficionados. Nunca como entonces vi claro la diferencia entre Apple y Google.</p>
+<p>El negocio de Apple está claro: venderte el dispositivo, y es muy raro que te dejen salir «vivo» de su tienda online si entras con la tarjeta de crédito en la mano. Cuando lanzan nuevos productos puedes «reservar» el producto. Cuando se agotan la cosa es aún más astuta e insidiosa: te dejan comprar, pero el plazo de entrega «aproximado» es de 4 semanas. Es decir, que tú pagas por adelantado y con ese dinero (que ya tienen), fabrican el iPhone que te venden. Como probablemente paguen con retraso a sus proveedores, es el negocio redondo, la genialidad a la que todo el mundo aspira: ganar montañas de pasta sin arriesgar un euro, sabiendo de antemano el número de dispositivos que tengo que fabricar y a dónde enviarlos, con lo que optimizo los envíos, etc. Lo dicho: perfecto.</p>
+<p>Frente a esto, Google es una vendedora de anuncios on line, pero poco más. Decir que «se me han acabado», que no se cuándo tendré más, ni garantizarte una reserva, es lamentable. Se puede dar el caso de que alguien mire, vuelva a las dos semanas justo después de que yo compre, se quede sin su teléfono y tenga que volver a mirar. Algo a todas luces injusto. Casi parece que no quieren que se vendan estos teléfonos. Y yo estoy convencido de eso: <strong>Google no quiere que se vendan los Nexus</strong>. Los sacan casi <em>obligados</em> en las Google I/O, para demostrar las nuevas capacidades del S.O., pero no lo tratan como un producto que en sí mismo les genere beneficio. Además, en el caso del Nexus 4 si venden muchos le hacen la competencia a LG, que es su fabricante. Sólo pregúntate: ¿cuántos anuncios has visto en televisión de los Nexus (tabletas y teléfonos)?. Cero, ¿cierto?. Claro que puedes pensar: «es que la tele es cara». Aunque hablamos de Google, que no son precisamente pobres. Segunda prueba: ¿cuántos anuncios has visto en Youtube?.</p>
+<p>Y eso que el teléfono se vende solo. Una pantalla increíble, un diseño precioso, muy sólido. Un teléfono libre, con las últimas actualizaciones del S.O. Android por debajo de los 300 Eur. Perfecto. Quizás demasiado, y por eso Google no quiere venderlo (para no <em>molestar</em> a sus fabricantes). El caso es que es el teléfono de <em>los que se enteran</em> (Geeks, seguidores de Google y gente que está atenta a la evolución tecnológica). Pero no el de las masas, cuando debería serlo por muchas razones: precio, ser un terminal libre, características, software&#8230;</p>
+<h2>Hard</h2>
+<p>No voy a hacer ninguna <em>review</em> del Nexus 4 ni de la tableta Nexus 7. Hay montones en Internet. Sólo quiero llamar la atención sobre cosas que me hacen gracia, sobre todo porque fueron enormemente criticadas cuando se lanzó el primer (y segundo, y tercer) iPhone:</p>
+<ul>
+<li>¡no tienen un conector USB para ponerles un <em>pincho</em> USB!. Eso, al parecer, era uno de los pecados del iPad. Se ve que con el tiempo ha quedado demostrado que con Wifi y servicios en la nube (Dropbox, Skydrive, iCloud, etc.) no es necesario cargar con un pendrive. <em>El pendrive es la WiFi de los torpes</em>.</li>
+<li>siguiendo con el USB, vale, que no tengan entrada USB «gorda». Pero podrían soportar el modo USB On The Go con adaptadores microUSB-USB. Google es muy <em>open</em> con Android, pero para hacer esto necesitas hacerle root al teléfono. Fail.</li>
+<li>la batería de ambos es fija. No es intercambiable. Veo algunas similitudes con los dispositivos iOS. Aunque no puede ser ¿no?: las baterías fijas son algo del Averno.</li>
+<li>ídem con la tarjeta SD. Vamos, que no tienen. Curioso. Será para ahorrar costes, pero es que cada vez se parecen más al estándar que marca el iPhone.</li>
+<li>soporte para Flash. <em>¿Recuerda el Flash, abuela?</em> Pues eso.</li>
+</ul>
+<p>Ahora sí, tienen algunas cosas muy <em>innovadoras</em>:</p>
+<ul>
+<li>NFC. Perdón, <em>Android Beam</em>. No sirve para nada, pero está bonito tenerlo, para amontonarlo en listas de características inútiles. Si las fotos se suben automáticamente a Dropbox y G+ ¿para qué voy a tocar un dispositivo con otro para emparejarlos y pasarla por Wifi? ¡Si la foto ya está en Dropbox/Google +!. La marcas allí y se la mandas a quien quieras por correo, Twitter, Facebook&#8230; En fin, que hasta ahora NFC es una promesa pero no he visto un solo uso <em>útil</em> de esta tecnología en el mundo real. Usado por <em>personas normales</em>. Por cierto, cuando tocas el teléfono con la tableta por detrás, tienes que <em>apuntar bien</em> hasta que se activa el NFC. Lo que lleva a estar frotando los dispositivos, algo que no me gusta demasiado&#8230;</li>
+<li>cargador inalámbrico. Algo que excita mucho al que no ha tenido una tableta HP WouchPad con webOS y el cargador sin contacto TouchStone. Y el problema es que estos cargadores por inducción son lentos, <strong>muy lentos</strong>. Son muy chulos, la primera semana, y para hacer una demo <em>de lo que es capaz mi teléfono y no el tuyo</em>. Pero al final la base de carga debe estar enchufada, luego el <em>momento sin cables</em> se viene un poco abajo. Probadlo y me contáis.</li>
+</ul>
+<p>Las cosas realmente innovadoras para mí ya no son el hardware. Defender que <em>iOS es mejor que Android</em>, que <em>Android es mejor que iOS</em> o cualquier otra postura basándose en el hardware es absurda. Salvo raras excepciones, cualquier smartphone hoy en día tiene un hardware impresionante. Tanto, que por desgracia ya no nos maravillan. Por eso la gente dice que Samsung <em>no innova</em> con su S4, o que el próximo iPhone va a ser un fracaso. No es que no avancen: es que los avances no impactan tanto en nuestro uso diario. Una batería de una semana de duración sí sería un avance notable, por ejemplo. O un cristal <em>a prueba de balas</em> que no se rompa en la primera caída.</p>
+<h2>Apps</h2>
+<p>La clave es el ecosistema: Apps y mantenimiento del S.O.</p>
+<p>Y en el tema de las Apps la cosa ha cambiado mucho. Atentos, <em>haters</em> de iOS con lo que voy a decir: <strong>sólo me falta tener Things en el Nexus 4 (App de GTD) para poder prescindir de iOS y el iPhone</strong>. En mi caso, para lo que hago con el teléfono, tengo de todo. Repito, para que se vea bien lo <em>fanboy</em> que soy: <strong>uso un Nexus y me hace feliz, tanto que me planteo incluso cambiarme</strong>. Las Apps en Android no están tan bien acabadas como las de iOS, pero han mejorado en general mucho.</p>
+<p>Un inciso para que nadie olvide que soy un <em>Fanboy</em>. Las Apps de iOS son mejores que las Android. Esto es un hecho indiscutible, sólo hay que tener dos dispositivos iOS y Android y usarlos. Apple hace aplicaciones, como Pages, Garage Band o iPhoto / iMovie para iOS que son las mejores, no en iOS, sino en cualquier plataforma móvil. Google hace buenas Apps, pero creo que salvo Maps no tiene ninguna que sea tan <em>alucinante</em> como las anteriores de iOS. Y las que tiene buenas (Maps, G+, Gmail, Youtube) son iguales en iOS y en muchos casos, son mejores en este último (caso de Google Now).</p>
+<p>Por cierto, la aplicación de Mapas es muy chula. Además de ser un GPS casi perfecto, el detalle de ponerse en modo Street View al terminar un viaje es bastante chulo. También se equivoca a veces con las rutas, pero en general es una App que uso mucho y es muy buena. Google Now también me alucina, aunque es muy <em>creepy</em> y te sientes espiado cuando empieza a proponerte viajes basado en todo lo que ha recopilado de tu experiencia anterior. Por supuesto, Google nunca usará esos datos para venderte mejores anuncios (sabe si vives en un barrio con mayor o menor renta per capita, ve las veces que vas al cine, o de vacaciones, pero ellos nunca lo harán). <em>Don&#8217;t be evil</em>. <strong>My ass</strong>.</p>
+<p>Dicho todo esto, la cantidad y calidad de las aplicaciones son suficientes para que me plantee seriamente el cambio permanente a la plataforma Android. Bueno ¿permanente?. Llevo sin usar un iPhone desde Febrero, creo&#8230; Menudo <em>Fanboy</em>&#8230;</p>
+<h2>Las actualizaciones.</h2>
+<p>Esto es de lo que más me gusta. Es decir, estoy agradecido por tener un comportamiento <em>normal</em> en el resto de plataformas: que cuando salga una actualización pueda disponer de esas mejoras en mi teléfono o tableta inmediatamente.</p>
+<p>Pero por desgracia (para los desarrolladores) en el mundo Android esto es la excepción, no la norma. Incluso con un Nexus, tienes que esperar una cola que no entiendo (cuando hay actualizaciones de Apple llegan instantáneamente a todos los teléfonos, no hay que esperar dos semanas). Y no es que Google no sepa de infraestructuras de servidor grandes, que aguanten mucha carga. Es desidia, pura y dura. Si te venden los Nexus libres, y no hay un operador de telefonía por medio ¿cuál es la razón de que no se actualicen todos a la vez? Que no se le dedican los recursos necesarios porque <em>estos cuatro frikis que ya han sido maltratados cuando compraron el teléfono están domesticados y acostumbrados a esperar las migas que se caen de nuestro plato</em>. Al menos, esta es la sensación que se me quedó tras el I/O, esperando día tras día la actualización. O eso, o tienen un único Pentium III como servidor para las actualizaciones de Android.</p>
+<p>Además de tener la última versión, la respuesta y fluidez del teléfono y las Apps que uso (Evernote, la cámara, el correo, los navegadores: Firefox, Chrome y Opera, Swiftkey, los fondos animados, algún widget interesante, Dropbox, etc.) convierten este teléfono en una alternativa total a los Samsung Galaxy S4 de turno. Una persona <em>normal</em> le sacaría más partido (y le saldría más barato) si se comprara libre uno de estos. Pero se ve que no interesa: ni la operadora de turno te cuela un contrato de permanencia de 24 meses ni el fabricante saca un margen adecuado. Y por eso Google no lo publicita. Google fabrica los Nexus para su legión de adoradores, lo cual es triste. Porque deberían de estar al alcance de todos. Búscalos en El Corte Inglés. Suerte.</p>
+<p>Ahora vendrán los típicos comentarios: «Es que tú no sabes usar bien Android», «es que tienes que hacerle root al teléfono», «es que con el S.O. oficial no, pero con tal ROM cocinada puedes hacer tal o cual», «es que eres un fanboy». He usado Android desde la versión 1.6 (HTC Magic) y desarrollo para Android. Creo que tengo cierto conocimiento de causa. Los argumentos que escucho muchas veces no están basados en las ventajas que tenga Android de cara a los usuarios, sino al partido que pueden sacarle cuatro <em>geeks</em> al teléfono. Algo no al alcance de todos.</p>
+<h1>Nuevos precios y conclusión</h1>
+<p>Mientras escribía esto Google bajó los precios del Nexus 4 hasta los 200 Eur. A este precio, pese a cualquier molestia que puedas tener, <strong>no hay otro smartphone que le haga sombra</strong>. Por 200 Eur es imposible encontrar mejor hardware, con el S.O. siempre actualizado y la oferta de Apps de Android. Para mí, es la opción evidente. Porque además, <strong>es libre</strong>.</p>
+<p>Lo que me dejará un poso aún más amargo, ya que no se va a vender masivamente. Lo verás en las manos de muchos Geeks. Pero no en la de gente normal. Y la gente normal se merece este teléfono.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/30/la-era-nexus/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Borrar un AVD que se niega a morir</title>
+		<link>/2013/08/26/borrar-un-avd-que-se-niega-a-morir/</link>
+		<pubDate>Mon, 26 Aug 2013 06:31:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Terminal]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1999</guid>
+		<description><![CDATA[Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje: En este caso, he tenido claro desde el principio cual era el problema sin consultar con StackOverflow. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Al intentar borrar un AVD (la configuración de un emulador de Android, conocido como Android Virtual Device) me he encontrado con este mensaje:</p>
+<p><a href="/wp-content/uploads/2013/08/emulator-cant-delete.png"><img src="/wp-content/uploads/2013/08/emulator-cant-delete.png" alt="AVD no se puede borrar" width="526" height="145" class="aligncenter size-full wp-image-2000" srcset="/wp-content/uploads/2013/08/emulator-cant-delete.png 526w, /wp-content/uploads/2013/08/emulator-cant-delete-300x82.png 300w" sizes="(max-width: 526px) 100vw, 526px" /></a></p>
+<p>En este caso, he tenido claro desde el principio cual era el problema <em>sin consultar con StackOverflow</em>. Había lanzado ese AVD antes y se había colgado. Y pensé que seguramente había dejado algún fichero indicando que el emulador estaba en marcha, y por eso ahora al intentar borrarlo pensaba que seguía <em>encendido</em>.</p>
+<p>Nada que un poco de Terminal no pueda arreglar. Debemos ir, en una terminal, a la carpeta .android/avd que está dentro de nuestra carpeta $HOME. En mi caso, como mi usuario es dfreniche, la carpeta está en la ruta:</p>
+<pre><code>/Users/dfreniche/.android/avd/
+</code></pre>
+<p>Para llegar a ella, usamos a nuestro viejo amigo <code>cd</code>:</p>
+<pre><code>cd /Users/dfreniche/.android/avd
+</code></pre>
+<p>Una vez allí, veremos una carpeta por cada AVD que tengamos creado en Eclipse. Si hacemos <code>ls</code>:</p>
+<pre><code>Tesla:avd dfreniche$ ls -al
+total 24
+drwxr-xr-x   8 dfreniche  staff  272 22 ago 12:58 .
+drwxr-xr-x  17 dfreniche  staff  578 19 ago 19:41 ..
+drwxr-xr-x  12 dfreniche  staff  408 22 ago 12:58 Intel.avd
+-rw-r--r--   1 dfreniche  staff  114 22 ago 12:58 Intel.ini
+drwxr-xr-x  11 dfreniche  staff  374 20 ago 06:48 Nexus4.avd
+-rw-r--r--   1 dfreniche  staff  116 19 ago 19:32 Nexus4.ini
+drwxr-xr-x  10 dfreniche  staff  340 22 ago 11:22 Nexus4_API4.3.avd
+-rw-r--r--   1 dfreniche  staff  130 20 ago 06:47 Nexus4_API4.3.ini
+</code></pre>
+<p>Podemos ver que los terminados en .avd son carpetas (en los atributos empiezan con una <em>d</em> de directory) mientras que los .ini son ficheros normales.</p>
+<p>Si entramos en el AVD problemático (en este caso, Intel.avd) con un <code>cd Intel.avd</code> y hacemos <code>ls</code> veremos unos cuantos ficheros <em>sospechosos</em> acabados en .lock.</p>
+<pre><code>Tesla:Intel.avd dfreniche$ ls
+cache.img       hardware-qemu.ini.lock  userdata-qemu.img.lock
+cache.img.lock  sdcard.img      userdata.img
+config.ini      sdcard.img.lock
+hardware-qemu.ini   userdata-qemu.img
+</code></pre>
+<p>Con borrar estos ficheros, basta: <code>rm *.lock</code></p>
+<p>Tras esto, Eclipse nos dejará borrar tranquilamente el AVD desde su interfaz:</p>
+<div id="attachment_2001" style="width: 534px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2013/08/emulator-fixed.png"><img src="/wp-content/uploads/2013/08/emulator-fixed.png" alt="AVD arreglado para ser borrado" width="524" height="141" class="size-full wp-image-2001" srcset="/wp-content/uploads/2013/08/emulator-fixed.png 524w, /wp-content/uploads/2013/08/emulator-fixed-300x80.png 300w" sizes="(max-width: 524px) 100vw, 524px" /></a><p class="wp-caption-text">AVD arreglado para ser borrado</p></div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Preparando el MWC 2013: First World Problems</title>
+		<link>/2013/02/19/preparando-el-mwc-2013-first-world-problems/</link>
+		<comments>/2013/02/19/preparando-el-mwc-2013-first-world-problems/#comments</comments>
+		<pubDate>Tue, 19 Feb 2013 08:34:41 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Barcelona]]></category>
+		<category><![CDATA[Blackberry]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[Viajes]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+
+		<guid isPermaLink="false">/?p=1888</guid>
+		<description><![CDATA[Hay problemas importantes. Luego están las chorradas. Y por último, en orden de importancia los problemas que nos crea en el primer mundo la «sobreabundancia». Que si estamos muy gordos (porque tenemos para comer en exceso), que si pagamos muchos impuestos al comprar una segunda vivienda (pero ya tenemos más de una), etc. Pese a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Hay problemas importantes. Luego están las chorradas. Y por último, en orden de importancia los problemas que nos crea en el primer mundo la «sobreabundancia». Que si estamos muy gordos (porque tenemos para comer en exceso), que si pagamos muchos impuestos al comprar una segunda vivienda (pero ya tenemos más de una), etc. Pese a no ser problemas de vida o muerte, y sabiendo que gran parte de la población mundial nos cambiaría sus problemas, reales y auténticos por los nuestros, no dejan de ser <em>nuestros</em> problemas. Los que nos molestan, nos enojan o nos quitan el sueño.</p>
+<p><a href="http://xaxor.com/funny-pics/funny-more-of-the-first-world-problems.html"><img src="/wp-content/uploads/2013/02/More-of-the-first-world-problems3.jpg" alt="No puede usar su nuevo iPhone 5 en su Audi, así que tiene que aguantarse con su iPhone 4s" title="Problemas del primer mundo" width="500" height="375" class="aligncenter size-full wp-image-1889" /></a></p>
+<p>El caso es que la semana que viene me voy al <a href="http://www.mobileworldcongress.com/">Mobile World Congress 2013</a> que tiene lugar en Barcelona. El año pasado estuve y me lo pasé bien, pese a que llegué enfermo y me tuve que curar una gripe «en pie» para no perderme el espectáculo. Este año, además de pasarlo bien, como ya se <em>de qué va</em> esto del MWC voy a procurar no <em>pagar la novatada</em>. Por ejemplo, este año no voy a estar allí a las 9 de la mañana, que está todo cerrado y te miran como lo que eres: un friki ansioso. Y voy a enfocarme más en las reuniones y en los contactos. <em>Fem negoci</em>, que dicen los locales.</p>
+<p>Y claro, puestos a ir, surge la pregunta de todo <em>geek</em> bien equipado: ¿qué me llevo?. Esta pregunta es el equivalente del «¿Qué me pongo?» de nuestras novias / esposas, pero trasladado a cacharros. Porque, ya que tengo una serie de chismes, quiero aprovecharlos y sacarlos a que <em>les de el aire</em>.</p>
+<p>La primera cuestión es <strong>si llevar el portátil o no</strong>. Y creo que va a ser no. Pese a que me encanta mi MBP 13&#8243;, del que <a href="/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/">ya escribí hace no mucho</a>, no acabo de ver el sentido de llevármelo. Salgo de Sevilla el Lunes a las 8:30 en AVE y llego a BCN a las 14:30. Y dudo que me ponga a programar al llegar. Y una vez te metes en la locura del MWC, no creo que escriba una línea de código. Dentro del recinto, es seguro que no voy a hacer nada de eso. Y fuera, siempre habrá alguna reunión a la que ir, un rato para dormir o comer, o estar con gente. Y el Jueves a las 16:00 me vuelvo. Vamos, que no me lo llevo. Ya escribiré código el Viernes. El problema es que veré a otra gente con sus portátiles y me entrará <em>morriña</em></p>
+<p>Luego viene el asunto de la cámara. Teniendo una flamante Nikon D5100, quiero llevármela. Pero el chisme pesa lo suyo, y no voy como periodista (al final no pude conseguir una entrada de prensa por detalles sin importancia, como el cierre de MacWorld <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ). Así que estoy pensando en usar los móviles / tabletas y una compacta Sony que apenas uso (no la uso porque hace fotos aceptables a la luz del sol, pero en interiores es directamente una basura, la compré con los puntos de la gasolina). Venga, segundo tema liquidado: la compacta y el resto de móviles / tabletas harán de cámaras oficiales.</p>
+<p>Siendo el <em>Mobile</em> World Congress, hay que llevarse móviles y tabletas. En este apartado lo tengo casi claro. El iPhone 3Gs (que hasta ahora está siendo mi móvil principal) se viene conmigo, sin SIM, o con una de repuesto que tengo por ahí. Mi BlackBerry Alpha Device se viene, probablemente con la microSIM que tiene ahora el iPhone. Y la duda es si llevarme o no el Lumia 800, para ir cambiando. El iPad 3 en el que estoy escribiendo ahora mismo esto con iAWriter se viene seguro, junto con un teclado Apple BT inalábrico. Será mi <em>portátil</em> de guardia, en el que leer el correo, consultar Evernote, escribir, subir posts a WordPress. Vamos, que va a llevarse la parte importante de la paliza. Y claro, hablando de tabletas, me llevo también la Nexus 7, mi ojito derecho que me acabo de comprar, por si pruebo cosas de NFC. No me había dado cuenta hasta ahora, pero voy a llevar un dispositivo de cada S.O. principal: iOS, BlanckBerry 10, Windows Phone y Android. <em>Geek Achievement Unlocked</em></p>
+<p>Además de esto me llevaré cargadores y cables varios, algún pendrive por si hay que transferir un fichero en el último momento y creo que nada más. Ya tengo pensada la bolsa que me voy a llevar, una muy ligera que me regaló Migue Terrón y que él define «de los chinos» pero que parece cortada para este evento. O eso, o me llevo una que tengo por ahí de BlackBerry.</p>
+<p>Y ahora paso a preguntar <strong>¿qué te llevarías tú?</strong>. ¿Hago bien dejando el portátil detrás?. ¿Me llevo la cámara? Me gustaría contrastar opiniones en los comentarios.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/19/preparando-el-mwc-2013-first-world-problems/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Acelera el emulador de Android</title>
+		<link>/2013/01/23/acelera-el-emulador-de-android/</link>
+		<comments>/2013/01/23/acelera-el-emulador-de-android/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 16:32:11 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Eclipse]]></category>
+
+		<guid isPermaLink="false">/?p=1856</guid>
+		<description><![CDATA[«El Emulador de Android es lento». Mucho. Es una de las quejas recurrentes que tenemos los que tenemos que desarrollar para Android, bien sea por afición, devoción u obligación. Comparado con el simulador de iOS, el Emulador de Android es una tortuga. Pero claro, la comparación no es justa: Android emula un teléfono completo, con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>«El Emulador de Android es lento». Mucho. Es una de las quejas recurrentes que tenemos los que tenemos que desarrollar para Android, bien sea por afición, devoción u obligación. Comparado con el simulador de iOS, el Emulador de Android es una tortuga. Pero claro, la comparación no es justa: Android emula un teléfono completo, con su CPU, GPU, memoria, tarjeta SD, etc. Está ejecutando código real que podríamos instalar en un teléfono, compilado para una CPU de una arquitectura que no tenemos en el escritorio (como es ARM p.ej.). El simulador de iOS crea un ejecutable x86 que «simula» comportarse dentro de un teléfono, pero realmente es un programa de Mac «travesti». La fidelidad no es la misma.</p>
+<p>Por eso, en teoría el desarrollo con el Emulador de Android debe ser más sencillo, al tener una mejor herramienta con la que probar. Eso, si eres capaz de aguantar el tiempo insoportable que tarda en arrancar. Y si no se desconecta de adb (Android Debugger Bridge) y tienes que reiniciarlo.</p>
+<h1>HAXM</h1>
+<p>Para mejorar esto, Intel pone a nuestra disposición HAXM (Hardware Accelerated Execution Manager). Gracias a este programa, instalaremos una capa de aceleración para el Emulador de Android, que realmente se ejecuta en como una máquina virtual <a href="http://wiki.qemu.org/Main_Page">qEmu</a>. qEmu es un emulador de CPUs, es decir, nos permite ejecutar en nuestros equipos basados en Intel x86 (como un Core i5 por ejemplo) S.O. que corren en Intel (como Windows, Linux, Mac) o bien otros S.O. que necesitan otras CPUs y arquitecturas (como es el caso de Android con ARM).</p>
+<p>HAXM es un driver (o un módulo del kernel en Linux / extensión del kernel en Mac) que concede a qEmu acceso directo al hardware en el que se ejecuta. Eso sí, como es un programa de Intel, sólo funciona con las CPUs Intel. Vamos, que si tu máquina tiene una CPU AMD ya puedes ir cerrando el post. Además, la CPU debe soportar VT-x (las modernas lo soportan, no pruebes con un Pentium II). Puedes consultar los requisitos en la <a href="http://software.intel.com/en-us/articles/installation-instructions-for-intel-hardware-accelerated-execution-manager-mac-os-x">página detallada de Intel sobre cómo instalar HAXM</a>.</p>
+<h1>Instalación de HAXM</h1>
+<p>Si estás usando el nuevo ADT Bundle (es decir, el Eclipse + plugin ADT + SDK Android que ha sacado hace poco Google, que ya era hora por cierto) y abres el Android SDK Manager, al final encontrarás un grupo llamado «Extras» en el que está el Intel x86 HAXM Emulator Accelerator. Si estás en Windows / Linux, bájatelo desde aquí. Si estás en OS X Mountain Lion 10.8.2 <strong>no te lo bajes desde aquí, debes ir a la <a href="http://software.intel.com/en-us/articles/intel-hardware-accelerated-execution-manager">página de descargas de HAXM</a></strong>, ya que existe un bug que hará que tu querido Mac se cuelgue. Sí, has leído bien: los Macs también se cuelgan. Cuando te lo bajes, ya sea desde el SDK Manager o a mano (por cierto, en el enlace anterior están las versiones de Linux y Windows de HAXM) debes instalarlo.</p>
+<p>En el caso del Mac, bajas un DMG que al montar te muestra un programa de instalación. Tras instalarlo (no exige reiniciar) podemos confirmar que está en funcionamiento escribiendo en una Terminal:</p>
+<pre><code>$ kextstat | grep haxm
+</code></pre>
+<p>Debe aparecer algo como esto:</p>
+<pre><code>Tesla:~ dfreniche$ kextstat | grep haxm
+115  0 0xffffff7f81e29000 0x13000 0x13000  com.intel.kext.intelhaxm (1.0.4)
+</code></pre>
+<p>Si te has bajado el paquete usando el SDK manager, puedes encontrar el programa de instalación en <code>$SDK_HOME/extras/intel/</code></p>
+<h1>Uso de HAXM</h1>
+<p>Una vez instalado HAXM, debemos descargar las imágenes de Android que también nos proporciona Intel. La idea es que en lugar de acelerar un emulador ARM (que sería muy complicado) Intel nos da Android para Intel Atom. De esta manera, cuando qEmu ejecuta instrucciones en el Intel Atom emulado realmente se pasan a nuestra CPU directamente, con la consiguiente mejora en rendimiento.</p>
+<p>Estas imágenes aparecen como «Intel x86 Atom System Image» en el SDK Manager. A bajarlas. No las tenemos para todos los API levels, pero sí para los más usados (API 10, 15 y 17 y supongo que en breve sacarán para el 18).</p>
+<p><a href="/wp-content/uploads/2013/01/intel-images.png"><img src="/wp-content/uploads/2013/01/intel-images-300x251.png" alt="SDK Manager mostrando las imágenes Intel ya instaladas" title="Imágenes Intel en el Android SDK Manager" width="300" height="251" class="aligncenter size-medium wp-image-1860" srcset="/wp-content/uploads/2013/01/intel-images-300x251.png 300w, /wp-content/uploads/2013/01/intel-images.png 933w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Ahora tendremos que crear una definición de AVD que utilice esta imagen de Intel. En lugar de un emulador con CPU ARM, vamos a escoger uno con CPU Intel Atom. De cara a nuestros programas da igual, ya que a fin de cuentas se van a ejecutar en la máquina virtual Dalvik. Si vamos a probar código Android nativo (escrito en C con el NDK) entonces lo mejor es leer la documentación de HAXM.</p>
+<p><a href="/wp-content/uploads/2013/01/ADV-intel.png"><img src="/wp-content/uploads/2013/01/ADV-intel.png" alt="Creando un AVD con CPU Intel seleccionada" title="ADV con CPU intel" width="542" height="575" class="aligncenter size-full wp-image-1862" srcset="/wp-content/uploads/2013/01/ADV-intel.png 542w, /wp-content/uploads/2013/01/ADV-intel-282x300.png 282w" sizes="(max-width: 542px) 100vw, 542px" /></a></p>
+<p>Cuando arranquemos nuestro AVD notaremos dos cosas. En la consola debe aparecer un mensaje que indique que «HAX is working» y casi sin darnos cuenta nuestro Emulador estará operativo. Se acabó el arrastrarse. Yo ni marco que arranque de un snapshot porque es tan rápido que no me merece la pena.</p>
+<h1>Bonus level</h1>
+<p>Si usas API level 15 ó 17 puedes usar la aceleración de hardware de la GPU, lo que hará que todavía sea más rápido. Avisado quedas de que puede no funcionar (el emulador se vería en negro y tendrías que cerrarlo). <a href="http://developer.android.com/tools/devices/emulator.html#acceleration">Consulta el apartado de aceleración de la GPU</a> de la documentación Emulador para más detalles. Para activarla, marca el checkbox «Use host GPU» en la definición del AVD.</p>
+<h1>Ultra bonus level</h1>
+<p>Y si necesitas un emulador de Android «en la nube», para probar algo o mostrar en una visita a un cliente, y no tienes tu máquina pero te puedes bajar el APK de Dropbox, mira <a href="https://app.manymo.com/emulators">Manymo</a>. Si con esto no te pones <em>palote</em>&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/23/acelera-el-emulador-de-android/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>Cómo desarrollar Apps móviles en iOS y Android. Entrevista</title>
+		<link>/2012/11/12/como-desarrollar-apps-moviles-en-ios-y-android-entrevista/</link>
+		<pubDate>Mon, 12 Nov 2012 12:18:28 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[entrevista]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Telar del Geek]]></category>
+
+		<guid isPermaLink="false">/?p=1802</guid>
+		<description><![CDATA[Daniel ha tenido a bien entrevistarme vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste. Si tenéis dudas comentad allí y aquí, que si no no os puedo responder 😀]]></description>
+				<content:encoded><![CDATA[<p>Daniel <a href="http://eltelardelgeek.com/2012/11/11/comenzando-a-desarrollar-app-con-dfreniche/">ha tenido a bien entrevistarme</a> vía mail para su blog El Telar del Geek. Hablamos de distintos aspectos sobre el desarrollo de Apps móviles. Espero que os guste.</p>
+<p>Si tenéis dudas comentad allí y aquí, que si no no os puedo responder <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Charla sobre «El estado de la nación móvil»</title>
+		<link>/2012/09/14/charla-sobre-el-estado-de-la-nacion-movil/</link>
+		<pubDate>Fri, 14 Sep 2012 09:10:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[Plataformas móviles]]></category>
+		<category><![CDATA[Windows Phone]]></category>
+		<category><![CDATA[WP7]]></category>
+
+		<guid isPermaLink="false">/?p=1786</guid>
+		<description><![CDATA[Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><img class="aligncenter size-full wp-image-1788" title="Hablando del estado de la nación móvil" src="/wp-content/uploads/2012/09/Foto_1.jpg" alt="Hablando del estado de la nación móvil" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_1.jpg 640w, /wp-content/uploads/2012/09/Foto_1-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></p>
+<p style="text-align: justify;">Este pasado Miércoles 12, estuve en Sevilla impartiendo una charla sobre cómo está ahora mismo el mundo móvil, de la mano de Avante. Fueron cuatro horas (con un pequeño descanso) en el que apenas tuve tiempo de hablar de iOS y Android, y algunas cuestiones generales. Me lo pasé muy bien, relatando mis batallitas. Supongo que los asistentes (que me tenían que aguantar), no tanto.</p>
+<p style="text-align: justify;">Es increíble lo mucho que cambia esta parte del sector informático en meses. En Julio estuve en Zafra realizando este taller, pero con más profundidad, para ayudar a una empresa a elegir su estrategia móvil para desarrollo. Como eran programas in house y ya sabían Java finalmente vimos que lo mejor era la ruta Android. Pero desde entonces Samsung ha sido condenada por copiona, ha salido el Kindle Fire HD, el Nexus 7, se han anunciado los nuevos Lumias&#8230; Esto va a velocidad de vértigo y son tantas las plataformas y hay tanto ruido que es normal que el que no esté al tanto quiera alguna indicación.</p>
+<div><a href="/wp-content/uploads/2012/09/Foto_2.jpg"><img class="aligncenter size-full wp-image-1789" title="Al fondo, inasequible al desaliento" src="/wp-content/uploads/2012/09/Foto_2.jpg" alt="Al fondo, inasequible al desaliento" width="640" height="480" srcset="/wp-content/uploads/2012/09/Foto_2.jpg 640w, /wp-content/uploads/2012/09/Foto_2-300x225.jpg 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></div>
+<div>La pena es que no pudimos hacer casi ni un hola mundo con Xcode. Quería hacer algo también con Android, pero fue imposible. O haber enseñado alguna aplicación webOS, o Windows Phone. Pero cuatro horas se van volando, cuando hablas de algo que te apasiona <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+<p style="text-align: justify;">P.D.: <a href="http://www.avante.es/">Avante</a> ha convocado un <a href="http://www.avante.es/master/desarrollo_apps.html">máster de desarrollo iOS, Android y Windows Phone</a>. Tienes la oportunidad de aguantarme enseñando a programar en  iOS y Android si te apuntas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">P.P.D.: ya <a href="/2010/10/08/video-de-mi-intervencion-en-etic/">a finales de 2010 estuve hablando en un encuentro e-Tic de Avante sobre iOS</a>. Hay vídeo para recordarlo.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Instalar Android Ice Cream Sandwich en la HP TouchPad</title>
+		<link>/2012/08/20/instalar-android-ice-cream-sandwich-en-la-hp-touchpad/</link>
+		<pubDate>Mon, 20 Aug 2012 07:49:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[instalación]]></category>
+		<category><![CDATA[TouchPad]]></category>
+
+		<guid isPermaLink="false">/?p=1751</guid>
+		<description><![CDATA[Después de un tiempo usando CyanoGen Mod 7 (por abreviar, CM7, que es una ROM de Android en su versión 2.3) en la TouchPad me he decidido y he instalado CM9. Dista bastante de ser perfecta, pero a fin de cuentas la TP no se diseñó ni pensó para Android. Y viendo el estado comatoso [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Después de un tiempo usando CyanoGen Mod 7 (por abreviar, CM7, que es una ROM de Android en su versión 2.3) en la TouchPad me he decidido y he instalado CM9. Dista bastante de ser perfecta, pero a fin de cuentas la TP no se diseñó ni pensó para Android. Y viendo el estado comatoso de webOS (y el durísimo golpe que supone no poder instalar la nueva versión, Open webOS 1.0 «oficial» en la TouchPad) la única manera de mantener el equipo con vida es esta.</p>
+<p>No voy a dar instrucciones, ni a contar nada. Creo que después de los vídeos del <a href="http://www.reverendkyle.com/">Reverendo Kyle</a> hay poco más que añadir. Os dejo con el que he usado para instalar CM9 en la TP. Yo tenía ventaja, porque ya estaba instalado MoBoot y ClockModWork Recovery, pero aún así es fácil.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/PDO1Jj3NYDw" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/PDO1Jj3NYDw"></param></object></div>
+</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Cómo crear un entorno de desarrollo Android portable</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/</link>
+		<comments>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/#comments</comments>
+		<pubDate>Wed, 23 May 2012 14:38:11 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1702</guid>
+		<description><![CDATA[Algún día me tenía que pasar. Después de ver tanto backend Java en cursos de todos los colores y de coleccionar certificaciones Java, después de desarrollar para iOS y webOS, alguna vez me tenía que poner en serio con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1710" style="width: 323px" class="wp-caption aligncenter"><img class="size-full wp-image-1710" title="Logo de Android" src="/wp-content/uploads/2012/05/android_resources.png" alt="Logo de Android" width="313" height="343" srcset="/wp-content/uploads/2012/05/android_resources.png 313w, /wp-content/uploads/2012/05/android_resources-273x300.png 273w" sizes="(max-width: 313px) 100vw, 313px" /><p class="wp-caption-text">Logo de Android</p></div>
+<p style="text-align: justify;">Algún día me tenía que pasar. Después de ver tanto backend Java en <a href="/formacion/">cursos de todos los colores</a> y de <a href="/category/informatica/programacion/java/scjp/">coleccionar certificaciones Java</a>, después de <a href="/ios-apps/">desarrollar para iOS</a> y <a href="/2012/05/17/enyo-faq-en-espanol/">webOS</a>, alguna vez me tenía que poner <em>en serio</em> con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de desarrollo móvil «de cabecera». Quizás porque estaba saturado de Java. O porque, <a href="http://wedevelopers.com/2012/03/11/we-developers-003-los-mundos-de-java/">como comentaba en We.Developers</a>, Java es un lenguaje que no me genera excesivas alegrías (sobre todo cuando lees la mayoría del código que hay por ahí, que es bastante feo, fruto del desconocimiento del lenguaje).</p>
+<p style="text-align: justify;">El caso es que estoy actualmente desarrollando una App para Android (de la que daré más datos cuando se suba a Google Play) y me ha surgido la oportunidad de impartir un curso a los programadores de RTVA. Como en todo curso, me gusta instalar el entorno de desarrollo. Y si vas a desarrollar para Android, sabes que tienes que instalarte:</p>
+<ul>
+<li>un JDK para poder compilar todo el código Java que escribimos como parte de nuestras Apps Android</li>
+<li>un JRE, necesario para ejecutar Eclipse</li>
+<li>Eclipse, como IDE para escribir nuestros programas</li>
+<li>el SDK de Android, que pone a nuestra disposición las bibliotecas necesarias para crear los programas Android, así como el Emulador, herramientas e imágenes para ejecutar ese emulador.</li>
+<li>el plug-in ADT para Eclipse, que nos permite gestionar el SDK cómodamente desde Eclipse</li>
+</ul>
+<p style="text-align: justify;">Este curso se imparte en dos semanas, dejando varios días por medio. Y el tiempo que se tarda en descargar las distintas partes del SDK de Android y el plugin ADT (ambos hay que descargarlos para instalarlos) no es despreciable cuando lo intentamos hacer con 10 portátiles todos conectados a la misma Wifi. Además de la limitación inherente a compartir la conexión HTTP, el medio físico (el canal de radio usado por el punto de acceso WiFi) es el mismo para todos los portátiles. Luego hay colisiones. Y cuantos más portátiles, peor para todos.</p>
+<p>En una primera opción, llevaba el JDK, Eclipse y el paquete de instalación del SDK en un pendrive, para irlo instalando todo. Pero de estas dos últimas descargas no me podía librar&#8230; ¿o si? Y mi miedo es volver la segunda semana y encontrarme los portátiles formateados&#8230;</p>
+<h1>Cómo crear un entorno de desarrollo Android Portable</h1>
+<p>En este caso, me centro en cómo crear el entorno portable para Windows 32 bits, que corre en XP y Windows 7. Al final comento las diferencias con Mac.</p>
+<ul>
+<li>Lo primero es bajar todo lo que necesitamos a una carpeta:</li>
+</ul>
+<blockquote>
+<ul>
+<li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java JDK</a> para Windows es un ejecutable, y escogeremos, de la versión 6, el saber que nos interese: 32 bits (i586) o 64 (x64).</li>
+<li>De Eclipse nos interesa la última versión de la distribución <a href="http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/indigosr2">Eclipse IDE for Java developers</a>. No la versión para Java EE, ya que no vamos a usar servets ni nada de eso. A fecha de escritura de este post, la última versión es la Indigo.</li>
+<li>La última versión del <a href="http://developer.android.com/sdk/index.html">SDK de Android</a>. Nos bajamos la versión en ZIP, no la instalable.</li>
+</ul>
+</blockquote>
+<ul>
+<li>Una vez que tenemos todo esto bajado, debemos instalar el JDK en la máquina. Realmente queremos las carpetas que van dentro, pero al no disponer de un ZIP no tenemos más remedio que instalar. Lo dejará en C:\Archivos de Programa\Java</li>
+<li>Una vez termine la instalación del JDK, nos crearemos una carpeta en el escritorio que podemos llamar Android-Portable, o como más nos guste.</li>
+<li>Debemos descomprimir dentro de esta carpeta el ZIP de Eclipse.</li>
+<li>Ahora, copiaremos la carpeta JRE que está en C:\Archivos de Programa\Java\Jre6\ dentro de la carpeta de Eclipse, justo donde está Elipse.exe. Así, al arrancar Eclipse usará ese JRE que le hemos instalado «tan a mano»</li>
+<li>Igualmente descomprimiremos el SDK de Android dentro de Android-Portable.</li>
+<li>Como necesitaremos el JDK para compilar, vamos a copiarnos en Android-portable la carpeta C:\Archivos de programa\Java\jdk1.6.0_31</li>
+<li>Ahora debemos tener dentro de Android-Portable: una carpeta con Eclipse, otra con el JDK y el SDK de Android.</li>
+<li>Ya podemos arrancar Eclipse. Necesitamos instalar el <a href="http://developer.android.com/sdk/eclipse-adt.html">plugin ADT</a>, para lo cual iremos a Help &gt; Install Software e instalaremos ADT indicando como repositorio https://dl-ssl.google.com/android/eclipse/</li>
+<li>Tras reiniciar Eclipse, nos pedirá que instalemos un SDK de Android, o que le indiquemos dónde tenemos uno instalado. Le indicamos que dentro de Android-Portable tenemos uno. Nos muestra el Android SDK Manager para descargar las imágenes de los emuladores para las versiones de Android que nos interesen, así como los SDKs propiamente dichos. Yo me los bajaría todos.</li>
+</ul>
+<div id="attachment_1711" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/05/pidiendo-sdk.png"><img class="size-medium wp-image-1711" title="Eclipse nos pide un SDK de Android (click para agrandar)" src="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png" alt="Eclipse nos pide un SDK de Android (click para agrandar)" width="300" height="190" srcset="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png 300w, /wp-content/uploads/2012/05/pidiendo-sdk-1024x651.png 1024w, /wp-content/uploads/2012/05/pidiendo-sdk.png 1475w" sizes="(max-width: 300px) 100vw, 300px" /></a></dt>
+</dl>
+<p>Eclipse nos pide un SDK de Android (click para agrandar)</p>
+</div>
+<ul>
+<li>¡Listo! Ahora podemos copiar la carpeta Android-Portable y todo lo que necesitamos lo llevamos dentro. Para arrancar Eclipse bastará con entrar en su carpeta y hacer doble click en Eclipse.exe. Si quieres, siempre te puedes crear un acceso directo, pero que sepas que al mover la carpeta tendrás que volver a crearlo.</li>
+</ul>
+<p>&lt;</p>
+<p>div class=»mceTemp mceIEcenter»></p>
+<p>&lt;</p>
+<p>dl id=»attachment_1707&#8243; class=»wp-caption aligncenter» style=»width: 470px;»></p>
+<dt class="wp-caption-dt"><img class="size-full wp-image-1707" title="Así debe quedar la carpeta Android-Portable" src="/wp-content/uploads/2012/05/android-portable.png" alt="Así debe quedar la carpeta Android-Portable" width="460" height="187" srcset="/wp-content/uploads/2012/05/android-portable.png 460w, /wp-content/uploads/2012/05/android-portable-300x121.png 300w" sizes="(max-width: 460px) 100vw, 460px" /><p class="wp-caption-text">Así debe quedar la carpeta Android-Portable</p></div>
+<p>Esta carpeta ya la podemos poner en un pendrive, comprimirla, copiarla de un equipo a otro, etc. Funcionará con los distintos Windows.</p>
+<p>Si tienes un Mac el proceso es el mismo, salvo que:</p>
+<ul>
+<li>no tienes que instalarte Java, ya que el JDK viene instalado con OS X (es una instalación opcional del S.O.). No puedes «bajarlo» de la página de Oracle.</li>
+<li>debes bajar el Eclipse de Mac</li>
+<li>debes bajar el SDK de Android de Mac</li>
+</ul>
+<p>Ahora, a ver alguien compra las Apps que hagamos <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

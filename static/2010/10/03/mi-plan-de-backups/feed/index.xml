@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Mi plan de backups</title>
+	<atom:link href="/2010/10/03/mi-plan-de-backups/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/10/03/mi-plan-de-backups/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Mi Time Capsule ha muerto. ¡Larga vida a mi Time Capsule!</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-11766</link>
+		<dc:creator><![CDATA[Mi Time Capsule ha muerto. ¡Larga vida a mi Time Capsule!]]></dc:creator>
+		<pubDate>Tue, 01 Mar 2011 08:54:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-11766</guid>
+		<description><![CDATA[[...] que ya conocía de @juaconet, que ha pasado ya por tres time capsules, cuando me planteé mi estrategia de backups decidí poner en la Time Capsule únicamente las copias de seguridad de Time Machine. De esta [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] que ya conocía de @juaconet, que ha pasado ya por tres time capsules, cuando me planteé mi estrategia de backups decidí poner en la Time Capsule únicamente las copias de seguridad de Time Machine. De esta [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Problemas con el disco duro de mi iMac</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-9888</link>
+		<dc:creator><![CDATA[Problemas con el disco duro de mi iMac]]></dc:creator>
+		<pubDate>Wed, 29 Dec 2010 09:08:21 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-9888</guid>
+		<description><![CDATA[[...] Pensando que no era mala idea el pasarle Onyx al HD del iMac, para ver su estado, comprobar el sistema de ficheros y con la esperanza de que el sistema se aligerase algo (mi iMac es una maravilla de ordenador, pero uno siempre quiere más  ) me lancé y el resultado no fue muy bueno. Onyx me indicaba que arrancase con un disco externo y reparase el disco. Acostumbrado como estoy con Linux a que no es buena idea hacer un fsck (filesystem check) a un sistema de ficheros montado (AKA volumen en Mac OS X), me traje de casa de mi suegra el HD externo donde guardo un clon del iMac (si quieres saber cómo tengo organizadas mis copias de seguridad, puedes leerte este post) [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Pensando que no era mala idea el pasarle Onyx al HD del iMac, para ver su estado, comprobar el sistema de ficheros y con la esperanza de que el sistema se aligerase algo (mi iMac es una maravilla de ordenador, pero uno siempre quiere más  ) me lancé y el resultado no fue muy bueno. Onyx me indicaba que arrancase con un disco externo y reparase el disco. Acostumbrado como estoy con Linux a que no es buena idea hacer un fsck (filesystem check) a un sistema de ficheros montado (AKA volumen en Mac OS X), me traje de casa de mi suegra el HD externo donde guardo un clon del iMac (si quieres saber cómo tengo organizadas mis copias de seguridad, puedes leerte este post) [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Ojo con tus copias de seguridad de Time Machine</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-8173</link>
+		<dc:creator><![CDATA[Ojo con tus copias de seguridad de Time Machine]]></dc:creator>
+		<pubDate>Thu, 28 Oct 2010 16:24:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-8173</guid>
+		<description><![CDATA[[...] no mucho comentaba mi Plan de Backups y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] no mucho comentaba mi Plan de Backups y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-7413</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 04 Oct 2010 07:39:22 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-7413</guid>
+		<description><![CDATA[GoodSync parece una buena opción para mantener equipos &quot;clonados&quot;. A mi me podría servir para mantener sincronizados la carpeta Documentos del iMac y del portátil, aunque la idea de momento es no generar contenido en el portátil, o al menos generarlo en Dropbox (y así ya tengo la sincronización garantizada).
+Habrá que tenerlo en cuenta para sincronizar mis dos equipos, gracias 0x3E8!]]></description>
+		<content:encoded><![CDATA[<p>GoodSync parece una buena opción para mantener equipos «clonados». A mi me podría servir para mantener sincronizados la carpeta Documentos del iMac y del portátil, aunque la idea de momento es no generar contenido en el portátil, o al menos generarlo en Dropbox (y así ya tengo la sincronización garantizada).<br />
+Habrá que tenerlo en cuenta para sincronizar mis dos equipos, gracias 0x3E8!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguelón</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-7411</link>
+		<dc:creator><![CDATA[Miguelón]]></dc:creator>
+		<pubDate>Mon, 04 Oct 2010 06:55:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-7411</guid>
+		<description><![CDATA[Añadiría a todo lo que haces el GoodSync, que funciona para todas las plataformas, con acceso a WebDav, ftp, ssh.... para copias de directorios o discos completos.
+
+TODOS mis equipos, al arrancar, hacen un análisis y sincronización con el equipo principal (siempre encendido) de los directorios importantes, es decir, el de las fotos, los vídeos, los documentos, las webs de los clientes y los programas. El día que me compre un disco gordo externo podré sincronizar ahí.
+
+Una cosa, es de pago, pero son menos de 30 euros y supone una inversión en tranquilidad que, como el anuncio de la VISA, no tiene precio.]]></description>
+		<content:encoded><![CDATA[<p>Añadiría a todo lo que haces el GoodSync, que funciona para todas las plataformas, con acceso a WebDav, ftp, ssh&#8230;. para copias de directorios o discos completos.</p>
+<p>TODOS mis equipos, al arrancar, hacen un análisis y sincronización con el equipo principal (siempre encendido) de los directorios importantes, es decir, el de las fotos, los vídeos, los documentos, las webs de los clientes y los programas. El día que me compre un disco gordo externo podré sincronizar ahí.</p>
+<p>Una cosa, es de pago, pero son menos de 30 euros y supone una inversión en tranquilidad que, como el anuncio de la VISA, no tiene precio.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-7392</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 03 Oct 2010 17:31:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-7392</guid>
+		<description><![CDATA[Me alegro de que te sirviera para algo. Para eso estamos :-)]]></description>
+		<content:encoded><![CDATA[<p>Me alegro de que te sirviera para algo. Para eso estamos 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Isra</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-7391</link>
+		<dc:creator><![CDATA[Isra]]></dc:creator>
+		<pubDate>Sun, 03 Oct 2010 17:25:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-7391</guid>
+		<description><![CDATA[A mi con tres veces que me contradigan un hecho o afirmación, ya tengo que hacer un formateo a bajo nivel de mi visión de las cosas... jejejeje... Voy a informarme un poco sobre ese CrashPlan.
+
+Y bueno, como ya sabes, no es igual la librería del iTunes que los vídeos de la boda, por muy bien taggeado, con sus covers y tal que esté. Las cosas personales no son de dominio público, eso me lo he aprendido bien. 
+
+Por cierto (que quedó pendiente), muchas gracias por las ayudas que me prestaste y sí, conseguí recuperar TODO! Espero no volver a caer en los errores del pasado y salvaguardar mis datos con cabeza.
+
+Un abrazote.]]></description>
+		<content:encoded><![CDATA[<p>A mi con tres veces que me contradigan un hecho o afirmación, ya tengo que hacer un formateo a bajo nivel de mi visión de las cosas&#8230; jejejeje&#8230; Voy a informarme un poco sobre ese CrashPlan.</p>
+<p>Y bueno, como ya sabes, no es igual la librería del iTunes que los vídeos de la boda, por muy bien taggeado, con sus covers y tal que esté. Las cosas personales no son de dominio público, eso me lo he aprendido bien. </p>
+<p>Por cierto (que quedó pendiente), muchas gracias por las ayudas que me prestaste y sí, conseguí recuperar TODO! Espero no volver a caer en los errores del pasado y salvaguardar mis datos con cabeza.</p>
+<p>Un abrazote.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-7390</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 03 Oct 2010 17:15:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-7390</guid>
+		<description><![CDATA[Hola Isra.
+
+Los métodos que planteo no son nada del otro jueves. No hay cabinas de fibra auto-replicándose por una conexión de fibra óptica, ni cabinas de discos iSCSI por aquí rodando. Creo que lo más interesante de todo lo escrito es que, antes de montar nada, se piense qué es lo importante y qué da igual perder. No es lo mismo hacer backup de 1TB que de 10TB :-)
+
+Sí que existe ese servicio. Es CrashPlan Pro. Y no es tan caro como 50 Eur./mes. El problema son las velocidades de subida, aunque CrashPlan Pro te permite mandarles un disco duro o DVDs con la imagen inicial de lo que quieras hacer backup y luego ya va haciendo incrementales.
+
+El Drobo es una buena solución onsite. El problema sigue siendo el backup offsite.
+
+Y sobre las memorias de estado sólido... mientras no inventen algo (que igual ya está inventado) tienen un nº de ciclos de lectura y escritura. ¡Qué le vamos a hacer!. Pero igual le pasa a los HDs, a los DVDs... y a nosotros :-).]]></description>
+		<content:encoded><![CDATA[<p>Hola Isra.</p>
+<p>Los métodos que planteo no son nada del otro jueves. No hay cabinas de fibra auto-replicándose por una conexión de fibra óptica, ni cabinas de discos iSCSI por aquí rodando. Creo que lo más interesante de todo lo escrito es que, antes de montar nada, se piense qué es lo importante y qué da igual perder. No es lo mismo hacer backup de 1TB que de 10TB 🙂</p>
+<p>Sí que existe ese servicio. Es CrashPlan Pro. Y no es tan caro como 50 Eur./mes. El problema son las velocidades de subida, aunque CrashPlan Pro te permite mandarles un disco duro o DVDs con la imagen inicial de lo que quieras hacer backup y luego ya va haciendo incrementales.</p>
+<p>El Drobo es una buena solución onsite. El problema sigue siendo el backup offsite.</p>
+<p>Y sobre las memorias de estado sólido&#8230; mientras no inventen algo (que igual ya está inventado) tienen un nº de ciclos de lectura y escritura. ¡Qué le vamos a hacer!. Pero igual le pasa a los HDs, a los DVDs&#8230; y a nosotros :-).</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Isra</title>
+		<link>/2010/10/03/mi-plan-de-backups/comment-page-1/#comment-7387</link>
+		<dc:creator><![CDATA[Isra]]></dc:creator>
+		<pubDate>Sun, 03 Oct 2010 17:05:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1127#comment-7387</guid>
+		<description><![CDATA[Es bastante similar a los métodos que uso yo. Lo mejor sería un software que te sincronizara y actualizara todo diariamente, automatizado, mientras estás en modo sleep, directamente a la nube, con total disponibilidad de uso/borrado, modificación y demás, sea el archivo que sea. No me importaría pagar 50 euros al mes por algo así, y ya podrían arder todos los HD&#039;s de 5400 rpm del mundo.
+
+Pero eso solo es posible si tuviésemos 20 megas de subida, y no 512 kbs....
+Espero que mi Drobo sea buen chico durante unos años.
+
+PD: yo ya me he pasado a las memorias sólidas, pero presumen de tener una fecha de caducidad, un límite de lecturas/escrituras... y eso no me hace gracia.]]></description>
+		<content:encoded><![CDATA[<p>Es bastante similar a los métodos que uso yo. Lo mejor sería un software que te sincronizara y actualizara todo diariamente, automatizado, mientras estás en modo sleep, directamente a la nube, con total disponibilidad de uso/borrado, modificación y demás, sea el archivo que sea. No me importaría pagar 50 euros al mes por algo así, y ya podrían arder todos los HD&#8217;s de 5400 rpm del mundo.</p>
+<p>Pero eso solo es posible si tuviésemos 20 megas de subida, y no 512 kbs&#8230;.<br />
+Espero que mi Drobo sea buen chico durante unos años.</p>
+<p>PD: yo ya me he pasado a las memorias sólidas, pero presumen de tener una fecha de caducidad, un límite de lecturas/escrituras&#8230; y eso no me hace gracia.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

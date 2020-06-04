@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Fecha para el SCJP</title>
+	<atom:link href="/2008/06/04/fecha-para-el-scjp/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/06/04/fecha-para-el-scjp/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Banyú</title>
+		<link>/2008/06/04/fecha-para-el-scjp/comment-page-1/#comment-511</link>
+		<dc:creator><![CDATA[Banyú]]></dc:creator>
+		<pubDate>Mon, 22 Sep 2008 23:48:32 +0000</pubDate>
+		<guid isPermaLink="false">/2008/06/04/fecha-para-el-scjp/#comment-511</guid>
+		<description><![CDATA[¿Qué tal, cómo fue?, yo lo haré en marzo de 2009. Acabo de decidirlo, empiezo a prepararlo en cuanto me lleguen los libros que voy a encargar en Amazon... por cierto, la cantidad de gente que conozco en Isotrol es brutal, este mundo es un pañuelo.]]></description>
+		<content:encoded><![CDATA[<p>¿Qué tal, cómo fue?, yo lo haré en marzo de 2009. Acabo de decidirlo, empiezo a prepararlo en cuanto me lleguen los libros que voy a encargar en Amazon&#8230; por cierto, la cantidad de gente que conozco en Isotrol es brutal, este mundo es un pañuelo.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2008/06/04/fecha-para-el-scjp/comment-page-1/#comment-87</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2008 20:08:33 +0000</pubDate>
+		<guid isPermaLink="false">/2008/06/04/fecha-para-el-scjp/#comment-87</guid>
+		<description><![CDATA[Yo es que ya dispongo del examen comprado. Es decir, tengo un Voucher (un recibo) que me permite hacer el test en cuanto que en la empresa de formación donde se puede uno presentar tenga un hueco. Luego hay dos posibles retardos a la hora de presentarse:
+- el tiempo de comprar el voucher en la web de Sun. Depende de la pasta que tengas en la tarjeta.
+- el tiempo de buscar una empresa con certificación Prometrics para hacer el examen y que te den &quot;cita&quot;. Depende de la demanda que tengan, los ordenadores de que dispongan para los tests...
+La alternativa más cómoda es pedir ambas cosas a la empresa de formación. En mi caso, en Sevilla, con pedirlo a Multitrain te lo hacen todo...]]></description>
+		<content:encoded><![CDATA[<p>Yo es que ya dispongo del examen comprado. Es decir, tengo un Voucher (un recibo) que me permite hacer el test en cuanto que en la empresa de formación donde se puede uno presentar tenga un hueco. Luego hay dos posibles retardos a la hora de presentarse:<br />
+&#8211; el tiempo de comprar el voucher en la web de Sun. Depende de la pasta que tengas en la tarjeta.<br />
+&#8211; el tiempo de buscar una empresa con certificación Prometrics para hacer el examen y que te den «cita». Depende de la demanda que tengan, los ordenadores de que dispongan para los tests&#8230;<br />
+La alternativa más cómoda es pedir ambas cosas a la empresa de formación. En mi caso, en Sevilla, con pedirlo a Multitrain te lo hacen todo&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Wences</title>
+		<link>/2008/06/04/fecha-para-el-scjp/comment-page-1/#comment-86</link>
+		<dc:creator><![CDATA[Wences]]></dc:creator>
+		<pubDate>Mon, 18 Aug 2008 16:42:24 +0000</pubDate>
+		<guid isPermaLink="false">/2008/06/04/fecha-para-el-scjp/#comment-86</guid>
+		<description><![CDATA[Vaya, pues aún así mira que sacas tiempo, qué maravilla !!!!!! bueno a ver a mi me queda poquito para presentarme espero darle carpetazo a mediados de Septiembre, una preguntilla mas si me permites, ¿ya has comprado el examen?, una vez adquirido, ¿cuánto hay que esperar para poder presentarse?
+
+Te felicito por tu blog, un saludo]]></description>
+		<content:encoded><![CDATA[<p>Vaya, pues aún así mira que sacas tiempo, qué maravilla !!!!!! bueno a ver a mi me queda poquito para presentarme espero darle carpetazo a mediados de Septiembre, una preguntilla mas si me permites, ¿ya has comprado el examen?, una vez adquirido, ¿cuánto hay que esperar para poder presentarse?</p>
+<p>Te felicito por tu blog, un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2008/06/04/fecha-para-el-scjp/comment-page-1/#comment-81</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 05 Aug 2008 10:09:54 +0000</pubDate>
+		<guid isPermaLink="false">/2008/06/04/fecha-para-el-scjp/#comment-81</guid>
+		<description><![CDATA[Esa es una buena pregunta... Así llevo yo este año 2008, estudiando un poco más fuerte, dejándolo... Por eso el ponerme una fecha límite, si no, no hay manera.
+Depende de tus conocimientos previos de Java, de tu experiencia. Aún así, siempre hay partes del lenguaje que no has trabajado tanto. Yo he impartido unos cuantos cursos de Java (iniciación, avanzados, servlets y jsp, struts, hibernate) y aún así no había tocado los bloques de inicialización. Ni había practicado el boxing y unboxing de tipos primitivos y clases wrapper (Integer, Long, etc.).
+Preparar una certificación no te enseña a programar. Pero, una vez que te la preparas, aprendes un montón de cosas sobre el lenguaje que de otra forma no habrías tenido la oportunidad de ver.
+Y ahora, respondiendo a tu pregunta, creo que lo mejor es:
+- leerse un buen libro, como el de Kathy Sierra y Bert Bates (en Amazon, con ésto del cambio Dólar-Euro, está tirado de precio). Esto puede ser un mes con un par de horas diarias, si se quiere practicar lo leído y memorizar, claro.
+- prepararse un mes haciendo todos los tests que se puedan, como en la autoescuela para sacarse el carnet de conducir. Otro par de horas diarias.
+
+Este plan de estudio, lógicamente, se verá afectado por tus circunstancias personales y profesionales. Yo vuelvo de vacaciones el próximo Jueves 7, y tengo dos niños pequeños. Además, trabajo en Sevilla pero vivo a más de 100 Km del trabajo, luego tardo un ratito en llegar. Vamos, que tengo que quitarme horas de sueño (bueno, de televisión, que ya no la veo apenas) para poder hacer estas otras cosas.]]></description>
+		<content:encoded><![CDATA[<p>Esa es una buena pregunta&#8230; Así llevo yo este año 2008, estudiando un poco más fuerte, dejándolo&#8230; Por eso el ponerme una fecha límite, si no, no hay manera.<br />
+Depende de tus conocimientos previos de Java, de tu experiencia. Aún así, siempre hay partes del lenguaje que no has trabajado tanto. Yo he impartido unos cuantos cursos de Java (iniciación, avanzados, servlets y jsp, struts, hibernate) y aún así no había tocado los bloques de inicialización. Ni había practicado el boxing y unboxing de tipos primitivos y clases wrapper (Integer, Long, etc.).<br />
+Preparar una certificación no te enseña a programar. Pero, una vez que te la preparas, aprendes un montón de cosas sobre el lenguaje que de otra forma no habrías tenido la oportunidad de ver.<br />
+Y ahora, respondiendo a tu pregunta, creo que lo mejor es:<br />
+&#8211; leerse un buen libro, como el de Kathy Sierra y Bert Bates (en Amazon, con ésto del cambio Dólar-Euro, está tirado de precio). Esto puede ser un mes con un par de horas diarias, si se quiere practicar lo leído y memorizar, claro.<br />
+&#8211; prepararse un mes haciendo todos los tests que se puedan, como en la autoescuela para sacarse el carnet de conducir. Otro par de horas diarias.</p>
+<p>Este plan de estudio, lógicamente, se verá afectado por tus circunstancias personales y profesionales. Yo vuelvo de vacaciones el próximo Jueves 7, y tengo dos niños pequeños. Además, trabajo en Sevilla pero vivo a más de 100 Km del trabajo, luego tardo un ratito en llegar. Vamos, que tengo que quitarme horas de sueño (bueno, de televisión, que ya no la veo apenas) para poder hacer estas otras cosas.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Wences</title>
+		<link>/2008/06/04/fecha-para-el-scjp/comment-page-1/#comment-80</link>
+		<dc:creator><![CDATA[Wences]]></dc:creator>
+		<pubDate>Sun, 03 Aug 2008 11:34:08 +0000</pubDate>
+		<guid isPermaLink="false">/2008/06/04/fecha-para-el-scjp/#comment-80</guid>
+		<description><![CDATA[Hola Difreniche, una pregunta, ¿cuánto tiempo llevas preparándote el SCJP?, ¿cuánto le dedicas al día?
+
+Yo llevo ya bastante tiempo intentando preparármelo, lo cogo, lo suelto, pero aún no estoy preparado, me gustaría saber cuánto se suele tardar aproximadamente.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Difreniche, una pregunta, ¿cuánto tiempo llevas preparándote el SCJP?, ¿cuánto le dedicas al día?</p>
+<p>Yo llevo ya bastante tiempo intentando preparármelo, lo cogo, lo suelto, pero aún no estoy preparado, me gustaría saber cuánto se suele tardar aproximadamente.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

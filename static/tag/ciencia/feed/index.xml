@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ciencia &#8211; freniche.com</title>
+	<atom:link href="/tag/ciencia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El funcionamiento del cerebro</title>
+		<link>/2006/02/25/el-funcionamiento-del-cerebro/</link>
+		<pubDate>Sat, 25 Feb 2006 11:09:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Ciencia]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+
+		<guid isPermaLink="false">/2006/02/25/el-funcionamiento-del-cerebro/</guid>
+		<description><![CDATA[Esta imagen me ha llegado por correo y me ha sorprendido. Entra dentro del grupo de ilusiones ópticas que ya comentaba en otra noticia. Os dejo con las instrucciones de uso: Si sigues con los ojos el movimiento de rotación del punto, verás sólo un color, el rosa. Si miras la cruz negra del centro, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: center;"><a href="/wp-content/uploads/2006/02/efecto.gif"><img class="size-full wp-image-687 aligncenter" title="Ilusión óptica" src="/wp-content/uploads/2006/02/efecto.gif" alt="" width="467" height="467" srcset="/wp-content/uploads/2006/02/efecto.gif 467w, /wp-content/uploads/2006/02/efecto-150x150.gif 150w, /wp-content/uploads/2006/02/efecto-300x300.gif 300w" sizes="(max-width: 467px) 100vw, 467px" /></a></p>
+<p class="bodytext">Esta imagen me ha llegado por correo y me ha sorprendido. Entra dentro del grupo de <a href="/2005/04/06/imagenes-curiosas/trackback/">ilusiones ópticas que ya comentaba en otra noticia</a>. Os dejo con las instrucciones de uso:</p>
+<ol>
+<li>Si sigues con los ojos el movimiento de rotación del punto, verás sólo un color, el rosa.</li>
+<li>Si miras la cruz negra del centro, el punto que se mueve se vuelve verde.</li>
+<li>Si te concentras unos segundos más en la cruz central todos los puntos desaparecen lentamente y sólo verás un punto verde dando vueltas.</li>
+</ol>
+<p class="bodytext">Realmente no hay ningún punto verde ni tampoco desaparece nada, esto se debe a un increíble funcionamiento del cerebro.</p>
+<p class="bodytext">
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

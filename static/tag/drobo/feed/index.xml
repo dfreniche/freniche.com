@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Drobo &#8211; freniche.com</title>
+	<atom:link href="/tag/drobo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Añadiendo un nuevo disco a mi Drobo</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/</link>
+		<comments>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/#comments</comments>
+		<pubDate>Sun, 12 Dec 2010 12:34:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Almacenamiento]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Drobo]]></category>
+
+		<guid isPermaLink="false">/?p=1315</guid>
+		<description><![CDATA[Mi Drobo 2ª generación (FW800/USB) tenía instalado hasta hace unos días tres discos duros: uno de 1,5 TB y dos de 500 GB. Todo fantástico, pero me quedaba una bahía libre en el Drobo y además, para llevar a cabo mi estrategia de copias de seguridad necesitaba bastante más espacio. Así que le he instalado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Mi <a href="/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/">Drobo</a> 2ª generación (FW800/USB) tenía instalado hasta hace unos días tres discos duros: uno de 1,5 TB y dos de 500 GB. Todo fantástico, pero me quedaba una bahía libre en el Drobo y además, para llevar a cabo <a href="/2010/10/03/mi-plan-de-backups/">mi estrategia de copias de seguridad</a> necesitaba bastante más espacio. Así que le he instalado otro disco de 1,5 TB, llegando a algo más de 2,3 TB de almacenamiento protegido, suficiente de momento para mis necesidades <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">He aprovechado para grabar este vídeo y subirlo a <a href="http://www.youtube.com/dfreniche">mi canal de YouTube</a>. Espero que os guste.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/YKrvAjfKdoE" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/YKrvAjfKdoE"></param></object></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Review de Drobo, hardware y software (Dashboard) en Español</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/</link>
+		<comments>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/#comments</comments>
+		<pubDate>Sun, 09 May 2010 19:03:14 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Drobo]]></category>
+		<category><![CDATA[PowerMac]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=982</guid>
+		<description><![CDATA[Después de muchas peticiones que me han llegado por diversos medios (Twitter, Youtube, esta web, &#8230;) al fin me he puesto y he cocinado, a la carrera, un vídeo en el que muestro cómo es el hardware de mi Drobo 2ª edición (con Firewire 800, sin Ethernet) y cómo funciona el software que lo controla. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Después de muchas peticiones que me han llegado por diversos medios (Twitter, Youtube, esta web, &#8230;) al fin me he puesto y he cocinado, a la carrera, un vídeo en el que muestro cómo es el hardware de mi Drobo 2ª edición (con Firewire 800, sin Ethernet) y cómo funciona el software que lo controla.</p>
+<p style="text-align: justify;">Comento un poco cómo lo utilizo, principalmente para hacer copias de seguridad y guardar los datos principales que no puedo perder: mis fotos, los vídeos, el código fuente, etc. Falta por hacer una segunda parte con VMWare «tirando» del Drobo desde mi Macbook Pro.</p>
+<p style="text-align: justify;">Espero que os guste y espero vuestras sugerencias, como siempre, en los comentarios.</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/UzAyNhmmHTg" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/UzAyNhmmHTg"></param></object></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Cómo recuperar los datos tras un rm -rf en Mac OS X</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/</link>
+		<comments>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/#comments</comments>
+		<pubDate>Mon, 15 Mar 2010 13:05:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Drobo]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=904</guid>
+		<description><![CDATA[O tras un rm -rf en Linux (p.ej. Ubuntu) o tras enviar algo a la papelera y vaciarla, ya sea en Windows o en Mac. Hola. Si has llegado a este post desde un buscador, desesperado por recuperar tus datos, sólo tres puntos a considerar: respira y relájate. El daño ya está hecho. Con la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<address><a href="http://www.flickr.com/photos/32911813@N00/2305786359"><img class="aligncenter" title="Pulsa para ver el autor de la foto, en Flickr" src="http://farm4.static.flickr.com/3156/2305786359_ee9698e7b1.jpg" alt="" width="500" height="336" /></a></address>
+<address>O tras un rm -rf en Linux (p.ej. Ubuntu) o tras enviar algo a la papelera y vaciarla, ya sea en Windows o en Mac.</address>
+<p>Hola. Si has llegado a este post desde un buscador, desesperado por recuperar tus datos, sólo tres puntos a considerar:</p>
+<ul>
+<li><strong>respira y relájate</strong>. El daño ya está hecho. Con la cabeza en su sitio recuperarás lo que puedas sin ahondar aún más en el desastre</li>
+<li>no vayas a enfadarte conmigo si lo que aquí pongo no te funciona. Te puedo aclarar dudas, pero no hacer milagros. Recuerda que quien vació la papelera no fui yo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>lee la receta que viene a continuación, aplícala, y si recuperas tus datos dame las gracias en un comentario, contándome tu experiencia. ¡Ánimo!</li>
+</ul>
+<p>Al resto, a los que (todavía) no habéis metido la pata, tras la receta contaré cómo metí la pata y mi historia de recuperación de datos. ¡Sí, otra batallita!</p>
+<h2>Cómo recuperar los datos tras el rm -rf</h2>
+<ol>
+<li style="text-align: justify;"><strong>No borres nada más, no toques el ordenador, no instales nada</strong>. Cuanto más utilices el disco duro, más datos se leerán de el, pero también se grabarán. Los ficheros que has borrado <em>están aún en tu disco duro</em> y probablemente los puedas recuperar. Pero si te pones a grabar cosas, la probabilidad de que uno de los bloques ocupados por tus archivos se sobreescriba crece y crece. <strong>Si puedes</strong> (y sabes que tu ordenador arrancará luego), <strong>apaga el ordenador y lee esto desde otro</strong>.</li>
+<li style="text-align: justify;">Si has borrado parte del S.O., apagar el ordenador es el menor de tus males. Siempre puedes arrancar con un disco live de Ubuntu (o un USB arrancable de Windows, p.ej. creado con BartPE o de Mac OS X), copiar los datos en un disco USB / Firewire externo y reinstalar. Voy a suponer que has perdido ficheros de datos, y que el S.O. está OK.</li>
+<li><strong>Herramientas</strong> que necesitas:
+<ol>
+<li><strong>Un disco externo</strong> donde guardar la información que vas a recuperar, con suficiente espacio libre. Si tienes uno lleno de películas bajadas de Internet, las borras que siempre podrás bajarlas de nuevo y haces sitio. Lo primero es lo primero.</li>
+<li>El <strong>excelente</strong> programa <a href="http://www.cgsecurity.org/wiki/PhotoRec">PhotoRec</a>, utilidad de recuperación de datos para Linux, Mac, Windows y casi cualquier S.O. moderno.</li>
+<li>Paciencia, muuuucha paciencia. Recuperar los datos es un proceso muy largo (dependiendo del tamaño de los discos). Para que calcules, 200 GB tardaron más de 24 h.</li>
+<li>Opcional. Un disco de arranque externo USB en el que puedas instalar PhotoRec, para hacer la recuperación desde ese disco, leyendo el interno en el que has borrado, y grabando en otro disco USB que pinches para recibir los datos rescatados.</li>
+<li>Opcional. Una SAI si el equipo no es un portátil. No quiero imaginarme lo divertido que debe ser estar en medio de la recuperación y que se vaya la luz&#8230;</li>
+</ol>
+</li>
+<li style="text-align: justify;">¿Ya lo tienes todo? Arranca con tu disco externo o instala PhotoRec en el sistema a salvar, y ejecútalo. Lo debes lanzar desde una consola, mejor si tienes privilegios de administrador: cmd.exe en Windows, Terminal en Mac OS X, Gnome Terminal en Linux, etc. En el caso concreto de Mac está en una carpeta llamada Darwin dentro de la carpeta que se descomprime al bajar el fichero.</li>
+<li>Si no tienes privilegios de administrador, en Ubuntu Linux y Mac OS X se obtienen escribiendo en la consola: sudo su e introduciendo tu clave de inicio de sesión.</li>
+<li>Sí, es muy feo, es el típico programa de MS-DOS que corría sólo con modo texto. Pero ¿para qué lo quieres bonito? Lo que quieres son tus datos. Y es GPL. Luego coste cero. Todo el programa se maneja con las teclas de cursor y el Enter. Aquí no hay ratón que valga.<a href="/wp-content/uploads/2010/03/photorec.png"><img class="size-medium wp-image-912 aligncenter" title="Photorec" src="/wp-content/uploads/2010/03/photorec-300x229.png" alt="" width="300" height="229" srcset="/wp-content/uploads/2010/03/photorec-300x229.png 300w, /wp-content/uploads/2010/03/photorec.png 587w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>
+<li>Escoge el disco donde están los datos perdidos. En Windows te aparecerán las letras de unidad.</li>
+<li>A continuación hay que indicarle el tipo de tabla de particiones que tenemos. Normalmente Intel funcionará con Linux y Windows, EFI GPT con los Macs nuevos (con procesadores no PowerPC) y Mac con los macs PowerPC.</li>
+<li>Ahora podemos pasarle opciones sobre los ficheros que queremos recuperar (p.ej., para que sólo busque fotos, o sólo archivos comprimidos, etc.)</li>
+<li>Finalmente le indicamos el disco destino de la recuperación. <strong>Muy importante</strong>: que no sea el mismo desde el que recuperas. Puedes sobreescribir datos que estás intentando recuperar.<img class="alignright size-medium wp-image-911" title="Carpetas recuperadas" src="/wp-content/uploads/2010/03/carpetas-recup-300x189.png" alt="" width="300" height="189" srcset="/wp-content/uploads/2010/03/carpetas-recup-300x189.png 300w, /wp-content/uploads/2010/03/carpetas-recup.png 832w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+<li>Cuando termine la recuperación, tendrás un montón de carpetas, cada una con 500 ficheros. PhotoRec, va recuperando pero para no hacer los directorios muy largos, cuando llega a 500 para y crea una nueva carpeta. Los nombres de los ficheros se los va inventando.</li>
+<li>Ahora viene lo duro. Localizar tus ficheros. Yo te recomiendo que hagas búsquedas por tipo de fichero, por ejemplo, que busques todos los .MP3 que están en esas carpetas, o todos los .DOC, etc. Ir viendo una a una puede ser desesperante, ya que te encontrarás todo tipo de ficheros recuperados que probablemente sean basura para ti.</li>
+</ol>
+<h2>Mi experiencia (doble) con PhotoRec</h2>
+<p style="text-align: justify;">Por desgracia (o por suerte, nunca se sabe) he tenido que tratar con PhotoRec dos veces seguidas en un corto espacio de tiempo. La primera, tras lanzar un rm -rf donde no debía en Mac OS X y la segunda para recuperar las fotos de una tarjeta Memory Stick Pro Duo que no se podía leer. ¡Vamos con la primera experiencia!</p>
+<h3>Borrando donde no se debe en Mac OS X</h3>
+<p style="text-align: justify;">Mac OS X monta los volúmenes (particiones, discos externos, etc.) en una carpeta llamada /Volumes. En esta carpeta se monta, por ej., <a href="/2009/09/06/video-del-unboxing-de-mi-drobo-en-espanol/">mi Drobo</a>. Concretamente debe montarse en /Volumes/Drobo. Pero hay veces que se me olvida apagar el Drobo antes que el <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">PowerMac G5</a> al que está conectado y, por un fallo documentado esta carpeta no se borra. Resultado: en el siguiente arranque Drobo detecta que ya existe una carpeta con nombre Drobo y crea otra «Drobo 1». Y así hasta el infinito. Feo. No me gusta. Solución: borrar las carpetas «Drobo*» para que no se acumulen. Aquí en donde entra el rm -rf /Volumes/Drobo 1/, pero por causas que no acierto a concretar, escribí como rm -rf /Volumes/. Resultado: todos los discos conectados al Mac, preparados para ser exterminados. Todos. Los dos discos duros internos, los discos por red (Time Capsule). El Drobo no, porque antes de estas operaciones lo suelo apagar. Menos mal que fui rápido y sólo se borró el segundo disco duro interno del G5. Sólo. 200 GB a la basura.</p>
+<p>¿Y no tenías backup? Bueno, la mayoría del contenido era prescindible: cosas bajadas de Internet (que se vuelven a bajar). Pero había algunas películas de vídeo propias que no tenía pasadas a ningún sitio. ¡<em>Gosh</em>!. ¡La liamos!. Y aquí es donde ha entrado PhotoRec. He podido recuperar gran parte de los vídeos, que es lo que me interesaba. El resto ni lo he buscado. Y han aparecido fotos que habían estado en ese disco pero había borrado, MP3s, de todo. Es curioso cuando recuperas datos, las cosas que pueden llegar a aparecer.</p>
+<p>Al final la cosa no ha sido tan grave, pero necesito urgentemente un plan de backup (y probar los <a href="http://www.joelonsoftware.com/items/2009/12/14.html">restores</a>). A ver qué puedo organizar con lo que tengo (y, a lo mejor, ampliando un poco mi Drobo) y cuando lo tenga lo pondré por aquí.</p>
+<h3>Recuperar una tarjeta de memoria irrecuperable</h3>
+<p style="text-align: justify;">Una amiga me trajo una tarjeta, en teoría llena de fotos, pero que no era capaz de ver con la cámara. Le decía que debía formatearla. Un poco radical ¿no?. Así que decidí ayudarle: igual con mi PSP, o conectando la tarjeta al lector de MS Pro Duo de mi Dell Vostro 1510 la cosa mejorase. Pues no. No hay forma. No se puede leer la tarjeta. Varias máquinas, varios S.O. y misma respuesta.</p>
+<p style="text-align: justify;">¿Solución? Hacer lo que nos pide. Formatear la tarjeta y luego usar PhotoRec. A fin de cuentas, la mayoría de tarjetas de memoria vienen con formato FAT32, así que formatearlas no es más que escribir algunos bloques del inicio del disco. El resto se queda como está. De esta forma, PhotoRec (esta vez corriendo en Windows 7 Ultimate) recuperó un 1GB de fotos sin ningún problema.</p>
+<p><strong>¿Y tu experiencia? ¿Cómo te ha ido recuperando datos? ¿Qué herramientas has usado? ¡Compártelo en los comentarios!</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Almacenamiento &#8211; freniche.com</title>
+	<atom:link href="/tag/almacenamiento/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Añadiendo un nuevo disco a mi Drobo</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/</link>
+		<comments>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/#comments</comments>
+		<pubDate>Sun, 12 Dec 2010 12:34:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Almacenamiento]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Drobo]]></category>
+
+		<guid isPermaLink="false">/?p=1315</guid>
+		<description><![CDATA[Mi Drobo 2ª generación (FW800/USB) tenía instalado hasta hace unos días tres discos duros: uno de 1,5 TB y dos de 500 GB. Todo fantástico, pero me quedaba una bahía libre en el Drobo y además, para llevar a cabo mi estrategia de copias de seguridad necesitaba bastante más espacio. Así que le he instalado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Mi <a href="/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/">Drobo</a> 2ª generación (FW800/USB) tenía instalado hasta hace unos días tres discos duros: uno de 1,5 TB y dos de 500 GB. Todo fantástico, pero me quedaba una bahía libre en el Drobo y además, para llevar a cabo <a href="/2010/10/03/mi-plan-de-backups/">mi estrategia de copias de seguridad</a> necesitaba bastante más espacio. Así que le he instalado otro disco de 1,5 TB, llegando a algo más de 2,3 TB de almacenamiento protegido, suficiente de momento para mis necesidades <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">He aprovechado para grabar este vídeo y subirlo a <a href="http://www.youtube.com/dfreniche">mi canal de YouTube</a>. Espero que os guste.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/YKrvAjfKdoE" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/YKrvAjfKdoE"></param></object></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+	</channel>
+</rss>

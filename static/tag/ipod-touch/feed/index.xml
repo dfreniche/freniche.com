@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ipod touch &#8211; freniche.com</title>
+	<atom:link href="/tag/ipod-touch/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cosas que me traje de las Apple Stores de NYC</title>
+		<link>/2010/01/11/cosas-que-me-traje-de-las-apple-stores-de-nyc/</link>
+		<comments>/2010/01/11/cosas-que-me-traje-de-las-apple-stores-de-nyc/#comments</comments>
+		<pubDate>Mon, 11 Jan 2010 22:09:49 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[compras]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[ipod touch]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Mophie]]></category>
+		<category><![CDATA[NYC]]></category>
+		<category><![CDATA[reviews]]></category>
+
+		<guid isPermaLink="false">/?p=560</guid>
+		<description><![CDATA[En este comentario Antonio se interesaba por saber qué había comprado en NYC. Lo típico: ropa, zapatos (pero eso no interesa en este blog) y chismes. Tampoco nada espectacular (no me cabía en la maleta un Mac Pro), pero cuando llegué grabé un pequeño vídeo que he subido ahora a YouTube, en mi canal de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">En <a href="/wp-admin/edit-comments.php?p=518">este comentario</a> <a href="http://antoniosanchez.wordpress.com/">Antonio</a> se interesaba por saber qué había comprado en NYC. Lo típico: ropa, zapatos (pero eso no interesa en este blog) y chismes. Tampoco nada espectacular (no me cabía en la maleta un Mac Pro), pero cuando llegué grabé un pequeño vídeo que he subido ahora a YouTube, en <a href="http://www.youtube.com/dfreniche">mi canal de vídeos de dfreniche</a>.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/H0orbTBo8O8" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/H0orbTBo8O8"></param></object></div>
+</div>
+<p style="text-align: justify;">Es cortito y además de ir mostrando todo lo que me he traído hago una mini-review de la batería / funda Mophie Juice Pack, con la que estoy súper contento. Si alguien tiene alguna duda sobre los chismes que muestro, ya sabéis: ¡comentad, malditos!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/11/cosas-que-me-traje-de-las-apple-stores-de-nyc/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

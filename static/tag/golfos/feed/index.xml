@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>golfos &#8211; freniche.com</title>
+	<atom:link href="/tag/golfos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>La gran golfada de Samsung</title>
+		<link>/2014/06/16/la-gran-golfada-de-samsung/</link>
+		<comments>/2014/06/16/la-gran-golfada-de-samsung/#comments</comments>
+		<pubDate>Mon, 16 Jun 2014 15:39:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[caraduras]]></category>
+		<category><![CDATA[golfos]]></category>
+		<category><![CDATA[Impresora]]></category>
+		<category><![CDATA[Konver]]></category>
+		<category><![CDATA[Sansung]]></category>
+
+		<guid isPermaLink="false">/?p=2198</guid>
+		<description><![CDATA[Pese a que la mayoría de mis ordenadores son Macs estos días (aunque también tengo y uso mi viejo Dell Inspiron 9400 y un ThinkPad X61, en el que estoy escribiendo esto ahora mismo) soy un entusiasta de la tecnología en general. Esto me lleva a tener chismes de varias marcas, colores y tamaños. En [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Pese a que la mayoría de mis ordenadores son Macs estos días (aunque también tengo y uso mi viejo Dell Inspiron 9400 y un ThinkPad X61, en el que estoy escribiendo esto ahora mismo) soy un entusiasta de la tecnología en general. Esto me lleva a tener <em>chismes</em> de varias marcas, colores y tamaños. En cuestión de impresoras siempre he tenido una Samsung.</p>
+<p>La primera que tuve, una ML1510, LASER monocromo, no hacía nada más que imprimir. Ni nada menos. Ni inalámbrica, ni colores, ni escáner, ni nada de nada. Pero funcionaba. La compré nueva, muy bien de precio, hace un montón de años. Hoy en día imprimo pocas cosas: las facturas y algunos documentos para la gestoría que me lleva las cuentas, dibujos para que mis hijos coloreen y algún que otro documento. Así que, por mí, la hubiera usado hasta el infinito y más allá. Pero empezó a dar problemas mecánicos. Se atascaba siempre. Y era frustrante intentar imprimir algo. No podía. Así que la regalé, junto con un cartucho nuevo de tóner, a un compañero de la <a href="http://nscoder-sev.tumblr.com/">NSCoder Night de Sevilla</a>. Y me compré una nueva.</p>
+<p>En esta ocasión, entre las más baratas busqué una Samsung que tuviera escáner, por aquello de poder digitalizar documentos. Y porque si la anterior Samsung me había ido bien, para qué cambiar. Así que me hice por poco más de 100 Eur. con una Samsung SCX-3400. Es impresora y también escáner. De paso, es <em>fotocopiadora</em> (es decir, que escanea cosas y las imprime <em>sin</em> tu ordenador de por medio, de forma autónoma). Venía con un cartucho, que estaba seguro iba a durar poco, pero dado que imprimo también poco, no había problema.</p>
+<p>Efectivamente, al año el cartucho empezó a avisarme de que se terminaba. Sin problemas, compremos uno nuevo. No se lo que habré imprimido en este año, pero ya sabíamos que el primer cartucho viene medio vacío. Miro los precios y me encuentro con que un cartucho nuevo, original de Samsung cuesta casi tanto como la impresora. ¿Cómo? Esa era la táctica que empleaban con las impresoras de chorro de tinta, pero no lo había visto con las LASER baratas. Supongo que como son para consumidores, han adaptado la técnica a los nuevos tiempos.</p>
+<p>Pues me niego. Busqué en Amazon y encontré cartuchos compatibles Samsung en venta por un precio más que razonable. Había visto vídeos en Youtube mostrando cómo recargar tu propio cartucho con tóner, pero me parecía un follón y tampoco me ahorraba tanto, así que preferí ir a lo seguro (que alguien que lo sepa rellenar lo rellene) y pedí el compatible a <a href="http://www.amazon.es/gp/node/index.html?ie=UTF8&amp;marketplaceID=A1RKKUPIHCS9HS&amp;me=A0826674ZOJLM6I8IWO4&amp;merchant=A0826674ZOJLM6I8IWO4&amp;redirect=true">KONVER, Distribuciones Informáticas</a>, que vende en la tienda de Amazon. Llegó enseguida, lo instalé en la impresora y durante unas semanas, todo fue perfecto.</p>
+<h2>Mi impresora ha muerto</h2>
+<p>De pronto, un día, enciendo la impresora, la conecto por USB al iMac y lanzo un par de páginas para que se impriman. Sigo con mis cosas sin darme cuenta de que la impresora no imprime. Tiene una luz roja. Vaya, debe ser un atasco. La miro, pero no. En el iMac hay un aviso de error. La impresora dice que no tiene tóner. Pero eso no puede ser, ¿no?. A fin de cuentas se lo he cambiado hace nada&#8230;</p>
+<p>Apago la impresora, vuelvo a encenderla&#8230; Nada. Cambio el cable USB&#8230; Nada. Empiezo a preocuparme y miro por Internet a ver si alguien ha tenido problemas similares y&#8230; ¡bingo! Docenas de problemas iguales. Veo vídeos por Youtube, leo en foros. Voy aprendiendo. Instalo los drivers y el software de Samsung en el Windows 8 que está en mi iMac en Bootcamp, por si puedo obtener más información&#8230; Nada de nada. Me desespero: cambio el cartucho para probar con el original, que está vacío y da error de tóner. Pero el nuevo lo mismo. Y lo peor es que, aunque esté <em>rellenado</em> es un cartucho Samsung <em>pata negra</em>.</p>
+<h2>El problema</h2>
+<p>Samsung ha decidido que puedes comprar cartuchos de tóner, pero sólo a ellos. Así que ha puesto un chip en cada cartucho. En ese chip hay un contador de páginas impresas. Cuando llegas a la «vida útil» que ellos estiman (o te imponen) que debe tener un cartucho se acabó. La impresora lee ese contador y te impide imprimir. La excusa de Samsung para hacer ésto: que de esa manera <em>te pueden avisar con su software y así puedes cambiar el tóner a tiempo</em>. Vamos, que tú no estás capacitado para saber cuándo está bajo el tóner: esos grises que no aparecen, la mala calidad, etc. no son una pista. No, te lo tiene que indicar un software que, curiosamente, te pone un enlace en un sitio prominente para que compres sus recambios en su tienda.</p>
+<p>Que no se me entienda mal. No me parece mal que Samsung quiera vender sus cartuchos. E incluso que pongan el enlace a su tienda puede ayudar al que no sepa dónde comprar (aunque lo dudo). Lo que me parece una golfada absoluta es que pongan un contador de páginas <em>en el cartucho</em> en lugar de <em>en la impresora</em>. Desde la impresora te podrían indicar perfectamente: <em>«lleva usted impresas 1.500 páginas desde el último cambio de cartucho y pensamos que es hora de que lo cambies. Si empiezas a imprimir y te da asco lo que ves, que conste que no se te ha roto la impresora: es que eres un tacaño».</em></p>
+<h2>La solución</h2>
+<p>Pasa por resetear el contador del cartucho. Es decir, borrar el chip del cartucho y ponerlo a cero, como si fuera nuevo, lo cual, si has rellenado el cartucho con tóner nuevo se aproxima bastante a la realidad. Por Internet vi que había gente que vendía programas para hacerlo, pero ante la duda en si gastarme otros 12 USD para arreglar un cartucho que debía venir bien, me puse en contacto con Konver a través del formulario de Amazon. Les conté mi odisea y les pregunté qué podía hacer. Bien, <em>no sólo me respondieron súper rápido, sino que me dieron la solución a mi cartucho</em>. Me proporcionaron un programa (<em>sorry, no lo voy a pasar, contacta con tu distribuidor, ese no es mi departamento</em>) con el que borrar el cartucho. No puedo dejar de estarles súper agradecido. Hay momentos en los que ya no sabes qué pasa y que te solucionen un problema así te alegra el día. Aquí tienen a un cliente de por vida.</p>
+<p>El caso es que para resetear el cartucho tuve que lanzar un programa desde Windows (en este caso, desde mi ThinkPad x61) y <em>flashear</em> la memoria del cartucho. Conectado por USB le <em>subí</em> un programa a la impresora.</p>
+<p><a href="/wp-content/uploads/2014/06/uploading_toner_bios-e1402932822448.jpg"><img src="/wp-content/uploads/2014/06/uploading_toner_bios-e1402932822448.jpg" alt="Mi impresora mientras borro el contador" width="1024" height="768" class="aligncenter size-full wp-image-2201" /></a></p>
+<p>Sí, he grabado la memoria de <em>un cartucho de tóner</em>. Lo siguiente va a ser actualizar el firmware de la tostadora&#8230;</p>
+<p>Pues ¡milagro!. Una vez borrado el contador de los golfos estos, listo. La impresora me reconoce el cartucho reciclado (que es de Samsung, insisto) como nuevo, hay luz verde y la vida es bella.</p>
+<h2>Conclusiones</h2>
+<p>Entiendo que Samsung quiera vender cartuchos y quiera traer ese modelo de negocio en el que los consumibles son más caros que la máquina que los consume. Están en su derecho. Pero eso se avisa. Se indica claramente: <em>cada cartucho es de un solo uso y no puede reutilizarse</em>. Y con esa información <strong>y mi dinero</strong> tomo una decisión informada de compra. Encontrarte esto cuando ya has comprado la impresora te cabrea, y no es una buena técnica, ya que encima se puede saltar fácilmente. Y sólo queda el cabreo.</p>
+<p>Ni que hablar de lo anti-ecológico y carísimo que es andar tirando cartuchos de tóner. O del desprecio al usuario, al que se trata por tonto. Mal hecho, Samsung. No hay galleta.</p>
+<p>No puedo dejar de pensar en qué pasaría si estas cositas las hicieran Microsoft o Apple&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/16/la-gran-golfada-de-samsung/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+	</channel>
+</rss>

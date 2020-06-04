@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Crear un sitio web WordPress con una máquina virtual local</title>
+	<atom:link href="/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/comment-page-1/#comment-23536</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2011 12:19:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1466#comment-23536</guid>
+		<description><![CDATA[Gracias por la información. Siempre es interesante disponer de un MAMP alternativo (en mi caso)
+
+Aunque, por limpieza, y porque uso VMWare desde siempre, la mejor opción es vuestra máquina virtual: el proceso se asemeja más a trabajar con un proveedor de hosting, y no queda instalado nada que uno no quiera
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Gracias por la información. Siempre es interesante disponer de un MAMP alternativo (en mi caso)</p>
+<p>Aunque, por limpieza, y porque uso VMWare desde siempre, la mejor opción es vuestra máquina virtual: el proceso se asemeja más a trabajar con un proveedor de hosting, y no queda instalado nada que uno no quiera</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Santiago</title>
+		<link>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/comment-page-1/#comment-23530</link>
+		<dc:creator><![CDATA[Santiago]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2011 11:20:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1466#comment-23530</guid>
+		<description><![CDATA[Hola,
+
+Interesante artículo. :)
+
+Quería comentarte que en BitNami ( bitnami.org ) también tienes la opción de descargarte BitNami MAMPStack (nuestra opción de MAMP) , para usarlo como infraestructura, y luego instalar sólo el módulo de BitNami de WordPress. Y todos los módulos (o sea, instaladores de aplicaciones) que desees, de nuestro catálogo de instaladores gratuitos. Una clara ventaja sería que al final es menos memoria en disco, si instalas varias BitNami Stacks. A un cierto número usuarios les merece más la pena la stack (instalador) con todo incluido, depende del caso.
+
+También puedes probar nuestros otros instaladores de infraestructura base: LAMPStack, WAMPStack, etc.
+
+Quisiera mencionaros de paso, que acabamos de lanzar las primeras versiones en castellano de algunos de nuestros instaladores. De momento están disponibles en castellano las stacks de WordPress, Drupal, Joomla y Redmine.
+
+Un saludo,
+
+&lt;a href=&quot;http://www.bitnami.org&quot;/ rel=&quot;nofollow&quot;&gt;BitNami&lt;/a&gt;]]></description>
+		<content:encoded><![CDATA[<p>Hola,</p>
+<p>Interesante artículo. 🙂</p>
+<p>Quería comentarte que en BitNami ( bitnami.org ) también tienes la opción de descargarte BitNami MAMPStack (nuestra opción de MAMP) , para usarlo como infraestructura, y luego instalar sólo el módulo de BitNami de WordPress. Y todos los módulos (o sea, instaladores de aplicaciones) que desees, de nuestro catálogo de instaladores gratuitos. Una clara ventaja sería que al final es menos memoria en disco, si instalas varias BitNami Stacks. A un cierto número usuarios les merece más la pena la stack (instalador) con todo incluido, depende del caso.</p>
+<p>También puedes probar nuestros otros instaladores de infraestructura base: LAMPStack, WAMPStack, etc.</p>
+<p>Quisiera mencionaros de paso, que acabamos de lanzar las primeras versiones en castellano de algunos de nuestros instaladores. De momento están disponibles en castellano las stacks de WordPress, Drupal, Joomla y Redmine.</p>
+<p>Un saludo,</p>
+<p><a href="http://www.bitnami.org/" rel="nofollow">BitNami</a></p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jose</title>
+		<link>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/comment-page-1/#comment-13546</link>
+		<dc:creator><![CDATA[Jose]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2011 10:48:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1466#comment-13546</guid>
+		<description><![CDATA[No me pongas excusas, a ti te gusta cacharrear y punto XDDD
+
+De todas formas, por si le quieres echar un ojo, MAMP te trae ya el Apache, el PHP y el MySQL (con phpMyAdmin) ya listos para usar, pero no te &quot;instala&quot; nada, cuando arrancas la app, arranca esos servicios que trae internamente, y cuando la cierras, desaparecen, sin tocar para nada el sistema. Por eso te decia que es una solución igual de limpia que la VM.
+
+Por cierto, LAMP ya es historia, ahora la que mola es node.js :D]]></description>
+		<content:encoded><![CDATA[<p>No me pongas excusas, a ti te gusta cacharrear y punto XDDD</p>
+<p>De todas formas, por si le quieres echar un ojo, MAMP te trae ya el Apache, el PHP y el MySQL (con phpMyAdmin) ya listos para usar, pero no te «instala» nada, cuando arrancas la app, arranca esos servicios que trae internamente, y cuando la cierras, desaparecen, sin tocar para nada el sistema. Por eso te decia que es una solución igual de limpia que la VM.</p>
+<p>Por cierto, LAMP ya es historia, ahora la que mola es node.js 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/comment-page-1/#comment-13544</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2011 10:42:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1466#comment-13544</guid>
+		<description><![CDATA[Parafraseando al Gran Wyoming: &quot;¿Para qué vivir tranquilos pudiendo vivir crispados?&quot;. Se unen varias cosas para que use todo esto:
+1. no conocía MAMP. Gracias por educarme :-)
+2. prefiero no tener esas cosas &quot;de probar&quot; instaladas en mi máquina, me resulta más limpio la máquina virtual
+3. la máquina de bitnami ya lo trae todo, el WP, el PhpMyAdmin, etc.
+4. aunque escrito resulta farragoso, ya sabes que para el que es un bicho de Terminal no es tan complicado hacer un par de scp. Bueno, vale, es farragoso, pero me gusta cacharrear :-)
+En fin, que seguro que tienes razón. Pero es que VMWare es tan mono...]]></description>
+		<content:encoded><![CDATA[<p>Parafraseando al Gran Wyoming: «¿Para qué vivir tranquilos pudiendo vivir crispados?». Se unen varias cosas para que use todo esto:<br />
+1. no conocía MAMP. Gracias por educarme 🙂<br />
+2. prefiero no tener esas cosas «de probar» instaladas en mi máquina, me resulta más limpio la máquina virtual<br />
+3. la máquina de bitnami ya lo trae todo, el WP, el PhpMyAdmin, etc.<br />
+4. aunque escrito resulta farragoso, ya sabes que para el que es un bicho de Terminal no es tan complicado hacer un par de scp. Bueno, vale, es farragoso, pero me gusta cacharrear 🙂<br />
+En fin, que seguro que tienes razón. Pero es que VMWare es tan mono&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jose</title>
+		<link>/2011/04/13/crear-un-sitio-web-wordpress-con-una-maquina-virtual-local/comment-page-1/#comment-13543</link>
+		<dc:creator><![CDATA[Jose]]></dc:creator>
+		<pubDate>Fri, 15 Apr 2011 10:32:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1466#comment-13543</guid>
+		<description><![CDATA[Pregunta capciosa : ¿No es mas sencillo hacer todo esto con MAMP? Asi te ahorras el overhead de la máquina virtual, y es una solución igual de limpia. Cuando tengo que hacer cosas en PHP, probar algo en WP o similar, es lo que uso y va perfectamente.]]></description>
+		<content:encoded><![CDATA[<p>Pregunta capciosa : ¿No es mas sencillo hacer todo esto con MAMP? Asi te ahorras el overhead de la máquina virtual, y es una solución igual de limpia. Cuando tengo que hacer cosas en PHP, probar algo en WP o similar, es lo que uso y va perfectamente.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
