@@ -47,12 +47,12 @@ paginate = 10
       [[languages.en.menu.main]]
         identifier = "about"
         name = "About"
-        url = "/about/index.html"
+        url = "/new-about/index.html"
         weight = 1
 
       [[languages.en.menu.main]]
         identifier = "old_blog"
-        name = "My old blog"
+        name = "My old blog 🇪🇸"
         url = "/oldindex.html"
 
       [[languages.en.menu.main]]
