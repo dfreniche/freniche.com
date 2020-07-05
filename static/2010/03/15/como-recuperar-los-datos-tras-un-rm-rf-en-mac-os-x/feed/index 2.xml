@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Cómo recuperar los datos tras un rm -rf en Mac OS X</title>
+	<atom:link href="/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-39930</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 10 Apr 2012 07:38:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-39930</guid>
+		<description><![CDATA[Vaya! Igual soy un poco cruel, pero es un poco de chiste lo que te ha pasado :-D. También es casualidad que coincidieran los nombres de las carpetas :-D
+
+¿Ha sido en Linux o en Mac? Si es en Mac, hay herramientas más potentes, como TechTool Pro 6. Igual te merece la pena gastarte los 40 y tantos Eur. Ahorras tiempo, solucionas el problema y la App es tuya: la borras y ya la tienes para siempre. Merece la pena.
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Vaya! Igual soy un poco cruel, pero es un poco de chiste lo que te ha pasado :-D. También es casualidad que coincidieran los nombres de las carpetas 😀</p>
+<p>¿Ha sido en Linux o en Mac? Si es en Mac, hay herramientas más potentes, como TechTool Pro 6. Igual te merece la pena gastarte los 40 y tantos Eur. Ahorras tiempo, solucionas el problema y la App es tuya: la borras y ya la tienes para siempre. Merece la pena.</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Kante0</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-39823</link>
+		<dc:creator><![CDATA[Kante0]]></dc:creator>
+		<pubDate>Mon, 09 Apr 2012 13:39:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-39823</guid>
+		<description><![CDATA[Weno, en primer lugar muchas gracias por el post y la información tan amigable.
+
+En mi caso, se me ocurrio ejecutar un rm -rf sobre una carpeta que el nombre contenia un espacio.
+
+Para colmo tenia otra carpeta igual que la primera palabra de la otra, con lo que al ejecutar: rm -rf pepito madrid, en vez de borrar la carpeta &#039;pepito madrid&#039; me borro pepito.
+
+Estoy intentando recuperar cosas, pero encima son del trabajo y no es tan facil (o eso creo yo) como imagenes y videos, ya que son txt y html. Me intento ver uno a uno intentan ver si encuentro lo que busco.
+
+Encima mi último día en esa empresa, que kante0 :)]]></description>
+		<content:encoded><![CDATA[<p>Weno, en primer lugar muchas gracias por el post y la información tan amigable.</p>
+<p>En mi caso, se me ocurrio ejecutar un rm -rf sobre una carpeta que el nombre contenia un espacio.</p>
+<p>Para colmo tenia otra carpeta igual que la primera palabra de la otra, con lo que al ejecutar: rm -rf pepito madrid, en vez de borrar la carpeta &#8216;pepito madrid&#8217; me borro pepito.</p>
+<p>Estoy intentando recuperar cosas, pero encima son del trabajo y no es tan facil (o eso creo yo) como imagenes y videos, ya que son txt y html. Me intento ver uno a uno intentan ver si encuentro lo que busco.</p>
+<p>Encima mi último día en esa empresa, que kante0 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-8805</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 18 Nov 2010 09:22:35 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-8805</guid>
+		<description><![CDATA[Hola, Oscar
+Cuando dices que has formateado el disco duro a cero, ¿quieres decir que has sobreescrito cada bloque con ceros, para mayor seguridad?. Un formateo normal es como quitarle a un libro el índice: los datos siguen ahí, pero no sabemos dónde empiezan los capítulos, párrafos, etc. Software como Photorec puede reconstruir esos capítulos, especialmente si no hemos sobreescrito nada después del &quot;desastre&quot;. Pero aún en el caso de una puesta a cero se puede recuperar información. 
+
+Prueba con PhotoRec, te sorprenderá a) lo que tarda y b) que puedes recuperar esos vídeos.
+
+Además, para acelerar la búsqueda le puedes decir a PhotoRec que sólo recupere archivos de un tipo determinado. Míralo porque puede ser la solución. Y si no, siempre hay servicios profesionales de recuperación de datos. Depende de lo que valores esos vídeos.
+
+¡Suerte!]]></description>
+		<content:encoded><![CDATA[<p>Hola, Oscar<br />
+Cuando dices que has formateado el disco duro a cero, ¿quieres decir que has sobreescrito cada bloque con ceros, para mayor seguridad?. Un formateo normal es como quitarle a un libro el índice: los datos siguen ahí, pero no sabemos dónde empiezan los capítulos, párrafos, etc. Software como Photorec puede reconstruir esos capítulos, especialmente si no hemos sobreescrito nada después del «desastre». Pero aún en el caso de una puesta a cero se puede recuperar información. </p>
+<p>Prueba con PhotoRec, te sorprenderá a) lo que tarda y b) que puedes recuperar esos vídeos.</p>
+<p>Además, para acelerar la búsqueda le puedes decir a PhotoRec que sólo recupere archivos de un tipo determinado. Míralo porque puede ser la solución. Y si no, siempre hay servicios profesionales de recuperación de datos. Depende de lo que valores esos vídeos.</p>
+<p>¡Suerte!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: oscar</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-8795</link>
+		<dc:creator><![CDATA[oscar]]></dc:creator>
+		<pubDate>Wed, 17 Nov 2010 20:55:40 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-8795</guid>
+		<description><![CDATA[Buen dia josé
+
+Tuve que formatear la unidad y olvidé unos videos de unas conferencias.
+Ha intentado recuperar archivos despues de formatear el disco duro a datos a cero?
+Quedo pendiente.]]></description>
+		<content:encoded><![CDATA[<p>Buen dia josé</p>
+<p>Tuve que formatear la unidad y olvidé unos videos de unas conferencias.<br />
+Ha intentado recuperar archivos despues de formatear el disco duro a datos a cero?<br />
+Quedo pendiente.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-3646</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2010 08:00:14 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-3646</guid>
+		<description><![CDATA[@luismedel
+Es cierto. A un informático le dices &quot;rm -rf&quot; y casi seguro un escalofrío le recorre la espina dorsal...
+Es que estas cosas nos pasan a los que trasteamos :-)
+Con la tarjeta de memoria he tenido suerte: el fallo parece que era de la tabla de particiones. Pero hay veces que se cascan, y no hay manera.
+Lo mejor, desde luego, es tener una copia offsite y varias onsite. El problema es el coste y el tamaño de los datos a subir, porque desde luego, mientras nuestras ADSLs sigan siendo tan asimétricas así no hay quien suba nada... Yo me estoy planteando subir las fotos a SkyDrive, de Windows Live. 25 GB gratis tampoco son para desperdiciarlos.
+¿Porqué no se deja Google de Buzzes y Waves y hace lo que todo el mundo lleva 10 años pidiendo: GDrive?]]></description>
+		<content:encoded><![CDATA[<p>@luismedel<br />
+Es cierto. A un informático le dices «rm -rf» y casi seguro un escalofrío le recorre la espina dorsal&#8230;<br />
+Es que estas cosas nos pasan a los que trasteamos 🙂<br />
+Con la tarjeta de memoria he tenido suerte: el fallo parece que era de la tabla de particiones. Pero hay veces que se cascan, y no hay manera.<br />
+Lo mejor, desde luego, es tener una copia offsite y varias onsite. El problema es el coste y el tamaño de los datos a subir, porque desde luego, mientras nuestras ADSLs sigan siendo tan asimétricas así no hay quien suba nada&#8230; Yo me estoy planteando subir las fotos a SkyDrive, de Windows Live. 25 GB gratis tampoco son para desperdiciarlos.<br />
+¿Porqué no se deja Google de Buzzes y Waves y hace lo que todo el mundo lleva 10 años pidiendo: GDrive?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-3645</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 16 Mar 2010 07:54:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-3645</guid>
+		<description><![CDATA[@jose
+Ja,ja,ja! Mucha tela para mí, me parece ya! Aunque alguna vez he intentado un dd -if /dev/kmem -of /dev/floppy :-). Eran otros tiempos, e igual que ahora en Twitter todo lo que digas debe caber en 140 caracteres, en esa época todo se medía en trozos de 1.44 MB
+Saludos!]]></description>
+		<content:encoded><![CDATA[<p>@jose<br />
+Ja,ja,ja! Mucha tela para mí, me parece ya! Aunque alguna vez he intentado un dd -if /dev/kmem -of /dev/floppy :-). Eran otros tiempos, e igual que ahora en Twitter todo lo que digas debe caber en 140 caracteres, en esa época todo se medía en trozos de 1.44 MB<br />
+Saludos!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jose Hernandez</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-3643</link>
+		<dc:creator><![CDATA[Jose Hernandez]]></dc:creator>
+		<pubDate>Mon, 15 Mar 2010 23:41:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-3643</guid>
+		<description><![CDATA[¿Que tal todo? Muy interesante el photoRec.
+
+¿Pondrás para la proxima entrega como reguperar un &quot;cat /dev/urandon &#062; /dev/sda&quot; ?  :P
+
+Saludos]]></description>
+		<content:encoded><![CDATA[<p>¿Que tal todo? Muy interesante el photoRec.</p>
+<p>¿Pondrás para la proxima entrega como reguperar un «cat /dev/urandon &gt; /dev/sda» ?  😛</p>
+<p>Saludos</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-3642</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Mon, 15 Mar 2010 22:19:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-3642</guid>
+		<description><![CDATA[Le he dado a enviar antes de tiempo...
+
+¡Buena guía para tener guardada por ahí! ;)]]></description>
+		<content:encoded><![CDATA[<p>Le he dado a enviar antes de tiempo&#8230;</p>
+<p>¡Buena guía para tener guardada por ahí! 😉</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Luis Medel</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/comment-page-1/#comment-3641</link>
+		<dc:creator><![CDATA[Luis Medel]]></dc:creator>
+		<pubDate>Mon, 15 Mar 2010 22:17:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=904#comment-3641</guid>
+		<description><![CDATA[Uf, me ha dado repelús nada más leer el título de la entrada.
+
+Hace tiempo tuve que vérmelas con PhotoRec para recuperar las fotos de una SD dañada (en esta ocasión no funcionó).
+
+El tema del &quot;rm&quot; a discreción, me ocurrió...ehem...programando un script para hacer backups incrementales (menuda paradoja, eh?). Se me ocurrió probarlo *como root* en la máquina de desarrollo. Por un error en el código se lanzaba un rm a pelo y como lo lancé desde la raíz...zas! En toda la boca.
+
+Por cierto, casualidades de la vida, acabo de recuperar varios ficheros en mi cuenta de Dropbox que un virus en una máquina Windows dejó corruptos. Benditos 9 euros mensuales...  :)]]></description>
+		<content:encoded><![CDATA[<p>Uf, me ha dado repelús nada más leer el título de la entrada.</p>
+<p>Hace tiempo tuve que vérmelas con PhotoRec para recuperar las fotos de una SD dañada (en esta ocasión no funcionó).</p>
+<p>El tema del «rm» a discreción, me ocurrió&#8230;ehem&#8230;programando un script para hacer backups incrementales (menuda paradoja, eh?). Se me ocurrió probarlo *como root* en la máquina de desarrollo. Por un error en el código se lanzaba un rm a pelo y como lo lancé desde la raíz&#8230;zas! En toda la boca.</p>
+<p>Por cierto, casualidades de la vida, acabo de recuperar varios ficheros en mi cuenta de Dropbox que un virus en una máquina Windows dejó corruptos. Benditos 9 euros mensuales&#8230;  🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

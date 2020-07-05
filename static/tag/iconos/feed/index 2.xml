@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>iconos &#8211; freniche.com</title>
+	<atom:link href="/tag/iconos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Programadores del iPhone: iconos gratis para tus aplicaciones</title>
+		<link>/2010/05/19/programadores-del-iphone-iconos-gratis-para-tus-aplicaciones/</link>
+		<pubDate>Wed, 19 May 2010 11:02:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[iconos]]></category>
+
+		<guid isPermaLink="false">/?p=1004</guid>
+		<description><![CDATA[Los programadores / informáticos sólo vemos en 7 colores: los del arcoiris. Eso del «verde manzana» lo podemos entender, porque hay un objeto real al que referirnos para la analogía. El problema es cuando nos hablan del «blanco roto», el «beige» o cualquier otra cosa por el estilo. Por eso, alguna autoridad superior creó a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Los programadores / informáticos sólo vemos en 7 colores: los del arcoiris. Eso del «verde manzana» lo podemos entender, porque hay un objeto real al que referirnos para la analogía. El problema es cuando nos hablan del «blanco roto», el «beige» o cualquier otra cosa por el estilo. Por eso, alguna autoridad superior creó a los Diseñadores. Esta gente sí que entiende los colores, los <a href="http://es.wikipedia.org/wiki/Pantone">pantones</a>, los <a href="http://es.wikipedia.org/wiki/Modelo_de_color_CMYK">CMYK</a> y los programas de magia negra: Photoshop, InDesign, Inkscape, Gimp, Pixelmator, &#8230;</p>
+<p style="text-align: justify;">Este problema es más universal de lo que pensaba. En <a href="http://cocoaheads.be/wordpress/2009/09/free-and-paid-iphone-tabbar-and-toolbar-icons/">este post de Stefaan Lesage de Cocoheads Belgium</a> comenta en la introducción sus problemas con los iconos, que coinciden plenamente con los míos.</p>
+<p style="text-align: justify;">El caso es que, intentando hacer aplicaciones para el iPhone me he encontrado cara a cara con mis limitaciones: mis aplicaciones son, probablemente, las más feas que he visto en un dispositivo multitouch. Casi parecen de Blackberry&#8230; En fin, bromas aparte, me he lanzado a buscar iconos que se puedan utilizar libremente y que sean gratis para mis aplicaciones de iPhone. Estos no son iconos para personalizar tu iPhone, sino para hacer aplicaciones. Por supuesto, cualquiera que esté programando para Android encontrará aquí un recurso valioso.</p>
+<h1>Pixel Press Icons</h1>
+<div style="width: 470px" class="wp-caption aligncenter"><a href="http://www.pixelpressicons.com/?p=108"><img title="Iconos de PixelPress" src="http://www.pixelpressicons.com/images/P-freeiphone.png" alt="" width="460" height="481" /></a><p class="wp-caption-text">Pulsa para ir a la página del autor</p></div>
+<p style="text-align: justify;">Licencia: <a onclick="return TrackClick('http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby%2F2.5%2Fca%2F','Creative+Commons+Attribution+2.5+Canada+license')" href="http://creativecommons.org/licenses/by/2.5/ca/" target="_blank">Creative Commons Attribution 2.5 Canada license</a>. Se pueden usar libremente y modificar, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor)</p>
+<h1>App bits</h1>
+<p style="text-align: justify;">
+<p style="text-align: center;"><a href="http://app-bits.com/free-icons.html"><img class=" aligncenter" title="Iconos de App Bits" src="http://app-bits.com/assets/templates/app-bits/images/free_icons/freeicons_fullset.png" alt="" /></a></p>
+<p style="text-align: justify;">Licencia: Creative Commons Attribution-No Derivative Works 3.0 License. Se pueden usar libremente, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor). <strong>No se pueden modificar</strong></p>
+<h1><strong>Glyphish</strong></h1>
+<p style="text-align: center;"><a href="http://glyphish.com/"><img class=" aligncenter" title="Iconos Glyphish" src="http://glyphish.com/images/demo.png" alt="" /></a></p>
+<p style="text-align: justify;">Licencia: <a href="http://creativecommons.org/licenses/by/3.0/us/">Creative Commons Attribution</a>. Se pueden usar libremente y modificar, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor).</p>
+<h1>The Working Group</h1>
+<div style="width: 650px" class="wp-caption aligncenter"><a href="http://blog.twg.ca/2009/09/free-iphone-toolbar-icons/"><img title="Iconos The Working Group" src="http://blog.twg.ca/wp-content/uploads/2009/09/twg_iphone_icons_full1.jpg" alt="" width="640" height="1313" /></a><p class="wp-caption-text">Pulsa para ir a la página del autor</p></div>
+<p style="text-align: justify;">Licencia: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike license</a>. Se pueden usar libremente y modificar, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor)</p>
+<h1>Android Icons</h1>
+<p>Sí, ¿por qué no?. ¡Usemos los iconos, vengan de donde vengan, con tal de que sean bonitos! (y no contradigan las HIG de Apple)</p>
+<div style="width: 610px" class="wp-caption aligncenter"><a href="http://www.androidicons.com/"><img title="Android Icons" src="http://www.androidicons.com/images/set-menuicons.png" alt="" width="600" height="263" /></a><p class="wp-caption-text">Pulsa para ir a la página del autor</p></div>
+<p style="text-align: justify;">Licencia: <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share Alike license</a>. Se pueden usar libremente y modificar, para programas gratuitos y de pago, siempre que se indique de dónde proceden (el autor)</p>
+<h1>Exprimiendo las fuentes del sistema</h1>
+<p style="text-align: left;">Si necesitas más iconos, <a href="http://oleb.net/blog/2009/10/apple-symbols-font-repository-for-iphone-icons/#comment-1136">Ole Begemann nos muestra cómo sacar iconos de las fuentes de Apple</a>.</p>
+<h1>Y tú, ¿qué otros iconos libres / gratis conoces?</h1>
+<p style="text-align: justify;">Compártelos en los comentarios, e iré actualizando esta entrada. Así ayudarás a los programadores a crear aplicaciones más bonitas y recuerda: por cada conocimiento sobre iPhone que compartes, San Jobs, allá en el Cielo, esboza una sonrisa.</p>
+<h1>Actualización 21/05/2010</h1>
+<p style="text-align: justify;">Me he encontrado con los iconos de FamFamFam, varios grupos de iconos, con distintas licencias (Creative Commons unos y gratis para uso particular otros).</p>
+<p style="text-align: justify;">
+<div id="attachment_1011" style="width: 314px" class="wp-caption aligncenter"><a href="http://www.famfamfam.com/lab/icons/"><img class="size-full wp-image-1011 " title="FamFamFam" src="/wp-content/uploads/2010/05/flags_preview_large.png" alt="" width="304" height="609" /></a><p class="wp-caption-text">Pulsa para ir a la página del autor</p></div>
+<h1>Actualización 21/06/2010</h1>
+<p>Haciendo limpieza en mis notas de Evernote me he encontrado con esta dirección, que es una lista como esta, pero más grande <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><a href="http://www.maxpower.ca/free-icons/2006/03/05/">http://www.maxpower.ca/free-icons/2006/03/05/</a></p>
+<p style="text-align: center;">
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

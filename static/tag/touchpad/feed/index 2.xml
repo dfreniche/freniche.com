@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TouchPad &#8211; freniche.com</title>
+	<atom:link href="/tag/touchpad/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Instalar Android Ice Cream Sandwich en la HP TouchPad</title>
+		<link>/2012/08/20/instalar-android-ice-cream-sandwich-en-la-hp-touchpad/</link>
+		<pubDate>Mon, 20 Aug 2012 07:49:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[instalación]]></category>
+		<category><![CDATA[TouchPad]]></category>
+
+		<guid isPermaLink="false">/?p=1751</guid>
+		<description><![CDATA[Después de un tiempo usando CyanoGen Mod 7 (por abreviar, CM7, que es una ROM de Android en su versión 2.3) en la TouchPad me he decidido y he instalado CM9. Dista bastante de ser perfecta, pero a fin de cuentas la TP no se diseñó ni pensó para Android. Y viendo el estado comatoso [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Después de un tiempo usando CyanoGen Mod 7 (por abreviar, CM7, que es una ROM de Android en su versión 2.3) en la TouchPad me he decidido y he instalado CM9. Dista bastante de ser perfecta, pero a fin de cuentas la TP no se diseñó ni pensó para Android. Y viendo el estado comatoso de webOS (y el durísimo golpe que supone no poder instalar la nueva versión, Open webOS 1.0 «oficial» en la TouchPad) la única manera de mantener el equipo con vida es esta.</p>
+<p>No voy a dar instrucciones, ni a contar nada. Creo que después de los vídeos del <a href="http://www.reverendkyle.com/">Reverendo Kyle</a> hay poco más que añadir. Os dejo con el que he usado para instalar CM9 en la TP. Yo tenía ventaja, porque ya estaba instalado MoBoot y ClockModWork Recovery, pero aún así es fácil.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/PDO1Jj3NYDw" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/PDO1Jj3NYDw"></param></object></div>
+</div>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Enyo FAQ en Español</title>
+		<link>/2012/05/17/enyo-faq-en-espanol/</link>
+		<comments>/2012/05/17/enyo-faq-en-espanol/#comments</comments>
+		<pubDate>Thu, 17 May 2012 08:51:48 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Enyo]]></category>
+		<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[TouchPad]]></category>
+		<category><![CDATA[WebOS]]></category>
+
+		<guid isPermaLink="false">/?p=1693</guid>
+		<description><![CDATA[Una de las mejores cosas que tiene el escribir en un blog, es que algunas personas dediquen parte de su tiempo a leer tus desvaríos. Si encima te dicen algo, ya sea por Twitter, en persona, o mandándote un correo es una sensación muy especial. Y hay veces en las que te piden que les [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1696" style="width: 522px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/05/enyo-logo.png"><img class="size-full wp-image-1696" title="Logo de Enyo" src="/wp-content/uploads/2012/05/enyo-logo.png" alt="Logo de Enyo" width="512" height="512" srcset="/wp-content/uploads/2012/05/enyo-logo.png 512w, /wp-content/uploads/2012/05/enyo-logo-150x150.png 150w, /wp-content/uploads/2012/05/enyo-logo-300x300.png 300w" sizes="(max-width: 512px) 100vw, 512px" /></a><p class="wp-caption-text">Logo de Enyo</p></div>
+<p style="text-align: justify;">Una de las mejores cosas que tiene el escribir en un blog, es que algunas personas dediquen parte de su tiempo a leer tus desvaríos. Si encima te dicen algo, ya sea por Twitter, en persona, o mandándote un correo es una sensación muy especial. Y hay veces en las que te piden que les ayudes con algo, porque piensan que eres un experto en el tema. Palabras mayores, porque yo toco muchos campos, y de algunos voy sabiendo algo, pero de ahí a considerarme experto&#8230;</p>
+<p style="text-align: justify;">El caso es que Nicolás me escribió desde Argentina. Está interesado en el Framework Enyo y al parecer leyó mi post <a href="/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/">Aprendiendo a aprender Informática (y JavaScript)</a>, tiene una TouchPad y quiere desarrollar para webOS. Pero claro, está la barrera del idioma: la documentación de Enyo es muy escasa, y está toda en Inglés. No existe documentación en Español, y creo que en España casi que nos conocemos personalmente los dos o tres locos que hacemos Apps para la TouchPad (te estoy mirando a tí, <a href="http://www.fillito.com/">Daniel</a> <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ).</p>
+<p style="text-align: justify;">Yo tengo ganas de seguir activamente con Enyo, aunque en los últimos meses he estado programando principalmente para iOS / Objective C. Pero quiero profundizar en JavaScript y CSS3, y disponer de una herramienta (Aplicaciones HTML5) que se ejecutan en muchas plataformas, por no decir en todas. Además, todo el movimiento que está llevando hacia Open webOS 1.0 y Enyo 2 me resulta muy interesante.</p>
+<p style="text-align: justify;">Respondo las preguntas de Nicolás, que es lo que me ha llevado a escribir esto:</p>
+<h2 style="text-align: justify;">1. ¿Que necesito para programar en webOS? ¿Conocimientos en que lenguaje debo tener?</h2>
+<p style="text-align: justify;">Para programar en webOS se usa el malllamado HTML5, ya que webOS se basa en los estándares de las aplicaciones web. Digo malllamado porque realmente HTML no escribes para nada: es todo CSS3 y JavaScript. Luego lo principal es aprender el lenguaje JavaScript. Para eso, se pueden seguir las instrucciones del <a href="/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/">post</a> antes mencionado.</p>
+<h2 style="text-align: justify;">2. ¿Qué IDE se utiliza?</h2>
+<p style="text-align: justify;">Una App Enyo es un conjunto de ficheros de texto JavaScript, las hojas de estilo CSS, algún fichero de configuración y un index.html. Además de los recursos que utilices (sonidos, imágenes, etc.). Todo ello en una estructura concreta de carpetas. Por ello, realmente puedes usar el IDE que te resulte más sencillo para editar JavaScript.</p>
+<p style="text-align: justify;">Si usara una máquina Windows, creo que mi opción sería <a href="http://notepad-plus-plus.org/">NotePad++</a>, que es Software Libre, es gratis y es una pequeña maravilla. Al final vas a estar escribiendo código en varios ficheros, luego cualquier editor con «pestañas» sirve. En mi Mac, primero lo intenté con Aptana Studio, que es una versión adaptada de Eclipse para trabajar con HTML5. Incluso había un plugin para hacer Apps webOS, pero por desgracia usaba Mojo (el framework que se usa para los teléfonos de Palm, que es más antiguo que Enyo y con el que no he trabajado). Pero fallaba mucho, y era muy pesado.</p>
+<p style="text-align: justify;">Según avancé, me di cuenta de que Safari (o Chrome), cualquier navegador basado en WebKit puede depurar una App Enyo, ya que activas el modo desarrollo y dispones de un inspector que es una maravilla. Desde el inspector puedes establecer puntos de ruptura y depurar, ver el valor de las variables, consultar qué hay almacenado en <a href="https://developer.apple.com/library/safari/#documentation/iPhone/Conceptual/SafariJSDatabaseGuide/Name-ValueStorage/Name-ValueStorage.html">Local Storage</a>, o cambiar el CSS en el navegador hasta que tenga el aspecto que quieres, directamente, sin recargar ni grabar. Obviamente todo esto se puede hacer también con Firefox, pero dado que webOS se basa en WebKit, me pareció más adecuado.</p>
+<div id="attachment_1694" style="width: 792px" class="wp-caption aligncenter"><img class="size-full wp-image-1694" title="Modo Desarrollo de Safari" src="/wp-content/uploads/2012/05/modo-desarrollo-Safari.png" alt="Modo Desarrollo de Safari" width="782" height="450" srcset="/wp-content/uploads/2012/05/modo-desarrollo-Safari.png 782w, /wp-content/uploads/2012/05/modo-desarrollo-Safari-300x172.png 300w" sizes="(max-width: 782px) 100vw, 782px" /><p class="wp-caption-text">Modo Desarrollo de Safari</p></div>
+<p style="text-align: justify;">Así que en el Mac terminé usando <a href="http://es.wikipedia.org/wiki/Apple_Dashboard">DashBoard</a> (el editor que se usa para crear los widgets del Mac, que son HTML5 por cierto). Aunque podía haber usado vi, o cualquier otro. Realmente lo importante es tener un buen editor de textos con resalte de sintaxis. No vas a tener «proyectos», sino que vas a trabajar directamente sobre las carpetas y ficheros que uses. Y, claro, estarás usando algún sistema de control de versiones, ¿no? <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h2 style="text-align: justify;">3. ¿Que es Ares?</h2>
+<p style="text-align: justify;"><a href="https://ares.palm.com/Ares/login.html">Ares</a> es un IDE que corre en el navegador. Es decir, uno inicia sesión en ARES y desde ahí puedes crear una App, editar el código fuente. Incluso puedes depurarla. Problema: que Ares 1 funciona con Mojo, no con Enyo. Luego no puedes hacer aplicaciones Enyo con Ares 1. Pero ya están trabajando en Ares 2, que está en <a href="https://github.com/enyojs/ares-project">GitHub</a>, y aunque no funcione demasiado bien de momento, promete bastante. En cualquier caso, de momento usaría un editor de texto para hacer las Apps, como he comentado antes.</p>
+<div id="attachment_1697" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/05/ares.png"><img class="size-medium wp-image-1697" title="Ares" src="/wp-content/uploads/2012/05/ares-300x176.png" alt="Ares" width="300" height="176" srcset="/wp-content/uploads/2012/05/ares-300x176.png 300w, /wp-content/uploads/2012/05/ares-1024x601.png 1024w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Ares</p></div>
+<h2 style="text-align: justify;">4. ¿Desde Ares se pueden crear aplicaciones? ¿Cómo se compilan o como se las lleva a la tableta?</h2>
+<p style="text-align: justify;">Sí, desde Ares en teoría se podrá depurar en el dispositivo. Hoy en día, para pasar una App a tu touchpad debes primero ponerlo en modo de desarrollo, que es tan sencillo como buscar la cadena «webOS20090606». Te aparecerá un icono de una App llamado «Developer Mode». Lo pulsas, activas el modo de desarrollo y con las herramientas de la línea de comandos que vienen con el SDK de la TouchPad puedes instalar una App así:</p>
+<pre style="text-align: justify;">palm-install com.femtocoders.feedreader_1.0.0_all.ipk</pre>
+<p style="text-align: justify;">Obviamente, antes necesitas empaquetar la App con palm-package. Toda la información sobre estas herramientas está en el <a href="https://developer.palm.com/content/resources/develop/sdk_pdk_download.html">SDK de webOS</a> (nota: si vas a hacer Apps HTML5, necesitas el SDK, el PDK es para hacer Apps que corren código nativo y se escriben en C++, como los juegos)</p>
+<h2 style="text-align: justify;">5. ¿Que es Enyo?</h2>
+<p style="text-align: justify;">Enyo es el framework que se usa para hacer Apps HTML5 en webOS. Incluye a muchos otros frameworks JavaScript, y te permite acceder al hardware de la TouchPad (al GPS, por ejemplo). Con webOS venía Enyo 1, que ahora ya es Software Libre. Pero Enyo 1 estaba muy influenciado por la TouchPad, su licencia era para usarlo sólo con webOS y estaba basado en WebKit. Con Enyo 2 se intenta disponer de un framework más genérico para cualquier dispositivo móvil (o de escritorio) que soporte HTML5, y pensado desde el minuto uno para ser Software Libre.</p>
+<p style="text-align: justify;">Podemos bajar ambas versiones (Enyo 1 y Enyo 2) de la <a href="http://enyojs.com/#download">página de descargas de Enyo</a>. Han creado un <a href="http://enyojs.com/tutorial/">tutorial para Enyo 2</a> y hay un <a href="http://enyojs.com/samples/playground/">Playground</a> donde podemos editar y probar el código de Enyo directamente en el navegador.</p>
+<h2 style="text-align: justify;">6. Las aplicaciones creadas en Enyo son multiplataforma?</h2>
+<p>Sí, las creadas con Enyo 1 se prueban y depuran en el navegador de escritorio. Luego ¡tienen que ser multiplataforma!. Pero con Enyo 1 se hacía referencia al hardware de la TouchPad (ver si hay conexión WiFi, o consultar al GPS, etc.). Con Enyo 2 las Apps creadas van a ser aún más multiplataforma si cabe. Luego es una buena opción para crear el interfaz y el esqueleto de tu App HTML5. Y luego, por supuesto, puedes añadir los frameworks JS que te apetezcan, que para eso todo es JS.</p>
+<p>Dejo aquí la respuesta y espero que esta FAQ le sirva a alguien. Si hay dudas, planteadlas en los comentarios e iré actualizando este post. Y, claro, siempre hay que leerse las <a href="http://enyojs.com/#faq">FAQs oficiales de Palm sobre Enyo</a>.</p>
+<p><em>Keep coding!</em></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/05/17/enyo-faq-en-espanol/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Mi TouchPad</title>
+		<link>/2011/12/13/mi-touchpad/</link>
+		<comments>/2011/12/13/mi-touchpad/#comments</comments>
+		<pubDate>Tue, 13 Dec 2011 17:57:14 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Enyo]]></category>
+		<category><![CDATA[HP]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[TouchPad]]></category>
+		<category><![CDATA[Vídeos]]></category>
+		<category><![CDATA[WebOS]]></category>
+
+		<guid isPermaLink="false">/?p=1644</guid>
+		<description><![CDATA[Llevo usando una tablet TouchPad de HP desde mediados de Agosto. Si, si, justo esa: la que HP comenzo a vender con WebOS a precio de iPad, que luego rebajó y acabo poniendo a precios de saldo, casi suplicando que se la quitaran de las manos. Esa que esta en estado de zombie: es un [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Llevo usando una tablet <a href="http://es.wikipedia.org/wiki/HP_TouchPad">TouchPad</a> de HP desde mediados de Agosto. Si, si, justo esa: la que HP comenzo a vender con WebOS a precio de iPad, que luego rebajó y acabo poniendo a precios de saldo, casi suplicando que se la quitaran de las manos. Esa que esta en estado de <em>zombie</em>: es un no-muerto que camina. Esa que el anterior CEO de HP, Leo Apotheker (un genio en esto de quebrar empresas, por lo visto) decidio cancelar de un plumazo, dejando a propios y extraños con cara de tontos.</p>
+<p style="text-align: justify;">El caso es que en Agosto me propusieron desarrollar algunas Apps para <a href="http://es.wikipedia.org/wiki/HP_webOS">WebOS</a>, el S.O. de la TouchPad. Y no pude negarme. La idea de <a href="/2011/08/16/aprendiendo-a-aprender-informatica-y-javascript/">aprender un nuevo lenguaje (JavaScript)</a>, con un framework de desarrollo desconocido (Enyo) sobre un S.O. del que habia escuchado maravillas (pero nunca había probado) y poder cacharrear con un nuevo chisme me hicieron aceptar sin pensar. La unica condicion que puse era poder disponer de un dispositivo real sobre el que probar, y poder quedármelo. Y así ha sido: ahora soy el orgulloso propietario de una TP de 32 GB, con la que estoy muy contento.</p>
+<p style="text-align: justify;">En tres meses he desarrollado tres aplicaciones que ya estan en la tienda de aplicaciones de HP para la TouchPad (HP App Catalog). Por motivos de acuerdos de confidencialidad no puedo decir cuales son. Busca las tres mas bonitas, y esas son las mias :-). Por si alguien no lo ha <em>pillado</em>, repito: <strong>en tres meses</strong>, partiendo desde conocimientos nulos en todo (S.O., lenguaje, framework, herramientas) <strong>tres aplicaciones acabadas</strong>. WebOS / Enyo es un entorno increiblemente sencillo, potente y productivo para desarrollar, cuando le coges el tranquillo. Es una autentica pena que se cargasen este S.O. Pero asi es la vida.</p>
+<p style="text-align: justify;">Y antes de seguir hablando de mis experiencias y usos de la tableta, quiero dejar este punto bien claro.<strong> WebOS esta muerto sin posibilidad de resucitar</strong>. Seguira existiendo, en una medio vida, mantenido por una fiel comunidad de aficionados. Pero no va a existir ningun «comeback» triunfal de WebOS, ni va a destronar a iOS, ni nada de nada. He visto esto mismo montones de veces en el tiempo que llevo alrededor de esta industria. Lo vi cuando Amstrad acabo comprando Spectrum, que en su epoca fueron de los pioneros en las micros. O cuando Amiga sucumbio ante Windows. O cuando OS/2 Warp desaparecio de escena. O, año tras año, cuando se anuncia, ya de broma, que sí, que de verdad <a href="http://www.techrepublic.com/blog/tr-out-loud/there-will-never-be-a-year-of-linux-on-the-desktop-os/2131">este va a ser el ano de Linux en el Escritorio</a> y se va a desbancar a Windows.</p>
+<p style="text-align: justify;">Ser mejor tecnicamente que otros no es garantia de exito. Vender mucho y con buen margen si. Eso es lo que tendrian que haber pensado antes de sacar la HP TouchPad. Pero da la impresion de que Leo queria que la tableta fracasase rapidito para quitar «esta tonteria de Palm» lo antes de la idea que tenia de la nueva HP, una empresa enfocada solo al sector profesional. Al final, Leo ha dejado de ser CEO de HP antes que WebOS muera, pero el daño ya está hecho. Ahora deshojan una margarita para ver cómo malvender Palm. Al final, WebOS creo que acabará siendo Software Libre. Como Maemo o Meego. Ambos, dos excelentes productos. Y sí, con esas cotas de popularidad.</p>
+<address style="text-align: justify;">(Nota: esto lo había escrito antes de que <a href="http://en.wikipedia.org/wiki/WebOS#Open_source_and_future">HP anunciase que, efectivamente, va a liberar el código de WebOS y Enyo</a>. Pero a día de hoy no se conoce ni el proceso, ni la licencia, ni nada)</address>
+<p style="text-align: justify;">El caso es que disfruto mucho con mi TouchPad. Su factor de forma es parecido al del iPad 1. De hecho, las fundas de iPad 1 son compatibles con la TouchPad. Usan el mismo display (1024 x 768, el mismo del iPad 2 por cierto). Y tiene muchas cosas chulas. Por ejemplo, al conectarla por USB aparece como una unidad mas y puedo intercambiar ficheros sin limitacion. Puedo usarla de disco USB de 32 GB, lo cual no esta mal. Creo que esto, para un usuario no avanzado es un problema. Para un geek como yo, es una puerta abierta al cacharreo.</p>
+<p style="text-align: justify;">Otra cosa que me encanta es que puedo pasar los videos de iTunes directamente ya que reproduce sin problemas H.264. Asi que puedo ver los vídeos de la WWDC o de formacion de Stanford simplemente copiándolos. Y tiene algo que odio, pero que debo reconocer que he usado en no pocas ocasiones para ver video: Flash. Puedo ver videos directamente en la pagina de YouTube o en Vimeo sin problemas. Y es una gozada cuando no quieres bajarte nada, directamente te vas al video y listo, lo ves en streaming. Comiéndote la batería, eso sí.</p>
+<p style="text-align: justify;">Cuando te compras la TouchPad viene en una caja con todo muy «apretado». Y vienen pocas cosas: la tableta, un cargador de pared (que es también cable USB para sincronizarla) y poco más. Pero aprovechando que en Septiembre estuve en el iOS Dev UK tuve la suerte de encontrarme en un Carphone Warehouse un teclado inalámbrico HP y la base de carga TouchStone. He grabado este vídeo mostrando la tableta y sus accesorios. Grabado con el iPhone 4 y poca luz, pero creo que se ve.</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/ErMeY7kUI1U" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/ErMeY7kUI1U"></param></object></div>
+</div>
+<p style="text-align: justify;">Como se puede ver en el vídeo, la TouchPad admite «dual boot» de WebOS y Android. Tengo instalado CyanoGen Mod 7 con un Android 2.3.7 que va francamente bien. Aunque la experiencia no es igual de pulida que en WebOS, pero está bien el poder usar más de un S.O. en la TP. Si no encuentro suficientes juegos para los niños, reinicio en Android y listo.</p>
+<p style="text-align: justify;">Si puedo y tengo tiempo, voy a seguir desarrollando mis propios proyectos para WebOS 3.0 / Enyo. Quiero profundizar en JavaScript y aprender Node.js. Igualmente, me gustaría tener una App con mi nombre en una segunda Store. Y así, irlas colonizando todas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/12/13/mi-touchpad/feed/</wfw:commentRss>
+		<slash:comments>57</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>apt-get &#8211; freniche.com</title>
+	<atom:link href="/tag/apt-get/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo añadir los CDs de Debian a las listas de paquetes APT</title>
+		<link>/2005/10/20/como-anadir-los-cds-de-debian-a-las-listas-de-paquetes-apt/</link>
+		<pubDate>Thu, 20 Oct 2005 08:07:40 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[apt-get]]></category>
+		<category><![CDATA[Linux]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/01/05/como-anadir-los-cds-de-debian-a-las-listas-de-paquetes-apt/</guid>
+		<description><![CDATA[En /etc/apt/sources.list está la lista de fuentes desde las que apt-get se baja los paquetes .deb (recordemos que si estamos detrás de un proxy las variables de entorno http_proxy deben estar convenientemente actualizadas)Si queremos añadir un CD al sources.list, para que nos pida el CD si falla Internet tenemos 2 opciones: usar apt-cdrom En Synaptic, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>En /etc/apt/sources.list está la lista de fuentes desde las que apt-get se baja los paquetes .deb (recordemos que si estamos detrás de un proxy las variables de entorno http_proxy deben estar convenientemente actualizadas)Si queremos añadir un CD al sources.list, para que nos pida el CD si falla Internet tenemos 2 opciones:</p>
+<ol>
+<li>
+<p>usar apt-cdrom</p>
+</li>
+<li>
+<p>En Synaptic, usar la opción de añadir CD en el menú Acciones</p>
+</li>
+</ol>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

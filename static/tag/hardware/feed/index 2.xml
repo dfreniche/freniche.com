@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hardware &#8211; freniche.com</title>
+	<atom:link href="/tag/hardware/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi ThinkPad x61s</title>
+		<link>/2014/08/29/mi-thinkpad-x61s/</link>
+		<comments>/2014/08/29/mi-thinkpad-x61s/#comments</comments>
+		<pubDate>Fri, 29 Aug 2014 12:18:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Levono]]></category>
+		<category><![CDATA[SSD]]></category>
+		<category><![CDATA[ThinkPad]]></category>
+		<category><![CDATA[x61s]]></category>
+
+		<guid isPermaLink="false">/?p=2221</guid>
+		<description><![CDATA[Hace ya tiempo que venía temiendo esto. Sentía una irresistible atracción del abismo. Ganas de tener un PC. Con Linux y Windows. Sí. Después de usar Macs desde el 2008, aún no he sido capaz de desintoxicarme del todo de la «infección» Linuxera&#8230; Además, tenía ganas de un ThinkPad. Hay quién dirá que son feos. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/08/x61s.jpg"><img src="/wp-content/uploads/2014/08/x61s.jpg" alt="Mi x61s" width="1024" height="768" class="aligncenter size-full wp-image-2229" srcset="/wp-content/uploads/2014/08/x61s.jpg 1024w, /wp-content/uploads/2014/08/x61s-300x225.jpg 300w, /wp-content/uploads/2014/08/x61s-920x690.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Hace ya tiempo que venía temiendo esto. Sentía una irresistible <em>atracción del abismo</em>. Ganas de tener un PC. Con Linux y Windows. Sí. Después de usar Macs desde el 2008, aún no he sido capaz de desintoxicarme del todo de la «infección» Linuxera&#8230; Además, tenía ganas de un ThinkPad. Hay quién dirá que son feos. Otros, que son funcionales. A mi me molan, con esa estética industrial y <em>aburrida</em>. Así que me puse a buscar en las webs de segunda mano.</p>
+<h1>El modelo escogido</h1>
+<p>Estuve viendo los distintos ThinkPads que pululaban por ahí. No me apetecía nada grande, y vi que había modelos de sólo 12”, como el X200, lo que me parece el tamaño perfecto. Encima, las pantallas son mate. Echo de menos la pantalla mate de mi MBP de 2008, pero en Apple las han dejado de poner como opción y no queda otra que aguantarse. La de mi MBP actual de 13” tiene demasiados reflejos…</p>
+<p><a href="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg"><img src="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg" alt="x61s vs Macbook Pro 13" width="1024" height="768" class="aligncenter size-full wp-image-2226" srcset="/wp-content/uploads/2014/08/x61s_vs_macbook13.jpg 1024w, /wp-content/uploads/2014/08/x61s_vs_macbook13-300x225.jpg 300w, /wp-content/uploads/2014/08/x61s_vs_macbook13-920x690.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Así que la duda estaba entre el TP x200 y el 201, mucho más moderno. Hasta que descubrí el x61, con su pantalla <strong>no panorámica</strong>. Sí, un portátil con relación de aspecto 4:3 en estos días. La pantalla no panorámica me recuerda a mi primer portátil, un Toshiba Satellite. Al no ser 16:9 es incluso más pequeño en sus 12&#8243;, lo que lo hacía más apetecible (para mi) si cabe. Y hay un modelo, el x61s, que es un poco más ligero. Finalmente, por 100 € he conseguido uno con la Ultrabase X6.</p>
+<p>Esta base es una <em>docking station</em> que amplía los puertos del TP, permitiendo que se cargue mientras está pinchado en ella. Para liberarlo primero debemos pulsar en un botón que informa al SO del evento y le permite desmontar aquellos recursos de la Ultrabase que estemos usando en ese momento. Tras esto, una pequeña palanca libera físicamente el X61. En la Ultrabase encontramos una mezcla perfecta (de nuevo, <em>para mi</em>) de tecnología moderna y <em>retro</em>, algo que se repite con el propio portátil. Junto a puertos serie y paralelo «pata negra» hay varios USB y un caddy que en mi caso tenía instalada una unidad lectora/grabadora de DVD. Pero que puede alojar una segunda batería (útil para viajes largos sin una fuente de alimentación a mano, p.ej.) o, mucho más interesante, una segunda unidad de disco. Una jugada maestra de ampliación podría ser ponerle un SSD baratito al x61S y aprovechar el disco que actualmente tiene en la Ultrabase como expansión de datos.</p>
+<p>El portátil en sí lo he equipado con 4GB de RAM y lleva un Core 2 Duo a 1.6 Ghz, lo que si bien no es mucho me permite ejecutar cualquier S.O. de 64 bits sin problemas. Venía con un HD de 140 GB. El teclado me encanta, con un montón de teclas dedicadas a funciones especiales, como moverte adelante/atrás en el navegador de Internet (que en mi caso y en Windows siempre es Firefox). Y tiene detalles que sorprenden. Lector de SD (normal hoy en día) y ranura para PCMCIA. Me viene perfecto para usarlo con las varias tarjetas PCMCIA que tengo para mis Amiga. En lugar de teclado retroiluminado, tiene una pequeña luz led en la esquina superior izquierda de la pantalla mirando hacia abajo que puede encenderse por si quieres trabajar en la oscuridad. O el lector de huellas, que funciona a la perfección y es como inicio sesión en Windows. O el acelerómetro para aparcar las cabezas del HD en caso de caída&#8230;</p>
+<h1>Linux en 2014</h1>
+<p>Después de probar varias distros, no soy capaz de encontrar una que realice una tarea casi imposible de solucionar: poner el portátil en reposo correctamente al cerrar la tapa. Me niego a investigar nada, ni a leer nada. 2014 se acaba, igual que mi paciencia con ciertas cosas. Me duele ver estos problemas con el hardware a estas alturas del partido. Ahorraos los comentarios: vais a darme la misma retahíla de excusas que yo daba en el 98. Pero han pasado muchos años viendo siempre lo mismo: instalas Linux y no funciona <em>out of the box</em>. Sin esto, nunca será un S.O. tenido en cuenta por el usuario en el escritorio.</p>
+<p>Supongo que lo volveré a intentar, porque soy un cabezón, pero de momento se queda con Win 7 Ultimate 64 bits.</p>
+<h1>SSDs</h1>
+<p>Al final, dada mi manía de llevar mi hardware al extremo (si es posible) y porque soy un cacharrero enfermizo, le he puesto un SSD a la máquina. He comprado, por un lado un Caddy para la Ultrabase, en el que ahora mismo está el HD original del portátil y al que accedo como a un disco IDE cuando <em>pincho</em> el portátil en la base. Por otro, dado el precio al que se están poniendo los SSDs me he comprado un <a href="http://www.amazon.es/gp/product/B00A1ZTZOG/ref=oh_aui_detailpage_o01_s00?ie=UTF8&amp;psc=1">Kingston SSDnow</a> por 55 Eur. Este SSD soporta SATA III, mientras que la BIOS del x61s soporta inicialmente SATA I. Menos mal que hay una BIOS que se puede <em>flashear</em> (la <a href="http://forum.notebookreview.com/lenovo/459591-t61-x61-sata-ii-1-5-gb-s-cap-willing-pay-solution-8.html#post6501443">BIOS <em>Middleton</em></a>) y que te da soporte SATA II. Ahora el disco va como un tiro.</p>
+<p><a href="/wp-content/uploads/2014/08/kingston_ssd.jpg"><img src="/wp-content/uploads/2014/08/kingston_ssd.jpg" alt="Kinsgston SSD" width="1024" height="1365" class="aligncenter size-full wp-image-2222" srcset="/wp-content/uploads/2014/08/kingston_ssd.jpg 1024w, /wp-content/uploads/2014/08/kingston_ssd-225x300.jpg 225w, /wp-content/uploads/2014/08/kingston_ssd-768x1024.jpg 768w, /wp-content/uploads/2014/08/kingston_ssd-920x1226.jpg 920w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/08/29/mi-thinkpad-x61s/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Mi nueva máquina y por qué no me he comprado un rMBP</title>
+		<link>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/</link>
+		<comments>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/#comments</comments>
+		<pubDate>Wed, 23 Jan 2013 05:07:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=1826</guid>
+		<description><![CDATA[Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras lo esperaba. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/01/mbp.jpg"><img src="/wp-content/uploads/2013/01/mbp.jpg" alt="Foto de mi MBP 13 pulgadas abierto, con Safari corriendo" title="Mi MBP 13&quot;" width="800" height="598" class="aligncenter size-full wp-image-1850" srcset="/wp-content/uploads/2013/01/mbp.jpg 800w, /wp-content/uploads/2013/01/mbp-300x224.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a> Hace ya un tiempo que estoy por esas carreteras llevando mi nueva máquina, entre curso de iOS y Android. Lo anunciaba en Noviembre, mientras <a href="/2012/11/20/la-dulce-espera/">lo esperaba</a>. Es un MBP 13&#8243; no retina. Y para colmo con la CPU menos potente que vende Apple, un Core i5 dual core a 2,5 Ghz. «¿Cómo?», se preguntarán algunos, «¿todo el día hablando de tecnología y te compras <em>eso</em>?». Pues sí. Os cuento qué máquina me he comprado, las razones que me llevaron a ella y cómo la uso.</p>
+<h1>La máquina</h1>
+<p><a href="/wp-content/uploads/2013/01/aboutthismac.png"><img src="/wp-content/uploads/2013/01/aboutthismac.png" alt="Ventana Acerca de Este Mac abierta, mostrando las características del MBP" title="Las características de mi Mac" width="321" height="393" class="aligncenter size-full wp-image-1845" srcset="/wp-content/uploads/2013/01/aboutthismac.png 321w, /wp-content/uploads/2013/01/aboutthismac-245x300.png 245w" sizes="(max-width: 321px) 100vw, 321px" /></a></p>
+<p>El equipo en sí es un MBP 13&#8243; no retina, de Julio 2012. Por ello, tiene una resolución de pantalla infame (1280&#215;800) pero a cambio tiene otras cosas muy interesantes dentro de su cuerpo unibody de aluminio: USB 3, una CPU que al tener dos núcleos con hiperthreading, se convierten en cuatro núcleos de ejecución, una tarjeta gráfica HD 4000 (no demasiado buena, pero es lo que hay) y un HD de 500 GB bastante lento. Dado que la máquina es capaz de direccionar hasta 16 GB RAM, pensé que en lugar de poner una CPU enorme era mejor equilibrar el rendimiento global del equipo. Así que compré un par de módulos de 8 GB y un SSD de 256 GB. En cuanto me llegó, le monté el SSD y la memoria y el rendimiento global es bastante impresionante. Evidentemente, un rMBP de 15&#8243; tendrá el mismo rendimiento o más. Entonces ¿porqué esta?</p>
+<h1>Mis razones</h1>
+<p>El retina MBP es una máquina impresionante. Es como mirar al futuro y ver cómo serán los ordenadores dentro de cinco años. Pero mi equipo, además de mirarlo, tengo que usarlo. Y mucho. Y lo uso para dos tareas muy concretas: programar en el sofá o llevarlo a los cursos de programación que imparto. Así que casi todo el tiempo es acerca de programar. Una mayor resolución <em>siempre</em> es bienvenida (y ya me he quejado antes de la triste resolución máxima del MBP 13&#8243;, máxime cuando el MBA 13&#8243; tiene 1440&#215;900), pero entre la resolución retina y todo lo que pierdes a cambio, preferí el resto. ¿Y qué pierdes?</p>
+<ul>
+<li>sensor de infrarrojos. No está en el rMBP. Ya no puedo usar mi mando a distancia Apple de aluminio para controlar KeyNote. Que sí, que puedo comprar uno BlueTooth, pero ya que tengo este y es sencillo de manejar&#8230;</li>
+<li>indicador de batería. En el lateral del MBP 13&#8243; hay una línea de LEDs y un botón. Lo pulsas y sin encender el equipo ves si tiene o no batería suficiente. Lo uso mucho.</li>
+<li>puertos. Tengo discos FireWire que me gusta usar. Al igual que me gusta conectarme a la red con un cable Ethernet. Llámame viejo, o bien que 1Gbps siempre es más que 300 Mbps. Como tres veces más rápido y fiable. Ethernet no se «cae». O funciona bien, o se te ha quemado el switch. No hay otras calidades de servicio. Y se que tengo la posibilidad de usar el puerto Thunderbolt, en ambos equipos, pero no me gusta llevar adaptadores colgando, si puedo evitarlo.</li>
+<li>posibilidad de ampliación sin hipotecarme. He podido ponerle un HD SSD y ampliar la memoria a mi MBP 13&#8243;. Al rMBP no se le puede ampliar, porque todo viene soldado.</li>
+<li>mi mujer tiene un venerable MacBook blanquito de 2007. Su cargador es compatible con el mío. Nada de MagSafe2 ni historias: si pierdo el mío o explota, tengo un reemplazo de emergencia cerca.</li>
+<li>pasta. El rMBP cuesta bastante más que el MBP 13&#8243; y en mi opinión, salvo la pantalla y que pesa algo menos, no me aporta demasiado por su coste. Prefiero buscar ese MBP 13&#8243;, ampliarlo y comprar Apple Care. Y ya, para rematar el ahorro, he comprado el equipo Refurbished, con lo que te ahorras unos buenos euros.</li>
+</ul>
+<p>El equipo que pienso es el que más prestaciones te da actualmente a un precio razonable es un MBP 15&#8243; con resolución extra (1.680 por 1.050) y pantalla mate y con 16 GB RAM + SSD. Al tener una gráfica discreta, es la mejor opción. Pero quería renovar mi viejo MBP 15&#8243; del 2008 por lo mínimo posible, y además quería cambiar de factor de forma y pasar a algo más compacto.</p>
+<p>El rMBP 13&#8243; me parece una buena idea, pero esperaría a una segunda o tercera versión. No tiene sentido que lleve la misma gráfica y CPU que el no retina y que por esa resolución extra tengas que pagar 498 Eur.</p>
+<h1>Cómo lo uso</h1>
+<p>Mi MBP es el equipo que uso para los cursos y salidas varias: a Conferencias, Hackathones, reuniones de la NSCoder Night de Sevilla, etc. Es muy compacto y me transmite una sensación de solidez. Arranca en muy pocos segundos (menos de 10) y todo es instantáneo. Con los 16 GB de RAM, nada hace swap y todos los procesos tienen más memoria de la que puedan necesitar. Y el acceso a disco es muy rápido gracias al SSD. El S.O. está instalado en el SSD y los datos en el HD. Todo como la seda.</p>
+<p>Además de para los cursos, cuando puedo levantarme temprano lo uso para escribir código en Xcode / Eclipse. Y probar las Apps. Para eso, es perfecto.</p>
+<p>Pero no todo es perfecto. Alguien pensará qué pasa cuando necesito más resolución, para trabajar cómodamente o usando Pixelmator o similares. Respuesta sencilla: para esos casos tengo mi iMac 27&#8243; con su segundo monitor de 24&#8243;. Creo que con 2560&#215;1440 + 1920&#215;1080 (5.760.000 pixeles) tengo de sobra. Y pensar que mi primer AMSTRAD, en su modo de máxima resolución (MODE 2) alcanzaba 640*200 (128.000 pixeles). Eso sí, en blanco y negro, o en mi caso, en fósforo verde encendido o fósforo verde apagado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/01/23/mi-nueva-maquina-y-por-que-no-me-he-comprado-un-rmbp/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>La dulce espera</title>
+		<link>/2012/11/20/la-dulce-espera/</link>
+		<comments>/2012/11/20/la-dulce-espera/#comments</comments>
+		<pubDate>Tue, 20 Nov 2012 12:36:03 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[compras]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[SSD]]></category>
+
+		<guid isPermaLink="false">/?p=1810</guid>
+		<description><![CDATA[No, no estoy esperando un bebé. No estoy «embarazado»&#8216;, como se suele decir en estos casos. No, espero un «niño», pero de otro tipo. Me he comprado un ordenador nuevo. Y, de nuevo, como cada vez desde que me compraron mis padres mi primer Amstrad CPC 464, cuento las horas y fantaseo pensando en lo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, no estoy esperando un bebé. No estoy «embarazado»&#8216;, como se suele decir en estos casos. No, espero un «niño», pero de otro tipo. Me he comprado un ordenador nuevo. Y, de nuevo, como cada vez desde que me compraron mis padres mi primer Amstrad CPC 464, cuento las horas y fantaseo pensando en lo rápido que va a funcionar el nuevo equipo, la de cosas que voy a poder hacer con el, lo feliz que me va a hacer&#8230;</p>
+<p>Así somos los informáticos. Tontos hasta decir basta. No conozco otras profesiones en las que pase esto. No me imagino un albañil llegando por la noche a casa excitado porque en el trabajo le han puesto una hormigonera nueva y contándole a su mujer: «no veas lo bien que hace el hormigón, no hace apenas ruido, está limpita y con la pintura aún sin ensuciar, me voy a pasar toda la noche haciendo hormigón y mañana voy a grabar una comparativa con las otras hormigoneras&#8230;». Vamos, que no lo veo. En lo nuestro el salario es algo importante, pero los chismes también. Nos gustan demasiado los gadgets. Es también lo que nos ayuda a no volvernos locos, con tantos cambios (y tan rápidos).</p>
+<p><a href="/wp-content/uploads/2012/11/material-ampliación.jpeg"><img class="aligncenter size-full wp-image-1812" title="Material para la ampliación del nuevo MBP" src="/wp-content/uploads/2012/11/material-ampliación.jpeg" alt="Material para la ampliación del nuevo MBP" width="800" height="598" srcset="/wp-content/uploads/2012/11/material-ampliación.jpeg 800w, /wp-content/uploads/2012/11/material-ampliación-300x224.jpeg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>El Jueves, cuando  llegue el equipo, le voy a instalar algunas ampliaciones, que podéis ver en la foto. Los detalles del «mini-bicho», cuando esté montado <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>La única «pena» que tengo: he tenido que vender mi viejo y queridísimo MBP 15&#8243;. Ha sido mi primer Mac, y ahora me está dando realmente pena deshacerme de el. Pero las cosas cambian, y hay que cambiar con ellas. Al menos se que estará en buenas manos.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/11/20/la-dulce-espera/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>Enero 2012: Apocalipsis Maya para mis dos ordenadores Apple</title>
+		<link>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/</link>
+		<comments>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/#comments</comments>
+		<pubDate>Fri, 03 Feb 2012 13:43:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1662</guid>
+		<description><![CDATA[Este Enero mis capacidades gafe han llegado a cotas insospechadas. Si no lees habitualmente este blog, igual no sabes que me pasé completamente a Mac, porque pienso que los Macs no son caros. Y que en mi escritorio trabajo habitualmente con dos equipos, mi iMac de 27&#8243; Core i7 y mi viejo Mac Book Pro. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://www.flickr.com/photos/imlsdcc/5576596277/"><img class="aligncenter size-full wp-image-1666" title="Tren descarrilado. Foto de la IMLS DCC" src="/wp-content/uploads/2012/02/train.jpg" alt="Tren descarrilado. Foto de la IMLS DCC" width="512" height="320" srcset="/wp-content/uploads/2012/02/train.jpg 512w, /wp-content/uploads/2012/02/train-300x187.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></a></p>
+<p style="text-align: justify;">Este Enero mis capacidades <em>gafe</em> han llegado a cotas insospechadas. Si no lees habitualmente este blog, igual no sabes que <a href="/2008/03/23/cambiando-a-mac/">me pasé completamente a Mac</a>, porque <a href="/2008/04/04/razones-para-no-usar-un-mac/">pienso que los Macs no son caros</a>. Y que en mi escritorio trabajo habitualmente con dos equipos, <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">mi iMac de 27&#8243; Core i7</a> y mi viejo Mac Book Pro. También sabrás que anteriormente <a href="/2011/03/01/mi-time-capsule-ha-muerto-%C2%A1larga-vida-a-mi-time-capsule/">se me ha roto hardware de Apple, y que Apple me lo arregló gratis</a>, aunque ya no estuviera en garantía.</p>
+<p style="text-align: justify;">El caso es que desde Noviembre vengo quejándome del horroroso rendimiento de Lion en el iMac. Con un Core i7 quadcore 2.8 Ghz y 12GB espero que todo vuele. Ni SSD ni gaitas. Lo tienes todo en memoria y punto. Máquina hay de sobra. Pero no era así. Y el HD hacía un ruído horroroso. No se por qué me empeñé en que el fallo era software, y probé a desactivar, reactivar y toquetear casi todos los ajustes del sistema. Instalé y quité aplicaciones para ver si encontraba a la App culpable. Incluso desactivé las copias de seguridad con Time Machine, para que no me enlentecieran el equipo. Pero nada. Lion era desesperante. Y el HD cada vez sonaba más y más. Aunque me avisaban desde Twitter que a ver si no era un problema hard, yo ni caso. Al final, instalando el programa Tech Tool Pro 6, para defragmentar el disco del iMac, me avisó de que el estado SMART del disco avisaba de fallo inminente. El estado SMART es un sistema que en teoría te avisa de un fallo futuro en el hardware del disco duro, de forma que antes de que el disco muera puedas hacer algo.</p>
+<p style="text-align: justify;">En mi caso, lo primero que hice fue copiar el HD entero en una imagen de disco (un DMG) desde la utilidad de discos. Luego llamé a Apple, a ver qué podíamos hacer. Lo primero que me dicen es que mi iMac no tiene Apple Care. Les digo que no, que yo compré el Apple Care y que el comercial me indicó que se auto activaba.  Pues no. Busqué la caja del Apple Care y lo activamos correctamente con otra llamada a Apple. Una vez comprobado que el HD daba error SMART me ofrecieron cambiarlo sin coste alguno. Incluso podía elegir a dónde llevar la máquina. Así que preferí hacerlo en Golden Mac, que para eso son el APR de Sevilla y es allí donde imparto algún curso de iOS que otro. Llevé la máquina, estuvo allí una semana y ha vuelto como nueva. He reinstalado Lion, aplicado actualizaciones y recuperado el sistema desde el DMG que creé y he continuado desde ese punto. Esta parte, tras el disgusto, ha sido fácil.</p>
+<p style="text-align: justify;">Y además tenía mi querido MBP para seguir trabajando, ¿no?. <strong>Pues no</strong>. Un Sábado estoy trabajando con el y de pronto pega un «pantallazo» y se pone en modo CGA. Los viejunos me entenderán. Pero se recupera solo, y sigue funcionando sin normalidad. Le echo la culpa al driver de vídeo de Lion, total, <a href="/2011/08/06/las-prisas-por-lion/">la culpa siempre va a ser de Lion</a>, ¿no? Cierro el MBP y lo dejo en reposo, como siempre. El Domingo, me levanto con ganas de hacer cosas y abro el equipo. Pero la pantalla está en negro. No se ve nada. Intento todas las combinaciones de teclas y al final lo apago con un «botonazo». Arranco y no se ve nada. Además, antes de apagarlo le quité el sonido y no suena el Mac al encender. Luego no se si está arrancando bien o no. Tras varios apagados en modo Chuck Norris, decido conectarlo a un monitor externo. No Luck. No se ve nada. Pienso que es la placa base, que se ha ido al garete. Pero veo que desde una máquina windows puedo hacer ping a la IP del portátil. Luego está vivo. No suena porque le quité el sonido. Y no se ve porque la gráfica nVidia ha <em>muerto</em>. Busco por Internet y tras un rato me encuentro con esta página, en la que Apple reconoce un fallo en las nVidia de los MBP que coinciden con el mío. Y tienen un programa de cobertura: si el equipo tienen menos de 4 años, aunque no esté en garantía, si se le va la gráfica te cambian la placa base gratis.</p>
+<p style="text-align: justify;">De nuevo, llamada a Apple. Y paseo a Golden Mac. Recojo el iMac y dejo mi MBP. Y tras dos semanas, aquí están en mi mesa de nuevo los dos, trabajando codo con codo. He superado la «crisis hardware» mayor que he sufrido en mi vida (en casa).</p>
+<p style="text-align: justify;">Moralejas. Varias. <strong>Las cosas de Apple se rompen</strong>, como las de todos. Pero con una llamada y pulsar una tecla te atiende una persona que te informa si sí, si no, o le que cuesta. Y se hacen cargo de sus fallos. Los reconocen y los <em>pagan</em>. Y hay puntos de servicio por toda España. No quiero imaginarme lo que hubiera pasado con dos equipos Acer o Dell. Envío a portes debidos, mala atención, etc. Así que con Apple se paga un poco más, que en mi opinión está muy justificado por la calidad de los materiales y <strong>el soporte postventa, que es el mejor</strong>.</p>
+<p style="text-align: justify;">Y otra moraleja. Pensaba que tenía muchos ordenadores en casa. Y es verdad. Pero en una semana «murieron» en combate dos de golpe. Tuve que tirar durante una semana de <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">mi viejo Dell 17&#8243; </a>(un PC transportable, más que portátil), pero que me ha sacado del apuro. Una experiencia insufrible volver a XP después de OS X, si al menos fuese Win 7&#8230; El caso es que cierta redundancia en hardware, si te dedicas a esto, nunca está mal. Lección aprendida.</p>
+<p style="text-align: justify;">Espero que ahora las cosas se calmen un poco, deje de romper cosas y pueda centrarme en crear algo interesante. Tus historias de miedo, a continuación en los comentarios. Siempre es bueno ventilar esos problemas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Mi oficina en casa (Home Office), Junio 2011</title>
+		<link>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/</link>
+		<comments>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/#comments</comments>
+		<pubDate>Mon, 18 Jul 2011 17:01:25 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[iMac]]></category>
+
+		<guid isPermaLink="false">/?p=1540</guid>
+		<description><![CDATA[Me gusta el porno Geek. Y mucho. Eso de mirar chismes «me pone». Y no te rías: si estás leyendo esto, es porque te gusta esa variante del porno Geek, para voyeurs, llamada Home Office Setups. Me encanta ver las oficinas de otras personas (si son informáticos mejor, ya que entonces el factor Geek se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me gusta el <em>porno Geek</em>. Y mucho. Eso de mirar chismes «me pone». Y no te rías: si estás leyendo esto, es porque te gusta esa variante del porno Geek, para voyeurs, llamada Home Office Setups. Me encanta ver las oficinas de otras personas (si son informáticos mejor, ya que entonces el factor Geek se multiplica).</p>
+<p style="text-align: justify;">Comencé esta afición con dos clásicos, las increíbles oficinas de <a href="http://www.biscade.com/office/">Mitch Haile</a> y de <a href="http://www.stefandidak.com/">Stefan Didak</a>. Vídeos como los de <a href="http://www.youtube.com/watch?v=nlWx1cDvDs4&amp;hd=1">Bilsta57</a> no me ayudaron mucho a superar este vicio. Finalmente me hice seguidor de <a href="http://www.workstationsetups.com/">Workstation Setups</a> en Twitter. Y ahora he dado un paso más. Ya que mucha gente tiene curiosidad en ver cómo amontono los ordenadores que atesoro, he decidido hacer una fotos (bastante malas, aviso), y subirlas a Flickr. Abajo tienes una presentación «bonita» de las fotos, pero si quieres, puedes <a href="http://www.flickr.com/photos/dfreniche/sets/72157626871600533/">ir a Flickr</a> y ver las fotos con sus descripciones, comentarlas, etc.</p>
+<p><object width="700" height="525"><param name="flashvars" value="offsite=true&#038;lang=en-us&#038;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2Fshow%2F&#038;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2F&#038;set_id=72157626871600533&#038;jump_to="></param><param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=104087"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=104087" allowFullScreen="true" flashvars="offsite=true&#038;lang=en-us&#038;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2Fshow%2F&#038;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2F&#038;set_id=72157626871600533&#038;jump_to=" width="700" height="525"></embed></object></p>
+<p>Ya sabes, me encantaría que me enseñaras tus «vídeos caseros». En el buen sentido, claro <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>«The more memory and HD you&#8217;ll have, the happier you&#8217;ll be»</title>
+		<link>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/</link>
+		<comments>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/#comments</comments>
+		<pubDate>Tue, 15 Mar 2011 11:09:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">/?p=1431</guid>
+		<description><![CDATA[No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le he puesto al iMac 12 GB de RAM. ¿Es mucho?. ¿Es poco?. Vamos con ello.</p>
+<p style="text-align: justify;">Lo  primero, dar la razón fundamental de ponerle tanta memoria al iMac: porque puedo. Sí, así de sencillo. En el 94 ni hubiera soñado con estas cantidades de memoria, ni siquiera para un disco duro. Es como pensar hoy en una RAM de 32 Hexabytes. Así que no podía plantearme si era mucho o poco: simplemente no podía. Pero hoy en día, cuando 8 GB cuestan 120 Eur. IVA inc., si necesitas esa memoria, o te apetece, tampoco es una inversión que te lleve a la bancarrota.</p>
+<p style="text-align: justify;">Además, cuando es aquí donde me gasto mi dinero. Quiero decir, que no tengo moto, no me gustan los coches potentes, ni la ropa de diseñador, ni juego al bingo, ni me gusta la coca, ni jugar al póker. Mis vicios son baratos ¡qué le vamos a hacer!. Nada me gusta más que un buen gadget electrónico. Hay quien le da por coleccionar sellos, o montar maquetas. O tener un yate. Yo tengo chismes.</p>
+<p style="text-align: justify;">Así que nada mejor para complementar a mi querido iMac Core i7 que estos 8 GB, que se han sumado a los 4 GB que traía de fábrica. Ahora tengo una máquina redonda, muy equilibrada, potente y estable. Y de la pantalla, para qué hablar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En un día normal de trabajo, si miro el consumo de memoria me puedo encontrar con algo como esto:</p>
+<div id="attachment_1432" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-usada-normal.png"><img class="size-full wp-image-1432 " title="Memoria usada" src="/wp-content/uploads/2011/03/memoria-usada-normal.png" alt="Memoria usada" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-usada-normal.png 860w, /wp-content/uploads/2011/03/memoria-usada-normal-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Memoria usada</p></div>
+<p style="text-align: justify;">Este es el consumo que tengo mientras escribo estas líneas. Se puede ver que, usado (ya sea por programas, por el S.O. o que está «cacheando» algo en memoria) tengo 4,59 GB. Algo más que los 4 GB originales. Hace unos meses, el equipo estaría paginando, es decir, tendría que sacar algún programa de memoria y guardarlo en disco (normalmente el que hace más tiempo que no se usa). El dato de Paginación (salidas) sería mayor que 0, y todo el sistema me iría más lento. Estaría tratando de ejecutar, a la vez, más programas de los cabrían en mi memoria RAM.</p>
+<p style="text-align: justify;">Como se puede ver, el problema ahora no es ese. Me sobran 7,40 GB. ¿Excesivo?. Para nada. En cuanto tenga que correr alguna máquina virtual con VMWare, o lanzar XCode 4 (con todo lo que ello implica), o jugar a Left 4 Dead 2 sin parar algo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> la memoria disminuye y se queda en algo como esto:</p>
+<div id="attachment_1433" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-tope.png"><img class="size-full wp-image-1433 " title="Usando memoria" src="/wp-content/uploads/2011/03/memoria-tope.png" alt="Usando memoria" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-tope.png 860w, /wp-content/uploads/2011/03/memoria-tope-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Usando memoria</p></div>
+<p>Uso el ordenador muchas horas al día. Por trabajo, y por placer. Y no hay cosa que me irrite más que quedarme sin espacio en disco, o ver que la máquina no va todo lo «fina» que debiera, por una tontería como es la RAM. Así que, como dice el título, un poco de RAM me hace mucho más feliz. ¡Comprueba la tuya!</p>
+<p>P.D.: Si quieres saber cómo interpretar el uso de memoria que está haciendo tu Mac, <a href="http://macperformanceguide.com/Mac-Monitoring-memory.html">te recomiendo este excelente post de MPG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Windows 7 corre que se las pela en mi viejo MacBook Pro</title>
+		<link>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/</link>
+		<comments>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 09:33:09 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1346</guid>
+		<description><![CDATA[¡Un momento! ¿Qué?. No, no puede ser, deben ser las drogas que tomo habitualmente. ¿No estarás diciendo que has mancillado el templo de San Steve y la Gran Manzana con algo que venga de Redmon? No, seguro que estás diciendo que has tenido que comprobar los virus de Windows en una máquina virtual y te [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote><p>¡Un momento! ¿Qué?. No, no puede ser, deben ser las drogas que tomo habitualmente. ¿No estarás diciendo que has mancillado el templo de San Steve y la Gran Manzana con algo que venga de Redmon? No, seguro que estás diciendo que has tenido que comprobar los virus de Windows en una máquina virtual y te ha funcionado maravillosamente en ese estupendo S.O. que es Snow Leopard. ¿No?. ¡Habla, por Dios, no me tengas en ascuas!</p></blockquote>
+<p style="text-align: justify;">Mi querida voz interior <em>fanboy</em>, tengo que informarte de que estoy corriendo Windows 7 en el MacBook Pro, de forma nativa (sin máquinas virtuales de por medio), gracias a BootCamp. Y que me gusta.</p>
+<p style="text-align: justify;">
+<div id="attachment_1354" style="width: 810px" class="wp-caption aligncenter"><img class="size-full wp-image-1354" title="Comenzando la instalación de Win7 en el MBP" src="/wp-content/uploads/2011/01/comenzando-instalacion.jpg" alt="Comenzando la instalación de Win7 en el MBP" width="800" height="600" srcset="/wp-content/uploads/2011/01/comenzando-instalacion.jpg 800w, /wp-content/uploads/2011/01/comenzando-instalacion-300x225.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /><p class="wp-caption-text">Comenzando la instalación de Win7 en el MBP</p></div>
+<p style="text-align: justify;">Ya he comentado varias veces que Windows 7 me parece un buen S.O. Realmente ahora usar Linux, Windows u OS X se ha convertido más en una <a href="/2008/03/23/cambiando-a-mac/">cuestión de preferencias personales</a> que de limitaciones. No hay casi nada que se pueda hacer en uno de ellos que no se pueda hacer en los otros. Incluso los juegos. Y si no, hay sistemas de máquinas virtuales para ejecutar cualquier S.O. desde uno de los otros tres grandes. Y esto es muy bueno. Recuerdo cuando había que luchar muy duro con Linux para hacer que funcionase como tú querías. Ahora usas Linux si te gusta más, que además es la razón más poderosa para usar algo, por encima de méritos técnicos.</p>
+<p style="text-align: justify;">El caso es que desde hace un tiempo vengo reduciendo los cacharros que tengo por casa. Sin llegar a los extremos de Dave Bruno y su <a href="http://guynameddave.com/about-the-100-thing-challenge/">intento de vivir sólo con 100 objetos</a>, estoy intentando tener los ordenadores que realmente uso. Y uno que no usaba mucho era mi viejo <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">Dell Inspiron 9400</a>, que funcionaba bastante bien con Win7. Pero me pregunté: ¿bueno, y si pudiera correr Win7 en el MBP, no podría deshacerme de esa máquina? Además, tengo espacio libre en el disco del MacBook Pro <a href="/2010/09/17/shopping-spree/">tras comprarme el nuevo HD de 7200 rpm</a>. un último argumento me lanzó a la aventura, y es que en Febrero tendré que impartir un curso de C en entorno Windows, y el MBP pesa como tres Kg menos que el Dell.</p>
+<h2>La instalación</h2>
+<p style="text-align: justify;">Hay montones de sitios que cuentan cómo hacer la instalación, que por otra parte es bastante sencilla, así que no me repetiré. Podéis ver <a href="http://www.youtube.com/watch?v=OM2495dmO0I&amp;hd=1">este vídeo</a>, por ejemplo, aunque hay mil. Sólo algunas notas:</p>
+<ul>
+<li>BootCamp es dos cosas. Por un lado, cuando lo usas en el Mac es un programa para rehacer las particiones de tu disco y dejar así sitio a Windows 7. Sin más misterios. Luego metes el DVD de Windows, reinicias arrancando desde el DVD y listo.</li>
+<li>En mi MacBook Pro 15&#8243; (modelo MacBookPro 3,1) no funcionaban los drivers de Windows 7 en 64 bits. Así que he tenido que instalar la versión de Windows 7 de 32 bits. Si al instalar ves que los drivers no se reconocen, ya sabes: pasa a la versión de 32 bits.</li>
+<li>Cuando Windows ya está instalado, no tiene los drivers necesarios para que el MacBook Pro funcione. Y no los busques por Internet con el asistente de Win7: no los va a encontrar. Están, en mi caso, en el disco de Snow Leopard retail, el que compré con 5 licencias. En el de tu MacBook Pro también deben estar, pero si has pasado a Snow Leopard usa estos, ya que son más modernos.</li>
+<li>Y ya que estamos, usa los discos adecuados. En plena instalación no me reconocía los drivers del disco. ¿Pero qué pasa?. Pues que estaba usando los discos del MacBook (sin Pro) de mi mujer&#8230;</li>
+</ul>
+<h2>Tras la instalación</h2>
+<p>Una vez que todo está instalado, sigue arrancando por defecto Mac OS X, que es justo lo que quiero. Para arrancar Windows puedes:</p>
+<ul>
+<li>pulsar Alt al encender el equipo. Te aparecerán todos los discos desde los que puedes arrancar. Escoge el de Windows.</li>
+<li>desde Mac OS X, en Preferencias del Sistema, tienes Discos de Arranque, que te permite arrancar en Windows.</li>
+<li>en Windows puedes hacer lo mismo con BootCamp: reiniciar en Mac OS X, poner como disco por defecto uno u otro, etc.</li>
+</ul>
+<p>Tras instalar todas las actualizaciones del mundo y el preceptivo antivirus (en mi caso AVG Free), miré la experiencia de usuario de Windows. Y me daba un 5,0, que creo que para un ordenador que cumple ahora en Febrero 3 años no está nada mal (el máximo es un 7,9).</p>
+<div id="attachment_1357" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/Win7-mbp-variasapps.png"><img class="size-medium wp-image-1357" title="Win7 en mi MBP corriendo varias apps" src="/wp-content/uploads/2011/01/Win7-mbp-variasapps-300x187.png" alt="Win7 en mi MBP corriendo varias apps" width="300" height="187" srcset="/wp-content/uploads/2011/01/Win7-mbp-variasapps-300x187.png 300w, /wp-content/uploads/2011/01/Win7-mbp-variasapps-1024x640.png 1024w, /wp-content/uploads/2011/01/Win7-mbp-variasapps.png 1440w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Win7 en mi MBP corriendo varias apps</p></div>
+<h2>La adaptación</h2>
+<p style="text-align: justify;">Uno de los principales problemas a los que me he enfrentado para adaptarme al uso de Windows 7 en el MBP es el mapeo del teclado. Los últimos MacBooks traen unos teclados que casi son los clásicos de un PC. Pero el mío tiene varias peculiaridades. No hay tecla Supr (en Mac OS X se consigue con fn + backspace), con lo que no puedo bloquear rápidamente la sesión, o lanzar desde ahí el Administrador de Tareas. Tampoco hay tecla de imprimir pantalla (PrtScr), con lo que me quedo sin poder hacer capturas de pantalla (para los cursos o el blog, lo necesito muy a menudo). Por último, como no hay AltGr, ni siquiera hay Alt en la parte derecha de la barra espaciadora, no puedes generar algunos caracteres que son imprescindibles para programar, como #, { ,} ,[ y ]. Y otro que es ya imprescindible para todo: @.</p>
+<p style="text-align: justify;">El tema de @ y # lo conseguí solucionar porque (no lo sabía), si pulsas a la vez Ctrl + Alt + 2 es igual que pulsar AltGr + 2. Lo mismo para conseguir #. Bueno, dos problemas menos. Pero no me resignaba a quedarme sin PrtScr. Así que busqué y encontré la solución <a href="http://www.satollo.net/windows-7-on-a-macbook-pro-keyboard-layout">en este blog</a>.</p>
+<p style="text-align: justify;">Todo se basa en usar un programa llamado <a href="http://www.randyrants.com/sharpkeys/">SharpKeys</a>, que te permite asignar unas teclas a otras. Es perfecto, ya que he podido asignar Supr a F12, PrtScr a F11 y la tecla <a href="http://www.paulofierro.com/archives/395/">Enter del keypad del MBP</a> (que no uso nunca) ahora funciona como AltGr.</p>
+<p style="text-align: justify;">He instalado algunos juegos, que funcionan maravillosamente bien, a tope de resolución y efectos gráficos. He estado luchando hasta conseguir que me funcione un mando de XBox con cable USB en Windows 7, me he instalado LLMd5sum para calcular cómodamente los md5sum de las cosas que me bajo&#8230; Vamos, que lo estoy usando a menudo. Y estoy encantado. Lo próximo: instalar (y probar) el SDK de Windows Phone 7&#8230;</p>
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>El mapa de mi red, actualización Octubre 2010</title>
+		<link>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/</link>
+		<comments>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/#comments</comments>
+		<pubDate>Sun, 10 Oct 2010 16:16:38 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[A1200]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1138</guid>
+		<description><![CDATA[El mapa de mi red ha cambiado bastante desde la v1.0, así que me he decidido y lo he actualizado. Comentaba entonces que había demasiados cacharros y me encuentro en fase de actualización de equipo y, sobre todo, de simplificación. Estoy vendiendo, tirando, regalando o almacenando todo aquello que no me puedo justificar usar de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1139" style="width: 624px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png"><img class="size-full wp-image-1139 " title="Esquema de red - oct 2010" src="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png" alt="Esquema de red - oct 2010" width="614" height="461" srcset="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png 1024w, /wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001-300x225.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">Esquema de red - oct 2010</p></div>
+<p style="text-align: justify;">El mapa de mi red ha cambiado bastante desde la <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">v1.0</a>, así que me he decidido y lo he actualizado. Comentaba entonces que había demasiados cacharros y me encuentro en fase de actualización de equipo y, sobre todo, de simplificación. Estoy vendiendo, tirando, regalando o almacenando todo aquello que no me puedo justificar usar de forma casi diaria. El problema es que tengo tantos chismes que voy poco a poco, pero con paso firme.</p>
+<p>En esta versión he eliminado la red WiFi legacy ya que ahora no la tengo correctamente configurada. Lo que está operativo es lo que se ve. Bueno, faltan el Pentium IV, que probablemente venderé en cuanto pueda y el MacBook de mi mujer (que cumplirá pronto 4 años y cualquiera toca). Los equipos que quedan son:</p>
+<ul>
+<li>Newton. <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">Mi viejo portátil Dell</a>, lo he dejado para jugar a juegos Windows. En exclusiva. Tiene Steam instalado y ahí me dedico a machacar imperios en Civilization IV. Ahora que ha salido el Civ V, no creo que la máquina pueda con él, pero&#8230; Y además ha viajado mucho conmigo.</li>
+<li>Bohr. <a href="/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/">Mi Netbook con Ubuntu Netbook Remix</a>. Cuando se vaya el PIV va a ser la última máquina en la que estará instalado Linux en mi casa. Linux, peligro, peligro :-). He pasado de trabajar 100% Linux a casi 100% Mac, pero siempre 100% UNIX (salvo para los juegos, qué remedio, aunque ahora con Steam la cosa cambia mucho). Lo uso como media center portátil y para alguna salida en la que no quiero llevar mucho peso. Supongo que cuando me compre un iPad (estoy esperando a la nueva versión) dejará de tener hueco.</li>
+<li><a href="/2008/03/23/cambiando-a-mac/">Tesla</a>. Mi portátil, con el que sigo enamorado y más aún después de cambiarle el disco duro. Con sus 4 GB de RAM me da la potencia necesaria para impartir mis cursos de Java y Cocoa Touch. Y me permite programar mientras estoy cerca de los niños o en el sofá.</li>
+<li>Mi A1200. Se conecta a mi TV LCD Samsung, cuando me apetece escuchar MIDIs, o jugar un rato, o hacer lo que sea con el Amiga. Ahora lo tengo guardado y lo saco cuando lo necesito, no está ya permanentemente encima de la mesa. Pero obviamente se queda.</li>
+<li>Einstein. El mayor cambio desde el último mapa. Einstein se ha reencarnado en un iMac de 27&#8243;, Core i7 quad 2.8 Ghz con 4 GB RAM que puede con todo. Tiene conectado mi <a href="/?s=drobo">Drobo Firewire</a> y son un «killer duo». En un futuro le ampliaré la memoria, probablemente con dos módulos de 4 GB para llegar a los 12 GB (soporta hasta 16 GB). La memoria la quiero para máquinas virtuales, sobre todo ahora que estoy haciendo pruebas corriendo Windows 7 virtualizado para jugar al Civ V <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Mi Time Capsule. Ahora ha quedado para las copias de seguridad de los portátiles, y como router. No le amplío el disco duro porque, mientras tenga sitio en el Drobo, me va a dar pereza.</li>
+<li>Dispositivos iOS variados. Mi iPhone 3Gs de batalla, el iPod Touch de los niños y los 3G antiguos. Mi mujer ya tiene un iPhone 4 :-). Los uso para probar aplicaciones y como segundos teléfonos. Probablemente son los que más tráfico generan en la red WiFi.</li>
+</ul>
+<p>Esto es lo que tengo de momento. Dentro de unos meses actualizaremos y a ver qué tengo entonces.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Mi plan de backups</title>
+		<link>/2010/10/03/mi-plan-de-backups/</link>
+		<comments>/2010/10/03/mi-plan-de-backups/#comments</comments>
+		<pubDate>Sun, 03 Oct 2010 15:12:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">/?p=1127</guid>
+		<description><![CDATA[Ahora que mi infraestructura casera, tras la revisión nº 1001, ya va quedando más clara, he implantado el plan de backup de forma que todo lo importante quede bien cubierto. Quiero compartirlo por si a alguien le sirve. Pero como dice Joel Spolsky, mejor que hablar de backups, hablemos de restores, que después cuando se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div style="width: 650px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/purplemattfish/3188379971/"><img title="Discos duros machacados. Click para ver el autor." src="http://farm4.static.flickr.com/3334/3188379971_5d23187d23_z_d.jpg?zz=1" alt="Discos duros machacados. Click para ver el autor." width="640" height="427" /></a><p class="wp-caption-text">Discos duros machacados. Click para ver el autor.</p></div>
+<p style="text-align: justify;">Ahora que mi infraestructura casera, tras la revisión nº 1001, ya va quedando más clara, he implantado el plan de backup de forma que todo lo importante quede bien cubierto. Quiero compartirlo por si a alguien le sirve. Pero como dice Joel Spolsky, <a href="http://www.joelonsoftware.com/items/2009/12/14.html">mejor que hablar de backups, hablemos de restores</a>, que después cuando se estropea un disco vamos a intentar usar nuestro backup y el disco donde está no aparece, o está estropeado, o se grabó mal, o cualquier otro tormento que se le ocurra a Murphy <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Mi equipo principal de trabajo es el iMac 27&#8243;. Por eso, he decidido pasar a su disco de 1TB todo lo importante: documentos, código fuente, películas caseras de vídeo, fotografías, librería de iTunes, etc. De momento sólo uso medio disco. Es muy importante que, antes de empezar a realizar copias de seguridad, <strong>pienses si necesitas realmente hacer backup de todo</strong>. Yo, por ejemplo, tengo un disco externo de 750 GB conectado a la Time Capsule que contiene fundamentalmente películas descargadas de Internet. Si ese disco muere, vuelvo a tirar de Megaupload y listo. No es crítico perder esa información. Pero si pierdes las fotos de tu boda ¿cómo se lo explicas a tu mujer? ¿Lo vas comprendiendo ahora? <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Conectado al iMac tengo un <a href="/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/">Drobo v2</a> (USB + Firewire, pero sin red) con tres discos de  momento (500GB + 500GB + 1.5TB) , lo que me deja unos 900 GB de espacio protegido, frente al fallo de un disco. El <a href="/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/">Drobo no te protege de tu propia estupidez si lo borras todo</a>, pero al menos sí que te permite reaccionar y que el fallo tonto de un disco, que cuesta menos de 80 Eur. no te cause un perjuicio económico y la pérdida de montones de cabello mediante la técnica de los tirones. Así que en el Drobo hago las copias de seguridad de Time Machine del iMac, y tengo alguna cosa importante, pero que no quiero tener en el iMac, como mi biblioteca de máquinas virtuales.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Como se da la feliz casualidad de que tengo un WD Mybook Studio 1TB firewire y coincide exactamente con el tamaño del disco duro interno del iMac, para mayor seguridad uso Carbon Copy Cloner y creo un clon arrancable del iMac. Así, si el disco del iMac falla, puedo hacer dos cosas: arrancar desde el DVD de Snow Leopard y restaurar la copia de Time Machine del Drobo o bien arrancar directamente desde firewire el WD y seguir trabajando (si fuera una urgencia). Esta copia la actualizo una vez al mes, y para hacer aún más hincapie en la paranoia de la pérdida de datos, duerme en casa de mi suegra. Así estoy cubierto frente a un robo o un incendio.</p>
+<p style="text-align: justify;">Mi Time Capsule (con un disco de 500 GB) ha quedado para hacer backup con Time Machine de los dos portátiles, mi MacBook Pro y el Macbook blanco de mi mujer. Quizá debería ampliar el disco interno de la Time Capsule, pero si se queda pequeña probablemente mueva una de las copias al Drobo y le añada otro disco.</p>
+<p style="text-align: justify;">Revisando mi política de backup, y pensando en los posibles desastres podemos ver que:</p>
+<ul>
+<li>cada portátil tiene los datos en su disco duro y en la Time Capsule. Si falla uno está el otro. Los datos imprescindibles del portátil están en Dropbox (en la nube) luego no siento la necesidad de un mayor nivel de seguridad con los portátiles.</li>
+<li>si el HD interno del iMac falla, dispongo de dos copias. Una muy actual, de Time Machine, guardada en el Drobo, y otra que arranca externamente en el WD y que como máximo será de hace un mes. Combinando ambas puedo rehacerme de un desastre razonablemente bien.</li>
+</ul>
+<p>Sólo falta una pieza aquí, y es contratar un servicio de backups offsite, como <a href="http://b3.crashplan.com/landing/index.html">CrashPlan</a>. O bien usar la cuenta de Megaupload para esos menesteres. Aunque viendo las velocidades de subida que sufrimos en España, esto parece aún ciencia ficción.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/03/mi-plan-de-backups/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Mi MacbookPro con un nuevo disco duro: WD Scorpio Black</title>
+		<link>/2010/09/22/mi-macbookpro-con-un-nuevo-disco-duro-wd-scorpio-black/</link>
+		<comments>/2010/09/22/mi-macbookpro-con-un-nuevo-disco-duro-wd-scorpio-black/#comments</comments>
+		<pubDate>Wed, 22 Sep 2010 11:48:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Trasteando]]></category>
+
+		<guid isPermaLink="false">/?p=1094</guid>
+		<description><![CDATA[Mi Macbook Pro, mi portátil principal y hasta ahora máquina de trabajo, venía de fábrica con un disco duro de 160GB y 5200 rpm de velocidad de rotación de la marca Fujitsu. Hace dos años y medio cuando me lo compré, estaba bien. Pero ahora ni la velocidad ni la capacidad son satisfactorias. Especialmente la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Mi Macbook Pro, mi portátil principal y hasta ahora máquina de trabajo, venía de fábrica con un disco duro de 160GB y 5200 rpm de velocidad de rotación de la marca Fujitsu. Hace dos años y medio cuando me lo compré, estaba bien. Pero ahora ni la velocidad ni la capacidad son satisfactorias. Especialmente la velocidad. En dos años y medio no he reinstalado la máquina ni una vez. Actualicé de Leopard a Snow Leopard y gracias. Se ve que, con tanto instalar y desinstalar programas, y con la fragmentación del disco propia del uso, era demasiado para el S.O. La máquina iba un poco lenta. Muy estable, eso sí, sin cuelgues ni pérdidas extrañas de rendimiento. Pero lenta.</p>
+<p style="text-align: justify;">La solución: ampliar la memoria. Espera, que el portátil ya tiene 4 GB de RAM, y además el problema no está en la falta de memoria. Y me parece que estábamos hablando de discos duros. Cierto, bueno, pues la <em>otra</em> ampliación que se puede hacer a un portátil fácilmente (sin soldar) es cambiar el HD. Ya he comentado que <a href="/2010/09/17/shopping-spree/">me he lanzado a comprarlo</a>. Instalarlo me ha dado algún problema (torpe que es uno), pero he seguido <a href="http://www.youtube.com/watch?v=K9r1UAVq9AU">este vídeo</a> y al final se ha conseguido.</p>
+<h1>El resultado</h1>
+<p style="text-align: justify;">El Scorpio Black duplica en espacio al anterior Fujitsu que tenía instalado. Luego en este apartado hay poco más que comentar. Con el nuevo iMac como máquina principal, no creo tampoco que lo llene, pero si tengo un viaje de trabajo nunca vienen de más unos gigas para guardar alguna peliculita y la máquina virtual de rigor.</p>
+<p style="text-align: justify;">Es en velocidad del disco (y por tanto de operación en general de la máquina) donde se nota la mejora. Y vaya si se nota. He usado XBench para realizar un benchmark del equipo, antes y después.</p>
+<p style="text-align: justify;">Antes de hacer nada, con el disco Fujitsu 5200 rpm y Snow Leopard instalado sobre Leopard, con dos años y medio de maltrato encima los número eran los siguientes (click para verlo más grande):</p>
+<p style="text-align: justify;">
+<div id="attachment_1100" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/antes.png"><img class="size-medium wp-image-1100" title="Resultados con el disco original" src="/wp-content/uploads/2010/09/antes-300x94.png" alt="" width="300" height="94" srcset="/wp-content/uploads/2010/09/antes-300x94.png 300w, /wp-content/uploads/2010/09/antes.png 671w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Resultados con el disco original</p></div>
+<p>Después de instalar el nuevo disco, con un Snow Leopard limpio y con las aplicaciones instaladas desde cero, sin importar preferencias de ningún sitio, el resultado es (click para verlo más grande):</p>
+<div id="attachment_1097" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/despues.png"><img class="size-medium wp-image-1097" title="Resultados XBench tras instalar nuevo disco" src="/wp-content/uploads/2010/09/despues-300x86.png" alt="" width="300" height="86" srcset="/wp-content/uploads/2010/09/despues-300x86.png 300w, /wp-content/uploads/2010/09/despues.png 707w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Resultados XBench tras instalar nuevo disco</p></div>
+<p>La mejora global del benchmark es enorme, pero si vemos los números de acceso a disco, veremos que hay una mejora de más del 100%: el acceso a disco es casi el doble de rápido.</p>
+<p>Acceso a disco antes (click para verlo más grande):</p>
+<div id="attachment_1101" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/disco-antes.png"><img class="size-medium wp-image-1101" title="Datos benchmark disco antes" src="/wp-content/uploads/2010/09/disco-antes-300x145.png" alt="" width="300" height="145" srcset="/wp-content/uploads/2010/09/disco-antes-300x145.png 300w, /wp-content/uploads/2010/09/disco-antes.png 677w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Datos benchmark disco antes</p></div>
+<p>y después (click para verlo más grande):</p>
+<div id="attachment_1102" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/disco-despues.png"><img class="size-medium wp-image-1102 " title="Datos benchmark disco después" src="/wp-content/uploads/2010/09/disco-despues-300x143.png" alt="" width="300" height="143" srcset="/wp-content/uploads/2010/09/disco-despues-300x143.png 300w, /wp-content/uploads/2010/09/disco-despues.png 678w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Datos benchmark disco después</p></div>
+<p>La máquina arranca más rápido. Lanza las aplicaciones más rápido. Todo lo que tenga que usar disco va mejor.</p>
+<p style="text-align: justify;">¿Problemas? De momento, ninguno. Ni se calienta más, ni hace más ruido (en completo silencio, en plena noche, puedes llegar a oír el disco, pero nada más), ni vibra, ni nada. Como una seda.</p>
+<p style="text-align: justify;">Y por el precio que tiene, es para no pensárselo. Además, me lo compré junto con una caja externa USB para discos SATA2 2,5&#8243;, donde he puesto el disco antiguo. Puedo hasta arrancar con el sistema antiguo (cosa que ya he tenido que hacer, para exportar mi firma digital de la fnmt que se me olvidó) e ir pasando los datos poco a poco. Pues eso, que tengo portátil nuevo.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/22/mi-macbookpro-con-un-nuevo-disco-duro-wd-scorpio-black/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Shopping Spree</title>
+		<link>/2010/09/17/shopping-spree/</link>
+		<comments>/2010/09/17/shopping-spree/#comments</comments>
+		<pubDate>Fri, 17 Sep 2010 18:56:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Trasteando]]></category>
+
+		<guid isPermaLink="false">/?p=1083</guid>
+		<description><![CDATA[Una orgía de compras. Quemar la Visa, como dirían los castizos. Así ha empezado Septiembre. Qué me he comprado. De más a menos: Un iMac 27&#8243; Core i7 quad, con 4 GB RAM, 1 TB HD, 512 MB de gráfica, etc. Es un equipo refurbished, de los que vende Apple tras repararlos, o quedárseles obsoletos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Una <em>orgía</em> de compras. <em>Quemar la Visa</em>, como dirían los castizos. Así ha empezado Septiembre. Qué me he comprado. De más a menos:</p>
+<ul>
+<li style="text-align: justify;">Un iMac 27&#8243; Core i7 quad, con 4 GB RAM, 1 TB HD, 512 MB de gráfica, etc. Es un equipo refurbished, de los que vende Apple tras repararlos, o quedárseles obsoletos en los almacenes. Es como comprar un coche kilómetro 0: pagas menos y el coche tiene la misma calidad. Más que nada porque lo he comprado con Apple Care. Durante 3 años, si me da la lata, llamadita y se devuelve.</li>
+<li style="text-align: justify;">Un disco duro nuevo para mi portátil MacBook Pro, y una caja USB externa para el que sobra. Concretamente un WD Scorpio Black, 7200 rpm y 320 GB de espacio. Va como un tiro. Ha sido cambiar el HD Fujitsu que traía la máquina de fábrica, instalar Snow Leopard, y es como tener un ordenador nuevo. Ahora sí que se nota la velocidad en todo con este equipo. Tanto, que casi me arrepiento de haber pedido el iMac. Casi, pero no lo suficiente&#8230;</li>
+<li style="text-align: justify;">Y un adaptador PCMCIA-Compact Flash y un adaptador de HD IDE 2.5&#8243; a dos compact flash. Ambos para mis Commodore Amiga. Me explico. El Amiga 600 puede intercambiar ficheros con los otros Amiga (y con mis otros ordenadores) a base de disquettes de 3.5&#8243; de baja densidad. Pero es un rollo para trasladar cierta cantidad de información. Es mejor usar el adaptador, meterle una CF de, por ejemplo 2 GB (el <em>infinito</em> si hablamos de un Amiga) y copiar a velocidad de vértigo, sin problemas mecánicos ni discos estropeados. Y el adaptador para dos CF es aún mejor. Con el se puede sustituir el HD de cualquier Amiga (600/1200) por un SSD casero. Le pones dos CF de 2GB por cabeza y listo: un HD enorme, que apenas consume electricidad, rapidísimo y que no hace ruido. ¿Se puede pedir más? Sí, ponerme a jugar al Colonization en el Amiga <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+</ul>
+<p>Algunas fotos de los chismes comprados. Pronto, un post sobre el incremento de rendimiento de mi MBP y otro sobre el Core i7.</p>
+<div id="attachment_1087" style="width: 234px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC006341.jpg"><img class="size-medium wp-image-1087" title="Adaptador PCMCIA/CF e IDE/PCMCIA" src="/wp-content/uploads/2010/09/DSC006341-224x300.jpg" alt="" width="224" height="300" srcset="/wp-content/uploads/2010/09/DSC006341-224x300.jpg 224w, /wp-content/uploads/2010/09/DSC006341-767x1024.jpg 767w, /wp-content/uploads/2010/09/DSC006341.jpg 800w" sizes="(max-width: 224px) 100vw, 224px" /></a><p class="wp-caption-text">Adaptador PCMCIA/CF e IDE/PCMCIA</p></div>
+<div id="attachment_1088" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC00630.jpg"><img class="size-medium wp-image-1088" title="Adaptador para 2 CF" src="/wp-content/uploads/2010/09/DSC00630-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2010/09/DSC00630-300x225.jpg 300w, /wp-content/uploads/2010/09/DSC00630.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Adaptador para 2 CF</p></div>
+<div id="attachment_1089" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC00628.jpg"><img class="size-medium wp-image-1089" title="El HD antiguo de mi MBP" src="/wp-content/uploads/2010/09/DSC00628-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2010/09/DSC00628-300x225.jpg 300w, /wp-content/uploads/2010/09/DSC00628.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">El HD antiguo de mi MBP</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/17/shopping-spree/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>El mapa de red de mi casa</title>
+		<link>/2010/02/04/el-mapa-de-red-de-mi-casa/</link>
+		<comments>/2010/02/04/el-mapa-de-red-de-mi-casa/#comments</comments>
+		<pubDate>Thu, 04 Feb 2010 16:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[geek]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=583</guid>
+		<description><![CDATA[Mal vamos cuando me he tenido que hacer un mapa de red para enterarme de algunas máquinas (las principales) que tengo por casa. Digo algunas, porque no están todas. Están las fundamentales de trabajo y ocio, pero no aparecen mis iPhones ni algunas otras que colecciono y se pueden conectar a la red (Amiga 1200, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify; ">Mal vamos cuando me he tenido que hacer un mapa de red para enterarme de algunas máquinas (las principales) que tengo por casa. Digo algunas, porque no están todas. Están las fundamentales de trabajo y ocio, pero no aparecen mis iPhones ni algunas otras que colecciono y se pueden conectar a la red (Amiga 1200, Amiga 600, Sun Solaris, PowerMac G3, Pentium IV, etc.).</p>
+<div id="attachment_584" style="width: 624px" class="wp-caption alignnone"><a href="/wp-content/uploads/2010/01/Esquema-de-red.001.png"><img class="size-full wp-image-584 " title="Esquema de red" src="/wp-content/uploads/2010/01/Esquema-de-red.001.png" alt="El esquema de red de mi casa :-)" width="614" height="461" srcset="/wp-content/uploads/2010/01/Esquema-de-red.001.png 1024w, /wp-content/uploads/2010/01/Esquema-de-red.001-300x225.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">El esquema de red de mi casa <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify; ">¿Que para qué quiero tantas máquinas? ¡Eso mismo empiezo a preguntarme yo! Unas las he comprado por trabajo (el Dell Inspiron 9400 fue mi portátil de trabajo hace tres años), otras por gusto (mi MacBook Pro, o el PowerMac G5, aunque ahora son mis herramientas principales de trabajo). Otros me los he ido encontrando por el camino y, a fin de cuentas, a todo Geek le gusta almacenar cacharros con los que trastear. Si no, no nos llamaríamos Geeks <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify; ">Tengo que escribir un post de mi escritorio actual y cómo y para qué utilizo cada ordenador. Y también voy a empezar a soltar lastre. Ahora que acabo de ver este mapa, me ha entrado pánico <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/04/el-mapa-de-red-de-mi-casa/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Un PC montado en una botella de Whisky</title>
+		<link>/2006/02/09/un-pc-montado-en-una-botella-de-whisky/</link>
+		<pubDate>Thu, 09 Feb 2006 10:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">/2006/02/09/un-pc-montado-en-una-botella-de-whisky/</guid>
+		<description><![CDATA[Todo aficionado a la informática, ya sea por pasión o profesión, acaba trasteando en mayor o menor medida con su ordenador. Aunque hay gente especialmente hábil, y que se dedica a personalizar sus equipos, comprando componentes de alta calidad, como memorias más rápidas, placas base más pequeña o ventiladores super-silenciosos. En mi caso, he apretado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">Todo aficionado a la informática, ya sea por pasión o profesión, acaba trasteando en mayor o menor medida con su ordenador. Aunque hay gente especialmente hábil, y que se dedica a personalizar sus equipos, comprando componentes de alta calidad, como memorias más rápidas, placas base más pequeña o ventiladores super-silenciosos.</p>
+<p class="bodytext" style="text-align: justify;">En mi caso, he apretado más de un tornillo. Mis equipos los mantengo yo y siempre tengo por casa un par de equipos no operativos montados con piezas descartadas de otros equipos. Ultimamente he realizado unas cuantas modificaciones hard (lo que se llama en el ambiente o <em>scene</em> <em>hardware mods</em>) en mis <a href="/retrocomputing/">ordenadores antiguos</a>, pero nada que ver con lo que consigue el protagonista de esta noticia: <a href="http://metku.net/index.html?sect=view&amp;n=1&amp;path=mods/whiskypc/index_eng">meter un PC enterito en una botella de whisky</a>.</p>
+<p class="bodytext">No sólo demuestra tener un gran ingenio y habilidad. También destila nostalgia. Al verlo, no he podido olvidar acordarme de los barcos de vela que se meten en las botellas.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Vista &#8211; freniche.com</title>
+	<atom:link href="/tag/vista/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mis primeros pasos con Windows Vista</title>
+		<link>/2009/04/01/mis-primeros-pasos-con-windows-vista/</link>
+		<pubDate>Wed, 01 Apr 2009 21:56:46 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Vista]]></category>
+
+		<guid isPermaLink="false">/2009/04/01/mis-primeros-pasos-con-windows-vista/</guid>
+		<description><![CDATA[He recibido hoy una maquinita curiosa. Un Dell Vostro 1510. Es un pequeño pepino, completamente negro, con un Core2Duo T8100, 4GB RAM y un disco duro de 280 GB. Vamos, que puede hacer un par de cosas o tres. Viene con Windows Vista Business. Que nadie me pregunte nada sobre Vista: es la primera vez [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">He recibido hoy una maquinita curiosa. Un Dell Vostro 1510. Es un pequeño <em>pepino</em>, completamente negro, con un Core2Duo T8100, 4GB RAM y un disco duro de 280 GB. Vamos, que puede hacer un par de cosas o tres. Viene con Windows Vista Business. Que nadie me pregunte <em>nada</em> sobre Vista: es la primera vez que lo estoy viendo.</p>
+<p align="justify">Con esto de las versiones de Vista me quedo con el vídeo que sacó Apple para comparar con las versiones de Mac OS X: no tiene desperdicio.</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/wA0WPqlV7wM" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/wA0WPqlV7wM"></param></object></div>
+</div>
+<p align="justify">Hasta ahora lo único que he podido hacer es darme cuenta de que ya nada está en su sitio, es decir, donde están las cosas en XP. Y que el exposé cutre que pone las ventanas en 3D es efectista, pero no efectivo. Quiero instalar vmware y correr algunas maquinitas virtuales, a ver cómo se comporta la máquina.</p>
+<p>Aunque tengo tentaciones de sacarle los 4GB y ponérselos a mi MacBook Pro&#8230; Umm, seguro que ahí les saco más partido <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

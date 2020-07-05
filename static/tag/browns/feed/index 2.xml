@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Browns &#8211; freniche.com</title>
+	<atom:link href="/tag/browns/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Problemas con el disco duro de mi iMac</title>
+		<link>/2010/12/29/problemas-con-el-disco-duro-de-mi-imac/</link>
+		<pubDate>Wed, 29 Dec 2010 09:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Browns]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[iCharlas]]></category>
+		<category><![CDATA[iMac]]></category>
+
+		<guid isPermaLink="false">/?p=1321</guid>
+		<description><![CDATA[Hace unos días estuve escuchando episodios atrasados de iCharlas hasta que me puse al día. En uno de ellos, hablaban del mantenimiento que necesita un Mac y comentaban el programa Onyx, que utilicé mucho al principio de mi etapa de switcher, pero que había relegado un poco al olvido. Pensando que no era mala idea [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace unos días estuve escuchando episodios atrasados de <a href="http://www.icharlas.es/">iCharlas</a> hasta que me puse al día. En uno de ellos, hablaban del mantenimiento que necesita un Mac y comentaban el programa <a href="http://www.titanium.free.fr/">Onyx</a>, que utilicé mucho al principio de mi etapa de switcher, pero que había relegado un poco al olvido.</p>
+<p style="text-align: justify;">Pensando que no era mala idea el pasarle Onyx al HD del iMac, para ver su estado, comprobar el sistema de ficheros y con la esperanza de que el sistema se aligerase algo (mi iMac es una maravilla de ordenador, pero uno siempre quiere más :-)) me lancé y el resultado no fue muy bueno. Onyx me indicaba que arrancase con un disco externo y reparase el disco. Acostumbrado como estoy con Linux a que no es buena idea hacer un fsck (filesystem check) a un sistema de ficheros montado (AKA volumen en Mac OS X), me traje de casa de mi suegra el HD externo donde guardo un clon del iMac (<a href="/2010/10/03/mi-plan-de-backups/">si quieres saber cómo tengo organizadas mis copias de seguridad, puedes leerte este post</a>)</p>
+<p style="text-align: justify;">Conecté el disco con su cable FW800, directamente al iMac, encendí la máquina pulsando la tecla Opción (Alt) y me aparecieron los dos discos desde los que podía arrancar: el interno del iMac y el externo. Me moví al externo y pulsé Intro. ¡Catacrok!. Un <strong>kernel panic</strong> como un castillo, la versión UNIXera de las BSOD de Windows. El iMac no arrancaba desde el HD externo. ¿Cómo puede ser ésto? Si cada vez que hago la copia de seguridad completa compruebo el arranque. Pero parece que la versión de S.O. que tienes instalada importa, aunque no tiene mucho sentido para mi. El caso es que desde la última copia de seguridad había actualizado el iMac a la 10.6.5 y la que tenía en el HD externo era la 10.6.4. Sigo pensando que no tiene sentido, y que puedo tener diferentes copias con versiones distintas del S.O.; probablemente la última copia externa no la comprobé como es debido.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<div id="attachment_1329" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg"><img class="size-full wp-image-1329" title="Kernel Panic en OSX. Shit happens!" src="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg" alt="Kernel Panic en OSX. Shit happens!" width="800" height="532" srcset="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg 800w, /wp-content/uploads/2010/12/kernel_panic_macosx-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Kernel Panic en OSX. Shit happens!</p></div>
+<p style="text-align: justify;">No pudiendo arrancar desde el disco externo que tengo para arrancar en casos de emergencia (bravo por Murphy) pensé en hacerlo desde el DVD de Snow Leopard, arreglar el disco duro interno del iMac, reclonar el HD externo y listo. Así que cogí el DVD, lo puse en el lector, apagué, encendí con Opción pulsada y seleccioné el DVD. No arranca. ¡Pero qué pasa!. ¡Ah, claro!, es el DVD de Snow Leopard retail. Y este no arranca en el iMac. Necesito el que venía con el iMac, que está, está&#8230; ¡no me acuerdo!</p>
+<p style="text-align: justify;">A estas alturas empezaba ya a murmurar maldiciones y a estar bastante cabreado, conmigo mismo, con mis procedimientos, mi sistema de archivo, etc. Pero se me hizo la luz mental al recordar que los Macs pueden arrancar en modo <a href="http://en.wikipedia.org/wiki/Target_Disk_Mode">target firewire disk</a>. Puedes conectar un Mac a otro mediante un cable Firewire y hacer que el disco duro de uno se vea como un disco externo en otro. En mi caso, arranqué el iMac en modo Target Firewire disk y magia!, apareció en el escritorio de mi MBP</p>
+<div id="attachment_1324" style="width: 889px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/reparando-hd-imac.png"><img class="size-full wp-image-1324" title="El HD de mi iMac, ya reparado, en la Utilidad de Discos de mi MBP" src="/wp-content/uploads/2010/12/reparando-hd-imac.png" alt="El HD de mi iMac, ya reparado, en la Utilidad de Discos de mi MBP" width="879" height="721" srcset="/wp-content/uploads/2010/12/reparando-hd-imac.png 879w, /wp-content/uploads/2010/12/reparando-hd-imac-300x246.png 300w" sizes="(max-width: 879px) 100vw, 879px" /></a><p class="wp-caption-text">El HD de mi iMac, con errores, en la Utilidad de Discos de mi MBP</p></div>
+<p>Bueno, ahora era coser y cantar. Le di a reparar disco y a esperar. Al final, todo parece correcto. Volví a verificar el disco y ¡estupendo!. Ya tenemos arreglado el disco del iMac.</p>
+<p>Ya sólo me quedaba desmontar el disco del iMac del MBP, apagar el iMac, quitar el cable FW800, reiniciar el iMac, comprobar que todo estaba OK, conectar el HD externo Western Digital y actualizar la copia de seguridad de todo el iMac&#8230; vamos, lo que se dice una tarde entretenida&#8230;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

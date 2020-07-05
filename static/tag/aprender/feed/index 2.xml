@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>aprender &#8211; freniche.com</title>
+	<atom:link href="/tag/aprender/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Voy a aprender Git</title>
+		<link>/2013/04/02/voy-a-aprender-git/</link>
+		<comments>/2013/04/02/voy-a-aprender-git/#comments</comments>
+		<pubDate>Tue, 02 Apr 2013 07:49:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[aprender]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[git]]></category>
+		<category><![CDATA[Mercurial]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1905</guid>
+		<description><![CDATA[Git. Ese sistema de control de versiones para superdotados. Es un hijo de Linus (el creador de Linux). Por ello, la sencillez no es una de sus características. Si alguna vez has configurado y compilado un kernel de Linux, sabrás que a este señor no le gusta ningún programa sin al menos cincuenta opciones en [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://git-scm.com/">Git</a>. Ese sistema de control de versiones para superdotados. Es un <em>hijo de <a href="http://en.wikipedia.org/wiki/Linus_Torvalds">Linus</a></em> (el creador de Linux). Por ello, la <strong>sencillez</strong> no es una de sus características. Si alguna vez has configurado y compilado un kernel de Linux, sabrás que a este señor no le gusta ningún programa sin al menos cincuenta opciones en la línea de comandos: veinticinco empezando por <code>-</code>y otras veinticinco por <code>--</code>. Y diez más que no están documentadas. Para usar Git se asume que ya tienes de antemano una serie de habilidades (manejo de la Terminal, uso de ssh, resistencia innata al desaliento ante una documentación fea como un demonio, coeficiente intelectual de 300, &#8230;)</p>
+<p>Así que uso habitualmente <a href="http://mercurial.selenic.com/">Mercurial</a> (siempre que puedo, antes que Git) por varias razones:</p>
+<ul>
+<li>me resultó muy sencillo aprender a usar Mercurial gracias al <a href="http://hginit.com/">excelente tutorial de Joel Spolsky</a> </li>
+<li>el 80% de las cosas que haces habitualmente es muy sencillo de hacer con HG</li>
+<li>no necesitas configurar nada: te lo bajas, lo instalas, vas a una carpeta, escribes <code>hg init</code> y listo</li>
+<li>tanto BitBucket como SourceTree lo soportan. Luego es perfecto para mi.</li>
+<li>si funciona, no lo toques</li>
+</ul>
+<p><em>Pero claro, no se Git. Y me siento estúpido.</em></p>
+<p>Hay varias cosas que considero «la maratón mental del informático». Lo que distingue a los buenos de los que tienen que seguir esforzándose. Cosas difíciles, que te obligan a aprender y a exprimirte el cerebro. Por supuesto, no he hecho ninguna de ellas, autocolocándome en uno de los dos anteriores grupos. Estos retos son:</p>
+<ul>
+<li>dominar el uso de expresiones regulares (sin mirar en StackOverflow)</li>
+<li>escribir una pequeña aplicación o demo completamente en ensamblador</li>
+<li>hacer una aplicación web en un lenguaje funcional, como Clojure</li>
+<li>hacer un juego usando OpenGL</li>
+<li>entender qué demonios hace git con las ramas y git flow</li>
+</ul>
+<p>Pues bien, una de ellas voy a tacharla de la lista, pero ya. El uso de Git está muy extendido, y soluciones que uso habitualmente como Cocoa Pods lo utilizan de forma extensa. Tengo que aprender a usarlo, quiera o no. Además, en varios proyectos se necesita Git y aunque con SourceTree puedo ir tirando, quiero comprender qué se cuece tras la interfaz bonita y ser capaz de manejar este DCVS yo solito.</p>
+<p>La opción de leer un libro me aterrorizaba: demasiado esfuerzo tras tanto esfuerzo con otras cosas. Así que la mejor solución va a ser asistir al curso <a href="http://www.cursodegit.com/">Entendiendo Git</a> que <a href="https://twitter.com/aalbagarcia">Alfonso Alba</a> imparte en Las Rozas. Creo que aún estás a tiempo de conseguir un descuento por compra anticipada. Voy con muchas esperanzas puestas en el curso, para tener una base que me permita manejar en el día a día este DCVS sin problemas, y explorar por mi cuenta. Vamos, que espero entrar chapurreando un par de palabras en Git y salir <em>hablando</em>, con acento y poco vocabulario, Git. Pero entendiéndolo al menos.</p>
+<p>Escribiré qué he aprendido en el curso cuando lo termine. Pero conociendo a Alfonso de las <a href="http://nscoder-mad.tumblr.com/">NSCoder Night de Madrid</a> creo que la duda no está en la calidad del curso, sino en si mi mente será capaz de pasar por la <em>maratón</em>. Espero que si.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/04/02/voy-a-aprender-git/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

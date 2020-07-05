@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SCWCD &#8211; freniche.com</title>
+	<atom:link href="/tag/scwcd/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>SCWCD aprobado!</title>
+		<link>/2010/06/25/scwcd-aprobado/</link>
+		<comments>/2010/06/25/scwcd-aprobado/#comments</comments>
+		<pubDate>Fri, 25 Jun 2010 21:05:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+		<category><![CDATA[certificaciones]]></category>
+		<category><![CDATA[SCWCD]]></category>
+
+		<guid isPermaLink="false">/?p=1050</guid>
+		<description><![CDATA[Un poco (más) de autobombo. Comentaba hace unos días que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. Hoy, tras un par de semanas intensas y más sufrimiento del que esperaba, lo he aprobado con un 79%. Un poco raspado, ya que el aprobado está en el 70%, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Un poco (más) de autobombo. <a href="/2010/06/09/preparando-el-scwcd/">Comentaba hace unos días</a> que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. Hoy, tras un par de semanas intensas y más sufrimiento del que esperaba, lo he aprobado con un 79%. Un poco raspado, ya que el aprobado está en el 70%, pero&#8230; está aprobado, ¿no?</p>
+<p style="text-align: justify;">Esta certificación se une al Sun Certified Java Programmer 1.5 y Sun Certified Business Component Developer 1.3 que ya tenía. Y, si todo va bien, a finales de Julio me presentaré al SCJP 1.6, para así tener estas cuatro certificaciones y poder cobrar mis horas a precio de <em>Gurú</em> :-). No, ahora en serio, voy a intentar aplicar estas certificaciones en algo que quiero preparar en los próximos meses. Permanezcan atentos a sus receptores&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/06/25/scwcd-aprobado/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Flash &#8211; freniche.com</title>
+	<atom:link href="/tag/flash/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Increíble lo que hacen con Flash</title>
+		<link>/2006/01/10/increible-lo-que-hacen-con-flash/</link>
+		<pubDate>Tue, 10 Jan 2006 09:41:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Arte]]></category>
+		<category><![CDATA[Flash]]></category>
+
+		<guid isPermaLink="false">/2006/01/10/increible-lo-que-hacen-con-flash/</guid>
+		<description><![CDATA[Me lo acaba de enviar Vitalino y es realmente bueno. Se demuestra una vez más que el artista no depende del medio que utiliza para expresarse. El que de verdad es artista. Que hay por ahí mucho cuentista soldando hierro y diciendo que es escultor, o tirando cubos de pintura a las paredes y diciendo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">Me lo acaba de enviar Vitalino y es realmente bueno. <a href="http://www.pelourinho.com/movies/c003702/">Se demuestra una vez más que el artista no depende del medio que utiliza para expresarse</a>. El que de verdad es artista. Que hay por ahí mucho cuentista soldando hierro y diciendo que es escultor, o tirando cubos de pintura a las paredes y diciendo que es pintor. A la gran mayoría de <em>artistas</em> les recomendaría una vueltecita por Roma. Si uno es capaz de hacer algo similar a lo que se puede ver por allí, es que de verdad conoce su oficio, sea este escultor, pintor, arquitecto&#8230;</p>
+<p class="bodytext" style="text-align: justify;">Si no, siempre se puede recurrir a los cubazos de pintura y decir que se está en <em>vanguardia</em>. Curiosamente todo avanza, pero parece que los pintores y escultores van hacia atrás.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

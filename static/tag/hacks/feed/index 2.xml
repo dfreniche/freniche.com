@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hacks &#8211; freniche.com</title>
+	<atom:link href="/tag/hacks/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Shopping Spree</title>
+		<link>/2010/09/17/shopping-spree/</link>
+		<comments>/2010/09/17/shopping-spree/#comments</comments>
+		<pubDate>Fri, 17 Sep 2010 18:56:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Trasteando]]></category>
+
+		<guid isPermaLink="false">/?p=1083</guid>
+		<description><![CDATA[Una orgía de compras. Quemar la Visa, como dirían los castizos. Así ha empezado Septiembre. Qué me he comprado. De más a menos: Un iMac 27&#8243; Core i7 quad, con 4 GB RAM, 1 TB HD, 512 MB de gráfica, etc. Es un equipo refurbished, de los que vende Apple tras repararlos, o quedárseles obsoletos [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Una <em>orgía</em> de compras. <em>Quemar la Visa</em>, como dirían los castizos. Así ha empezado Septiembre. Qué me he comprado. De más a menos:</p>
+<ul>
+<li style="text-align: justify;">Un iMac 27&#8243; Core i7 quad, con 4 GB RAM, 1 TB HD, 512 MB de gráfica, etc. Es un equipo refurbished, de los que vende Apple tras repararlos, o quedárseles obsoletos en los almacenes. Es como comprar un coche kilómetro 0: pagas menos y el coche tiene la misma calidad. Más que nada porque lo he comprado con Apple Care. Durante 3 años, si me da la lata, llamadita y se devuelve.</li>
+<li style="text-align: justify;">Un disco duro nuevo para mi portátil MacBook Pro, y una caja USB externa para el que sobra. Concretamente un WD Scorpio Black, 7200 rpm y 320 GB de espacio. Va como un tiro. Ha sido cambiar el HD Fujitsu que traía la máquina de fábrica, instalar Snow Leopard, y es como tener un ordenador nuevo. Ahora sí que se nota la velocidad en todo con este equipo. Tanto, que casi me arrepiento de haber pedido el iMac. Casi, pero no lo suficiente&#8230;</li>
+<li style="text-align: justify;">Y un adaptador PCMCIA-Compact Flash y un adaptador de HD IDE 2.5&#8243; a dos compact flash. Ambos para mis Commodore Amiga. Me explico. El Amiga 600 puede intercambiar ficheros con los otros Amiga (y con mis otros ordenadores) a base de disquettes de 3.5&#8243; de baja densidad. Pero es un rollo para trasladar cierta cantidad de información. Es mejor usar el adaptador, meterle una CF de, por ejemplo 2 GB (el <em>infinito</em> si hablamos de un Amiga) y copiar a velocidad de vértigo, sin problemas mecánicos ni discos estropeados. Y el adaptador para dos CF es aún mejor. Con el se puede sustituir el HD de cualquier Amiga (600/1200) por un SSD casero. Le pones dos CF de 2GB por cabeza y listo: un HD enorme, que apenas consume electricidad, rapidísimo y que no hace ruido. ¿Se puede pedir más? Sí, ponerme a jugar al Colonization en el Amiga <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+</ul>
+<p>Algunas fotos de los chismes comprados. Pronto, un post sobre el incremento de rendimiento de mi MBP y otro sobre el Core i7.</p>
+<div id="attachment_1087" style="width: 234px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC006341.jpg"><img class="size-medium wp-image-1087" title="Adaptador PCMCIA/CF e IDE/PCMCIA" src="/wp-content/uploads/2010/09/DSC006341-224x300.jpg" alt="" width="224" height="300" srcset="/wp-content/uploads/2010/09/DSC006341-224x300.jpg 224w, /wp-content/uploads/2010/09/DSC006341-767x1024.jpg 767w, /wp-content/uploads/2010/09/DSC006341.jpg 800w" sizes="(max-width: 224px) 100vw, 224px" /></a><p class="wp-caption-text">Adaptador PCMCIA/CF e IDE/PCMCIA</p></div>
+<div id="attachment_1088" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC00630.jpg"><img class="size-medium wp-image-1088" title="Adaptador para 2 CF" src="/wp-content/uploads/2010/09/DSC00630-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2010/09/DSC00630-300x225.jpg 300w, /wp-content/uploads/2010/09/DSC00630.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">Adaptador para 2 CF</p></div>
+<div id="attachment_1089" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/09/DSC00628.jpg"><img class="size-medium wp-image-1089" title="El HD antiguo de mi MBP" src="/wp-content/uploads/2010/09/DSC00628-300x225.jpg" alt="" width="300" height="225" srcset="/wp-content/uploads/2010/09/DSC00628-300x225.jpg 300w, /wp-content/uploads/2010/09/DSC00628.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /></a><p class="wp-caption-text">El HD antiguo de mi MBP</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/17/shopping-spree/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Un PC montado en una botella de Whisky</title>
+		<link>/2006/02/09/un-pc-montado-en-una-botella-de-whisky/</link>
+		<pubDate>Thu, 09 Feb 2006 10:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Hacks]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">/2006/02/09/un-pc-montado-en-una-botella-de-whisky/</guid>
+		<description><![CDATA[Todo aficionado a la informática, ya sea por pasión o profesión, acaba trasteando en mayor o menor medida con su ordenador. Aunque hay gente especialmente hábil, y que se dedica a personalizar sus equipos, comprando componentes de alta calidad, como memorias más rápidas, placas base más pequeña o ventiladores super-silenciosos. En mi caso, he apretado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">Todo aficionado a la informática, ya sea por pasión o profesión, acaba trasteando en mayor o menor medida con su ordenador. Aunque hay gente especialmente hábil, y que se dedica a personalizar sus equipos, comprando componentes de alta calidad, como memorias más rápidas, placas base más pequeña o ventiladores super-silenciosos.</p>
+<p class="bodytext" style="text-align: justify;">En mi caso, he apretado más de un tornillo. Mis equipos los mantengo yo y siempre tengo por casa un par de equipos no operativos montados con piezas descartadas de otros equipos. Ultimamente he realizado unas cuantas modificaciones hard (lo que se llama en el ambiente o <em>scene</em> <em>hardware mods</em>) en mis <a href="/retrocomputing/">ordenadores antiguos</a>, pero nada que ver con lo que consigue el protagonista de esta noticia: <a href="http://metku.net/index.html?sect=view&amp;n=1&amp;path=mods/whiskypc/index_eng">meter un PC enterito en una botella de whisky</a>.</p>
+<p class="bodytext">No sólo demuestra tener un gran ingenio y habilidad. También destila nostalgia. Al verlo, no he podido olvidar acordarme de los barcos de vela que se meten en las botellas.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

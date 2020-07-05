@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: ¡Acabo de importar todas las entradas de Typo3 a WordPress!</title>
+	<atom:link href="/2008/04/16/acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/04/16/acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: freniche.com &#187; Migrar las noticias de Typo3 (tt_news) a Wordpress paso a paso</title>
+		<link>/2008/04/16/acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/comment-page-1/#comment-34</link>
+		<dc:creator><![CDATA[freniche.com &#187; Migrar las noticias de Typo3 (tt_news) a Wordpress paso a paso]]></dc:creator>
+		<pubDate>Sun, 08 Jun 2008 17:31:05 +0000</pubDate>
+		<guid isPermaLink="false">/2008/04/16/%c2%a1acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/#comment-34</guid>
+		<description><![CDATA[[...] ya un tiempo escribí este post contando que había conseguido pasar de Typo a Wordpress. También decía que algún día escribiría un paso a paso. Un comentario del usuario June me lo [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] ya un tiempo escribí este post contando que había conseguido pasar de Typo a WordPress. También decía que algún día escribiría un paso a paso. Un comentario del usuario June me lo [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: June</title>
+		<link>/2008/04/16/acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/comment-page-1/#comment-29</link>
+		<dc:creator><![CDATA[June]]></dc:creator>
+		<pubDate>Thu, 05 Jun 2008 23:59:06 +0000</pubDate>
+		<guid isPermaLink="false">/2008/04/16/%c2%a1acabo-de-importar-todas-las-entradas-de-typo3-a-wordpress/#comment-29</guid>
+		<description><![CDATA[Yo quiero migrar un sitio de Typo3 a wordpress =o!!! me puedes guiar en eso, busqué pero todavía no sacaste un seguimiento a este post. Saludos ^^]]></description>
+		<content:encoded><![CDATA[<p>Yo quiero migrar un sitio de Typo3 a wordpress =o!!! me puedes guiar en eso, busqué pero todavía no sacaste un seguimiento a este post. Saludos ^^</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

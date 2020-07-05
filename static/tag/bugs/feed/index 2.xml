@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bugs &#8211; freniche.com</title>
+	<atom:link href="/tag/bugs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Oops, Google! Menos darle cañita a Apple y más mirar estas cosas&#8230;</title>
+		<link>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/</link>
+		<comments>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/#comments</comments>
+		<pubDate>Wed, 26 May 2010 18:41:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Bugs]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">/?p=1018</guid>
+		<description><![CDATA[Ha vuelto la Google Screen Of Death (TM Diego Freniche), o GSOD. Que cuando sale un kernel panic en Linux o una pantalla azul en Windows bien que nos reímos. Bueno, pues a Google también le pasa: Google: menos Buzz y Wave, y más hacer que el buscador sea lo que fue y que no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Ha vuelto la Google Screen Of Death (TM Diego Freniche), o GSOD. Que cuando sale un kernel panic en Linux o una pantalla azul en Windows bien que nos reímos. Bueno, pues a Google también le pasa:</p>
+<div id="attachment_1019" style="width: 410px" class="wp-caption aligncenter"><img class="size-full wp-image-1019" title="GSOD" src="/wp-content/uploads/2010/05/GSOD-e1274899109968.png" alt="" width="400" height="319" /><p class="wp-caption-text">Google Screen Of Death, también conocida por ERROR 500 HTTP</p></div>
+<p>Google: menos Buzz y Wave, y más hacer que el buscador sea lo que fue y que no pasen estas cosas&#8230; aunque tú ya lo sabes <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Por cierto, te sigo amando <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/26/oops-google-menos-darle-canita-a-apple-y-mas-mirar-estas-cosas/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>A Google también le puede ocurrir</title>
+		<link>/2005/10/23/a-google-tambien-le-puede-ocurrir/</link>
+		<pubDate>Sun, 23 Oct 2005 18:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Bugs]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">/2005/10/23/a-google-tambien-le-puede-ocurrir/</guid>
+		<description><![CDATA[En la Wikipedia hay un par de artículos para los típicos fallos de Windows (los de Win3.11 eran los Black screen of Death y los de Win98 en adelante son los Blue Screen of Death). Mucho nos hemos reído los informáticos a costa de esto. Bueno, cuando te pasaba tres veces en una hora y [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">
+<p class="bodytext" style="text-align: justify;"><a href="/wp-content/uploads/2005/10/gsod.png"><img class="aligncenter size-full wp-image-744" title="Google Screen Of Death" src="/wp-content/uploads/2005/10/gsod.png" alt="" width="500" height="375" srcset="/wp-content/uploads/2005/10/gsod.png 500w, /wp-content/uploads/2005/10/gsod-300x225.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p class="bodytext" style="text-align: justify;">En la Wikipedia hay un par de artículos para los <a href="http://foldoc.org/Blue+Screen+of+Death">típicos fallos de Windows</a> (los de Win3.11 eran los <a href="http://en.wikipedia.org/wiki/Black_screen_of_death" target="_blank">Black screen of Death</a> y los de Win98 en adelante son los <a href="http://en.wikipedia.org/wiki/Blue_screen_of_death" target="_blank">Blue Screen of Death</a>). Mucho nos hemos reído los informáticos a costa de esto. Bueno, cuando te pasaba tres veces en una hora y no habías grabado el código del programa que estabas escribiendo, no te reías tanto.</p>
+<p class="bodytext">Pues a Google también le pasa. Y como muestra la imagen de al lado. ¿Cómo se llamará esto? ¿GSoD?</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

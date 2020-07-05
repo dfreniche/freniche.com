@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DNS &#8211; freniche.com</title>
+	<atom:link href="/tag/dns/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mejora la velocidad de tu conexión cambiando tus DNS</title>
+		<link>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/</link>
+		<comments>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/#comments</comments>
+		<pubDate>Tue, 18 May 2010 09:39:59 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[DNS]]></category>
+		<category><![CDATA[HowTo]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[predicciones]]></category>
+		<category><![CDATA[Red]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=990</guid>
+		<description><![CDATA[Llevo un tiempo pensando en qué podría hacer para mejorar la velocidad de mi conexión a Internet. Más allá de los típicos test de velocidad, hay algunos parámetros que se pueden tocar (con cuidado, y sabiendo qué se hace, que luego nos lamentamos) para probar si las cosas van mejor o peor. Y no es [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://farm2.static.flickr.com/1175/908946494_c37f4e8970_d.jpg"><img class="aligncenter" title="&quot;Speed of Light&quot;. Pulsa para ver al autor. Yo no saco fotos tan buenas." src="http://farm2.static.flickr.com/1175/908946494_c37f4e8970_d.jpg" alt="" width="500" height="375" /></a></p>
+<p style="text-align: justify;">Llevo un tiempo pensando en qué podría hacer para mejorar la velocidad de mi conexión a Internet. Más allá de los típicos test de velocidad, hay algunos parámetros que se pueden tocar (con cuidado, y sabiendo qué se hace, que luego nos lamentamos) para probar si las cosas van mejor o peor. Y no es porque me vaya mal la conexión. Es por la compulsión de exprimir mis equipos, si puedo y se dejan.</p>
+<p style="text-align: justify;">Uno de esos parámetros que se pueden cambiar son los servidores DNS (hasta tres distintos) que tenemos configurados. Aunque probablemente ya lo sepas, cuando te conectas a otra máquina desde la tuya (por ej., cuando navegas por internet y te conectas a este blog) se produce una traducción entre el nombre «legible para los humanos» y el «número de matrícula» del servidor que contiene mi blog en Internet. Es decir, tu ordenador no comprende blog.freniche.com. El sólo entiende 67.15.211.19. Estos cuatro numeritos es lo que se llama una dirección IPv4. Los puedes obtener, para cualquier servidor del mundo, desde una consola de tu Linux / Mac con la orden:</p>
+<blockquote><p>host blog.freniche.com</p>
+<p>blog.freniche.com has address 67.15.211.19</p></blockquote>
+<p>En Windows, lo puedes hacer con tracert blog.freniche.com desde una consola.</p>
+<p style="text-align: justify;">Es decir, los ordenadores se buscan unos a otros preguntándose por esos «números de matrícula» que son las direcciones IP (realmente lo hacen buscando los «números de bastidor», en analogía con los coches, que son las direcciones MAC, pero no quiero meterme con eso). Claro, que recordar las IPs de las máquinas a las que me quiero conectar no es demasiado sencillo.</p>
+<p style="text-align: justify;">En 1992-3, me conectaba a Internet (yo no sabía entonces que se llamaba así) desde terminales de la Facultad de Matemáticas de la Universidad de Sevilla. Terminales de esos con la pantalla fósforo verde, lo que se llaman terminales tontos. Tenía que «facilitarme» el acceso a cuentas de alumnos de matemáticas porque los informáticos teníamos «capado» el acceso desde nuestra red. El caso es que llevaba una libretita conmigo donde apuntaba: tal dirección IP, tal universidad, tal otra IP, este servidor. De esa forma podía bajarme por FTP código fuente para programar en C. ¡<em>Crackeaba</em> cuentas para programar! El porno en caracteres ASCII no es igual de excitante, aunque hay <a href="http://es.wikipedia.org/wiki/Arte_ASCII">frikis del ASCII</a> que son unos artistas. El caso es que la traducción entre nombre y dirección IP la hacía yo mismo. Yo era mi servidor DNS con patas, y la cache DNS era mi libreta.</p>
+<p style="text-align: justify;">Evidentemente esto no es manejable cuando el número de servidores conocidos crece. Para eso se inventaron los servidores DNS. Cuando te conectas a cualquier web, se produce un intercambio de comunicaciones entre tu máquina y el servidor, y lo primero que se hace es obtener la IP que corresponde al nombre que acabas de escribir. Si esta traducción es rápida, las páginas aparecerán más rápido.</p>
+<p style="text-align: justify;">Pues me he encontrado con <a href="http://www.tuaw.com/2010/05/16/manage-your-dns-settings-for-faster-web-browsing/">este artículo, que explica en Inglés cómo optimizar las DNS</a> usando una utilidad llamada <a href="http://code.google.com/p/namebench/">namebench</a>. Aunque las capturas de pantalla son de Mac, namebench corre en Windows, Mac y Linux y en los tres SOs se pueden cambiar los servidores DNS. Googlea un poco.</p>
+<h1>Paso a paso</h1>
+<ul>
+<li>Descarga namebench y lánzalo. Te aparecerá una pantalla como ésta:</li>
+</ul>
+<div style="text-align: justify;"><img class="aligncenter size-full wp-image-993" title="namebench" src="/wp-content/uploads/2010/05/namebench.png" alt="" width="753" height="418" />Marca que incluya los proveedores DNS globales, los DNS más cercanos geográficamente y que incluya test de censura (por si nuestra conexión está limitada de alguna manera).</div>
+<div>
+<ul>
+<li>Lo lanzas y, tras un rato, te abrirá el navegador con información del servidor DNS que te recomienda, el porcentaje de mejora respecto al que tenías y gráficas con información técnica.</li>
+</ul>
+</div>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-994" title="resultados-namebench" src="/wp-content/uploads/2010/05/resultados-namebench.png" alt="" width="779" height="439" />En mi caso, OpenDNS es el que gana claramente. Le gana incluso a los <a href="http://code.google.com/intl/es-ES/speed/public-dns/">servidores DNS públicos de Google</a>.</p>
+<p style="text-align: justify;">Si estás convencido, debes cambiar los servidores DNS en cada máquina que tengas en casa (a no ser que tengas algo que actúe como servidor DNS en casa, en cuyo caso no creo que tenga que explicarte nada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> ). Por ejemplo, en mi MacBook Pro, he cambiado los DNS tanto en la conexión cableada (Ethernet) como en la inalámbrica (WiFi), como muestro en las siguientes capturas:</p>
+<div id="attachment_995" style="width: 758px" class="wp-caption aligncenter"><img class="size-full wp-image-995 " title="dns-ethernet" src="/wp-content/uploads/2010/05/dns-ethernet.png" alt="" width="748" height="659" /><p class="wp-caption-text">Actualizando los DNS en mi conexión Ethernet</p></div>
+<p>Ahora en la WiFi:</p>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-996" title="dsn-airport" src="/wp-content/uploads/2010/05/dsn-airport.png" alt="" width="665" height="520" />Podemos tener hasta tres servidores DNS. Si el primero no responde, por lo que sea, se pasa al segundo y sucesivamente. Ahora que todo está configurado, en el Mac basta con aceptar los cambios. Ya podemos probar y ver que navegamos más rápido. ¡Bien!. En Windows XP probablemente tengas que reiniciar la máquina entera :-S.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/05/18/mejora-la-velocidad-de-tu-conexion-cambiando-tus-dns/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

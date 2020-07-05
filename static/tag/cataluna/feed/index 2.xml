@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cataluña &#8211; freniche.com</title>
+	<atom:link href="/tag/cataluna/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>La NSConf11 de Vilanova i La Geltrú</title>
+		<link>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/</link>
+		<comments>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 12:43:17 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cataluña]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1630</guid>
+		<description><![CDATA[Este pasado fin de semana tuve el placer de asistir a la primera Conferencia que ha organizado a nivel nacional la Asociación NSCoders España. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Este pasado fin de semana tuve el placer de asistir a la <a href="http://nsconf.nscoders.org/">primera Conferencia</a> que ha organizado a nivel nacional la <a href="http://nscoders.org/">Asociación NSCoders España</a>. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el error de dejarme hablar. Y claro, me dediqué a desvariar un rato y, entre chiste y chiste, contaba cómo hacer un cliente RSS para iPhone.</p>
+<p style="text-align: justify;">Aún no se si realmente alguien aprendió algo de mi charla. Yo me lo pasé muy bien, aunque no las tenía todas conmigo. El Viernes anterior había estado toda la mañana programando con JavaScript y el framework Enyo para la HP TouchPad. Y por la tarde había estado viendo detalles intrincados de Java en un curso de preparación para el OCP Java SE 6 que estoy impartiendo. Y Cocoa ya no me cabía en mis maltrechas neuronas. Al final parece que Cocoa fluyó (con ayuda de muchos cafés) y me pude escapar sin demasiados tomatazos. Y aquí es donde empezó realmente lo bueno.</p>
+<p style="text-align: justify;">Este año he ido a otra conferencia, el iOSDevUK en Gales, que me encantó. Pero comparando ambas, en la NSConf11 he <em>escrito</em> código. No sólo he escuchado, aprendido y charlado de código. He <em>trabajado</em> el código. Como en el increíble taller de TDD que impartió <a href="http://nsconf.nscoders.org/ponentes/pedro-santos">Pedro Santos</a>, tras su charla sobre Behaviour Driven Development. Aquí tuve el privilegio de picar código mientras hacíamos pair programming aplicando el proceso paso a paso de TDD. O la charla sobre Chipmunk de <a href="http://nsconf.nscoders.org/ponentes/oscar-cardona">Óscar Cardona</a>, que nos dejó a todos atontados y pensando «esto no puede ser así de simple, o hay más código o este tío explica muy bien esto». O el taller de Core Plot, donde vimos cómo hacer gráficas complejas con esta librería, gracias a la demo de <a href="http://nsconf.nscoders.org/ponentes/victor-jalencas">Víctor Jalencas</a>. Y tantas y tantas ponencias interesantes. La única pena: las que me perdí mientras yo hablaba, y las que tuve que elegir, perdiendo la que se presentaba en paralelo.</p>
+<p style="text-align: justify;">Lo mejor, la gente que he conocido. Gente con muchas ganas de aprender, compartir y enseñar. Gente encantadora y que, como los miembros de la NSCoder_bcn que han organizado el evento, se han matado para que todo estuviera perfecto, como al final ha sido. Creo que nadie pensaba que en una primera conferencia íbamos a tener tanto público. Esto puede llegar a ser una WWDC hispana. Trabajaremos por ello. Gracias a José Juan, nuestro presidente, o a Guillem o Leandro, o Xabi, o&#8230; por la paliza enorme que se han dado.</p>
+<p style="text-align: justify;">He podido conocer en persona (yo no «desvirtualizo» a las personas: las conozco) a José Lobato, ídolo de masas Geeks y gran bebedor de cerveza :-D. El tío en persona es para comérselo, y gran parte de la «culpa» de que todo esto se originara es la semilla plantada desde 85% Cocoa con las NSCoder Nights. Otro que me ha impresionado y he podido escuchar con respeto reverencial es Iván Leider. Él es un Maestro Jedi del desarrollo. Yo, ni Padawan&#8230;</p>
+<p style="text-align: justify;">Y demostrando que el mundo geek también es un pañuelo, conocí a <a href="http://www.fillito.com/blog/">Daniel García</a>, el programador de la App de <a href="http://www.minube.com/">Minube</a> para la TouchPad. Creo que allí estábamos los dos únicos programadores Enyo de toda España :-). Bueno, alguno más habrá, pero no creo que más de 10&#8230;</p>
+<p style="text-align: justify;">Y claro, me he hinchado a comer, he visto algo de Vilanova i La Geltrú (principalmente de noche) y no he parado de hablar. La experiencia no merece la pena: es imprescindible si desarrollas en Cocoa. Yo el año que viene, repito. Espero que alguien recapacite y no me dejen hablar.</p>
+<p style="text-align: justify;">Os dejo con un Vídeo de Vilanova Digital en la que «el presi» de la Asociación explica (en Catalán, pero se entiende perfectamente) qué es la NSConf11</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/esHvZC-VpE4" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/esHvZC-VpE4"></param></object></div>
+</div>
+<p style="text-align: justify;">Y el que quiera el código del RSS Reader que utilicé de ejemplo, lo tiene en: <a href="https://github.com/dfreniche/SimpleRSSReader">https://github.com/dfreniche/SimpleRSSReader</a></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: La comunidad de desarrollo Mac en España</title>
+	<atom:link href="/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/feed/" rel="self" type="application/rss+xml" />
+	<link>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Mario</title>
+		<link>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/comment-page-1/#comment-257907</link>
+		<dc:creator><![CDATA[Mario]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2014 13:34:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2088#comment-257907</guid>
+		<description><![CDATA[Un pequeño comentario sobre &lt;b&gt;NSCodeCenter&lt;/b&gt;. 
+
+Yo antes pasaba mucho por allí (no obstante soy el 4º usuario más &quot;activo&quot;) pero desde hace un año o así he dejado de colaborar. La razón básica es que la comunidad me hastió, en el sentido de que había muchas preguntas que no denotaban ni el más mínimo interés por conocer lo que se va a hacer antes de preguntarlo. Vamos, que no se leían ni la documentación de UIView antes de hacer nada. Que es algo que nos ha pasado a todos en mayor o menor medida, pero había preguntas muy del estilo &quot;cómo se cambia el color de un texto&quot;.
+
+Hasta ahí no hay problema, lo que un usuario pregunte sólo le concierne a él. El problema es que la propia comunidad no puntuaba negativamente ese tipo de preguntas, se contestaban para obtener un poco de karma, y adelante. Un par de veces lo comenté (incluso se abrió una pregunta para opinar sobre este tema) pero no observé que la gente tuviese especial interés en hacer una comunidad de calidad en vez de una de cantidad. 
+
+Y así fue la cosa, lo dejé hace un año más o menos. No sé cómo habrá evolucionado la comunidad, si me decís que la cosa ha mejorado estaré encantado de volver a aportar por allí :D]]></description>
+		<content:encoded><![CDATA[<p>Un pequeño comentario sobre <b>NSCodeCenter</b>. </p>
+<p>Yo antes pasaba mucho por allí (no obstante soy el 4º usuario más «activo») pero desde hace un año o así he dejado de colaborar. La razón básica es que la comunidad me hastió, en el sentido de que había muchas preguntas que no denotaban ni el más mínimo interés por conocer lo que se va a hacer antes de preguntarlo. Vamos, que no se leían ni la documentación de UIView antes de hacer nada. Que es algo que nos ha pasado a todos en mayor o menor medida, pero había preguntas muy del estilo «cómo se cambia el color de un texto».</p>
+<p>Hasta ahí no hay problema, lo que un usuario pregunte sólo le concierne a él. El problema es que la propia comunidad no puntuaba negativamente ese tipo de preguntas, se contestaban para obtener un poco de karma, y adelante. Un par de veces lo comenté (incluso se abrió una pregunta para opinar sobre este tema) pero no observé que la gente tuviese especial interés en hacer una comunidad de calidad en vez de una de cantidad. </p>
+<p>Y así fue la cosa, lo dejé hace un año más o menos. No sé cómo habrá evolucionado la comunidad, si me decís que la cosa ha mejorado estaré encantado de volver a aportar por allí 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Peio</title>
+		<link>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/comment-page-1/#comment-257905</link>
+		<dc:creator><![CDATA[Peio]]></dc:creator>
+		<pubDate>Mon, 20 Jan 2014 10:26:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2088#comment-257905</guid>
+		<description><![CDATA[Hola Diego, comentarte en respuesta al primer comentario que si existe en Pamplona/Navarra Seúl @NsCoderNight_Nav, aunq está tan en pañales que por ahora soy el único miembro y total padawan en desarrollo Mac]]></description>
+		<content:encoded><![CDATA[<p>Hola Diego, comentarte en respuesta al primer comentario que si existe en Pamplona/Navarra Seúl @NsCoderNight_Nav, aunq está tan en pañales que por ahora soy el único miembro y total padawan en desarrollo Mac</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/comment-page-1/#comment-257893</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 19 Jan 2014 19:38:38 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2088#comment-257893</guid>
+		<description><![CDATA[Hola Rodrigo
+
+Perdona por lo de los comentarios. Los cerré por el exceso de SPAM. Bueno, ahora al grano :-D
+
+Si no hay mucha gente, ya sabes: monta la tuya propia. Con encontrar a otra persona que le interese, listo. Y si sois un grupito, perfecto. Prueba: sólo necesitas hacer algo de ruido pro Twitter. Pídele al resto de NSCoder Nights que te hagan RT.
+
+Respecto a los nombres, las CocoaHeads son más reuniones para hacer presentaciones formales. Las NSCoder son más de bar y charla informal. Aunque la gente de Madrid, por ej., hacen una mezcla de ambas aunque lo llaman NSCoder Night. Aunque, ¿a quién le importa cómo se llame?. Por mí, como si lo llaman aquelarre. Lo importante es compartir y aprender, ¿no?
+
+¿Vienes al Mac desde Linux? ¡Entonces, como yo! Este es un UNIX que vas a disfrutar. Mira el gestor de paquetes brew para instalar _todo lo que echas de menos de Linux_. Lo dicho: te va a encantar.
+
+Y, por supuesto, salvo catástrofe este año vuelvo a ir a la NSSpain. Allí nos vemos.]]></description>
+		<content:encoded><![CDATA[<p>Hola Rodrigo</p>
+<p>Perdona por lo de los comentarios. Los cerré por el exceso de SPAM. Bueno, ahora al grano 😀</p>
+<p>Si no hay mucha gente, ya sabes: monta la tuya propia. Con encontrar a otra persona que le interese, listo. Y si sois un grupito, perfecto. Prueba: sólo necesitas hacer algo de ruido pro Twitter. Pídele al resto de NSCoder Nights que te hagan RT.</p>
+<p>Respecto a los nombres, las CocoaHeads son más reuniones para hacer presentaciones formales. Las NSCoder son más de bar y charla informal. Aunque la gente de Madrid, por ej., hacen una mezcla de ambas aunque lo llaman NSCoder Night. Aunque, ¿a quién le importa cómo se llame?. Por mí, como si lo llaman aquelarre. Lo importante es compartir y aprender, ¿no?</p>
+<p>¿Vienes al Mac desde Linux? ¡Entonces, como yo! Este es un UNIX que vas a disfrutar. Mira el gestor de paquetes brew para instalar _todo lo que echas de menos de Linux_. Lo dicho: te va a encantar.</p>
+<p>Y, por supuesto, salvo catástrofe este año vuelvo a ir a la NSSpain. Allí nos vemos.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/comment-page-1/#comment-257892</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 19 Jan 2014 19:27:34 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2088#comment-257892</guid>
+		<description><![CDATA[__Nota: tras habilitar de nuevo los comentarios, pego aquí este que me ha llegado por correo__
+
+Hola Diego
+
+Acabo de leer la entrada en tu blog sobre la comunidad de desarrolladores mac, y bueno, antes de nada, gracias por la info.
+
+Como los comentarios en tu blog están cerrados, te comento por aquí. Lo primero es que lo de las NSCoder nights mola mucho, aunque en mi zona (Navarra), parece que la cosa no está muy activa, ya que no hay ningún grupo en Pamplona y los de Bilbao y Zaragoza, que me pillan cerca, parece que están parados. Aún así, espero poder asistir a alguna de Madrid, que de los sitios a los que de vez en cuando voy, es el que está activo, parece. Si no, parece que tendré que montar yo una en Pamplona :)
+
+También, mirando los tweets de alguna de las NSCoder nights que están paradas, he visto que discutían sobre cambiarles el nombre (por alguna movida que han tenido, parece :) a CocoaHeads, que he visto que, aunque algunos grupos internacionales están activos, los de Barcelona y Madrid están también en modo stop :-) Así que mi pregunta es: ¿esto de CocoaHeads, en España, ná de ná no?
+
+Lo peor de todo es haberme cambiado a Mac (desde Linux, que era lo que usaba en el curro hasta hace un mes) poco después de la NSSpain, que fue en Logroño, a menos de una hora de mi casa :-( Así que bueno, espero poder ir a la de este año, que volverá a ser en Logroño ¿no?
+
+saludos]]></description>
+		<content:encoded><![CDATA[<p>__Nota: tras habilitar de nuevo los comentarios, pego aquí este que me ha llegado por correo__</p>
+<p>Hola Diego</p>
+<p>Acabo de leer la entrada en tu blog sobre la comunidad de desarrolladores mac, y bueno, antes de nada, gracias por la info.</p>
+<p>Como los comentarios en tu blog están cerrados, te comento por aquí. Lo primero es que lo de las NSCoder nights mola mucho, aunque en mi zona (Navarra), parece que la cosa no está muy activa, ya que no hay ningún grupo en Pamplona y los de Bilbao y Zaragoza, que me pillan cerca, parece que están parados. Aún así, espero poder asistir a alguna de Madrid, que de los sitios a los que de vez en cuando voy, es el que está activo, parece. Si no, parece que tendré que montar yo una en Pamplona 🙂</p>
+<p>También, mirando los tweets de alguna de las NSCoder nights que están paradas, he visto que discutían sobre cambiarles el nombre (por alguna movida que han tenido, parece 🙂 a CocoaHeads, que he visto que, aunque algunos grupos internacionales están activos, los de Barcelona y Madrid están también en modo stop 🙂 Así que mi pregunta es: ¿esto de CocoaHeads, en España, ná de ná no?</p>
+<p>Lo peor de todo es haberme cambiado a Mac (desde Linux, que era lo que usaba en el curro hasta hace un mes) poco después de la NSSpain, que fue en Logroño, a menos de una hora de mi casa 🙁 Así que bueno, espero poder ir a la de este año, que volverá a ser en Logroño ¿no?</p>
+<p>saludos</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: iOSDevUK 2013: retrospectiva personal</title>
+	<atom:link href="/2013/09/08/iosdevuk-2013-retrospectiva-personal/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/09/08/iosdevuk-2013-retrospectiva-personal/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: La Conferencia NSSPain &#8212; freniche.com: Another personal blog about everything tech-related</title>
+		<link>/2013/09/08/iosdevuk-2013-retrospectiva-personal/comment-page-1/#comment-216121</link>
+		<dc:creator><![CDATA[La Conferencia NSSPain &#8212; freniche.com: Another personal blog about everything tech-related]]></dc:creator>
+		<pubDate>Tue, 24 Sep 2013 18:20:03 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2010#comment-216121</guid>
+		<description><![CDATA[[...] de Objc.io. Es decir, en apenas dos semanas he visto a Dave Werner (de iOS Dev Weekly) en el iOSDevUK (ya conocía a Dave de otros años) y ahora a los de Objc.io. ¿Qué es lo siguiente? ¿Tomar café [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] de Objc.io. Es decir, en apenas dos semanas he visto a Dave Werner (de iOS Dev Weekly) en el iOSDevUK (ya conocía a Dave de otros años) y ahora a los de Objc.io. ¿Qué es lo siguiente? ¿Tomar café [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Review de Drobo, hardware y software (Dashboard) en Español</title>
+	<atom:link href="/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Añadiendo un nuevo disco a mi Drobo</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-9461</link>
+		<dc:creator><![CDATA[Añadiendo un nuevo disco a mi Drobo]]></dc:creator>
+		<pubDate>Sun, 12 Dec 2010 12:34:28 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-9461</guid>
+		<description><![CDATA[[...] Drobo 2ª generación (FW800/USB) tenía instalado hasta hace unos días tres discos duros: uno de 1,5 TB [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Drobo 2ª generación (FW800/USB) tenía instalado hasta hace unos días tres discos duros: uno de 1,5 TB [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Mi plan de backups</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-7382</link>
+		<dc:creator><![CDATA[Mi plan de backups]]></dc:creator>
+		<pubDate>Sun, 03 Oct 2010 15:12:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-7382</guid>
+		<description><![CDATA[[...] al iMac tengo un Drobo v2 (USB + Firewire, pero sin red) con tres discos de  momento (500GB + 500GB + 1.5TB) , lo que me [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] al iMac tengo un Drobo v2 (USB + Firewire, pero sin red) con tres discos de  momento (500GB + 500GB + 1.5TB) , lo que me [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-5320</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 15 Jul 2010 17:48:32 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-5320</guid>
+		<description><![CDATA[Hola, friscoltu.
+
+Como comentaba antes, no creo que el Drobo sea una buena solución para media center. Al menos el Drobo normal. El Drobo FS permite conexión por red, de forma que podrías tenerlo en otra parte de la casa y acceder desde el Mac Mini, pero esa es otra historia...
+Si buscas algo para conectar al Mac Mini, creo que lo mejor es un disco FW800. Es silencioso, rápido (para las películas en HD, imprescindible) y consume y ocupa poco. Y un Drobo (para mí al menos) es para guardar información crítica, esa que de verdad nos dolería perder por algo tan tonto (y barato) como el fallo en un disco duro. Si se te estropea un disco externo lleno de películas bajadas de Internet es una molestia, pero poco más: te las vuelves a bajar, te compras otro disco, y listo. Si pierdes las fotos de tu boda, explícame por favor cómo se lo contarías a tu mujer :-)]]></description>
+		<content:encoded><![CDATA[<p>Hola, friscoltu.</p>
+<p>Como comentaba antes, no creo que el Drobo sea una buena solución para media center. Al menos el Drobo normal. El Drobo FS permite conexión por red, de forma que podrías tenerlo en otra parte de la casa y acceder desde el Mac Mini, pero esa es otra historia&#8230;<br />
+Si buscas algo para conectar al Mac Mini, creo que lo mejor es un disco FW800. Es silencioso, rápido (para las películas en HD, imprescindible) y consume y ocupa poco. Y un Drobo (para mí al menos) es para guardar información crítica, esa que de verdad nos dolería perder por algo tan tonto (y barato) como el fallo en un disco duro. Si se te estropea un disco externo lleno de películas bajadas de Internet es una molestia, pero poco más: te las vuelves a bajar, te compras otro disco, y listo. Si pierdes las fotos de tu boda, explícame por favor cómo se lo contarías a tu mujer 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: friscoltu</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-5287</link>
+		<dc:creator><![CDATA[friscoltu]]></dc:creator>
+		<pubDate>Wed, 14 Jul 2010 18:44:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-5287</guid>
+		<description><![CDATA[Muchas gracias por tu analisis. La verdad es que ha quedado muy claro que hace y que no este dispositivo. Solo me quedaria preguntarte una cosilla, ¿lo consideras muy ruidoso?
+Yo si me hago con uno, seria para tenerlo en el salón de casa, se que no es la solución ideal, pero el mac mini junto al dropbox y tirar de jdownloader la veo la solución perfecta...]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias por tu analisis. La verdad es que ha quedado muy claro que hace y que no este dispositivo. Solo me quedaria preguntarte una cosilla, ¿lo consideras muy ruidoso?<br />
+Yo si me hago con uno, seria para tenerlo en el salón de casa, se que no es la solución ideal, pero el mac mini junto al dropbox y tirar de jdownloader la veo la solución perfecta&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-4964</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2010 17:26:48 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-4964</guid>
+		<description><![CDATA[Una buena solución (aunque cara) es meter un disco SSD en una caja externa de aluminio. Cero ventiladores, cero ruido mecánico del HD al girar/leer/escribir. Eso sí, a un precio más alto, pero el silencio es lo que tiene :-)]]></description>
+		<content:encoded><![CDATA[<p>Una buena solución (aunque cara) es meter un disco SSD en una caja externa de aluminio. Cero ventiladores, cero ruido mecánico del HD al girar/leer/escribir. Eso sí, a un precio más alto, pero el silencio es lo que tiene 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Julio Mateos</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-4963</link>
+		<dc:creator><![CDATA[Julio Mateos]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2010 13:43:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-4963</guid>
+		<description><![CDATA[Gracias.
+
+Me temo que me tendré que buscar otro &quot;invento&quot;.
+
+Eso de ser un maniático del ruido ....]]></description>
+		<content:encoded><![CDATA[<p>Gracias.</p>
+<p>Me temo que me tendré que buscar otro «invento».</p>
+<p>Eso de ser un maniático del ruido &#8230;.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-4962</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2010 12:52:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-4962</guid>
+		<description><![CDATA[El Drobo tiene un gran ventilador en la parte trasera. Aunque no gira a grandes velocidades, si le sumas el ruido de tres o cuatro discos duros... No es como un Mac Cube, que no tenía ventiladores...
+Estoy por medir los decibelios que genera el Drobo, sin nada más, y ponerlo por aquí. Eso sí, medida aproximada con el iPhone :-)]]></description>
+		<content:encoded><![CDATA[<p>El Drobo tiene un gran ventilador en la parte trasera. Aunque no gira a grandes velocidades, si le sumas el ruido de tres o cuatro discos duros&#8230; No es como un Mac Cube, que no tenía ventiladores&#8230;<br />
+Estoy por medir los decibelios que genera el Drobo, sin nada más, y ponerlo por aquí. Eso sí, medida aproximada con el iPhone 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Julio Mateos</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-4961</link>
+		<dc:creator><![CDATA[Julio Mateos]]></dc:creator>
+		<pubDate>Sun, 20 Jun 2010 10:49:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-4961</guid>
+		<description><![CDATA[Hola.
+
+Quería hacerte una pregunta respecto al Drobo.
+
+Estoy pensando en hacerme con uno pero me molesta enormemente el ruido de todo tipo de discos, ventiladores, etc....
+
+Ahora por fin he conseguido hacerme con un equipo que puedo poner en el salón de casa en silencio absoluto (casi ;-) ) y no sé si añadir un Drobo sería como poner un avión en despegue.
+
+¿Cómo es realmente de ruidoso? ¿Se puede tener al lado sin problemas? ¿Molesta?
+
+Gracias.
+Julio.]]></description>
+		<content:encoded><![CDATA[<p>Hola.</p>
+<p>Quería hacerte una pregunta respecto al Drobo.</p>
+<p>Estoy pensando en hacerme con uno pero me molesta enormemente el ruido de todo tipo de discos, ventiladores, etc&#8230;.</p>
+<p>Ahora por fin he conseguido hacerme con un equipo que puedo poner en el salón de casa en silencio absoluto (casi 😉 ) y no sé si añadir un Drobo sería como poner un avión en despegue.</p>
+<p>¿Cómo es realmente de ruidoso? ¿Se puede tener al lado sin problemas? ¿Molesta?</p>
+<p>Gracias.<br />
+Julio.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: David</title>
+		<link>/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/comment-page-1/#comment-4146</link>
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Sun, 09 May 2010 19:29:01 +0000</pubDate>
+		<guid isPermaLink="false">/?p=982#comment-4146</guid>
+		<description><![CDATA[Muchas gracias compi!!! Un abrazo!]]></description>
+		<content:encoded><![CDATA[<p>Muchas gracias compi!!! Un abrazo!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Voy a aprender Git</title>
+	<atom:link href="/2013/04/02/voy-a-aprender-git/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/04/02/voy-a-aprender-git/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: La NSSpain &#8212; freniche.com: iPhone, Java, Macs, Linux&#8230;</title>
+		<link>/2013/04/02/voy-a-aprender-git/comment-page-1/#comment-189617</link>
+		<dc:creator><![CDATA[La NSSpain &#8212; freniche.com: iPhone, Java, Macs, Linux&#8230;]]></dc:creator>
+		<pubDate>Wed, 21 Aug 2013 15:54:36 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1905#comment-189617</guid>
+		<description><![CDATA[[...] como Fernando Rodríguez, de AGBO (el gran Jedi Master Cocoa) o Alfonso Alba (mi maestro Git, que me hizo abrir los ojos y cuyo curso de Git no deberías perderte si en 12 h quieres enterarte al fin de qué va Git). Por [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] como Fernando Rodríguez, de AGBO (el gran Jedi Master Cocoa) o Alfonso Alba (mi maestro Git, que me hizo abrir los ojos y cuyo curso de Git no deberías perderte si en 12 h quieres enterarte al fin de qué va Git). Por [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/04/02/voy-a-aprender-git/comment-page-1/#comment-139664</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Tue, 09 Apr 2013 11:55:06 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1905#comment-139664</guid>
+		<description><![CDATA[Bazaar: negativo november
+:-D
+Git me va a durar lo menos 10 años...
+Los SCV suelen tener mucha inercia]]></description>
+		<content:encoded><![CDATA[<p>Bazaar: negativo november<br />
+😀<br />
+Git me va a durar lo menos 10 años&#8230;<br />
+Los SCV suelen tener mucha inercia</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jose</title>
+		<link>/2013/04/02/voy-a-aprender-git/comment-page-1/#comment-139492</link>
+		<dc:creator><![CDATA[Jose]]></dc:creator>
+		<pubDate>Mon, 08 Apr 2013 16:14:29 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1905#comment-139492</guid>
+		<description><![CDATA[El proximo control de versiones que deberas aprender sera BZR.
+
+:D]]></description>
+		<content:encoded><![CDATA[<p>El proximo control de versiones que deberas aprender sera BZR.</p>
+<p>😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/04/02/voy-a-aprender-git/comment-page-1/#comment-138170</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 03 Apr 2013 05:25:44 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1905#comment-138170</guid>
+		<description><![CDATA[Yo uso SVN en algunos proyectos por imposición del cliente. Pero en cuanto puedo &quot;escapo&quot; a Mercurial. Espero que, a partir de ahora, sea a git.]]></description>
+		<content:encoded><![CDATA[<p>Yo uso SVN en algunos proyectos por imposición del cliente. Pero en cuanto puedo «escapo» a Mercurial. Espero que, a partir de ahora, sea a git.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: kr0n</title>
+		<link>/2013/04/02/voy-a-aprender-git/comment-page-1/#comment-138027</link>
+		<dc:creator><![CDATA[kr0n]]></dc:creator>
+		<pubDate>Tue, 02 Apr 2013 20:55:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1905#comment-138027</guid>
+		<description><![CDATA[Y yo que aun sigo con SVN... y hace un par de meses estaba en un proyecto de una gran empresa nacional que por supuesto usaba CVS :)]]></description>
+		<content:encoded><![CDATA[<p>Y yo que aun sigo con SVN&#8230; y hace un par de meses estaba en un proyecto de una gran empresa nacional que por supuesto usaba CVS 🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

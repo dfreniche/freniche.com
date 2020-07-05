@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Time Capsule &#8211; freniche.com</title>
+	<atom:link href="/tag/time-capsule/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mi Time Capsule ha muerto. ¡Larga vida a mi Time Capsule!</title>
+		<link>/2011/03/01/mi-time-capsule-ha-muerto-larga-vida-a-mi-time-capsule/</link>
+		<pubDate>Tue, 01 Mar 2011 08:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1418</guid>
+		<description><![CDATA[Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_1421" style="width: 555px" class="wp-caption aligncenter"><a href="http://timecapsuledead.org/"><img class="size-full wp-image-1421" title="TC Memorial. Click para ir al sitio" src="/wp-content/uploads/2011/03/TCMemorial.png" alt="TC Memorial. Click para ir al sitio" width="545" height="229" srcset="/wp-content/uploads/2011/03/TCMemorial.png 545w, /wp-content/uploads/2011/03/TCMemorial-300x126.png 300w" sizes="(max-width: 545px) 100vw, 545px" /></a><p class="wp-caption-text">TC Memorial. Click para ir al sitio</p></div>
+<p style="text-align: justify;">Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no tuve más remedio que subir al estudio a reiniciar el router Linksys, al que le echaba la culpa. Pero al ir a cogerlo, vi algo terrorífico, que me sobrecogió el alma: la luz de la TC estaba apagada.</p>
+<p style="text-align: justify;">Para los que no sepan lo que es, la Time Capsule es un todo-en-uno de Apple que incluye en el mismo aparato un router, un switch con tres entradas de red Ethernet de 1Gb, un punto de acceso inalámbrico (lo que Apple llama un Airport Extreme) 802.11n + g + b y un disco duro en red para copias de seguridad u otros contenidos. También es servidor de impresión (se le pueden conectar impresoras a través del puerto USB que incorpora). Puntos negativos: no es servidor DNS, lo cual es un rollo y en mi opinión es una característica básica que le falta. Y se calienta bastante.</p>
+<p style="text-align: justify;">El caso es que, dados los antecedentes que ya conocía de <a href="http://twitter.com/juaconet/status/42302419794804737">@juaconet</a>, que ha pasado ya por tres time capsules, cuando me planteé mi <a href="/2010/10/03/mi-plan-de-backups/">estrategia de backups</a> decidí poner en la Time Capsule únicamente las copias de seguridad de Time Machine. De esta forma, si fallaba el ordenador, tenía la copia en la Time Capsule, y si era al revés (como al final ha sucedido) podría comprar otra TC y volver a hacer una copia de Time Machine de los portátiles. Porque, una vez que el aparato se apaga, ya no hay forma de acceder a los datos: hay que desmontarlo para llegar al disco duro. Fallo.</p>
+<p style="text-align: justify;">Estaba frente a la TC apagada y probé lo típico: a volver a enchufarla, probar con un enchufe distinto, ver si era el cable, etc. Pero nada. No hacía ningún ruido y no se encendía. Así que llamé a Apple Care. Cuando me salió la persona de Apple (el Apple Advisor) le conté mi problema, haciendo especial hincapié en que era una TC de las primeras que salieron. Me solicitó el número de serie. Cuando confirmó que efectivamente era de las primeras, me indicó que estaba cubierta por un <a href="http://support.apple.com/kb/TS3351">programa de reemplazo de Apple</a> y que me mandaban a casa una nueva ¡gratis!.</p>
+<p style="text-align: justify;">Apple sabe que las primeras TC estaban mal diseñadas. Han caído tantas que, como me indicaba @juaconet en este tweet, hay hasta un <a href="http://timecapsuledead.org/">memorial de TCs muertas</a>. Pero al menos han puesto en marcha el programa de reemplazo de forma que, en un par de días, tienes una TC nueva en casa. Eso sí, los datos los has perdido. Por eso el tener sólo las copias de Time Machine. Espero ahora que mi portátil no decida morir igualmente.</p>
+<p style="text-align: justify;">Estas son las cosas que te gustan de la compañía: el trato a los clientes. Sí, la inversión inicial puede ser superior, pero ¿es más caro? Después de tres años usándola, falla y ahora tengo una nueva con el doble de disco duro. Para mí no es mala inversión, no.</p>
+<p style="text-align: justify;">Espero que mañana me la entreguen. Y luego habrá que configurarla, y volver a lanzar Time Machine, y, y&#8230; D&#8217;oh!</p>
+<p style="text-align: justify;"><strong>Actualización 15/03/2011</strong>: hace ya unos días que tengo instalada y en uso la TC. Pero la que me mandaron finalmente era igual a la que tenía, de 500 GB. Bueno, al menos, aunque ya no estaba cubierta por la garantía, han dado la cara. Pero hubiera estado mejor lo del TB <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ojo con tus copias de seguridad de Time Machine</title>
+		<link>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/</link>
+		<comments>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/#comments</comments>
+		<pubDate>Thu, 28 Oct 2010 16:23:56 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1160</guid>
+		<description><![CDATA[Hace no mucho comentaba mi Plan de Backups y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden presentar. Lógicamente, Murphy se ha dado una vuelta por estos lares para darme una cura de humildad, y de paso poder escribir así este post. La historia empieza cuando recuerdo un correo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1185" style="width: 510px" class="wp-caption aligncenter"><img class="size-full wp-image-1185" title="FalloTimeMachine" src="/wp-content/uploads/2010/10/FalloTimeMachine.png" alt="Fallo al intentar reparar el disco de Time Machine" width="500" height="272" srcset="/wp-content/uploads/2010/10/FalloTimeMachine.png 500w, /wp-content/uploads/2010/10/FalloTimeMachine-300x163.png 300w" sizes="(max-width: 500px) 100vw, 500px" /><p class="wp-caption-text">Fallo al intentar reparar el disco de Time Machine</p></div>
+<p style="text-align: justify;">Hace no mucho comentaba <a href="/2010/10/03/mi-plan-de-backups/">mi Plan de Backups</a> y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden presentar. Lógicamente, Murphy se ha dado una vuelta por estos lares para darme una cura de humildad, y de paso poder escribir así este post.</p>
+<p style="text-align: justify;">La historia empieza cuando recuerdo un correo que me hace falta y no soy capaz de localizarlo en Mail.app. Venga a buscar y nada. Pero claro, <a href="/2010/09/17/shopping-spree/">el iMac es nuevo</a> y el <a href="/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/">MBP se ha reinstalado</a>. Así que me doy cuenta de que, al configurar de nuevo las cuentas de correo (que son IMAP) se han bajado las carpetas que están en el servidor, pero lógicamente no tengo las carpetas locales. Y el correo que busco está en una carpeta local.</p>
+<p style="text-align: justify;">«No pasa nada», pienso. «Ahora monto mi copia de seguridad de Time Machine, me voy donde Mail.app guarda las carpetas locales, las restauro en el iMac y listo».  Bien, el plan es bueno, salvo cuando le das doble click al archivo .sparsebundle que guarda la copia de seguridad y tras un rato, ves que no se monta. No sale una ventana que indique el error, nada. «No le habré dado bien». Le vuelvo a dar. Nada.</p>
+<p>Un poco mosqueado, abro la utilidad de discos y busco el volúmen en cuestión.</p>
+<div id="attachment_1190" style="width: 713px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/utilidad_de_discos.png"><img class="size-full wp-image-1190 " title="utilidad_de_discos" src="/wp-content/uploads/2010/10/utilidad_de_discos.png" alt="Utilidad de discos abierta mostrando mi copia de seguridad" width="703" height="577" srcset="/wp-content/uploads/2010/10/utilidad_de_discos.png 879w, /wp-content/uploads/2010/10/utilidad_de_discos-300x246.png 300w" sizes="(max-width: 703px) 100vw, 703px" /></a><p class="wp-caption-text">Utilidad de discos abierta mostrando mi copia de seguridad</p></div>
+<p>Lo intento montar y me salen las siguientes ventanas:</p>
+<div id="attachment_1191" style="width: 473px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/intento_montar.png"><img class="size-full wp-image-1191" title="intento_montar" src="/wp-content/uploads/2010/10/intento_montar.png" alt="Intentando montar la copia de seguridad. ¡Arráncalo, Carlos por Dios!" width="463" height="228" srcset="/wp-content/uploads/2010/10/intento_montar.png 463w, /wp-content/uploads/2010/10/intento_montar-300x147.png 300w" sizes="(max-width: 463px) 100vw, 463px" /></a><p class="wp-caption-text">Intentando montar la copia de seguridad. ¡Arráncalo, Carlos por Dios!</p></div>
+<p>y finalmente:</p>
+<div id="attachment_1192" style="width: 473px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/fallo_montar.png"><img class="size-full wp-image-1192" title="fallo_montar" src="/wp-content/uploads/2010/10/fallo_montar.png" alt="No hay suerte. Murphy me odia." width="463" height="228" srcset="/wp-content/uploads/2010/10/fallo_montar.png 463w, /wp-content/uploads/2010/10/fallo_montar-300x147.png 300w" sizes="(max-width: 463px) 100vw, 463px" /></a><p class="wp-caption-text">No hay suerte. Murphy me odia.</p></div>
+<p style="text-align: justify;">Un sudor frío me corre por la espalda. Un escalofrío me pone la carne de gallina. Escucho voces en las sombras. <em>Murphy me odia, es oficial</em>. Cabreado, pero no resignado, pulso el botón de «Verificar disco». Me da tropecientos errores. Pulso reparar disco. Repara algunos, pero me indica que hay otros con los que no puede. Vuelvo a intentar montar. Nada. Reparo. Monto. Nada. Reparo. Monto. Nad. Así varias veces. Hasta que, finalmente, aunque me indica que hay errores, veo que está montado en /Volumes/Time Machine Backups.</p>
+<p>Abro una terminal y me abalanzo sobre el directorio. Desde allí, y gracias al todopoderoso cp -r, copio las carpetas que buscaba al escritorio. ¡Buff!. Me he librado de ésta.</p>
+<p>Conclusiones:</p>
+<ol>
+<li>aunque tengas un buen sistema de copias de seguridad (por ej. usar Time Machine en una cabina con varios discos en RAID, como un Drobo) Murphy puede pasar a visitarte.</li>
+<li>no basta con hacer copias de seguridad. <strong>Hay que comprobarlas</strong>. Si te haces un disco de arranque con Carbon Copy Cloner, prueba a arrancar desde él, para que el día que te haga falta estés seguro de que va a funcionar.</li>
+<li>Si usas Time Machine, monta de vez en cuando el volumen de copias de seguridad (el fichero .sparsebundle) y comprueba que no hay errores. Si lo pillas a tiempo probablemente el desastre será menor.</li>
+<li>hay que ser como el que iba en un barco y no se fiaba de la mitad de la tripulación: eran un padre y un hijo.</li>
+</ol>
+<p>Esta vez he recuperado los datos. Pero ¿y la próxima?. ¿Experiencias personales? ¡Déjalas en los <strong>comentarios</strong>!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Cómo montar un volumen en el arranque de Mac OS X</title>
+		<link>/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/</link>
+		<comments>/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/#comments</comments>
+		<pubDate>Sun, 02 Nov 2008 22:45:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Sin categoría]]></category>
+		<category><![CDATA[iPhoto]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/</guid>
+		<description><![CDATA[Como creo que ya he comentado antes, soy el orgulloso propietario de una Time Capsule de 500 GB. Este gadget es un producto extraordinario, ya que me sirve como punto de acceso WiFi, router hacia Internet, disco duro en red y disco para las copias de seguridad de Time Machine. Como dispone de una entrada [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify"> Como creo que ya he comentado antes, soy el orgulloso propietario de una <a href="http://www.apple.com/es/timecapsule/">Time Capsule</a> de 500 GB. Este <em>gadget</em> es un producto extraordinario, ya que me sirve como punto de acceso WiFi, router hacia Internet, disco duro en red y disco para las copias de seguridad de Time Machine. Como dispone de una entrada USB, le he conectado un HUB USB y tengo conectado un disco duro Maxtor de 750 GB y una impresora (también es servidor de impresión). Pero mi TC no es el motivo de este post.</p>
+<p align="justify">Utilizo iPhoto para almacenar y gestionar mi colección de fotos personales. Mi mujer tiene un Macbook y, lógicamente, tambien tiene las fotos de la familia, los niños y los viajes en su equipo. Toda persona que utilice dos ordenadores sabe que, si quieres mantener la información sincronizada necesitas de algún programa que te ayude, ya que el estado natural de las cosas es desordenarse. En este caso la solución fue sencilla tras un poco de <em>Googling</em>: crear una carpeta en la TC, pasar allí la biblioteca de iPhoto y usarla en modo compartido. iPhoto permite abrir una biblioteca compartida y las fotos que se graben en ella se copian también en el ordenador desde el que se usa.</p>
+<p align="justify">Claro, que para que eso funcione, el volumen de la TC en el que está la biblioteca compartida debe estar montado. Y es un engorro montarlo cada vez que voy a usar iPhoto. Siempre se me olvida y al final sale una ventana preguntándome por la biblioteca de fotos. Así que necesitaba automontar ese volumen en el arranque. Google me ha mostrado muchos métodos, con automount, tocando ficheros desde la línea de comandos, etc. etc. Pero creo que el método más sencillo (y efectivo) es ir a Preferencias del Sistema, Cuentas y en Arranque podemos añadir los programas que queremos que se lancen al iniciar sesión. En mi caso, con añadir la carpeta ShareTC (donde está la biblioteca de iPhoto) ha bastado. Tan sencillo que no lo encontraba&#8230;</p>
+<p><img src="/wp-content/uploads/2008/11/login_apps.png" alt="Aplicaciones de inicio" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Mi primer video en YouTube</title>
+		<link>/2008/08/31/mi-primer-video-en-youtube/</link>
+		<comments>/2008/08/31/mi-primer-video-en-youtube/#comments</comments>
+		<pubDate>Sun, 31 Aug 2008 09:24:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/2008/08/31/mi-primer-video-en-youtube/</guid>
+		<description><![CDATA[Ya lo se, ya lo se. 2008 se acaba y subir un video a YouTube no es nada nuevo hoy en día. Pero, por un lado, me ha sorprendido lo sencillo que me ha resultado. Tenía el video ya pasado a mi MacBook Pro y desde iDVD se puede exportar directamente en un tamaño y [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Ya lo se, ya lo se. 2008 se acaba y subir un video a YouTube no es nada nuevo hoy en día. Pero, por un lado, me ha sorprendido lo sencillo que me ha resultado. Tenía el video ya pasado a mi MacBook Pro y desde iDVD se puede exportar directamente en un tamaño y codificación optimizada para YouTube. Y lo he podido hacer todo mientras mi hijo estaba viendo videos de Mickey Mouse en una esquina del ordenador. Vamos, que no estaba del todo «tranquilo» para concentrarme.</p>
+<p align="justify">Por otro, acabo de cambiar mis ordenadores de habitación, y este video es un poco histórico para mi. Se ve mi mesa en la habitación en la que ahora juegan los niños. También se ve mi MacBook Pro, mi Amiga 1200 (tapado el teclado, se ve el monitor 1084S de Commodore) y mi viejo PIV con Linux.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/32akXqRSSRc&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/32akXqRSSRc&amp;hl=en&amp;fs=1"></param></object></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2008/08/31/mi-primer-video-en-youtube/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

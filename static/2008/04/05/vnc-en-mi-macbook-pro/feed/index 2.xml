@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: VNC en mi MacBook Pro</title>
+	<atom:link href="/2008/04/05/vnc-en-mi-macbook-pro/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/04/05/vnc-en-mi-macbook-pro/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2008/04/05/vnc-en-mi-macbook-pro/comment-page-1/#comment-11</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 16 Apr 2008 14:18:34 +0000</pubDate>
+		<guid isPermaLink="false">/2008/04/05/vnc-en-mi-macbook-pro/#comment-11</guid>
+		<description><![CDATA[En Ubuntu, en Escritorio -&gt; Preferencias -&gt; Escritorio remoto tienes la configuración del servidor VNC que ya está instalado (se llama vino-server, por si te lo quieres instalar en otra distro Linux que no sea Ubuntu).
+En XP, te recomiendo RealVNC (gratis en su versión más básica) que está en: http://www.realvnc.com/vnc/features.html o bien Open VNC ( http://www.uvnc.com/ ).
+Los que yo he usado, no. Lo que suelo hacer es usar una carpeta compartida por red y listo. Si estás tras un firewall, súbelo a algún sitio de almacenamiento de ficheros. Hay un montón de ellos ahora gratis.]]></description>
+		<content:encoded><![CDATA[<p>En Ubuntu, en Escritorio -> Preferencias -> Escritorio remoto tienes la configuración del servidor VNC que ya está instalado (se llama vino-server, por si te lo quieres instalar en otra distro Linux que no sea Ubuntu).<br />
+En XP, te recomiendo RealVNC (gratis en su versión más básica) que está en: <a href="http://www.realvnc.com/vnc/features.html" rel="nofollow">http://www.realvnc.com/vnc/features.html</a> o bien Open VNC ( <a href="http://www.uvnc.com/" rel="nofollow">http://www.uvnc.com/</a> ).<br />
+Los que yo he usado, no. Lo que suelo hacer es usar una carpeta compartida por red y listo. Si estás tras un firewall, súbelo a algún sitio de almacenamiento de ficheros. Hay un montón de ellos ahora gratis.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jose Hidalgo</title>
+		<link>/2008/04/05/vnc-en-mi-macbook-pro/comment-page-1/#comment-9</link>
+		<dc:creator><![CDATA[Jose Hidalgo]]></dc:creator>
+		<pubDate>Thu, 10 Apr 2008 06:32:39 +0000</pubDate>
+		<guid isPermaLink="false">/2008/04/05/vnc-en-mi-macbook-pro/#comment-9</guid>
+		<description><![CDATA[Que servidor VNC me recomiendas para un XP? y para la Ubuntu? Tengo un portatil con Ubuntu que me gustaria dejar encendido con el VNC para poder conectarme con el macbookpro desde donde sea... lo mismo para el XP...
+
+No estoy muy ducho en esto del VNC... permite la transferencia de archivos?]]></description>
+		<content:encoded><![CDATA[<p>Que servidor VNC me recomiendas para un XP? y para la Ubuntu? Tengo un portatil con Ubuntu que me gustaria dejar encendido con el VNC para poder conectarme con el macbookpro desde donde sea&#8230; lo mismo para el XP&#8230;</p>
+<p>No estoy muy ducho en esto del VNC&#8230; permite la transferencia de archivos?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2008/04/05/vnc-en-mi-macbook-pro/comment-page-1/#comment-8</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 09 Apr 2008 12:58:33 +0000</pubDate>
+		<guid isPermaLink="false">/2008/04/05/vnc-en-mi-macbook-pro/#comment-8</guid>
+		<description><![CDATA[Yo tengo un poco de síndrome de Diógenes informático, y cacharro que entra, es difícil que lo pueda vender. Mis Amiga seguirán dándome servicio mientras aguanten.
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Yo tengo un poco de síndrome de Diógenes informático, y cacharro que entra, es difícil que lo pueda vender. Mis Amiga seguirán dándome servicio mientras aguanten.<br />
+Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jose Hidalgo</title>
+		<link>/2008/04/05/vnc-en-mi-macbook-pro/comment-page-1/#comment-7</link>
+		<dc:creator><![CDATA[Jose Hidalgo]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2008 20:30:53 +0000</pubDate>
+		<guid isPermaLink="false">/2008/04/05/vnc-en-mi-macbook-pro/#comment-7</guid>
+		<description><![CDATA[por cierto, me ha recomendado tu blog un tal Adrian, de tu curro... no se si te sonara, pero si lo ves dale recuerdos...]]></description>
+		<content:encoded><![CDATA[<p>por cierto, me ha recomendado tu blog un tal Adrian, de tu curro&#8230; no se si te sonara, pero si lo ves dale recuerdos&#8230;</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jose Hidalgo</title>
+		<link>/2008/04/05/vnc-en-mi-macbook-pro/comment-page-1/#comment-6</link>
+		<dc:creator><![CDATA[Jose Hidalgo]]></dc:creator>
+		<pubDate>Tue, 08 Apr 2008 20:30:04 +0000</pubDate>
+		<guid isPermaLink="false">/2008/04/05/vnc-en-mi-macbook-pro/#comment-6</guid>
+		<description><![CDATA[Has jugado al Shadow of the Beast? pedazo de juego pal amiga... tambien me gustaron el Blood Money y algunos mas que estoy intentando recordar el nombre...
+
+Yo vendi mi amiga 500 no hace mucho... :-(  No pierdas ese tesoro que es el Amiga!]]></description>
+		<content:encoded><![CDATA[<p>Has jugado al Shadow of the Beast? pedazo de juego pal amiga&#8230; tambien me gustaron el Blood Money y algunos mas que estoy intentando recordar el nombre&#8230;</p>
+<p>Yo vendi mi amiga 500 no hace mucho&#8230; 🙁  No pierdas ese tesoro que es el Amiga!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

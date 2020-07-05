@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: El proceso de instalación de mi MacBook Pro</title>
+	<atom:link href="/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Louesfera - Apple software desde otra Esfera</title>
+		<link>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/comment-page-1/#comment-24561</link>
+		<dc:creator><![CDATA[Louesfera - Apple software desde otra Esfera]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2011 09:17:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1118#comment-24561</guid>
+		<description><![CDATA[[...] la batería - Textexpander, para trocitos de código y unas cuantas más, que se pueden ver en: /2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/ Ocio: - iTunes / iPhoto / iMovie - Steam! - Minecraft. 4) Que obstáculos has tenido para llegar [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] la batería &#8211; Textexpander, para trocitos de código y unas cuantas más, que se pueden ver en: /2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/ Ocio: &#8211; iTunes / iPhoto / iMovie &#8211; Steam! &#8211; Minecraft. 4) Que obstáculos has tenido para llegar [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/comment-page-1/#comment-9348</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2010 09:49:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1118#comment-9348</guid>
+		<description><![CDATA[Gracias, Nacho. Me alegro de que parezca &quot;atipica&quot;. Espero que sea para bien :-)
+No he distinguido entre una actualización delta y la combo, porque al estar recién instalado el S.O. te propone pasar de golpe a la última que hay, no como en Windows XP que hay que pasar por todos los SP para llegar hasta el SP3 (o al menos yo no se cómo hacerlo).
+Al menos yo no he experimentado problemas en el uso del Macbook Pro (desde el que te escribo ahora, por cierto) ;-)
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Gracias, Nacho. Me alegro de que parezca «atipica». Espero que sea para bien 🙂<br />
+No he distinguido entre una actualización delta y la combo, porque al estar recién instalado el S.O. te propone pasar de golpe a la última que hay, no como en Windows XP que hay que pasar por todos los SP para llegar hasta el SP3 (o al menos yo no se cómo hacerlo).<br />
+Al menos yo no he experimentado problemas en el uso del Macbook Pro (desde el que te escribo ahora, por cierto) 😉</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: nacho</title>
+		<link>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/comment-page-1/#comment-9339</link>
+		<dc:creator><![CDATA[nacho]]></dc:creator>
+		<pubDate>Wed, 08 Dec 2010 00:09:20 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1118#comment-9339</guid>
+		<description><![CDATA[Interesante y atípica entrada. Un pequeño detalle que cambiaría para evitar posibles problemas es descargar la última actualización &quot;combo&quot; de Mac OS X e instalarla antes que ninguna otra cosa (iría en el punto 4), y tras instalarla reparar permisos y reiniciar (repetir el punto 3).
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Interesante y atípica entrada. Un pequeño detalle que cambiaría para evitar posibles problemas es descargar la última actualización «combo» de Mac OS X e instalarla antes que ninguna otra cosa (iría en el punto 4), y tras instalarla reparar permisos y reiniciar (repetir el punto 3).<br />
+Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/comment-page-1/#comment-7412</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 04 Oct 2010 07:34:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1118#comment-7412</guid>
+		<description><![CDATA[Pues sí, tienes toda la razón. No se la superstición que me impide hacerlo, porque lo pienso siempre antes de lanzar el Dropbox, pero me parece que la copia &quot;limpia&quot; de Internet será mejor... como si el rsync no fuese a dejarlo todo igual. En fin, me lo apunto para la próxima. 
+Buen truco.]]></description>
+		<content:encoded><![CDATA[<p>Pues sí, tienes toda la razón. No se la superstición que me impide hacerlo, porque lo pienso siempre antes de lanzar el Dropbox, pero me parece que la copia «limpia» de Internet será mejor&#8230; como si el rsync no fuese a dejarlo todo igual. En fin, me lo apunto para la próxima.<br />
+Buen truco.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Miguelón</title>
+		<link>/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/comment-page-1/#comment-7409</link>
+		<dc:creator><![CDATA[Miguelón]]></dc:creator>
+		<pubDate>Mon, 04 Oct 2010 05:59:04 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1118#comment-7409</guid>
+		<description><![CDATA[Una cosita que yo hago siempre que instalo un equipo nuevo, sea del tipo que sea, es copiar previamente la carpeta de Dropbox siempre que tenga acceso desde otro equipo sincronizado, de este modo cuando sincroniza por primera vez es menos tortuoso.
+
+Por lo demás gracias.]]></description>
+		<content:encoded><![CDATA[<p>Una cosita que yo hago siempre que instalo un equipo nuevo, sea del tipo que sea, es copiar previamente la carpeta de Dropbox siempre que tenga acceso desde otro equipo sincronizado, de este modo cuando sincroniza por primera vez es menos tortuoso.</p>
+<p>Por lo demás gracias.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

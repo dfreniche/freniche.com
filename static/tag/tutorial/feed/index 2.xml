@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tutorial &#8211; freniche.com</title>
+	<atom:link href="/tag/tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo ver el canal Veo7 en Ubuntu 9.10 con Firefox</title>
+		<link>/2010/04/19/como-ver-el-canal-veo7-en-ubuntu-9-10-con-firefox/</link>
+		<comments>/2010/04/19/como-ver-el-canal-veo7-en-ubuntu-9-10-con-firefox/#comments</comments>
+		<pubDate>Mon, 19 Apr 2010 08:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[HowTo]]></category>
+		<category><![CDATA[Tutorial]]></category>
+
+		<guid isPermaLink="false">/?p=968</guid>
+		<description><![CDATA[Este pasado Sábado vi unos tweets de María Barceló pidiendo ayuda. Trataba de ver un programa del canal Veo7 a través de Internet, con su Ubuntu, y no podía. Realicé una rápida búsqueda con Google y me encontré con este bug, documentado en el Launchpad de Ubuntu. Por cierto, Launchpad es el sitio web donde [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Este pasado Sábado vi unos tweets de <a href="http://twitter.com/mariabarcelo">María Barceló</a> <a href="http://twitter.com/mariabarcelo/status/12296989185">pidiendo ayuda</a>. Trataba de ver <a href="http://www.veo.es/estaticas/directos/directo.html">un programa del canal Veo7</a> a través de Internet, con su Ubuntu, y no podía. Realicé una rápida búsqueda con Google y me encontré con <a href="https://bugs.launchpad.net/ubuntu/+source/libmms/+bug/284821">este bug, documentado en el Launchpad de Ubuntu</a>. Por cierto, Launchpad es el sitio web donde se registran y comentan los errores de una distribución Ubuntu concreta y de sus distintas versiones. Es lo que los iniciados llaman un bug tracker y los ITILeros una herramienta de registro de incidentes.</p>
+<p style="text-align: justify;">Bueno, al grano. Leyendo los comentarios me encontré con que el bug todavía existía, y no tenía una solución oficial por parte de Canonical. De nuevo, es lo que los ITILeros llamarían un error conocido, o Known Error: un problema cuya causa raíz es conocida, pero al que no se ha metido mano por la razón que sea. El caso es que uno de los comentarios me llevó a <a href="http://www.cetlot.com/2009/11/online-tv-mmsh-ubuntu/">una web en cirílico</a> donde, entre los demás caracteres que no podía comprender me encontré con una secuencia de comandos Linux:</p>
+<blockquote>
+<p style="text-align: justify;">sudo apt-get install gecko-mediaplayer</p>
+</blockquote>
+<p style="text-align: justify;">Línea que viene a decir: «pídeme la clave de administrador del equipo, y en su nombre instala el paquete gecko-mediaplayer». Con esto lo que conseguimos es disponer de un plug-in para el navegador Firefox que entiende bien la codificación del streaming de vídeo de Veo7. Vamos, que instalamos un pequeño programa que usará Firefox para mostrarnos el canal de tele o lo que queramos ver. Pero falta un paso.</p>
+<p style="text-align: justify;">Hay que indicarle a Firefox que lo utilice, para lo que nos vamos a la opción de menú <em>Herramientas -&gt; Gestionar elementos de contenido</em> y nos aparece una pantalla con todos los plugins disponibles (o si la hemos abierto con la web en cuestión que no funciona por delante, pulsando en elementos en uso veremos sólo el plug-in que falla). Hay que indicarle a Firefox que utilice nuestro nuevo gecko-mediaplayer, en lugar del que trae por defecto, que normalmente es Totem. Por seguridad, reinicia el navegador (lo cierras del todo y lo vuelves a abrir) y listo.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/04/plugin-firefox1.png"><img class="aligncenter size-full wp-image-974" title="plugin-firefox" src="/wp-content/uploads/2010/04/plugin-firefox1.png" alt="" width="640" height="346" srcset="/wp-content/uploads/2010/04/plugin-firefox1.png 640w, /wp-content/uploads/2010/04/plugin-firefox1-300x162.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a></p>
+<p style="text-align: justify;">¡Espero que a alguien más le sirva!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/04/19/como-ver-el-canal-veo7-en-ubuntu-9-10-con-firefox/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Freniche.com cambia de alojamiento</title>
+		<link>/2005/10/20/frenichecom-cambia-de-alojamiento/</link>
+		<pubDate>Thu, 20 Oct 2005 10:03:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[alojamiento]]></category>
+		<category><![CDATA[freniche.com]]></category>
+		<category><![CDATA[Tutorial]]></category>
+
+		<guid isPermaLink="false">/2005/10/20/frenichecom-cambia-de-alojamiento/</guid>
+		<description><![CDATA[Tal y como adelantaba en la noticia que se cita abajo, el portal se preparaba para una gran mudanza. Tras una cantidad ingente de trabajo, finalmente lo he trasladado a 2MHosting. Su paquete Typo3 no solo es económico, sino que ofrece más servicios que ningún otro. Entre otras cosas incorpora los scripts «Fantastico» que permiten [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Tal y como adelantaba en la noticia que se cita abajo, el portal se preparaba para una gran mudanza. Tras una cantidad ingente de trabajo, finalmente lo he trasladado a 2MHosting. Su paquete Typo3 no solo es económico, sino que ofrece más servicios que ningún otro. Entre otras cosas incorpora los scripts «Fantastico» que permiten instalar aplicaciones web con un click.</p>
+<p class="bodytext" style="text-align: justify;">Trasladar una web nunca es fácil. Hay que hacer copia de seguridad de los ficheros (como los PDF, las imágenes, hojas de estilo, etc.) y de la base de datos (MySQL). Hay que crear el nuevo paquete (pagarlo, vamos) y transferir todos los datos (ficheros y BD).</p>
+<p class="bodytext">Después de esto, el dominio debe ser apuntado al nuevo alojamiento. Es decir, www.freniche.com debe apuntar a la nueva dirección IP donde esté físicamente alojado.</p>
+<p class="bodytext" style="text-align: justify;">Por si no fuera poco esto, he estado transcribiendo las noticias del antiguo Blog. Ya están todas copiadas (a mano, por cierto). Eran demasiado pocas como para hacer un programa y además algunos enlaces debían ser reajustados.</p>
+<p class="bodytext" style="text-align: justify;">La página dispone de una nueva hoja de estilos, he corregido millones de pequeños errores (por ejemplo a la hora de buscar, dentro de artículos, correcciones ortográficas, etc.) y he incorporado más contenido. Desde una pequeña paginita para los que sólo hablan Inglés (más adelante hablaremos de escribir artículos en varios idiomas) hasta secciones como <a href="/retrocomputing/">Retroinformática</a>.</p>
+<p class="bodytext">En fin, espero que a partir de ahora sea más estable la web y que a la gente le guste. Sugerencias y peticiones, usen el formulario de contacto.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

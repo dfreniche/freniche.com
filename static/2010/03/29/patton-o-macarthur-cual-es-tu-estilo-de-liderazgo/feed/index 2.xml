@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: ¿Patton o MacArthur? ¿Cuál es tu estilo de liderazgo?</title>
+	<atom:link href="/2010/03/29/patton-o-macarthur-cual-es-tu-estilo-de-liderazgo/feed/" rel="self" type="application/rss+xml" />
+	<link>/2010/03/29/patton-o-macarthur-cual-es-tu-estilo-de-liderazgo/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2010/03/29/patton-o-macarthur-cual-es-tu-estilo-de-liderazgo/comment-page-1/#comment-10275</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 13 Jan 2011 09:01:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=332#comment-10275</guid>
+		<description><![CDATA[Hola Ángel
+
+Yo ya empiezo a estar harto de tanta gente que te llena la cabeza de &quot;lo que tienes que hacer&quot; pero no te demuestra cómo hacerlo. Los humanos aprendemos de forma natural por imitación: ves a alguien cómo hace algo, lo haces igual, dominas la técnica, lo adaptas a tí. Pero no. Estos &quot;gurús&quot; te dicen (ya sea ISO 9000, 14000, CMMI, ITIL o programación para iOS) qué debes hacer. Pero no te muestran cómo lo hacen ellos &quot;para no condicionarte&quot;. 
+Una de dos: si no lo enseñan bien es o porque no saben hacerlo, o porque quieren venderte a posteriori la consultoría. Pues que hablen claro.
+
+Yo estoy por crear un curso que sea: &quot;Qué haría Patton para implementar X&quot;. Con ejemplos, cosas tangibles. Que nos vamos con las ideas y el objetivo no son las ideas, ni implantar las mejoras, sino las mejoras que se obtienen con esos nuevos procesos.
+
+¿No?]]></description>
+		<content:encoded><![CDATA[<p>Hola Ángel</p>
+<p>Yo ya empiezo a estar harto de tanta gente que te llena la cabeza de «lo que tienes que hacer» pero no te demuestra cómo hacerlo. Los humanos aprendemos de forma natural por imitación: ves a alguien cómo hace algo, lo haces igual, dominas la técnica, lo adaptas a tí. Pero no. Estos «gurús» te dicen (ya sea ISO 9000, 14000, CMMI, ITIL o programación para iOS) qué debes hacer. Pero no te muestran cómo lo hacen ellos «para no condicionarte».<br />
+Una de dos: si no lo enseñan bien es o porque no saben hacerlo, o porque quieren venderte a posteriori la consultoría. Pues que hablen claro.</p>
+<p>Yo estoy por crear un curso que sea: «Qué haría Patton para implementar X». Con ejemplos, cosas tangibles. Que nos vamos con las ideas y el objetivo no son las ideas, ni implantar las mejoras, sino las mejoras que se obtienen con esos nuevos procesos.</p>
+<p>¿No?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: angel Rodrigue</title>
+		<link>/2010/03/29/patton-o-macarthur-cual-es-tu-estilo-de-liderazgo/comment-page-1/#comment-10273</link>
+		<dc:creator><![CDATA[angel Rodrigue]]></dc:creator>
+		<pubDate>Thu, 13 Jan 2011 08:24:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=332#comment-10273</guid>
+		<description><![CDATA[Diego, ayer en un curso de control de planificación el profesor dijo exactamente lo mismo de los asesores/consultores: hay miles de ellos, todos te dicen lo que tienes que hacer, pero casi ninguno después de cobrar se queda a implementarlo. 
+Un ejemplo es lean manúfactoring
+
+Saludos]]></description>
+		<content:encoded><![CDATA[<p>Diego, ayer en un curso de control de planificación el profesor dijo exactamente lo mismo de los asesores/consultores: hay miles de ellos, todos te dicen lo que tienes que hacer, pero casi ninguno después de cobrar se queda a implementarlo.<br />
+Un ejemplo es lean manúfactoring</p>
+<p>Saludos</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Un mapa del kernel de Linux</title>
+	<atom:link href="/2005/12/22/un-mapa-del-kernel-de-linux/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/12/22/un-mapa-del-kernel-de-linux/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Steve</title>
+		<link>/2005/12/22/un-mapa-del-kernel-de-linux/comment-page-1/#comment-13497</link>
+		<dc:creator><![CDATA[Steve]]></dc:creator>
+		<pubDate>Thu, 14 Apr 2011 08:32:54 +0000</pubDate>
+		<guid isPermaLink="false">/2005/12/22/un-mapa-del-kernel-de-linux/#comment-13497</guid>
+		<description><![CDATA[Parece un mandala tibetano]]></description>
+		<content:encoded><![CDATA[<p>Parece un mandala tibetano</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hosting &#8211; freniche.com</title>
+	<atom:link href="/tag/hosting/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>He movido el alojamiento a siteground.com</title>
+		<link>/2007/05/27/he-movido-el-alojamiento-a-sitegroundcom/</link>
+		<pubDate>Sun, 27 May 2007 16:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[alojamiento]]></category>
+		<category><![CDATA[freniche.com]]></category>
+		<category><![CDATA[hosting]]></category>
+
+		<guid isPermaLink="false">/2007/05/27/he-movido-el-alojamiento-a-sitegroundcom/</guid>
+		<description><![CDATA[Esta noticia sirve para dos cosas. La primera, para yo distinguir entre la versión del portal freniche.com en 2mhost.com y la nueva en siteground.com y para que el que me mande un correo y vea que no le contesto, que insista, que puede haberse perdido en el cambio de DNS. ¿Que porqué me he movido, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Esta noticia sirve para dos cosas. La primera, para yo distinguir entre la versión del portal freniche.com en 2mhost.com y la nueva en siteground.com y para que el que me mande un correo y vea que no le contesto, que insista, que puede haberse perdido en el cambio de DNS.</p>
+<p class="bodytext">¿Que porqué me he movido, de nuevo? Creo que 500 GB (sí, GB con G de Grande), cuentas de correo ilimitadas, mysqls ilimitadas, postgreSQL ilimitadas, un ancho de banda terrible al mes, fantástico, cPanel (estas dos también las tiene 2mhost) y, sobre todo, un equipo de técnicos que te responden rápido y que parece que saben de lo que están hablando son razones más que suficientes para el cambio.</p>
+<p class="bodytext">Ahora que dispongo de espacio de sobra y potencia bajo mis manos, quiero lanzar un par de proyectos que llevan aparcados demasiado tiempo. Atención, amigo conductor&#8230;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ClockRing &#8211; freniche.com</title>
+	<atom:link href="/tag/clockring/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Convertir efectos de sonido entre distintos formatos con iTunes</title>
+		<link>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/</link>
+		<comments>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/#comments</comments>
+		<pubDate>Wed, 11 May 2011 09:04:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[iTunes]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Sonidos]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1498</guid>
+		<description><![CDATA[Hace ya un tiempo que publiqué en el App Store mi tercera App, ClockRing. Es una utilidad que hace que tu iPhone suene cada hora, como suena la radio, con esos pitidos. Aunque puedes escoger otros sonidos, claro. Es una aplicación muy sencilla, que usé para aprender a usar las LocalNotifications de iOS y decidí [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace ya un tiempo que publiqué en el App Store mi tercera App, <a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a>. Es una utilidad que hace que tu iPhone suene cada hora, como suena la radio, con esos pitidos. Aunque puedes escoger otros sonidos, claro. Es una aplicación muy sencilla, que usé para aprender a usar las LocalNotifications de iOS y decidí dejar como Software Libre. Lo que significa que si quieres ver cómo está escrita la App, siempre puedes bajarte su código fuente de su <a href="https://femtocoders.fogbugz.com/default.asp?W5">Wiki</a>.</p>
+<p style="text-align: justify;">El caso es que para que suene algo cuando se lanza una notificación necesitas un archivo con un efecto sonoro. En mi caso, los busqué libres también y me los bajé de <a href="http://www.freesound.org/">FreeSound.org</a>. Bueno, pues muchas veces vienen en un formato que no está soportado directamente por el iPhone (los que se admiten para LocalNotifications están en <a href="http://developer.apple.com/library/ios/#documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/IPhoneOSClientImp/IPhoneOSClientImp.html%23//apple_ref/doc/uid/TP40008194-CH103">esta lista</a>):</p>
+<p style="text-align: justify;">
+<ul>
+<li>Linear PCM</li>
+<li>MA4 (IMA/ADPCM)</li>
+<li>µLaw</li>
+<li>aLaw</li>
+</ul>
+<p>Se me ha dado el caso hoy de tener que convertir de nuevo efectos de sonido, en este caso desde AIFF hasta WAV. Y no recordaba cómo hacerlo. Ni con qué herramienta. Y resulta que iTunes lo hace todo. Paso a paso:</p>
+<ul>
+<li>Selecciona los ficheros de audio con los efectos de sonido y arrástralos a iTunes. Aparecerá el típico «+» verde y se añadirán a tu biblioteca.</li>
+<li>Busca esos ficheros en iTunes, para tenerlos localizados.</li>
+<li>Ve a Preferencias &gt; General (se debe abrir por ahí)</li>
+</ul>
+<div id="attachment_1499" style="width: 722px" class="wp-caption aligncenter"><img class="size-full wp-image-1499" title="Preferencias iTunes" src="/wp-content/uploads/2011/05/Preferencias-iTunes.png" alt="Preferencias iTunes" width="712" height="693" srcset="/wp-content/uploads/2011/05/Preferencias-iTunes.png 712w, /wp-content/uploads/2011/05/Preferencias-iTunes-300x291.png 300w" sizes="(max-width: 712px) 100vw, 712px" /><p class="wp-caption-text">Preferencias iTunes</p></div>
+<ul>
+<li>Ahora, pulsamos en Ajustes de importación. Se nos abre esta ventana:</li>
+</ul>
+<div id="attachment_1500" style="width: 634px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/05/Ajustes-importación.png"><img class="size-full wp-image-1500" title="Ajustes importación" src="/wp-content/uploads/2011/05/Ajustes-importación.png" alt="Ajustes importación" width="624" height="430" srcset="/wp-content/uploads/2011/05/Ajustes-importación.png 624w, /wp-content/uploads/2011/05/Ajustes-importación-300x206.png 300w" sizes="(max-width: 624px) 100vw, 624px" /></a><p class="wp-caption-text">Ajustes importación</p></div>
+<ul>
+<li>Aquí podremos cambiar la forma de importar audio, es decir, cómo queremos que iTunes convierta de un formato a otro. Esto se usa para convertir por ejemplo los CDs en ficheros con un formato determinado, pero también sirve para convertir.</li>
+<li>Disponemos de los siguientes formatos:</li>
+</ul>
+<div id="attachment_1501" style="width: 309px" class="wp-caption aligncenter"><img class="size-full wp-image-1501" title="codecs-audio" src="/wp-content/uploads/2011/05/codecs-audio.png" alt="codecs-audio" width="299" height="132" /><p class="wp-caption-text">codecs-audio</p></div>
+<ul>
+<li>Ahora ya basta con seleccionar los efectos de sonido, que hemos copiado en iTunes y pulsar en Avanzado &gt; Crear versión de WAV. Esta opción de menú va cambiando para reflejar el ajuste anterior.</li>
+<li>Pulsando con el botón derecho del ratón sobre estos efectos puedes «Mostrar en el Finder», lo que te abrirá la carpeta en la que están estos ficheros, por si prefieres trabajar ya con ellos desde el Finder. En mi caso, desde aquí los copio a XCode.</li>
+</ul>
+<p>Y así, sin instalar nada más, únicamente con iTunes que viene con cada Mac, podemos realizar esta sencillísima tarea (pero que para un inútil total del audio como yo, es un mundo). Si alguien conoce una forma más sencilla, por favor, que la cuente en los comentarios. Le estaré eternamente agradecido&#8230; o lo que dure este blog.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/05/11/convertir-efectos-de-sonido-entre-distintos-formatos-con-itunes/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>ClockRing y la Hermenéutica de las Apple Review Guidelines</title>
+		<link>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/</link>
+		<comments>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/#comments</comments>
+		<pubDate>Thu, 03 Feb 2011 11:03:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Productos]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1377</guid>
+		<description><![CDATA[ClockRing ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1378" style="width: 380px" class="wp-caption aligncenter"><img class="size-full wp-image-1378 " title="ClockRing rechazada :-)" src="/wp-content/uploads/2011/02/ClockRing-rejected.png" alt="ClockRing rechazada :-)" width="370" height="197" srcset="/wp-content/uploads/2011/02/ClockRing-rejected.png 370w, /wp-content/uploads/2011/02/ClockRing-rejected-300x159.png 300w" sizes="(max-width: 370px) 100vw, 370px" /><p class="wp-caption-text">ClockRing rechazada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;"><a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a> ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema con la licencia, que es <a href="https://femtocoders.fogbugz.com/default.asp?W5">GPL</a>, pero como eso no aparece de entrada, no hay <em>bronca</em> (el problema lo tienen aplicaciones que, nada más abrirlas, te informan de su licencia y otras historias).</p>
+<p style="text-align: justify;">El correo que he recibido del equipo de revisión me parece perfecto, en serio. Muy educado, te dan las gracias por enviar Apps al App Store y te explican exactamente cual es el problema (en mi caso una de las capturas de pantalla que había enviado) y cómo solucionarlo. Acabo de crear una nueva captura y la he enviado ya para que me la revisen, a ver si ahora todo funciona OK. No entiendo los programadores que se quejan todo el rato del proceso de revisión. Yo hasta ahora he tenido dos problemas, y en ambos casos me han indicado qué pasaba y cómo arreglarlo. Y todo como la seda, oiga.</p>
+<p style="text-align: justify;">Lo que me hace gracia es la razón exacta del rechazo:</p>
+<blockquote>
+<p style="text-align: justify;">3.2   Apps with placeholder text will be rejected</p>
+</blockquote>
+<p style="text-align: justify;">Bueno, mi captura de pantalla inicial lo que mostraba era un anuncio vacío (un iAd sin nada, ya que estaba probando la App). Y yo tenía que interpretar que un texto de relleno (placeholder text) es lo mismo que un iAd sin anuncios. Es por eso que habría que crear una <a href="http://es.wikipedia.org/wiki/Hermenéutica">hermenéutica</a> de las reglas de Apple, de forma que mentes ilustradas nos expliquen a los más torpes exactamente qué puedes y qué no puedes hacer <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">En resumen, que si mandas esto, te rechazan:</p>
+<p style="text-align: justify;">
+<div id="attachment_1381" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingApp.png"><img class="size-full wp-image-1381" title="Captura de ClockRing App que NO cumple las reglas :-)" src="/wp-content/uploads/2011/02/ClockRingApp.png" alt="Captura de ClockRing App que NO cumple las reglas :-)" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingApp.png 320w, /wp-content/uploads/2011/02/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Captura de ClockRing App que NO cumple las reglas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Pero si mandas esto otro, todo es perfecto:</p>
+<div id="attachment_1382" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png"><img class="size-full wp-image-1382" title="Esta es la buena" src="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png" alt="Esta es la buena" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png 320w, /wp-content/uploads/2011/02/ClockRingScreenShot-edited-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Esta es la buena</p></div>
+<p>Nunca me había alegrado tanto de tener mi licencia de Pixelmator. Problema solucionado en 5 min. Bueno, eso si te acuerdas de cambiar las imágenes promocionales en todas las App Stores. Si no, te mandan otro amable correo rebosante de paciencia pidiéndote que cambies los screenshots de la App española <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Por cierto, <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing ya está disponible en el App Store</a>. Y su <a href="https://femtocoders.fogbugz.com/default.asp?W5">código fuente está aquí</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>ClockRing, Mi tercera App es Software Libre</title>
+		<link>/2011/01/27/clockring-mi-tercera-app-es-software-libre/</link>
+		<comments>/2011/01/27/clockring-mi-tercera-app-es-software-libre/#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 12:26:57 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Femtocoders]]></category>
+
+		<guid isPermaLink="false">/?p=1365</guid>
+		<description><![CDATA[Pues eso, que he mandado a revisión por parte de Apple mi tercera App. Actualmente ya tengo dos subidas: MyEvents, para gestionar tus eventos importantes y saber cuántos días quedan hasta ellos, y FXPlayer, una App escrita a cuatro manos con la ayuda de @jnhidalgo @jnhernandez, y que te permite superponer efectos de sonido a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Pues eso, que he mandado a revisión por parte de Apple mi tercera App. Actualmente ya tengo dos subidas: <a href="http://itunes.apple.com/es/app/myevents/id398956491?mt=8">MyEvents</a>, para gestionar tus eventos importantes y saber cuántos días quedan hasta ellos, y <a href="http://itunes.apple.com/es/app/fxplayer/id412711013?mt=8">FXPlayer</a>, una App escrita a cuatro manos con la ayuda de <a href="http://twitter.com/jnhidalgo">@jnhidalgo</a> @jnhernandez, y que te permite superponer efectos de sonido a una canción que tengas sonando en el iPod. Puedes verlas en la web de <a href="http://www.femtocoders.com/">Femtocoders</a> (Inglés) o en la sección <a href="/ios-apps/">iOS Apps</a> del blog.</p>
+<p style="text-align: justify;">Esta tercera se llama ClockRing, y la idea es muy sencilla: hace que suene un pitido de señal horaria en tu iPhone, como los relojes Casio de toda la vida. Con la particularidad que te permite escoger qué quieres que suene: una campana de iglesia, un reloj de cuco, un pitido típico de la radio&#8230;</p>
+<p style="text-align: justify;">
+<div id="attachment_1368" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/ClockRingApp.png"><img class="size-full wp-image-1368" title="ClockRing App" src="/wp-content/uploads/2011/01/ClockRingApp.png" alt="ClockRing App" width="320" height="480" srcset="/wp-content/uploads/2011/01/ClockRingApp.png 320w, /wp-content/uploads/2011/01/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">ClockRing App</p></div>
+<p style="text-align: justify;">Se me ocurrió la idea tras enterarme a través de <a href="http://twitter.com/jmortizsilva">José Mª Ortiz</a>, un compañero de <a href="http://twitter.com/jonathanchacon">Jonathan Chacón</a> (<a href="http://wap.elpais.com/index.php?module=elp_gen&amp;page=elp_gen_noticia&amp;idNoticia=20110104elpepirtv_1.Tes&amp;secc=tec">primer desarrollador ciego en el mundo</a> que ha publicado <a href="http://itunes.apple.com/es/app/buscaminas-accesible/id405094331?mt=8">una App</a> en el App Store, bromitas pocas), de que <a href="http://www.programaraciegas.es/2011/01/23/myevents-ejemplo-de-utilidad-simplicidad-y-accesibilidad-para-ios/">MyEvents era accesible</a>. Empecé entonces a pensar en los temas de accesibilidad y se me planteé “¿bueno, y un ciego cómo sabe de un vistazo que son las dos de la tarde y tiene que irse a comer?”. Evidentemente no <em>“de un vistazo”</em>, tienen que estar activando el iPhone, y VoiceOver te canta la hora. Pero se me ocurrió la idea de clockRing y pensé que podría ser útil. Además, José Mª, me pidió que implementase «para ayer» la posibilidad de programar alarmas en MyEvents (cosa que empiezo a preparar ya para la v1.2). Así que ClockRing era la oportunidad perfecta para practicar con la API de LocalNotifications.</p>
+<p style="text-align: justify;">La App es <strong>gratis</strong>, e incluye iAds para ver si me puedo pagar alguna cerveza a su costa. Pero hace tiempo que estoy con ganas de liberar algo de código. Así que <strong>ClockRing es Software Libre</strong>, según establece la licencia GPL v2. Vamos, que puedes ver el código, compilarlo, usarlo en tus proyectos, o para aprender, o para reírte, o para lo que quieras. Pero los trabajos derivados deben ser también libres. Si quieres una copia del código, pásate por la <a href="https://femtocoders.fogbugz.com/default.asp?W5">Wiki de la App ClockRing que tengo en FogBugz</a> (otro día  hablaré de FogBugz y su increíble sistema de Bug Tracking, predicción del tiempo de entregas, Wikis, repositorios de código, etc.)</p>
+<p style="text-align: justify;">ClockRing aún no está disponible para su descarga desde el App Store, ya que está en el proceso de aprobación (cruzad los dedos). En el momento en que esté disponible lo anunciaré aquí (actualizando esta entrada) y en Twitter.</p>
+<p style="text-align: justify;"><strong>Actualización</strong>: ya puedes bajarte <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing</a> gratis.</p>
+<p>Happy coding!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/27/clockring-mi-tercera-app-es-software-libre/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

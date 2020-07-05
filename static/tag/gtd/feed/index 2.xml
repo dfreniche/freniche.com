@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>GTD &#8211; freniche.com</title>
+	<atom:link href="/tag/gtd/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Sincronizar EasyTask en dos Macs con Dropbox</title>
+		<link>/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/</link>
+		<comments>/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/#comments</comments>
+		<pubDate>Sat, 05 Dec 2009 17:45:44 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[GTD]]></category>
+		<category><![CDATA[iCharlas]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=504</guid>
+		<description><![CDATA[Hace algún tiempo que vengo usando para organizar mis tareas EasyTask. Empecé a interesarme por el método GTD hace un par de años, como ya comenté, y he continuado leyendo y evolucionando en el método. A raíz de los post de Berto sobre productividad en Thinkwasabi y teniendo el iPhone en mis manos, empecé a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify; ">Hace algún tiempo que vengo usando para organizar mis tareas EasyTask. Empecé a interesarme por el método GTD hace un par de años, <a href="/2007/10/13/thinking-rock-rocks/" target="_self">como ya comenté</a>, y he continuado leyendo y evolucionando en el método. A raíz de los post de Berto sobre <a href="http://thinkwasabi.com/productividad/">productividad</a> en <a href="http://thinkwasabi.com/">Thinkwasabi</a> y teniendo el iPhone en mis manos, empecé a buscar un sistema GTD que fuera portable. Mucha gente en el mundo Mac usa <a href="http://culturedcode.com/things/">Things</a>. Yo no lo he probado pero, la verdad, me parecía caro: tienes que pagar por la versión de escritorio y luego por la versión iPhone. Mucha tela para mí.</p>
+<p style="text-align: justify; ">
+<div id="attachment_508" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/12/todos.jpg"><img class="size-full wp-image-508" title="todos" src="/wp-content/uploads/2009/12/todos.jpg" alt="ToDo's: la clásica lista de cosas por hacer" width="320" height="480" srcset="/wp-content/uploads/2009/12/todos.jpg 320w, /wp-content/uploads/2009/12/todos-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">ToDo&#39;s: la clásica lista de cosas por hacer</p></div>
+<p style="text-align: justify; ">Comencé con ToDo&#8217;s, una pequeña lista de tareas que puedes ir tachando. Pero no tenía la potencia suficiente. Yo quería contextos, proyectos, etc. Vamos, lo mínimo para hacer GTD. Y me encontré en el iPhone con <a href="http://www.orionbelt.com/productMac.php">EasyTask</a>. La estuve usando unos meses (es gratis) y acabé pagando los 20 $ que cuesta la versión de escritorio. EasyTask, que está ahora en su versión 2.6 debe aún mejorar muchos pequeños problemas que tiene, tanto de usabilidad como bugs. He intercambiado algunos correos con la empresa y su desarrollador para informarle de los fallos. Están trabajando en ello (desde Septiembre), pero aún no hay nueva versión. Bueno, el caso es que la uso a diario, y me sirve para organizarme.</p>
+<p style="text-align: justify; ">El problema es que ahora utilizo dos ordenadores a la vez: mi MacBook Pro para programar con XCode, leer el correo, ver los Feeds, etc. y mi PowerMac G5 para iTunes, iPhoto, iMovie, ver películas, descargar cosas, etc. Y en ambos quería tener instalado EasyTask, lógicamente con las tareas sincronizadas. Y es aquí donde entra en juego <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>.</p>
+<div id="attachment_507" style="width: 244px" class="wp-caption alignright"><a href="/wp-content/uploads/2009/12/dropbox.png"><img class="size-full wp-image-507" title="dropbox" src="/wp-content/uploads/2009/12/dropbox.png" alt="El menú de Dropbox en la barra de menús de mi Mac" width="234" height="236" srcset="/wp-content/uploads/2009/12/dropbox.png 234w, /wp-content/uploads/2009/12/dropbox-150x150.png 150w" sizes="(max-width: 234px) 100vw, 234px" /></a><p class="wp-caption-text">El menú de Dropbox en la barra de menús de mi Mac</p></div>
+<p style="text-align: justify; ">Por si alguien no lo conoce, Dropbox es un servicio que te permite tener gratis 2GB de ficheros subidos «en la nube». Funciona en Linux, Mac y Windows (hay que instalar un programa) y crea una carpeta llamada Dropbox en tu directorio de usuario. A partir de aquí, fichero que tires en tu Dropbox se sube a Internet y aparece en todos los ordenadores donde lo tengas instalado. Se acabaron las llaves USB. Pero Dropbox tiene muchos más usos. Ayer, escuchando el podcast iCharlas en <a href="http://www.icharlas.es/iCharlas_Podcast/iCharlas/Entradas/2009/11/25_iCharlas_Podcast_15__Los_mil_y_un_usos_de_Dropbox.html" target="_blank">un capítulo dedicado a Dropbox</a> se me ocurrió la idea para solucionar mi sincronización de EasyTask.</p>
+<p style="text-align: justify; ">La idea es sencilla: buscar la carpeta donde EasyTask guarda sus datos, moverla a Dropbox y luego crear un enlace simbólico que apunte a la nueva ubicación y que haga creer a EasyTask que todo sigue igual. Esto hay que hacerlo en todos aquellos equipos en los que quieras las sincronización. Lo explico paso a paso y luego hablamos del enlace simbólico.</p>
+<ul>
+<li>instala en todos los ordenadores la misma versión de EasyTask. Así estamos seguros de que no vamos a tener problemas con los formatos de los datos. En EasyTask en Help -&gt; Check for Upgrade nos indica la versión que tenemos.</li>
+<li>cierra todos los EasyTask. Que luego venimos con los problemas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>te vas al primer equipo (en mi caso el MacBook Pro) y buscas la carpeta Library &gt; Application Support que está dentro de tu carpeta de usuario. Debe contener muchas carpetas con los datos de tus aplicaciones. Una de ellas será la de EasyTask.</li>
+<li>mueve esta carpeta EasyTask a tu carpeta Dropbox</li>
+<li>ahora, la carpeta EasyTask está en Dropbox, y no en Application Support. Abre la aplicación Terminal (lo más sencillo es con Spotlight, pulsas CMD+Espacio y escribes Terminal)</li>
+<li>Una vez en el terminal, hay que ir a la carpeta Application Support y crear el enlace a la carpeta EasyTask que, recordemos, está ahora en Dropbox. Para ello, escribe:</li>
+</ul>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Tesla:~ dfreniche$ cd Library/Application\ Support/</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Tesla:Application Support dfreniche$ ln -s /Users/dfreniche/Dropbox/EasyTask/ .</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">ln: ./: File exists</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Tesla:Application Support dfreniche$ ln -s /Users/dfreniche/Dropbox/EasyTask/ EasyTask</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Tesla:Application Support dfreniche$</div>
+<pre style="padding-left: 60px; ">$ cd Library/Application\ Support/</pre>
+<pre style="padding-left: 60px; ">$ ln -s /Users/dfreniche/Dropbox/EasyTask/ EasyTask</pre>
+<p>Bueno, ya tenemos el enlace creado en el primer equipo. Podemos comprobarlo mirando en el Finder la carpeta Library &gt; Application Support. Debe tener este aspecto:</p>
+<div id="attachment_510" style="width: 1015px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/12/carpeta_easytask.png"><img class="size-full wp-image-510" title="carpeta_easytask" src="/wp-content/uploads/2009/12/carpeta_easytask.png" alt="Ahora EasyTask es un enlace simbólico" width="1005" height="539" srcset="/wp-content/uploads/2009/12/carpeta_easytask.png 1005w, /wp-content/uploads/2009/12/carpeta_easytask-300x160.png 300w" sizes="(max-width: 1005px) 100vw, 1005px" /></a><p class="wp-caption-text">Ahora EasyTask es un enlace simbólico</p></div>
+<p>Ya estamos terminando. Queda ahora abrir EasyTask y comprobar que todo funciona OK. Cambiamos de ordenador y la idea ahora es, en cada equipo en el que tengamos EasyTask + Dropbox instalado:</p>
+<ul>
+<li>borrar la carpeta EasyTask de Application Support</li>
+<li>crear un enlace a la nueva carpeta que debe aparecer en Dropbox</li>
+</ul>
+<p>Esto se consigue con un poco de Terminal:</p>
+<pre style="padding-left: 60px; ">$ cd Library/Application\ Support/
+$ rm -rf EasyTask/
+$ ln -s /Users/dfreniche/Dropbox/EasyTask/ EasyTask
+$ ls -l EasyTask
+lrwxr-xr-x  1 dfreniche  staff  34  4 dic 12:51 EasyTask -&gt; /Users/dfreniche/Dropbox/EasyTask/</pre>
+<p>Espero que os sirva este truco. Cuidado con lo que hacéis y, antes de empezar, copiad la carpeta EasyTask a otro lado «por si las moscas».</p>
+<p style="text-align: justify;">Antes de terminar, he quedado antes en explicar por encima qué es un enlace simbólico. Vamos a ello. Un enlace simbólico no es mas que un alias que le indica al S.O. que el fichero o carpeta que se busca no está ahí, sino en otro sitio. Es una forma perfecta de tener aparentemente duplicadas dos carpetas en el sistema de ficheros que están sincronizadas. Realmente sólo hay una y la otra carpeta es un enlace simbólico. Vienen de serie en todos los UNIX (Linux, Solaris, Mac OS X) y, sorprendentemente, <a href="/2005/10/20/¿existen-enlaces-simbolicos-en-windows/" target="_self">también en Windows</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

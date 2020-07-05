@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>apache &#8211; freniche.com</title>
+	<atom:link href="/tag/apache/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Configurar hosts virtuales en Apache</title>
+		<link>/2005/10/20/configurar-hosts-virtuales-en-apache/</link>
+		<pubDate>Thu, 20 Oct 2005 19:55:48 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[apache]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/configurar-hosts-virtuales-en-apache/</guid>
+		<description><![CDATA[Los host virtuales en apache nos permiten tener en una misma máquina diferentes sitios web, cada uno con una URL diferente pero apuntando a la misma IP. De esta forma, podemos tener dos versiones de un mismo portal web, de producción y desarrollo, con URLs: desarrollo.miportal.com y produccion.miportal.com Para conseguir ésto, hay que tocar tres [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Los host virtuales en apache nos permiten tener en una misma máquina diferentes sitios web, cada uno con una URL diferente pero apuntando a la misma IP. De esta forma, podemos tener dos versiones de un mismo portal web, de producción y desarrollo, con URLs: desarrollo.miportal.com y produccion.miportal.com<br />
+Para conseguir ésto, hay que tocar tres ficheros:<br />
+1. Hay que redirigir las URLs a la IP de la máquina. Hay que editar /etc/hosts para conseguir ésto. Mi /etc/hosts tiene la pinta:</p>
+<pre>127.0.0.1 tesla localhost
+10.1.1.1servidorservidor
+127.0.0.1local.freniche.comlocal.freniche.com
+127.0.0.1phpmyadminphpmyadmin
+127.0.0.1phpphp</pre>
+<p>para comprobarlo, hay que hacer ping a las direcciones nuevas para ver que «responden». Es decir, ping local.freniche.com, ping php, etc<br />
+Todos deben responder desde el 127.0.0.1<br />
+2. Una vez hecho esto, hay que editar /etc/apache/httpd.conf y modificar la sección virtual hosts</p>
+<pre>NameVirtualHost 127.0.0.1</pre>
+<pre>#
+# VirtualHost example:
+# Almost any Apache directive may go into a VirtualHost container.
+#
+#<virtualhost>
+# ServerAdmin webmaster@host.some_domain.com
+# DocumentRoot /www/docs/host.some_domain.com
+# ServerName host.some_domain.com
+# ErrorLog logs/host.some_domain.com-error.log
+# CustomLog logs/host.some_domain.com-access.log common
+#</virtualhost></pre>
+<pre>#<virtualhost>
+#</virtualhost></pre>
+<pre><virtualhost>
+# ServerAdmin webmaster@host.some_domain.com
+#Options Indexes Includes FollowSymLinks MultiViews
+#DocumentRoot /home/dfreniche/Documents/trabajo/xoops/xoops-2.0.5/html
+DirectoryIndex index.php
+DocumentRoot /home/dfreniche/xoops/html
+ServerName local.freniche.com
+# ErrorLog logs/host.some_domain.com-error.log
+# CustomLog logs/host.some_domain.com-access.log common
+</virtualhost></pre>
+<pre><virtualhost>
+# ServerAdmin webmaster@host.some_domain.com
+#Options Indexes Includes FollowSymLinks MultiViews
+#DocumentRoot /home/dfreniche/Documents/trabajo/xoops/xoops-2.0.5/html
+DirectoryIndex index.php
+DocumentRoot /home/dfreniche/phpMyAdmin-2.5.4
+ServerName phpmyadmin
+# ErrorLog logs/host.some_domain.com-error.log
+# CustomLog logs/host.some_domain.com-access.log common
+</virtualhost></pre>
+<pre><virtualhost>
+# ServerAdmin webmaster@host.some_domain.com
+#Options Indexes Includes FollowSymLinks MultiViews
+#DocumentRoot /home/dfreniche/Documents/trabajo/xoops/xoops-2.0.5/html
+DirectoryIndex index.php
+DocumentRoot /home/dfreniche/php
+ServerName php
+# ErrorLog logs/host.some_domain.com-error.log
+# CustomLog logs/host.some_domain.com-access.log common
+</virtualhost></pre>
+<ol>
+<li>No olvidemos cambiar la configuración del proxy del navegador/explorador para que no intente.</li>
+</ol>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

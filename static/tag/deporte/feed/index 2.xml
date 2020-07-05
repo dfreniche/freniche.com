@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Deporte &#8211; freniche.com</title>
+	<atom:link href="/tag/deporte/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Creando una lista de Podcasts en iTunes</title>
+		<link>/2011/07/19/creando-una-lista-de-podcasts-en-itunes/</link>
+		<pubDate>Tue, 19 Jul 2011 10:10:51 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Deporte]]></category>
+		<category><![CDATA[iPod]]></category>
+		<category><![CDATA[iTunes]]></category>
+
+		<guid isPermaLink="false">/?p=1549</guid>
+		<description><![CDATA[Uno de los objetivos que me planteé este año fue volver a hacer deporte de forma habitual. Sin querer convertirme en un Iron Man (aunque estaría chulo poder correr una de esas), el objetivo era incorporar el deporte de nuevo a mi rutina de vida diaria. Y lo he conseguido. Ahora salgo todas las semanas, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Uno de los objetivos que me planteé este año fue volver a hacer deporte de forma habitual. Sin querer convertirme en un <a href="http://es.wikipedia.org/wiki/Ironman" target="_blank">Iron Man</a> (aunque estaría chulo poder correr una de esas), el objetivo era incorporar el deporte de nuevo a mi rutina de vida diaria. Y lo he conseguido. Ahora salgo todas las semanas, 3 ó 4 veces, a caminar, marchar o trotar de forma suave.</p>
+<p style="text-align: justify;">Me he habituado a ir escuchando música mientras camino. Ya, ya se que la mayoría de la gente lo hace, pero es que yo era un «anti-cacharros» para correr, y me molestaban hasta las zapatillas. Pero el iPhone 4 engancha, y más si usas una herramienta de tracking como <a href="http://runkeeper.com/" target="_blank">RunKeeper Pro</a>. Durante el Invierno y la Primavera he ido con el iPhone sin problemas. Pero ahora en Verano me apetecía algo más ligero. Y mi mujer tenía tirado por aquí, sin usar, un iPod Shuffle de 2GB (rosa, eso sí). Ante tamaño sacrilegio, no tuve más remedio que ponerlo en uso y cargarlo con música.</p>
+<p style="text-align: justify;">Y todo perfecto. Pero echo de menos mis podcasts. Porque cuando antes he dicho que escucho música he mentido: yo escucho podcasts, y así aprovecho el deporte para enterarme de cosas, o entretenerme. Es la mejor radio, y la que más escucho. El caso es que en el Shuffle, que lo cargué de emergencia con un aleatorio de canciones de 5 estrellas, no había ni un podcast. Tenía que solventarlo. Mi mente ya sabía lo que quería:</p>
+<blockquote><p>«Dile a iTunes que SELECT * FROM podcasts WHERE nombre_podcast = Game Over OR Macniacos OR 85% Cocoa OR &#8230;»</p></blockquote>
+<p style="text-align: justify;">El problema es que aún no he terminado el Interfaz Mente de Diego &#8211; iMac. Está en preAlpha :-). Así que tenía que pelearme con el interfaz de iTunes, que será muy intuitivo, pero para otros. Porque lo que es para mí&#8230;</p>
+<p style="text-align: justify;">Lo que sí tenía claro, es que debía ser una lista de reproducción, y luego cambiarle los criterios hasta llegar a algo como el SELECT de arriba. ¡ERROR!. Las listas de reproducción te permiten arrastrar ahí canciones para luego reproducirlas, pero no definir criterios. Lo que necesito es una nueva lista de reproducción <em>inteligente</em>.</p>
+<div id="attachment_1551" style="width: 227px" class="wp-caption aligncenter"><img class="size-full wp-image-1551" title="Listas de reproducción inteligentes" src="/wp-content/uploads/2011/07/lista-reprod.png" alt="Listas de reproducción inteligentes" width="217" height="140" /><p class="wp-caption-text">Listas de reproducción inteligentes</p></div>
+<p style="text-align: justify;">Me lancé a crear la lista, pero eso de hacer que me listara todos los podcast Y que luego pusiera los capítulos no reproducidos de unos cuantos de ellos, seleccionados a mano me ha llevado unos minutos hasta comprenderlo. Sí, soy demasiado estúpido. Pero una búsqueda booleana directa me gustaría más. A mí al menos&#8230; Sin aburrir más al personal, para crear la lista he llegado a:</p>
+<div id="attachment_1552" style="width: 916px" class="wp-caption aligncenter"><img class="size-full wp-image-1552" title="Configuración de la Lista de Reproducción" src="/wp-content/uploads/2011/07/config-lista.png" alt="Configuración de la Lista de Reproducción" width="906" height="638" srcset="/wp-content/uploads/2011/07/config-lista.png 906w, /wp-content/uploads/2011/07/config-lista-300x211.png 300w" sizes="(max-width: 906px) 100vw, 906px" /><p class="wp-caption-text">Configuración de la Lista de Reproducción</p></div>
+<p>Ahora esto hace lo que yo quiero: me saca 10 podcasts de entre los de arriba que no estén marcados como reproducidos. ¡Bien!. iTunes 0, Diego 1.</p>
+<div id="attachment_1553" style="width: 410px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/resultado-lista.png"><img class="size-full wp-image-1553" title="El resultado de la Lista: los podcast que quiero escuchar" src="/wp-content/uploads/2011/07/resultado-lista.png" alt="El resultado de la Lista: los podcast que quiero escuchar" width="400" height="232" srcset="/wp-content/uploads/2011/07/resultado-lista.png 400w, /wp-content/uploads/2011/07/resultado-lista-300x174.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></a><p class="wp-caption-text">El resultado de la Lista: los podcast que quiero escuchar</p></div>
+<p><span style="text-decoration: underline;"><strong>Actualización 27/07/2011:</strong></span></p>
+<p>Tal y como aparece la captura de pantalla con las reglas anteriores, NO se muestran los 10 podcasts añadidos recientemente y que no se han reproducido. Sólo se muestran los 10 añadidos hace menos tiempo. Eso me ha llevado a que, por ejemplo, si me bajo 10 episodios de 85% Cocoa y otros 10 de iCharlas, y escucho todos los de iCharlas me seguirán apareciendo en la lista (aunque ya los he escuchado) porque son los últimos que he añadido. Se soluciona con una condición «Nº de reproducciones es 0», quedando las reglas:</p>
+<div id="attachment_1560" style="width: 790px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/nuevas-reglas.png"><img class="size-full wp-image-1560" title="Nuevas reglas de la lista inteligente" src="/wp-content/uploads/2011/07/nuevas-reglas.png" alt="Nuevas reglas de la lista inteligente" width="780" height="549" srcset="/wp-content/uploads/2011/07/nuevas-reglas.png 780w, /wp-content/uploads/2011/07/nuevas-reglas-300x211.png 300w" sizes="(max-width: 780px) 100vw, 780px" /></a><p class="wp-caption-text">Nuevas reglas de la lista inteligente</p></div>
+<h1>Sincronizando el iPod Shuffle</h1>
+<p style="text-align: justify;">El Shuffle que tengo es uno de los de primera generación. Que por cierto, son los que más me gustan de diseño. Los de la 3ª generación han vuelto a este diseño original del que nunca debieron apartarse <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Si tratas de autorellenar uno de estos Shuffles desde iTunes con la lista de podcasts, una ventanita te dice que <em>tralará</em>:</p>
+<div id="attachment_1556" style="width: 564px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/07/error-shuffle.png"><img class="size-full wp-image-1556" title="Error Shuffle 1ª generación: no soporta podcasts" src="/wp-content/uploads/2011/07/error-shuffle.png" alt="Error Shuffle 1ª generación: no soporta podcasts" width="554" height="226" srcset="/wp-content/uploads/2011/07/error-shuffle.png 554w, /wp-content/uploads/2011/07/error-shuffle-300x122.png 300w" sizes="(max-width: 554px) 100vw, 554px" /></a><p class="wp-caption-text">Error Shuffle 1ª generación: no soporta podcasts</p></div>
+<p>Y Apple te lo deja <a href="http://support.apple.com/kb/HT1831?viewlocale=es_ES">bien clarito</a>:</p>
+<blockquote><p>La función Autorrelleno de iTunes no añadirá audiolibros y podcasts a ningún modelo de iPod. Es posible añadirlos manualmente si los arrastras hasta el iPod shuffle en iTunes.</p></blockquote>
+<p>Así que nada de hacer las cosas automáticamente (bueno, sí puedes si te dejas la pasta en un Shuffle de los nuevos). En mi caso, la sincronización la hago en tres pasos:</p>
+<ol>
+<li>borro todo del Shuffle</li>
+<li>copio los podcasts de mi lista en el Shuffle</li>
+<li>y entonces que iTunes autorellene con mis canciones favoritas. No caben todas, OK, mete las que quieras</li>
+</ol>
+<div>Y de esta forma, llevo podcasts y música en el Shuffle. El problema ahora es encontrar los podcasts para reproducirlos, pero esa es otra historia <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></div>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

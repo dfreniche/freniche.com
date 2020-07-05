@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mis máquinas &#8211; freniche.com</title>
+	<atom:link href="/tag/mis-maquinas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Windows 8 en mi iMac late 2009</title>
+		<link>/2014/06/11/windows-8-en-mi-imac-late-2009/</link>
+		<comments>/2014/06/11/windows-8-en-mi-imac-late-2009/#comments</comments>
+		<pubDate>Wed, 11 Jun 2014 16:15:45 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Bootcamp]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=2187</guid>
+		<description><![CDATA[TL;DR; Este es el mejor resumen de lo que viene a continuación: Me gusta jugar. Lo confieso. Especialmente a los juegos de acción en primera persona (vicio adquirido con el mítico Wolfestein 3D) y a los de estrategia por turnos. Por turnos. Los otros son un corre que te pillo para ganar. Esto se lo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h2>TL;DR;</h2>
+<p>Este es el mejor resumen de lo que viene a continuación:</p>
+<p><a href="/wp-content/uploads/2014/06/t0XHtgJ.gif"><img src="/wp-content/uploads/2014/06/t0XHtgJ.gif" alt="Escena de Dexter" width="240" height="180" class="aligncenter size-full wp-image-2189" /></a></p>
+<h2>Me gusta jugar.</h2>
+<p>Lo confieso. Especialmente a los juegos de acción en primera persona (vicio adquirido con el mítico <a href="http://es.wikipedia.org/wiki/Wolfenstein_3D">Wolfestein 3D</a>) y a los de estrategia por turnos. Por turnos. Los otros son un <em>corre que te pillo</em> para ganar. Esto se lo debo a <a href="http://es.wikipedia.org/wiki/Civilization">Civilization</a>, que conocí en el centro de cálculo de la entonces Facultad de Informática. Desde entonces (y desde antes) siempre me ha encantado jugar. De hecho, tengo un refrán propio: <em>«desconfía del programador que no juegue»</em>.</p>
+<p>En el Mac mis necesidades de juegos han estado bastante bien cubiertas por Steam estos años. Los juegos que me interesan los tengo. Salvo uno: Héroes of Might and Magic, que siguen empeñandose en sacarlo solo para Windows. Lo cual es absurdo, porque digo yo que si un montón de juegos salen ya para Mac es perder mercado y tal, pero bueno. El caso es que me lo compré hace un tiempo y no he podido jugar por no tener a mano una máquina Windows con una tarjeta gráfica de al menos 512 MB. Aquí no valen máquinas virtuales ni otros apaños: necesitas «the real thing».</p>
+<p>En esta tesitura estaba cuando caí en que mi iMac tiene exactamente esa memoria gráfica. Y es un Core i7. Y tiene 12 GB RAM. Vamos, que es un maquinón. ¿Por qué no usarlo para mis necesidades de jugón instalando con BootCamp una partición con Windows? Eso es lo que hice con mi Mac Mini, pero terminé por no usarlo ya que los juegos iban muy, muy lentos debido a la triste potencia gráfica (y de CPU) de mi Mac Mini. Que de servidor y eso aguanta, pero para cosas más exigentes en gráficos el pobre no puede.</p>
+<p>Así que me puse manos a la obra, pensando que con Bootcamp y mi DVD de Windows 8 la cosa estaba controlada. No sabía cuanto me equivocaba.</p>
+<h2>La clave de producto de Windows</h2>
+<p>Antes de hacer nada empecé planificando todos los pasos en mi libreta. Para reunir los materiales necesarios, anticipar problemas y esas cosas. Cuando salió Windows 8 compré una licencia de Windows 8 Pro por sí la necesitaba para desarrollo Windows Phone y por echar un vistazo a la interfaz Metro (o como se tenga que llamar ahora). Por todo eso y por otra cosa: porque estaba barata, 30 Eur.</p>
+<pre><code>Nota al margen: Microsoft, quizás aprendas que es mejor ganar un poco menos con cada licencia, y llevarte el 100% que seguir empeñada en cobrar un Potosí por cada programa...
+</code></pre>
+<p>Pues bien: no encontraba la licencia. No estaba en Evernote, ni en el disco duro del Mac, ni encontraba mensaje alguno de confirmación de la compra. Sólo veía un correo de Paypal de confirmación del pago, pero de «Product Key» nada de nada. Pues vaya. Para una vez que pago una licencia de Microsoft, me hace ilusión utilizarla. Como no la encontraba la solución fue arrancar una máquina virtual donde la había instalado y sacarle una foto con el iPhone a la clave. Luego, mucho más tarde, caí en que la clave estaba en un correo en mi cuenta de hotmail. Sí, esa que todos tenemos y no usamos. Pero eso es otra historia para un segundo post donde hablaré de las activaciones de productos Microsoft. Que tiene mucha guasa, por cierto.</p>
+<h2>Copias de seguridad</h2>
+<p>Armado con mi clave de producto me dispuse a hacer copias de seguridad del iMac. A fin de cuentas, usar Bootcamp supone crear nuevas particiones en el disco, y eso es peligroso, ¿no?. Así que con Techtool 7 he creado una copia arrancable del iMac en un HD externo de 1 TB que tengo para estas cosas. Y claro, además de crearla hay que reiniciar usando ese disco de copia de seguridad como disco de arranque y comprobar que si todo sale mal, al menos puedes dejarlo todo como estaba.</p>
+<p>Todo Ok, tras un siglo de esperas.</p>
+<h2>Fusion drive</h2>
+<p>De pronto, un escalofrío recorre mi espalda. Recuerdo que tengo instalado un SSD en el sitio que antes ocupaba la unidad Superdrive. Y que creé un grupo de volúmenes con Fusion Drive, de manera que OS X gestiona de forma automática que ficheros deben ir en el SSD y cuales en el HD. Así qué me entra la duda: si instalo Windows 8 ¿dónde se instala?. ¿En el SSD? ¿Se carga el Fusion Drive? ¿No se puede instalar por culpa de este?</p>
+<p>Buscando un poco encontré la respuesta en las preguntas frecuentes de Bootcamp. Simplemente se va a instalar en el HD, sin tocar el SSD. Así qué puedo seguir. Phew!</p>
+<h1>Bootcamp no soporta Windows 8</h1>
+<p>Pues eso. Que BootCamp no soporta Windows 8 en mi iMac late 2009 y no me lo ofrece como opción a la hora de instalar. Me deja bajar los drivers (en teoría, más sobre esto ahora) y sólo te deja instalar Windows 7. Según Apple, mi iMac no debe ser lo suficientemente potente para ejecutar Windows 8, o bien ellos no quieren seguir dando soporte a una máquina ya <em>antigua</em>. Voto por esto último.</p>
+<p>El caso es que intenté bajar los drivers y ¡oh sorpresa! BootCamp fallaba al descargarlos. Tuve que usar mi Google-Fu y explorar un poco para encontrar una web desde la que descargarlos a mano. Porque esa es otra: Apple no te da una manera clara y sencilla de acceder a ellos. Una lista en una página de descargas bastaría, pero no.</p>
+<p>Aunque hay unos drivers en Bootcamp > Lbrary > Application Support > Bootcamp > WindowsSupport.dmg que pueden servirte. Lo dejo aquí por si acaso.</p>
+<h1>Instalemos Windows 8</h1>
+<p>Ahora viene lo fácil. Vi un truco para saltarse a BootCamp en modo «sólo instalo Windows 7» que era meter un DVD con Win 7, dejarle hacer las particiones y luego, al reiniciar, cambiarlo por uno de Windows 8. Esa era una opción. La otra, instalar Win 7 y luego actualizarlo a Win 8, pero lleva más tiempo (son dos instalaciones)</p>
+<p>Pero claro, todo esto es usando la unidad Superdrive del iMac. La interna. Sí, <em>esa que ya no tengo desde que le puse un SSD y monté Fusion Drive</em>. Pero no pasa nada, ¿no?. A fin de cuentas, la tengo instalada en una caja externa USB y podré iniciar la máquina con el DVD de Windows y&#8230; <strong>Pues no</strong>. No funciona. Lo intento, pero Windows no arranca desde el DVD (que, por cierto, he tenido que crear tras bajarme una ISO de la web de Microsoft). Grabando DVDs en 2014 <em>like some kind of animal</em></p>
+<p>Buscando en foros me encuentro con que sí quiero instalar Windows en mi iMac, por un lado BootCamp no me genera una llave USB de instalación (el iMac es muy antiguo por lo visto para eso) y que puedo instalar Win 7 (no Win 8) pero usando una unidad superdrive externa oficial de Apple. Que esas sí funcionan.</p>
+<p>Tragedia. Estoy atrapado.</p>
+<p>¿Pido a alguien prestada una unidad Superdrive de Apple <em>pata negra</em>? ¿Reinstalo el Superdrive? ¿Me como Win 8 con patatas?</p>
+<h2>Winclone</h2>
+<p>Como soy un cabezón y sabía que de alguna manera se podría hacer seguí buscando por foros y leí sobre Winclone. Winclone es un programa pensado para hacer copias de seguridad de particiones BootCamp. Puedes almacenar en un fichero tu partición y así te ahorras tener que andar instalando drivers, programas, actualizando, etc si tienes algún problema con Windows. En el Mac, con Time Machine por un lado y una copia arrancable que hagas con SuperDuper, Carbon Copy Cloner o Techtool Pro tienes el lado OS X perfectamente protegido. El problema es si tuviera que reinstalar todo el Windows.</p>
+<p><a href="/wp-content/uploads/2014/06/winclone.png"><img src="/wp-content/uploads/2014/06/winclone.png" alt="Winclone, utilidad para clonar particiones Bootcamp" width="1245" height="768" class="aligncenter size-full wp-image-2195" srcset="/wp-content/uploads/2014/06/winclone.png 1245w, /wp-content/uploads/2014/06/winclone-300x185.png 300w, /wp-content/uploads/2014/06/winclone-1024x631.png 1024w, /wp-content/uploads/2014/06/winclone-920x567.png 920w" sizes="(max-width: 1245px) 100vw, 1245px" /></a></p>
+<p>El caso es que se me ocurrió una idea. Yo ya tenía instalado Windows en mi Mac Mini. ¿Por qué no hacer un Winclone de esa partición, pasarla con un HD externo USB al iMac y machacar la partición BootCamp vacía con esa imagen? Mi lado geek me decía que no, que para que comprar un programa si con un <code>dd</code> podría hacerlo yo solito. El problema es el sector de arranque de Windows que se crea en la partición de BootCamp. Si pudiera iniciar Windows podría arreglarlo y tal, pero dado que estaba atrapado, pagué los 29 $ que cuesta y listo. Si funciona, los apenas 22 € valdrían la pena.</p>
+<p>Y valieron la pena. Creé la imagen en el Mac Mini (unas horitas) y la pasé a un disco USB grande (en el que por supuesto no tenía espacio y tuve que ordenar). Una vez copiado, instalé Winclone en el iMac, restauré la imagen y&#8230; ¡vive! ¡Está vivo!</p>
+<p><a href="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg"><img src="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg" alt="It&#039;s alive!" width="250" height="250" class="aligncenter size-full wp-image-2193" srcset="/wp-content/uploads/2014/06/Young-Frankenstein1.jpg 250w, /wp-content/uploads/2014/06/Young-Frankenstein1-150x150.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" /></a></p>
+<h2>Colofón</h2>
+<p>Al fin, tras una lucha titánica, tengo instalado Win 8 en el Mac. Lo uso para el Héroes y en el futuro para algún que otro juego. Pero si lo necesito para algo, ahí está. Muchas veces hago instalaciones por el placer de cacharrear con los sistemas, pero en este caso, además, estoy disfrutando del resultado.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/06/11/windows-8-en-mi-imac-late-2009/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>«The more memory and HD you&#8217;ll have, the happier you&#8217;ll be»</title>
+		<link>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/</link>
+		<comments>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/#comments</comments>
+		<pubDate>Tue, 15 Mar 2011 11:09:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+
+		<guid isPermaLink="false">/?p=1431</guid>
+		<description><![CDATA[No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">No recuerdo dónde escuché esta cita por primera vez. Debió de ser en los años de la carrera, allá por el 94 ó 95. Sí, en la prehistoria. El caso es que la he usado muchas veces. Y la última vez ha sido para responder a gente que se asustaba en Twitter de que le he puesto al iMac 12 GB de RAM. ¿Es mucho?. ¿Es poco?. Vamos con ello.</p>
+<p style="text-align: justify;">Lo  primero, dar la razón fundamental de ponerle tanta memoria al iMac: porque puedo. Sí, así de sencillo. En el 94 ni hubiera soñado con estas cantidades de memoria, ni siquiera para un disco duro. Es como pensar hoy en una RAM de 32 Hexabytes. Así que no podía plantearme si era mucho o poco: simplemente no podía. Pero hoy en día, cuando 8 GB cuestan 120 Eur. IVA inc., si necesitas esa memoria, o te apetece, tampoco es una inversión que te lleve a la bancarrota.</p>
+<p style="text-align: justify;">Además, cuando es aquí donde me gasto mi dinero. Quiero decir, que no tengo moto, no me gustan los coches potentes, ni la ropa de diseñador, ni juego al bingo, ni me gusta la coca, ni jugar al póker. Mis vicios son baratos ¡qué le vamos a hacer!. Nada me gusta más que un buen gadget electrónico. Hay quien le da por coleccionar sellos, o montar maquetas. O tener un yate. Yo tengo chismes.</p>
+<p style="text-align: justify;">Así que nada mejor para complementar a mi querido iMac Core i7 que estos 8 GB, que se han sumado a los 4 GB que traía de fábrica. Ahora tengo una máquina redonda, muy equilibrada, potente y estable. Y de la pantalla, para qué hablar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>En un día normal de trabajo, si miro el consumo de memoria me puedo encontrar con algo como esto:</p>
+<div id="attachment_1432" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-usada-normal.png"><img class="size-full wp-image-1432 " title="Memoria usada" src="/wp-content/uploads/2011/03/memoria-usada-normal.png" alt="Memoria usada" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-usada-normal.png 860w, /wp-content/uploads/2011/03/memoria-usada-normal-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Memoria usada</p></div>
+<p style="text-align: justify;">Este es el consumo que tengo mientras escribo estas líneas. Se puede ver que, usado (ya sea por programas, por el S.O. o que está «cacheando» algo en memoria) tengo 4,59 GB. Algo más que los 4 GB originales. Hace unos meses, el equipo estaría paginando, es decir, tendría que sacar algún programa de memoria y guardarlo en disco (normalmente el que hace más tiempo que no se usa). El dato de Paginación (salidas) sería mayor que 0, y todo el sistema me iría más lento. Estaría tratando de ejecutar, a la vez, más programas de los cabrían en mi memoria RAM.</p>
+<p style="text-align: justify;">Como se puede ver, el problema ahora no es ese. Me sobran 7,40 GB. ¿Excesivo?. Para nada. En cuanto tenga que correr alguna máquina virtual con VMWare, o lanzar XCode 4 (con todo lo que ello implica), o jugar a Left 4 Dead 2 sin parar algo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> la memoria disminuye y se queda en algo como esto:</p>
+<div id="attachment_1433" style="width: 870px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/03/memoria-tope.png"><img class="size-full wp-image-1433 " title="Usando memoria" src="/wp-content/uploads/2011/03/memoria-tope.png" alt="Usando memoria" width="860" height="590" srcset="/wp-content/uploads/2011/03/memoria-tope.png 860w, /wp-content/uploads/2011/03/memoria-tope-300x205.png 300w" sizes="(max-width: 860px) 100vw, 860px" /></a><p class="wp-caption-text">Usando memoria</p></div>
+<p>Uso el ordenador muchas horas al día. Por trabajo, y por placer. Y no hay cosa que me irrite más que quedarme sin espacio en disco, o ver que la máquina no va todo lo «fina» que debiera, por una tontería como es la RAM. Así que, como dice el título, un poco de RAM me hace mucho más feliz. ¡Comprueba la tuya!</p>
+<p>P.D.: Si quieres saber cómo interpretar el uso de memoria que está haciendo tu Mac, <a href="http://macperformanceguide.com/Mac-Monitoring-memory.html">te recomiendo este excelente post de MPG</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Ubuntu Netbook Remix 9.10 corriendo en mi Asus EEE 904 HD</title>
+		<link>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/</link>
+		<comments>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/#comments</comments>
+		<pubDate>Tue, 30 Mar 2010 08:58:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Mis máquinas]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=954</guid>
+		<description><![CDATA[Hace un tiempo ya que tengo este netbook. Bueno, hablando con propiedad lo tiene mi mujer, que es a quien se lo regalaron. Pero el usuario fundamental he sido yo todo este tiempo. Tuvo su momento de gloria en las pasadas vacaciones de verano, cuando lo utilicé como reproductor multimedia portátil. En el hotel, las [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_960" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-960" title="escribiendo" src="/wp-content/uploads/2010/03/escribiendo.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/escribiendo.png 640w, /wp-content/uploads/2010/03/escribiendo-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Me gusta editar en GEdit con un fondo oscuro. Me recuerda a WriteRoom, del Mac.</p></div>
+<p style="text-align: justify;">Hace un tiempo ya que tengo este netbook. Bueno, hablando con propiedad lo tiene mi mujer, que es a quien se lo regalaron. Pero el usuario fundamental he sido yo todo este tiempo. Tuvo su momento de gloria en las pasadas vacaciones de verano, cuando lo utilicé como reproductor multimedia portátil. En el hotel, las películas para niños amansaban a las fieras cuando queríamos descansar. Luego me ha acompañado en el hospital, que en los últimos doce meses he tenido que pisar como acompañante más veces de las que quisiera.</p>
+<p style="text-align: justify;">Después de aquello, ha dormido el sueño de los justos en su maletín. A veces lo sacaba y lo usaba, pero XP no es el S.O. <a href="http://es.wikipedia.org/wiki/Vintage_(término)">vintage</a> que más me gusta. Puestos a usar algo antiguo, me gusta más el <a href="/retrocomputing/">Amiga</a>. Bueno, tanto me gusta, que le he instalado al XP el emulador de Amiga UAE para jugar al Colonization, pero eso es frikada para otro post.</p>
+<p style="text-align: justify;">En Noviembre del año pasado intenté instalarle una distro de Mac OS X para hacer un hackintosh. Cogí una grabadora de DVD externa, con conexión USB prestada en Isotrol y lo instalé. Fallé estrepitosamente, sobre todo porque no había contado con la información de <a href="http://mymacnetbook.com/compatibility-chart/">esta lista</a>: el 904 HD no soporta Mac OS X, como yo comprobé en mis carnes.</p>
+<p style="text-align: justify;">Bueno, pues hace un mes pensé que le había llegado su hora. Estaba harto de ver el Chameleon instalado pero que sólo estuviera operativo el XP. Como venía particionado de serie con XP y una partición para datos, había aprovechado esa partición para el Mac OS X. Ahora quería probar con Windows 7. Tuve que pedir una unidad de CD externa y preparé el DVD de Windows 7 Professional para instalar. ¿Alguien ve el error?. Yo no lo vi hasta que intenté, como <em>quince veces</em>, arrancar el Asus desde DVD en una unidad de CD. ¡Hacía ruidos raros!. ¿Estará mal grabado?. ¡Ejem!, vaya, si es una unidad de CDs <em>que no soporta DVDs</em>, bueno&#8230; Finalmente conseguí grabar la ISO de Win 7 en un pendrive de 4 GB siguiendo <a href="http://www.intowindows.com/how-to-install-windows-7vista-from-usb-drive-detailed-100-working-guide/">estas instrucciones</a> (que sí funcionan) y la instalación fue como la seda. Y rápido: no es lo mismo leer de un medio óptico que de un pendrive. Es mucho más rápido.</p>
+<p style="text-align: justify;">Mis pruebas con Windows 7 no fueron satisfactorias. Se movía muy lento y no respondía como esperaba. Tras probar Windows 7 ultimate en mi <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">Dell Vostro 1510</a>, tenía unas expectativas muy altas con respecto a Win 7. Que, por cierto, me parece una excelente versión del S.O. de Redmond. Me sorprende que acalorados defensores de Windows sigan con esa antigualla de XP, pero, ya se sabe: malo conocido&#8230; El caso es que Windows 7 Professional + Asus EEE 904 HD = <strong>Epic Fail</strong>. Quizá tendría que haberle instalado la versión Starter, que se supone que es para Netbooks.</p>
+<p style="text-align: justify;">Y así estaba, con el «corazón partío», cuando me acordé de lo bien que va la última <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">Ubuntu 9.10 en mi otro Dell</a>, el Inspiron 9400. Así que me descargué la <a href="http://www.canonical.com/projects/ubuntu/unr">Netbook Remix</a>, la grabé igualmente en un pendrive, y la instalé en un plis plas.</p>
+<h2>¿Primera impresión?: impresionante</h2>
+<p style="text-align: justify;">El hardware, reconocido al 100%. No sólo tenía acceso a la partición XP (que, por cierto, había sobrevivido a toda esta <em>orgía</em> de instalaciones en la primera mitad del disco duro, más por suerte que por pericia propia), sino que funcionaban el sonido, la WiFi, la red cableada, los botones hardware, &#8230; Incluso el lector de tarjetas SD que tiene incorporado funcionaba a las mil maravillas. Y el trackpad, con soporte de <a href="http://www.apple.com/es/macbookpro/overlays/trackpad-video.html#trackpad">scroll apoyando dos dedos</a>, ¡como en mi MacBook Pro!. Y, lo mejor de todo: ¡al cerrar la tapa se suspendía sin problemas!, y al abrirla ¡volvía de la suspensión!. ¡Al fin!. Me he habituado a las suspensiones debido a lo bien que funcionan en los Mac, y en Linux, entre ACPI y las otras APIs de gestión de energía nunca me llegaba a funcionar. Ahora, el hard funciona perfectamente con el soft de Ubuntu, sin pelearte con la máquina y así da gusto.</p>
+<p style="text-align: justify;">Respecto al software, lo primero que me llamó la atención fue el Escritorio, con un menú desde el que se pueden lanzar de forma sencilla las aplicaciones. Realmente no hay <em>escritorio</em>, hay un súper-menú lanzador de cosas. Mejor, así no podemos llenar de basura el fondo que pongamos de pantalla.</p>
+<p style="text-align: justify;">
+<div id="attachment_959" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-959" title="apps-netbook" src="/wp-content/uploads/2010/03/apps-netbook.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/apps-netbook.png 640w, /wp-content/uploads/2010/03/apps-netbook-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Aplicaciones del UNR</p></div>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Los programas que vienen preinstalados son los que se encuentran en cualquier Ubuntu, pero nos han ahorrado el sufrimiento de buscarlos. Tenemos Firefox, OpenOffice.org, en fin, lo típico en una Ubuntu. Y, si queremos cualquier otra cosa, basta con abrir Synaptic y listo. Un detalle simpático ha sido descubrir Cheese, una aplicación calcada de PhotoBooth de Mac OS X. Copiar las buenas ideas no es mala idea.</p>
+<p style="text-align: justify;">Yo particularmente manejo esta máquina casi en exclusiva con <a href="http://do.davebsd.com/">Gnome-Do</a>, el lanzador de aplicaciones «a-la-quicksilver» que aumenta la productividad por 1000 en un entorno GNome. Además, el teclado siempre es más rápido que el ratón, y mucho más en este equipo, en el que cambiar de teclado a touchpad es un poco doloroso. A medida que se abren aplicaciones se van añadiendo sus iconos en el panel superior, en la parte izquierda. Para cambiar de aplicación puedes hacer click en su icono o (mucho más rápido) cambiar con Alt-Tab.</p>
+<p>La vida de la batería no es espectacular, pero sí permite unas dos h y media de trabajo continuo. Con el tamaño del equipo, lo uso como lector de eBooks cuando estoy en el sofá (todavía no hay iPad, habrá que esperar).</p>
+<h2>Aplicaciones imprescindibles que le he instalado</h2>
+<ul>
+<li style="text-align: justify;">el salvapantallas de Matrix <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>VLC, mi reproductor multimedia de cabecera. Lo uso en Mac, Linux, Windows, &#8230; y porque no lo hay para la lavadora.</li>
+<li>Dropbox. Ubícuo en mis máquinas. La mejor forma de intercambiar archivos, encima funciona en Mac, Linux, Windows, &#8230;</li>
+<li>Opera. Firefox es muy bueno, y con sus extensiones y plugins es una navaja suiza. Pero Opera se abre y navega ultrarápido. Y para un Netbook es lo suyo.</li>
+<li>Skype. Vital para las llamadas de VoIP. Y funciona a la primera, como el resto</li>
+</ul>
+<h2>Veredicto</h2>
+<p style="text-align: justify;">Si tienes un EEE 904 HD y estás un poco harto de XP, probar esta distro es muy recomendable. Yo es la única que utilizo ahora, y me estoy planteando si no borrar el XP. No lo borraré, porque quiero disponer de un IE por si las moscas, máquinas virtuales aparte.</p>
+<p style="text-align: justify;">
+<div id="attachment_961" style="width: 650px" class="wp-caption aligncenter"><img class="size-full wp-image-961" title="preferencias" src="/wp-content/uploads/2010/03/preferencias1.png" alt="" width="640" height="375" srcset="/wp-content/uploads/2010/03/preferencias1.png 640w, /wp-content/uploads/2010/03/preferencias1-300x175.png 300w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">Menú de preferencias del Sistema</p></div>
+<p style="text-align: justify;">Repasando mis últimos posts, <a href="/2009/10/27/libre-no-es-una-caracteristica-gratis-si/">bastante negativos contra el sector Talibán del Software Libre</a> me alegra poder recomendar un Linux que simplemente funciona. Y muy bien, por cierto. Y no porque sea Libre (el XP que venía con la máquina no funciona mal y no me he podido escapar de esa licencia) sino porque este producto funciona mejor. Seguid así, Ubunteros.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

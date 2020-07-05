@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chiclana &#8211; freniche.com</title>
+	<atom:link href="/tag/chiclana/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Máster de Apps Móviles en Chiclana: experiencias en la radio</title>
+		<link>/2014/05/12/master-de-apps-moviles-en-chiclana-experiencias-en-la-radio/</link>
+		<pubDate>Mon, 12 May 2014 18:20:08 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[Cádiz]]></category>
+		<category><![CDATA[Chiclana]]></category>
+		<category><![CDATA[ComunicaciónPlus]]></category>
+		<category><![CDATA[Cursos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2179</guid>
+		<description><![CDATA[Una pequeña actualización a la información del Máster de Comunicación Plus para aprender a desarrollar Apps en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta: tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur Conectados en RAI. Javier Suárez Ruiz, el profesor [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg"><img src="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg" alt="Selfie Conectados en RAI" width="1168" height="876" class="aligncenter size-full wp-image-2180" srcset="/wp-content/uploads/2014/05/Selfie_Conectados-en-RAI.jpg 1168w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-300x225.jpg 300w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-1024x768.jpg 1024w, /wp-content/uploads/2014/05/Selfie_Conectados-en-RAI-535x401.jpg 535w" sizes="(max-width: 1168px) 100vw, 1168px" /></a></p>
+<p>Una pequeña actualización a la información del <a href="/2014/04/28/aprende-ios-android-html5-y-windows-phone-en-la-playa/">Máster de Comunicación Plus para aprender a desarrollar Apps</a> en Chiclana, a todo confort, con unos bañitos en la playa que ya van haciendo falta:</p>
+<ul>
+<li>tuvimos la suerte de ser entrevistados por Javier Oliva en el programa de Canal Sur <a href="https://www.facebook.com/pages/Conectados-en-RAI/1410704842504486?ref=stream&amp;hc_location=timeline">Conectados en RAI</a>.  </li>
+<li><a href="http://javiersuarezruiz.wordpress.com/2014/05/11/i-master-en-desarrollo-de-aplicaciones-moviles-en-andalucia/">Javier Suárez Ruiz</a>, el profesor del Máster encargado de Windows Phone (genuflexión y respeto al crack) ha escrito en su blog (que, por cierto, para los que quieran aprender Windows Phone es el sitio a donde ir) una entrada sobre el Máster y su visión del mismo.</li>
+<li>he rectificado en el post que escribí sobre el Máster las horas totales del mismo. Son 240 h, ya que cada semana son 60 h de formación: 50 h de la plataforma de la semana (iOS, WP, Android) y 10 de otras cosas (prototipado, UX, etc.)</li>
+<li>el Máster empieza el próximo Domingo 18. Muchas ganas de irme a Chiclana y huir del pólen y las alergias del campo.</li>
+<li>durante el Máster, esperad fotos y recochineo desde la playa y piscina. He avisado.</li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

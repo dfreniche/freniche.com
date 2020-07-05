@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>PS2 &#8211; freniche.com</title>
+	<atom:link href="/tag/ps2/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Opciones para mi nuevo Media Center</title>
+		<link>/2008/09/21/opciones-para-mi-nuevo-media-center/</link>
+		<comments>/2008/09/21/opciones-para-mi-nuevo-media-center/#comments</comments>
+		<pubDate>Sun, 21 Sep 2008 10:34:01 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[PS2]]></category>
+
+		<guid isPermaLink="false">/2008/09/21/opciones-para-mi-nuevo-media-center/</guid>
+		<description><![CDATA[He usado el ordenador conectado a la tele desde que tengo casi memoria. Bueno, no exageremos, desde que me compré mi primer portátil, un Toshiba Satellite 4270, allá por el 2000. Antes, desde el 97, tenía pinchada en el bus ISA de mi PC una tarjeta de captura de vídeo Video Highway Xtreme. Por cierto, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">He usado el ordenador conectado a la tele desde que tengo casi memoria. Bueno, no exageremos, desde que me compré mi primer portátil, un Toshiba Satellite 4270, allá por el 2000. Antes, desde el 97, tenía pinchada en el bus ISA de mi PC una tarjeta de captura de vídeo Video Highway Xtreme. Por cierto, esta tarjeta sigue pinchada en mi PC de escritorio, funcionando en Ubuntu, ya que no hay drivers para XP (oficiales).</p>
+<p align="justify">En fin, que se me va la pinza. El mediacenter. Hasta ahora, cuando querá ver una peli tenía que montar el típico cable de S-video hasta la tele y poner el portátil al lado / en el suelo / encima de la tele, dependiendo del espacio libre y los niños que tuviera cerca. Últimamente, con mi MacBook Pro y su mando a distancia suelo verlas directamente en el portátil. Pero llegaron los niños. Y tengo nuevas necesidades:</p>
+<ul>
+<li>ver los DVDs de <a href="http://www.babyeinstein-es.com/">Baby Einstein</a></li>
+<li>ver los vídeos de YouTube con Gonzalo</li>
+<li>los DivX <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /> de toda la vida&#8230;</li>
+</ul>
+<p align="justify">Vamos, que necesito en el salón un media center dedicado. Las opciones que me he planteado son:</p>
+<ul>
+<li>comprar un disco duro que incorpore media center. Bueno, ésta ni me la he planteado, por la pésima calidad de la imagen que tienen habitualmente.</li>
+<li>montarme un media center con una XBox, que incorpora casi todo de serie (HD principalmente). Suficientemente <em>geek</em>, pero demasiado fácil.</li>
+<li>buscarme un Mac Mini de 2ª mano y usarlo con Front Row como media center. Tentador, pero caro. Al final acabaré con el Mac Mini además del media center, ya que puedes ejecutar emuladores, MAME, etc.</li>
+<li>el camino barato, duro y complicado. Buscar una tarjeta de red para mi Play Station 2. Esto es geek y complicado, ya que hay muy pocas de estas tarjetas en el mercado. Ha sido el elegido.</li>
+</ul>
+<p align="justify">Sony sacó su tarjeta de red (interfaz Ethernet en Europa, en EE.UU. tenía Ethernet + MODEM) en principio para los juegos en red. Le añadieron un interfaz IDE, lo que permite meter un HD dentro de la consola. La versión original (llamada Fat en el ambiente en contraposición con la Slim que sacaron después) dispone hasta de una bahía donde meter el disco duro. El caso es que en cuanto este accesorio salió al mercado se las ingeniaron para poder ejecutar copias de seguridad de los juegos desde disco duro, instalar Linux en la Play 2 (a fin de cuentas es un ordenador basado en PPC)</p>
+<p align="justify">Estas tarjetas se cotizan bastante. Pero, en un golpe de suerte, he conseguido una en un mercadillo de Sevilla por 3 Eur. El hombre que me lo vendió tenía esa cara de «le estoy timando», la misma que se me puso a mi&#8230;</p>
+<p align="justify"><img src="/wp-content/uploads/2008/09/ps2-network.jpg" alt="Con mi network adapter" /></p>
+<p align="justify"> Estoy esperando a tener un hueco para probar con el HD. La pega es que el HD que quiero usar tiene ahora mismo instalado MacOS X en mi Pentium IV, así que habrá que buscar otro&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/09/21/opciones-para-mi-nuevo-media-center/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

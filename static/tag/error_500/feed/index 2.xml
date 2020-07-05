@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ERROR_500 &#8211; freniche.com</title>
+	<atom:link href="/tag/error_500/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Youtube: Google, shit happens, again</title>
+		<link>/2008/03/19/youtube-google-shit-happens-again/</link>
+		<pubDate>Wed, 19 Mar 2008 16:22:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[ERROR_500]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">/2008/03/19/youtube-google-shit-happens-again/</guid>
+		<description><![CDATA[Probablemente el mensaje de error interno de servidor (ERROR 500) más divertido que he leido nunca: Sorry, something went wrong. A team of highly trained monkeys has been dispatched to deal with this situation. Traducido: Lo sentimos, algo ha ido mal. Un equipo de monos altamente entrenados ha sido enviado para tratar con esta situación. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Probablemente el mensaje de error interno de servidor (ERROR 500) más divertido que he leido nunca:</p>
+<blockquote><p>Sorry, something went wrong.</p>
+<p>A team of highly trained monkeys has been dispatched to deal with this situation.</p></blockquote>
+<p>Traducido: Lo sentimos, algo ha ido mal. Un equipo de monos altamente entrenados ha sido enviado para tratar con esta situación.</p>
+<p><a href="/wp-content/uploads/2008/03/error_500_youtube.png" title="error_500_youtube.png"><img src="/wp-content/uploads/2008/03/error_500_youtube.png" alt="error_500_youtube.png" /></a></p>
+<p>Como siga coleccionando pantallas de error de los servidores más conocidos, voy a tener que crear una categoría especial&#8230;Algo como The Google White Screen Of  Death, al estilo de la <a href="http://en.wikipedia.org/wiki/Blue_Screen_of_Death">Blue Screen Of Death (BSoD) de Windows</a>. De momento, voy a aplicar la etiqueta ERROR_500. ¿Llegará a ser la más popular?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Google &#8211; Shit Happens!</title>
+		<link>/2008/03/13/google-shit-happens/</link>
+		<pubDate>Thu, 13 Mar 2008 15:34:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[ERROR_500]]></category>
+		<category><![CDATA[Google]]></category>
+		<category><![CDATA[GSOD]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/13/google-shit-happens/</guid>
+		<description><![CDATA[Pues eso, que Google también falla. Esta pantalla concretamente me ha aparecido al intentar importar un ISBN dentro de la biblioteca de Google, un nuevo servicio que te permite tener en línea tus libros (favoritos, o los que tienes). &#160; El servicio se encuentra aún en su fase Beta, pero tiene ya muy buena pinta.]]></description>
+				<content:encoded><![CDATA[<p align="justify">Pues eso, que Google también falla. Esta pantalla concretamente me ha aparecido al intentar importar un ISBN dentro de la biblioteca de Google, un nuevo servicio que te permite tener en línea tus libros (favoritos, o los que tienes).</p>
+<p align="justify">&nbsp;</p>
+<p align="justify">El servicio se encuentra aún en su fase Beta, pero tiene ya muy buena pinta.</p>
+<p><a href="http://freniche.com/wp/wp-content/uploads/2008/03/google-shit-happens.png" title="Google - Shit happens"><img src="http://freniche.com/wp/wp-content/uploads/2008/03/google-shit-happens.thumbnail.png" alt="Google - Shit happens" height="137" width="171" /></a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

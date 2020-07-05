@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<title>El sistema de control de versiones de Dropbox | freniche.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="/xmlrpc.php" />
+<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+<!--[if lt IE 9]>
+<script src="/wp-content/themes/readly/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; Feed" href="/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; RSS de los comentarios" href="/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="freniche.com &raquo; El sistema de control de versiones de Dropbox RSS de los comentarios" href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/feed/" />
+<link rel='stylesheet' id='contact-form-7-css'  href='/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-style-css'  href='/wp-content/themes/readly/fancybox/jquery.fancybox.css?v=2.1.5&#038;ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='readly-style-css'  href='/wp-content/themes/readly/style.css?ver=4.8.13' type='text/css' media='all' />
+<style id='readly-style-inline-css' type='text/css'>
+.gallery .gallery-item {
+	max-width: 150px;
+}
+</style>
+<link rel='stylesheet' id='mediaelement-css'  href='/wp-includes/js/mediaelement/mediaelementplayer.min.css?ver=2.22.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=4.8.13' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-markdown-prettify-css'  href='/wp-content/plugins/wp-markdown/css/prettify.css?ver=1.5.1' type='text/css' media='all' />
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery-ui-1.10.2.custom.min.js?ver=20130317'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/readly.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/prettify.min.js?ver=1.5.1'></script>
+<link rel='https://api.w.org/' href='/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
+<link rel='prev' title='Pequeños detalles' href='/2010/08/30/pequenos-detalles/' />
+<link rel='next' title='Shopping Spree' href='/2010/09/17/shopping-spree/' />
+<meta name="generator" content="WordPress 4.8.13" />
+<link rel="canonical" href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/" />
+<link rel='shortlink' href='/?p=1072' />
+<link rel="alternate" type="application/json+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2010%2F09%2F09%2Fel-sistema-de-control-de-versiones-de-dropbox%2F" />
+<link rel="alternate" type="text/xml+oembed" href="/wp-json/oembed/1.0/embed?url=http%3A%2F%2F%2F2010%2F09%2F09%2Fel-sistema-de-control-de-versiones-de-dropbox%2F&#038;format=xml" />
+<script type="text/javascript">
+	window._se_plugin_version = '8.1.6';
+</script>
+<style type="text/css" media="screen">
+/* Begin WPvideo CSS */
+.wpv_videoc {
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 425px;
+/* border: 1px solid #aaa; */
+}
+
+.wpv_video {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 4px 0 4px 0;
+	width: 425px;
+	height: 350px;
+}
+
+.wpv_rating {
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+	font: 8pt "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	text-align: right;	
+}
+
+.wpv_titleauthor, .wpv_durationdate, .wpv_description {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #666;
+	padding: 3px;
+	border-top: 1px solid #aaa;
+}
+
+.wpv_download {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 3px;
+}
+
+.wpv_download a {
+	font: bold 11px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #f44;
+}
+
+.wpv_download a:hover {
+	text-decoration: none;
+}
+
+.wpv_download img {
+	border: 0;
+}
+
+.wpv_self {
+	text-align: left;
+}
+
+.wpv_self a {
+	font: bold 9px "Lucida Grande", Verdana, Arial, 'Bitstream Vera Sans', sans-serif;
+	color: #000;
+}
+/* End WPvideo CSS */
+</style>
+
+<style type="text/css" id="custom-background-css">
+a {
+	color: #1e83cb;
+}
+.entry-content a {
+	-webkit-transition: border-bottom-color 0.2s linear;
+	-moz-transition: border-bottom-color 0.2s linear;
+	-o-transition: border-bottom-color 0.2s linear;
+	transition: border-bottom-color 0.2s linear;
+}
+.entry-content a:hover {
+	border-bottom-color: #1e83cb;
+}
+#masthead .site-title a, #site-navigation a, .sub-menu a, #nav-below a, .entry-title a, #image-navigation a {
+	-webkit-transition: color 0.2s linear;
+	-moz-transition: color 0.2s linear;
+	-o-transition: color 0.2s linear;
+	transition: color 0.2s linear;
+}
+#masthead .site-title a:hover, #nav-below a:hover, .entry-title a:hover, #image-navigation a:hover {
+	color: #1e83cb;
+}
+#s, #commentform input[type="text"], #commentform textarea, .password_protected, #social a, a.more-link {
+	-webkit-transition: background-color 0.2s linear;
+	-moz-transition: background-color 0.2s linear;
+	-o-transition: background-color 0.2s linear;
+	transition: background-color 0.2s linear;
+}
+a.more-link span {
+	-webkit-transition: border-left-color 0.2s linear;
+	-moz-transition: border-left-color 0.2s linear;
+	-o-transition: border-left-color 0.2s linear;
+	transition: border-left-color 0.2s linear;
+}
+#s:focus, #commentform input[type="text"]:focus, #commentform textarea:focus, .password_protected:focus {
+	background-color: #fff;
+}
+#social a:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover {
+	background-color: #1e83cb;
+}
+a.more-link:hover span {
+	border-left-color: #1e83cb;
+}
+.entry-meta a, footer .site-info a, #comments a, .link_post_p a {
+	-webkit-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-moz-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	-o-transition: color 0.2s linear, border-bottom-color 0.2s linear;
+	transition: color 0.2s linear, border-bottom-color 0.2s linear;
+}
+.entry-meta a:hover, footer .site-info a:hover, #comments a:hover, #comments a#cancel-comment-reply-link:hover, .link_post_p a:hover {
+	color: #1e83cb;
+	border-bottom-color: #1e83cb;
+}
+@media only screen and (min-width : 641px) {
+	#site-navigation a:hover, .sub-menu a:hover {
+		color: #1e83cb;
+	}
+}
+html {
+	position: relative;
+	min-height: 100%;
+}
+.hentry .mejs-controls .mejs-time-rail .mejs-time-current {
+	background: #1e83cb;
+}
+</style>
+<script type="text/javascript">
+var hover_color = "#1e83cb";
+</script></head>
+
+<body class="post-template-default single single-post postid-1072 single-format-standard">
+<header id="masthead" class="site-header" role="banner">
+	<div id="header-wrapper">
+		<hgroup>
+			<div id="hgroup-wrapper">
+				<div id="hgroup-wrapper2">
+					<h1 class="site-title"><a href="/" title="freniche.com" rel="home">freniche.com</a></h1>
+					<h2 class="site-description">Another personal blog about everything tech-related</h2>
+				</div>
+			</div>
+		</hgroup>
+
+		<nav id="site-navigation" class="navigation-main" role="navigation">
+			<div id="site-navigation-wrapper">
+				<div id="site-navigation-wrapper2">
+					<h1 class="menu-toggle">Menu<span>m</span></h1>
+					<div class="assistive-text skip-link"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+					<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-2650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2650"><a href="/about">Acerca de&#8230;</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2651"><a href="http://www.github.com/dfreniche/cv">CV</a></li>
+	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="/ios-apps/">iOS Apps</a></li>
+	<li id="menu-item-1985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1985"><a href="/formacion/">Formación</a></li>
+</ul>
+</li>
+<li id="menu-item-1986" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1986"><a href="/contactar/">Contactar</a></li>
+<li id="menu-item-2649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2649"><a href="/mis-entradas-favoritas/">Lo mejor del blog</a></li>
+<li id="menu-item-2648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2648"><a href="/archivo-blog/">Archivo</a></li>
+<li id="menu-item-1993" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1993"><a href="http://www.cafeycocoa.com.es/">Otros Proyectos</a>
+<ul  class="sub-menu">
+	<li id="menu-item-2652" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2652"><a href="http://wedevelopers.com/">Podcast We.Developers</a></li>
+	<li id="menu-item-2051" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2051"><a href="http://readthencode.tumblr.com/">Read Then Code</a></li>
+	<li id="menu-item-1996" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1996"><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a></li>
+	<li id="menu-item-1995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1995"><a href="http://www.cafeycocoa.com.es/">Café y Cocoa</a></li>
+	<li id="menu-item-1991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1991"><a href="http://www.youtube.com/dfreniche">YouTube</a></li>
+	<li id="menu-item-1992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1992"><a href="https://www.flickr.com/photos/dfreniche">Flickr</a></li>
+</ul>
+</li>
+</ul></div>				</div>
+			</div>
+		</nav><!-- .site-navigation -->
+	</div>
+</header><!-- #masthead -->
+
+<div id="page" class="hfeed site">
+	<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+
+		
+			
+<article id="post-1072" class="post-1072 post type-post status-publish format-standard hentry category-informatica category-internet tag-dropbox tag-herramientas tag-trucos">
+	<header class="entry-header">
+		<div class="entry-meta">
+			<a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/" title="7:26 pm" rel="bookmark"><time class="entry-date" datetime="septiembre 9th, 2010">septiembre 9th, 2010</time></a>		</div><!-- .entry-meta -->
+				<h1 class="entry-title">El sistema de control de versiones de Dropbox</h1>
+			</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		<p style="text-align: justify;">Que <a href="https://www.dropbox.com/">Dropbox</a> es una maravilla <a href="/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/">y que me encanta</a> no es nada nuevo. Es sorprendente que te den, gratis, hasta 8 GB sincronizados en la nube y poder acceder a ellos desde Windows, Mac, Linux, tu iPad o tu iPhone. Se ha convertido en una de mis herramientas básicas, de esas que instalas en una máquina nueva en cuanto te la dan.</p>
+<p style="text-align: justify;">Y una de las características de Dropbox mejores, pero de las que extrañamente menos se habla, es su <strong>sistema de control de versiones integrado</strong> y automático. Si eres programador, estarás habituado a usar un <a href="http://en.wikipedia.org/wiki/Revision_control">SCM</a>, bien sea CVS, svn, git o Mercurial. Si no, voy a explicar con un ejemplo lo que supone tener ese sistema en Dropbox.</p>
+<p style="text-align: justify;">Supongamos que necesitas dibujar un nuevo icono para esa aplicación de iPhone que ya estás terminando. Abres tu programa de retoque fotográfico y dibujo favorito (en mi caso Pixelmator) y creas el nuevo icono en una carpeta de tu Dropbox. Inmediatamente ves que en el icono de tu Dropbox se activa la sincronización: Dropbox está subiendo esa primera versión de tu archivo (vacío y sin nada dibujado aún) a sus servidores. Dibujas, retocas y cambias cosas durante una hora, sin pulsar la combinación de teclas de grabar. Eso, desde luego, es una invitación al desastre: <em>no lo hagas</em>. Seguro que cuando tengas el icono, o el documento, o lo que sea en lo que estás trabajando se te cuelga el programa y no te deja grabar. <em>Así que graba más a menudo</em>. Bueno, pues al grabar antes de irte a por tu merecido café, Dropbox sube la versión tal y como está ahora: casi perfecta. Hay dos versiones de tu icono entonces, la primera que creaste y que está vacía, y esta segunda casi terminada de antes del café.</p>
+<p style="text-align: justify;">Tras el descanso y de discutir con tus compañeros (es <em>increíble</em> que la gente piense que Java es mejor que Objective C!), vuelves un poco enfadado y te pones a experimentar con un nuevo filtro que se carga tu icono, y «sin querer», grabas el icono. ¡Desastre!. En otro caso habrías perdido una mañana de trabajo. Pero ahora, Dropbox al rescate. Cierras tu programa de dibujo, para no liarla más, navegas hasta el fichero y pulsas con el botón derecho del ratón. Dentro del menú contextual de Dropbox, te encuentras con un pequeño menú como este:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/09/dropbox-menu1.png"><img class="aligncenter size-full wp-image-1077" title="dropbox-menu" src="/wp-content/uploads/2010/09/dropbox-menu1.png" alt="" width="279" height="80" /></a><a href="/wp-content/uploads/2010/09/dropbox-menu.png"><br />
+</a>Pulsando sobre la segunda opción (View Previous Versions) podremos consultar nuestro histórico de versiones para ese fichero, en la web de Dropbox. Y lo mejor, podemos convertir en la versión última (la que veremos en nuestra carpeta de Dropbox) cualquiera de esas. Así que nuestro sufrimiento se soluciona simplemente marcando la versión que grabamos antes del café y pulsando Restore. ¡Ya está!. Volvemos a tener la versión casi buena y podemos volver a estropearla las veces que sea necesario: siempre tendremos a Dropbox que vendrá pacientemente a nuestro rescate.</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2010/09/dropbox-versions.png"><img class="aligncenter size-full wp-image-1079" title="dropbox-versions" src="/wp-content/uploads/2010/09/dropbox-versions.png" alt="" width="544" height="199" srcset="/wp-content/uploads/2010/09/dropbox-versions.png 906w, /wp-content/uploads/2010/09/dropbox-versions-300x109.png 300w" sizes="(max-width: 544px) 100vw, 544px" /></a></p>
+			</div><!-- .entry-content -->
+
+	<footer class="entry-meta">
+		Posted in <a href="/category/informatica/" rel="category tag">Informática</a>, <a href="/category/informatica/internet/" rel="category tag">Internet</a><span class="sep"> &#183; </span>Tagged <a href="/tag/dropbox/" rel="tag">Dropbox</a>, <a href="/tag/herramientas/" rel="tag">herramientas</a>, <a href="/tag/trucos/" rel="tag">Trucos</a>
+			</footer><!-- .entry-meta -->
+</article><!-- #post-## -->
+
+			
+	<nav role="navigation" id="nav-below" class="navigation-post">
+		<div id="nav-below-separator">
+			<h1 class="assistive-text">Post navigation</h1>
+
+		
+			<div class="previous"><a href="/2010/08/30/pequenos-detalles/" rel="prev"><span class="meta-nav">Previous Article</span><br />Pequeños detalles</a></div>
+			<div class="next"><a href="/2010/09/17/shopping-spree/" rel="next"><span class="meta-nav">Next Article</span><br />Shopping Spree</a></div>
+
+				</div>
+	</nav><!-- #nav-below -->
+	
+			
+
+	<div id="comments" class="comments-area">
+
+	
+			<h2 class="comments-title">
+			8 comments		</h2>
+
+		
+		<ol class="comment-list">
+				<li class="comment even thread-even depth-1" id="li-comment-6673">
+		<article id="comment-6673" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='http://www.luismedel.com/' rel='external nofollow' class='url'>Luis Medel</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comment-6673"><time datetime="septiembre 10th, 2010">
+								2010 / septiembre / 10, viernes 8:55 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Pues sí, es una *gran* ayuda. Y más en redes heterogéneas en las que algún ordenador, cuyo sistema operativo no quiero mentar, se infecta con vete-tu-a-saber qué virus y se cepilla directorios de datos al azar. Simplemente te vas al dashboard de Dropbox, ves los últimos cambios que se han hecho y los deshaces (por no hablar de que tienes los datos replicados y a salvo en N equipos de tu misma red)</p>
+<p>¿Java vs Objective C? cielos, ¿en qué clase de flamewars participas&#8230;?  😛</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor odd alt depth-2" id="li-comment-6675">
+		<article id="comment-6675" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comment-6675"><time datetime="septiembre 10th, 2010">
+								2010 / septiembre / 10, viernes 9:32 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>¿Virus que borran carpetas? ¿De verdad existe eso? Me está entrando miedo de verdad. Menos mal que mis máquinas principales son UNIX por algún lado: iOS, Mac OS X, Linux&#8230; Sólo mantengo mi viejo portátil PC con Win 7 para jugar.<br />
+El detalle de la copia distribuída de los ficheros de Dropbox es muy importante. Si pierdes tu portátil del trabajo en la estación, no lo pierdes todo&#8230;</p>
+<p>¿Flamewars yo? Nooo! Yo le doy a todo por lo que me paguen. Cocoa, Java y lo que tengamos que hacer. Las Religiones no se inventaron para decidir temas técnicos ¿no?</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even depth-2" id="li-comment-508517">
+		<article id="comment-508517" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">sebastian</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comment-508517"><time datetime="septiembre 9th, 2014">
+								2014 / septiembre / 9, martes 1:29 pm							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Mi reflexion es que si no eres como usuario no eres capaz de evitar que un «virus» te «cepille» directorios.. la solucion no es no usar windows, es que sencillamente en cuestiones de seguridad haces agua. No quisiera toparme con tu codigo.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-odd thread-alt depth-1" id="li-comment-6770">
+		<article id="comment-6770" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn">Alejandro Domínguez</cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comment-6770"><time datetime="septiembre 14th, 2010">
+								2010 / septiembre / 14, martes 8:14 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>¿Se pueden programar páginas web en Objetive-C?. No quiero iniciar un conflicto, es sólo curiosidad. De todas formas yo apuesto por Java porque me dá de comer, pero está claro que para aplicaciones que necesiten sacar jugo al hardware sobre el que corre es mejor alguna variante de C.</p>
+<p>  Por cierto, que maravilla todo lo que ocurre en la nube. Nunca antes estar en las nubes estaba tan bien visto.</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	<ul class="children">
+	<li class="comment byuser comment-author-dfreniche bypostauthor even depth-2" id="li-comment-6772">
+		<article id="comment-6772" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='/' rel='external nofollow' class='url'>dfreniche</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comment-6772"><time datetime="septiembre 14th, 2010">
+								2010 / septiembre / 14, martes 9:27 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Pues la verdad es que no lo se, como tantas cosas 🙂</p>
+<p>Muy bueno el apunte de que «estar en la nube» está ahora bien visto. Parece que todo debe ser nuboso y 2.0 últimamente. Hartazgo 2.0 🙂</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+</ul><!-- .children -->
+</li><!-- #comment-## -->
+	<li class="comment odd alt thread-even depth-1" id="li-comment-6775">
+		<article id="comment-6775" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='http://www.luismedel.com/' rel='external nofollow' class='url'>Luis Medel</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comment-6775"><time datetime="septiembre 14th, 2010">
+								2010 / septiembre / 14, martes 11:05 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Yo no creo que el tema sea si se puede o no hacer tal o cual cosa con un lenguaje determinado. Está claro que sí. Incluso podrías escribir un clon de Facebook en Brainfuck, ya que es Turing completo (cielos, espero que nadie se embarque en ello)<br />
+La cuestión es simplemente que sea el que te resulte más cómo para ello 🙂</p>
+<p>Ya puestos a hablar de lenguajes, para las labores web y los pequeños scripts de mantenimiento personalmente tiro más por Python por la inmediatez que me da, aunque conozco gente que no podrá despegarse nunca de Perl o de los CGIs con C o Pascal.<br />
+En cuanto a iPhone, mi lenguaje ideal es C#  (Monotouch), pero está claro que el combo lenguaje-bibliotecas que escoge el fabricante siempre tendrá más punch 😀</p>
+<p>Ahora mismo estoy explorando las aplicaciones multiplataforma (iPhone+Android) escritas en Javascript y os puedo decir que el resultado es bastante satisfactorio 😉</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="comment even thread-odd thread-alt depth-1" id="li-comment-6776">
+		<article id="comment-6776" class="comment">
+			<footer>
+				<div class="comment-author vcard">
+					<cite class="fn"><a href='http://www.luismedel.com/' rel='external nofollow' class='url'>Luis Medel</a></cite> <span class="says">on</span>					<span class="comment-meta commentmetadata">
+						<a href="/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comment-6776"><time datetime="septiembre 14th, 2010">
+								2010 / septiembre / 14, martes 11:07 am							</time></a>
+											</span><!-- .comment-meta .commentmetadata -->
+				</div><!-- .comment-author .vcard -->
+							</footer>
+
+			<div class="comment-content"><p>Por cierto Diego, el problema de las «infecciones extrañas» me viene porque todavía no he podido convencer a mi mujer para que pase su portátil a cualquier unix 🙁</p>
+</div>
+
+			<div class="reply">
+							</div><!-- .reply -->
+		</article><!-- #comment-## -->
+
+	</li><!-- #comment-## -->
+	<li class="post pingback">
+		<p>Pingback: <a href='http://www.goudden.com/~gouddenc/blog/?p=382' rel='external nofollow' class='url'>Gestionando Revisiones en Proyectos BI</a></p>
+	</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+		
+	
+			<p class="no-comments">Comments are closed.</p>
+	
+	
+</div><!-- #comments -->
+
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="search" class="widget widget_search">
+				<form method="get" id="searchform" class="searchform" action="/" role="search">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="search" class="field" name="s" value="" id="s" placeholder="Search &hellip;" />
+		<input type="submit" class="submit" id="searchsubmit" value="Search" />
+	</form>
+		</aside>
+	</div><!-- #secondary -->
+
+	</div><!-- #main -->
+</div><!-- #page -->
+
+<footer id="colophon" class="site-footer" role="contentinfo">
+	<div id="footer-wrapper">
+		<div class="site-info">
+			<div id="site-info-wrapper">
+				<div id="site-info-wrapper2">
+										&#169; Copyright 2014 <a href="/">freniche.com</a>. Powered By <a href="http://wordpress.org/" title="A Semantic Personal Publishing Platform" rel="generator">WordPress</a>.
+					<br />
+					Designed & Crafted by <a href="http://wpshower.com/">Wpshower</a>.
+				</div>
+			</div>
+		</div><!-- .site-info -->
+		<div id="social">
+			<div id="social_wrapper">
+				<div id="social_wrapper2">
+						<a href="https://twitter.com/dfreniche">w</a>
+						<a href="http://feeds.feedburner.com/dfreniche">r</a>
+					</div>
+			</div>
+		</div>
+	</div>
+</footer><!-- #colophon -->
+
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"es-ES","strings":{"Close":"Cerrar","Fullscreen":"Pantalla completa","Turn off Fullscreen":"Salir de pantalla completa","Go Fullscreen":"Ver en pantalla completa","Download File":"Descargar archivo","Download Video":"Descargar v\u00eddeo","Play":"Reproducir","Pause":"Pausa","Captions\/Subtitles":"Pies de foto \/ Subt\u00edtulos","None":"Ninguno","Time Slider":"Control de tiempo","Skip back %1 seconds":"Retroceder %1 segundos","Video Player":"Reproductor de v\u00eddeo","Audio Player":"Reproductor de audio","Volume Slider":"Control de volumen","Mute Toggle":"Desactivar sonido","Unmute":"Activar sonido","Mute":"Silenciar","Use Up\/Down Arrow keys to increase or decrease volume.":"Utiliza las teclas de flecha arriba\/abajo para aumentar o disminuir el volumen.","Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.":"Usa las teclas de direcci\u00f3n izquierda\/derecha para avanzar un segundo, y las flechas arriba\/abajo para avanzar diez segundos."}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.22.0'></script>
+<script type='text/javascript' src='/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.8.13'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/wpshower-responsive-videos.js?ver=20140331'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/js/jquery.mousewheel.js?ver=3.1.6'></script>
+<script type='text/javascript' src='/wp-content/themes/readly/fancybox/jquery.fancybox.js?ver=3b1'></script>
+<script type='text/javascript' src='/wp-content/plugins/wp-markdown/js/markdown.min.js?ver=1.5.1'></script>
+
+</body>
+</html>

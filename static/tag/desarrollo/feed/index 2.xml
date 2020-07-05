@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>desarrollo &#8211; freniche.com</title>
+	<atom:link href="/tag/desarrollo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo crear un entorno de desarrollo Android portable</title>
+		<link>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/</link>
+		<comments>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/#comments</comments>
+		<pubDate>Wed, 23 May 2012 14:38:11 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1702</guid>
+		<description><![CDATA[Algún día me tenía que pasar. Después de ver tanto backend Java en cursos de todos los colores y de coleccionar certificaciones Java, después de desarrollar para iOS y webOS, alguna vez me tenía que poner en serio con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1710" style="width: 323px" class="wp-caption aligncenter"><img class="size-full wp-image-1710" title="Logo de Android" src="/wp-content/uploads/2012/05/android_resources.png" alt="Logo de Android" width="313" height="343" srcset="/wp-content/uploads/2012/05/android_resources.png 313w, /wp-content/uploads/2012/05/android_resources-273x300.png 273w" sizes="(max-width: 313px) 100vw, 313px" /><p class="wp-caption-text">Logo de Android</p></div>
+<p style="text-align: justify;">Algún día me tenía que pasar. Después de ver tanto backend Java en <a href="/formacion/">cursos de todos los colores</a> y de <a href="/category/informatica/programacion/java/scjp/">coleccionar certificaciones Java</a>, después de <a href="/ios-apps/">desarrollar para iOS</a> y <a href="/2012/05/17/enyo-faq-en-espanol/">webOS</a>, alguna vez me tenía que poner <em>en serio</em> con Android. De hecho, siempre me han preguntado que por qué no era esta mi plataforma de desarrollo móvil «de cabecera». Quizás porque estaba saturado de Java. O porque, <a href="http://wedevelopers.com/2012/03/11/we-developers-003-los-mundos-de-java/">como comentaba en We.Developers</a>, Java es un lenguaje que no me genera excesivas alegrías (sobre todo cuando lees la mayoría del código que hay por ahí, que es bastante feo, fruto del desconocimiento del lenguaje).</p>
+<p style="text-align: justify;">El caso es que estoy actualmente desarrollando una App para Android (de la que daré más datos cuando se suba a Google Play) y me ha surgido la oportunidad de impartir un curso a los programadores de RTVA. Como en todo curso, me gusta instalar el entorno de desarrollo. Y si vas a desarrollar para Android, sabes que tienes que instalarte:</p>
+<ul>
+<li>un JDK para poder compilar todo el código Java que escribimos como parte de nuestras Apps Android</li>
+<li>un JRE, necesario para ejecutar Eclipse</li>
+<li>Eclipse, como IDE para escribir nuestros programas</li>
+<li>el SDK de Android, que pone a nuestra disposición las bibliotecas necesarias para crear los programas Android, así como el Emulador, herramientas e imágenes para ejecutar ese emulador.</li>
+<li>el plug-in ADT para Eclipse, que nos permite gestionar el SDK cómodamente desde Eclipse</li>
+</ul>
+<p style="text-align: justify;">Este curso se imparte en dos semanas, dejando varios días por medio. Y el tiempo que se tarda en descargar las distintas partes del SDK de Android y el plugin ADT (ambos hay que descargarlos para instalarlos) no es despreciable cuando lo intentamos hacer con 10 portátiles todos conectados a la misma Wifi. Además de la limitación inherente a compartir la conexión HTTP, el medio físico (el canal de radio usado por el punto de acceso WiFi) es el mismo para todos los portátiles. Luego hay colisiones. Y cuantos más portátiles, peor para todos.</p>
+<p>En una primera opción, llevaba el JDK, Eclipse y el paquete de instalación del SDK en un pendrive, para irlo instalando todo. Pero de estas dos últimas descargas no me podía librar&#8230; ¿o si? Y mi miedo es volver la segunda semana y encontrarme los portátiles formateados&#8230;</p>
+<h1>Cómo crear un entorno de desarrollo Android Portable</h1>
+<p>En este caso, me centro en cómo crear el entorno portable para Windows 32 bits, que corre en XP y Windows 7. Al final comento las diferencias con Mac.</p>
+<ul>
+<li>Lo primero es bajar todo lo que necesitamos a una carpeta:</li>
+</ul>
+<blockquote>
+<ul>
+<li><a href="http://www.oracle.com/technetwork/java/javase/downloads/index.html">Java JDK</a> para Windows es un ejecutable, y escogeremos, de la versión 6, el saber que nos interese: 32 bits (i586) o 64 (x64).</li>
+<li>De Eclipse nos interesa la última versión de la distribución <a href="http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/indigosr2">Eclipse IDE for Java developers</a>. No la versión para Java EE, ya que no vamos a usar servets ni nada de eso. A fecha de escritura de este post, la última versión es la Indigo.</li>
+<li>La última versión del <a href="http://developer.android.com/sdk/index.html">SDK de Android</a>. Nos bajamos la versión en ZIP, no la instalable.</li>
+</ul>
+</blockquote>
+<ul>
+<li>Una vez que tenemos todo esto bajado, debemos instalar el JDK en la máquina. Realmente queremos las carpetas que van dentro, pero al no disponer de un ZIP no tenemos más remedio que instalar. Lo dejará en C:\Archivos de Programa\Java</li>
+<li>Una vez termine la instalación del JDK, nos crearemos una carpeta en el escritorio que podemos llamar Android-Portable, o como más nos guste.</li>
+<li>Debemos descomprimir dentro de esta carpeta el ZIP de Eclipse.</li>
+<li>Ahora, copiaremos la carpeta JRE que está en C:\Archivos de Programa\Java\Jre6\ dentro de la carpeta de Eclipse, justo donde está Elipse.exe. Así, al arrancar Eclipse usará ese JRE que le hemos instalado «tan a mano»</li>
+<li>Igualmente descomprimiremos el SDK de Android dentro de Android-Portable.</li>
+<li>Como necesitaremos el JDK para compilar, vamos a copiarnos en Android-portable la carpeta C:\Archivos de programa\Java\jdk1.6.0_31</li>
+<li>Ahora debemos tener dentro de Android-Portable: una carpeta con Eclipse, otra con el JDK y el SDK de Android.</li>
+<li>Ya podemos arrancar Eclipse. Necesitamos instalar el <a href="http://developer.android.com/sdk/eclipse-adt.html">plugin ADT</a>, para lo cual iremos a Help &gt; Install Software e instalaremos ADT indicando como repositorio https://dl-ssl.google.com/android/eclipse/</li>
+<li>Tras reiniciar Eclipse, nos pedirá que instalemos un SDK de Android, o que le indiquemos dónde tenemos uno instalado. Le indicamos que dentro de Android-Portable tenemos uno. Nos muestra el Android SDK Manager para descargar las imágenes de los emuladores para las versiones de Android que nos interesen, así como los SDKs propiamente dichos. Yo me los bajaría todos.</li>
+</ul>
+<div id="attachment_1711" style="width: 310px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2012/05/pidiendo-sdk.png"><img class="size-medium wp-image-1711" title="Eclipse nos pide un SDK de Android (click para agrandar)" src="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png" alt="Eclipse nos pide un SDK de Android (click para agrandar)" width="300" height="190" srcset="/wp-content/uploads/2012/05/pidiendo-sdk-300x190.png 300w, /wp-content/uploads/2012/05/pidiendo-sdk-1024x651.png 1024w, /wp-content/uploads/2012/05/pidiendo-sdk.png 1475w" sizes="(max-width: 300px) 100vw, 300px" /></a></dt>
+</dl>
+<p>Eclipse nos pide un SDK de Android (click para agrandar)</p>
+</div>
+<ul>
+<li>¡Listo! Ahora podemos copiar la carpeta Android-Portable y todo lo que necesitamos lo llevamos dentro. Para arrancar Eclipse bastará con entrar en su carpeta y hacer doble click en Eclipse.exe. Si quieres, siempre te puedes crear un acceso directo, pero que sepas que al mover la carpeta tendrás que volver a crearlo.</li>
+</ul>
+<p>&lt;</p>
+<p>div class=»mceTemp mceIEcenter»></p>
+<p>&lt;</p>
+<p>dl id=»attachment_1707&#8243; class=»wp-caption aligncenter» style=»width: 470px;»></p>
+<dt class="wp-caption-dt"><img class="size-full wp-image-1707" title="Así debe quedar la carpeta Android-Portable" src="/wp-content/uploads/2012/05/android-portable.png" alt="Así debe quedar la carpeta Android-Portable" width="460" height="187" srcset="/wp-content/uploads/2012/05/android-portable.png 460w, /wp-content/uploads/2012/05/android-portable-300x121.png 300w" sizes="(max-width: 460px) 100vw, 460px" /><p class="wp-caption-text">Así debe quedar la carpeta Android-Portable</p></div>
+<p>Esta carpeta ya la podemos poner en un pendrive, comprimirla, copiarla de un equipo a otro, etc. Funcionará con los distintos Windows.</p>
+<p>Si tienes un Mac el proceso es el mismo, salvo que:</p>
+<ul>
+<li>no tienes que instalarte Java, ya que el JDK viene instalado con OS X (es una instalación opcional del S.O.). No puedes «bajarlo» de la página de Oracle.</li>
+<li>debes bajar el Eclipse de Mac</li>
+<li>debes bajar el SDK de Android de Mac</li>
+</ul>
+<p>Ahora, a ver alguien compra las Apps que hagamos <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/05/23/como-crear-un-entorno-de-desarrollo-android-portable/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>La NSConf11 de Vilanova i La Geltrú</title>
+		<link>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/</link>
+		<comments>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 12:43:17 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cataluña]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1630</guid>
+		<description><![CDATA[Este pasado fin de semana tuve el placer de asistir a la primera Conferencia que ha organizado a nivel nacional la Asociación NSCoders España. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Este pasado fin de semana tuve el placer de asistir a la <a href="http://nsconf.nscoders.org/">primera Conferencia</a> que ha organizado a nivel nacional la <a href="http://nscoders.org/">Asociación NSCoders España</a>. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el error de dejarme hablar. Y claro, me dediqué a desvariar un rato y, entre chiste y chiste, contaba cómo hacer un cliente RSS para iPhone.</p>
+<p style="text-align: justify;">Aún no se si realmente alguien aprendió algo de mi charla. Yo me lo pasé muy bien, aunque no las tenía todas conmigo. El Viernes anterior había estado toda la mañana programando con JavaScript y el framework Enyo para la HP TouchPad. Y por la tarde había estado viendo detalles intrincados de Java en un curso de preparación para el OCP Java SE 6 que estoy impartiendo. Y Cocoa ya no me cabía en mis maltrechas neuronas. Al final parece que Cocoa fluyó (con ayuda de muchos cafés) y me pude escapar sin demasiados tomatazos. Y aquí es donde empezó realmente lo bueno.</p>
+<p style="text-align: justify;">Este año he ido a otra conferencia, el iOSDevUK en Gales, que me encantó. Pero comparando ambas, en la NSConf11 he <em>escrito</em> código. No sólo he escuchado, aprendido y charlado de código. He <em>trabajado</em> el código. Como en el increíble taller de TDD que impartió <a href="http://nsconf.nscoders.org/ponentes/pedro-santos">Pedro Santos</a>, tras su charla sobre Behaviour Driven Development. Aquí tuve el privilegio de picar código mientras hacíamos pair programming aplicando el proceso paso a paso de TDD. O la charla sobre Chipmunk de <a href="http://nsconf.nscoders.org/ponentes/oscar-cardona">Óscar Cardona</a>, que nos dejó a todos atontados y pensando «esto no puede ser así de simple, o hay más código o este tío explica muy bien esto». O el taller de Core Plot, donde vimos cómo hacer gráficas complejas con esta librería, gracias a la demo de <a href="http://nsconf.nscoders.org/ponentes/victor-jalencas">Víctor Jalencas</a>. Y tantas y tantas ponencias interesantes. La única pena: las que me perdí mientras yo hablaba, y las que tuve que elegir, perdiendo la que se presentaba en paralelo.</p>
+<p style="text-align: justify;">Lo mejor, la gente que he conocido. Gente con muchas ganas de aprender, compartir y enseñar. Gente encantadora y que, como los miembros de la NSCoder_bcn que han organizado el evento, se han matado para que todo estuviera perfecto, como al final ha sido. Creo que nadie pensaba que en una primera conferencia íbamos a tener tanto público. Esto puede llegar a ser una WWDC hispana. Trabajaremos por ello. Gracias a José Juan, nuestro presidente, o a Guillem o Leandro, o Xabi, o&#8230; por la paliza enorme que se han dado.</p>
+<p style="text-align: justify;">He podido conocer en persona (yo no «desvirtualizo» a las personas: las conozco) a José Lobato, ídolo de masas Geeks y gran bebedor de cerveza :-D. El tío en persona es para comérselo, y gran parte de la «culpa» de que todo esto se originara es la semilla plantada desde 85% Cocoa con las NSCoder Nights. Otro que me ha impresionado y he podido escuchar con respeto reverencial es Iván Leider. Él es un Maestro Jedi del desarrollo. Yo, ni Padawan&#8230;</p>
+<p style="text-align: justify;">Y demostrando que el mundo geek también es un pañuelo, conocí a <a href="http://www.fillito.com/blog/">Daniel García</a>, el programador de la App de <a href="http://www.minube.com/">Minube</a> para la TouchPad. Creo que allí estábamos los dos únicos programadores Enyo de toda España :-). Bueno, alguno más habrá, pero no creo que más de 10&#8230;</p>
+<p style="text-align: justify;">Y claro, me he hinchado a comer, he visto algo de Vilanova i La Geltrú (principalmente de noche) y no he parado de hablar. La experiencia no merece la pena: es imprescindible si desarrollas en Cocoa. Yo el año que viene, repito. Espero que alguien recapacite y no me dejen hablar.</p>
+<p style="text-align: justify;">Os dejo con un Vídeo de Vilanova Digital en la que «el presi» de la Asociación explica (en Catalán, pero se entiende perfectamente) qué es la NSConf11</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/esHvZC-VpE4" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/esHvZC-VpE4"></param></object></div>
+</div>
+<p style="text-align: justify;">Y el que quiera el código del RSS Reader que utilicé de ejemplo, lo tiene en: <a href="https://github.com/dfreniche/SimpleRSSReader">https://github.com/dfreniche/SimpleRSSReader</a></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>¿Volvemos a programar con TurboPascal / TurboC?</title>
+		<link>/2007/05/07/volvemos-a-programar-con-turbopascal-turboc/</link>
+		<pubDate>Mon, 07 May 2007 11:12:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[desarrollo]]></category>
+
+		<guid isPermaLink="false">/2007/05/07/volvemos-a-programar-con-turbopascal-turboc/</guid>
+		<description><![CDATA[Ah, Aquellos tiempos&#8230; Como buen retroaficionado a los ordenadores antiguos y tecnologías nicho siempre me alegra encontrarme en la red con algo de mis comienzos. He visto cómo con el tiempo se han liberado casi todos los juegos de mi AMSTRAD CPC, dispongo ahora de programas con los que soñaba en mi juventud, amén de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Ah, Aquellos tiempos&#8230; Como buen retroaficionado a los ordenadores antiguos y <a href="que-me-interesa/retroinformatica/">tecnologías nicho</a> siempre me alegra encontrarme en la red con algo de mis comienzos. He visto cómo con el tiempo se han liberado casi todos los juegos de mi AMSTRAD CPC, dispongo ahora de programas con los que soñaba en mi juventud, amén de más máquinas de las que puedo manejar (dedicando a cada una un pie o una mano).</p>
+<p class="bodytext">Hoy me he topado con una web donde Borland tiene un museo de sus programas colgado en <a href="http://dn.codegear.com/museum/antiquesoftware" target="_blank">http://dn.codegear.com/museum/antiquesoftware</a>. ¡Se puede uno bajar el TP 5.5 y empezar a recompilar aquellas TPUs del pasado, celosamente guardadaas en discos de 3&#8243;y1/2 que almacenan una fina capa de polvo!.</p>
+<p class="bodytext">En los primeros años de los 90 programé mucho, pero que mucho, especialmente en C usando el TC 2.0. Aprendí Pascal en la carrera pero lo disfruté a causa de A.L.Delgado, que fue el que me enseñó los placeres del lenguaje estructurado, qué era la POO, porqué hay que programar de forma elegante y otros miles de cosas más.</p>
+<p class="bodytext">Hoy día, la manera más sencilla de volver a desempolvar aquellos programas es mediante una <a href="http://www.vmware.com/vmtn/appliances/directory/378" target="_blank">máquina virtual con FreeDOS instalado</a>. A ver si encuentro el tiempo y empiezo a colgar uno por uno mis programitas de aquella época.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

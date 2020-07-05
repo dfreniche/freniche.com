@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>certificaciones &#8211; freniche.com</title>
+	<atom:link href="/tag/certificaciones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo preparar las certificaciones Java (y probablemente el resto)</title>
+		<link>/2017/05/24/como-preparar-las-certificaciones-de-java-y-probablemente-el-resto/</link>
+		<pubDate>Wed, 24 May 2017 11:28:52 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[certificaciones]]></category>
+		<category><![CDATA[Java SCJP]]></category>
+
+		<guid isPermaLink="false">/?p=2752</guid>
+		<description><![CDATA[Estoy preparándome la certificación OCP Java SE 8. No preguntes por qué. Quizás porque soy adicto a coleccionarlas, tras tener el SCJP 1.5, 1.6, SCWCD 1.5 y SCBCD 1.3 y llevaba años sin presentarme a ninguna. O porque las que tengo ya son antiguas y quería tener una actualizada. O porque quería aprender Java 8 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Estoy preparándome la certificación OCP Java SE 8. No preguntes por qué. Quizás porque soy <a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/">adicto a coleccionarlas</a>, tras tener el SCJP 1.5, 1.6, SCWCD 1.5 y SCBCD 1.3 y llevaba años sin presentarme a ninguna. O porque las que tengo ya son <em>antiguas</em> y quería tener una actualizada. O porque quería aprender Java 8 con cierta profundidad, ver todo lo nuevo que tiene que ofrecer (que es mucho, aunque quizás llega tarde) y compararlo con lo que he aprendido en otros lenguajes (Swift, te estoy mirando).</p>
+<p>Además, he tenido la oportunidad de preparar a varios grupos para obtener esta certificación&#8230; que yo ahora mismo no tengo. <a href="/2015/08/11/fraudismo-101-ensenar-las-verguenzas/"><em>Fraudismo at its best</em></a>. Aunque en este caso no tengo tanto síndrome del impostor por una razón: puede que no tenga (aún) la certificación Java 8, y mis conocimientos de Java son muy mejorables, pero me autotitulo como el <em>mayor experto mundial en aprobar estos exámenes</em>. Y eso es gracias a mi sistema, el <em>Sistema Freniche para aprobar las Certificaciones Java</em> AKA sentido común.</p>
+<h2>El Sistema Freniche para aprobar las Certificaciones Java</h2>
+<p>Es un sistema muy probado, tanto personalmente como con montones de alumnos que he preparado para distintas certificaciones. Se basa en 9 pasos:</p>
+<ol>
+<li>
+<p>Buscar un buen libro, que cubra todo el temario de la certificación. En este caso, he escogido el <a href="https://www.amazon.es/OCP-Certified-Professional-Programmer-1Z0-809/dp/1119067901/ref=sr_1_1?ie=UTF8&amp;qid=1490033852&amp;sr=8-1&amp;keywords=ocp">oficial de Oracle</a></p>
+</li>
+<li>
+<p>Leer el libro, saboreando cada capítulo. Aunque el objetivo último es aprobar el examen, hay mucho que podemos aprender aunque tengamos muchos años de experiencia con Java. <em>Especialmente</em> si tenemos muchos años de experiencia con Java trabajando siempre en proyectos similares, porque habrá montones de cosas que no hemos probado o visto por falta de tiempo.</p>
+</li>
+<li>
+<p>Escribe código. Mucho código. Haz pequeños ejemplos. Búscate las vueltas. Piensa retorcidamente. Prueba cosas extrañas (ver anexo Cosas Extrañas al final)</p>
+</li>
+<li>
+<p>Crea tus propios apuntes. O extiende <a href="https://github.com/dfreniche/ocp-java8-notes">los míos</a></p>
+</li>
+<li>
+<p>Escribe más código. Cuando te surjan dudas, vuelve a leer esa parte del libro. Y vuelve a escribir código probando todo.</p>
+</li>
+<li>
+<p>Cuando termines el libro, haz las preguntas de repaso de cada tema. Descubrirás que aún no has memorizado o te has fijado en partes. Goto 2</p>
+</li>
+<li>
+<p>Busca un simulador de exámenes. En mi caso siempre uso <a href="http://enthuware.com/index.php/mock-exams/oracle-certified-professional/ocpjp-8-questions">Enthuware</a> porque me ha ido bien (no porque me paguen por hacerles publicidad, aunque ya podrían <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )</p>
+</li>
+<li>
+<p>Haz exámenes de prueba. Falla. Vuelve a leer. Escribe código. Haz exámenes.</p>
+</li>
+<li>
+<p>Cuando en los exámenes del simulador estés llegando al 80% de aciertos, preséntate. Pasarás con nota.</p>
+</li>
+</ol>
+<h2>¿Cuánto tiempo me va a llevar esto?</h2>
+<p>Pues depende. Leer el libro e ir probando pueden ser unas 30 h. Y luego hay que hacer los exámenes de prueba. Lo ideal es ponerse una fecha tope y en un par de meses <em>power through it</em>. Quitártelo de en medio, vamos.</p>
+<p>Aunque recibir un excelente curso de formación, patrocinado por tu empresa e impartido por un profesional de prestigio siempre puede ayudarte bastante y</p>
+<p><code>(interrumpimos este _shameless plug_ para continuar con lo que has venido a leer aquí)</code></p>
+<h2>Cómo presentarte al examen</h2>
+<p>Yo tengo mi ritual, pero lo ideal es que cada uno ejecute el suyo, porque lo normal es que estés nervioso/a ese día. Lo que yo hago es:</p>
+<ul>
+<li>levantarme bastante temprano</li>
+<li>comprobar que llevo algún documento, como el DNI en España que me identifique. Si no, no puedo hacer el exámen.</li>
+<li>llegar con más de 1h de adelanto a los alrededores de donde tenga el Centro Prometric para presentarme.</li>
+<li>desayunar o tomar café. Aunque el examen sea a las 13:00h en Sevilla en Agosto. Café. Para estar <em>tranquilo</em>.</li>
+<li>llevar el libro de preparación de la certificación conmigo en la mochila, aunque no lo voy a leer mientras tomo café ni me van a dejar tenerlo conmigo durante el examen. Lo uso de talismán y porque no soy el más listo. Pero tengo que sentir que está cerca por si me ataca el pánico y alguna duda concreta en el último momento.</li>
+<li>cargar con el portátil que no me van a dejar usar por las mismas razones que el punto anterior: porque no soy demasiado astuto.</li>
+<li>llevar agua. Y caramelos. Para darte un premio según avance el exámen y beber para mantenerse hidratado.</li>
+<li>ir al cuarto de baño justo antes de entrar, porque voy a estar bebiendo más agua que un caracol en el desierto durante la prueba.</li>
+</ul>
+<h2>¿Pero esto de las certificaciones sirve para algo?</h2>
+<p>Pues esto es un debate interesante, que puedes tener con quien quieras menos conmigo poque que en mi caso lo tengo bastante claro:</p>
+<ul>
+<li>las certificaciones no demuestran que sepas más Java que nadie</li>
+<li>demuestran que eres capaz de fijarte un objetivo, que te va a requerir un esfuerzo extra y cierto sacrificio y pasarlo</li>
+<li>demuestran que tienes una base en el lenguaje Java</li>
+<li>preparar esta certificación me ha supuesto toda una sorpresa, porque la he encontrado 100% útil: multihilo con Thread Pools y el paquete <code>java.util.concurrent</code>, programación funcional con Lambdas, map, reduce, streams, parallel streams, problemas de concurrencia y multihilo, acceso a BDs con JDBC (que hasta ahora era lo único que usaba en Android), uso de ficheros, excepciones, Opcionales,&#8230;</li>
+<li>demuestran que eres capaz de estar 2 horas y media seguidas trabajando enfocado en una sola tarea, sin usar Internet ni mirar Twitter. Y eso es una rara cualidad hoy día, en los entornos multi-interrupción de que <em>disfrutamos</em> trabajando. </li>
+</ul>
+<p>Esto último es probablente lo más difícil. Ser capaz de nuevo de estar haciendo una tarea durante 2 horas y media sin moverte de la silla. Esto se entrena con los exámenes del simulador. Y es duro, porque tú eres tu mayor enemigo.</p>
+<h2>Anexo: Cosas extrañas</h2>
+<p>Cosas que puedes hacer con Java, como escribir bucles así</p>
+<pre><code>Predicate&lt;Integer&gt; end = e -&gt; e &lt; 10; int i = 0; 
+for (int j = 1; end.test(i) ; i++, j++, System.out.println("i " + i)) ;
+
+// imprime i 1, i 2, i 3...
+</code></pre>
+<p>Usar bloques de código de instancia (NO usar en código real)</p>
+<pre><code>class Cat {
+    String name;
+
+    {
+        System.out.println("I'm a Cat!");
+        name = "Meow!";
+    }
+
+    Cat() {
+        name = "Garfield";
+    }
+}
+</code></pre>
+<p>Programar «código encriptado» <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<pre><code>class _ {
+    String _ = "Hello";
+}
+
+// más adelante...
+
+_ _ = new _();
+System.out.println(_._);   // imprime "Hello"
+
+_ $ = _;
+System.out.println($._);   // imprime "Hello"
+</code></pre>
+<p>Y otras muchas barbaridades que podría añadir&#8230;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>SCWCD aprobado!</title>
+		<link>/2010/06/25/scwcd-aprobado/</link>
+		<comments>/2010/06/25/scwcd-aprobado/#comments</comments>
+		<pubDate>Fri, 25 Jun 2010 21:05:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+		<category><![CDATA[certificaciones]]></category>
+		<category><![CDATA[SCWCD]]></category>
+
+		<guid isPermaLink="false">/?p=1050</guid>
+		<description><![CDATA[Un poco (más) de autobombo. Comentaba hace unos días que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. Hoy, tras un par de semanas intensas y más sufrimiento del que esperaba, lo he aprobado con un 79%. Un poco raspado, ya que el aprobado está en el 70%, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Un poco (más) de autobombo. <a href="/2010/06/09/preparando-el-scwcd/">Comentaba hace unos días</a> que me iba a presentar al examen de certifiación de Java Sun Certified Web Component Developer. Hoy, tras un par de semanas intensas y más sufrimiento del que esperaba, lo he aprobado con un 79%. Un poco raspado, ya que el aprobado está en el 70%, pero&#8230; está aprobado, ¿no?</p>
+<p style="text-align: justify;">Esta certificación se une al Sun Certified Java Programmer 1.5 y Sun Certified Business Component Developer 1.3 que ya tenía. Y, si todo va bien, a finales de Julio me presentaré al SCJP 1.6, para así tener estas cuatro certificaciones y poder cobrar mis horas a precio de <em>Gurú</em> :-). No, ahora en serio, voy a intentar aplicar estas certificaciones en algo que quiero preparar en los próximos meses. Permanezcan atentos a sus receptores&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/06/25/scwcd-aprobado/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+		<item>
+		<title>SCBCD aprobado, también</title>
+		<link>/2009/02/05/scbcd-aprobado-tambien/</link>
+		<comments>/2009/02/05/scbcd-aprobado-tambien/#comments</comments>
+		<pubDate>Thu, 05 Feb 2009 13:41:24 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+		<category><![CDATA[certificaciones]]></category>
+
+		<guid isPermaLink="false">/2009/02/05/scbcd-aprobado-tambien/</guid>
+		<description><![CDATA[Ya comenté en Diciembre que había aprobado el SCJP (Certificación de Sun como Programador Java, v1.5). Pues bien, hace una semana aprobé la SCBCD, la certificación de desarrollador de componentes de negocio, v1.3. ¿Bueno, y qué es ésto?. Una manera de demostrar que medio empiezo a entender qué es un Enterprise Java Bean (EJB), que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ya comenté en Diciembre que <a href="/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/trackback/">había aprobado el SCJP</a> (Certificación de Sun como Programador Java, v1.5). Pues bien, hace una semana aprobé la SCBCD, la certificación de desarrollador de componentes de negocio, v1.3.</p>
+<p>¿Bueno, y qué es ésto?. Una manera de demostrar que medio empiezo a entender qué es un Enterprise Java Bean (EJB), que es, explicado muy llanamente, un componente (un conjunto de clases java, archivos de configuración XML y otras muchas cositas y reglas) que se comprime en formato ZIP y que permite representar datos, tratar mensajes o bien gestionar los procesos de una web. Supongo que los puristas se estarán removiendo en su silla por esta explicación, pero es que no quiero extenderme ni largar un rollo sobre EJBs.</p>
+<p>Este año, 2009, me quiero dedicar a «coleccionar» certificaciones. Me explico. Durante unos años he sido profesor errante de diversas materias. Desde Java básico a gestión de proyectos. Y he tenido que leer un par de libros. Creo que ahora es tiempo de recoger y plasmar en <em>titulitos</em> del fabricante lo que se supone que medio controlo.</p>
+<div id="attachment_434" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/02/libros1.jpg"><img class="size-full wp-image-434" title="libros" src="/wp-content/uploads/2009/02/libros1.jpg" alt="Algunos de los libros frikis que poseo" width="800" height="531" srcset="/wp-content/uploads/2009/02/libros1.jpg 800w, /wp-content/uploads/2009/02/libros1-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Algunos de los libros frikis que poseo</p></div>
+<p>La siguiente certificación va a ser el Desarrollador de Componentes Web (SCWCD). Probablemente después venga el SCJD y a lo mejor alguna certificación Linux, como la LPI-1 (la sencillita).</p>
+<p>Pero antes, me voy a dar un mes de reposo mental, que falta me hace, mientras espero el suspenso en la certificación de ITIL Service Manager <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/02/05/scbcd-aprobado-tambien/feed/</wfw:commentRss>
+		<slash:comments>14</slash:comments>
+		</item>
+		<item>
+		<title>SCJP 1.5 aprobado con un pírrico 70%, pero aprobado al fin</title>
+		<link>/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/</link>
+		<comments>/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/#comments</comments>
+		<pubDate>Mon, 22 Dec 2008 19:25:21 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Programación]]></category>
+		<category><![CDATA[SCJP]]></category>
+		<category><![CDATA[certificaciones]]></category>
+		<category><![CDATA[Java]]></category>
+
+		<guid isPermaLink="false">/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/</guid>
+		<description><![CDATA[Probablemente los SCJPs entre el público piensen «pues vaya nota», «tampoco es para sacar pecho publicándola», etc. Y tienen razón. Para aprobar el SCJP es necesario sacar al menos un 59%, y con un 70% uno está más que aprobado. Con lo que una buena nota sería del 80% para arriba. Pero considerando mi situación [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Probablemente los SCJPs entre el público piensen «pues vaya nota», «tampoco es para sacar pecho publicándola», etc. Y tienen razón. Para aprobar el SCJP es necesario sacar al menos un 59%, y con un 70% uno está más que aprobado. Con lo que una buena nota sería del 80% para arriba. Pero considerando mi situación actual:</p>
+<ul>
+<li>con dos niños de menos de 3 años el mayor. Vamos, que no duermo mucho.</li>
+<li>viviendo a 120 Km del lugar de trabajo (3 h. de desplazamientos diarios, para que luego digan que la juventud no queremos trabajar <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )</li>
+<li>con unos años ya, ¡que la costumbre de estudiar se pierde!</li>
+<li>con el nuevo rol que desempeño en Isotrol de Service Manager, que me exige un 120% de dedicación.</li>
+</ul>
+<p>estoy feliz de haber <em>cumplido</em>, como me exigía a mi mismo <a href="/2008/01/02/preparando-el-scjp-2/trackback/">en éste post</a>.</p>
+<p>Y al final lo que cuenta es, al final, tenerlo o no. Y ya lo tengo. Algo más tarde de lo que comentaba <a href="/2008/06/04/fecha-para-el-scjp/trackback/">en un post pasado</a>, pero al final lo que bien acaba&#8230;</p>
+<p>Para prepararlo, he seguido todo lo que comentaba <a href="/2008/01/20/herramientas-que-estoy-usando-para-conseguir-el-scjp/trackback/">en éste post</a>, pero además he añadido los test de preparación de <a href="http://www.enthuware.com/">Enthuware</a>, tests que recomiendo encarecidamente (no me llevo comisión) ya que imitan a la perfección el entorno que después te encuentras en el examen. Y el coste es de risa, comparado con lo que te ayudan a estudiar.</p>
+<p>Durante la certificación he generado mucho, pero que mucho código fuente de ejemplo. No estaría mal subirlo por aquí cuando tenga un rato.</p>
+<p>Y ahora, a preparar el SCBCD, Sun Certified Business Component Developer, el de los EJBs&#8230; y el Service Manager de ITIL&#8230; a la vez&#8230; y en Navidades&#8230; si es que&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/22/scjp-15-aprobado-con-un-pirrico-70-pero-aprobado-al-fin/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+	</channel>
+</rss>

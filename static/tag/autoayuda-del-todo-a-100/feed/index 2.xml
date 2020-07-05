@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Autoayuda del todo a 100 &#8211; freniche.com</title>
+	<atom:link href="/tag/autoayuda-del-todo-a-100/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Escribir en lugar de leer</title>
+		<link>/2013/02/17/escribir-en-lugar-de-leer/</link>
+		<comments>/2013/02/17/escribir-en-lugar-de-leer/#comments</comments>
+		<pubDate>Sun, 17 Feb 2013 20:12:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Autoayuda del todo a 100]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[Fortune Cookies]]></category>
+
+		<guid isPermaLink="false">/?p=1879</guid>
+		<description><![CDATA[Leer el correo. Los feeds. Consultar Twitter. Mirar mi grupo de Amiga and friends en Facebook. Ver un vídeo en Youtube. Consumir. Leer. No reflexionar. Sin pretenderlo, a lo largo de los años he terminado escribiendo bastante. No sólo en el blog, ni en el correo, que eso lo hacemos todos. En revistas, como PCWorld [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Leer el correo. Los feeds. Consultar Twitter. Mirar mi grupo de <a href="http://www.amigaandfriends.org/">Amiga and friends</a> en Facebook. Ver un vídeo en Youtube. Consumir. Leer. No reflexionar.</p>
+<p>Sin pretenderlo, a lo largo de los años he terminado escribiendo bastante. No sólo en el blog, ni en el correo, que eso lo hacemos todos. En revistas, como PCWorld o MacWorld (un minuto de silencio por esta última). O preparando material para algún curso. El caso es que es algo que me gusta, además de tener que hacerlo para ganarme la vida.</p>
+<p>Cuando era adolescente, además de leer mucho escribía algunas cosas. Y es algo que me gustaría volver a hacer. Por eso, me voy a proponer lo siguiente: escribir antes de leer. Escribir el mismo tiempo que dedico a consumir información. Aprovechar los huecos del día escribiendo algo, lo que sea, para fomentar el hábito. Hacer eso, en lugar de dejar a mi mente vagabundear por Twitter y Youtube. Y si lo que sale es basura, borrarlo, pero si es aceptable publicarlo. Creo que dedicamos mucho tiempo a <strong>anestesiarnos</strong> el cerebro haciendo lo sencillo. Leer en lugar de escribir, escuchar en vez de pensar, dudar en lugar de tomar decisiones. Así que voy a centrarme y escribir más.</p>
+<p>Dejad de leerme y haced lo mismo.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/17/escribir-en-lugar-de-leer/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

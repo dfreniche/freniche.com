@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Actualizaciones &#8211; freniche.com</title>
+	<atom:link href="/tag/actualizaciones/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mensaje de error actualizando de Ubuntu 7.10 a Ubuntu 8.10</title>
+		<link>/2008/12/30/mensaje-de-error-actualizando-de-ubuntu-710-a-ubuntu-810/</link>
+		<comments>/2008/12/30/mensaje-de-error-actualizando-de-ubuntu-710-a-ubuntu-810/#comments</comments>
+		<pubDate>Tue, 30 Dec 2008 17:17:17 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Actualizaciones]]></category>
+
+		<guid isPermaLink="false">/2008/12/30/mensaje-de-error-actualizando-de-ubuntu-710-a-ubuntu-810/</guid>
+		<description><![CDATA[Estoy aprovechando el parón navideño para, entre otras cosas, actualizar el portátil del trabajo de la vetusta Ubuntu 7.10 a la 8.10. Para realizar la actualización hay que pasar primero de 7.10 a 8.04 (que es una LTS, Long Term Support) y luego a 8.10, como se explica aquí. Pues bien, en medio de la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">Estoy aprovechando el parón navideño para, entre otras cosas, actualizar el portátil del trabajo de la vetusta Ubuntu 7.10 a la 8.10. Para realizar la actualización hay que pasar primero de 7.10 a 8.04 (que es una LTS, Long Term Support) y luego a 8.10, como se explica <a href="http://ubuntulife.wordpress.com/2008/10/31/actualizar-ubuntu-804-hardy-heron-a-ubuntu-810-intrepid-ibex/trackback/">aquí</a>.</p>
+<p>Pues bien, en medio de la instalación me encuentro con la siguiente ventana:</p>
+<p><img src="/wp-content/uploads/2008/12/error-actualizacion-ubuntu-8-10.png" alt="Un error de actualización de Ubuntu" /></p>
+<p align="justify">¡Eso es usabilidad! ¿Cómo era el lema de Ubuntu? ¿Linux para seres humanos? Será para seres humanos que sepan qué es CORBA y recuerden qué era el Nautilus (aparte de un submarino de célebre recuerdo). Aunque lo mejor del mensaje (supongo que siguiendo las guías de interfaz con humanos de GNOME) es que el programa no sabe si el error ha sido leyendo o escribiendo: «Ha ocurrido un error mientras <strong>cargaba o guardaba</strong> la información etc. etc.». Es fácil hacer leña del árbol caído, pero mientras me encuentre con cosas como éstas cuando actualizo el Linux supuestamente más cercano al usuario final, que no me hablen mal de mis Macs&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2008/12/30/mensaje-de-error-actualizando-de-ubuntu-710-a-ubuntu-810/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

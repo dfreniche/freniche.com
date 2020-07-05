@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ideas &#8211; freniche.com</title>
+	<atom:link href="/category/ideas/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Porque me hace feliz</title>
+		<link>/2017/02/26/porque-me-hace-feliz/</link>
+		<pubDate>Sun, 26 Feb 2017 18:54:06 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Ideas]]></category>
+		<category><![CDATA[budismo_de_mercadillo]]></category>
+		<category><![CDATA[ideas]]></category>
+		<category><![CDATA[inspiración]]></category>
+		<category><![CDATA[mi_secta]]></category>
+
+		<guid isPermaLink="false">/?p=2745</guid>
+		<description><![CDATA[¿Por qué corres, si cansa mucho? ¿Por qué te levantas tan temprano, es que quieres ser el más rico del cementerio? ¿Sigues usando Java en 2017? ¿Linux no era para inadaptados? ¿Los Macs no son sólo para ricos? ¿Por qué los usas? ¿Por qué seguir estudiando a tu edad? Estas, y otras falsas preguntas las [&#8230;]]]></description>
+				<content:encoded><![CDATA[<ul>
+<li>¿Por qué corres, si cansa mucho?</li>
+<li>¿Por qué te levantas tan temprano, es que quieres ser el más rico del cementerio?</li>
+<li>¿Sigues usando Java en 2017?</li>
+<li>¿Linux no era para inadaptados?</li>
+<li>¿Los Macs no son sólo para ricos? ¿Por qué los usas?</li>
+<li>¿Por qué seguir estudiando a tu edad?</li>
+</ul>
+<p>Estas, y otras falsas preguntas las habrás escuchado muchas veces a lo largo de tu vida. Gente que parece escandalizarse porque <em>haces cosas</em> o porque las haces de forma <em>diferente</em> a como ellos piensan. Falsas, porque no buscan comprender tu punto de vista, ni aprender, ni contrastar ideas. Buscan sólo confrontar. Que les des un buen número de razones para poder disfrutar de una buena discusión. En el mal sentido de esta palabra.</p>
+<blockquote>
+<p>«Nunca discutas con un idiota, te rebajará a su nivel y te ganará por su experiencia» &#8211; Mark Twain</p>
+</blockquote>
+<p>Según se van añadiendo cumpleaños a mi memoria, voy siendo más y más consciente de lo limitado de mi tiempo. De que quiero hacer cosas. No para dejar «huella». No para ser más que nadie. No porque quiera conseguir esta o aquella meta. Las metas son lejanas. Quiero hacer esas cosas, simplemente porque me hacen feliz. Trabajar porque me hace feliz, aprender porque me hace feliz, correr porque me hace feliz, levantarme temprano para poder hacer todas estas cosas, que me hacen feliz.</p>
+<p>Sólo si eres feliz haciendo cosas podrás entenderme. Si no, seguirás preguntándote <em>¿Por qué?</em> en lugar de hacer.</p>
+<p>Haz cosas. Te harán feliz.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

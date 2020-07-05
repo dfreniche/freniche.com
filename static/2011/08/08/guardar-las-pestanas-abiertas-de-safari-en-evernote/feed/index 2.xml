@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Guardar las pestañas abiertas de Safari en Evernote</title>
+	<atom:link href="/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/comment-page-1/#comment-20589</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2011 21:52:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1575#comment-20589</guid>
+		<description><![CDATA[Gracias Jose! Me tenía como loco el no acordarme, y buscar en tus propios tweets es misión imposible.
+
+Así queda claro quién encontró el script :-)]]></description>
+		<content:encoded><![CDATA[<p>Gracias Jose! Me tenía como loco el no acordarme, y buscar en tus propios tweets es misión imposible.</p>
+<p>Así queda claro quién encontró el script 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Jose Norberto</title>
+		<link>/2011/08/08/guardar-las-pestanas-abiertas-de-safari-en-evernote/comment-page-1/#comment-20588</link>
+		<dc:creator><![CDATA[Jose Norberto]]></dc:creator>
+		<pubDate>Mon, 08 Aug 2011 21:39:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1575#comment-20588</guid>
+		<description><![CDATA[El que te paso el script fui yo... :-P]]></description>
+		<content:encoded><![CDATA[<p>El que te paso el script fui yo&#8230; 😛</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

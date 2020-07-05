@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>siteground &#8211; freniche.com</title>
+	<atom:link href="/tag/siteground/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El Domingo nos hackearon el servidor</title>
+		<link>/2008/03/19/el-domingo-nos-hackearon-el-servidor/</link>
+		<pubDate>Wed, 19 Mar 2008 13:16:52 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[www.freniche.com]]></category>
+		<category><![CDATA[freniche.com]]></category>
+		<category><![CDATA[hacking]]></category>
+		<category><![CDATA[siteground]]></category>
+
+		<guid isPermaLink="false">/2008/03/19/el-domingo-nos-hackearon-el-servidor/</guid>
+		<description><![CDATA[El pasado Domingo 16 fue uno de esos días en que se te rompe el ordenador y sientes como una náusea permanente, sensación de disgusto que sólo se arregla cuando todo vuelve a funcionar. Es esa sensación que sólo un adicto a los ordenadores entiende y que tan bien se refleja en el episodio de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p align="justify">El pasado Domingo 16 fue uno de esos días en que se te rompe el ordenador y sientes como una náusea permanente, sensación de disgusto que sólo se arregla cuando todo vuelve a funcionar. Es esa sensación que sólo un adicto a los ordenadores entiende y que tan bien se refleja en el episodio de <a href="http://muchachadanui.rtve.es/videos/05-enjuto-mojamuto.html">Enjuto Mojamuto: El peor día de mi vida</a>.</p>
+<p align="justify">Bueno, el ordenador «roto» no era mío exactamente. Tampoco estaba roto. Algunos inútiles con mucho tiempo libre se dedicaron a localizar una vulnerabilidad en algún script del servidor que utiliza freniche.com de forma compartida con otros dominios (ésto último quiere decir que freniche.com comparte el mismo ordenador con otros muchos dominios, cosa que puedes comprobar por ejemplo en http://www.yougetsignal.com/tools/web-sites-on-web-server/). El caso es que, debido a esa vulnerabilidad pudieron escribir en los ficheros HTML de mi sitio. Y, claro, inyectaron HTML malicioso, de ese que descarga algo a tu ordenador sin que tú sepas nada, normalmente cuando usas un S.O. desde una cuenta con privilegios de administrador y con un navegador muy, muy integrado con ese S.O. Puedes evitar estos riesgos siguiendo <a href="/articulos/haciendo-winxp-un-poco-mas-seguro/">unos sencillos consejos</a>.</p>
+<p align="justify">Tras toda la tarde del Domingo con el dominio regular, hice copia de seguridad de lo que pude y los chicos de Siteground restauraron la situación. Bueno, casi. El Typo3 que está en freniche.com sobrevivió sin problemas. El WordPress alojado en freniche.com/wp/ no se recuperó del todo. Esa ha sido la razón, entre otras, de mover el blog a un subdominio de freniche.com. Al final, el sitio que tienes ante tus ojos se llama (y espero que por mucho tiempo) blog.freniche.com.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

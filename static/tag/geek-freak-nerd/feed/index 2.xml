@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Geek Freak Nerd &#8211; freniche.com</title>
+	<atom:link href="/tag/geek-freak-nerd/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Fraudismo 101 &#8211; El audiolibro</title>
+		<link>/2015/09/03/fraudismo-101-el-audiolibro/</link>
+		<pubDate>Thu, 03 Sep 2015 07:11:25 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[fraudismo]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+
+		<guid isPermaLink="false">/?p=2687</guid>
+		<description><![CDATA[Bueno, mejor el podcast, pero como es un ladrillo de dos horas, casi que podemos considerarlo un libro. Junto con José A. Blanco he perpetrado el episodio 40 del podcast en el que participo, We.Developers. Tengo la enorme suerte de que dos fantásticas personas (José, Ramón) me dejen compartir podcast. Y ser el más tonto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Bueno, mejor <em>el podcast</em>, pero como es un ladrillo de dos horas, casi que podemos considerarlo un libro. Junto con José A. Blanco he perpetrado <a href="http://wedevelopers.com/2015/09/03/we-developers-040-como-ser-desarrollador/">el episodio 40 del podcast</a> en el que participo, We.Developers. Tengo la enorme suerte de que dos fantásticas personas (<a href="http://twitter.com/jablanco">José</a>, <a href="http://twitter.com/m3drano">Ramón</a>) me dejen compartir podcast. Y ser el más tonto de la habitación.</p>
+<p>Es este episodio repasamos lo hablado en la serie de El Fraudismo, lo miedos, tics, fobias y problemas a los que nos enfrentamos los informáticos y concretamente los programadores. Aunque también hablamos de cómo gestionar equipos y de otras cosas. ¡Dos horas dan para mucho, especialmente a mí, que se me va la pinza!</p>
+<p>Si tienes anécdotas, has escrito sobre el tema, tienes algo que contarnos, déjanos un comentario en la entrada del podcast. Pásate aunque sea <em>para ver los enlaces a los posts de Joel Spolsky que deberías leer, sí o sí</em>.</p>
+<p>Cierro así la serie de El Fraudismo, para pasar a otros temas. Que me pongo muy pesado. Ahora tengo que buscar tiempo para publicar el libro + audiolibro en Amazon.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Fraudismo 101 &#8211; Here be dragons</title>
+		<link>/2015/08/27/fraudismo-101-here-be-dragons/</link>
+		<comments>/2015/08/27/fraudismo-101-here-be-dragons/#comments</comments>
+		<pubDate>Thu, 27 Aug 2015 16:36:31 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[fraudismo]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+
+		<guid isPermaLink="false">/?p=2679</guid>
+		<description><![CDATA[Este post pertenece a la serie Fraudismo 101, dedicada a las fobias y filias del informático. Puedes leer todos sus posts en la selección de mis posts favoritos Diez de la mañana. Tras leer el correo, ver Twitter y otras actividades de misión crítica, accedes a aquella carpeta. Abres un proyecto de hace un año. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<blockquote>
+<p>Este post pertenece a la serie Fraudismo 101, dedicada a las fobias y filias del informático. Puedes leer todos sus posts en <a href="/mis-entradas-favoritas/">la selección de mis posts favoritos</a></p>
+</blockquote>
+<p>Diez de la mañana. Tras leer el correo, ver Twitter y otras actividades de misión crítica, accedes a aquella carpeta. Abres un proyecto de hace un año. ¡Menuda basura de código <em>tiraba</em> entonces!</p>
+<p>¿Quién no ha sentido ese escalofrío alguna vez? Ese momento en el que abres un viejo proyecto y miras el código que escribiste <em>hace tanto tiempo</em>. Es decir, hace dos meses. Casi no quieres mirar, con miedo a lo que puedes encontrar.</p>
+<p>Bueno, eso si puedes abrirlo, claro. Si no ha cambiado en dos meses el IDE, el Sistema Operativo, el lenguaje y el encoding de los ficheros. Pero siempre nos quedará <code>vi</code>. Bueno, también admito Notepad.exe. Sigamos.</p>
+<p>Haciendo un supremo esfuerzo te asomas al abismo de tu estupidez pasada. Sientes vértigo. Y ves los dragones. Te miran, revolcándose en tu miedo, en tu vergüenza, en tu falta de Unit Tests, en tu programar <em>de espaldas al interfaz</em>, en tu inconsistencia al nombrar variables. En esa clase con el nombre empezando en minúsculas. No hay <strong>nada</strong> que se pueda salvar de esta basura. ¿Cómo he podido <em>perpetrar</em> este código? te preguntas. ¡He definido un número como un <code>int</code>! ¡Me he acoplado!</p>
+<h2>¡Nunca entraré en la <em>Iglesia de la CleanCodeología</em>!</h2>
+<p>¿Seguro que todo es tan malo? ¿Es un asco absoluto? ¿Estás seguro de que tu código te hace digno de ser azotado en la plaza del pueblo? ¿Nunca vas a tener el autógrafo de <em>Uncle Bob</em>? Te voy a contar un secreto: <strong>tu código no era/es tan malo</strong>: ¿No compila? ¿No resolvió el problema hace dos meses? Si da respuesta a los requisitos del usuario y funciona bien, sin errores, probablemente no sea tan malo.</p>
+<p>Y ahora, lo bueno:</p>
+<blockquote>
+<p>Si eres capaz de ver mejoras en código tuyo que escribiste hace un tiempo, enhorabuena: eso significa que <em>ahora</em> eres mejor programador.</p>
+</blockquote>
+<p>Lo malo sería que pasen los años y continúes satisfecho all 100% del código que escribiste. Que es distinto de estar satisfecho del producto/proyecto. Me explico. El producto/proyecto es lo que disfruta el cliente. El código es lo que tú ves y conoces que está ahí. Es como en un hotel: tú disfrutas la habitación, las piscinas, el comedor. Pero no ves las cocinas, las máquinas del ascensor, los cuartos donde se guardan los carritos de la limpieza, las tuberías. Lo feo. Por eso hay veces que estás contento con una aplicación o web que hiciste, aunque sepas que se podría haber escrito mejor. Lo sabes ahora, claro.</p>
+<p>Esta es la clave: tú no estás quieto en el tiempo. Y cuando empiezas un proyecto conoces el problema que tratas de solucionar bastante peor que al final. Por eso al final sabes que deberías haber empezado de esta u otra forma. Claro, porque ahora realmente entiendes de qué va tu programa. Ahora has dedicado montones de horas a resolver el problema y conoces mejor a tu usuario. Ahora todo es más fácil si recomenzáramos, pero no hay que avergonzarse de lo ya hecho.</p>
+<p>Lo más normal es que ahora, que entiendes bien el problema y conoces mucho mejor tu lenguaje/framework escribas mejor código. Si no es así, sí debes empezar a preocuparte: estás en una Cárnica, en un proyecto estancado o escribes cosas en un blog en vez de subir código a GitHub.</p>
+<h2>El ansia de lo nuevo</h2>
+<p>Y claro, mientras estamos en pleno proyecto leemos sobre alguna nueva herramienta, nos hablan de una librería, vemos un vídeo o leemos un libro y seguimos aprendiendo. Y queremos poner esas ideas en practica inmediatamente. Error.</p>
+<blockquote>
+<p>En cada proyecto, aprende una o dos técnicas nuevas e incorpóralas para siempre a tu caja de herramientas.</p>
+</blockquote>
+<p>Si durante el proyecto te comentan una nueva forma de hacer Unit Testing, y es muy sencillo aplicarla, hazlo. Si no, crea un proyecto de pruebas para «rascarte ese picor» y prueba ahí la nueva técnica. Una vez la tengas entrenada, aplícala en el siguiente proyecto. Si no, estarás añadiendo cosas que, en teoría mejoran el proyecto pero que realmente te retrasan del objetivo: entregarlo. Y es así porque, seamos sinceros, esas nuevas técnicas no estaban planificadas en ningún <em>sprint</em>, ¿cierto? Pues eso: practica, anota y aplica en el siguiente. Pero no lo uses como excusa para procrastinar.</p>
+<p>Y piensa que siempre estarán ahí. No van a desaparecer por no usarlas <em>de golpe</em>. Deja que maduren, y termina tu proyecto. Pruébalas y cuando estén preparado úsalas. Experimenta con gaseosa.</p>
+<h2>Rewrite from scratch</h2>
+<p>Y recuerda: a medida que conozcas mejor el problema que solucionas y la tecnología, mayor será la tentación de <em>tirarlo todo a la basura y volver a empezar</em>. No lo hagas. Lee mejor a <a href="http://www.joelonsoftware.com/articles/fog0000000069.html">Joel Spolsky</a>.</p>
+<p>Como verás en ese artículo (¿qué haces aquí? ¡vete y lee eso, que es oro puro!), leer código es mucho más difícil que escribirlo. Tienes que volver a pensar en qué solucionaba ese código. Meterte en la cabeza de otro (aunque sea tu cabeza de hace dos meses). Eso cuesta. Por eso inmediatamente <em>sabemos</em> que nuestro código antiguo es una basura. Porque no queremos leerlo de nuevo.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/08/27/fraudismo-101-here-be-dragons/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Fraudismo 101 &#8211; enseñar las vergüenzas</title>
+		<link>/2015/08/11/fraudismo-101-ensenar-las-verguenzas/</link>
+		<comments>/2015/08/11/fraudismo-101-ensenar-las-verguenzas/#comments</comments>
+		<pubDate>Tue, 11 Aug 2015 08:58:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[fraudismo]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Informática]]></category>
+
+		<guid isPermaLink="false">/?p=2675</guid>
+		<description><![CDATA[Tu jefe entra a la oficina. Es Lunes, son las 9:30 y se nota el cansancio del fin de semana, el cansancio de los que nacieron cansados, el cansancio de las quejas por lo malo que es el trabajo (pero eso sí, no hago nada por mejorar como, por ejemplo, irme que me da pereza). [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Tu jefe entra a la oficina. Es Lunes, son las 9:30 y se nota el cansancio del fin de semana, el cansancio de los que nacieron cansados, el cansancio de las quejas por lo malo que es el trabajo (pero eso sí, no hago nada por mejorar como, por ejemplo, irme <em>que me da pereza</em>). Cansancio. Eso y ganas de ir a desayunar. En medio de la granja de cubículos el jefe anuncia a voz en cuello, sobresaltando a varios:</p>
+<ul>
+<li>«a partir de mañana vamos a instalar un Wall Screen en la entrada. En este Wall Screen vamos a poner una secuencia de capturas de vuestro código sacado de los repositorios de la compañía junto con vuestro nombre y una foto. Con animaciones chulas, para impresionar a los clientes que vengan y puedan leer el código que escribimos». En broma añade: «es eso o venir a trabajar en pelotas». </li>
+</ul>
+<p>El Martes, todos fueron en bolas.</p>
+<hr />
+<p>Esto, que puede parecer exagerado, es lo que se produciría si de pronto tu compañía le mostrase a todo el mundo tu código de golpe. Bueno, quizás no irías desnudo, pero los niveles de ansiedad y <em>mala leche</em> se dispararían bastante. Enseñar tu código es una de las cosas que más estrés produce del mundo, junto con el examen del carnet de conducir y dejarle el móvil desbloqueado a tu pareja. Dado que <a href="/2015/07/28/fraudismo-101-todos-lo-saben-todo/">el resto ya lo sabe todo</a> y que sabemos que somos unos <a href="/2015/07/23/el-agobio-de-repuesto/">fraudes</a>, la perspectiva de enseñar nuestro código hace que el cerebro entre en pánico.</p>
+<p>Lo que tu cerebro imagina que va a pasar: al llegar a la oficina, todo el mundo se va a poner en pie, señalándote con el dedo y riéndose de ti, mientras terminan de colocar pancartas con «El código de Diego apesta» escrito con pintura roja y te lanzan verduras podridas a la cabeza. Te sientas y todo el que pasa te da una palmada en la cabeza junto con un cariñoso «pringao». Te han quitado el ordenador para que no perpetres más crímenes contra el Clean Coding. El tonto de la oficina se sienta a tu lado y cada dos minutos te da un golpecito en el hombro y te susurra «loser». Godzilla está en camino para comerse tu coche. Tu pareja te llama porque «tenemos que hablar».</p>
+<p>Lo que de verdad pasaría: <em>nada</em>.</p>
+<p>Y sin embargo estos miedos llenan de pesadillas las noches de los programadores. Esa es la razón de tantas risitas nerviosas cuando había que unir el código de todos en las prácticas de la Universidad. O por qué cuando se asoma tu jefe a «ver cómo va eso, que le enseñes algo» siempre se piden 10 minutos más, que ya «casi casi está, un momentito que ahora te lo enseño». Miedo. Al rechazo de tus compañeros. A no dar <a href="/2015/08/08/fraudismo-101-senior-en-6-meses/">el nivel que se espera</a>. A Godzilla. Es que no he terminado de pagar el coche.</p>
+<p>Quizás el 10% de los que programan en la oficina se fijaría en tu código (que no son todos los que andan por allí). De esos, algunos usan tu mismo lenguaje, otros no. Así que estos asumen que lo haces bien porque <a href="/2015/08/08/fraudismo-101-senior-en-6-meses/">para ellos ya eres senior</a>. Y los que lo entienden, probablemente te hagan algún comentario positivo sobre cómo lo hacen ellos. Si es que es distinto. O que usan tal o cual librería, con lo que aprendes. O que gracias a tu código han aprendido cosas (¡de ti, de un Fraude, inaudito!). Al compartir <em>siempre</em> ganas. En este caso, al recibir críticas de tu código aprenderás horrores en muy poco tiempo, sin los <em>horrores</em> que imaginas.</p>
+<p>«Recibir críticas == terror». Pues no. Yo invoco siempre este mantra cuando tienen que mirar mi código (por ej. en una code review):</p>
+<blockquote>
+<p>cuando critican mi código sólo critican mi código, no a mi</p>
+</blockquote>
+<p>Es así de simple. Sólo puedes saber lo que haces mal comparando con otros que lo hacen mejor. En cuyo caso aprenderás. Si no contrastas, no aprendes. Puedes aprender leyendo libros, pero al dejar que otras personas revisen tu código comparas de golpe con todos los libros que <em>ellos</em> ya han leído, gratis.</p>
+<p>Y la gente es buena.</p>
+<h2>El doble G</h2>
+<p>Pero claro, siempre está ahí el miedo a encontrarte con el doble G (Gran Gilipollas) que sabe mucho y se reirá de ti. En mi experiencia (unos cuantos años ya) he deducido que el doble G es una ilusión paranoide colectiva producida por el exceso de radiaciones que recibimos de nuestros ordenadores. No existe. O yo no lo he visto. Es como BigFoot.</p>
+<p>Si alguien sabe mucho normalmente es porque tiene lo que llamamos <em>experiencia</em>, que consiste en cometer todas las posibles equivocaciones y luego ser capaz de recordarlas. Si no las recuerdas eres un yo. Alguien así o bien te va a comentar cómo mejorar (porque ya lo sabe) o va a estar liado con sus cosas de <em>senior</em> y no va a tener tiempo para dedicarse a ti. Pero siempre te podrá recomendar un libro, un blog, un video. ¿Qué sentido tiene reírse del que no sabe? ¡Si ya sabes que no sabe!</p>
+<h2>Comparte</h2>
+<p>Mi experimento de los Wall Screens nunca se ha llevado a cabo tal cual. Pero existe, en la forma de repositorios públicos de código, vídeos donde apareces dando una charla a un grupo de compañeros o posts de tu blog donde hablas de tal o cual tema que ahora has dominado. Cuanto más compartas, mejor. Porque para apaciguar al monstruo del miedo no tendrás más remedio que profundizar, revisar, aprender, mejorar. Porque Godzilla te da miedo, ¿recuerdas? Luego escribir un inocente post sobre algo probablemente te convierta en un experto en ese algo. Al menos, <em>más experto de lo que eras antes</em>.</p>
+<p>Combate el miedo publicando cosas. Total, lo más que te pueden decir es que <a href="/2015/07/28/fraudismo-101-todos-lo-saben-todo/">yo ya lo sabía</a> o que <a href="/2015/07/23/el-agobio-de-repuesto/">eres un fraude</a>.</p>
+<p>P.D.: Por cierto, y por si no lo has percibido, he creado un <em>mantra</em>. Mi carrera hacia el Olimpo gafapástico de gurú de salón avanza que da gusto.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2015/08/11/fraudismo-101-ensenar-las-verguenzas/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Veamos cómo tienes de largo tu Dock</title>
+		<link>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/</link>
+		<comments>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/#comments</comments>
+		<pubDate>Thu, 11 Aug 2011 09:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[chorradas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Mac]]></category>
+
+		<guid isPermaLink="false">/?p=1579</guid>
+		<description><![CDATA[Se me ha ocurrido una tontería, y no he podido evitar escribir esto. Estaba mirando mi Dock y he pensado «menos mal que tengo 27&#8243;, que si no no me caben más aplicaciones». Luego se me ha ocurrido «¿habrá quien tenga más cosas en su Dock que yo?» y he inventado El Gran Concurso Mundial [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Se me ha ocurrido una tontería, y no he podido evitar escribir esto. Estaba mirando mi Dock y he pensado «menos mal que tengo 27&#8243;, que si no no me caben más aplicaciones». Luego se me ha ocurrido «¿habrá quien tenga más cosas en su Dock que yo?» y he inventado <strong>El Gran Concurso Mundial De A Ver Quien Tiene El Dock Más Largo</strong>, así, con todas las palabras empezando por mayúsculas que molesta más.</p>
+<p style="text-align: justify;">Respondedme con vuestras capturas del Dock, subidas donde os parezca, en los comentarios. Y si somos  muchos, podemos hacer una comunidad absurda más, total, si hay gente que le da al <a href="http://en.wikipedia.org/wiki/Planking_(fad)">planking</a>&#8230;</p>
+<p style="text-align: justify;">Así que os reto ¿alguien lo tiene más largo que yo?&#8230; el Dock, digo, claro.</p>
+<div id="attachment_1580" style="width: 65px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/dock.png"><img class="size-full wp-image-1580" title="Dock" src="/wp-content/uploads/2011/08/dock.png" alt="Dock" width="55" height="2551" /></a><p class="wp-caption-text">Dock</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/11/veamos-como-tienes-de-largo-tu-dock/feed/</wfw:commentRss>
+		<slash:comments>7</slash:comments>
+		</item>
+		<item>
+		<title>Mi oficina en casa (Home Office), Junio 2011</title>
+		<link>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/</link>
+		<comments>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/#comments</comments>
+		<pubDate>Mon, 18 Jul 2011 17:01:25 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[iMac]]></category>
+
+		<guid isPermaLink="false">/?p=1540</guid>
+		<description><![CDATA[Me gusta el porno Geek. Y mucho. Eso de mirar chismes «me pone». Y no te rías: si estás leyendo esto, es porque te gusta esa variante del porno Geek, para voyeurs, llamada Home Office Setups. Me encanta ver las oficinas de otras personas (si son informáticos mejor, ya que entonces el factor Geek se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me gusta el <em>porno Geek</em>. Y mucho. Eso de mirar chismes «me pone». Y no te rías: si estás leyendo esto, es porque te gusta esa variante del porno Geek, para voyeurs, llamada Home Office Setups. Me encanta ver las oficinas de otras personas (si son informáticos mejor, ya que entonces el factor Geek se multiplica).</p>
+<p style="text-align: justify;">Comencé esta afición con dos clásicos, las increíbles oficinas de <a href="http://www.biscade.com/office/">Mitch Haile</a> y de <a href="http://www.stefandidak.com/">Stefan Didak</a>. Vídeos como los de <a href="http://www.youtube.com/watch?v=nlWx1cDvDs4&amp;hd=1">Bilsta57</a> no me ayudaron mucho a superar este vicio. Finalmente me hice seguidor de <a href="http://www.workstationsetups.com/">Workstation Setups</a> en Twitter. Y ahora he dado un paso más. Ya que mucha gente tiene curiosidad en ver cómo amontono los ordenadores que atesoro, he decidido hacer una fotos (bastante malas, aviso), y subirlas a Flickr. Abajo tienes una presentación «bonita» de las fotos, pero si quieres, puedes <a href="http://www.flickr.com/photos/dfreniche/sets/72157626871600533/">ir a Flickr</a> y ver las fotos con sus descripciones, comentarlas, etc.</p>
+<p><object width="700" height="525"><param name="flashvars" value="offsite=true&#038;lang=en-us&#038;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2Fshow%2F&#038;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2F&#038;set_id=72157626871600533&#038;jump_to="></param><param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=104087"></param><param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=104087" allowFullScreen="true" flashvars="offsite=true&#038;lang=en-us&#038;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2Fshow%2F&#038;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157626871600533%2F&#038;set_id=72157626871600533&#038;jump_to=" width="700" height="525"></embed></object></p>
+<p>Ya sabes, me encantaría que me enseñaras tus «vídeos caseros». En el buen sentido, claro <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/07/18/mi-oficina-en-casa-home-office-junio-2011/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Una mañana de trabajo cualquiera</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/</link>
+		<comments>/2011/04/05/una-manana-de-trabajo-cualquiera/#comments</comments>
+		<pubDate>Tue, 05 Apr 2011 11:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1453</guid>
+		<description><![CDATA[Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para mi querido Amstrad CPC 464 con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para <a href="http://freniche.com/wp/?page_id=4">mi querido Amstrad CPC 464</a> con el monitor fósforo verde, con su unidad de casetes. El único periférico que tenía era un Joystick. Y a usarlo. Pero veía en las películas a gente en países lejanos y extraños, en salas llenas de ordenadores.</p>
+<p style="text-align: justify;">Como el programador de Parque Jurásico (que, por supuesto, además de ser el malo, cobarde y torpe, estaba mal pagado y era gordo y feo). Por cierto, si veis de nuevo JP os llamarán la atención dos cosas: una, que están programando fumando, algo impensable en cualquier entorno de hoy en día. La otra, que el sistema de «bug tracking» que usan es una libreta donde van anotando los errores <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/RfiQYRn7fBg"" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/RfiQYRn7fBg""></param></object></div>
+</div>
+<p style="text-align: justify;">Volviendo al tema que me traía aquí, en esta mañana he comenzado <a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/">programando en C</a>, en el IDE Eclipse corriendo sobre Windows 7. Ese <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">Windows 7 está instalado en mi MBP</a>. Por si fuera poco frikismo, he usado el escritorio remoto de Windows para programar esos ejemplos en una ventana del iMac de 27&#8243;, que para eso tengo una pantalla grande. Mientras programaba iba actualizando la presentación de Keynote que acompaña al curso, en el iMac. Sonaba la música desde iTunes, donde estaba restaurando mi iPhone 3Gs con una copia de seguridad de ayer: mis niños han borrado algunas fotos en un descuido.</p>
+<p style="text-align: justify;">He terminado con C y me he pasado a WordPress. Arrancando una máquina virtual VMWare de <a href="http://bitnami.org/">Bitnami</a>, que ya tiene un entorno WP completo sobre Linux, me he dedicado a crear un nuevo sitio para migrar una vieja web que hice hace ya la tira en Typo3. Es decir, instala plugins, widgets, temas, escribe posts, importa información, etc.</p>
+<p style="text-align: justify;">Ahora toca pensar en el próximo curso de Java EE que tengo que impartir a finales de mes. Java, Servlets, EJBs, JBoss, Eclipse de nuevo (aunque ahora en su «sabor» Java). Tendré que ojear un libro, que tengo en formato CHM (formato típico de Windows en otra época). Y luego, un poco de Objective C para comenzar un proyecto iPad que me han encargado. Tengo cosas que leer de UML&#8230;</p>
+<p style="text-align: justify;">Es por este desbarajuste de trabajo que tengo, con tantas tecnologías, frameworks, lenguajes, herramientas y entornos distintos por lo que amo a mis dos Macs. Necesito ser anti-minimalista, ya que si lo fuera no podría hacer la mitad de las cosas que hago. Esta es la razón de haber <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">ampliado mi iMac a 12 GB de RAM</a>. Aún así, procuro no instalar nada si ya tengo una aplicación que hace más o menos lo mismo, que si no acabas con un montón de aplicaciones similares que no acabas de dominar en profundidad.</p>
+<p style="text-align: justify;">Bueno, sigo, que quiero ir terminando. Que no hace mucho me comentaron que a lo mejor tengo que aprender <a href="http://clipsrules.sourceforge.net/">CLIPS</a>&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/05/una-manana-de-trabajo-cualquiera/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Imagenes descargables de Snow Leopard y Lion</title>
+		<link>/2011/02/25/imagenes-descargables-de-snow-leopard-y-lion/</link>
+		<pubDate>Fri, 25 Feb 2011 10:28:16 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[humor]]></category>
+		<category><![CDATA[retard]]></category>
+
+		<guid isPermaLink="false">/?p=1407</guid>
+		<description><![CDATA[Aquí los tienes, en un combo, cómodo de descargar y usar en tu ordenador. Las imágenes son de Snow Leopard y de Lion. ¡Pasando de NDAs, secretos e historias! No sólo los programadores van a disfrutar de la pre-release de Lion. La información debe ser libre. Y otra más: Bueno, ¿qué esperabais? No quiero que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Aquí los tienes, en un combo, cómodo de descargar y usar en tu ordenador. Las imágenes son de Snow Leopard y de Lion. ¡Pasando de NDAs, secretos e historias! No sólo los programadores van a disfrutar de la pre-release de Lion. La información debe ser libre.</p>
+<p><span id="more-1407"></span></p>
+<div id="attachment_1409" style="width: 1034px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg"><img class="size-full wp-image-1409" title="Download Snow Leopard &amp; Lion :-)" src="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg" alt="Download Snow Leopard &amp; Lion :-)" width="1024" height="768" srcset="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg 1024w, /wp-content/uploads/2011/02/SnowLeopardLion11-300x225.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><p class="wp-caption-text">Download Snow Leopard &amp; Lion <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Y otra más:</p>
+<div id="attachment_1410" style="width: 1034px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/SnowLeopardLion2.jpg"><img class="size-full wp-image-1410" title="Snow Leopard &amp; Lion" src="/wp-content/uploads/2011/02/SnowLeopardLion2.jpg" alt="Snow Leopard &amp; Lion" width="1024" height="768" srcset="/wp-content/uploads/2011/02/SnowLeopardLion2.jpg 1024w, /wp-content/uploads/2011/02/SnowLeopardLion2-300x225.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></a><p class="wp-caption-text">Snow Leopard &amp; Lion</p></div>
+<p>Bueno, ¿qué esperabais? No quiero que Steve me eche de su walled garden <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p><em>This post is sponsored by the <strong>Save a Troll Foundation. Feel free to Troll in the comments. </strong>You know you need to vent.</em></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Kubrick era un genio: él ya sabía lo del iPad</title>
+		<link>/2010/12/02/kubrick-era-un-genio-el-ya-sabia-lo-del-ipad/</link>
+		<comments>/2010/12/02/kubrick-era-un-genio-el-ya-sabia-lo-del-ipad/#comments</comments>
+		<pubDate>Thu, 02 Dec 2010 09:31:36 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[2001]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+
+		<guid isPermaLink="false">/?p=1292</guid>
+		<description><![CDATA[Que Kubrick es mi director de cabecera no es ningún secreto para cualquiera que me conozca. Desde que vi, con 15 años creo recordar, por primera vez 2001 he sido seguidor suyo incondicional. Recuerdo que ponían la película en un cine de Sevilla que ya hoy no existe, el Corona Center, especializado en cine de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_1294" style="width: 650px" class="wp-caption alignleft"><a href="/wp-content/uploads/2010/12/iPad2001.png"><img class="size-full wp-image-1294 " title="iPad en 2001 :-)" src="/wp-content/uploads/2010/12/iPad2001.png" alt="iPad en 2001 :-)" width="640" height="360" srcset="/wp-content/uploads/2010/12/iPad2001.png 800w, /wp-content/uploads/2010/12/iPad2001-300x168.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a><p class="wp-caption-text">iPad en 2001 <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;">Que Kubrick es mi director de cabecera no es ningún secreto para cualquiera que me conozca. Desde que vi, con 15 años creo recordar, por primera vez <a href="http://www.imdb.com/title/tt0062622/">2001</a> he sido seguidor suyo incondicional. Recuerdo que ponían la película en un cine de Sevilla que ya hoy no existe, el Corona Center, especializado en cine de autor y en V.O. Fui con una mezcla de curiosidad y respeto, porque todo el mundo me decía que si era una película rara, que si no se entendía, que si era antigua&#8230; Quedé aplastado en la butaca desde la primera secuencia y me capturó al instante. Y me resultó bastante obvia, por cierto. Sólo hay que tener un poquito de imaginación. Pero claro, si triunfa Gran Hermano será porque a todo el mundo no le gusta lo mismo.</p>
+<p style="text-align: justify;">Es una de esas películas que no me canso de ver, como las de Star Wars, Casablanca o el Señor de los Anillos. El caso es que hace unos días la estaba viendo de nuevo, en DVD y me quedé sobrecogido al darme cuenta de que Kubrick realmente era un genio. En la película los protagonistas usan un tablet. Con un aspecto bastante similar al de nuestros iPads de hoy día. Sorprende para una película de 1968 esa visión. Pero lo que más es impactó es el uso que le daban al tablet. Lejos de gráficos absurdos u otros usos «futuristas», Kubrick prevee que en 2001 los tablets se utilizarán para consumir contenido multimedia: para ver la tele en «diferido». Concretamente un informativo de la BBC que, obviamente, les han enviado desde el control de misión en la Tierra y que ellos ven en su tableta. Ojo, que usan la tableta mientras comen, lo cual quiere decir que, o bien el vídeo está almacenado en la propia tablet (memoria interna con esa capacidad en 1968?) o bien que hacen streaming desde HAL 9000 usando WiFi. FTW Kubrick!</p>
+<p style="text-align: justify;">
+<div id="attachment_1295" style="width: 650px" class="wp-caption alignleft"><a href="/wp-content/uploads/2010/12/iPad2001-2.png"><img class="size-full wp-image-1295 " title="Cada uno con su iPad en 2001" src="/wp-content/uploads/2010/12/iPad2001-2.png" alt="Cada uno con su iPad en 2001" width="640" height="360" srcset="/wp-content/uploads/2010/12/iPad2001-2.png 800w, /wp-content/uploads/2010/12/iPad2001-2-300x168.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a><p class="wp-caption-text">Cada uno con su iPad en 2001</p></div>
+<p style="text-align: justify;">En cualquiera de los dos casos asusta ver cómo acierta en la película con muchas cosas. Como cuando se realiza una video llamada desde la Luna (video conferencia, FaceTime de Apple, Skype, &#8230;) o cuando el Dr. Dave Bowman juega al ajedrez con HAL 9000 usando comandos de voz (VoiceOver). O las pantallas en los asientos de los aviones para entretener a los pasajeros. También hay detalles tiernos para un informático, como el ofrecer datos en formato tarjeta perforada :-). No todo lo iban a acertar.</p>
+<p style="text-align: justify;">
+<div id="attachment_1296" style="width: 650px" class="wp-caption alignleft"><a href="/wp-content/uploads/2010/12/FaceTime.png"><img class="size-full wp-image-1296 " title="FaceTime en 2001 :-)" src="/wp-content/uploads/2010/12/FaceTime.png" alt="FaceTime en 2001 :-)" width="640" height="360" srcset="/wp-content/uploads/2010/12/FaceTime.png 800w, /wp-content/uploads/2010/12/FaceTime-300x168.png 300w" sizes="(max-width: 640px) 100vw, 640px" /></a><p class="wp-caption-text">FaceTime en 2001 <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Por supuesto, todos los derechos de las anteriores imágenes están reservados por la WB y sus respectivos propietarios. Vamos, que no me mandéis los abogados.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/02/kubrick-era-un-genio-el-ya-sabia-lo-del-ipad/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>NSCoder Nights Sevilla</title>
+		<link>/2010/11/12/nscoder-nights-sevilla/</link>
+		<comments>/2010/11/12/nscoder-nights-sevilla/#comments</comments>
+		<pubDate>Fri, 12 Nov 2010 09:58:27 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1239</guid>
+		<description><![CDATA[Me ha tocado organizar el capítulo de Sevilla de las NSCoder Nights, y en ello estamos. El próximo Lunes 15, a las 19:00 estaremos en la ETSII Facultad de Matemáticas de Reina Mercedes. El aula aún está por confirmar, pero si después de leer esto te interesa venir, toda la información se va a ir publicando de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me ha tocado organizar el capítulo de Sevilla de las NSCoder Nights, y en ello estamos. El próximo Lunes 15, a las 19:00 estaremos en la ETSII Facultad de Matemáticas de Reina Mercedes. El aula aún está por confirmar, pero si después de leer esto te interesa venir, toda la información se va a ir publicando de dos formas:</p>
+<ul>
+<li>en la <a href="http://nscoder-sev.tumblr.com/">web de NSCoder Nights Sevilla</a></li>
+<li>en la <a href="http://twitter.com/nscoder_sev">cuenta de Twitter NSCoder_sev</a></li>
+</ul>
+<blockquote><p>&#8211; Bueno, ¡ya está bien con los anuncios!. ¿Pero qué es esto de los NSCoder Nights? ¿Algo porno? ¿Y porqué el nombre en Inglés, pedantes, que sois unos pedantes?</p></blockquote>
+<p>Las dudas se resuelven en las FAQ, que puedes consultar aquí. Por responder rápido a tus tres preguntas:</p>
+<ul>
+<li>es una reunión periódica de programadores para tomar café / cerveza / whatever y hablar de nuestras cosas</li>
+<li>no, no es nada porno, ni ilegal. Pero si alguien se trae un disco duro lleno de pelis, seguro que le encontramos utilidad</li>
+<li>somos unos pedantes, pero es que estas reuniones <a href="http://nscodernight.com/">las inventaron en EE.UU.</a> y queremos montar algo similar en España (ya ha empezado en <a href="http://nscoder-vlc.tumblr.com/">Valencia</a>, pronto en <a href="http://nscoder-mlg.tumblr.com/">Málaga</a>, <a href="http://twitter.com/nscoder_bcn">Barcelona</a>, <a href="http://twitter.com/#!/nscoder_gjn">Gijón</a> y <a href="http://nscoder-mad.tumblr.com/">Madrid</a>) de forma que si viajas a una ciudad con NSCoder Night y te apetece, te pases. <em>Sí, es una secta</em>.</li>
+</ul>
+<p>Pero ahora, de mi cosecha, te explico de qué va esto.</p>
+<p style="text-align: justify;">La informática es una profesión vocacional. Cierto, hay gente que no ha estudiado esto y programa (o lo intenta), o que trabaja en el sector sin ser Informático. Pero es algo vocacional. De otra manera nadie aguantaría unos estudios en los que no hay nadie del otro sexo, sólo tíos raros y feos y frikis (¡horror, que yo soy otro de esos!). Y encima, cada 10 años ¡vuelta a empezar!. ¿O alguien usa el S.O. de hace 10 años? ¿Windows 98, alguien se acuerda? Con XP (que salió en 2001) parecía que se iba a romper esta tendencia de cambiarlo todo cada 10 años, al personal empieza a gustarle lo <em>vintage</em>. ¡Cambiad ya a Windows 7 por lo menos y tened un S.O. moderno!</p>
+<p style="text-align: justify;">En fin, que me pierdo. Una vocación, decía. Un ritmo de aprendizaje muy alto. Y algo en lo que no trabajas, es algo que vives. Porque luego llegas a casa y te pones con los chismes. A hacer lo que sea, pero con <em>tus</em> ordenadores de casa. ¡Después de haber estado 10 h en el trabajo delante de una pantalla!. No tenemos arreglo. Yo digo que  hay dos tipos de informáticos: los que van 8 horas al días a su trabajo y luego quieren tener «su vida social» y los que no podemos evitarlo y seguimos en casa <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Pues bien, si tienes pasión por esto, si de verdad te gusta ¿has notado lo que te frustra no poderle contar tus frikadas a nadie? Vale, que le cuento a mi mujer que la arquitectura MVC y la delegación en Cocoa son la leche, y que el KVC es brutal. Pero como que me mira como si le hablase en Chino, y me sonríe por apoyarme, pero no porque le interese. Esa es la razón de que tantos informáticos tengamos blogs: tenemos una necesidad reprimida de enseñar nuestros juguetes y nadie nos entiende. Echamos de menos esas charlas de café, en la facultad, cuando alguna eminencia de compañero te enseñaba cómo programar en Pascal orientado a objetos (era el 92-93, ¿verdad <a href="http://www.arquired.es/users/aldelgado/proy/default.htm">Antonio</a>?), u otro friki extremo te hablaba de su Commodore 64 y te enseñaba a taladrar placas y a quemar circuitos para hacernos conversores analógico-digitales caseros con los que escuchar MODs a través de un radio-cassette (era el 93-94, una Sound Blaster costaba 30.000 pelas de la época, ¿verdad <a href="http://www.terron.org/">Migue</a>?)</p>
+<p style="text-align: justify;">Bueno, voy a dejar las <em>loving memories</em> que me pongo tontorrón y se me salta una lágrima. El caso es que los informáticos precisamos de una terapia de grupo, donde poder curarnos de todo eso que queremos contar y no podemos. Queremos ver que alguien se «pone <em>bruto</em>» cuando le enseñamos nuestro código, o sentir envidia sana cuando llega otro que sabe 10 lenguajes más que tú. Y ver los portátiles, qué herramientas llevas instaladas, qué trucos sabes, etc.</p>
+<p style="text-align: justify;">Pues nada, que si sabes mucho Cocoa o no sabes nada. Si quieres empezar a programar tus apps para iOS o si eres diseñador gráfico y quieres ver qué se necesita para hacer tus trabajos para el iPhone. O si buscas contratar a un programador iOS. O si te apetece hablar de programación en general, te esperamos el Lunes. Tengo confirmada al menos a otra persona, así que ya tengo charla garantizada. ¡Nos vemos!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/12/nscoder-nights-sevilla/feed/</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+		</item>
+		<item>
+		<title>El mapa de red de mi casa</title>
+		<link>/2010/02/04/el-mapa-de-red-de-mi-casa/</link>
+		<comments>/2010/02/04/el-mapa-de-red-de-mi-casa/#comments</comments>
+		<pubDate>Thu, 04 Feb 2010 16:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[geek]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=583</guid>
+		<description><![CDATA[Mal vamos cuando me he tenido que hacer un mapa de red para enterarme de algunas máquinas (las principales) que tengo por casa. Digo algunas, porque no están todas. Están las fundamentales de trabajo y ocio, pero no aparecen mis iPhones ni algunas otras que colecciono y se pueden conectar a la red (Amiga 1200, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify; ">Mal vamos cuando me he tenido que hacer un mapa de red para enterarme de algunas máquinas (las principales) que tengo por casa. Digo algunas, porque no están todas. Están las fundamentales de trabajo y ocio, pero no aparecen mis iPhones ni algunas otras que colecciono y se pueden conectar a la red (Amiga 1200, Amiga 600, Sun Solaris, PowerMac G3, Pentium IV, etc.).</p>
+<div id="attachment_584" style="width: 624px" class="wp-caption alignnone"><a href="/wp-content/uploads/2010/01/Esquema-de-red.001.png"><img class="size-full wp-image-584 " title="Esquema de red" src="/wp-content/uploads/2010/01/Esquema-de-red.001.png" alt="El esquema de red de mi casa :-)" width="614" height="461" srcset="/wp-content/uploads/2010/01/Esquema-de-red.001.png 1024w, /wp-content/uploads/2010/01/Esquema-de-red.001-300x225.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">El esquema de red de mi casa <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify; ">¿Que para qué quiero tantas máquinas? ¡Eso mismo empiezo a preguntarme yo! Unas las he comprado por trabajo (el Dell Inspiron 9400 fue mi portátil de trabajo hace tres años), otras por gusto (mi MacBook Pro, o el PowerMac G5, aunque ahora son mis herramientas principales de trabajo). Otros me los he ido encontrando por el camino y, a fin de cuentas, a todo Geek le gusta almacenar cacharros con los que trastear. Si no, no nos llamaríamos Geeks <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify; ">Tengo que escribir un post de mi escritorio actual y cómo y para qué utilizo cada ordenador. Y también voy a empezar a soltar lastre. Ahora que acabo de ver este mapa, me ha entrado pánico <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/02/04/el-mapa-de-red-de-mi-casa/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>EBE 2009: un Sábado que dio para mucho</title>
+		<link>/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/</link>
+		<comments>/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/#comments</comments>
+		<pubDate>Mon, 04 Jan 2010 11:03:29 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[EBE09]]></category>
+		<category><![CDATA[Flickr]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macniacos]]></category>
+		<category><![CDATA[Sevilla]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Vimeo]]></category>
+
+		<guid isPermaLink="false">/?p=472</guid>
+		<description><![CDATA[La Blogosfera española estuvo que ardía las últimas semanas del año 2009 hablando del Evento Blog España 09 (EBE09), que se celebró los días 13, 14 y 15 de Noviembre. Yo, con mi diligencia habitual, estoy publicando este post casi cuando llega el EBE10. Este año, como desde que comenzó el EBE en 2006, se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">La Blogosfera española estuvo que ardía las últimas semanas del año 2009 hablando del Evento Blog España 09 (EBE09), que se celebró los días 13, 14 y 15 de Noviembre. Yo, con mi diligencia habitual, estoy publicando este post casi cuando llega el EBE10.</p>
+<p style="text-align: justify;">Este año, como desde que comenzó el EBE en 2006, se ha celebrado en Sevilla. Concretamente en el Hotel Cartuja Barceló Renacimiento. Yo sólo estuve el Sábado (el EBE duró desde el Viernes por la tarde hasta el Domingo a mediodía), pero me cundió bastante. En un día pude conocer a un montón de gente, sacar algunas fotos y grabar dos sesiones en video. Paso a relatar este Sábado intenso, desde que me levanté.</p>
+<h1>El despertador suena a las 6:00</h1>
+<p style="text-align: justify;">Sí. A las 6:00. Un Sábado. Lo que es la devoción por estas cosas. Había quedado con Juaco (<a href="http://twitter.com/juaconet">@juaconet </a>en Twitter) a las 8:45 en desayunar antes de acercarnos a montar lo necesario para la grabación de la sesión <a href="http://eventoblog.com/2009/11/sesion-paralela-blogprofesores/">Blogprofesores</a>. Después de una ducha tempranera y un paseito en coche hasta Sevilla, nos llamamos y quedamos para tomar café frente a la Barqueta. Luego, manos a la obra. Nos encontramos aparcando con Juanma Díaz (<a href="http://twitter.com/juanmadiaz">@juanmadiaz</a>) y nos fuimos los tres a buscar la sala donde tendría lugar la sesión.</p>
+<h1>Preparando para grabar</h1>
+<p style="text-align: justify;">Tres hombres solos. Las 9:25 en el EBE09. No había casi nadie. Pero, como buenos hombres, no sabíamos dónde estaba la sala de la conferencia y, por supuesto, no preguntamos. Cargados con cámaras de fotos, de vídeo, un trípode&#8230; ¡da igual!. Los hombres venimos de serie con algo que no nos permite preguntar por dónde se va a los sitios. Esta es la causa de que los grandes descubridores sean hombres: Marco Polo, Cristóbal Colón, Buzz Aldrin, &#8230; realmente se habían perdido pero no querían escuchar a sus mujeres respectivas entonando el «te lo dije».</p>
+<p style="text-align: justify;">Encontramos la sala, acompañados por un operario del hotel. Entramos, robamos, digooo <em>buscamos</em> alargaderas para los chismes eléctricos, ayudamos a colocar sillas, etc. Al final, llegaron los ponentes y el público. <a href="http://vimeo.com/7643957">Y pudimos grabar la sesión Blogprofesores</a>, que me costó lo mío subir a Vimeo.</p>
+<h1>Blogprofesores</h1>
+<p>La sesión está perfectamente descrita en el <a href="http://eventoblog.com/2009/11/sesion-paralela-blogprofesores/">post oficial del Evento Blog</a>. Algunos apuntes:</p>
+<p style="text-align: justify;">María Barceló se ha tomado la molestia, como buena bloguera y ponente, de <a href="http://www.mariabarcelo.es/?p=1130">comentar la mesa en su blog</a>. <a href="http://blip.tv/file/2850829/">Aquí hay un vídeo</a>, tomado desde la esquina opuesta a la que yo estaba, de forma que podéis comparar ambas sesiones, si es que estáis tan interesados en el tema. El vídeo que yo grabé y edité <a href="http://vimeo.com/7643957">está en Vimeo</a>.</p>
+<p style="text-align: justify;">Las preguntas del publico fueron interesantes, aunque me chocaron dos cosas:</p>
+<ul>
+<li>por un lado la gente que va a estas conferencias decididos a ser <em>SPAM con patas</em> y vender a toda costa su producto / empresa</li>
+<li>por otro lado los diálogos paralelos defendiendo / rechazando el Software Libre. <a href="/2009/10/27/libre-no-es-una-caracteristica-gratis-si/">Mi opinión creo que ya esta clara</a>.</li>
+</ul>
+<p style="text-align: justify;">Tomé algunas fotos con los Blogprofesores que he subido a Flickr.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622787745315%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622787745315%2F&amp;set_id=72157622787745315&amp;jump_to=" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622787745315%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622787745315%2F&amp;set_id=72157622787745315&amp;jump_to="></embed></object></p>
+<p style="text-align: justify;">
+<h2>Café y Berto</h2>
+<p style="text-align: justify;">Salimos de la sesión con la satisfacción del deber cumplido y nos fuimos a la zona de entrada. Había otra sesión en marcha, pero decidimos dar una vuelta por los stands que estaban montados en el EBE. Me tomé varios Nespresso en el de Sony Ericsson. Lo mejor que tenían, porque a un Apple Fanboy que lleva dos iPhone encima está complicado venderle un móvil con Windows Mobile 6.5. Bueno, borro lo que he dicho. Vender Win Mob está complicado sea quien sea el potencial cliente. A ver si se enteran que lo del <em>palito</em> (stylus) ya no se lleva.</p>
+<p style="text-align: justify;">Conocí a Pablo, que presentaba <a href="http://www.layers.com/">Layers.com</a>. Es una idea super interesante y que voy a usar mucho a partir de ahora. Con Layers puedes escribir anotaciones sobre una web y compartir esas anotaciones con tus compañeros. Ellos, a su vez, pueden anotar también y puedes tener una vista de la web original e ir superponiéndole las distintas anotaciones por capas (layers). Utilidades tiene muchas, por ejemplo, pasarle a un grupo de testers tu nueva web y que anoten sus ideas <em>sobre</em> tu web. Luego, puedes ir viendo las aportaciones de todos <em>sobre</em> tu web, y no con el clásico correo de «X no funciona en la web».</p>
+<p style="text-align: justify;">Nos encontramos con <a href="http://albertopena.com/">Berto Pena</a> saliendo del salón principal. Aproveché para presentarme, comentarle que queríamos grabar el Macniacos de por la tarde y hacerme alguna foto. Al final, Juaco me ha regalado el libro de Berto, libro que estoy leyendo poco a poco, saboreándolo, para sacarle todo el partido. Ya lo comentaré más adelante.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622915351952%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622915351952%2F&amp;set_id=72157622915351952&amp;jump_to=" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622915351952%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622915351952%2F&amp;set_id=72157622915351952&amp;jump_to="></embed></object></p>
+<h1>@Yoriento</h1>
+<p style="text-align: justify;">La charla de Alfonso Alcántara, Gestiona tu vida en la crisis, me encantó. Sentido común, llamar a las cosas por su nombre, buena comunicación y mucho humor. Te puedes hacer una idea <a href="http://www.youtube.com/watch?v=-GveYQGe7yw">viendo el vídeo del comienzo de la charla</a>. Fue tan buena que se comió su tiempo, le dijeron que acabara y todo el auditorio le aclamó para que le dieran 10 min. más, que se quedaron en 5. ¡Fue un momento grande!. Saludé al terminar a Alfonso y soy <a href="http://twitter.com/Yoriento" target="_blank">seguidor suyo en Twitter</a> desde entonces.</p>
+<h1>Cervecitas y comida en el EBE09 alternativo, con los Blogprofesores</h1>
+<p>Parte importante del día (al menos, para mí), en el que conocí a un montón de compañeros de Juanma Díaz. Buena comida, por cierto, junto al Puente de La Barqueta. Se habló de muchas cosas, pero sobre todo de nuevas tecnologías y educación.</p>
+<p><a href="/wp-content/uploads/2010/01/EBEAlternativo.jpg"><img class="aligncenter size-full wp-image-544" title="EBEAlternativo" src="/wp-content/uploads/2010/01/EBEAlternativo.jpg" alt="EBEAlternativo" width="500" height="332" srcset="/wp-content/uploads/2010/01/EBEAlternativo.jpg 500w, /wp-content/uploads/2010/01/EBEAlternativo-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<h1>Grabación de Macnicacos</h1>
+<p style="text-align: justify;">Tras comer, de vuelta corriendo al EBE09. Cogimos los trastos de matar de nuevo (el trípode y la cámara) y tras varios tuiteos y llamadas de teléfono, dimos finalmente con Valen, de Macniacos. Estaban esperando en una de las habitaciones que usan los traductores y que dan al salón principal del EBE, convertida en improvisada sala de Podcasting. Junto con Valen estaba el otro 50% de Macniacos, José, atacado por la técnica, con su MacBook Pro, peleándose con los hubs USB, los micrófonos SnowBall y con el streaming de audio en directo. Al menos la WiFi le funcionaba.</p>
+<p>Tomamos posiciones y fuimos haciendo fotos y grabando el vídeo del podcast. En él participaron Rubén (Tazzito), Serantes, Macniacos (José y Valen) y Berto Pena. Un lujazo del que os dejo fotos y <a href="/2009/11/24/¡al-fin-video-de-la-grabacion-de-macniacos-en-el-ebe09-subido/">el vídeo subido a Blip.tv</a> como ya comenté en un post anterior.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622813600184%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622813600184%2F&amp;set_id=72157622813600184&amp;jump_to=" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622813600184%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622813600184%2F&amp;set_id=72157622813600184&amp;jump_to="></embed></object></p>
+<p style="text-align: justify;">Gracias a esta experiencia tengo ahora un contacto twittero más intenso con los macniacos, y he realizado alguna cosilla para ellos, como el vídeo de la última tienda Apple de NYC. ¡Y encima nos han mencionado, a mí y a Juaco, en el Macniacos #60! Gracias, sois unos cracks y nos veremos las caras en una caseta de la Feria de Abril.</p>
+<h1>Cae la tarde</h1>
+<p style="text-align: justify;">Tras la presión de la grabación, la tarde fue avanzando entre más saludos, más cafés, alguna conferencia soporífera sobre el futuro de la Blogosfera y con todo el mundo esperando para la entrega de los premios.</p>
+<h1>Los premios bitácoras y la foto de familia</h1>
+<p style="text-align: justify;">Finalmente entregaron los premios y Macniacos no pudo ganar, pero me resultó interesante ver estos «Óscar del blogging». Hicieron una <a href="http://www.flickr.com/photos/victoriano/4108415923/">foto panorámica</a> impresionante, que puedes ver en Flickr con todo el mundo <em>tageado</em>.</p>
+<h1>Mis conclusiones</h1>
+<p style="text-align: justify;">Me gustó mucho el ambiente del EBE. Un montón de egos revueltos, pero con muy buena disposición a escuchar, a compartir. Me sorprendió la gente que se autoconsidera Geek sin ser informáticos. Te entran ganas de decirles «pero cómo vas a ser un Geek si no sabes programar en C». Pero luego dominan las redes sociales y los servicios de Internet mucho mejor que cualquier profesional. Y se aprenden muchas cosas, si uno está dispuesto a escuchar.</p>
+<p style="text-align: justify;">Este año 2010, si puedo, iré al EBE. Y espero escribir algo en el propio año, y no en 2011 <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Iluminado por mi iPhone</title>
+		<link>/2009/11/13/iluminado-por-mi-iphone/</link>
+		<pubDate>Fri, 13 Nov 2009 10:14:33 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Rants]]></category>
+
+		<guid isPermaLink="false">/?p=455</guid>
+		<description><![CDATA[No, no es éste un post místico, hablando de que, gracias al iPhone, he visto la luz. Aunque, bueno, también. A fin de cuentas, gracias al iPhone va a cambiar mi vida pronto, pero eso es otra historia y ya habrá tiempo de contarla. Así que no me ha pasado como en todas las películas [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, no es éste un post místico, hablando de que, gracias al iPhone, he visto la luz. Aunque, bueno, también. A fin de cuentas, gracias al iPhone va a cambiar mi vida pronto, pero eso es otra historia y ya habrá tiempo de contarla. Así que no me ha pasado como en todas las películas de cárceles americanas, donde siempre hay algún preso diciendo «que ha encontrado a Jesús, que si Jesús esto y Jesús aquello y ahora soy una mejor persona». Pese a que el mote del iPhone sea el «<a href="http://www.iphonesavior.com/">Jesus Phone</a>«.</p>
+<p style="text-align: justify;">El problema viene de las zonas de aparcamiento en el centro de Sevilla. Cada vez son más escasas y me encontré con una a las 12 de la noche. El problema: tenía una placa de prohibición: <em>puedes dejar tu coche aquí, pero a las 7 de la mañana se lo puede llevar la grúa municipal</em>. Como no está la cosa para muchas multas, me propuse levantarme temprano, a las 6:45, ducharme e ir a por el coche. Llegaría antes al trabajo, a Isotrol, y punto. Así aprovecho mejor la mañana, sin interrupciones, y puedo concentrarme en el trabajo, que es de lo que se trata ¿no? Pero no contaba yo con mi querida amiga, la Compañía Sevillana de Electricidad, más conocida hoy día como Endesa.</p>
+<p style="text-align: justify;">A las 6:45 me despertó la alarma de mi iPhone 3G S, pulsé el interruptor de la luz&#8230; y nada. Debo de estar dormido, así que apagué y encendí la luz un rato hasta que me di cuenta del problema. ¡Ya se ha fundido la bombilla! -pensé. Pero no, no había luz. En todo el bloque. Comprobé mi cuadro eléctrico y estaba todo en orden. Llamé al número de averías de Endesa (que llevo grabado en el iPhone, lo cual no es buena señal) y me informaron de que en 60 minutos estaría todo solucionado&#8230; ¡Qué bien!. O me voy sin ducharme como un guarro o me multan por dejar el coche en prohibido, ¡qué buena perspectiva!. Gracias, Endesa, por hacer mi vida un poco más difícil. Como dijo el genio: «¿para qué vivir tranquilo pudiendo vivir crispado?».</p>
+<p style="text-align: justify;">Así que decidí ducharme, aunque no se veía nada dentro del piso. Negro como la boca de un lobo negro con dientes negros después de comerse una paella de arroz negro. Tengo una linterna para las emergencias, de esas que no tienen pilas y necesitan que permanentemente estés accionando una palanca para que una pequeña dinamo encienda unos LEDs. Es decir: o veo dónde está el jabón o me ducho, pero ambas cosas no. ¡Si tuviera una linterna con pilas! Y fue en este punto de desesperación cuando vino el iPhone a socorrerme. Bueno, <em>los</em> iPhones. Además de mi nuevo iPhone 3G S, que conseguí hace poco tras hacer una portabilidad de Orange a Movistar, sigo conservando mi iPhone 3G libre. Así que, con la aplicación <a href="http://www.johnhaney.com/flashlight/">Flashlight</a> (para que luego se rían de las linternas que hay en la App Store) que tengo instalada en ambos iPhones, pude ducharme apuntando las dos pantallas hacia mi. La luz era tenue, como con velas, pero al menos me veía los pies asomando por debajo de mi barriga.</p>
+<p style="text-align: justify;">
+<div id="attachment_459" style="width: 490px" class="wp-caption aligncenter"><img class="size-full wp-image-459 " title="Flashlight" src="/wp-content/uploads/2009/11/Flashlight.jpg" alt="iPhone 3G S, 3G y iPod Touch" width="480" height="550" srcset="/wp-content/uploads/2009/11/Flashlight.jpg 800w, /wp-content/uploads/2009/11/Flashlight-262x300.jpg 262w" sizes="(max-width: 480px) 100vw, 480px" /><p class="wp-caption-text">iPhone 3G S, 3G y iPod Touch</p></div>
+<p style="text-align: justify;">Si, ya se que todos hemos usado el móvil como linterna alguna vez. Pero, al menos yo, nunca había tenido tan buena luz en una situación tan oscura. Aquí es donde la pantalla del iPhone triunfa, ya que es muy brillante y, en completa oscuridad, es enorme. Cuando terminé de ducharme y vestirme, entre la luz de la luna que entraba por la puerta abierta del apartamento y el amanecer, pude salir de casa y evitar la multa.</p>
+<p style="text-align: justify;">Ahora sólo queda que alguien escriba una novela sobre los <a href="http://es.wikipedia.org/wiki/Illuminati">illuminati</a> del iPhone&#8230;</p>
+<p style="text-align: justify;">
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ropa Friki: arreglada pero informal</title>
+		<link>/2007/12/17/ropa-friki-arreglada-pero-informal/</link>
+		<comments>/2007/12/17/ropa-friki-arreglada-pero-informal/#comments</comments>
+		<pubDate>Mon, 17 Dec 2007 20:05:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2008/03/02/ropa-friki-arreglada-pero-informal/</guid>
+		<description><![CDATA[Cuando uno se encuentra estas cosas en Internet entiende los estereotipos que ruedan por ahí sobre los informáticos&#8230; Bueno, lo que molesta es mirarse al espejo y ver que encima los estereotipos se cumplen&#8230; En ThinkGeek está esta corbata de 8 bits. Tendremos que comprar una 🙂]]></description>
+				<content:encoded><![CDATA[<p><span style="color: #444444; font-family: 'Lucida Sans Unicode'; font-size: 10px; line-height: normal"> </span></p>
+<p class="bodytext" style="padding-top: 0px; padding-right: 0px; padding-left: 0px; font-size: 1.2em; padding-bottom: 1.2em; margin: 0px">Cuando uno se encuentra estas cosas en Internet entiende los estereotipos que ruedan por ahí sobre los informáticos&#8230;</p>
+<p class="bodytext" style="padding-top: 0px; padding-right: 0px; padding-left: 0px; font-size: 1.2em; padding-bottom: 1.2em; margin: 0px">Bueno, lo que molesta es mirarse al espejo y ver que encima los estereotipos se cumplen&#8230;</p>
+<p class="bodytext" style="padding-top: 0px; padding-right: 0px; padding-left: 0px; font-size: 1.2em; padding-bottom: 1.2em; margin: 0px"><span style="font-size: 16px"><img src="http://freniche.com/wp/wp-content/uploads/2008/03/6d74230a50.jpg" alt="CorbataGeek" /></span></p>
+<p class="bodytext" style="padding-top: 0px; padding-right: 0px; padding-left: 0px; font-size: 1.2em; padding-bottom: 1.2em; margin: 0px">En ThinkGeek está esta <a class="external-link-new-window" style="color: #3366cc; padding: 0px; margin: 0px" title="Opens external link in new window" href="http://www.thinkgeek.com/apparel/hats-ties/9352/" target="_blank">corbata de 8 bits</a>. Tendremos que comprar una <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2007/12/17/ropa-friki-arreglada-pero-informal/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Lo frikis que llegamos a ser</title>
+		<link>/2007/08/27/lo-frikis-que-llegamos-a-ser/</link>
+		<pubDate>Mon, 27 Aug 2007 20:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+
+		<guid isPermaLink="false">/2007/08/27/lo-frikis-que-llegamos-a-ser/</guid>
+		<description><![CDATA[O al menos la gente que hace cosas como esta&#8230; El artista es George W. Hart]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">O al menos la gente que hace cosas como esta&#8230;</p>
+<p class="bodytext"><a href="/wp-content/uploads/2007/08/disk-combobulation.jpg"><img class="aligncenter size-full wp-image-599" title="disk-combobulation" src="/wp-content/uploads/2007/08/disk-combobulation.jpg" alt="disk-combobulation" width="498" height="498" srcset="/wp-content/uploads/2007/08/disk-combobulation.jpg 498w, /wp-content/uploads/2007/08/disk-combobulation-150x150.jpg 150w, /wp-content/uploads/2007/08/disk-combobulation-300x300.jpg 300w" sizes="(max-width: 498px) 100vw, 498px" /></a></p>
+<p class="bodytext">
+<p class="bodytext">El artista es <a class="external-link-new-window" title="Opens external link in new window" href="http://www.georgehart.com/sculpture/disk-combobulation.html" target="_blank">George W. Hart</a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Be water&#8230;</title>
+		<link>/2007/07/31/be-water/</link>
+		<pubDate>Tue, 31 Jul 2007 12:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+
+		<guid isPermaLink="false">/2007/07/31/be-water/</guid>
+		<description><![CDATA[De anuncios inteligentes y frikismo informático (geekismo) va la cosa Hace un tiempo una marca de automóviles (no recuerdo la marca ni el modelo, la verdad) estuvo emitiendo un anuncio en el que aparece Bruce Lee hablando de La Creación de la Forma sin Forma, del Jeet-Kune-Do, el estilo de lucha que inventó Bruce Lee [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h1>De anuncios inteligentes y frikismo informático (geekismo) va la cosa</h1>
+<p class="bodytext" style="text-align: justify;">Hace un tiempo una marca de automóviles (no recuerdo la marca ni el modelo, la verdad) estuvo emitiendo un <a href="http://es.youtube.com/watch?v=GAkkhX7iggw" target="_blank">anuncio</a> en el que aparece <a href="http://es.wikipedia.org/wiki/Bruce_Lee" target="_blank">Bruce Lee</a> hablando de La Creación de la Forma sin Forma, del <a href="http://es.wikipedia.org/wiki/Jeet_Kune_Do" target="_blank">Jeet-Kune-Do</a>, el estilo de lucha que inventó Bruce Lee y que mostraba en sus películas. Digo estilo de lucha y no Arte Marcial porque el objetivo último del Jeet-Kune-Do es obtener una forma efectiva de lucha mientras que el objetivo último de un Arte Marcial es construir mejores personas. Este objetivo, que aparece en muchas otras facetas de la vida (las religiones, el deporte, las teletiendas, los préstamos de los bancos que nos hacen tan felices, los anuncios de compresas,&#8230;) se consigue en la Artes Marciales mediante una práctica que inculca valores como: respeto, humildad, paciencia, esfuerzo, piedad, etc. Bueno, que me pierdo. Algún día hablaré más sobre las Artes Marciales, o mejor sobre una en particular, el <a href="http://www.shorinjikempo.or.jp/wsko/index.html" target="_blank">Shorinji Kenpo</a>.</p>
+<p>Pero volviendo a lo que comentaba al principio, el texto del anuncio es algo como:</p>
+<blockquote><p>Empty your mind, be formless, shapeless&#8230;</p>
+<p>like water</p>
+<p>If you put water into a bottle it becomes the bottle,</p>
+<p>If you put water into a teapot it becomes the teapot&#8230;</p>
+<p>Water can flow, or can clash</p>
+<p>Be water my friend&#8230;</p></blockquote>
+<p style="text-align: justify;">Esto de poner a Bruce Lee hablando de filosofía cuasi-Zen para vender un coche es lo que ahora se llama publicidad inteligente. Es decir, se larga un anuncio con un chino hablando en inglés en España (probablemente el país de Europa donde menos Inglés se hable), sin explicar ni subtitular nada y se espera que se entienda que comprándote un coche determinado ya no te adaptas a la carretera, sino que <em>eres</em> la carretera. Esperemos que nadie aplique el mismo razonamiento a los anuncios de papel higiénico.</p>
+<p>El caso es que ha llegado a la <a href="imasd/">lista de I+D</a> un envío con el siguiente texto, que los iniciados en C entenderán a la primera:</p>
+<blockquote><p>Empty your memory, with a free()&#8230;</p>
+<p>like a pointer!</p>
+<p>If you cast a pointer to a integer, it becomes the integer,</p>
+<p>if you cast a pointer to a struct,  it becomes the struct&#8230;</p>
+<p>The pointer can crash&#8230;,   and can Overflow&#8230;</p>
+<p>Be a pointer my friend&#8230;</p></blockquote>
+<p>Para el resto, símplemente comentar que los informáticos cada vez somos más geeks (por cierto, un geek es un friki en versión informática).</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

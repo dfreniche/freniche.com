@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Historia informática &#8211; freniche.com</title>
+	<atom:link href="/tag/historia-informatica/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Lleva tu blog en un Pendrive</title>
+		<link>/2006/05/01/lleva-tu-blog-en-un-pendrive/</link>
+		<pubDate>Mon, 01 May 2006 10:06:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Historia informática]]></category>
+		<category><![CDATA[retrocomputing]]></category>
+
+		<guid isPermaLink="false">/2006/05/01/lleva-tu-blog-en-un-pendrive/</guid>
+		<description><![CDATA[Desde que llevo usando un ordenador (aprox. desde 1988) me doy cuenta de que sus usos crecen y crecen. Al principio no disponíamos de tarjetas de sonido en los PCs. Luego nada de WinAmp. Ni de CD-ROM (sí, sí, lector incrédulo, incluso existían disqueteras de 5&#8243;1/4). Luego nada de F.E.A.R. Pero también es cierto que [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Desde que llevo usando un ordenador (aprox. desde <a href="/retrocomputing/">1988</a>) me doy cuenta de que sus usos crecen y crecen. Al principio no disponíamos de tarjetas de sonido en los PCs. Luego nada de WinAmp. Ni de CD-ROM (sí, sí, lector incrédulo, incluso existían disqueteras de 5&#8243;1/4). Luego nada de F.E.A.R. Pero también es cierto que hay necesidades de usar los ordenadores que no cambian.</p>
+<p class="bodytext">Para estas necesidades uno va cambiando de programa, esperando mejorar. Por ejemplo, para editar textos, he usado WordStar, ChiWriter, WordPerfect 5.1, Word (en muchas versiones) y ahora uso sobre todo OpenOffice.org Writer.</p>
+<p class="bodytext">Pues bien, una de las necesidades que aparecen cuando se usan ordenadores es guardar «perlas» de información de alguna manera organizada. Estas perlas pueden ser una respuesta de un foro en la que se explica cómo instalar los drivers de tu tarjeta gráfica, un enlace que te encontraste a una web muy interesante y que no quieres perder, una «frase mágica» escrita en la consola de Linux que te permite conectarte a una carpeta NFS, &#8230;</p>
+<p class="bodytext">He probado muchas formas de almacenar esta preciosa información, más que nada porque mi cabeza cada día anda peor. He probado con ficheros de texto, cada uno con una receta, en una carpeta (en los tiempos de <a href="http://www.elelog.es/" target="_blank">Elelog</a>). He probado con programas propios que acceden a una BD con las soluciones. Incluso usando un fichero .PST de Outlook compartido como «base de conocimiento».</p>
+<p class="bodytext">Y ninguno me gustaba. La mayoría no son ágiles. Los que lo son no permiten categorizar los datos. Los que me gustan (como esta web), necesitan de una infraestructura determinada para funcionar (servidor web, php, MySQL, etc.) que no los hace tan transportables.</p>
+<p class="bodytext">El caso es que he localizado el Grial. Es <a href="http://www.tiddlywiki.com/" target="_blank">TiddlyWiki</a>, un sistema mediante el cual, en un solo HTML está incluido todo el HTML, JavaScript y CSS necesarios para, por ejemplo, escribir un Blog. Simplemente guardando una copia de la página ya podemos usarla cambiando los datos, añadiendo contenido y categorizándolo mediante etiquetas. Genera un feed RSS y todo el contenido ocupa unos 159 Kb para la plantilla vac?a.</p>
+<p class="bodytext">Si lo quieres probar, que sepas que está traducido al Español (y a otros idiomas).</p>
+<p class="bodytext">La gracia está en que editas el texto en el orden en que se te ocurra. Luego, con establecer enlaces entre los diferentes trozos de texto y asignarles categorías, todo se ordena solo.</p>
+<p class="bodytext">Algunos usos que se me ocurren es:</p>
+<ul>
+<li>usarlo como base de conocimiento, para guardar enlaces, favoritos, trucos, FAQs, art?culos, etc.</li>
+<li>emplearlo en el an?lisis de requisitos. En esa fase, en la que todo debe ser flexible nada mejor que utilizar como editor un navegador.</li>
+<li>como Blog. ¿Para qué más historias técnicas? Si lo que quieres es hacerte tu web rápido y ocupando poco espacio, esta es la mejor solución.</li>
+</ul>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

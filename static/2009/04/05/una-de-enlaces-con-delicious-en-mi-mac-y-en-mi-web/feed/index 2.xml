@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Una de enlaces con delicious, en mi Mac y en mi Web</title>
+	<atom:link href="/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/feed/" rel="self" type="application/rss+xml" />
+	<link>/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/comment-page-1/#comment-2407</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sat, 06 Jun 2009 18:20:35 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/#comment-2407</guid>
+		<description><![CDATA[@Tony:
+He probado el enlace, y muestra tu colección de favoritos de Delicious. Así que, si era eso lo que querías hacer, funciona bien.
+Por otro lado, curioso tu blog. Muy enfocado al tema musical. Y has empezado hace poco, pero con muchas ganas ¿no?. ¡Ánimo!]]></description>
+		<content:encoded><![CDATA[<p>@Tony:<br />
+He probado el enlace, y muestra tu colección de favoritos de Delicious. Así que, si era eso lo que querías hacer, funciona bien.<br />
+Por otro lado, curioso tu blog. Muy enfocado al tema musical. Y has empezado hace poco, pero con muchas ganas ¿no?. ¡Ánimo!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Tony</title>
+		<link>/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/comment-page-1/#comment-2403</link>
+		<dc:creator><![CDATA[Tony]]></dc:creator>
+		<pubDate>Sat, 06 Jun 2009 01:57:11 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/#comment-2403</guid>
+		<description><![CDATA[Puse un boton de delicipus en la cabecera de mi web, estará bien ese enlace?]]></description>
+		<content:encoded><![CDATA[<p>Puse un boton de delicipus en la cabecera de mi web, estará bien ese enlace?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Neurona Fox &#187; Una de enlaces con delicious, en mi Mac y en mi Web</title>
+		<link>/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/comment-page-1/#comment-2207</link>
+		<dc:creator><![CDATA[Neurona Fox &#187; Una de enlaces con delicious, en mi Mac y en mi Web]]></dc:creator>
+		<pubDate>Sun, 05 Apr 2009 17:12:48 +0000</pubDate>
+		<guid isPermaLink="false">/2009/04/05/una-de-enlaces-con-delicious-en-mi-mac-y-en-mi-web/#comment-2207</guid>
+		<description><![CDATA[[...] the original here:  Una de enlaces con delicious, en mi Mac y en mi Web  Permalink  [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] the original here:  Una de enlaces con delicious, en mi Mac y en mi Web  Permalink  [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

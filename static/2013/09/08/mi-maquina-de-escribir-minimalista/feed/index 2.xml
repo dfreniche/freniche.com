@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Mi máquina de escribir minimalista</title>
+	<atom:link href="/2013/09/08/mi-maquina-de-escribir-minimalista/feed/" rel="self" type="application/rss+xml" />
+	<link>/2013/09/08/mi-maquina-de-escribir-minimalista/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Miguel</title>
+		<link>/2013/09/08/mi-maquina-de-escribir-minimalista/comment-page-1/#comment-215184</link>
+		<dc:creator><![CDATA[Miguel]]></dc:creator>
+		<pubDate>Mon, 23 Sep 2013 09:31:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2011#comment-215184</guid>
+		<description><![CDATA[Yo también utilizo el &lt;strong&gt;iaWriter&lt;/strong&gt;, y no solo en el iPad, sino además en el ordenador para escribir las novelas que voy publicando.
+Poder &lt;strong&gt;abstraerte y concentrarte en tu tarea&lt;/strong&gt; es una de las cosas que se están perdiendo hoy en día con Internet y las redes sociales, siempre interrumpiendo; y como no existen elementos de diseño (entendiendo aquí *diseño* como la ornamentación gráfica y no como el funcionamiento interno de una aplicación) tus ojos no *caen* de las líneas que estas escribiendo, lo que ayuda a uno a &lt;strong&gt;mantenerse dentro del contexto de lo que estás produciendo&lt;/strong&gt;.
+Solo con la máxima concentración y la mejor música de fondo logro imprimir en la pantalla mis mejores líneas.]]></description>
+		<content:encoded><![CDATA[<p>Yo también utilizo el <strong>iaWriter</strong>, y no solo en el iPad, sino además en el ordenador para escribir las novelas que voy publicando.<br />
+Poder <strong>abstraerte y concentrarte en tu tarea</strong> es una de las cosas que se están perdiendo hoy en día con Internet y las redes sociales, siempre interrumpiendo; y como no existen elementos de diseño (entendiendo aquí *diseño* como la ornamentación gráfica y no como el funcionamiento interno de una aplicación) tus ojos no *caen* de las líneas que estas escribiendo, lo que ayuda a uno a <strong>mantenerse dentro del contexto de lo que estás produciendo</strong>.<br />
+Solo con la máxima concentración y la mejor música de fondo logro imprimir en la pantalla mis mejores líneas.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2013/09/08/mi-maquina-de-escribir-minimalista/comment-page-1/#comment-215182</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 23 Sep 2013 09:23:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2011#comment-215182</guid>
+		<description><![CDATA[En mi caso, como no tengo dinero infinito, no puedo escoger: ya tenía el iPad 3 para desarrollo y otros usos, pero como &quot;máquina de escribir&quot; ha sido como le he encontrado su ocupación perfecta. Claro que un MBA de 11&quot; pesa probablemente menos y hace más cosas, pero no es un iPad y no me serviría para lo que este.
+
+iAWriter funciona perfectamente con MarkDown. Lo mejor es que puedes crear los documentos directamente en tu Dropbox para continuar editándolos con el Mac. Aunque mi &quot;flujo de trabajo&quot; consiste en: lo marco todo cuando he terminado, copio y pego en la App de WordPress. Luego añado las imágenes en el Mac.
+
+Un saludo, ¡oh gran iOS Master! :-)]]></description>
+		<content:encoded><![CDATA[<p>En mi caso, como no tengo dinero infinito, no puedo escoger: ya tenía el iPad 3 para desarrollo y otros usos, pero como «máquina de escribir» ha sido como le he encontrado su ocupación perfecta. Claro que un MBA de 11&#8243; pesa probablemente menos y hace más cosas, pero no es un iPad y no me serviría para lo que este.</p>
+<p>iAWriter funciona perfectamente con MarkDown. Lo mejor es que puedes crear los documentos directamente en tu Dropbox para continuar editándolos con el Mac. Aunque mi «flujo de trabajo» consiste en: lo marco todo cuando he terminado, copio y pego en la App de WordPress. Luego añado las imágenes en el Mac.</p>
+<p>Un saludo, ¡oh gran iOS Master! 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Fernando Rodríguez</title>
+		<link>/2013/09/08/mi-maquina-de-escribir-minimalista/comment-page-1/#comment-215177</link>
+		<dc:creator><![CDATA[Fernando Rodríguez]]></dc:creator>
+		<pubDate>Mon, 23 Sep 2013 09:04:56 +0000</pubDate>
+		<guid isPermaLink="false">/?p=2011#comment-215177</guid>
+		<description><![CDATA[Yo también ando probando un cachibache similar. Mi única pega: si sumas el iPad y el teclado, pesan más que el MBA de mi mujer... :-P
+
+Por cierto, ¿qué tal va iA Writer con markdown?]]></description>
+		<content:encoded><![CDATA[<p>Yo también ando probando un cachibache similar. Mi única pega: si sumas el iPad y el teclado, pesan más que el MBA de mi mujer&#8230; 😛</p>
+<p>Por cierto, ¿qué tal va iA Writer con markdown?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

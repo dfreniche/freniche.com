@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ObjectiveC &#8211; freniche.com</title>
+	<atom:link href="/category/informatica/programacion/objectivec/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo instalar Xcode 6 GM (o cualquier versión final de Xcode) sin sobreescribir la anterior</title>
+		<link>/2014/09/10/como-instalar-xcode-6-gm-o-cualquier-version-final-de-xcode-sin-sobreescribir-la-anterior/</link>
+		<pubDate>Wed, 10 Sep 2014 08:11:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=2233</guid>
+		<description><![CDATA[De nuevo es esa época del año. Vuelta al cole. Fin del verano. Nuevo Xcode. Me encanta el olor a nuevo Xcode por la mañana Y siempre, el mismo temor: ¿qué pasa al instalar? ¿Voy a sobreescribir mi Xcode actual? Un poco de teoría Una App en OS X no es más que una carpeta [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>De nuevo es esa época del año. Vuelta al cole. Fin del verano. Nuevo Xcode.</p>
+<blockquote>
+<p>Me encanta el olor a nuevo Xcode por la mañana</p>
+</blockquote>
+<p>Y siempre, el mismo temor: ¿qué pasa al instalar? ¿Voy a sobreescribir mi Xcode actual?</p>
+<h2>Un poco de teoría</h2>
+<p>Una App en OS X no es más que una carpeta (un <em>bundle</em>) que contiene los ficheros ejecutables y recursos que la App necesita. Podemos verlo más claro desde el Finder pulsando con el botón derecho del ratón y escogiendo <em>Mostrar contenido del paquete</em>. Desde la terminal es aún más evidente. Si hacemos:</p>
+<pre><code>$ cd /Applications/ 
+$ ls -d Xcode*
+
+drwxr-xr-x@ 3 dfreniche admin 102B 10 sep 09:47 Xcode.app/ 
+drwxr-xr-x  3 root wheel 102B 16 abr 10:30 Xcode5.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 2 jul 02:52 Xcode6-Beta3.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 1 ago 23:17 Xcode6-Beta5.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 16 ago 00:35 Xcode6-Beta6.app/ 
+drwxr-xr-x@ 3 dfreniche admin 102B 28 ago 09:01 Xcode6-Beta7.app/
+</code></pre>
+<p>veremos todas las versiones de Xcode que tenemos instaladas. No son más que directorios UNIX normales</p>
+<h2>La práctica</h2>
+<p>Durante la fase de Betas la imagen de disco con Xcode que descargamos contiene una carpeta con un nombre como Xcode6-Beta5. Este nombre es distinto de <code>Xcode</code>, con lo que no hay conflicto.</p>
+<p>Cuando llega la GM y la versión definitiva, Apple distribuye un DMG con una App que ya se llama Xcode. Es Xcode 6, pero tiene <em>el mismo nombre de carpeta que el Xcode 5 que ya tienes instalado en tu disco duro</em>. Si lo copias, vas a perder Xcode 5.</p>
+<div id="attachment_2234" style="width: 1467px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/09/Xcode5-antes-copiar.png" alt="Xcode5 antes de copiar Xcode6 GM" width="1457" height="700" class="size-full wp-image-2234" srcset="/wp-content/uploads/2014/09/Xcode5-antes-copiar.png 1457w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-300x144.png 300w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-1024x491.png 1024w, /wp-content/uploads/2014/09/Xcode5-antes-copiar-920x442.png 920w" sizes="(max-width: 1457px) 100vw, 1457px" /><p class="wp-caption-text">]Xcode5 antes de copiar Xcode6 GM</p></div>
+<p>Solución sencilla: <em>antes</em> de copiar nada a la carpeta Applications, renombra Xcode (como si fuera un fichero o carpeta normal, probablemente tengas que introducir tu clave de administrador) y ponle de nombre Xcode 5 (o el que prefieras, yo tengo por ahí una llamada <em>Ye olde Xcode 4.3</em>)</p>
+<div id="attachment_2235" style="width: 1467px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2014/09/Installing-Xcode6.png" alt="Instalando Xcode 6 tras renombrar Xcode 5" width="1457" height="700" class="size-full wp-image-2235" srcset="/wp-content/uploads/2014/09/Installing-Xcode6.png 1457w, /wp-content/uploads/2014/09/Installing-Xcode6-300x144.png 300w, /wp-content/uploads/2014/09/Installing-Xcode6-1024x491.png 1024w, /wp-content/uploads/2014/09/Installing-Xcode6-920x442.png 920w" sizes="(max-width: 1457px) 100vw, 1457px" /><p class="wp-caption-text">]Instalando Xcode 6 tras renombrar Xcode 5</p></div>
+<p>Fácil, ¿no?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Ponente en la WipJam en el MWC 14</title>
+		<link>/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/</link>
+		<comments>/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/#comments</comments>
+		<pubDate>Thu, 20 Feb 2014 16:16:01 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[Core Data]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[MWC]]></category>
+		<category><![CDATA[Ponencias]]></category>
+
+		<guid isPermaLink="false">/?p=2123</guid>
+		<description><![CDATA[Estoy muy contento de ir este año al Mobile World Congress como ponente de una charla en la WipJam. Concretamente va a ser de Core Data (como la charla y taller que impartí el año pasado en la conferencia NSSpain). No soy yo el máximo experto en Core Data del mundo, ni siquiera de mi [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Estoy muy contento de ir este año al Mobile World Congress como <a href="http://wipjammwc14.sched.org/event/c80b40922c7abb24aa768388f60fa5b6#.UwYllnneMWa">ponente de una charla en la WipJam</a>. Concretamente va a ser de Core Data (como la charla y taller que impartí <a href="http://nsspain.com/2013/speakers/">el año pasado en la conferencia NSSpain</a>). No soy yo el máximo experto en Core Data del mundo, ni siquiera de mi barrio, pero poder acudir a un evento internacional y compartir conocimiento con otros programadores me motiva bastante. Y algún proyecto con Core Data he desarrollado.</p>
+<p>Encima, para mejorar la cosa estaré parando en la casa de Rafa Aguilar (responsable de [Objective-C.es], <a href="http://nsspain.com/">3</a> además de programador iOS en Wallapop y crack absoluto). Y dormirá con nosotros (juntos, pero no revueltos) Luis Ascorbe, el 50% de <a href="http://nsspain.com/">NSSpain</a>. Y Pedro Muñoz andará por allí con su proyecto de iBeacons&#8230; Y todos los demás amigos de Barcelona&#8230; Vamos, que no se puede pedir más.</p>
+<p>Bueno, sí. Puedo pedir terminar de una vez la App iOS que estoy ultimando y así poderme ir tranquilo a BCN. Y acabar las transparencias a tiempo, y no en el tren, que me veo como siempre&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/02/20/ponente-en-la-wipjam-en-el-mwc-14/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>La comunidad de desarrollo Mac en España</title>
+		<link>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/</link>
+		<comments>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/#comments</comments>
+		<pubDate>Sun, 19 Jan 2014 09:28:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[comunidad]]></category>
+		<category><![CDATA[Objective C]]></category>
+
+		<guid isPermaLink="false">/?p=2088</guid>
+		<description><![CDATA[He recibido un par de correos preguntándome sobre esto mismo en los últimos días. Además, es algo que me gusta comentar en los cursos que imparto sobre iOS (y en los de Android, solo que en esos hablo lógicamente de la comunidad Androide). Así que voy a resumir y reunir aquí lo que necesitas para [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>He recibido un par de correos preguntándome sobre esto mismo en los últimos días. Además, es algo que me gusta comentar en los cursos que imparto sobre iOS (y en los de Android, solo que en esos hablo lógicamente de la comunidad Androide). Así que voy a resumir y reunir aquí lo que necesitas para acceder a la <em>misteriosa y privilegiada comunidad de desarrollo iOS/Mac en España</em>.</p>
+<h2>Sin miedos</h2>
+<p>Primero, lo más importante: si te interesa el desarrollo con tu Mac, en Cocoa, usando Xcode y Objective C <em>ya eres miembro de esta comunidad</em>. No ha sido tan difícil entrar, ¿no?. Como en cualquier comunidad, sólo hace falta que tengas interés, o curiosidad, o conocimientos, y que quieras compartirlos. No hay que hacer pactos con el Anticristo, ni con los bancos, ni firmar contratos con la sangre de un gallo. Cosa asquerosa, por cierto.</p>
+<p>Puedes disfrutar de esta comunidad <em>a distancia</em>, usando tu ordenador e Internet, pero yo siempre recomiendo el contacto cara a cara, personal. El periodo más productivo de mi vida como programador fue cuando estudiaba la carrera de Informática. Y así lo recuerdo por el grupo de personas con las que me reunía a programar y a <em>hablar</em> sobre programación. Probablemente es más la sensación de que «cualquier tiempo pasado fue mejor» que algo objetivo (probablemente, no, seguro, mi código era una <em>abominación</em>), pero hablar con gente que sabe mucho más que tú es algo que estimula mucho, motiva y te fuerza a mejorar para no sentir que haces el ridículo entre ellos.</p>
+<p>Aunque eso nunca pasa: <strong>nadie, nunca, se va a reír del que no sabe</strong>. Lo que hará es ayudarle. Así que destierra ese miedo de tu mente, esa pesadilla que alguna vez has tenido: nadie se va a levantar, en medio del bar señalándote y gritando «mirad al pardillo este, que no sabe nada de nada». Si alguien actuara así es causa objetiva para que te tatúen <em>tonto</em> en la frente, y de no ser parte de esta comunidad.</p>
+<h2>Blogs</h2>
+<p>Pongo aquí una lista de los mejores blogs de programación Cocoa en Español <strong>que conozco y leo</strong>. Debe haber más: apórtalos en los comentarios. Siempre son bienvenidos. Van sin un orden concreto, salvo Objective-C.es, el blog de Rafa, claro ejemplo de superación personal y, como se que al final acabará en Apple, le voy haciendo ya la pelota para que pase mi CV cuando llegue el momento.</p>
+<ul>
+<li><a href="http://objective-c.es/">Objective-C.es</a></li>
+<li><a href="http://www.migueldiazrubio.com/">Blog de Miguel Díaz Rubio</a></li>
+<li><a href="http://www.cocoaosx.com/">Cocoa Mental</a></li>
+</ul>
+<h2>Reuniones periódicas</h2>
+<p>Aquí tenemos las reuniones que se tienen en distintas ciudades de España, con distintas periodicidades. Si no tienes ninguna cerca <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">siempre puedes animarte y fundar la tuya propia</a>. Sólo necesitas a una segunda persona interesada en lo mismo.</p>
+<ul>
+<li><a href="http://nscoder-mad.tumblr.com/">NSCoder Night Madrid</a> </li>
+<li><a href="http://nsexperience.tumblr.com/">NSXperience BCN</a> </li>
+<li><a href="http://nscoder-sev.tumblr.com/">NSCoder Night Sevilla</a> <a href="">NSCoder Night Valencia</a></li>
+<li><a href="http://nscoder-cor.tumblr.com/">NSCoder Night Córdoba</a></li>
+</ul>
+<p>Todas estas reuniones tienen su propio Twitter. Busca y ponte en contacto con ellos.</p>
+<h2>«La» Conferencia</h2>
+<p>La conferencia de la comunidad Cocoa Española, el sitio al que hay que ir es la <a href="http://nsspain.com/">NSSPain</a>. Es una conferencia internacional (luego es en Inglés), pero es la que más cerca vas a encontrar con mejor contenido. Yo me he hecho fijo en el primer año.</p>
+<h2>Twitter</h2>
+<p>Hay montones de gente interesante a la que seguir. Te recomiendo que sigas por twitter a los blogueros anteriores y que mires a quiénes siguen. Es la forma más rápida.</p>
+<h2>Preguntas y respuestas</h2>
+<p>El portal <a href="http://www.nscodecenter.com/preguntas/">NSCoderCenter</a> es lo que buscas</p>
+<h2>Pull request</h2>
+<p>Si quieres que incluya un apartado, o quieres completar todo esto con más información, usa los comentarios más abajo. Gracias.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/19/la-comunidad-de-desarrollo-mac-en-espana/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+		<item>
+		<title>Curso gratuito iOS en Cádiz AKA ayudando a la comunidad</title>
+		<link>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/</link>
+		<comments>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/#comments</comments>
+		<pubDate>Thu, 16 Jan 2014 19:39:14 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[iOS]]></category>
+
+		<guid isPermaLink="false">/?p=2103</guid>
+		<description><![CDATA[Ser awesómico es la marca de la casa de David Bonilla. Montar movidas guapas la de Jorge Galindo. La mía, probablemente, es ponerse palote con cualquier trozo de código. El caso es que, por culpa de David y su #weareatwar se están haciendo cosas y hay gente predispuesta a hacer cosas que antes no se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ser <em>awesómico</em> es la marca de la casa de <a href="http://www.bonillaware.com/">David Bonilla</a>. Montar <em>movidas guapas</em> la de <a href="http://blog.jorgegalindo.me/">Jorge Galindo</a>. La mía, probablemente, es <em>ponerse palote</em> con cualquier trozo de código.</p>
+<p>El caso es que, por culpa de David y su <a href="http://www.bonillaware.com/weareatwar">#weareatwar</a> se están haciendo cosas y hay gente predispuesta a hacer cosas que antes no se nos hubieran ocurrido. Está dinamizando a la comunidad TI española que quiere escuchar. Esas son las razones que han llevado a Jorge a dejarse liar (aunque para liar a Jorge tampoco es que tengas que esforzarte mucho) y pegarse el curro de cargar con todas las tareas necesarias para que yo pueda llegar a Cádiz e impartir este curso. <a href="http://blog.jorgegalindo.me/post/73436654982/curso-gratuito-de-desarrollo-de-apps-en-ios-para">Lo explica muy bien en su blog</a>.</p>
+<p>Yo quería contar aquí el porqué de esta iniciativa. Cómo es que un camarada mercenario como yo deje el vil metal de lado y decida pasar un fin de semana en Cádiz hablando de desarrollo iOS.</p>
+<p>La primera razón es que tampoco es tan malo como parece. Cuando tu trabajo te gusta tanto como a mi, estar hablando de desarrollo y programando es casi lo mismo que haces para divertirte. Así que tampoco es tan dura la cosa. Cierto es que a mucha gente la perspectiva de impartir 20h de curso entre Viernes, Sábado y Domingo frente a un grupo de 15 personas le aterraría. Bueno, a mi me aterra la contabilidad. Todos tenemos limitaciones (yo, muchas).</p>
+<p>Pero esto es algo que me lleva dando vueltas en la cabeza desde el año pasado. La idea de que somos pocos informáticos, de que es una carrera / estudios que se cursan poco. De que los que estamos cada vez somos más viejos. Que hay pocos chavales. Y chavalas, ni te cuento. Y no es bueno. Pensando en la ley de Oferta y Demanda, cuantos menos seamos, más pasta y trabajo para los que quedemos. Pero la realidad es que la demanda crece muy muy por encima de la oferta, y esto va a seguir así en el futuro. No sólo son los móviles. Son los wearables. Son los edificios conectados. El Internet de las cosas. Los coches. Todo. Todo necesita un ordenador conectado y Apps para eso. Las TVs. Las nuevas consolas. Y no hay manos para todo este trabajo.</p>
+<p>Y cuando nos vienen los agobios uno se dedica a vampirizar la comunidad. Copiamos código de Stack Overflow. Usamos librerías de Github. Preguntamos en nuestras reuniones (como la NSCoder Night de Sevilla). Nos pasamos trabajo unos a otros. Escuchamos podcasts. Nos seguimos en Twitter. Nos vemos en las conferencias. La comunidad nos motiva y nos enseña. La necesitamos para ser mejores programadores.</p>
+<p>Esta es la segunda razón por la que he querido poner este granito de arena: ampliar la pequeña comunidad iOS / Cocoa en Andalucía. Y, de paso, ayudar en lo que pueda a una de las zonas de España con más paro, en lo poco que pueda. Ojo, que no soy Teresa de Calcuta. Pero muchas veces no hacen falta grandes gentos: con ser un poco mejor cada día y <a href="http://www.shorinjikempo.or.jp/wsko/kaiso/23.html">dar la mitad para tí y la mitad para los demás</a>, basta.</p>
+<p>Así que ya sabes. Si estás parado y sabes programar, o eres estudiante (que, por definición, está parados a no ser que seas tonto como yo y trabajes mientras estudias, forma perfecta de no acabar la carrera) intentaremos meterte en una de las 15 plazas del curso de desarrollo iOS que vamos a impartir en Cádiz. <a href="http://www.meetup.com/Curso-gratuito-de-desarrollo-de-apps-en-iPhone-e-iPad/">Todos los detalles aquí</a>.</p>
+<p>Espero dar un curso <em>awesómico</em>, que sea una <em>movida tan guapa</em> que todos nos pongamos <em>palotes</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/16/curso-gratuito-ios-en-cadiz-aka-ayudando-a-la-comunidad/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Mi primer post en Objective-C.es</title>
+		<link>/2014/01/12/mi-primer-post-en-objective-c-es/</link>
+		<pubDate>Sun, 12 Jan 2014 19:21:21 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cocoa]]></category>
+
+		<guid isPermaLink="false">/?p=2101</guid>
+		<description><![CDATA[Ayer por fin cumplí la promesa que le hice hace casi un año a Rafa (el creador de Objective-C.es) de escribir un post sobre el script que uso para lanzar Xcode. Por cierto, si programas con Cocoa y no conocías este blog, ya puedes ir leyendo: te va a encantar. Más vale tarde que nunca, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Ayer por fin cumplí la promesa que le hice hace casi un año a Rafa (el creador de <a href="http://objective-c.es/">Objective-C.es</a>) de escribir <a href="http://objective-c.es/compilando-los-proyectos-de-xcode-en-memoria/">un post sobre el script que uso para lanzar Xcode</a>.</p>
+<p>Por cierto, si programas con Cocoa y no conocías este blog, ya puedes ir leyendo: te va a encantar.</p>
+<p>Más vale tarde que nunca, ¿no?</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Notación Húngara: contrapost</title>
+		<link>/2014/01/10/notacion-hungara-contrapost/</link>
+		<comments>/2014/01/10/notacion-hungara-contrapost/#comments</comments>
+		<pubDate>Fri, 10 Jan 2014 09:38:54 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Objective C]]></category>
+		<category><![CDATA[Polémicas]]></category>
+
+		<guid isPermaLink="false">/?p=2091</guid>
+		<description><![CDATA[¿A quién no le gusta una buena polémica? Esta semana en Twitter Sendoa Portuondo planteó una conversación bastante interesante sobre si era conveniente (o estaba de moda) usar prefijos en las variables de nuestros programas Objective-C. Mi respuesta fue que, a veces los usaba. Especialmente uso los prefijos para los IBOutlets, de forma que puedo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h1>¿A quién no le gusta una buena polémica?</h1>
+<p><a href="/wp-content/uploads/2014/01/polemica-tuitera.png"><img src="/wp-content/uploads/2014/01/polemica-tuitera.png" alt="Polémica Tuitera" width="558" height="624" class="aligncenter size-full wp-image-2096" srcset="/wp-content/uploads/2014/01/polemica-tuitera.png 558w, /wp-content/uploads/2014/01/polemica-tuitera-268x300.png 268w, /wp-content/uploads/2014/01/polemica-tuitera-535x598.png 535w" sizes="(max-width: 558px) 100vw, 558px" /></a></p>
+<p>Esta semana en Twitter <a href="http://www.punteroavoid.com/">Sendoa Portuondo</a> planteó una conversación bastante interesante sobre si era conveniente (o estaba de moda) usar prefijos en las variables de nuestros programas Objective-C. Mi respuesta fue que, a veces los usaba. Especialmente uso los prefijos para los <code>IBOutlets</code>, de forma que puedo completar el código rápidamente (o encontrar un Outlet sin tener que hacer un viaje al<code>@interface</code> correspondiente.</p>
+<p>Fernando Rodríguez (<a href="http://www.cocoaosx.com/">Cocoa Mental</a>, Big Nerd Ranch, <em>super Bad-Ass Master of the Universe</em>) argumentaba totalmente en contra y <a href="http://www.cocoaosx.com/2014/01/09/nomenclatura-hungara-objective-c/">ha escrito un artículo en Cocoa Mental</a> al respecto. Normalmente estoy de acuerdo con las cosas que publica Fernando, más que nada porque voy al blog a <em>leer para aprender</em> y puedo aportar poco. Pero en este tema concreto (el uso o no de prefijos para identificar <em>qué</em> es una variable), no estoy de acuerdo.</p>
+<p>Sus argumentos, que he visto esgrimidos en muchos sitios, se basan en la horrenda interpretación que se hizo de la Notación Húngara propuesta por <a href="http://es.wikipedia.org/wiki/Charles_Simonyi">Charles Simonyi</a>. Nadie lo explica mejor que Joel Spolsky en el artículo <a href="http://www.joelonsoftware.com/articles/Wrong.html">Doing it wrong</a>, pero por si no tenéis ganas de leerlo (<em>mal!, dejad en este momento todo esto y leed el blog de Joel de cabo a rabo</em>), voy a intentar explicarlo.</p>
+<h1>Notación Húngara</h1>
+<p>Si lees el <a href="http://msdn.microsoft.com/en-us/library/aa260976(VS.60).aspx"><em>paper</em> original de Simonyi</a>, encontrarás que la idea que presenta es: «pongamos el <em>qué es</em> de una variable en el prefijo, de forma que sepamos de qué estamos hablando al usarlo luego». Probablemente por no ser el Inglés su lengua materna Simonyi usó la palabra <em>type</em>. Pero no se refiere al tipo que el compilador asigna a una variable, sino a su forma, características, esencia, chi o como lo llames. Su <em>Kind</em>. En un párrafo hablando de cómo prefijar cantidades (índices, filas, etc.) podemos leer:</p>
+<blockquote>
+<p>Quantities are named by their type possibly followed by a qualifier. A convenient (and legal) punctuation is recommended to separate the type and qualifier part of a name. (In C, we use a capital initial for the qualifier as in rowFirst: row is the type; First is the qualifier.)</p>
+</blockquote>
+<p>Si os fijáis atentamente, para dar nombre aquí a una variable que representa una fila, la llama *row_First, y no longFirst o intFirst. Es decir, usa &#95;qué&#95; es esa variable y no el &#95;tipo&#95; de nuestro lenguaje elegido para representar a ese elemento. Los grandes detractores de la notación húngara han visto código escritos por otros que no la han entendido y que les obligaban a hacer tonterías como:</p>
+<pre><code>int *ptrFirstNumber;        // ¡ya sabemos que el tipo es un puntero a int!
+char *strName;              // con leer la declaración, basta...
+NSString stringAddress;     // esto es de nota
+</code></pre>
+<h1>Apple Will Never Do That</h1>
+<p>Por cierto y como nota <em>inocente</em>. Dado que esto lo extendió Microsoft y dado que Apple nunca se equivoca, Cocoa es elegante, etc. etc. en Cocoa no encontraremos <strong>nunca</strong> esta horrible notación, ¿no?. Bueno, no esta, sino <em>notación húngara a la inversa</em> (HungarianNotation^-1): usando sufijos <strong>en los tipos</strong>. Por ejemplo estas cositas:</p>
+<pre><code>AboutViewController *vc;    // ¡ejem! Ya sabemos que vc es de tipo "Pantalla About". 
+</code></pre>
+<p>¿Pero realmente es necesario poner «ViewController» al final de un tipo que extiende de UIViewController? Ya puesto así, que se llame <code>AboutViewControllerUIResponderNSObject</code>, y vemos todas las clases de las que hereda, ¿no?. ¡Error!.</p>
+<p>Aquí Apple está <em>marcando</em> en el nombre de la clase <em>qué</em> es, y no su tipo. Para Apple, un ViewController es una <em>pantalla</em> en un programa iOS. Fijáos que el sufijo no es <code>UIViewController</code>, que sería el tipo. Además, sólo leyendo AboutViewController no sabes si es un <code>UIViewController</code>, un <code>UITableViewController</code>, &#8230; lo que sí entiendes es que es una pantalla.</p>
+<p>Hungarian Notation at its best!</p>
+<h1>Un ejemplo, que me duermo</h1>
+<p>Quiero cerrar con un pequeño ejemplo. Supongamos que tenemos una clase que nos devuelve Usuarios (de un servicio web o una BD). Es la clase <code>Users</code>. Esta clase dispone de dos métodos:</p>
+<pre><code>+ (NSDictionary *)allUsers;
++ (NSDictionary *)allUsersOrderedByName;
+</code></pre>
+<p>Los nombres de los métodos son <em>autoexplicativos</em>. Usamos un diccionario en el que buscaremos usando una clave (en este caso, el nº de usuario).</p>
+<p>Si en mi código, más adelante, quiero guardar estos dos diccionarios (uno está ordenado por los valores de sus claves, que ya que estamos es la forma de ordenar un diccionario, el otro no) podría usar <em>Hungarian Notation Dark Side Style</em>, la criticada por Fernando:</p>
+<pre><code>NSDictionary *dictionaryAllUsers = [Users allUsers];
+NSDictionary *dictionaryAllUsersOrdered = [Users allUsersOrderedByName];
+</code></pre>
+<p>Aquí, el ver que son un NSDictionary no me aporta nada. Es una tontería redundante poner estos prefijos. Mucho mejor usando <em>Hungarian Notation Luke Style</em>:</p>
+<pre><code>NSDictionary *listUsers;
+NSDictionary *orderedListUsers;
+</code></pre>
+<p>Aquí usamos <em>qué</em> es para nosotros estas variables, qué representan en el flujo del programa. Son listas de usuarios. Que utilizaremos para mostrar en pantalla, buscar o lo que sea. Me da igual su tipo. Pueden ser NSDictionary, NSArray, un tipo propio, un B-Tree&#8230; Lo que me interesa es comprender de un vistazo que a) son listas y b) una de ellas viene ordenada.</p>
+<h1>Conclusión</h1>
+<p>Así que, sí, estoy de acuerdo con Fernando en que poner el tipo del compilador al identificador de una variable es una chorrada. Pero eso no es Notación Húngara. Es la mala interpretación que se hizo de ella. La Notación Húngara tal y como se definió es valiosa.</p>
+<h1>Vale, pero al final, ¿tú lo usas?</h1>
+<p>Pues creo que sí. Pero no de una manera consciente. Este tipo de discusiones, que algunos obsesionados por «hacer que funcione» verán como una pérdida de tiempo son las que nos permiten aprender y entender por qué hacemos las cosas como las hacemos. Es lo que nos hace Informáticos. Que no Ingenieros. Los Ingenieros no entenderían esto :-D. Pero esta polémica la dejo para otro post.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2014/01/10/notacion-hungara-contrapost/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>iOSDevUK 2013: retrospectiva personal</title>
+		<link>/2013/09/08/iosdevuk-2013-retrospectiva-personal/</link>
+		<comments>/2013/09/08/iosdevuk-2013-retrospectiva-personal/#comments</comments>
+		<pubDate>Sun, 08 Sep 2013 09:03:19 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Conferencias]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iOSDevUK]]></category>
+		<category><![CDATA[Viajes]]></category>
+
+		<guid isPermaLink="false">/?p=2010</guid>
+		<description><![CDATA[Otro año más esperando en la estación de tren de Aberystwyth para irme definitivamente. Otro iOSDevUK más al que acudo (y van tres seguidos). Creo que soy el más pesado de los delegados internacionales de esta conferencia. Tanto, que necesitaban a un guiri representativo de la conferencia en la radio de Gales y Chris (el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Otro año más esperando en la estación de tren de Aberystwyth para irme definitivamente. Otro <a href="http://www.iosdevuk.com/">iOSDevUK</a> más al que acudo (y van tres seguidos). Creo que soy el más pesado de los delegados internacionales de esta conferencia. Tanto, que necesitaban a un <em>guiri</em> representativo de la conferencia en la radio de Gales y Chris (el organizador de la conferencia) tuvo la idea de invitarme para hablar sobre Apps. A las 6:30 de la mañana. Sí, están puestas las calles y las emisoras de radio a esas horas.</p>
+<div id="attachment_2013" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/radio-wales.jpg" alt="Chris Price en la Radio de Gales" class="size-full wp-image-2013" srcset="/wp-content/uploads/2013/09/radio-wales.jpg 1024w, /wp-content/uploads/2013/09/radio-wales-300x225.jpg 300w, /wp-content/uploads/2013/09/radio-wales-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Chris Price en la Radio de Gales</p></div>
+<p>Mi balance de la conferencia, como el de otros años, es: <em>awesome</em>.</p>
+<p>Pero este año se han añadido varios factores que me han hecho disfrutar de la estancia como nunca.</p>
+<ul>
+<li>Debido a los <a href="/2013/07/29/organizando-mi-espacio-de-trabajo/">cambios</a> que estoy <a href="/2013/08/07/dejo-dropbox-por-bittorrent-sync/">realizando</a> en múltiples <a href="/2013/08/18/ordenando-cds/">aspectos</a> de mi vida, este año he venido muy relajado y con una clara mentalidad: aprovechar el momento al máximo. Suena a <em>cliché</em> barato, pero la realidad es que muchas veces sale uno de viaje y en lugar de disfrutar las cosas buenas del viaje te dedicas a quejarte por las inevitables incomodidades y, por un lado a recordar lo bien que estabas en casa y por otro a estresarte por todo el trabajo que te espera a la vuelta. La verdad, para tener este estrés, casi mejor no viajar ¿no?. Pues este año no ha sido así: he podido hacer muchas cosas, y en cada momento he estado completamente presente y disfrutando de lo que hacía, ya fuera conversando con otros compañeros, comiendo, paseando, bebiendo cerveza o corriendo. </li>
+<li>he venido con un viaje mucho mejor organizado. Para mi, la mejor ruta es avión Málaga &#8211; Birmingham y desde el aeropuerto tren directo a Aberystwyth. Nada de conducir desde Londres como <a href="http://www.cocoaosx.com/2013/04/27/iosdevuk-201/">el primer año con Fernando Rodríguez</a> o de pasarme la noche vagando por Nottigham como el segundo año tras llegar al East Midlands Airport. Si el viaje es más descansado, lo tienes claro y la ruta es conocida todo va bastante mejor. Además, me he dado montones de tiempo entre las conexiones tren &#8211; avión. Tiempo en teoría <em>muerto</em> (aunque el tiempo es el que es, todo depende de lo que tú haces con el; es decir, que lo <em>matamos</em> nosotros, no viene <em>muerto</em> de serie). Esta vez me he dedicado a leer y escribir. <em>Well done</em>.</li>
+</ul>
+<div id="attachment_2019" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/running-pals-2.jpg" width="800px" alt="Compañeros de carreras" class="size-full wp-image-2019" srcset="/wp-content/uploads/2013/09/running-pals-2.jpg 1024w, /wp-content/uploads/2013/09/running-pals-2-300x225.jpg 300w, /wp-content/uploads/2013/09/running-pals-2-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Compañeros de carreras</p></div>
+<div id="attachment_2020" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/running-pals.jpg" alt="Más corredores" width="800px" class="size-full wp-image-2020" srcset="/wp-content/uploads/2013/09/running-pals.jpg 1024w, /wp-content/uploads/2013/09/running-pals-300x225.jpg 300w, /wp-content/uploads/2013/09/running-pals-535x401.jpg 535w" sizes="(max-width: 1024px) 100vw, 1024px" /><p class="wp-caption-text">Más corredores</p></div>
+<ul>
+<li>ha sido la primera vez que he podido / querido hacer deporte. Además, he podido contar con compañeros que me han ayudado en los momentos difíciles, cuando ves que tu barriga te impide subir la colina. Gracias a Sebastián, <a href="https://twitter.com/Pmunoz08">Pedro</a> y <a href="https://twitter.com/wolffan">Raimón</a> he podido correr por bosques de cuento viendo a los conejos correr a esconderse, y trepar a acantilados a ver el pueblo desde arriba. O perdernos por caminos en los que los helechos me llegaban a los hombros (lo que es fácil con mi altura por otra parte, pero aún así&#8230;) </li>
+<li>he disfrutado las noches en el pub mucho más que nunca. Tanto en el Varsity como en el Pier Royal, han caído muchas pintas de Carling y varias de sidra Strongbow. Y muchas conversaciones muy interesantes sobre trabajo, programación, tecnología, chistes, la forma de vida de cada uno&#8230; La culpa de esto ha sido el <em>rat pack</em> que hemos formado, con gente como <a href="https://twitter.com/frr149">Fernando Rodríguez</a>, <a href="http://www.linkedin.com/in/acvivo">Antonio</a>, <a href="https://twitter.com/Pmunoz08">Pedro</a>, <a href="https://twitter.com/jsanchezsierra">Javier</a>, <a href="https://twitter.com/SebasDesimone">Sebastián</a>, <a href="https://twitter.com/wolffan">Raimón</a>, <a href="https://twitter.com/RCachATX">René</a>, Petteri, &#8230; </li>
+</ul>
+<div id="attachment_2022" style="width: 810px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/09/comiendo-bien-768x1024.jpg" alt="Comer fruta en una conferencia: achievent unlocked"  class="size-large wp-image-2022" srcset="/wp-content/uploads/2013/09/comiendo-bien-768x1024.jpg 768w, /wp-content/uploads/2013/09/comiendo-bien-225x300.jpg 225w, /wp-content/uploads/2013/09/comiendo-bien-535x713.jpg 535w, /wp-content/uploads/2013/09/comiendo-bien.jpg 1024w" sizes="(max-width: 768px) 100vw, 768px" /><p class="wp-caption-text">Comer fruta en una conferencia: achievent unlocked</p></div>
+<ul>
+<li>he dormido algo menos, pero no lo he echado tanto de menos. Y quitando el último día, en el que he prescindido de dietas, he comido bastante bien y de forma muy razonable.</li>
+<li>las charlas a las que he asistido me han inspirado, ayudado, enseñado, me han hecho pensar y tomar decisiones. El taller de Core Data fue de una calidad y nivel espectacular. iOSDevUK es un evento especialmente enfocado en los desarrolladores <em>indie</em> (entre los que no me encuentro, ya que no vendo mis productos, hago cosas para otros como freelance) y me ha vuelto a entrar <em>el gusanillo</em> de publicar mis Apps y volver a intentar vender mis ideas. Tengo miedo al rechazo, a crear aplicaciones feas y horribles que nadie quiera. La única forma de vencer esto es escribir código, construir cosas y publicarlas. Y ver qué pasa entonces.</li>
+<li>He conocido a gente increíblemente inteligente, brillante, divertida, humilde. En estos sitios siempre eres el <em>retrasado</em> de la clase. Lo cual es muy bueno: tienes ganas casi de llorar cuando ves a Alan Cannistraro preguntando cosas a Marcus Zarra. Pero esta <em>impotencia</em> y sentimiento de <em>soy tonto</em> es lo que nos anima a continuar aprendiendo.</li>
+<li>he visto algo más de esta maravillosa ciudad. Creo que ya casi se pronunciar su nombre correctamente. He ido en el tren de vapor al <a href="http://en.wikipedia.org/wiki/Vale_of_Rheidol_Railway">Valle de Rheidol</a>, he vuelto a pasear por sus calles y he visitado el museo de Gales. Y me he comprado un libro del Canal Historia sobre la Primera Guerra Mundial como autoregalo. No se puede pedir más.</li>
+</ul>
+<p>En mi caso tras el iOSDevUK 2013 vuelvo aún más motivado a seguir aprendiendo, pero sobre todo, quiero escribir líneas de código. Tengo ganas de programar.</p>
+<p>Y en una semana me voy a Logroño, a disfrutar del Evento iOS internacional que <em>desesperadamente</em> necesitamos en España: <a href="http://nsspain.com/">NSSPain</a>. ¿Te lo vas a perder?</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/09/08/iosdevuk-2013-retrospectiva-personal/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>La NSConf11 de Vilanova i La Geltrú</title>
+		<link>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/</link>
+		<comments>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/#comments</comments>
+		<pubDate>Fri, 04 Nov 2011 12:43:17 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cataluña]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[desarrollo]]></category>
+		<category><![CDATA[Eventos]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+
+		<guid isPermaLink="false">/?p=1630</guid>
+		<description><![CDATA[Este pasado fin de semana tuve el placer de asistir a la primera Conferencia que ha organizado a nivel nacional la Asociación NSCoders España. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Este pasado fin de semana tuve el placer de asistir a la <a href="http://nsconf.nscoders.org/">primera Conferencia</a> que ha organizado a nivel nacional la <a href="http://nscoders.org/">Asociación NSCoders España</a>. Asociación a la que pertenezco y, la verdad, y no es por ser nosotros los organizadores, pero nos ha salido casi redondo. Y encima no sólo iba a escuchar. Cometieron el error de dejarme hablar. Y claro, me dediqué a desvariar un rato y, entre chiste y chiste, contaba cómo hacer un cliente RSS para iPhone.</p>
+<p style="text-align: justify;">Aún no se si realmente alguien aprendió algo de mi charla. Yo me lo pasé muy bien, aunque no las tenía todas conmigo. El Viernes anterior había estado toda la mañana programando con JavaScript y el framework Enyo para la HP TouchPad. Y por la tarde había estado viendo detalles intrincados de Java en un curso de preparación para el OCP Java SE 6 que estoy impartiendo. Y Cocoa ya no me cabía en mis maltrechas neuronas. Al final parece que Cocoa fluyó (con ayuda de muchos cafés) y me pude escapar sin demasiados tomatazos. Y aquí es donde empezó realmente lo bueno.</p>
+<p style="text-align: justify;">Este año he ido a otra conferencia, el iOSDevUK en Gales, que me encantó. Pero comparando ambas, en la NSConf11 he <em>escrito</em> código. No sólo he escuchado, aprendido y charlado de código. He <em>trabajado</em> el código. Como en el increíble taller de TDD que impartió <a href="http://nsconf.nscoders.org/ponentes/pedro-santos">Pedro Santos</a>, tras su charla sobre Behaviour Driven Development. Aquí tuve el privilegio de picar código mientras hacíamos pair programming aplicando el proceso paso a paso de TDD. O la charla sobre Chipmunk de <a href="http://nsconf.nscoders.org/ponentes/oscar-cardona">Óscar Cardona</a>, que nos dejó a todos atontados y pensando «esto no puede ser así de simple, o hay más código o este tío explica muy bien esto». O el taller de Core Plot, donde vimos cómo hacer gráficas complejas con esta librería, gracias a la demo de <a href="http://nsconf.nscoders.org/ponentes/victor-jalencas">Víctor Jalencas</a>. Y tantas y tantas ponencias interesantes. La única pena: las que me perdí mientras yo hablaba, y las que tuve que elegir, perdiendo la que se presentaba en paralelo.</p>
+<p style="text-align: justify;">Lo mejor, la gente que he conocido. Gente con muchas ganas de aprender, compartir y enseñar. Gente encantadora y que, como los miembros de la NSCoder_bcn que han organizado el evento, se han matado para que todo estuviera perfecto, como al final ha sido. Creo que nadie pensaba que en una primera conferencia íbamos a tener tanto público. Esto puede llegar a ser una WWDC hispana. Trabajaremos por ello. Gracias a José Juan, nuestro presidente, o a Guillem o Leandro, o Xabi, o&#8230; por la paliza enorme que se han dado.</p>
+<p style="text-align: justify;">He podido conocer en persona (yo no «desvirtualizo» a las personas: las conozco) a José Lobato, ídolo de masas Geeks y gran bebedor de cerveza :-D. El tío en persona es para comérselo, y gran parte de la «culpa» de que todo esto se originara es la semilla plantada desde 85% Cocoa con las NSCoder Nights. Otro que me ha impresionado y he podido escuchar con respeto reverencial es Iván Leider. Él es un Maestro Jedi del desarrollo. Yo, ni Padawan&#8230;</p>
+<p style="text-align: justify;">Y demostrando que el mundo geek también es un pañuelo, conocí a <a href="http://www.fillito.com/blog/">Daniel García</a>, el programador de la App de <a href="http://www.minube.com/">Minube</a> para la TouchPad. Creo que allí estábamos los dos únicos programadores Enyo de toda España :-). Bueno, alguno más habrá, pero no creo que más de 10&#8230;</p>
+<p style="text-align: justify;">Y claro, me he hinchado a comer, he visto algo de Vilanova i La Geltrú (principalmente de noche) y no he parado de hablar. La experiencia no merece la pena: es imprescindible si desarrollas en Cocoa. Yo el año que viene, repito. Espero que alguien recapacite y no me dejen hablar.</p>
+<p style="text-align: justify;">Os dejo con un Vídeo de Vilanova Digital en la que «el presi» de la Asociación explica (en Catalán, pero se entiende perfectamente) qué es la NSConf11</p>
+<p style="text-align: justify;">
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/esHvZC-VpE4" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/esHvZC-VpE4"></param></object></div>
+</div>
+<p style="text-align: justify;">Y el que quiera el código del RSS Reader que utilicé de ejemplo, lo tiene en: <a href="https://github.com/dfreniche/SimpleRSSReader">https://github.com/dfreniche/SimpleRSSReader</a></p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+]]></content:encoded>
+			<wfw:commentRss>/2011/11/04/la-nsconf11-de-vilanova-i-la-geltru/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Conferencia NSCoders Apple Conference 2011, ¡ya casi está aquí!</title>
+		<link>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/</link>
+		<comments>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/#comments</comments>
+		<pubDate>Thu, 20 Oct 2011 18:04:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[NSCoder Nights]]></category>
+		<category><![CDATA[Objective C]]></category>
+
+		<guid isPermaLink="false">/?p=1626</guid>
+		<description><![CDATA[¿Cómo? ¿Que aún no te has apuntado a la NSCoders Apple Conference 2011? ¡Pues ya estás tardando! Podrás ver allí a lo más granado de las distintas NSCoder Nights de toda España. Yo voy a impartir una de las sesiones. Así que ya sabes: no hay excusa para no invitarme a un café, o a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1627" style="width: 680px" class="wp-caption aligncenter"><a href="http://nsconf.nscoders.org/"><img class="size-full wp-image-1627" title="NSCoders Apple Conference 2001" src="/wp-content/uploads/2011/10/nsconf11.gif" alt="NSCoders Apple Conference 2001" width="670" height="260" srcset="/wp-content/uploads/2011/10/nsconf11.gif 670w, /wp-content/uploads/2011/10/nsconf11-300x116.gif 300w" sizes="(max-width: 670px) 100vw, 670px" /></a><p class="wp-caption-text">NSCoders Apple Conference 2001</p></div>
+<p style="text-align: justify;">¿Cómo? ¿Que aún no te has apuntado a la NSCoders Apple Conference 2011? ¡Pues ya estás tardando! Podrás ver allí a lo más granado de las distintas NSCoder Nights de toda España. Yo voy a impartir una de las sesiones. Así que ya sabes: no hay excusa para no invitarme a un café, o a un MacBook Air, lo que te venga mejor.</p>
+<p style="text-align: justify;">Por si esto de la NSCoder te deja frío y no sabes de qué te hablo, <a href="/2011/10/04/primera-conferencia-de-la-asociacion-nscoders-espana/">te recuerdo</a> que las NSCoder Nights son reuniones de programadores, diseñadores, gente interesada en el desarrollo en plataforma Apple, que se juntan en un bar a charlar, tomar unas copas, e incluso programar. En <a href="/2010/11/12/nscoder-nights-sevilla/">Sevilla tenemos una muy animada</a>, a la que te invito a venir, si te pasas por la ciudad. Incluso <a href="/2010/11/30/como-crear-tu-propia-nscoder-night/">puedes montar la tuya propia</a>.</p>
+<p style="text-align: justify;">El caso es que la idea ha cuajado, y han surgido como setas las NSCoders. Y claro, todos queremos más. Realmente nos da envidia la WWDC, pero es que es una pasta ir a San Francisco :-D. Y aquí va a ir gente de auténtico nivel. Yo voy de relleno.</p>
+<p>No le des más vueltas y reserva ya. ¡Es gratis!. Vente en barco, en avión o en burro, pero vente con tu Mac.</p>
+<p><strong>Keep coding!</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/10/20/conferencia-nscoders-apple-conference-2011-ya-casi-esta-aqui/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Mi primera aplicación para iPad</title>
+		<link>/2011/06/19/mi-primera-aplicacion-para-ipad/</link>
+		<comments>/2011/06/19/mi-primera-aplicacion-para-ipad/#comments</comments>
+		<pubDate>Sun, 19 Jun 2011 11:41:53 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Freelance]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[iPad]]></category>
+		<category><![CDATA[XCode]]></category>
+
+		<guid isPermaLink="false">/?p=1532</guid>
+		<description><![CDATA[He terminado y entregado mi primera App para iPad. Ha sido un encargo, muy especial, para crear un cartel interactivo dentro de un museo. Así que no la busques en la App Store, porque no va a aparecer. La App está dedicada a narrar los sucesos que llevaron hasta la primera Constitución democrática de España, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">He terminado y entregado mi primera App para iPad. Ha sido un encargo, muy especial, para crear un cartel interactivo dentro de un museo. Así que no la busques en la App Store, porque no va a aparecer. La App está dedicada a narrar los sucesos que llevaron hasta la primera Constitución democrática de España, «La Pepa», proclamada en 1812. Es visualmente muy sencilla (debía ser «minimalista») y muy fácil de usar: se desplazan los sucesos con un «swipe» o bien se avanza por un «cover flow» en la parte inferior.</p>
+<div id="attachment_1533" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/timeline1.png"><img class="size-full wp-image-1533" title="Mi App para iPad en funcionamiento" src="/wp-content/uploads/2011/06/timeline1.png" alt="Mi App para iPad en funcionamiento" width="800" height="600" srcset="/wp-content/uploads/2011/06/timeline1.png 800w, /wp-content/uploads/2011/06/timeline1-300x225.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Mi App para iPad en funcionamiento</p></div>
+<p>Con esta App he aprendido muchas cosas:</p>
+<ul>
+<li>cómo desarrollar pensando en la resolución del iPad</li>
+<li>cómo hacer pruebas con el iPad de mi mujer cuando ella no lo está usando</li>
+<li>cómo usar a fondo UIScrollView</li>
+<li>cómo encontrar trozos de código en Internet que me resuelvan problemas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>cómo distribuir una App de forma sencilla para que el cliente la pruebe sin tener que ir yo a instalarla en sus dispositivos (gracias @xelecto por enseñarme <a href="http://www.hanchorllc.com/category/ios-betabuilder/">BetaBuilder</a>)</li>
+<li>a hacer un MVC del que me sienta contento</li>
+<li>a comenzar un proyecto pensando en cómo voy a reutilizar el código</li>
+<li>que el iPad no tiene motor de vibración <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f61b.png" alt="😛" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>que desarrollar para un estudio de diseñadores te abre los ojos sobre muchos aspectos de diseño, pero también a ratos te hace odiar a la raza humana.</li>
+</ul>
+<div id="attachment_1534" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/timeline2.png"><img class="size-full wp-image-1534" title="Cambiando de evento" src="/wp-content/uploads/2011/06/timeline2.png" alt="Cambiando de evento" width="800" height="600" srcset="/wp-content/uploads/2011/06/timeline2.png 800w, /wp-content/uploads/2011/06/timeline2-300x225.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Cambiando de evento</p></div>
+<p style="text-align: justify;">Increíblemente he cumplido «casi» perfectamente en tiempo, pese a estar con mil cosas a la vez. Y me he vendido muy barato, debo decirlo, porque el proyecto me atraía mucho.</p>
+<p>Tengo ahora una buena base para plantearme una App que cuente cuentos, o explique cosas (al estilo de aquellos estupendos libros de «Cómo funcionan las cosas»).</p>
+<p style="text-align: justify;">Así que ya sabes: si tienes una App interesante para desarrollar, dinero en el bolsillo y las ideas claras, siempre puedes <a href="/contactar/">contactar</a> conmigo para contratarme como desarrollador Freelance. O directamente puedes donarme el dinero y ya yo voy haciendo algo «magical» <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div id="attachment_1535" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/timeline3.png"><img class="size-full wp-image-1535" title="Batalla de Trafalgar" src="/wp-content/uploads/2011/06/timeline3.png" alt="Batalla de Trafalgar" width="800" height="600" srcset="/wp-content/uploads/2011/06/timeline3.png 800w, /wp-content/uploads/2011/06/timeline3-300x225.png 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Batalla de Trafalgar</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/19/mi-primera-aplicacion-para-ipad/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>Una mañana de trabajo cualquiera</title>
+		<link>/2011/04/05/una-manana-de-trabajo-cualquiera/</link>
+		<comments>/2011/04/05/una-manana-de-trabajo-cualquiera/#comments</comments>
+		<pubDate>Tue, 05 Apr 2011 11:02:18 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[productividad]]></category>
+		<category><![CDATA[Trasteando]]></category>
+		<category><![CDATA[vmware]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/?p=1453</guid>
+		<description><![CDATA[Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para mi querido Amstrad CPC 464 con [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Me paro un momento y miro en lo que estaba trabajando, y los programas que tengo abiertos ahora mismo, y no puedo evitar pensar que soy lo más alejado del minimalismo. Al menos en lo que se refiere al ordenador. Era minimalista cuando no tenía dinero más que para <a href="http://freniche.com/wp/?page_id=4">mi querido Amstrad CPC 464</a> con el monitor fósforo verde, con su unidad de casetes. El único periférico que tenía era un Joystick. Y a usarlo. Pero veía en las películas a gente en países lejanos y extraños, en salas llenas de ordenadores.</p>
+<p style="text-align: justify;">Como el programador de Parque Jurásico (que, por supuesto, además de ser el malo, cobarde y torpe, estaba mal pagado y era gordo y feo). Por cierto, si veis de nuevo JP os llamarán la atención dos cosas: una, que están programando fumando, algo impensable en cualquier entorno de hoy en día. La otra, que el sistema de «bug tracking» que usan es una libreta donde van anotando los errores <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/RfiQYRn7fBg"" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/RfiQYRn7fBg""></param></object></div>
+</div>
+<p style="text-align: justify;">Volviendo al tema que me traía aquí, en esta mañana he comenzado <a href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/">programando en C</a>, en el IDE Eclipse corriendo sobre Windows 7. Ese <a href="/2011/01/27/windows-7-corre-que-se-las-pela-en-mi-viejo-macbook-pro/">Windows 7 está instalado en mi MBP</a>. Por si fuera poco frikismo, he usado el escritorio remoto de Windows para programar esos ejemplos en una ventana del iMac de 27&#8243;, que para eso tengo una pantalla grande. Mientras programaba iba actualizando la presentación de Keynote que acompaña al curso, en el iMac. Sonaba la música desde iTunes, donde estaba restaurando mi iPhone 3Gs con una copia de seguridad de ayer: mis niños han borrado algunas fotos en un descuido.</p>
+<p style="text-align: justify;">He terminado con C y me he pasado a WordPress. Arrancando una máquina virtual VMWare de <a href="http://bitnami.org/">Bitnami</a>, que ya tiene un entorno WP completo sobre Linux, me he dedicado a crear un nuevo sitio para migrar una vieja web que hice hace ya la tira en Typo3. Es decir, instala plugins, widgets, temas, escribe posts, importa información, etc.</p>
+<p style="text-align: justify;">Ahora toca pensar en el próximo curso de Java EE que tengo que impartir a finales de mes. Java, Servlets, EJBs, JBoss, Eclipse de nuevo (aunque ahora en su «sabor» Java). Tendré que ojear un libro, que tengo en formato CHM (formato típico de Windows en otra época). Y luego, un poco de Objective C para comenzar un proyecto iPad que me han encargado. Tengo cosas que leer de UML&#8230;</p>
+<p style="text-align: justify;">Es por este desbarajuste de trabajo que tengo, con tantas tecnologías, frameworks, lenguajes, herramientas y entornos distintos por lo que amo a mis dos Macs. Necesito ser anti-minimalista, ya que si lo fuera no podría hacer la mitad de las cosas que hago. Esta es la razón de haber <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">ampliado mi iMac a 12 GB de RAM</a>. Aún así, procuro no instalar nada si ya tengo una aplicación que hace más o menos lo mismo, que si no acabas con un montón de aplicaciones similares que no acabas de dominar en profundidad.</p>
+<p style="text-align: justify;">Bueno, sigo, que quiero ir terminando. Que no hace mucho me comentaron que a lo mejor tengo que aprender <a href="http://clipsrules.sourceforge.net/">CLIPS</a>&#8230; <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/04/05/una-manana-de-trabajo-cualquiera/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Episodio 19 de 85% Cocoa</title>
+		<link>/2011/03/18/episodio-19-de-85-cocoa/</link>
+		<pubDate>Fri, 18 Mar 2011 10:15:49 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Autobombo]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[FogBugz]]></category>
+		<category><![CDATA[iOS]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Productos]]></category>
+
+		<guid isPermaLink="false">/?p=1439</guid>
+		<description><![CDATA[Que escucho 85% Cocoa habitualmente es algo que cualquiera que se lea mi timeline de Twitter verá en un rato. Es un podcast que te anima a seguir aprendiendo cosas en el mundo del desarrollo Mac con Cocoa, y que trata también temas extrapolables al desarrollo con cualquier lenguaje. ¡Jose Antonio Lobato hasta habla de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_1440" style="width: 180px" class="wp-caption aligncenter"><a href="http://ochentaycincoporcientococoa.tumblr.com/"><img class="size-full wp-image-1440" title="85% Cocoa Podcast. Pulsa para ir al podcast. Imagen usada sin consentimiento de nadie. Espero que no me denuncien" src="/wp-content/uploads/2011/03/85_cocoa.jpg" alt="85% Cocoa Podcast. Pulsa para ir al podcast. Imagen usada sin consentimiento de nadie. Espero que no me denuncien" width="170" height="170" srcset="/wp-content/uploads/2011/03/85_cocoa.jpg 170w, /wp-content/uploads/2011/03/85_cocoa-150x150.jpg 150w" sizes="(max-width: 170px) 100vw, 170px" /></a><p class="wp-caption-text">85% Cocoa Podcast. Pulsa para ir al podcast. Imagen usada sin consentimiento de nadie. Espero que no me denuncien</p></div>
+<p style="text-align: justify;">Que escucho 85% Cocoa habitualmente es algo que cualquiera que se lea mi timeline de Twitter verá en un rato. Es un podcast que te anima a seguir aprendiendo cosas en el mundo del desarrollo Mac con Cocoa, y que trata también temas extrapolables al desarrollo con cualquier lenguaje. ¡Jose Antonio Lobato hasta habla de cómo correr en su podcast!. Te lo recomiendo si programas en cualquier lenguaje. Bueno, si lo haces en <a href="http://www.haskell.org/haskellwiki/Haskell">Haskell</a> o <a href="http://es.wikipedia.org/wiki/Brainfuck">BrainFuck</a> estás más allá de toda ayuda o tratamiento&#8230;</p>
+<p style="text-align: justify;">En el <a href="http://ochentaycincoporcientococoa.tumblr.com/post/3897215920/85-cocoa-episodio-19-tickets">episodio 19</a> Jose tuvo a bien invitarme a hablar, junto con su socio en Binary Tricks, Jesús Fidalgo (<a href="http://twitter.com/jfid">@jfid</a>), sobre los sistemas de gestión de bugs, tareas, tickets o asuntos (issues) que usamos. En mi caso, hablé de <a href="http://www.fogcreek.com/fogbugz/">FogBugz</a>, que es el que actualmente uso. Me he dado cuenta de que en <a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">esta entrada</a> prometía hablar de FogBugz en el blog. Bueno, considero mi cuenta saldada conmigo mismo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">La charla me resultó muy, muy agradable. <em>Me la pasé rebién</em>, que dicen los argentinos. La hora que estuvimos hablando se fue en un momento, y tratamos muchos temas. Quiero dejar aquí el enlace al <a href="http://www.joelonsoftware.com/items/2007/10/26.html">artículo en el que Joel Spolsky explica su «Evidence Based Scheduling»</a>, es decir, su sistema de «predicción» estadística de la probabilidad real que tienes de lanzar tu producto en las fechas que tú propones. Es lectura obligada.</p>
+<p style="text-align: justify;">Curiosamente ha levantado cierto revuelo la frase «el terrible complejo de sentirse inútil», que es lo que cada informático siente todos los días de su vida cuando se levanta de la cama. Con el ritmo de cambio habitual, siempre tienes la sensación de no saber nada. Pero eso no es real. Voy a dedicar algún post a este tema, ya que creo que necesitamos mucha terapia de grupo.</p>
+<p style="text-align: justify;">Y nada más. Que espero que lo disfrutéis y que, si no conocíais el podcast os apuntéis a el. Y, por cierto, es harto desagradable la experiencia de escucharte a ti mismo durante una hora. Nadie debería tener una voz que suene distinta fuera de su cabeza.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>ClockRing y la Hermenéutica de las Apple Review Guidelines</title>
+		<link>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/</link>
+		<comments>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/#comments</comments>
+		<pubDate>Thu, 03 Feb 2011 11:03:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Productos]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1377</guid>
+		<description><![CDATA[ClockRing ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1378" style="width: 380px" class="wp-caption aligncenter"><img class="size-full wp-image-1378 " title="ClockRing rechazada :-)" src="/wp-content/uploads/2011/02/ClockRing-rejected.png" alt="ClockRing rechazada :-)" width="370" height="197" srcset="/wp-content/uploads/2011/02/ClockRing-rejected.png 370w, /wp-content/uploads/2011/02/ClockRing-rejected-300x159.png 300w" sizes="(max-width: 370px) 100vw, 370px" /><p class="wp-caption-text">ClockRing rechazada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;"><a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a> ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema con la licencia, que es <a href="https://femtocoders.fogbugz.com/default.asp?W5">GPL</a>, pero como eso no aparece de entrada, no hay <em>bronca</em> (el problema lo tienen aplicaciones que, nada más abrirlas, te informan de su licencia y otras historias).</p>
+<p style="text-align: justify;">El correo que he recibido del equipo de revisión me parece perfecto, en serio. Muy educado, te dan las gracias por enviar Apps al App Store y te explican exactamente cual es el problema (en mi caso una de las capturas de pantalla que había enviado) y cómo solucionarlo. Acabo de crear una nueva captura y la he enviado ya para que me la revisen, a ver si ahora todo funciona OK. No entiendo los programadores que se quejan todo el rato del proceso de revisión. Yo hasta ahora he tenido dos problemas, y en ambos casos me han indicado qué pasaba y cómo arreglarlo. Y todo como la seda, oiga.</p>
+<p style="text-align: justify;">Lo que me hace gracia es la razón exacta del rechazo:</p>
+<blockquote>
+<p style="text-align: justify;">3.2   Apps with placeholder text will be rejected</p>
+</blockquote>
+<p style="text-align: justify;">Bueno, mi captura de pantalla inicial lo que mostraba era un anuncio vacío (un iAd sin nada, ya que estaba probando la App). Y yo tenía que interpretar que un texto de relleno (placeholder text) es lo mismo que un iAd sin anuncios. Es por eso que habría que crear una <a href="http://es.wikipedia.org/wiki/Hermenéutica">hermenéutica</a> de las reglas de Apple, de forma que mentes ilustradas nos expliquen a los más torpes exactamente qué puedes y qué no puedes hacer <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">En resumen, que si mandas esto, te rechazan:</p>
+<p style="text-align: justify;">
+<div id="attachment_1381" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingApp.png"><img class="size-full wp-image-1381" title="Captura de ClockRing App que NO cumple las reglas :-)" src="/wp-content/uploads/2011/02/ClockRingApp.png" alt="Captura de ClockRing App que NO cumple las reglas :-)" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingApp.png 320w, /wp-content/uploads/2011/02/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Captura de ClockRing App que NO cumple las reglas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Pero si mandas esto otro, todo es perfecto:</p>
+<div id="attachment_1382" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png"><img class="size-full wp-image-1382" title="Esta es la buena" src="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png" alt="Esta es la buena" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png 320w, /wp-content/uploads/2011/02/ClockRingScreenShot-edited-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Esta es la buena</p></div>
+<p>Nunca me había alegrado tanto de tener mi licencia de Pixelmator. Problema solucionado en 5 min. Bueno, eso si te acuerdas de cambiar las imágenes promocionales en todas las App Stores. Si no, te mandan otro amable correo rebosante de paciencia pidiéndote que cambies los screenshots de la App española <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Por cierto, <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing ya está disponible en el App Store</a>. Y su <a href="https://femtocoders.fogbugz.com/default.asp?W5">código fuente está aquí</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>ClockRing, Mi tercera App es Software Libre</title>
+		<link>/2011/01/27/clockring-mi-tercera-app-es-software-libre/</link>
+		<comments>/2011/01/27/clockring-mi-tercera-app-es-software-libre/#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 12:26:57 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Femtocoders]]></category>
+
+		<guid isPermaLink="false">/?p=1365</guid>
+		<description><![CDATA[Pues eso, que he mandado a revisión por parte de Apple mi tercera App. Actualmente ya tengo dos subidas: MyEvents, para gestionar tus eventos importantes y saber cuántos días quedan hasta ellos, y FXPlayer, una App escrita a cuatro manos con la ayuda de @jnhidalgo @jnhernandez, y que te permite superponer efectos de sonido a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Pues eso, que he mandado a revisión por parte de Apple mi tercera App. Actualmente ya tengo dos subidas: <a href="http://itunes.apple.com/es/app/myevents/id398956491?mt=8">MyEvents</a>, para gestionar tus eventos importantes y saber cuántos días quedan hasta ellos, y <a href="http://itunes.apple.com/es/app/fxplayer/id412711013?mt=8">FXPlayer</a>, una App escrita a cuatro manos con la ayuda de <a href="http://twitter.com/jnhidalgo">@jnhidalgo</a> @jnhernandez, y que te permite superponer efectos de sonido a una canción que tengas sonando en el iPod. Puedes verlas en la web de <a href="http://www.femtocoders.com/">Femtocoders</a> (Inglés) o en la sección <a href="/ios-apps/">iOS Apps</a> del blog.</p>
+<p style="text-align: justify;">Esta tercera se llama ClockRing, y la idea es muy sencilla: hace que suene un pitido de señal horaria en tu iPhone, como los relojes Casio de toda la vida. Con la particularidad que te permite escoger qué quieres que suene: una campana de iglesia, un reloj de cuco, un pitido típico de la radio&#8230;</p>
+<p style="text-align: justify;">
+<div id="attachment_1368" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/ClockRingApp.png"><img class="size-full wp-image-1368" title="ClockRing App" src="/wp-content/uploads/2011/01/ClockRingApp.png" alt="ClockRing App" width="320" height="480" srcset="/wp-content/uploads/2011/01/ClockRingApp.png 320w, /wp-content/uploads/2011/01/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">ClockRing App</p></div>
+<p style="text-align: justify;">Se me ocurrió la idea tras enterarme a través de <a href="http://twitter.com/jmortizsilva">José Mª Ortiz</a>, un compañero de <a href="http://twitter.com/jonathanchacon">Jonathan Chacón</a> (<a href="http://wap.elpais.com/index.php?module=elp_gen&amp;page=elp_gen_noticia&amp;idNoticia=20110104elpepirtv_1.Tes&amp;secc=tec">primer desarrollador ciego en el mundo</a> que ha publicado <a href="http://itunes.apple.com/es/app/buscaminas-accesible/id405094331?mt=8">una App</a> en el App Store, bromitas pocas), de que <a href="http://www.programaraciegas.es/2011/01/23/myevents-ejemplo-de-utilidad-simplicidad-y-accesibilidad-para-ios/">MyEvents era accesible</a>. Empecé entonces a pensar en los temas de accesibilidad y se me planteé “¿bueno, y un ciego cómo sabe de un vistazo que son las dos de la tarde y tiene que irse a comer?”. Evidentemente no <em>“de un vistazo”</em>, tienen que estar activando el iPhone, y VoiceOver te canta la hora. Pero se me ocurrió la idea de clockRing y pensé que podría ser útil. Además, José Mª, me pidió que implementase «para ayer» la posibilidad de programar alarmas en MyEvents (cosa que empiezo a preparar ya para la v1.2). Así que ClockRing era la oportunidad perfecta para practicar con la API de LocalNotifications.</p>
+<p style="text-align: justify;">La App es <strong>gratis</strong>, e incluye iAds para ver si me puedo pagar alguna cerveza a su costa. Pero hace tiempo que estoy con ganas de liberar algo de código. Así que <strong>ClockRing es Software Libre</strong>, según establece la licencia GPL v2. Vamos, que puedes ver el código, compilarlo, usarlo en tus proyectos, o para aprender, o para reírte, o para lo que quieras. Pero los trabajos derivados deben ser también libres. Si quieres una copia del código, pásate por la <a href="https://femtocoders.fogbugz.com/default.asp?W5">Wiki de la App ClockRing que tengo en FogBugz</a> (otro día  hablaré de FogBugz y su increíble sistema de Bug Tracking, predicción del tiempo de entregas, Wikis, repositorios de código, etc.)</p>
+<p style="text-align: justify;">ClockRing aún no está disponible para su descarga desde el App Store, ya que está en el proceso de aprobación (cruzad los dedos). En el momento en que esté disponible lo anunciaré aquí (actualizando esta entrada) y en Twitter.</p>
+<p style="text-align: justify;"><strong>Actualización</strong>: ya puedes bajarte <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing</a> gratis.</p>
+<p>Happy coding!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/27/clockring-mi-tercera-app-es-software-libre/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+		<item>
+		<title>Cómo crear tu propia NSCoder Night</title>
+		<link>/2010/11/30/como-crear-tu-propia-nscoder-night/</link>
+		<comments>/2010/11/30/como-crear-tu-propia-nscoder-night/#comments</comments>
+		<pubDate>Tue, 30 Nov 2010 13:42:42 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[Mac]]></category>
+
+		<guid isPermaLink="false">/?p=1284</guid>
+		<description><![CDATA[Si aún no sabes de qué estoy hablando, en este post ya hablé de qué eran y para qué servían las NSCoder Nights. Resumiendo mucho, son reuniones de gente interesada en desarrollar aplicaciones Cocoa. Así que los asistentes pueden ser programadores para el Mac, para el iPhone (y cualquier otro dispositivo iOS), diseñadores, empresarios buscando [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div style="width: 510px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/felipevieira/2160045542/"><img title="Foto de Felipe Vieria" src="http://farm3.static.flickr.com/2069/2160045542_52dbca12c3.jpg" alt="Foto de Felipe Vieria" width="500" height="333" /></a><p class="wp-caption-text">Foto de Felipe Vieria</p></div>
+<p style="text-align: justify;">Si aún no sabes de qué estoy hablando, <a href="/2010/11/12/nscoder-nights-sevilla/">en este post ya hablé de qué eran y para qué servían las NSCoder Nights</a>. Resumiendo mucho, son reuniones de gente interesada en desarrollar aplicaciones Cocoa. Así que los asistentes pueden ser programadores para el Mac, para el iPhone (y cualquier otro dispositivo iOS), diseñadores, empresarios buscando algún programador que les ayude, curiosos&#8230; Si te interesa, puedes también leer el <a href="http://blog.idg.es/macworld/content/el-arte-de-empezar-en-tres-pasos">post de Javier Rodríguez sobre cómo comenzar el desarrollo con iOS</a>. MacWorld también se hace eco de las NSCoder Nights.</p>
+<p style="text-align: justify;">Hoy tenemos nuestra segunda reunión en Sevilla, y ya hay <a href="http://nscoder-sev.tumblr.com/allNSCoderNights">otros capítulos</a> en Madrid, Barcelona, Gijón, Valencia, Almería, Málaga, &#8230; Bueno, pero ¿qué hacer si te gusta la idea, pero en tu ciudad no hay aún una NSCoder Night? Esa fue básicamente la duda que surgió en los <a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/comment-page-1/#comment-8737">comentarios</a> que comenzó David en el <a href="/2010/11/14/como-estoy-aprendiendo-a-programar-en-cocoa-touch-para-ios/">post sobre cómo estaba aprendiendo a programar para iOS</a>. Tras algunos correos, quedó inaugurado <a href="http://nscoder-zgz.tumblr.com/">NSCoder_zgz</a>, y pronto tendrán su primera reunión. Así que se me ocurrió listar la serie de pasos que debes ejecutar para localizar tu NSCoder Night más cercana, o bien crear la tuya propia.</p>
+<ol>
+<li>[Twitter getTwitterHandle]; Si no tienes usuario en Twitter, lo primero es creártelo. Te servirá para estar al día de las NSCoder Nights. No todas tienen sitio web, pero todas tienen Twitter.</li>
+<li>[NSCoderNight listAll] consulta la lista de NSCoder Nights que tenemos en el capítulo de Sevilla. Procuramos mantenerlas actualizadas. Si dudas de si hay alguna cercana, pregunta, que para eso estamos.</li>
+<li>if ([NSCoderNight isNear]) exit(0); Si encuentras alguna cerca / en tu ciudad, has terminado. Sigue a su usuario en Twitter y listo.</li>
+<li>else &#8230; Bueno, si no hay ninguna cerca, la solución es fácil: la creas tú. ¿Cómo? sigue leyendo
+<ol>
+<li>Crea un usuario en Twitter para esa NSCoder Night. El nombre debe ser: NSCoder_xxx, donde xxx será una abreviatura del nombre de tu ciudad, como sev, zgz, mlg, bcn, etc. (etc no lo uses)</li>
+<li>Copia la bio de otro NSCoder Night. Así somos más homogéneos.</li>
+<li>Copia el icono de otra NSCoder Night</li>
+<li>[Opcional] Crea un sitio web para tu NSCoder Night. En tumblr, también por ser homogéneos.</li>
+<li>Añade a tu nuevo sitio web las <a href="http://nscoder-vlc.tumblr.com/post/1517299313/algunas-faqs">FAQ</a> que magistralmente escribió <a href="http://vicentevicens.com/">Vicente Vicens</a>.</li>
+<li>Pon un enlace en el perfil de la cuenta de Twitter al nuevo sitio web.</li>
+</ol>
+</li>
+<li>Una vez que has terminado con la parte técnica, ahora viene lo mejor. Busca un sitio que te guste, un bar, cafetería, restaurante, tu casa, una iglesia o un gimnasio. Un sitio donde quepáis de cinco a diez personas, con sus portátiles. ¿Lo tienes?</li>
+<li>Publica la primera reunión. Ponle fecha, y hora. La mayoría empezamos sobre las 19:00, pero puede ser a cualquier hora. Aunque el apellido de las reuniones «Nights» igual te da una pista sobre el horario.</li>
+<li>Apóyate en la promoción de las otras NSCoder Nights. Siempre te haremos un RT <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Ve a la primera reunión. Si va alguien, fantástico. Si no, persevera. Tendrás ese tiempo para tí, para programar / leer fuera de tus tareas habituales. Sigue el ejemplo de José Vázquez en su inigualable «<a href="http://vimeo.com/16707762">Hazte Indie</a>«.</li>
+<li>Sube fotos y cuéntanos cómo te va <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+</ol>
+]]></content:encoded>
+			<wfw:commentRss>/2010/11/30/como-crear-tu-propia-nscoder-night/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Qué necesitas instalar para programar en C en Windows</title>
+	<atom:link href="/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/feed/" rel="self" type="application/rss+xml" />
+	<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Fabiana</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-204125</link>
+		<dc:creator><![CDATA[Fabiana]]></dc:creator>
+		<pubDate>Wed, 04 Sep 2013 12:31:27 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-204125</guid>
+		<description><![CDATA[Hola, no se si puedes ayudarme, pero cualquier informacion al respecto me puede ayudar. En el trabajo me pidieron implementar un IDE para el lenguaje de programación que crearon. Intente hacerlo con Visual Studio Shell Isolated pero no he logrado que funcione correctamente.
+Actualmente estan usando Xtext, pero no estan conformes.
+Me dijeron que lo puedo hacer con DLTK en Eclipse, ¿es correcto?.
+No tengo mucha experiencia trabajando con java ni con Eclipse, pero por lo que encontre en estos dias creo que se puede hacer con plugin, si pudes ayudarme o referirme algun sitio que me brinde dicha información te lo agradeceria.
+
+Desde ya muchas gracias.
+Fabiana.]]></description>
+		<content:encoded><![CDATA[<p>Hola, no se si puedes ayudarme, pero cualquier informacion al respecto me puede ayudar. En el trabajo me pidieron implementar un IDE para el lenguaje de programación que crearon. Intente hacerlo con Visual Studio Shell Isolated pero no he logrado que funcione correctamente.<br />
+Actualmente estan usando Xtext, pero no estan conformes.<br />
+Me dijeron que lo puedo hacer con DLTK en Eclipse, ¿es correcto?.<br />
+No tengo mucha experiencia trabajando con java ni con Eclipse, pero por lo que encontre en estos dias creo que se puede hacer con plugin, si pudes ayudarme o referirme algun sitio que me brinde dicha información te lo agradeceria.</p>
+<p>Desde ya muchas gracias.<br />
+Fabiana.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-131785</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 10 Mar 2013 18:00:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-131785</guid>
+		<description><![CDATA[Hola Nelson
+
+En los Windows que he usado, desde el 3.1 al 7, no. Para añadir una carpeta al PATH basta con poner PATH=%PATH%;c:\mi-path
+No se qué versión estás usando, o qué problema te da, pero &quot;a mi me funciona&quot; © :-D]]></description>
+		<content:encoded><![CDATA[<p>Hola Nelson</p>
+<p>En los Windows que he usado, desde el 3.1 al 7, no. Para añadir una carpeta al PATH basta con poner PATH=%PATH%;c:\mi-path<br />
+No se qué versión estás usando, o qué problema te da, pero «a mi me funciona» © 😀</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Nelson</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-130316</link>
+		<dc:creator><![CDATA[Nelson]]></dc:creator>
+		<pubDate>Sun, 03 Mar 2013 06:04:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-130316</guid>
+		<description><![CDATA[El PATH es: C:\MinGW\bin\     con la barra al final, sinó no te va a reconocer los comandos]]></description>
+		<content:encoded><![CDATA[<p>El PATH es: C:\MinGW\bin\     con la barra al final, sinó no te va a reconocer los comandos</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Fernando</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-64905</link>
+		<dc:creator><![CDATA[Fernando]]></dc:creator>
+		<pubDate>Mon, 16 Jul 2012 10:16:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-64905</guid>
+		<description><![CDATA[Hola dfreniche
+
+Gracias por describirme el comando pero el problema es que no me lo reconoce. No tengo claro si me he saltado algun paso antes del path. De todas formas en el path tampoco estoy seguro que direccion hay que escribir en el.
+
+Gracias :)]]></description>
+		<content:encoded><![CDATA[<p>Hola dfreniche</p>
+<p>Gracias por describirme el comando pero el problema es que no me lo reconoce. No tengo claro si me he saltado algun paso antes del path. De todas formas en el path tampoco estoy seguro que direccion hay que escribir en el.</p>
+<p>Gracias 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-64003</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sat, 14 Jul 2012 07:09:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-64003</guid>
+		<description><![CDATA[Hola Fernando
+
+El compilador es el Gnu C Compiler == GCC. Luego el comando es gcc -v. Mira si lo escribes bien ;-)
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Fernando</p>
+<p>El compilador es el Gnu C Compiler == GCC. Luego el comando es gcc -v. Mira si lo escribes bien 😉</p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Fernando</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-63756</link>
+		<dc:creator><![CDATA[Fernando]]></dc:creator>
+		<pubDate>Fri, 13 Jul 2012 16:33:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-63756</guid>
+		<description><![CDATA[¿Cual es el problema si el terminal no me reconoce el comando cgg -v?]]></description>
+		<content:encoded><![CDATA[<p>¿Cual es el problema si el terminal no me reconoce el comando cgg -v?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-36134</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Mon, 12 Mar 2012 07:45:52 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-36134</guid>
+		<description><![CDATA[Si no te arranca Eclipse, probablemente sea porque la ruta que has puesto en PATH del JDK tenga espacios. Puedes probar a ponerla entre comillas dobles.
+Pero la forma &quot;definitiva&quot; de hacer que Eclipse se inicie es copiar la carpeta JRE que tienes dentro de la carpeta en la que se ha instalado el JDK (algo como c:\Program Files\Java\jdk1.6.0_23\jre) dentro de la carpeta de Eclipse. Eclipse, si encuentra una carpeta jre &quot;a mano&quot; la usa :-D
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Si no te arranca Eclipse, probablemente sea porque la ruta que has puesto en PATH del JDK tenga espacios. Puedes probar a ponerla entre comillas dobles.<br />
+Pero la forma «definitiva» de hacer que Eclipse se inicie es copiar la carpeta JRE que tienes dentro de la carpeta en la que se ha instalado el JDK (algo como c:\Program Files\Java\jdk1.6.0_23\jre) dentro de la carpeta de Eclipse. Eclipse, si encuentra una carpeta jre «a mano» la usa 😀<br />
+Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Lulú</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-36021</link>
+		<dc:creator><![CDATA[Lulú]]></dc:creator>
+		<pubDate>Sat, 10 Mar 2012 22:35:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-36021</guid>
+		<description><![CDATA[¡Hola!
+
+Está muy bueno tu post. Tengo un problema para usar el eclipse, me pide el JDK o el JRE pero ya los tengo instalados y me dice que no los encuentra en el path, ya lo modifique y no abre, espero  que me puedas ayudar.... Gracias
+
+Saludos :)]]></description>
+		<content:encoded><![CDATA[<p>¡Hola!</p>
+<p>Está muy bueno tu post. Tengo un problema para usar el eclipse, me pide el JDK o el JRE pero ya los tengo instalados y me dice que no los encuentra en el path, ya lo modifique y no abre, espero  que me puedas ayudar&#8230;. Gracias</p>
+<p>Saludos 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-34286</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2012 17:42:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-34286</guid>
+		<description><![CDATA[Hola Dani
+
+El compilador de C que incorpora MinGW es gcc. Y la biblioteca OpenCV tiene versión para Windows: http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.3.1/. Que funcione, es decir, que puedas crear un ejecutable enlazando tu código con esta biblioteca depende de si OpenCV tiene otras dependencias que debas instalar (otras bibliotecas).
+
+Para solucionar esa duda, tendrás que instalarlo todo y probar. 
+
+Un saludo]]></description>
+		<content:encoded><![CDATA[<p>Hola Dani</p>
+<p>El compilador de C que incorpora MinGW es gcc. Y la biblioteca OpenCV tiene versión para Windows: <a href="http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.3.1/" rel="nofollow">http://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.3.1/</a>. Que funcione, es decir, que puedas crear un ejecutable enlazando tu código con esta biblioteca depende de si OpenCV tiene otras dependencias que debas instalar (otras bibliotecas).</p>
+<p>Para solucionar esa duda, tendrás que instalarlo todo y probar. </p>
+<p>Un saludo</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dm89</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-34283</link>
+		<dc:creator><![CDATA[dm89]]></dc:creator>
+		<pubDate>Fri, 17 Feb 2012 17:26:12 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-34283</guid>
+		<description><![CDATA[Hola,
+Interesante post. Soy estudiante de master y la verdad que siempre que he programado en C, C++, o sea el lenguaje que sea, lo he hecho con el gedit de Linux y utilizando los compiladores correspondientes gcc, g++,...
+
+En fin, la cuestión es que ahora quiero programar en Windows 7 en C++, utilizando librerías de OpenCV. 
+
+Se adapta tu post a mis necesidades? Basicamente la pregunta es... el compilador de C que has mencionado compila tambien C++ y las librerías de OpenCV? 
+
+Gracias]]></description>
+		<content:encoded><![CDATA[<p>Hola,<br />
+Interesante post. Soy estudiante de master y la verdad que siempre que he programado en C, C++, o sea el lenguaje que sea, lo he hecho con el gedit de Linux y utilizando los compiladores correspondientes gcc, g++,&#8230;</p>
+<p>En fin, la cuestión es que ahora quiero programar en Windows 7 en C++, utilizando librerías de OpenCV. </p>
+<p>Se adapta tu post a mis necesidades? Basicamente la pregunta es&#8230; el compilador de C que has mencionado compila tambien C++ y las librerías de OpenCV? </p>
+<p>Gracias</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-23729</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2011 08:09:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-23729</guid>
+		<description><![CDATA[Hola, mvnet&lt;br&gt;&lt;br&gt;Claro que puedes instalarlo todo. Si dispones de versiones específicas de 64bits es mejor que instales esas. Aunque creo que no tendrías demasiados problemas corriendo software de 32 en un S.O. de 64. Al revés no es tan fácil ;-)&lt;br&gt;&lt;br&gt;¿Planteándote programar en C? Buen lenguaje]]></description>
+		<content:encoded><![CDATA[<p>Hola, mvnet</p>
+<p>Claro que puedes instalarlo todo. Si dispones de versiones específicas de 64bits es mejor que instales esas. Aunque creo que no tendrías demasiados problemas corriendo software de 32 en un S.O. de 64. Al revés no es tan fácil 😉</p>
+<p>¿Planteándote programar en C? Buen lenguaje</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: mvnet</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-23728</link>
+		<dc:creator><![CDATA[mvnet]]></dc:creator>
+		<pubDate>Sun, 25 Sep 2011 08:00:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-23728</guid>
+		<description><![CDATA[Hola, he instalado windows 7 64 bits en la partición bootcamp de mi macbook, ¿es posible instalar todo esto que comentas siendo mi sistema de 64 bits, o esto es solo para 32?
+Muchas gracias]]></description>
+		<content:encoded><![CDATA[<p>Hola, he instalado windows 7 64 bits en la partición bootcamp de mi macbook, ¿es posible instalar todo esto que comentas siendo mi sistema de 64 bits, o esto es solo para 32?<br />
+Muchas gracias</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Una mañana de trabajo cualquiera</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-13159</link>
+		<dc:creator><![CDATA[Una mañana de trabajo cualquiera]]></dc:creator>
+		<pubDate>Tue, 05 Apr 2011 11:02:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-13159</guid>
+		<description><![CDATA[[...] al tema que me traía aquí, en esta mañana he comenzado programando en C, en el IDE Eclipse corriendo sobre Windows 7. Ese Windows 7 está instalado en mi MBP. Por si fuera [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] al tema que me traía aquí, en esta mañana he comenzado programando en C, en el IDE Eclipse corriendo sobre Windows 7. Ese Windows 7 está instalado en mi MBP. Por si fuera [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: dfreniche</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-10091</link>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+		<pubDate>Thu, 06 Jan 2011 21:36:33 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-10091</guid>
+		<description><![CDATA[Si fuera para mi, probablemente lo usaría, más que nada porque todavía me acuerdo de los atajos de teclado  
+Creo que los alumnos preferirán algo con ratón, ya que aprender C y a la vez un entorno retro va a ser demasiado :-)]]></description>
+		<content:encoded><![CDATA[<p>Si fuera para mi, probablemente lo usaría, más que nada porque todavía me acuerdo de los atajos de teclado<br />
+Creo que los alumnos preferirán algo con ratón, ya que aprender C y a la vez un entorno retro va a ser demasiado 🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: juanma71</title>
+		<link>/2011/01/05/que-necesitas-instalar-para-programar-en-c-en-windows/comment-page-1/#comment-10077</link>
+		<dc:creator><![CDATA[juanma71]]></dc:creator>
+		<pubDate>Thu, 06 Jan 2011 10:59:39 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1331#comment-10077</guid>
+		<description><![CDATA[No te compliques, compañero. El otro día tuve que programar
+una pequeña aplicación para nuestra red Windows (en concreto, un
+salvapantallas con unas características muy concretas) y lo hice
+con Turbo C. Tamaño del ejecutable: 68 KB, sin el problema de la
+dependencia de archivos DLL ni cosas parecidas. Es un alivio que
+Windows siga ejecutando antiguos programas de MS-DOS.]]></description>
+		<content:encoded><![CDATA[<p>No te compliques, compañero. El otro día tuve que programar<br />
+una pequeña aplicación para nuestra red Windows (en concreto, un<br />
+salvapantallas con unas características muy concretas) y lo hice<br />
+con Turbo C. Tamaño del ejecutable: 68 KB, sin el problema de la<br />
+dependencia de archivos DLL ni cosas parecidas. Es un alivio que<br />
+Windows siga ejecutando antiguos programas de MS-DOS.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Magic Trackpad &#8211; freniche.com</title>
+	<atom:link href="/tag/magic-trackpad/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Las prisas por Lion</title>
+		<link>/2011/08/06/las-prisas-por-lion/</link>
+		<comments>/2011/08/06/las-prisas-por-lion/#comments</comments>
+		<pubDate>Sat, 06 Aug 2011 10:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Lion]]></category>
+		<category><![CDATA[Magic Mouse]]></category>
+		<category><![CDATA[Magic Trackpad]]></category>
+		<category><![CDATA[osx]]></category>
+		<category><![CDATA[SO]]></category>
+
+		<guid isPermaLink="false">/?p=1562</guid>
+		<description><![CDATA[Lion, la versión 10.7 de OS X (ya no se llama Mac OS X), ya está aquí. Bueno, lleva ya un tiempo aquí, porque salió a la venta el 20 de Julio, así que ya tiene unas semanas de vida. Unas semanas en la que la gente que usa Macs parece que se han vuelto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1409" style="width: 624px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg"><img class="size-full wp-image-1409 " title="Download Snow Leopard &amp; Lion :-)" src="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg" alt="Download Snow Leopard &amp; Lion :-)" width="614" height="461" srcset="/wp-content/uploads/2011/02/SnowLeopardLion11.jpg 1024w, /wp-content/uploads/2011/02/SnowLeopardLion11-300x225.jpg 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">Download Snow Leopard &amp; Lion <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;">Lion, la versión 10.7 de OS X (ya no se llama <em>Mac</em> OS X), ya está aquí. Bueno, lleva ya un tiempo aquí, porque salió a la venta el 20 de Julio, así que ya tiene unas semanas de vida. Unas semanas en la que la gente que usa Macs parece que se han vuelto locos y se han lanzado en no se qué concurso de a ver quién descarga e instala primero el S.O. Se han comentado muchas cosas, se han escrito ya muchas reviews (la mayor parece que es <a href="http://arstechnica.com/apple/reviews/2011/07/mac-os-x-10-7.ars">esta</a>, aunque seguramente poco a poco iremos aprendiendo cosas nuevas que hace el sistema) y se ha hablado de muchas obviedades. Aunque hay algunos temas que no he visto tratados por ahí, y que a mí me han sorprendido, y que voy a comentar junto con mi actual situación respecto a Lion.</p>
+<h2>La descarga del S.O.</h2>
+<p style="text-align: justify;">Hace ya tiempo que se venía hablando del super centro de proceso de datos que había construido Apple. Pero no se sabía a ciencia cierta para qué era. Ahora está claro: para descargar cosas como Lion, y para dar cobertura a todos los datos que se van a subir con iCloud. Y nadie ha comentado que, dado el tamaño de la descarga y la avidez del personal, el volumen del tráfico iba a ser morrocotudo y lo normal es que hubiera cortes. Pero no, parece que las descargas de Lion en general han ido bien y no he visto quejas.</p>
+<p style="text-align: justify;">Aunque el día 20 me conecté a la Mac App Store y se «atragantó» un poco, mostrándome esta pantalla :-). Tras refrescarla ya todo funcionó sin problemas.</p>
+<div id="attachment_1567" style="width: 305px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-atascado.png"><img class="size-medium wp-image-1567" title="Lion atascado en la Mac App Store" src="/wp-content/uploads/2011/08/Lion-atascado-295x300.png" alt="Lion atascado en la Mac App Store" width="295" height="300" srcset="/wp-content/uploads/2011/08/Lion-atascado-295x300.png 295w, /wp-content/uploads/2011/08/Lion-atascado-1007x1024.png 1007w, /wp-content/uploads/2011/08/Lion-atascado.png 1374w" sizes="(max-width: 295px) 100vw, 295px" /></a><p class="wp-caption-text">Lion atascado en la Mac App Store</p></div>
+<h2>El Magic Mouse es inútil</h2>
+<p style="text-align: justify;">Tímidamente empiezo a leer por ahí que si Apple lo va a abandonar, que si lo va a rediseñar, etc. El Magic Mouse es un producto revolucionario en su concepción: un ratón con una superficie multitouch. Pero la verdad es que a la hora de usarlo no es cómodo. No tan cómodo como un ratón normal. Y ejecutar muchos gestos en su superficie no es fácil. Pero fue un primer paso y en este caso, como muchas veces, los early adopters no nos llevamos el producto mejor acabado. En mi caso, tengo dos Magic Mouse, y los voy a conservar como un «eslabón perdido» que mostrar dentro de 10 años, cuando usemos superficies táctiles proyectadas sobre las mesas, o en el aire, o lo que usemos.</p>
+<p style="text-align: justify;">Curiosamente, para usar Lion lo ideal es un Magic Trackpad. Un producto que, antes de Lion, no tenía mucho sentido. Ahora con Lion los gestos ganan terreno, el Magic Trackpad se convierte en algo básico y empieza a servir de algo. Yo aún no tengo uno, pero probablemente acabe usándolo como comentaba <a href="http://www.terron.org/">Terrón</a>: Magic mouse a la derecha y Magic Trackpad a la izquierda para los gestos.</p>
+<h2 style="text-align: justify;">El coste de Lion</h2>
+<p style="text-align: justify;">Esta es una de las cosas que me encantan de Apple, pese a todas las quejas existentes. Te dan un hard de excelente calidad, con un S.O. que es el que más me gusta. Y encima, cuando lo actualizan, es muy barato. Mucho. Lion cuesta 23,99 € en la Mac App Store. Dado que se puede instalar hasta en 5 máquinas que tengas por casa no te sale cada instalación ni a 5 €. Igualito que en otros sistemas. Ya, ya se que Linux es más <em>barato</em>, pero hablamos de productos comerciales :-).</p>
+<p style="text-align: justify;">En mi caso, Lion me ha costado exactamente 0 €. Aproveché el pasado 6 de Junio el Día Sin Iva de MediaMarkt y me compré un Mac Mini, que uso de Mediacenter (o eso pretendo, que no lo tengo configurado en condiciones, pero bueno&#8230;). El caso es que Apple tiene un <a href="http://www.apple.com/es/macosx/uptodate/">programa de actualización gratuita del S.O. a los clientes recientes</a>. Concretamente, si te has comprado un Mac entre el 6 de Junio (acerté!)  y la fecha de lanzamiento de Lion, te dan un código para que te lo bajes de la Mac App Store. Llamé a Apple Care para enterarme y los machaqué a preguntas. Y ha sido todo cierto. Me mandaron un correo con el código, que canjeé en la Mac App Store y pude ver esta deliciosa pantalla:</p>
+<div id="attachment_1569" style="width: 625px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-gratis.png"><img class="size-full wp-image-1569" title="Lion bajada gratis de la Mac App Store" src="/wp-content/uploads/2011/08/Lion-gratis.png" alt="Lion bajada gratis de la Mac App Store" width="615" height="171" srcset="/wp-content/uploads/2011/08/Lion-gratis.png 615w, /wp-content/uploads/2011/08/Lion-gratis-300x83.png 300w" sizes="(max-width: 615px) 100vw, 615px" /></a><p class="wp-caption-text">Lion bajada gratis de la Mac App Store</p></div>
+<p style="text-align: justify;">Encima esta descarga, como todas de la Mac App Store, me va a permitir actualizar el Mac Mini, el iMac 27&#8243; y mi MacBook Pro por 0 €. La pena es que el Macbook «blanquito» de mi mujer no es «apto» para Lion: es un CoreDuo de los primeros Intel que se usaron. Pero bueno, mi mujer tiene totalmente cubiertas sus necesidades de computación con Snow Leopard, su «blanquito», su iPhone 4 y su iPad 1.</p>
+<h2 style="text-align: justify;">Estado actual de instalaciones</h2>
+<p style="text-align: justify;">Lion 0 &#8211; Snow Leopard 3. Así podría resumirse. No me he actualizado. Ninguna máquina. Ni lo voy a hacer, al menos, hasta que aparezca la primera actualización 10.7.1. Prefiero dejar que la comunidad se dedique al «Beta testing», y no interrumpir mi trabajo parcheando cosas, o viendo si alguna aplicación ha dejado de funcionar, o lo hace de manera extraña. Estoy ahora con varios proyectos simultáneos de desarrollo en iOS, con Java, usando máquinas virtuales Windows y desarrollando para WebOS. Y no me apetece meterme en más problemas de los que ya me dan las herramientas. Así que me bajé Lion, lo he grabado en un DVD (para instalarlo cómodamente, sin tener que bajarlo en las otras máquinas) y todas las mañanas veo al León esperando pacientemente en mi Dock. No te preocupes. ¡Ya te llegará tu hora, Simba!</p>
+<div id="attachment_1573" style="width: 486px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/08/Lion-Dock.png"><img class="size-full wp-image-1573" title="Lion en mi Dock" src="/wp-content/uploads/2011/08/Lion-Dock.png" alt="Lion en mi Dock" width="476" height="62" srcset="/wp-content/uploads/2011/08/Lion-Dock.png 476w, /wp-content/uploads/2011/08/Lion-Dock-300x39.png 300w" sizes="(max-width: 476px) 100vw, 476px" /></a><p class="wp-caption-text">Lion en mi Dock</p></div>
+]]></content:encoded>
+			<wfw:commentRss>/2011/08/06/las-prisas-por-lion/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

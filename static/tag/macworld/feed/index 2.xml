@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MacWorld &#8211; freniche.com</title>
+	<atom:link href="/tag/macworld/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Especial MacWorld Mountain Lion</title>
+		<link>/2013/02/21/especial-macworld-mountain-lion/</link>
+		<comments>/2013/02/21/especial-macworld-mountain-lion/#comments</comments>
+		<pubDate>Thu, 21 Feb 2013 06:55:10 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Escribiendo]]></category>
+		<category><![CDATA[Escribir]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[MacWorld]]></category>
+
+		<guid isPermaLink="false">/?p=1883</guid>
+		<description><![CDATA[No es ninguna novedad y, probablemente ya no quede ninguno en los quioscos. Pero sentía que tenía una deuda conmigo mismo y quería hablar acerca de lo último que escribí para la ahora difunta MacWorld España. Concretamente, este número especial sobre cómo usar OS X Mountain Lion que se publicó en Enero. Mi legendario efecto [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2013/02/MacWorld-practico-mountain-lion.jpg"><img src="/wp-content/uploads/2013/02/MacWorld-practico-mountain-lion.jpg" alt="MacWorld Práctico Especial Mountain Lion" title="MacWorld Práctico Especial Mountain Lion" width="500"  class="aligncenter size-full wp-image-1889" /></a></p>
+<p>No es ninguna novedad y, probablemente ya no quede ninguno en los quioscos. Pero sentía que tenía una deuda conmigo mismo y quería hablar acerca de lo último que escribí para la ahora difunta MacWorld España. Concretamente, este número especial sobre cómo usar OS X Mountain Lion que se publicó en Enero. Mi legendario <strong>efecto gafe</strong>, capaz de acabar con webOS o poner en serio aprieto a Nokia, ha sido capaz de acabar con la revista para la que a veces escribía como colaborador.</p>
+<p>El caso es que estuve dedicado a escribir este <strong>tocho</strong> durante Agosto de 2012, esperando que si me enfocaba y esforzaba lo suficiente finalmente lo acabaría para primeros de Septiembre. A punto de llegar Septiembre vi que no lo tenía listo del todo, pero sí que había reunido un tocho considerable y que no me quedaría tanto: había cumplido con el plan de trabajo. Una vez enviado el borrador, me dieron la mala noticia de que el enfoque no era el esperado: se necesitaba un tutorial paso a paso, y no una review y opinión sobre el nuevo sistema operativo de Apple. <strong>Patinazo en toda regla</strong>.</p>
+<p>Durante Septiembre y Octubre estuve muchas horas, <em>muchas</em>, dedicado a ir avanzando el <strong>libro</strong>. Finalmente lo entregué. <em>Parir</em> cualquier cosa escrita siempre es más duro de lo que uno espera. Pero cuando hablamos de un documento de este tamaño (más de 140 páginas de revista escrita casi sin publicidad, lo que haría un librito de unas 200 páginas o más) cualquier previsión que hago siempre se me cae al suelo. Y debería tener experiencia: en 2011 estuve escribiendo unos manuales para cursos de teleformación, he escritos <a href="http://dialnet.unirioja.es/servlet/busquedadoc?t=Diego%20Freniche&amp;db=1&amp;td=ARTREV">algunos artículos</a> para MacWorld y PCWorld y <a href="/2005/12/08/pcworld-practico-n-6-exprime-linux/">hace mucho se publicó un especial sobre Linux</a> (era mi época <em>Linuxera</em>) que tecleé enterito.</p>
+<p>Con una suerte digna de mejor causa, en Enero me encontré al pasar por un kiosko, en Madrid, con la revista. Iba a impartir una de las jornadas del curso a medida avanzado de iOS que tuve el gusto de dar a la gente de Redsys junto con Mobile Business School. Cuando tuve la revista en las manos, no la reconocía. Claro, yo sólo la había visto en la pantalla de mi iMac dentro de Pages, pero no había visto la versión final. Supe que era la mía por el artículo sobre accesibilidad que Jonathan Chacón tuvo la deferencia de escribirme para que apareciera en el especial (¡gracias, Jonathan!). Y ahora, aquí la tengo.</p>
+<p>Es un recordatorio de varias cosas, y con el <em>ansia de automachaque</em> que define a todo buen informático, para empezar todas las que me recuerda son malas:</p>
+<ul>
+<li>la próxima vez no uses Pages para escribir un libro. Si tienes una licencia de Scrivener, aprende a usarlo. Es la aplicación definitiva para escritores. Ahora me he dado cuenta, tarde, pero mejor que nunca. </li>
+<li>si te encargan escribir sobre algo, pregunta antes de empezar por el enfoque. Define los requisitos, como con un programa. Si al cliente no le gusta lo que has hecho, vas a tener que empezar de nuevo y no va a ser divertido. </li>
+<li>se pesimista con las estimaciones, y después de eso, aplica un factor de corrección de +50% del tiempo que has estimado. Y aún así <em>ni te acercarás</em>. Escribir lleva mucho tiempo, y por mucho que invoque mis capacidades <strong>super heroicas</strong>, luego no se avanza al ritmo que se quiere, sino al que se puede. </li>
+</ul>
+<p>Pero también he aprendido mucho sobre mí mismo y sobre las herramientas que he usado. Vamos, que algunas cosas he hecho bien:</p>
+<ul>
+<li>ya que tenía que escribir sobre OS X Mountain Lion, he aprendido mucho sobre el OS. Ahora hay un montón de cosas más que se hacer. </li>
+<li>he mantenido un ritmo constante de escritura. He sido bastante disciplinado y todos los días escribía un par de horas. Ni yo me lo creo. </li>
+<li>me he agobiado, pero dentro de un límite. Cuando me dieron la mala noticia, en lugar de cabrearme y gritar saqué mi libreta y me hice un mapa mental para <strong>comerme</strong> ese marrón. Y convertí el problema amorfo en una lista de tareas que podía ir resolviendo.</li>
+<li>tengo a mi lado un recordatorio en papel, algo físico, de que soy capaz de escribir un librito si me pongo a ello. No me he dado el tiempo para disfrutar de esto, quizás es ahora la primera vez que estoy reflexionando sobre ello. </li>
+<li>he aprendido a usar algo más de Pixelmator, para editar las imagenes de las capturas. Mola.</li>
+</ul>
+<p>Así que ya está. El libro está en mi mesa. El trabajo terminado. Pero MacWorld ha cerrado, mucha gente ha perdido su trabajo y probablemente nadie lea este número, al que he dedicado tantas horas. Al no estar en edición digital (en Zinio, por ejemplo) poca gente lo va a leer. Y eso me deja un poco triste.</p>
+<p>Ahora tendré que <strong>matar el gusanillo de escribir</strong> de alguna manera. <strong>Probablemente escribiendo un libro para enseñar a desarrollar Apps para iOS</strong>. ¿Alguien interesado? Acepto ideas y sugerencias. Luego haré lo que me de la gana, pero prometo tenerlas en cuenta <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/02/21/especial-macworld-mountain-lion/feed/</wfw:commentRss>
+		<slash:comments>10</slash:comments>
+		</item>
+	</channel>
+</rss>

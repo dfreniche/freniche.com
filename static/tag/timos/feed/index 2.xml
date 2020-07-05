@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Timos &#8211; freniche.com</title>
+	<atom:link href="/tag/timos/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Phising made easy</title>
+		<link>/2006/09/14/phising-made-easy/</link>
+		<pubDate>Thu, 14 Sep 2006 10:38:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[chorizos]]></category>
+		<category><![CDATA[Timos]]></category>
+
+		<guid isPermaLink="false">/2006/09/14/phising-made-easy/</guid>
+		<description><![CDATA[Explicado paso a paso en un nuevo artículo.]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">Explicado paso a paso en un <a href="/articulos/phising-made-easy/">nuevo artículo</a>.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Aviso apocalíptico de Virus</title>
+		<link>/2006/05/26/aviso-apocaliptico-de-virus/</link>
+		<pubDate>Fri, 26 May 2006 07:05:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Timos]]></category>
+		<category><![CDATA[Virus]]></category>
+		<category><![CDATA[Windows]]></category>
+
+		<guid isPermaLink="false">/2006/05/26/aviso-apocaliptico-de-virus/</guid>
+		<description><![CDATA[Los mails avisando de virus son un clásico en el mundo de la Informática. A los que llevamos algo más de tiempo en ésto (bueno, pensando en Alan Turing, Brian kernighan o Bill Gates tampoco llevo tanto tiempo) ya nos suenan estos correos un poco como los clásicos de los 80. Con aroma a HOAX [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Los mails avisando de virus son un clásico en el mundo de la Informática. A los que llevamos algo más de tiempo en ésto (bueno, pensando en Alan Turing, Brian kernighan o Bill Gates tampoco llevo tanto tiempo) ya nos suenan estos correos un poco como los clásicos de los 80. Con aroma a HOAX y todo.</p>
+<p class="bodytext">Os lo pego porque me ha resultado un poco tierno el tono apocalíptico utilizado:</p>
+<p class="bodytext">
+<blockquote>
+<div id="codigo"><em>GRAVE VIRUS NUEVO</p>
+<p class="bodytext">POR FAVOR, HAGA CIRCULAR ESTE E-MAIL ENTRE SUS AMIGOS, FAMILIA, CONTACTOS</p>
+<p class="bodytext">Estén atentos en los próximos días</p>
+<p class="bodytext">No abran ningún mensaje con un archivo llamado COPA DEL MUNDO 2006, independientemente de quien se lo envie.</p>
+<p class="bodytext">Este virus vendrá de una persona conocida que tenga su nombre en su lista de correos, por ello debe enviar este mensaje a todos sus contactos.</p>
+<p class="bodytext">Es preferible recibir este mensaje 25 veces que recibir el virus al abrirlo.</p>
+<p class="bodytext">Si recibe un mensaje llamado COPA DEL MUNDO 2006 ¡no lo abra y apague su ordenador inmediatamente!</p>
+<p class="bodytext">Se trata del peor virus conocido y se ha anunciado su existencia en la CNN.</p>
+<p class="bodytext">Microsoft lo ha clasificado como el más destructivo que jamás haya  existido.</p>
+<p class="bodytext">El virus fue descubierto hace poco por McKafee y no existe anti-virus,</p>
+<p class="bodytext">El virus destruye el Sector Cero del Disco Duro, en el que se guardan las informaciones vitales para su funcionamiento.</p>
+<p class="bodytext">ENVÍA COPIA DE ESTE E-MAIL A TODOS TUS AMIGOS Y CONTACTOS. AL HACERLO CIRCULAR ESTÁS AYUDANDO A TODOS.</p>
+<p></em></p>
+<p class="bodytext">
+</div>
+</blockquote>
+<p class="bodytext">En mi opinión, es un HOAX clásico. Veamos la forma de detectar un HOAX:</p>
+<p class="bodytext">1. Se nos trata de asustar, poniéndonos en tensión, para responder al correo: «estén atentos en los próximos días», «no abra ningún mensaje&#8230;independientemente de quien se lo envíe»</p>
+<p class="bodytext">2. Se promociona su reenvío (como todo buen HOAX): «Es preferible recibir este mensaje 25 veces», «HAGA CIRCULAR ESTE E-MAIL», «ENVÍA COPIA DE ESTE E-MAIL»</p>
+<p class="bodytext">3. Cita fuentes «de confianza» pero no los enlaces a sitios donde podamos verificarlo: «CNN», «Microsoft», «McAfee» (por cierto, la empresa de antivirus se llama así)</p>
+<p class="bodytext">4. Nos lo pinta como algo nuevo e increíblemente destructivo: «borra el Sector Cero» (todo en mayúsculas, claro, que así asusta más). El sector cero son unos humildes 512 bytes que guardan información sobre el cargador del S.O. Si se borra, a los datos no les pasa nada. El problema es que el ordenador no arrancará, pero con volver a restaurar el S.O. (si es Windows), reinstalar GRUB (si es Linux) o bien arrancar desde un CD, llave USB o diskette, listo.</p>
+<p class="bodytext">No creo que se trate del «peor virus conocido» ni que sea algo nuevo (¿alguien se acuerda del Viernes 13?).</p>
+<p class="bodytext">5. Nos calma frente a su auténtica acción: hacernos perder el tiempo. Recibir esto 25 veces es un petardo absoluto.</p>
+<p class="bodytext">6. Aporta soluciones de alto calado técnico: «¡no lo abra y apague su ordenador inmediatamente!», «no existe anti-virus»</p>
+<p class="bodytext">Releyendo estas líneas empiezo a pensar que estos HOAX los escriben los fabricantes de Antivirus. Por cierto, como no es obligatorio saber lo que es un HOAX (y estoy abusando deliberadamente de la palabrita) <a href="http://es.wikipedia.org/wiki/Hoax">os pego su definición más abajo</a>.</p>
+<p class="bodytext">
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

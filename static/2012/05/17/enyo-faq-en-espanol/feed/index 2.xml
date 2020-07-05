@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Enyo FAQ en Español</title>
+	<atom:link href="/2012/05/17/enyo-faq-en-espanol/feed/" rel="self" type="application/rss+xml" />
+	<link>/2012/05/17/enyo-faq-en-espanol/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: 37 Aplicaciones web con @dfreniche &#124; Telar del Geek</title>
+		<link>/2012/05/17/enyo-faq-en-espanol/comment-page-1/#comment-95357</link>
+		<dc:creator><![CDATA[37 Aplicaciones web con @dfreniche &#124; Telar del Geek]]></dc:creator>
+		<pubDate>Sun, 21 Oct 2012 08:16:05 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1693#comment-95357</guid>
+		<description><![CDATA[[...] tenéis el Twitter de Diego Freniche, su blog la entrada en particular sobre Enyo y su videoblog sobre programación en [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] tenéis el Twitter de Diego Freniche, su blog la entrada en particular sobre Enyo y su videoblog sobre programación en [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Edwin mauricio</title>
+		<link>/2012/05/17/enyo-faq-en-espanol/comment-page-1/#comment-77737</link>
+		<dc:creator><![CDATA[Edwin mauricio]]></dc:creator>
+		<pubDate>Sun, 12 Aug 2012 12:20:30 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1693#comment-77737</guid>
+		<description><![CDATA[algún tuto en español???]]></description>
+		<content:encoded><![CDATA[<p>algún tuto en español???</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: We.Developers 001 &#8211; webOS &#38; Enyo &#124; We.Developers</title>
+		<link>/2012/05/17/enyo-faq-en-espanol/comment-page-1/#comment-46114</link>
+		<dc:creator><![CDATA[We.Developers 001 &#8211; webOS &#38; Enyo &#124; We.Developers]]></dc:creator>
+		<pubDate>Thu, 17 May 2012 23:33:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1693#comment-46114</guid>
+		<description><![CDATA[[...] Enyo FAQ en Español (freniche.com) [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Enyo FAQ en Español (freniche.com) [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

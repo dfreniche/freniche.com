@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>App Store &#8211; freniche.com</title>
+	<atom:link href="/tag/app-store/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>ClockRing y la Hermenéutica de las Apple Review Guidelines</title>
+		<link>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/</link>
+		<comments>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/#comments</comments>
+		<pubDate>Thu, 03 Feb 2011 11:03:30 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[Don erre que erre]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[App Store]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[batallitas]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Productos]]></category>
+		<category><![CDATA[Programación]]></category>
+
+		<guid isPermaLink="false">/?p=1377</guid>
+		<description><![CDATA[ClockRing ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1378" style="width: 380px" class="wp-caption aligncenter"><img class="size-full wp-image-1378 " title="ClockRing rechazada :-)" src="/wp-content/uploads/2011/02/ClockRing-rejected.png" alt="ClockRing rechazada :-)" width="370" height="197" srcset="/wp-content/uploads/2011/02/ClockRing-rejected.png 370w, /wp-content/uploads/2011/02/ClockRing-rejected-300x159.png 300w" sizes="(max-width: 370px) 100vw, 370px" /><p class="wp-caption-text">ClockRing rechazada <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p style="text-align: justify;"><a href="/2011/01/27/clockring-mi-tercera-app-es-software-libre/">ClockRing</a> ha sido rechazada. No se por qué, pero me lo olía. Bueno, realmente no ha sido rechazada. Me explico. La App es correcta, pero no la pueden subir al App Store porque los materiales de márketing (los textos, imágenes, iconos, etc. que aparecen luego en iTunes) no pasan el filtro. Me esperaba algún problema con la licencia, que es <a href="https://femtocoders.fogbugz.com/default.asp?W5">GPL</a>, pero como eso no aparece de entrada, no hay <em>bronca</em> (el problema lo tienen aplicaciones que, nada más abrirlas, te informan de su licencia y otras historias).</p>
+<p style="text-align: justify;">El correo que he recibido del equipo de revisión me parece perfecto, en serio. Muy educado, te dan las gracias por enviar Apps al App Store y te explican exactamente cual es el problema (en mi caso una de las capturas de pantalla que había enviado) y cómo solucionarlo. Acabo de crear una nueva captura y la he enviado ya para que me la revisen, a ver si ahora todo funciona OK. No entiendo los programadores que se quejan todo el rato del proceso de revisión. Yo hasta ahora he tenido dos problemas, y en ambos casos me han indicado qué pasaba y cómo arreglarlo. Y todo como la seda, oiga.</p>
+<p style="text-align: justify;">Lo que me hace gracia es la razón exacta del rechazo:</p>
+<blockquote>
+<p style="text-align: justify;">3.2   Apps with placeholder text will be rejected</p>
+</blockquote>
+<p style="text-align: justify;">Bueno, mi captura de pantalla inicial lo que mostraba era un anuncio vacío (un iAd sin nada, ya que estaba probando la App). Y yo tenía que interpretar que un texto de relleno (placeholder text) es lo mismo que un iAd sin anuncios. Es por eso que habría que crear una <a href="http://es.wikipedia.org/wiki/Hermenéutica">hermenéutica</a> de las reglas de Apple, de forma que mentes ilustradas nos expliquen a los más torpes exactamente qué puedes y qué no puedes hacer <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">En resumen, que si mandas esto, te rechazan:</p>
+<p style="text-align: justify;">
+<div id="attachment_1381" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingApp.png"><img class="size-full wp-image-1381" title="Captura de ClockRing App que NO cumple las reglas :-)" src="/wp-content/uploads/2011/02/ClockRingApp.png" alt="Captura de ClockRing App que NO cumple las reglas :-)" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingApp.png 320w, /wp-content/uploads/2011/02/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Captura de ClockRing App que NO cumple las reglas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p></div>
+<p>Pero si mandas esto otro, todo es perfecto:</p>
+<div id="attachment_1382" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png"><img class="size-full wp-image-1382" title="Esta es la buena" src="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png" alt="Esta es la buena" width="320" height="480" srcset="/wp-content/uploads/2011/02/ClockRingScreenShot-edited.png 320w, /wp-content/uploads/2011/02/ClockRingScreenShot-edited-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">Esta es la buena</p></div>
+<p>Nunca me había alegrado tanto de tener mi licencia de Pixelmator. Problema solucionado en 5 min. Bueno, eso si te acuerdas de cambiar las imágenes promocionales en todas las App Stores. Si no, te mandan otro amable correo rebosante de paciencia pidiéndote que cambies los screenshots de la App española <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>Por cierto, <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing ya está disponible en el App Store</a>. Y su <a href="https://femtocoders.fogbugz.com/default.asp?W5">código fuente está aquí</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/02/03/clockring-y-la-hermeneutica-de-las-apple-review-guidelines/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+	</channel>
+</rss>

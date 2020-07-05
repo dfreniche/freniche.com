@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Navegadores &#8211; freniche.com</title>
+	<atom:link href="/tag/navegadores/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Flock, ¿otro dolor de cabeza para IE?</title>
+		<link>/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/</link>
+		<comments>/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/#comments</comments>
+		<pubDate>Fri, 15 Sep 2006 10:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Flickr]]></category>
+		<category><![CDATA[Flock]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Navegadores]]></category>
+		<category><![CDATA[web2.0]]></category>
+
+		<guid isPermaLink="false">/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/</guid>
+		<description><![CDATA[No he sido demasiado amigo de los escritorios bonitos, los «eye-candy», los temas y demás «mejoras del S.O.». Probablemente debido a mis comienzos en el mundo de la Informática me acostumbré al prompt del MS-DOS y luego al escritorio de las sucesivas versiones de Windows (incluso cuando el Escritorio ni existía, y los programas residían [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext"><a href="http://flock.com/"><img class="aligncenter size-full wp-image-632" src="/wp-content/uploads/2006/09/bcb9deea4f.jpg" alt="" width="240" height="83" /></a></p>
+<p class="bodytext">No he sido demasiado amigo de los escritorios bonitos, los «eye-candy», los temas y demás «mejoras del S.O.». Probablemente debido a mis <a href="que-me-interesa/retroinformatica/">comienzos</a> en el mundo de la Informática me acostumbré al prompt del MS-DOS y luego al escritorio de las sucesivas versiones de Windows (incluso cuando el Escritorio ni existía, y los programas residían en una cosa llamada <a href="http://www.valt.helsinki.fi/atk/basic99/lecture2.htm#software" target="_blank">Administrador de Programas</a>, hace mucho, mucho tiempo).</p>
+<p class="bodytext">El caso es que, acostumbrado a reinstalar Win 98 cada seis meses, me parecía una pérdida de tiempo ajustar las teclas de acceso rápido (hotkeys), cambiar el tema, poner un fondo bonito, organizar los iconos, &#8230; ¿Para qué, si lo voy a perder de todas formas?. Ya se que podría usar algún programa de esos que guarda la configuración del usuario y luego la restaura, pero Windows nunca fue mi fuerte y nunca me ha dado la impresión de ser «mi hogar». En mi viejo MS-DOS me sentía incluso más a gusto.</p>
+<p class="bodytext">Pero desde un tiempo a esta parte, noto que voy cambiando. Será la edad. Pero cada vez miro con más insistencia los Macs. Cuando me compré mi Dell Inspiron 9400, le puse una cubierta opcional para que fuera más bonito. Probablemente sea la influencia de la comunidad <a href="http://www.amiga.org/" target="_blank">Amiguera</a>, o de blogs como <a href="http://a1200.bitacoras.com/" target="_blank">A1200 Freaks</a>, pero cada vez quiero que las cosas tengan un diseño más bonito.</p>
+<p class="bodytext">Siguiendo con esta tendencia hace un par de dias descubrí <a href="http://www.flock.com/" target="_blank">Flock</a>, un navegador web. Mucha gente se preguntará si existiendo ya Firefox, Mozilla, Opera, Internet Explorer, Netscape, Galeon, &lt;pon aquí el nombre que uses&gt; era necesario <em>otro más</em>. Pero es que es muy bonito. Y además está pensado para el usuario moderno. Ya no basta con tener solapas. Quiero poder subir mis fotos a Flickr de forma sencilla. O mandar un post a mi blog rápidamente. O leer los feeds RSS cómodamente. O bajar vídeos desde YouTube. Pues todo eso hace Flock desde una única aplicación.</p>
+<p class="bodytext">Y encima han sido tan inteligentes que han respetado el interfaz de usuario de Firefox. Es decir, Ctrl+T abre una nueva ventana, Ctrl-F busca, etc. Cuando llevas cinco minutos trabajando con él te olvidas de que es nuevo. La impresión es que estás con un Firefox «tuneado».</p>
+<p class="bodytext">En fin, otro juguete que hará las delicias de los que usen habitualmente Flickr, Blogger, YouTube y Del.icio.us. Por cierto, uniendo todos estos «juguetes» se puede hacer una estupenda web&#8230; aunque eso es tema para otro post.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

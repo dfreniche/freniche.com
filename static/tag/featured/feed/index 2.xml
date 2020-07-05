@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>featured &#8211; freniche.com</title>
+	<atom:link href="/tag/featured/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Recruiting Nigeriano: Guía de supervivencia para que el personal de RRHH sepa cómo contratar informáticos</title>
+		<link>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/</link>
+		<comments>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/#comments</comments>
+		<pubDate>Sun, 05 Aug 2012 18:14:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Empleo]]></category>
+		<category><![CDATA[featured]]></category>
+		<category><![CDATA[trabajo]]></category>
+
+		<guid isPermaLink="false">/?p=1739</guid>
+		<description><![CDATA[Hace un tiempo que trato bastante con «recruiters», con «expertos» en Recursos Humanos. Siempre he pensado que esta gente empezaban ya mal con ese nombre, ya que los trabajadores especializados no somos intercambiables (por ej., yo nunca podría hacer el trabajo de un administrador de BB.DD. porque no tengo ni idea de eso). Es decir, [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.estrenoscinema.es/2011/05/el-viaje-del-director-de-recursos.html"><img class="aligncenter size-full wp-image-1742" title="Película: El viaje del director de RR.HH." src="/wp-content/uploads/2012/08/viaje_director_recursos_humanos.jpg" alt="Película: El viaje del director de RR.HH." width="286" height="400" srcset="/wp-content/uploads/2012/08/viaje_director_recursos_humanos.jpg 286w, /wp-content/uploads/2012/08/viaje_director_recursos_humanos-214x300.jpg 214w" sizes="(max-width: 286px) 100vw, 286px" /></a></p>
+<p>Hace un tiempo que trato bastante con «recruiters», con «expertos» en Recursos Humanos.</p>
+<p>Siempre he pensado que esta gente empezaban ya mal con ese nombre, ya que <strong>los trabajadores especializados no somos intercambiables</strong> (por ej., yo nunca podría hacer el trabajo de un administrador de BB.DD. porque no tengo ni idea de eso). Es decir, que no somos «recursos» que, si se agotan (porque se van a otra empresa)  va uno al supermercado y te traes otro. «¿Me pone cuarto y mitad de programador Java, por favor?». Somos especialistas con un grado de formación constante muy alto y eso es algo que fallan en reconocer. Como tampoco se valora la extrema dificultad que tiene el trabajo de programador: en cualquier momento, tienes que tener en la cabeza la estructura de tu proyecto, las reglas sintácticas del lenguaje que uses, cómo utilizar tu IDE y herramientas, cómo probar los ejecutables, SQL, dónde está tu base de datos en la red, Patrones de diseño, TDD, &#8230; Y claro, luego pasa lo que pasa. Que te contactan y dan una impresión de pena. <strong>Son los nuevos spammers</strong>, enviando el mismo correo a todo lo que se mueve en la esperanza de que alguien pique. Es la táctica «<strong>recruiting nigeriano</strong>«</p>
+<p>Si quieres contratar informáticos, y te precias de <a href="http://es.wikipedia.org/wiki/Sic">[sic]</a> «seleccionar a grandes profesionales» o cualquier otro rollo que aparezca en tu tarjeta de <em>body-shopper</em>, sigue estos consejos para al menos no mosquear al personal:</p>
+<ul>
+<li>si me contactas desde LinkedIn, por favor, no me pidas un «CV actualizado en formato Word». Uso LinkedIn precisamente <strong>para no mantener un documento con mi CV</strong>, documento que además no se suele tener actualizado. <a href="http://www.linkedin.com/in/dfreniche">En mi perfil</a> puedes ver todo lo que estoy haciendo. Y hay un fantástico botón de «imprimir como PDF». Así, de paso, cada uno hace su trabajo. No creo que yo tenga que andar rellenándote tu base de datos, porque tú no me vas a solucionar un par de bugs a cambio ¿cierto?</li>
+<li>cuando me mandes un mensaje, sea a través de LI o de email, suele agradar que te llamen por tu nombre correcto de pila y no por el de otro. Si veo que el mensaje es de manera muy evidente, un «corta, pinta y colorea» aumenta la sensación de «SPAM RRHH» y me lo tomo menos en serio. Y no, no me llamo Mario.</li>
+<li>trabajar para una «empresa líder en el sector de las telecomunicaciones» o cualquier otra frase rimbombante para ocultar la empresa final no me impresiona. Me molesta. <strong>Un contrato es un acuerdo entre dos partes. Quiero saber dónde me ofreces trabajar</strong>, ya que yo no oculto nada. He trabajado y colaborado (muchas veces de manera indirecta, en la cadena interminable de subcontratas) para Telefónica, HP o Fujitsu, luego no me deslumbra lo de «líder». Entiendo el miedo del reclutador: perder su comisión por conseguir al candidato para el puesto. Pero en este caso no creo que nadie se salte al recruiter. ¿Me van a pagar más si lo hago directamente con la empresa final? No tiene sentido este miedo y creo que, al contrario, crea confianza desde el primer momento.</li>
+<li>dime para qué me quieres contratar. Para programar Apps iOS, como formador, etc. <strong>Salario, empresa y qué voy a estar haciendo son las cosas que probablemente tienen más peso</strong>. Y no te inventes puestos de trabajo con nombres absurdos. Si voy a programar, soy programador o desarrollador. No soy «ensamblador de códigos y mago del teclado»</li>
+<li>detalles geeks, si quieres ganarme. ¿Qué ordenador y equipamiento voy a tener? ¿Se usan metodologías ágiles? ¿SVN o Git? ¿Puedo llevar mi portátil si el que me ofreces no me gusta? ¿Das algún dispositivo móvil? ¿Me mandarías al WWDC?</li>
+<li>otros detalles generales se agradecen: ¿Donde es el trabajo? ¿Hay que viajar? ¿Necesitas que hable inglés?</li>
+<li>trata de comprender las tecnologías que maneja la gente que vas a contratar. Si veo que no distingues entre una BBDD y programar en LISP puedo pensar que no distingas entre una buena y una mala oferta. Buscar filtrando por un montón de siglas que no comprendes normalmente no da buen resultado</li>
+<li>no termines tu mensaje diciéndome «pero si no te gusta el puesto, ¿puedes localizarme a alguien que le interese?». Perdona, pero <strong>ese es TU trabajo</strong>. Si el puesto es increíble y «awesomico» (como diría <a href="http://www.bonillaware.com/">David Bonilla</a>) ya me encargaré yo solito de comentárselo a mis amigos. Si no lo es, y quieres que trabaje por ti, hay una cosa que se llaman referrals: me pagas si te mando un candidato valido. Que ya está bien. Además de arreglar el ordenador del primo de turno gratis ahora tenemos que hacer esto también. Ni de coña.</li>
+</ul>
+<p>Si te ha gustado esto, puedes continuar leyendo mi análisis de <a href="/2010/11/06/los-dos-tipos-de-negocio-de-desarrollo-de-software/">los dos tipos de negocio de desarrollo de software</a>. Sobre vendedores de carne y demás.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/08/05/recruiting-nigeriano-guia-de-supervivencia-para-que-el-personal-de-rrhh-sepa-como-contratar-informaticos/feed/</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+		</item>
+	</channel>
+</rss>

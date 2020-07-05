@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DCVS &#8211; freniche.com</title>
+	<atom:link href="/tag/dcvs/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Instalar el plugin de Mercurial en Eclipse</title>
+		<link>/2011/06/18/instalar-el-plugin-de-mercurial-en-eclipse/</link>
+		<comments>/2011/06/18/instalar-el-plugin-de-mercurial-en-eclipse/#comments</comments>
+		<pubDate>Sat, 18 Jun 2011 17:31:02 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Java]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[DCVS]]></category>
+		<category><![CDATA[Eclipse]]></category>
+		<category><![CDATA[Formación]]></category>
+		<category><![CDATA[Mercurial]]></category>
+
+		<guid isPermaLink="false">/?p=1512</guid>
+		<description><![CDATA[Los sistemas de control de versiones son adictivos. No puedes probarlos, porque luego no puedes vivir sin ellos. Aunque sea un pequeño ejemplo el que vas a programar, te sientes perdido sin tu repositorio y empiezas a pensar «¿y si se me ocurre cambiar esto o lo otro, y luego me arrepiento?». Ese tipo de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Los sistemas de control de versiones son adictivos. No puedes probarlos, porque luego no puedes vivir sin ellos. Aunque sea un pequeño ejemplo el que vas a programar, te sientes <em>perdido</em> sin tu repositorio y empiezas a pensar «¿y si se me ocurre cambiar esto o lo otro, y luego me arrepiento?». Ese tipo de «problemas» se solucionan casi en el acto con un VCS. Y si es distribuido (Git o Mercurial), mejor que mejor.</p>
+<p style="text-align: justify;">Antes de seguir, quiero dejar claro que no entro en las guerras religiosas entre los DCVS Git o Mercurial. Yo uso <a href="http://mercurial.selenic.com/">Mercurial</a> porque <a href="http://hginit.com/">Joel Spolsky</a> lo explica de forma increíblemente sencilla. Aunque ahora que Git viene integrado con XCode4, probablemente es una buena alternativa&#8230; bueno, no :-). En fin, usa el que te de la gana, pero usa uno.</p>
+<p style="text-align: justify;">Para <em>casi</em> todos mis proyectos uso Mercurial. No lo uso para los ejemplos que escribo para mis cursos. Y estaba pensando «¿porqué no usarlo?». Por pereza mental, y por hacer siempre las cosas de la misma forma. Mi padre dice que «si un burro tira de una noria para un lado y le das la vuelta, ya no sabe tirar de ella». Y es que nos acostumbramos a hacer siempre lo mismo, de la misma forma, y nos estancamos. De vez en cuando hay que revisarlo todo con una mirada fresca y en lugar de pensar «¿hay una manera de optimizar esto que estoy haciendo?» debemos plantearnos «¿en <em>serio</em> tengo que seguir haciendo esto?».</p>
+<p style="text-align: justify;">El caso es que un sistema de control de versiones es casi perfecto para dar clases. Puedes tener una primera versión, sencilla, y luego ir promoviendo a las distintas versiones más avanzadas, que pueden ser changesets o bien nuevas ramas. Los cambios que hagas durante la clase para demostrar algo siempre puedes revertirlos sin problemas. Para eso está el DCVS. Y distribuir el código es más sencillo: compartes tu repo, y los alumnos se clonan los repositorios y punto. No hay que andar con historias de copiar los Workspaces de Eclipse y que luego falle (los WS de Eclipse dependen del sistema en el que los uses, hay que cambiar luego los Build Paths, etc.). Como se puede ver, todo son ventajas. La pregunta es porqué no lo he usado hasta ahora&#8230;</p>
+<h1>Instalar Mercurial</h1>
+<p style="text-align: justify;">Evidentemente, antes de nada lo primero es instalar Mercurial, ya sea para Linux, Windows o Mac, o para donde vayas a usar el DCVS. Si no, el plugin de Eclipse no podrá usar Mercurial porque no lo encontrará en tu sistema. Te lo bajas de su <a href="http://mercurial.selenic.com/">sitio web oficial</a>.</p>
+<h1>Instalando hgEclipse</h1>
+<p style="text-align: justify;"><a href="http://www.javaforge.com/project/HGE">HgEclipse</a> es un plugin para Eclipse que añade soporte Mercurial a tus proyectos. Una vez instalado, en el menú contextual del proyecto encontrarás en la opción Team &gt; Share la parte de Mercurial. Para instalarlo, iremos a Help &gt; Install New Software e introduciremos el repositorio http://cbes.javaforge.com/update. En mi caso (instalándolo en Mac) no necesito los binarios de Mercurial para Windows, así que no los marco para instalar.</p>
+<p style="text-align: justify;">
+<div id="attachment_1517" style="width: 825px" class="wp-caption aligncenter"><img class="size-full wp-image-1517" title="Instalando hgEclipse: repositorios" src="/wp-content/uploads/2011/06/install-hgeclipse.png" alt="Instalando hgEclipse: repositorios" width="815" height="715" srcset="/wp-content/uploads/2011/06/install-hgeclipse.png 815w, /wp-content/uploads/2011/06/install-hgeclipse-300x263.png 300w" sizes="(max-width: 815px) 100vw, 815px" /><p class="wp-caption-text">Instalando hgEclipse: repositorios</p></div>
+<p style="text-align: justify;">Cuando pulsemos Next, pasaremos a descargar e instalar el plugin. Al final no hay más remedio que reiniciar Eclipse. Así que hazlo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<div id="attachment_1518" style="width: 566px" class="wp-caption aligncenter"><img class="size-full wp-image-1518" title="hgEclipse instalándose" src="/wp-content/uploads/2011/06/installing-hgeclipse.png" alt="hgEclipse instalándose" width="556" height="378" srcset="/wp-content/uploads/2011/06/installing-hgeclipse.png 556w, /wp-content/uploads/2011/06/installing-hgeclipse-300x203.png 300w" sizes="(max-width: 556px) 100vw, 556px" /><p class="wp-caption-text">hgEclipse instalándose</p></div>
+<h1>Usando HgEclipse</h1>
+<p style="text-align: justify;">Una vez con todo instalado, lo primero es crear el repositorio Mercurial en nuestro proyecto. Eso lo prepara todo para poder gestionar las versiones de tu codigo fuente. Equivale a un «hg init». Para ello, pulsaremos con el botón derecho del ratón en el nombre de nuestro proyecto y seleccionaremos Team &gt; Share Project. Si todo está correctamente instalado nos aparecerá una ventana como la siguiente:</p>
+<div id="attachment_1525" style="width: 615px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/ShareProject.png"><img class="size-full wp-image-1525" title="Share &gt; Project" src="/wp-content/uploads/2011/06/ShareProject.png" alt="Share &gt; Project" width="605" height="491" srcset="/wp-content/uploads/2011/06/ShareProject.png 605w, /wp-content/uploads/2011/06/ShareProject-300x243.png 300w" sizes="(max-width: 605px) 100vw, 605px" /></a><p class="wp-caption-text">Share &gt; Project</p></div>
+<p style="text-align: justify;">Como queremos crear un repo Mercurial, basta con pulsar siguiente. Nos mostrará dónde va a crear el repositorio (que es una carpeta llamada .hg, dentro de nuestra carpeta de proyecto). Aparecerán unos nuevos iconos en las carpetas y ficheros de nuestro proyecto y la palabra [new] indicando que el repo es nuevo, pero aún no se ha realizado el primer commit.</p>
+<div id="attachment_1526" style="width: 245px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/RepoCreado.png"><img class="size-full wp-image-1526" title="Repositorio tras el init" src="/wp-content/uploads/2011/06/RepoCreado.png" alt="Repositorio tras el init" width="235" height="86" /></a><p class="wp-caption-text">Repositorio tras el init</p></div>
+<p style="text-align: justify;">¡Vamos a añadir ficheros a nuestro repositorio! Botón derecho en el proyecto &gt; Share Project, pero ahora aparece un menú con un montón de opciones. Seleccionamos Add. Esto añade los ficheros del proyecto al repositorio. Yo suelo añadir únicamente el código fuente, pero no los ajustes del proyecto, ni las carpetas propias de Eclipse, como muestro a continuación:</p>
+<div id="attachment_1528" style="width: 489px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/Add.png"><img class="size-full wp-image-1528" title="Añadamos ficheros al repo!" src="/wp-content/uploads/2011/06/Add.png" alt="Añadamos ficheros al repo!" width="479" height="519" srcset="/wp-content/uploads/2011/06/Add.png 479w, /wp-content/uploads/2011/06/Add-276x300.png 276w" sizes="(max-width: 479px) 100vw, 479px" /></a><p class="wp-caption-text">Añadamos ficheros al repo!</p></div>
+<p style="text-align: justify;">Ahora que hemos añadido, los iconos de los ficheros fuente cambian y tienen un «+» azul al lado. Están ya controlados por el repositorio, pero no hemos subido este cambio, que en este caso es subir la primera versión. Para ello, Team &gt; Share Project &gt; Commit y añadimos un mensaje de commit. HgEclipse nos muestra los ficheros que va a subir, y los que no tiene «controlados», por si queremos añadirlos.</p>
+<div id="attachment_1529" style="width: 640px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/06/Commit.png"><img class="size-full wp-image-1529" title="Commit" src="/wp-content/uploads/2011/06/Commit.png" alt="Commit" width="630" height="686" srcset="/wp-content/uploads/2011/06/Commit.png 630w, /wp-content/uploads/2011/06/Commit-275x300.png 275w" sizes="(max-width: 630px) 100vw, 630px" /></a><p class="wp-caption-text">Commit</p></div>
+<p style="text-align: justify;">Al pulsar OK, ¡listo!. Ya tenemos control de versiones funcionando. Ahora, si modificamos un fichero se nos mostrará como cambiado y podremos hacer un commit con esos cambios. O podremos compartir el código fuente del proyecto por la red con la opción Serve. Cualquiera en la red podrá hacer un Pull del repo y bajarse este código fuente. Mucho más rápido que compartir el proyecto en una carpeta SMB y encima evitas problemas con las configuraciones de Eclipse (yo lo uso en Mac y mis alumnos, normalmente, en Windows)</p>
+<p style="text-align: justify;">Las opciones del menú de Share Project son muy amplias. Os animo a irlas probando y a aprender Mercurial entre todos. El que tenga un truco especial de cómo usa Mercurial, ya sabe, que use los comentarios.</p>
+<pre>hg commit -m "post acabado"</pre>
+<pre>hg tag -m "v1.0"</pre>
+]]></content:encoded>
+			<wfw:commentRss>/2011/06/18/instalar-el-plugin-de-mercurial-en-eclipse/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>

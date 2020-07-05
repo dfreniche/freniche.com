@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>LPI &#8211; freniche.com</title>
+	<atom:link href="/tag/lpi/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Dash y Shebang</title>
+		<link>/2009/04/12/dash-y-shebang/</link>
+		<pubDate>Sun, 12 Apr 2009 16:23:45 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[LPI]]></category>
+
+		<guid isPermaLink="false">/2009/04/12/dash-y-shebang/</guid>
+		<description><![CDATA[&#60;frikimode&#62; Desde luego, qué poco sabe uno de nada. Estudiando para la LPI-1, se me ocurrió mirar en Ubuntu si la shell sh era realmente un fichero o bien un enlace simbólico. Mi ego a duras penas me dejó escribir en la consola: $ ls `which sh` -al lrwxrwxrwx 1 root root 4 2009-03-30 22:58 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>&lt;frikimode&gt;</p>
+<p>Desde luego, qué poco sabe uno de nada. Estudiando para la <a href="http://lpi.org.es/index.php?option=com_content&amp;view=article&amp;id=49&amp;Itemid=56">LPI-1</a>, se me ocurrió mirar en Ubuntu si la shell sh era realmente un fichero o bien un enlace simbólico. Mi ego a duras penas me dejó escribir en la consola:</p>
+<pre>$ ls `which sh` -al</pre>
+<pre>lrwxrwxrwx 1 root root 4 2009-03-30 22:58 /bin/sh -&gt; dash</pre>
+<p>que es la forma super friki de decir: <em>Hola, Linux, ¿me listas, por favor, con detalle (las opciones -al del ls), el fichero sh donde quiera que se encuentre en el disco duro (eso lo hace el which)?</em></p>
+<p>Yo pensaba que el resultado sería bash, por la <a href="http://es.wikipedia.org/wiki/Bash">Bourne Again Shell</a>, pero resulta que no, que tras leer en la Wikipedia me entero que en Ubuntu lo que viene por defecto como substituto de la sh es la <a href="http://en.wikipedia.org/wiki/Debian_Almquist_shell">Debian Alquimist Shell</a>.</p>
+<p>Bueno, la cosa no sería para tanto si no hubiera leído una referencia al <a href="http://en.wikipedia.org/wiki/Shebang_(Unix)">Shebang</a>. ¡Dios, qué es ésto! ¡Houston, tenemos un problema! El problema es que hay que leer más&#8230; El famoso Shebang no es más que la típica primera línea que se pone en los scripts de shell para asegurarnos de que se ejecutan con tal o cual shell. Un ejemplo de este uso lo tenéis <a href="/2005/10/20/crear-un-servicio-personalizado/">en este viejo script</a>.</p>
+<p>&lt;/frikimode&gt;</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

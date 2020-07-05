@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Cómo montar un volumen en el arranque de Mac OS X</title>
+	<atom:link href="/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Juaco</title>
+		<link>/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/comment-page-1/#comment-1487</link>
+		<dc:creator><![CDATA[Juaco]]></dc:creator>
+		<pubDate>Mon, 10 Nov 2008 21:15:27 +0000</pubDate>
+		<guid isPermaLink="false">/2008/11/02/como-montar-un-volumen-en-el-arranque-de-mac-os-x/#comment-1487</guid>
+		<description><![CDATA[Te planteo otro reto.
+
+Una cuenta del TC puede usarse desde cualquier ordenador e inclusive mediacenter (no utiliza la utilidad airport) con tan sólo indicar la IP, ruta, nombre y contraseña, del tipo
+
+smb://usuario:contraseña@IP/carpeta/
+
+pues bien.
+
+Si al TC le pinchas un 2º disco duro, éste solo se monta cuando con un equipo montas el TC. Así se monta el TC y el disco duro adicional automáticamente.
+
+Pero con un mediacenter, este 2º disco duro no se monta automáticamente. Se requiere que desde algún equipo se haya montado con anterioridad el disco duro principal. Sino, no es accesible.
+
+¿Cómo se podría hacer para que con la utilidad Airport quedase configurado siempre montado el 2º hdd en cuanto se tenga acceso al 1º, inclusive con dispositivo mediacenter (sin contar con la utilidad airport)?
+
+No sé si, como de costumbre, no me he explicado bien. &quot;Trújate&quot; el cerebro.]]></description>
+		<content:encoded><![CDATA[<p>Te planteo otro reto.</p>
+<p>Una cuenta del TC puede usarse desde cualquier ordenador e inclusive mediacenter (no utiliza la utilidad airport) con tan sólo indicar la IP, ruta, nombre y contraseña, del tipo</p>
+<p>smb://usuario:contraseña@IP/carpeta/</p>
+<p>pues bien.</p>
+<p>Si al TC le pinchas un 2º disco duro, éste solo se monta cuando con un equipo montas el TC. Así se monta el TC y el disco duro adicional automáticamente.</p>
+<p>Pero con un mediacenter, este 2º disco duro no se monta automáticamente. Se requiere que desde algún equipo se haya montado con anterioridad el disco duro principal. Sino, no es accesible.</p>
+<p>¿Cómo se podría hacer para que con la utilidad Airport quedase configurado siempre montado el 2º hdd en cuanto se tenga acceso al 1º, inclusive con dispositivo mediacenter (sin contar con la utilidad airport)?</p>
+<p>No sé si, como de costumbre, no me he explicado bien. «Trújate» el cerebro.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BestBuy &#8211; freniche.com</title>
+	<atom:link href="/tag/bestbuy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Consumismo en estado puro</title>
+		<link>/2009/12/14/consumismo-en-estado-puro/</link>
+		<comments>/2009/12/14/consumismo-en-estado-puro/#comments</comments>
+		<pubDate>Mon, 14 Dec 2009 01:12:48 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[BestBuy]]></category>
+		<category><![CDATA[Negocio]]></category>
+		<category><![CDATA[Productos]]></category>
+
+		<guid isPermaLink="false">/?p=516</guid>
+		<description><![CDATA[He visto muchas actitudes compulsivas a la hora de gastar dinero en este viaje a los EE.UU (del que acabo de llegar). Las he sentido en mis propias carnes. y, aunque había escuchado que los americanos aprovechan cualquier momento para hacer un buen negocio (llegando al caso extremo de Las Vegas, donde hay maquinas tragaperras [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">He visto muchas actitudes compulsivas a la hora de gastar dinero en este viaje a los EE.UU (del que acabo de llegar). Las he sentido en mis propias carnes. y, aunque había escuchado que los americanos aprovechan cualquier momento para hacer un buen negocio (llegando al caso extremo de Las Vegas, donde hay maquinas tragaperras hasta en los lavabos del aeropuerto), no estaba preparado para lo que me he encontrado en el aeropuerto de Newark.</p>
+<div style="width: 510px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/asmythie/3557595721/"><img class=" " title="BestBuy Vending Machine (click para ver el autor, asmythie)" src="http://farm4.static.flickr.com/3333/3557595721_a59f243c8f.jpg" alt="BestBuy Vending Machine (click para ver el autor)" width="500" height="375" /></a><p class="wp-caption-text">BestBuy Vending Machine (click para ver el autor)</p></div>
+<p style="text-align: justify;">Una maquina (de BestBuy) dispensadora de ipods. y cámaras de fotos, auriculares, &#8230; incluso iPod touch&#8230; Había escuchado hablar de ellas en la radio (puede que a Carlos Herrera), pero cuando las tienes delante te entran ganas de pellizcarte para comprobar que no estas soñando&#8230; Eso, o comprarte un iPod nano&#8230;</p>
+<p style="text-align: justify;">Menos mal que ya me había dejado el presupuesto en las Tiendas Apple, que si no&#8230;</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/12/14/consumismo-en-estado-puro/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

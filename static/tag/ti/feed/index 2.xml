@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TI &#8211; freniche.com</title>
+	<atom:link href="/tag/ti/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo hacer que tu web alojada en casa sea visible desde Internet</title>
+		<link>/2006/09/21/como-hacer-que-tu-web-sea-visible-desde-internet/</link>
+		<comments>/2006/09/21/como-hacer-que-tu-web-sea-visible-desde-internet/#comments</comments>
+		<pubDate>Thu, 21 Sep 2006 07:08:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Infraestructura]]></category>
+		<category><![CDATA[Redes]]></category>
+		<category><![CDATA[TI]]></category>
+
+		<guid isPermaLink="false">/2006/09/21/como-hacer-que-tu-web-sea-visible-desde-internet/</guid>
+		<description><![CDATA[He recibido un correo de Diego (sí, se llama igual que yo) desde Melilla: He instalado un servidor UBUNTUSERVER en el VMWARE, que gracias a ti conocí&#8230;, hasta ahí bien&#8230; Lo siguiente fue instalar Apache, que veo desde el portatil y el fijo. Lo siguiente fue hacerme una cuenta en Dyndns y guay, pero pongo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">He recibido un correo de Diego (sí, se llama igual que yo) desde Melilla:</p>
+<blockquote>
+<p id="cita" class="bodytext">He instalado un servidor UBUNTUSERVER en el VMWARE, que gracias a ti conocí&#8230;, hasta ahí bien&#8230; Lo siguiente fue instalar Apache, que veo desde el portatil y el fijo. Lo siguiente fue hacerme una cuenta en Dyndns y guay, pero pongo en el navegador la direccion y me sale mi router&#8230; ¿como hago para ver el servidor?&#8230; toy hecho un lio&#8230; echame un cable pleaseeeeeeeeeeee.</p>
+</blockquote>
+<p class="bodytext">Veamos. Supongamos que tu portátil tiene una IP como 192.168.1.x, con x entre 1 y 254. Es decir, que está en una red interna. Las direcciones 192.168.x.x están reservadas para las direcciones privadas, las que usamos en las redes locales. Hay <a href="http://www.ibiblio.org/pub/Linux/docs/LuCaS/Manuales-LuCAS/GARL2/garl2/x-087-2-issues.ip-addresses.html" target="_blank"> otros rangos</a> (10.x.x.x y 172.16.x.x)</p>
+<p class="bodytext">Cuando tu portátil se trata de conectar a Google, pregunta por su dirección y se manda una petición HTTP (para ver una página web) al servidor web de Google (bueno, con uno de ellos, tienen <a href="http://labs.google.com/why-google.html" target="_blank">decenas de miles</a>). El servidor web de Google debe entonces responder a tu portátil para que tú puedas ver la página en tu navegador. Si se encuentra una dirección privada ¿cómo llegar hasta tí?. ¿A cual, de los miles y miles de ordenadores situados en redes privadas con las mismas  IPs debe responder Google?. Evidentemente este problema no lo tienes, es decir, puedes navegar. Ello es debido a que tu router de acceso a Internet hace IP masquerading, también conocida como NAT: al detectar una conexión desde un ordenador de tu red hacia fuera, cambia en la cabecera del mensaje la IP original por la suya propia (por la del router) que es pública. Google ahora sabe a quién responder. Es trabajo del router (y de NAT) deshacer ahora el cambio y entregar al equipo de la red interna la p?gina web solicitada.</p>
+<p class="bodytext">En tu el caso es al revés. Quieres que desde fuera puedan ver un servidor web en tu red interna. Usualmente este tipo de servidores se colocan en un segmento protegido de la red interna llamado DMZ (zona desmilitarizada), mientras que otro segmento queda inaccesible desde el exterior (la MZ, zona militarizada). Por sencillez puedes dejarlo en la interna, aunque es menos seguro.</p>
+<p class="bodytext">El caso es que debes hacer dos cosas:</p>
+<ol>
+<li>abrir el firewall en entrada para el puerto 80 para la IP de tu portátil, es decir, permitir a cualquiera desde fuera que se conecte al puerto 80 de tu máquina, que está en la red interna.</li>
+<li>crear una regla en el router de «port forwarding». Esto es algo similar a NAT, pero aquí se cambia la IP de destino, no la de origen como antes. Si alguien intenta conectarse a tu router en el puerto 80, éste le pasa la tarea a tu portátil. Como ves, la IP destino (originalmente la IP pública de tu router, que es lo que se ve desde Internet), se cambia por la IP de tu portátil (que está en la red interna). El paso inverso (llevar la respuesta desde el portátil) lo hace el router, como antes con NAT.</li>
+</ol>
+<p class="bodytext">Evidentemente, los firewalls deben permitir conexiones entrantes por el puerto 80. Las salientes ya las permiten porque puedes navegar ¿no?</p>
+<p class="bodytext">
+]]></content:encoded>
+			<wfw:commentRss>/2006/09/21/como-hacer-que-tu-web-sea-visible-desde-internet/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>XWindows &#8211; freniche.com</title>
+	<atom:link href="/tag/xwindows/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Crear modelines. X no coge la resolución de mi monitor.</title>
+		<link>/2005/10/20/crear-modelines-x-no-coge-la-resolucion-de-mi-monitor/</link>
+		<pubDate>Thu, 20 Oct 2005 19:57:38 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[FAQ]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[XWindows]]></category>
+
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/crear-modelines-x-no-coge-la-resolucion-de-mi-monitor/</guid>
+		<description><![CDATA[Si con las XFREE-4 tu monitor no se ve a la resolución y con la tasa de refresco que esperabas, deberías hacer:1) comprobar que efectivamente XFREE-4 intenta y no puede poner tu monitor en la resolución esperada. Hay que leerse /var/log/XFree86.0.log # less /var/log/XFree86.0.log especialmente las lineas que aparecen como: (II) SIS(0): Not using default [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Si con las XFREE-4 tu monitor no se ve a la resolución y con la tasa de refresco que esperabas, deberías hacer:1) comprobar que efectivamente XFREE-4 intenta y no puede poner tu monitor en la resolución esperada. Hay que leerse /var/log/XFree86.0.log</p>
+<pre># less /var/log/XFree86.0.log</pre>
+<p>especialmente las lineas que aparecen como:</p>
+<pre>(II) SIS(0): Not using default mode "800x600" (vrefresh out of range)</pre>
+<pre>(II) SIS(0): Not using default mode "800x600" (hsync out of range)</pre>
+<p>Esto son mensajes de información (II): los modos definidos en /etc/X11/XF86Config-4 y de nombre «800&#215;600» no cuadran con la información de sincronización vertical y horizontal que ha detectado para nuestro monitor.<br />
+Si miramos en /etc/X11/XF86Config-4 nos encontraremos con unas curiosas líneas en las que se describen los modos que soportan la mayoría de los monitores, líneas llamadas modeline y que tienen esta pinta:<br />
+Modeline «800&#215;600» 40.12 800 848 968 1056 600 601 605 628 #60Hz</p>
+<p>2) Suponiendo que tras leer /var/log/XFree86.0.log vemos que se detecta nuestra tarjeta de video y que indica que nuestro monitor soporta la resolución que deseamos (o tenemos Windows instalado en otra partición y lo tenemos con esa resolución) podemos:<br />
+a) buscar los modelines por Internet<br />
+b) generar nuestras propias modelines</p>
+<p>3) Para generar los modelines, usa videogen (instala antes el paquete, se usa desde consola) y create un fichero en el directorio donde vayas a ejecutar videogen que se llame .videogen y con un contenido más o menos como:</p>
+<pre>max_dotclk=60 # the maximum pixel/dot clock supported by my projector</pre>
+<pre>max_hfreq=54; max_vfreq=90 # the max horizontal and vertical frequency</pre>
+<pre>desired_vfreq=60 # the frequency you decided to use</pre>
+<pre>mode 1024x768 # the resolution your HTPC will be running</pre>
+<p>Es decir, si en tu consola estás en /home/pepe, crea un fichero .videogen mediante un:<br />
+dfreniche@tesla:home/pepe $ gedit .videogen</p>
+<p>y copias en el editor el contenido mostrado más arriba.<br />
+Tras ésto, grabas, cierras gedit y ejecutas videogen. Te imprimirá en la consola una línea Modelines. La copias, editas el fichero de configuración de las X (debes ser root para cambiarlo), grabas y pruebas.<br />
+En mi caso, el monitor es un LG StudioWorks 550M. Lo he puesto a 1024&#215;768 y a 60 Hz.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

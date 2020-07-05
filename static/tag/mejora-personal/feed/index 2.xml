@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mejora personal &#8211; freniche.com</title>
+	<atom:link href="/tag/mejora-personal/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Volver a empezar</title>
+		<link>/2013/07/22/volver-a-empezar/</link>
+		<pubDate>Mon, 22 Jul 2013 04:56:52 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[mejora personal]]></category>
+		<category><![CDATA[organización personal]]></category>
+
+		<guid isPermaLink="false">/?p=1913</guid>
+		<description><![CDATA[No, no me refiero al hecho de que dijera que tenía que escribir más y leer menos, y luego no he escrito desde hace meses. Me refiero a que tengo que volver a empezar a programar, después de tres semanas largas de vacaciones totalmente desconectado de un teclado. Y me cuesta. Programar es como cualquier [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>No, no me refiero al hecho de que dijera que <a href="/2013/02/17/escribir-en-lugar-de-leer/">tenía que escribir más y leer menos</a>, y luego no he escrito desde hace meses. Me refiero a que tengo que volver a <em>empezar</em> a programar, después de tres semanas largas de vacaciones totalmente desconectado de un teclado. Y me cuesta.</p>
+<p>Programar es como cualquier otro trabajo / afición. Es igual que correr, o escribir en tu blog (si lo haces, claro, no como yo ahora) y supongo que será como tocar un instrumento. Cuanto más practiques, mejor sabes hacerlo. Y más sencillo te resulta, con lo que tienes más ganas de volver a ello. Y practicas otro montón. Se crea ese <em>círculo virtuoso</em> que habrá sentido todo el que, tras tres semanas de correr de forma regular, siente la adicción a las endorfinas. Por cierto, que esa es otra cosa que tengo que volver a empezar a hacer&#8230;</p>
+<p>Recientemente he leído varios artículos sobre <a href="http://blog.brazencareerist.com/2013/07/19/5-secrets-to-learning-new-skills-more-quickly-than-you-ever-thought-possible/">cómo aprender a hacer cosas mucho más rápido</a>. Todos estos artículos tienen una idea común: practica mucho, «comprime» en el mínimo tiempo posible la práctica de un año de formación <em>normal</em> y obtendrás los resultados de un año de experiencia. Siempre he sido reacio a esta idea, y he pensado que aprender las cosas <em>lleva su tiempo</em>. Pero, ¿y si estoy equivocado, y con una forma distinta de ver las cosas puedo aprender un lenguaje nuevo de programación, tocar un instrumento, correr mejor o aprender un idioma más rápido? Este verano, voy a hacer algunos experimentos sobre la forma en que hasta ahora he tratado de aprender las cosas. A ver cómo me va.</p>
+<p>Y eso me devuelve a la idea inicial: que tengo que ponerme de nuevo a programar. Pese a lo que puedan pensar los que quieren aprender a programar, a todos nos cuesta, a los que empiezan o a los que llevamos algo más de tiempo. Siempre cuesta empezar. Lo bueno, es que como dijo Pitágoras de Samos, «el principio es la mitad del todo».</p>
+<p>¡Así que, menos llorar, y más programar! (Empecemos procastrinando viendo vídeos de la WWDC 2013, cuando vuelva a estar operativo el portal de Apple para Desarrolladores, claro <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> )</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

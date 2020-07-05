@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Contra-natura informática</title>
+	<atom:link href="/2008/05/02/contra-natura-informatica/feed/" rel="self" type="application/rss+xml" />
+	<link>/2008/05/02/contra-natura-informatica/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Acceder a un Mac con dos usuarios distintos, a la vez</title>
+		<link>/2008/05/02/contra-natura-informatica/comment-page-1/#comment-7264</link>
+		<dc:creator><![CDATA[Acceder a un Mac con dos usuarios distintos, a la vez]]></dc:creator>
+		<pubDate>Wed, 29 Sep 2010 15:58:37 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/02/contra-natura-informatica/#comment-7264</guid>
+		<description><![CDATA[[...] interesa el tema, recordando entradas anteriores ya hablé de clientes VNC en mi Macbook Pro y de alternativas al VNC.   Si te ha gustado, compártelo con tus [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] interesa el tema, recordando entradas anteriores ya hablé de clientes VNC en mi Macbook Pro y de alternativas al VNC.   Si te ha gustado, compártelo con tus [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Por: Contra-natura informática</title>
+		<link>/2008/05/02/contra-natura-informatica/comment-page-1/#comment-18</link>
+		<dc:creator><![CDATA[Contra-natura informática]]></dc:creator>
+		<pubDate>Fri, 02 May 2008 22:37:10 +0000</pubDate>
+		<guid isPermaLink="false">/2008/05/02/contra-natura-informatica/#comment-18</guid>
+		<description><![CDATA[[...] ecollo - Clean. Clear. Caring. wrote an interesting post today onHere&#8217;s a quick excerpt Creo que voy a ser castigado por algún Ente Superior del mundo de los informáticos. Al menos, lo merezco. Debo confesar hoy mis pecados, que son muchos, y más aberrantes cuanto que no me he dado cuenta de ellos de tanto insistir en el vicio. Hoy estoy trabajando. Pero no en la oficina. Estoy teletrabajando mediante una conexión vnc a mi ordenador de Isotrol. Es la forma de teletrabajo que más me gusta, ya que me permite sentirme “como en la oficina” pero con el pijama puesto. Accedo a todos mi [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] ecollo &#8211; Clean. Clear. Caring. wrote an interesting post today onHere&#8217;s a quick excerpt Creo que voy a ser castigado por algún Ente Superior del mundo de los informáticos. Al menos, lo merezco. Debo confesar hoy mis pecados, que son muchos, y más aberrantes cuanto que no me he dado cuenta de ellos de tanto insistir en el vicio. Hoy estoy trabajando. Pero no en la oficina. Estoy teletrabajando mediante una conexión vnc a mi ordenador de Isotrol. Es la forma de teletrabajo que más me gusta, ya que me permite sentirme “como en la oficina” pero con el pijama puesto. Accedo a todos mi [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

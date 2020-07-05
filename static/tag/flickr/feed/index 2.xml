@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Flickr &#8211; freniche.com</title>
+	<atom:link href="/tag/flickr/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Cómo uso las redes sociales</title>
+		<link>/2010/03/08/como-uso-las-redes-sociales/</link>
+		<comments>/2010/03/08/como-uso-las-redes-sociales/#comments</comments>
+		<pubDate>Mon, 08 Mar 2010 15:40:55 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Web2.0]]></category>
+		<category><![CDATA[del.icio.us]]></category>
+		<category><![CDATA[Facebook]]></category>
+		<category><![CDATA[Flickr]]></category>
+		<category><![CDATA[Redes Sociales]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[web2.0]]></category>
+		<category><![CDATA[youtube]]></category>
+
+		<guid isPermaLink="false">/?p=872</guid>
+		<description><![CDATA[Las redes sociales están de moda. Es lo más in dentro del boom 2.0. Personalmente, me parece una chorrada esta manera de hablar. Las redes sociales son servicios útiles, que en muchos casos he comenzado ignorando (incluso despreciando) pero que al final se han revelado como bastante útiles. Eso sí, si las utilizas para ayudarte [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.flickr.com/photos/nationallibrarynz_commons/3326203787/"><img class="aligncenter size-full wp-image-873" title="Pulsa para ir a esta foto en Flickr" src="/wp-content/uploads/2010/03/people.jpg" alt="" width="500" height="350" srcset="/wp-content/uploads/2010/03/people.jpg 500w, /wp-content/uploads/2010/03/people-300x210.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p style="text-align: justify;">Las redes sociales están de moda. Es lo más <em>in</em> dentro del <em>boom 2.0</em>. Personalmente, me parece una chorrada esta manera de hablar. Las redes sociales son servicios útiles, que en muchos casos he comenzado ignorando (incluso despreciando) pero que al final se han revelado como bastante útiles. Eso sí, si las utilizas para ayudarte y de forma controlada, porque si no pueden convertirse en fuente de estrés, trabajo e interrupciones.</p>
+<p style="text-align: justify;">Llevo bastante tiempo asistiendo a la aparición de estas redes. En <a href="/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/">este post de 2006</a>, comentaba:</p>
+<blockquote>
+<p style="text-align: justify;">En fin, otro juguete que hará las delicias de los que usen habitualmente Flickr, Blogger, YouTube y Del.icio.us. Por cierto, uniendo todos estos “juguetes” se puede hacer una estupenda web… aunque eso es tema para otro post.</p>
+</blockquote>
+<p style="text-align: justify;">Bueno, pues ha llegado la hora de ese <em>otro post</em>&#8230; cuatro años después.</p>
+<p style="text-align: justify;"><span id="more-872"></span></p>
+<p style="text-align: justify;">Es innegable la influencia que todo lo social está teniendo en la web. Ahora mismo, uno no sabe si está en una red social que permite subir contenido (fotos, vídeos, enlaces) como Facebook o en una aplicación web que poco a poco se va socializando (como GMail con Google Buzz integrado). Inicialmente, Youtube era un servicio para compartir vídeos. Pero poco a poco, se ha convertido en una red social más: se pueden puntuar vídeos (y compartir estas acciones en muchas otras redes sociales), seguir a <em>Tubers</em>, mandarles mensajes, etc.</p>
+<p>No soy ningún Gurú de esto, ni pretendo sentar cátedra. Sólo quiero contarte:</p>
+<ul>
+<li>cuáles uso (y cuales no). Hay tantas que a mí me surgieron dudas sobre cual escoger, en cuántas estar, etc.</li>
+<li>cómo las uso yo. Se pueden usar para muchas cosas comunes, lo cual aumenta la confusión. ¿Subo las fotos que quiero compartir a Facebook o a Flickr? ¿Pongo los vídeos en Vimeo o en Tuenti? Y dudas por el estilo.</li>
+<li>cómo se integran en mi flujo de trabajo diario</li>
+<li>en la lista aparecerán por igual servicios web 2.0 socializados y redes sociales con pedigree. Para mi son lo mismo: herramientas que me permiten hacer tal o cual cosa.</li>
+</ul>
+<p>¡Vamos a ello!</p>
+<h2>Flickr</h2>
+<p style="text-align: center;"><img class="aligncenter size-full wp-image-888" src="/wp-content/uploads/2010/03/logo-flickr.jpeg" alt="" width="400" height="135" srcset="/wp-content/uploads/2010/03/logo-flickr.jpeg 400w, /wp-content/uploads/2010/03/logo-flickr-300x101.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">Un servicio de almacenamiento de fotos, orientado a compartirlas con todo el mundo. La alternativa (que no uso) es Google Picasa. Tengo cuenta en Picasa, pero puesto a usar uno de los dos he escogido el que mejor se integraba con mi aplicación de gestión de mi biblioteca de fotos, iPhoto.</p>
+<p style="text-align: justify;">Uso <a href="http://www.flickr.com/photos/dfreniche">Flickr</a> por los impresionantes pases de diapositivas que crea. Y porque me resulta sencillo de usar (aunque su interfaz no es de los más intuitivos al principio). No tengo una cuenta premium, aunque es para pensárselo, porque por 25 $ al año puedes tener una copia de seguridad en la nube de todas tus fotos.</p>
+<p style="text-align: justify;">Uso fundamental: mostrar en el blog un conjunto de fotos, sin machacar mi WordPress. Inicialmente me planteé la opción de tener todas las fotos en mi dominio y de instalar un software para los grupos de fotos. Pero mi <em>negocio</em> no es gestionar software de almacenamiento de fotos, sino escribir en el blog, así que preferí dejar las fotos a los profesionales. Como segundo uso, cada vez utilizo más las excelentes fotos de Flickr en mis posts, ya que, además de ser buenas, muchas de ellas están bajo licencia Creative Commons, lo que me permite insertarlas en el blog sin miedo a Royalties.</p>
+<p>Qué no uso: la capacidad de Flickr de subir vídeos. Para los vídeos, ya está YouTube.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157623019094387%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157623019094387%2F&amp;set_id=72157623019094387&amp;jump_to=" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157623019094387%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157623019094387%2F&amp;set_id=72157623019094387&amp;jump_to="></embed></object></p>
+<h2>Youtube</h2>
+<p><img class="aligncenter size-full wp-image-889" src="/wp-content/uploads/2010/03/youtube_logo1.jpg" alt="" width="400" height="283" srcset="/wp-content/uploads/2010/03/youtube_logo1.jpg 400w, /wp-content/uploads/2010/03/youtube_logo1-300x212.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">¿Hay que explicar qué es YouTube? Gracias. Lo uso para subir los vídeos que voy haciendo de mis máquinas, en <a href="http://www.youtube.com/dfreniche">mi canal de YouTube</a>. Hay varias alternativas a YouTube, pero básicamente tenemos Blip.tv y Vimeo. No considero Google Vídeo. Ni lo he probado.</p>
+<p>Utilizo YouTube porque es la que llega a más personas. Si pones un vídeo en Internet, y quieres que se encuentre, lo mejor es subirlo a YouTube.</p>
+<p style="text-align: justify;">Uso fundamental: subir los vídeos que voy creando para el blog. Ni me podría imaginar el hospedarlos en mi propio dominio :-). Los problemas técnicos (ancho de banda, no disponer de visualizador flash, etc.) serían demasiados.</p>
+<p style="text-align: justify;">Problema que tiene: que sólo te permite subir vídeos de 10 min. como máximo. Ahora también se pueden subir en HD, pero hasta hace poco esa capacidad sólo la tenían Vimeo y Blip.tv. Si tengo que subir un vídeo largo, uso estos otros dos servicios, pero por su difusión y por el tipo de clips que hago (y voy a hacer), prefiero YouTube.</p>
+<h1>Delicious</h1>
+<p><img class="aligncenter size-full wp-image-890" src="/wp-content/uploads/2010/03/delicious_logo.png" alt="" width="401" height="119" srcset="/wp-content/uploads/2010/03/delicious_logo.png 401w, /wp-content/uploads/2010/03/delicious_logo-300x89.png 300w" sizes="(max-width: 401px) 100vw, 401px" /></p>
+<p style="text-align: justify;">Es probablemente el servicio web 2.0 más antiguo que utilizo (junto con GMail, Hotmail y Yahoo). El almacén de enlaces definitivo. Hace unos años (muchos ya, me parece el <a href="http://es.wikipedia.org/wiki/Cretácico">Cretácico</a>) andaba con un fichero de bookmarks que exportaba desde Firefox. Lo grababa en una llave USB de las primeras (aterradores 32 MB de almacenamiento pero ya era más que un disquette) y andaba importando y exportando aquí y allí. Esto no funcionaba, así que me puse a buscar en Internet ya que suponía que este problema debía estar resuelto. Utilicé durante un tiempo Foxmarks, pero, <a href="/2008/05/04/¿delicious-esta-caido/">como cuento en este post</a>, la combinación definitiva es usar Firefox con la extensión de Delicious, que hace el buscar y añadir enlaces un juego de niños.</p>
+<p style="text-align: justify;">El uso fundamental que tiene es almacenar enlaces que he encontrado con información interesante y que no considero «perecederos». Me explico. Cuando estoy reuniendo información para algo, por ej. buscando una película para descargarme  de Internet (que es LEGAL en España para uso privado, a ver si nos enteramos), o investigando para un post del blog, voy encontrándome con páginas interesantes que debo ir guardando. Hay páginas que caducan, como las de descargas, y otras que no, con artículos o ensayos que me parecen muy buenos. Estas últimas son las que van a Delicious. Las primeras acaban temporalmente en <a href="http://thinkwasabi.com/evernote/">Evernote</a>, y cuando ya no sirven se borran.</p>
+<p style="text-align: justify;">Usar <a href="http://delicious.com/dfreniche">Delicious</a> no sólo ha cambiado mi flujo de trabajo a la hora de almacenar y compartir enlaces. Gracias a <a href="http://thinkwasabi.com/2010/01/razones-buscar-delicious/">estupendos artículos como el de Berto en ThinkWasabi</a>, veo que una tendencia actualmente es buscar entre los enlaces de Delicious, que ya han sido almacenados, etiquetados y filtrados por personas, en lugar de lanzar búsquedas con Google, que serían un poco de <em>fuerza bruta</em>. Además, ya no encuentro sentido a poner los enlaces que me interesan directamente en el Blog. Creo que es mejor compartir los enlaces que me voy encontrando y ponerlos en Delicious accesibles desde el menú de tu derecha.</p>
+<h1>Facebook</h1>
+<p style="text-align: justify;"><img class="aligncenter size-full wp-image-891" src="/wp-content/uploads/2010/03/facebook-logo.jpg" alt="" width="400" height="150" srcset="/wp-content/uploads/2010/03/facebook-logo.jpg 400w, /wp-content/uploads/2010/03/facebook-logo-300x112.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">La red social por excelencia. Éste no es un servicio web travestido, sino algo que nació para conectar a personas que se conocían y retomar viejos contactos. La uso sólo para personas que conozco «en carne y hueso». No me gusta tener miles de amigos, porque no es verdad. Quiero estar informado de gente que conozco y me interesa. Pero no añadir muescas a mi cuenta de amigos.</p>
+<p style="text-align: justify;">Inicialmente probé algunas de las aplicaciones que hay en Facebook, como entretenimiento. Y parece que por aquí van los tiros de su popularidad: es el sitio perfecto para perder el tiempo en el trabajo o echar unos minutos jugando a algún jueguecito de los que tiene (me acuerdo ahora de los granjeros de Farm Land). Hoy en día, lo utilizo casi en exclusiva desde el iPhone, con su excelente aplicación de Facebook. He eliminado las notificaciones por correo y ahora me permite ver lo que de verdad me interesa: qué hace la gente que conozco y poder estar en contacto con ellos rápidamente.</p>
+<p style="text-align: justify;">Las actualizaciones de estado en Facebook han sustituido a muchos pequeños posts del Blog que hacía antes, para indicar que <a href="/2006/05/23/afrontando-el-exilio/">estaba de viaje</a>, o dando un curso, o que <a href="/2006/01/26/gonzalo-ya-esta-aqui/">había sido padre</a>. Todo esto ahora está en Facebook y así el contenido del blog está más centrado en temas interesantes para ti que me lees.</p>
+<h1>Twitter</h1>
+<p><img class="aligncenter size-full wp-image-892" src="/wp-content/uploads/2010/03/twitter-logo.jpg" alt="" width="300" height="138" /></p>
+<p style="text-align: justify;">Soy un recién llegado a Twitter. Lo conocía desde hacía tiempo, pero me resistía a utilizarlo: <em>ya tengo bastantes servicios, sociales o no en uso, como para meterme en otro</em>. <em>¿Y total, Twitter qué es, sino SMSs vía HTTP y glorificados?</em>.</p>
+<p style="text-align: justify;">Al final, he caído con todo el equipo y Twitter me está permitiendo estar en contacto con gente interesante. Lo utilizo principalmente para temas «serios»: actualizaciones de mi Blog (un poquito de SPAM), enlaces interesantes que veo y que pueden interesar a los que me siguen, intercambio de opiniones con otros programadores, etc. Ha sustituido a algunos posts en los que quiero contar algo breve. En algunos casos, lo uso también como medio de comunicación (suplantando al email). Y como la cosa del SPAM siga por donde va, al final tendremos que dejar de usar email todos&#8230;</p>
+<p>Empecé a usarlo a partir del <a href="/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/">EBE 09</a>, para contactar con los <a href="/2009/11/24/¡al-fin-video-de-la-grabacion-de-macniacos-en-el-ebe09-subido/">@macniacos</a>, y desde entonces lo veo a diario.</p>
+<p>Por supuesto, siempre puedes <a href="http://twitter.com/dfreniche">seguirme en Twitter</a>.</p>
+<h1>LinkedIn</h1>
+<p><img class="aligncenter size-full wp-image-900" src="/wp-content/uploads/2010/03/linkedin-logo.png" alt="" width="400" height="113" srcset="/wp-content/uploads/2010/03/linkedin-logo.png 400w, /wp-content/uploads/2010/03/linkedin-logo-300x84.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">La red social de trabajo por excelencia. Es el <em>Facebook</em> de las redes sociales de trabajo. Me gusta mucho la facilidad que te da para editar el <a href="http://es.linkedin.com/in/dfreniche/en">perfil</a>, disponer de varios perfiles en varios idiomas, etc. Es mi red de trabajo preferida, muy por delante de Xing. Aparte de estas dos, no me planteo usar ninguna otra.</p>
+<p style="text-align: justify;">Antes, en mi web hablaba de trabajo y de mis ocupaciones, por si alguien necesitaba un formador en Java, Linux u Objective-C. Ahora simplemente mantengo actualizado el perfil de LinkedIn y de vez en cuando alguien contacta conmigo.</p>
+<p style="text-align: justify;">El unirte a grupos de interés para tu trabajo es otro de los puntos fuertes de LinkedIn. Y encima, la cuenta gratuita es casi 100% funcional: no hay nada de la cuenta premium que me llame la atención. La aplicación de iPhone está bastante bien, pero suelo usar LinkedIn desde un navegador.</p>
+<h1>Xing</h1>
+<p><img class="aligncenter size-full wp-image-895" src="/wp-content/uploads/2010/03/xing-logo.png" alt="" width="400" height="158" srcset="/wp-content/uploads/2010/03/xing-logo.png 400w, /wp-content/uploads/2010/03/xing-logo-300x118.png 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p style="text-align: justify;">La segunda red social <em>profesional</em> que utilizo. Por completitud, porque se usa bastante en España (parece, aunque LinkedIn está creciendo enormemente aquí). La tengo un poco abandonada y debería retomarla. Me han llegado contactos interesantes por ella. Pero la aplicación de iPhone de Xing es de risa. ¡Tienes que ser premium (pagar) para poder dejar un mensaje de estado :-S!</p>
+<p style="text-align: justify; padding-left: 30px;"><strong>ACTUALIZACIÓN (12/03/2010):</strong><strong> </strong>Al César lo que es del César. Este post lo publiqué el Lunes 8. No tengo idea de cómo, pero en XING España se lo han leído y se pusieron en contacto conmigo vía Twitter el Martes 9. En <a href="http://twitter.com/XING_Spain/status/10211322569">este tweet </a>me animaban a no dejar la red. Al igual que la aplicación de iPhone es muuuy criticable, el márketing social de XING España me ha parecido soberbio. No tengo ni idea de cómo en un día han podido leerse mi post y tener el detalle de querer rescatarme. Esto es, desde luego, entender cómo funcionan las redes sociales. Y, además, han conseguido su objetivo: le voy a dedicar la semana que viene unas horas a mi perfil de XING, para potenciarlo y ponerlo a la par con el de LinkedIn. Desde luego, si todas las empresas escucharan así a sus usuarios&#8230;</p>
+<h1>Vark</h1>
+<p><img class="aligncenter size-full wp-image-899" src="/wp-content/uploads/2010/03/vark-logo1.jpg" alt="" width="327" height="143" srcset="/wp-content/uploads/2010/03/vark-logo1.jpg 327w, /wp-content/uploads/2010/03/vark-logo1-300x131.jpg 300w" sizes="(max-width: 327px) 100vw, 327px" /></p>
+<p style="text-align: justify;">Muy interesante, <a href="http://vark.com/">Vark</a> es básicamente el Twitter de las preguntas y respuestas. Te registras y haces una pregunta. Y alguien en la otra parte del mundo te contesta. Muy útil para encontrar información concreta. ¿Merece la pena la película que vas a ver?. ¿Un buen bar de tapas en NYC?. ¿Billetes baratos de avión?.</p>
+<p style="text-align: justify;">He visto de todo preguntado en Vark, desde planes para visitar España hasta segundas opiniones médicas, pasando por ideas de negocio, sitios para salir&#8230; Debe ser una buena idea, porque lo acaba de comprar Google <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<h1>Gowalla</h1>
+<p><img class="aligncenter size-full wp-image-897" src="/wp-content/uploads/2010/03/gowalla-logo.png" alt="" width="228" height="66" /></p>
+<p style="text-align: justify;">Todos tenemos un amigo que se conoce los mejores bares. O mesones. O restaurantes. A quien le preguntas cuando vas de viaje dónde se come bien en tal o cual sitio. Eso es Gowalla: una red social donde la gente crea sitios de interés y los geolocaliza (mediante el GPS que llevan ya casi todos los móviles), añadiendo después comentarios. Tiene una mecánica también de juego, en el que a medida que añades sitios desbloqueas trofeos y te dan puntos. Hay un competidor, que es FourSquare, que también está pegando fuerte. Al final no se cuál de los dos quedará (o los dos). Yo, de momento, me quedo con Gowalla y así podré ir registrando los bares por los que paso. De esta forma, luego es más fácil buscar aquel que te gustó (o evitar entrar en el que no te trataron bien).</p>
+<h1>StackOverflow</h1>
+<p><img class="aligncenter size-full wp-image-898" src="/wp-content/uploads/2010/03/stackoverflow-logo-300.png" alt="" width="300" height="84" /></p>
+<p>Mi más reciente incorporación. Una <a href="http://stackoverflow.com/">red social orientada a los programadores</a>, para obtener respuestas a los problemas que nos encontramos todos los días. Y buscar en Google genera demasiado ruido: es mejor ver la respuesta de alguien, votada como correcta por otros programadores. Si desarrollas, tienes que darte de alta. Y si eres administrador de sistemas, tu sitio es <a href="http://serverfault.com/">ServerFault</a>.</p>
+<h1>¿Y tú?</h1>
+<p>¿Qué redes sociales usas? ¿Para qué? ¿Me he dejado alguna en el tintero (seguro que muchas)? ¿Me recomiendas alguna? ¡Te espero en los comentarios!</p>
+<address>&lt;lawyers-disclaimer&gt;todos los logotipos anteriores son propiedad y marca registrada de sus respectivos dueños.&lt;/lawyers-disclaimer&gt;</address>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/08/como-uso-las-redes-sociales/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>EBE 2009: un Sábado que dio para mucho</title>
+		<link>/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/</link>
+		<comments>/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/#comments</comments>
+		<pubDate>Mon, 04 Jan 2010 11:03:29 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Perry]]></category>
+		<category><![CDATA[Blogs]]></category>
+		<category><![CDATA[EBE09]]></category>
+		<category><![CDATA[Flickr]]></category>
+		<category><![CDATA[Geek Freak Nerd]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[macniacos]]></category>
+		<category><![CDATA[Sevilla]]></category>
+		<category><![CDATA[Twitter]]></category>
+		<category><![CDATA[Vimeo]]></category>
+
+		<guid isPermaLink="false">/?p=472</guid>
+		<description><![CDATA[La Blogosfera española estuvo que ardía las últimas semanas del año 2009 hablando del Evento Blog España 09 (EBE09), que se celebró los días 13, 14 y 15 de Noviembre. Yo, con mi diligencia habitual, estoy publicando este post casi cuando llega el EBE10. Este año, como desde que comenzó el EBE en 2006, se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">La Blogosfera española estuvo que ardía las últimas semanas del año 2009 hablando del Evento Blog España 09 (EBE09), que se celebró los días 13, 14 y 15 de Noviembre. Yo, con mi diligencia habitual, estoy publicando este post casi cuando llega el EBE10.</p>
+<p style="text-align: justify;">Este año, como desde que comenzó el EBE en 2006, se ha celebrado en Sevilla. Concretamente en el Hotel Cartuja Barceló Renacimiento. Yo sólo estuve el Sábado (el EBE duró desde el Viernes por la tarde hasta el Domingo a mediodía), pero me cundió bastante. En un día pude conocer a un montón de gente, sacar algunas fotos y grabar dos sesiones en video. Paso a relatar este Sábado intenso, desde que me levanté.</p>
+<h1>El despertador suena a las 6:00</h1>
+<p style="text-align: justify;">Sí. A las 6:00. Un Sábado. Lo que es la devoción por estas cosas. Había quedado con Juaco (<a href="http://twitter.com/juaconet">@juaconet </a>en Twitter) a las 8:45 en desayunar antes de acercarnos a montar lo necesario para la grabación de la sesión <a href="http://eventoblog.com/2009/11/sesion-paralela-blogprofesores/">Blogprofesores</a>. Después de una ducha tempranera y un paseito en coche hasta Sevilla, nos llamamos y quedamos para tomar café frente a la Barqueta. Luego, manos a la obra. Nos encontramos aparcando con Juanma Díaz (<a href="http://twitter.com/juanmadiaz">@juanmadiaz</a>) y nos fuimos los tres a buscar la sala donde tendría lugar la sesión.</p>
+<h1>Preparando para grabar</h1>
+<p style="text-align: justify;">Tres hombres solos. Las 9:25 en el EBE09. No había casi nadie. Pero, como buenos hombres, no sabíamos dónde estaba la sala de la conferencia y, por supuesto, no preguntamos. Cargados con cámaras de fotos, de vídeo, un trípode&#8230; ¡da igual!. Los hombres venimos de serie con algo que no nos permite preguntar por dónde se va a los sitios. Esta es la causa de que los grandes descubridores sean hombres: Marco Polo, Cristóbal Colón, Buzz Aldrin, &#8230; realmente se habían perdido pero no querían escuchar a sus mujeres respectivas entonando el «te lo dije».</p>
+<p style="text-align: justify;">Encontramos la sala, acompañados por un operario del hotel. Entramos, robamos, digooo <em>buscamos</em> alargaderas para los chismes eléctricos, ayudamos a colocar sillas, etc. Al final, llegaron los ponentes y el público. <a href="http://vimeo.com/7643957">Y pudimos grabar la sesión Blogprofesores</a>, que me costó lo mío subir a Vimeo.</p>
+<h1>Blogprofesores</h1>
+<p>La sesión está perfectamente descrita en el <a href="http://eventoblog.com/2009/11/sesion-paralela-blogprofesores/">post oficial del Evento Blog</a>. Algunos apuntes:</p>
+<p style="text-align: justify;">María Barceló se ha tomado la molestia, como buena bloguera y ponente, de <a href="http://www.mariabarcelo.es/?p=1130">comentar la mesa en su blog</a>. <a href="http://blip.tv/file/2850829/">Aquí hay un vídeo</a>, tomado desde la esquina opuesta a la que yo estaba, de forma que podéis comparar ambas sesiones, si es que estáis tan interesados en el tema. El vídeo que yo grabé y edité <a href="http://vimeo.com/7643957">está en Vimeo</a>.</p>
+<p style="text-align: justify;">Las preguntas del publico fueron interesantes, aunque me chocaron dos cosas:</p>
+<ul>
+<li>por un lado la gente que va a estas conferencias decididos a ser <em>SPAM con patas</em> y vender a toda costa su producto / empresa</li>
+<li>por otro lado los diálogos paralelos defendiendo / rechazando el Software Libre. <a href="/2009/10/27/libre-no-es-una-caracteristica-gratis-si/">Mi opinión creo que ya esta clara</a>.</li>
+</ul>
+<p style="text-align: justify;">Tomé algunas fotos con los Blogprofesores que he subido a Flickr.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622787745315%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622787745315%2F&amp;set_id=72157622787745315&amp;jump_to=" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622787745315%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622787745315%2F&amp;set_id=72157622787745315&amp;jump_to="></embed></object></p>
+<p style="text-align: justify;">
+<h2>Café y Berto</h2>
+<p style="text-align: justify;">Salimos de la sesión con la satisfacción del deber cumplido y nos fuimos a la zona de entrada. Había otra sesión en marcha, pero decidimos dar una vuelta por los stands que estaban montados en el EBE. Me tomé varios Nespresso en el de Sony Ericsson. Lo mejor que tenían, porque a un Apple Fanboy que lleva dos iPhone encima está complicado venderle un móvil con Windows Mobile 6.5. Bueno, borro lo que he dicho. Vender Win Mob está complicado sea quien sea el potencial cliente. A ver si se enteran que lo del <em>palito</em> (stylus) ya no se lleva.</p>
+<p style="text-align: justify;">Conocí a Pablo, que presentaba <a href="http://www.layers.com/">Layers.com</a>. Es una idea super interesante y que voy a usar mucho a partir de ahora. Con Layers puedes escribir anotaciones sobre una web y compartir esas anotaciones con tus compañeros. Ellos, a su vez, pueden anotar también y puedes tener una vista de la web original e ir superponiéndole las distintas anotaciones por capas (layers). Utilidades tiene muchas, por ejemplo, pasarle a un grupo de testers tu nueva web y que anoten sus ideas <em>sobre</em> tu web. Luego, puedes ir viendo las aportaciones de todos <em>sobre</em> tu web, y no con el clásico correo de «X no funciona en la web».</p>
+<p style="text-align: justify;">Nos encontramos con <a href="http://albertopena.com/">Berto Pena</a> saliendo del salón principal. Aproveché para presentarme, comentarle que queríamos grabar el Macniacos de por la tarde y hacerme alguna foto. Al final, Juaco me ha regalado el libro de Berto, libro que estoy leyendo poco a poco, saboreándolo, para sacarle todo el partido. Ya lo comentaré más adelante.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622915351952%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622915351952%2F&amp;set_id=72157622915351952&amp;jump_to=" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622915351952%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622915351952%2F&amp;set_id=72157622915351952&amp;jump_to="></embed></object></p>
+<h1>@Yoriento</h1>
+<p style="text-align: justify;">La charla de Alfonso Alcántara, Gestiona tu vida en la crisis, me encantó. Sentido común, llamar a las cosas por su nombre, buena comunicación y mucho humor. Te puedes hacer una idea <a href="http://www.youtube.com/watch?v=-GveYQGe7yw">viendo el vídeo del comienzo de la charla</a>. Fue tan buena que se comió su tiempo, le dijeron que acabara y todo el auditorio le aclamó para que le dieran 10 min. más, que se quedaron en 5. ¡Fue un momento grande!. Saludé al terminar a Alfonso y soy <a href="http://twitter.com/Yoriento" target="_blank">seguidor suyo en Twitter</a> desde entonces.</p>
+<h1>Cervecitas y comida en el EBE09 alternativo, con los Blogprofesores</h1>
+<p>Parte importante del día (al menos, para mí), en el que conocí a un montón de compañeros de Juanma Díaz. Buena comida, por cierto, junto al Puente de La Barqueta. Se habló de muchas cosas, pero sobre todo de nuevas tecnologías y educación.</p>
+<p><a href="/wp-content/uploads/2010/01/EBEAlternativo.jpg"><img class="aligncenter size-full wp-image-544" title="EBEAlternativo" src="/wp-content/uploads/2010/01/EBEAlternativo.jpg" alt="EBEAlternativo" width="500" height="332" srcset="/wp-content/uploads/2010/01/EBEAlternativo.jpg 500w, /wp-content/uploads/2010/01/EBEAlternativo-300x199.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<h1>Grabación de Macnicacos</h1>
+<p style="text-align: justify;">Tras comer, de vuelta corriendo al EBE09. Cogimos los trastos de matar de nuevo (el trípode y la cámara) y tras varios tuiteos y llamadas de teléfono, dimos finalmente con Valen, de Macniacos. Estaban esperando en una de las habitaciones que usan los traductores y que dan al salón principal del EBE, convertida en improvisada sala de Podcasting. Junto con Valen estaba el otro 50% de Macniacos, José, atacado por la técnica, con su MacBook Pro, peleándose con los hubs USB, los micrófonos SnowBall y con el streaming de audio en directo. Al menos la WiFi le funcionaba.</p>
+<p>Tomamos posiciones y fuimos haciendo fotos y grabando el vídeo del podcast. En él participaron Rubén (Tazzito), Serantes, Macniacos (José y Valen) y Berto Pena. Un lujazo del que os dejo fotos y <a href="/2009/11/24/¡al-fin-video-de-la-grabacion-de-macniacos-en-el-ebe09-subido/">el vídeo subido a Blip.tv</a> como ya comenté en un post anterior.</p>
+<p><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="400" height="300" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622813600184%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622813600184%2F&amp;set_id=72157622813600184&amp;jump_to=" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="400" height="300" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622813600184%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2Fdfreniche%2Fsets%2F72157622813600184%2F&amp;set_id=72157622813600184&amp;jump_to="></embed></object></p>
+<p style="text-align: justify;">Gracias a esta experiencia tengo ahora un contacto twittero más intenso con los macniacos, y he realizado alguna cosilla para ellos, como el vídeo de la última tienda Apple de NYC. ¡Y encima nos han mencionado, a mí y a Juaco, en el Macniacos #60! Gracias, sois unos cracks y nos veremos las caras en una caseta de la Feria de Abril.</p>
+<h1>Cae la tarde</h1>
+<p style="text-align: justify;">Tras la presión de la grabación, la tarde fue avanzando entre más saludos, más cafés, alguna conferencia soporífera sobre el futuro de la Blogosfera y con todo el mundo esperando para la entrega de los premios.</p>
+<h1>Los premios bitácoras y la foto de familia</h1>
+<p style="text-align: justify;">Finalmente entregaron los premios y Macniacos no pudo ganar, pero me resultó interesante ver estos «Óscar del blogging». Hicieron una <a href="http://www.flickr.com/photos/victoriano/4108415923/">foto panorámica</a> impresionante, que puedes ver en Flickr con todo el mundo <em>tageado</em>.</p>
+<h1>Mis conclusiones</h1>
+<p style="text-align: justify;">Me gustó mucho el ambiente del EBE. Un montón de egos revueltos, pero con muy buena disposición a escuchar, a compartir. Me sorprendió la gente que se autoconsidera Geek sin ser informáticos. Te entran ganas de decirles «pero cómo vas a ser un Geek si no sabes programar en C». Pero luego dominan las redes sociales y los servicios de Internet mucho mejor que cualquier profesional. Y se aprenden muchas cosas, si uno está dispuesto a escuchar.</p>
+<p style="text-align: justify;">Este año 2010, si puedo, iré al EBE. Y espero escribir algo en el propio año, y no en 2011 <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/01/04/ebe-2009-un-sabado-que-dio-para-mucho/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Flock, ¿otro dolor de cabeza para IE?</title>
+		<link>/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/</link>
+		<comments>/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/#comments</comments>
+		<pubDate>Fri, 15 Sep 2006 10:11:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Flickr]]></category>
+		<category><![CDATA[Flock]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Navegadores]]></category>
+		<category><![CDATA[web2.0]]></category>
+
+		<guid isPermaLink="false">/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/</guid>
+		<description><![CDATA[No he sido demasiado amigo de los escritorios bonitos, los «eye-candy», los temas y demás «mejoras del S.O.». Probablemente debido a mis comienzos en el mundo de la Informática me acostumbré al prompt del MS-DOS y luego al escritorio de las sucesivas versiones de Windows (incluso cuando el Escritorio ni existía, y los programas residían [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext"><a href="http://flock.com/"><img class="aligncenter size-full wp-image-632" src="/wp-content/uploads/2006/09/bcb9deea4f.jpg" alt="" width="240" height="83" /></a></p>
+<p class="bodytext">No he sido demasiado amigo de los escritorios bonitos, los «eye-candy», los temas y demás «mejoras del S.O.». Probablemente debido a mis <a href="que-me-interesa/retroinformatica/">comienzos</a> en el mundo de la Informática me acostumbré al prompt del MS-DOS y luego al escritorio de las sucesivas versiones de Windows (incluso cuando el Escritorio ni existía, y los programas residían en una cosa llamada <a href="http://www.valt.helsinki.fi/atk/basic99/lecture2.htm#software" target="_blank">Administrador de Programas</a>, hace mucho, mucho tiempo).</p>
+<p class="bodytext">El caso es que, acostumbrado a reinstalar Win 98 cada seis meses, me parecía una pérdida de tiempo ajustar las teclas de acceso rápido (hotkeys), cambiar el tema, poner un fondo bonito, organizar los iconos, &#8230; ¿Para qué, si lo voy a perder de todas formas?. Ya se que podría usar algún programa de esos que guarda la configuración del usuario y luego la restaura, pero Windows nunca fue mi fuerte y nunca me ha dado la impresión de ser «mi hogar». En mi viejo MS-DOS me sentía incluso más a gusto.</p>
+<p class="bodytext">Pero desde un tiempo a esta parte, noto que voy cambiando. Será la edad. Pero cada vez miro con más insistencia los Macs. Cuando me compré mi Dell Inspiron 9400, le puse una cubierta opcional para que fuera más bonito. Probablemente sea la influencia de la comunidad <a href="http://www.amiga.org/" target="_blank">Amiguera</a>, o de blogs como <a href="http://a1200.bitacoras.com/" target="_blank">A1200 Freaks</a>, pero cada vez quiero que las cosas tengan un diseño más bonito.</p>
+<p class="bodytext">Siguiendo con esta tendencia hace un par de dias descubrí <a href="http://www.flock.com/" target="_blank">Flock</a>, un navegador web. Mucha gente se preguntará si existiendo ya Firefox, Mozilla, Opera, Internet Explorer, Netscape, Galeon, &lt;pon aquí el nombre que uses&gt; era necesario <em>otro más</em>. Pero es que es muy bonito. Y además está pensado para el usuario moderno. Ya no basta con tener solapas. Quiero poder subir mis fotos a Flickr de forma sencilla. O mandar un post a mi blog rápidamente. O leer los feeds RSS cómodamente. O bajar vídeos desde YouTube. Pues todo eso hace Flock desde una única aplicación.</p>
+<p class="bodytext">Y encima han sido tan inteligentes que han respetado el interfaz de usuario de Firefox. Es decir, Ctrl+T abre una nueva ventana, Ctrl-F busca, etc. Cuando llevas cinco minutos trabajando con él te olvidas de que es nuevo. La impresión es que estás con un Firefox «tuneado».</p>
+<p class="bodytext">En fin, otro juguete que hará las delicias de los que usen habitualmente Flickr, Blogger, YouTube y Del.icio.us. Por cierto, uniendo todos estos «juguetes» se puede hacer una estupenda web&#8230; aunque eso es tema para otro post.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2006/09/15/flock-otro-dolor-de-cabeza-para-ie/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

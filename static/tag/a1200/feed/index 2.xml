@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>A1200 &#8211; freniche.com</title>
+	<atom:link href="/tag/a1200/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>El mapa de mi red, actualización Octubre 2010</title>
+		<link>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/</link>
+		<comments>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/#comments</comments>
+		<pubDate>Sun, 10 Oct 2010 16:16:38 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Amiga]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Geeks Freaks & Nerds]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Ubuntu]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[A1200]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1138</guid>
+		<description><![CDATA[El mapa de mi red ha cambiado bastante desde la v1.0, así que me he decidido y lo he actualizado. Comentaba entonces que había demasiados cacharros y me encuentro en fase de actualización de equipo y, sobre todo, de simplificación. Estoy vendiendo, tirando, regalando o almacenando todo aquello que no me puedo justificar usar de [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1139" style="width: 624px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png"><img class="size-full wp-image-1139 " title="Esquema de red - oct 2010" src="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png" alt="Esquema de red - oct 2010" width="614" height="461" srcset="/wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001.png 1024w, /wp-content/uploads/2010/10/Esquema-de-red-oct-2010.001-300x225.png 300w" sizes="(max-width: 614px) 100vw, 614px" /></a><p class="wp-caption-text">Esquema de red - oct 2010</p></div>
+<p style="text-align: justify;">El mapa de mi red ha cambiado bastante desde la <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">v1.0</a>, así que me he decidido y lo he actualizado. Comentaba entonces que había demasiados cacharros y me encuentro en fase de actualización de equipo y, sobre todo, de simplificación. Estoy vendiendo, tirando, regalando o almacenando todo aquello que no me puedo justificar usar de forma casi diaria. El problema es que tengo tantos chismes que voy poco a poco, pero con paso firme.</p>
+<p>En esta versión he eliminado la red WiFi legacy ya que ahora no la tengo correctamente configurada. Lo que está operativo es lo que se ve. Bueno, faltan el Pentium IV, que probablemente venderé en cuanto pueda y el MacBook de mi mujer (que cumplirá pronto 4 años y cualquiera toca). Los equipos que quedan son:</p>
+<ul>
+<li>Newton. <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">Mi viejo portátil Dell</a>, lo he dejado para jugar a juegos Windows. En exclusiva. Tiene Steam instalado y ahí me dedico a machacar imperios en Civilization IV. Ahora que ha salido el Civ V, no creo que la máquina pueda con él, pero&#8230; Y además ha viajado mucho conmigo.</li>
+<li>Bohr. <a href="/2010/03/30/ubuntu-netbook-remix-9-10-corriendo-en-mi-asus-eee-904-hd/">Mi Netbook con Ubuntu Netbook Remix</a>. Cuando se vaya el PIV va a ser la última máquina en la que estará instalado Linux en mi casa. Linux, peligro, peligro :-). He pasado de trabajar 100% Linux a casi 100% Mac, pero siempre 100% UNIX (salvo para los juegos, qué remedio, aunque ahora con Steam la cosa cambia mucho). Lo uso como media center portátil y para alguna salida en la que no quiero llevar mucho peso. Supongo que cuando me compre un iPad (estoy esperando a la nueva versión) dejará de tener hueco.</li>
+<li><a href="/2008/03/23/cambiando-a-mac/">Tesla</a>. Mi portátil, con el que sigo enamorado y más aún después de cambiarle el disco duro. Con sus 4 GB de RAM me da la potencia necesaria para impartir mis cursos de Java y Cocoa Touch. Y me permite programar mientras estoy cerca de los niños o en el sofá.</li>
+<li>Mi A1200. Se conecta a mi TV LCD Samsung, cuando me apetece escuchar MIDIs, o jugar un rato, o hacer lo que sea con el Amiga. Ahora lo tengo guardado y lo saco cuando lo necesito, no está ya permanentemente encima de la mesa. Pero obviamente se queda.</li>
+<li>Einstein. El mayor cambio desde el último mapa. Einstein se ha reencarnado en un iMac de 27&#8243;, Core i7 quad 2.8 Ghz con 4 GB RAM que puede con todo. Tiene conectado mi <a href="/?s=drobo">Drobo Firewire</a> y son un «killer duo». En un futuro le ampliaré la memoria, probablemente con dos módulos de 4 GB para llegar a los 12 GB (soporta hasta 16 GB). La memoria la quiero para máquinas virtuales, sobre todo ahora que estoy haciendo pruebas corriendo Windows 7 virtualizado para jugar al Civ V <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>Mi Time Capsule. Ahora ha quedado para las copias de seguridad de los portátiles, y como router. No le amplío el disco duro porque, mientras tenga sitio en el Drobo, me va a dar pereza.</li>
+<li>Dispositivos iOS variados. Mi iPhone 3Gs de batalla, el iPod Touch de los niños y los 3G antiguos. Mi mujer ya tiene un iPhone 4 :-). Los uso para probar aplicaciones y como segundos teléfonos. Probablemente son los que más tráfico generan en la red WiFi.</li>
+</ul>
+<p>Esto es lo que tengo de momento. Dentro de unos meses actualizaremos y a ver qué tengo entonces.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/10/el-mapa-de-mi-red-actualizacion-octubre-2010/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+	</channel>
+</rss>

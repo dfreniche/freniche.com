@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Kernel &#8211; freniche.com</title>
+	<atom:link href="/tag/kernel/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Un mapa del kernel de Linux</title>
+		<link>/2005/12/22/un-mapa-del-kernel-de-linux/</link>
+		<comments>/2005/12/22/un-mapa-del-kernel-de-linux/#comments</comments>
+		<pubDate>Thu, 22 Dec 2005 15:28:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Geeks]]></category>
+		<category><![CDATA[Kernel]]></category>
+
+		<guid isPermaLink="false">/2005/12/22/un-mapa-del-kernel-de-linux/</guid>
+		<description><![CDATA[Sí, aunque no se crea nadie, la imagen que aparece aquí es una representación gráfica del kernel de Linux. Con casi 200 MB de código fuente, parece que Linux está dejando de ser un sistema experimental, usado únicamente por geeks y frikis en las universidades. Este mapa es interactivo, de forma que se puede ir [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext">
+<div id="attachment_717" style="width: 210px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2005/12/kernel.png"><img class="size-full wp-image-717" title="Una imagen del kernel de Linux" src="/wp-content/uploads/2005/12/kernel.png" alt="" width="200" height="200" srcset="/wp-content/uploads/2005/12/kernel.png 200w, /wp-content/uploads/2005/12/kernel-150x150.png 150w" sizes="(max-width: 200px) 100vw, 200px" /></a><p class="wp-caption-text">Una imagen del kernel de Linux</p></div>
+<p class="bodytext">Sí, aunque no se crea nadie, la imagen que aparece aquí es una <a href="http://lug.oregonstate.edu/projects/kernelmap/map.php">representación gráfica del kernel de Linux</a>. Con casi 200 MB de código fuente, parece que Linux está dejando de ser un <em>sistema experimental</em>, usado únicamente por <em>geeks</em> y frikis en las universidades.</p>
+<p class="bodytext">Este mapa es interactivo, de forma que se puede ir pulsando sobre una zona y se va haciendo zoom en ella, entrando más y más hasta llegar al corazón del sistema, donde nos espera Tux. A mi me recuerda a la representación gráfica del <a href="http://academic.pgcc.edu/math/objects/mandel62.gif" target="_blank">Conjunto de Maldrelbrot</a>. En cualquier caso, es espectacular.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2005/12/22/un-mapa-del-kernel-de-linux/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

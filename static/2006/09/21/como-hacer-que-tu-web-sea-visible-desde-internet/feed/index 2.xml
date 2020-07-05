@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Cómo hacer que tu web alojada en casa sea visible desde Internet</title>
+	<atom:link href="/2006/09/21/como-hacer-que-tu-web-sea-visible-desde-internet/feed/" rel="self" type="application/rss+xml" />
+	<link>/2006/09/21/como-hacer-que-tu-web-sea-visible-desde-internet/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: Mhorkpheus</title>
+		<link>/2006/09/21/como-hacer-que-tu-web-sea-visible-desde-internet/comment-page-1/#comment-208137</link>
+		<dc:creator><![CDATA[Mhorkpheus]]></dc:creator>
+		<pubDate>Mon, 09 Sep 2013 19:00:06 +0000</pubDate>
+		<guid isPermaLink="false">/2006/09/21/como-hacer-que-tu-web-sea-visible-desde-internet/#comment-208137</guid>
+		<description><![CDATA[Muy bien explicado, muchas gracias me ha quedado todo mas claro!]]></description>
+		<content:encoded><![CDATA[<p>Muy bien explicado, muchas gracias me ha quedado todo mas claro!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

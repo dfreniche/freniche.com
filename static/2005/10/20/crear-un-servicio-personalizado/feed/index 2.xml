@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comentarios en: Crear un servicio personalizado</title>
+	<atom:link href="/2005/10/20/crear-un-servicio-personalizado/feed/" rel="self" type="application/rss+xml" />
+	<link>/2005/10/20/crear-un-servicio-personalizado/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Thu, 29 Jun 2017 14:51:35 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Por: freniche.com &#187; Dash y Shebang</title>
+		<link>/2005/10/20/crear-un-servicio-personalizado/comment-page-1/#comment-2223</link>
+		<dc:creator><![CDATA[freniche.com &#187; Dash y Shebang]]></dc:creator>
+		<pubDate>Sun, 12 Apr 2009 16:23:52 +0000</pubDate>
+		<guid isPermaLink="false">http://freniche.com/wp/2005/10/20/crear-un-servicio-personalizado/#comment-2223</guid>
+		<description><![CDATA[[...] Bueno, la cosa no sería para tanto si no hubiera leído una referencia al Shebang. ¡Dios, qué es ésto! ¡Houston, tenemos un problema! El problema es que hay que leer más&#8230; El famoso Shebang no es más que la típica primera línea que se pone en los scripts de shell para asegurarnos de que se ejecutan con tal o cual shell. Un ejemplo de este uso lo tenéis en este viejo script. [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Bueno, la cosa no sería para tanto si no hubiera leído una referencia al Shebang. ¡Dios, qué es ésto! ¡Houston, tenemos un problema! El problema es que hay que leer más&#8230; El famoso Shebang no es más que la típica primera línea que se pone en los scripts de shell para asegurarnos de que se ejecutan con tal o cual shell. Un ejemplo de este uso lo tenéis en este viejo script. [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

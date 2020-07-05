@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>firefox &#8211; freniche.com</title>
+	<atom:link href="/tag/firefox/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Mozilla FireFox v1.1</title>
+		<link>/2005/03/08/mozilla-firefox-v11/</link>
+		<pubDate>Tue, 08 Mar 2005 10:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Internet]]></category>
+		<category><![CDATA[firefox]]></category>
+
+		<guid isPermaLink="false">/2005/03/08/mozilla-firefox-v11/</guid>
+		<description><![CDATA[Ya está disponible la nueva versión del fantástico navegador Mozilla. Bájatelo para Windows, Linux o Mac y prueba algo diferente. No volverás a ver la web con los mismos ojos.]]></description>
+				<content:encoded><![CDATA[<p class="bodytext"><img src="/wp-content/uploads/2009/01/getfirefox.png" alt="Logo Firefox" /></p>
+<p class="bodytext">Ya está disponible la nueva versión del fantástico navegador <a href="http://www.mozilla.org/">Mozilla</a>. Bájatelo para Windows, Linux o Mac y prueba algo diferente. No volverás a ver la web con los mismos ojos.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

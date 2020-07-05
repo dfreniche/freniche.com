@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Femtocoders &#8211; freniche.com</title>
+	<atom:link href="/tag/femtocoders/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>ClockRing, Mi tercera App es Software Libre</title>
+		<link>/2011/01/27/clockring-mi-tercera-app-es-software-libre/</link>
+		<comments>/2011/01/27/clockring-mi-tercera-app-es-software-libre/#comments</comments>
+		<pubDate>Thu, 27 Jan 2011 12:26:57 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Cocoa]]></category>
+		<category><![CDATA[emprendiendo]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[ObjectiveC]]></category>
+		<category><![CDATA[Programación]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Apps]]></category>
+		<category><![CDATA[ClockRing]]></category>
+		<category><![CDATA[Femtocoders]]></category>
+
+		<guid isPermaLink="false">/?p=1365</guid>
+		<description><![CDATA[Pues eso, que he mandado a revisión por parte de Apple mi tercera App. Actualmente ya tengo dos subidas: MyEvents, para gestionar tus eventos importantes y saber cuántos días quedan hasta ellos, y FXPlayer, una App escrita a cuatro manos con la ayuda de @jnhidalgo @jnhernandez, y que te permite superponer efectos de sonido a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Pues eso, que he mandado a revisión por parte de Apple mi tercera App. Actualmente ya tengo dos subidas: <a href="http://itunes.apple.com/es/app/myevents/id398956491?mt=8">MyEvents</a>, para gestionar tus eventos importantes y saber cuántos días quedan hasta ellos, y <a href="http://itunes.apple.com/es/app/fxplayer/id412711013?mt=8">FXPlayer</a>, una App escrita a cuatro manos con la ayuda de <a href="http://twitter.com/jnhidalgo">@jnhidalgo</a> @jnhernandez, y que te permite superponer efectos de sonido a una canción que tengas sonando en el iPod. Puedes verlas en la web de <a href="http://www.femtocoders.com/">Femtocoders</a> (Inglés) o en la sección <a href="/ios-apps/">iOS Apps</a> del blog.</p>
+<p style="text-align: justify;">Esta tercera se llama ClockRing, y la idea es muy sencilla: hace que suene un pitido de señal horaria en tu iPhone, como los relojes Casio de toda la vida. Con la particularidad que te permite escoger qué quieres que suene: una campana de iglesia, un reloj de cuco, un pitido típico de la radio&#8230;</p>
+<p style="text-align: justify;">
+<div id="attachment_1368" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2011/01/ClockRingApp.png"><img class="size-full wp-image-1368" title="ClockRing App" src="/wp-content/uploads/2011/01/ClockRingApp.png" alt="ClockRing App" width="320" height="480" srcset="/wp-content/uploads/2011/01/ClockRingApp.png 320w, /wp-content/uploads/2011/01/ClockRingApp-200x300.png 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">ClockRing App</p></div>
+<p style="text-align: justify;">Se me ocurrió la idea tras enterarme a través de <a href="http://twitter.com/jmortizsilva">José Mª Ortiz</a>, un compañero de <a href="http://twitter.com/jonathanchacon">Jonathan Chacón</a> (<a href="http://wap.elpais.com/index.php?module=elp_gen&amp;page=elp_gen_noticia&amp;idNoticia=20110104elpepirtv_1.Tes&amp;secc=tec">primer desarrollador ciego en el mundo</a> que ha publicado <a href="http://itunes.apple.com/es/app/buscaminas-accesible/id405094331?mt=8">una App</a> en el App Store, bromitas pocas), de que <a href="http://www.programaraciegas.es/2011/01/23/myevents-ejemplo-de-utilidad-simplicidad-y-accesibilidad-para-ios/">MyEvents era accesible</a>. Empecé entonces a pensar en los temas de accesibilidad y se me planteé “¿bueno, y un ciego cómo sabe de un vistazo que son las dos de la tarde y tiene que irse a comer?”. Evidentemente no <em>“de un vistazo”</em>, tienen que estar activando el iPhone, y VoiceOver te canta la hora. Pero se me ocurrió la idea de clockRing y pensé que podría ser útil. Además, José Mª, me pidió que implementase «para ayer» la posibilidad de programar alarmas en MyEvents (cosa que empiezo a preparar ya para la v1.2). Así que ClockRing era la oportunidad perfecta para practicar con la API de LocalNotifications.</p>
+<p style="text-align: justify;">La App es <strong>gratis</strong>, e incluye iAds para ver si me puedo pagar alguna cerveza a su costa. Pero hace tiempo que estoy con ganas de liberar algo de código. Así que <strong>ClockRing es Software Libre</strong>, según establece la licencia GPL v2. Vamos, que puedes ver el código, compilarlo, usarlo en tus proyectos, o para aprender, o para reírte, o para lo que quieras. Pero los trabajos derivados deben ser también libres. Si quieres una copia del código, pásate por la <a href="https://femtocoders.fogbugz.com/default.asp?W5">Wiki de la App ClockRing que tengo en FogBugz</a> (otro día  hablaré de FogBugz y su increíble sistema de Bug Tracking, predicción del tiempo de entregas, Wikis, repositorios de código, etc.)</p>
+<p style="text-align: justify;">ClockRing aún no está disponible para su descarga desde el App Store, ya que está en el proceso de aprobación (cruzad los dedos). En el momento en que esté disponible lo anunciaré aquí (actualizando esta entrada) y en Twitter.</p>
+<p style="text-align: justify;"><strong>Actualización</strong>: ya puedes bajarte <a href="http://itunes.apple.com/us/app/clockring/id416980665?mt=8">ClockRing</a> gratis.</p>
+<p>Happy coding!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2011/01/27/clockring-mi-tercera-app-es-software-libre/feed/</wfw:commentRss>
+		<slash:comments>11</slash:comments>
+		</item>
+	</channel>
+</rss>

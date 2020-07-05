@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Backup &#8211; freniche.com</title>
+	<atom:link href="/tag/backup/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Enero 2012: Apocalipsis Maya para mis dos ordenadores Apple</title>
+		<link>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/</link>
+		<comments>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/#comments</comments>
+		<pubDate>Fri, 03 Feb 2012 13:43:05 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Gafe]]></category>
+		<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[iMac]]></category>
+		<category><![CDATA[macbook]]></category>
+
+		<guid isPermaLink="false">/?p=1662</guid>
+		<description><![CDATA[Este Enero mis capacidades gafe han llegado a cotas insospechadas. Si no lees habitualmente este blog, igual no sabes que me pasé completamente a Mac, porque pienso que los Macs no son caros. Y que en mi escritorio trabajo habitualmente con dos equipos, mi iMac de 27&#8243; Core i7 y mi viejo Mac Book Pro. [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;"><a href="http://www.flickr.com/photos/imlsdcc/5576596277/"><img class="aligncenter size-full wp-image-1666" title="Tren descarrilado. Foto de la IMLS DCC" src="/wp-content/uploads/2012/02/train.jpg" alt="Tren descarrilado. Foto de la IMLS DCC" width="512" height="320" srcset="/wp-content/uploads/2012/02/train.jpg 512w, /wp-content/uploads/2012/02/train-300x187.jpg 300w" sizes="(max-width: 512px) 100vw, 512px" /></a></p>
+<p style="text-align: justify;">Este Enero mis capacidades <em>gafe</em> han llegado a cotas insospechadas. Si no lees habitualmente este blog, igual no sabes que <a href="/2008/03/23/cambiando-a-mac/">me pasé completamente a Mac</a>, porque <a href="/2008/04/04/razones-para-no-usar-un-mac/">pienso que los Macs no son caros</a>. Y que en mi escritorio trabajo habitualmente con dos equipos, <a href="/2011/03/15/the-more-memory-and-hd-youll-have-the-happier-youll-be/">mi iMac de 27&#8243; Core i7</a> y mi viejo Mac Book Pro. También sabrás que anteriormente <a href="/2011/03/01/mi-time-capsule-ha-muerto-%C2%A1larga-vida-a-mi-time-capsule/">se me ha roto hardware de Apple, y que Apple me lo arregló gratis</a>, aunque ya no estuviera en garantía.</p>
+<p style="text-align: justify;">El caso es que desde Noviembre vengo quejándome del horroroso rendimiento de Lion en el iMac. Con un Core i7 quadcore 2.8 Ghz y 12GB espero que todo vuele. Ni SSD ni gaitas. Lo tienes todo en memoria y punto. Máquina hay de sobra. Pero no era así. Y el HD hacía un ruído horroroso. No se por qué me empeñé en que el fallo era software, y probé a desactivar, reactivar y toquetear casi todos los ajustes del sistema. Instalé y quité aplicaciones para ver si encontraba a la App culpable. Incluso desactivé las copias de seguridad con Time Machine, para que no me enlentecieran el equipo. Pero nada. Lion era desesperante. Y el HD cada vez sonaba más y más. Aunque me avisaban desde Twitter que a ver si no era un problema hard, yo ni caso. Al final, instalando el programa Tech Tool Pro 6, para defragmentar el disco del iMac, me avisó de que el estado SMART del disco avisaba de fallo inminente. El estado SMART es un sistema que en teoría te avisa de un fallo futuro en el hardware del disco duro, de forma que antes de que el disco muera puedas hacer algo.</p>
+<p style="text-align: justify;">En mi caso, lo primero que hice fue copiar el HD entero en una imagen de disco (un DMG) desde la utilidad de discos. Luego llamé a Apple, a ver qué podíamos hacer. Lo primero que me dicen es que mi iMac no tiene Apple Care. Les digo que no, que yo compré el Apple Care y que el comercial me indicó que se auto activaba.  Pues no. Busqué la caja del Apple Care y lo activamos correctamente con otra llamada a Apple. Una vez comprobado que el HD daba error SMART me ofrecieron cambiarlo sin coste alguno. Incluso podía elegir a dónde llevar la máquina. Así que preferí hacerlo en Golden Mac, que para eso son el APR de Sevilla y es allí donde imparto algún curso de iOS que otro. Llevé la máquina, estuvo allí una semana y ha vuelto como nueva. He reinstalado Lion, aplicado actualizaciones y recuperado el sistema desde el DMG que creé y he continuado desde ese punto. Esta parte, tras el disgusto, ha sido fácil.</p>
+<p style="text-align: justify;">Y además tenía mi querido MBP para seguir trabajando, ¿no?. <strong>Pues no</strong>. Un Sábado estoy trabajando con el y de pronto pega un «pantallazo» y se pone en modo CGA. Los viejunos me entenderán. Pero se recupera solo, y sigue funcionando sin normalidad. Le echo la culpa al driver de vídeo de Lion, total, <a href="/2011/08/06/las-prisas-por-lion/">la culpa siempre va a ser de Lion</a>, ¿no? Cierro el MBP y lo dejo en reposo, como siempre. El Domingo, me levanto con ganas de hacer cosas y abro el equipo. Pero la pantalla está en negro. No se ve nada. Intento todas las combinaciones de teclas y al final lo apago con un «botonazo». Arranco y no se ve nada. Además, antes de apagarlo le quité el sonido y no suena el Mac al encender. Luego no se si está arrancando bien o no. Tras varios apagados en modo Chuck Norris, decido conectarlo a un monitor externo. No Luck. No se ve nada. Pienso que es la placa base, que se ha ido al garete. Pero veo que desde una máquina windows puedo hacer ping a la IP del portátil. Luego está vivo. No suena porque le quité el sonido. Y no se ve porque la gráfica nVidia ha <em>muerto</em>. Busco por Internet y tras un rato me encuentro con esta página, en la que Apple reconoce un fallo en las nVidia de los MBP que coinciden con el mío. Y tienen un programa de cobertura: si el equipo tienen menos de 4 años, aunque no esté en garantía, si se le va la gráfica te cambian la placa base gratis.</p>
+<p style="text-align: justify;">De nuevo, llamada a Apple. Y paseo a Golden Mac. Recojo el iMac y dejo mi MBP. Y tras dos semanas, aquí están en mi mesa de nuevo los dos, trabajando codo con codo. He superado la «crisis hardware» mayor que he sufrido en mi vida (en casa).</p>
+<p style="text-align: justify;">Moralejas. Varias. <strong>Las cosas de Apple se rompen</strong>, como las de todos. Pero con una llamada y pulsar una tecla te atiende una persona que te informa si sí, si no, o le que cuesta. Y se hacen cargo de sus fallos. Los reconocen y los <em>pagan</em>. Y hay puntos de servicio por toda España. No quiero imaginarme lo que hubiera pasado con dos equipos Acer o Dell. Envío a portes debidos, mala atención, etc. Así que con Apple se paga un poco más, que en mi opinión está muy justificado por la calidad de los materiales y <strong>el soporte postventa, que es el mejor</strong>.</p>
+<p style="text-align: justify;">Y otra moraleja. Pensaba que tenía muchos ordenadores en casa. Y es verdad. Pero en una semana «murieron» en combate dos de golpe. Tuve que tirar durante una semana de <a href="/2006/05/24/de-lo-que-es-capaz-mi-nueva-maquina/">mi viejo Dell 17&#8243; </a>(un PC transportable, más que portátil), pero que me ha sacado del apuro. Una experiencia insufrible volver a XP después de OS X, si al menos fuese Win 7&#8230; El caso es que cierta redundancia en hardware, si te dedicas a esto, nunca está mal. Lección aprendida.</p>
+<p style="text-align: justify;">Espero que ahora las cosas se calmen un poco, deje de romper cosas y pueda centrarme en crear algo interesante. Tus historias de miedo, a continuación en los comentarios. Siempre es bueno ventilar esos problemas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f600.png" alt="😀" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>/2012/02/03/enero-2012-apocalipsis-maya-para-mis-dos-ordenadores-apple/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+		<item>
+		<title>Mi Time Capsule ha muerto. ¡Larga vida a mi Time Capsule!</title>
+		<link>/2011/03/01/mi-time-capsule-ha-muerto-larga-vida-a-mi-time-capsule/</link>
+		<pubDate>Tue, 01 Mar 2011 08:54:26 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1418</guid>
+		<description><![CDATA[Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div id="attachment_1421" style="width: 555px" class="wp-caption aligncenter"><a href="http://timecapsuledead.org/"><img class="size-full wp-image-1421" title="TC Memorial. Click para ir al sitio" src="/wp-content/uploads/2011/03/TCMemorial.png" alt="TC Memorial. Click para ir al sitio" width="545" height="229" srcset="/wp-content/uploads/2011/03/TCMemorial.png 545w, /wp-content/uploads/2011/03/TCMemorial-300x126.png 300w" sizes="(max-width: 545px) 100vw, 545px" /></a><p class="wp-caption-text">TC Memorial. Click para ir al sitio</p></div>
+<p style="text-align: justify;">Ha muerto. Repentinamente y sin avisar. Volví de dar un paseo, y al entrar en casa mi iPhone no se conectaba a la Wifi. Pensé en problemas de cobertura y no pensé más en ello. Luego, mi mujer se quejó de que no podía navegar por Internet. Ahí ya no pude esconderme más y no tuve más remedio que subir al estudio a reiniciar el router Linksys, al que le echaba la culpa. Pero al ir a cogerlo, vi algo terrorífico, que me sobrecogió el alma: la luz de la TC estaba apagada.</p>
+<p style="text-align: justify;">Para los que no sepan lo que es, la Time Capsule es un todo-en-uno de Apple que incluye en el mismo aparato un router, un switch con tres entradas de red Ethernet de 1Gb, un punto de acceso inalámbrico (lo que Apple llama un Airport Extreme) 802.11n + g + b y un disco duro en red para copias de seguridad u otros contenidos. También es servidor de impresión (se le pueden conectar impresoras a través del puerto USB que incorpora). Puntos negativos: no es servidor DNS, lo cual es un rollo y en mi opinión es una característica básica que le falta. Y se calienta bastante.</p>
+<p style="text-align: justify;">El caso es que, dados los antecedentes que ya conocía de <a href="http://twitter.com/juaconet/status/42302419794804737">@juaconet</a>, que ha pasado ya por tres time capsules, cuando me planteé mi <a href="/2010/10/03/mi-plan-de-backups/">estrategia de backups</a> decidí poner en la Time Capsule únicamente las copias de seguridad de Time Machine. De esta forma, si fallaba el ordenador, tenía la copia en la Time Capsule, y si era al revés (como al final ha sucedido) podría comprar otra TC y volver a hacer una copia de Time Machine de los portátiles. Porque, una vez que el aparato se apaga, ya no hay forma de acceder a los datos: hay que desmontarlo para llegar al disco duro. Fallo.</p>
+<p style="text-align: justify;">Estaba frente a la TC apagada y probé lo típico: a volver a enchufarla, probar con un enchufe distinto, ver si era el cable, etc. Pero nada. No hacía ningún ruido y no se encendía. Así que llamé a Apple Care. Cuando me salió la persona de Apple (el Apple Advisor) le conté mi problema, haciendo especial hincapié en que era una TC de las primeras que salieron. Me solicitó el número de serie. Cuando confirmó que efectivamente era de las primeras, me indicó que estaba cubierta por un <a href="http://support.apple.com/kb/TS3351">programa de reemplazo de Apple</a> y que me mandaban a casa una nueva ¡gratis!.</p>
+<p style="text-align: justify;">Apple sabe que las primeras TC estaban mal diseñadas. Han caído tantas que, como me indicaba @juaconet en este tweet, hay hasta un <a href="http://timecapsuledead.org/">memorial de TCs muertas</a>. Pero al menos han puesto en marcha el programa de reemplazo de forma que, en un par de días, tienes una TC nueva en casa. Eso sí, los datos los has perdido. Por eso el tener sólo las copias de Time Machine. Espero ahora que mi portátil no decida morir igualmente.</p>
+<p style="text-align: justify;">Estas son las cosas que te gustan de la compañía: el trato a los clientes. Sí, la inversión inicial puede ser superior, pero ¿es más caro? Después de tres años usándola, falla y ahora tengo una nueva con el doble de disco duro. Para mí no es mala inversión, no.</p>
+<p style="text-align: justify;">Espero que mañana me la entreguen. Y luego habrá que configurarla, y volver a lanzar Time Machine, y, y&#8230; D&#8217;oh!</p>
+<p style="text-align: justify;"><strong>Actualización 15/03/2011</strong>: hace ya unos días que tengo instalada y en uso la TC. Pero la que me mandaron finalmente era igual a la que tenía, de 500 GB. Bueno, al menos, aunque ya no estaba cubierta por la garantía, han dado la cara. Pero hubiera estado mejor lo del TB <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Problemas con el disco duro de mi iMac</title>
+		<link>/2010/12/29/problemas-con-el-disco-duro-de-mi-imac/</link>
+		<pubDate>Wed, 29 Dec 2010 09:08:15 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Apple]]></category>
+		<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Browns]]></category>
+		<category><![CDATA[Cacharreando]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[iCharlas]]></category>
+		<category><![CDATA[iMac]]></category>
+
+		<guid isPermaLink="false">/?p=1321</guid>
+		<description><![CDATA[Hace unos días estuve escuchando episodios atrasados de iCharlas hasta que me puse al día. En uno de ellos, hablaban del mantenimiento que necesita un Mac y comentaban el programa Onyx, que utilicé mucho al principio de mi etapa de switcher, pero que había relegado un poco al olvido. Pensando que no era mala idea [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Hace unos días estuve escuchando episodios atrasados de <a href="http://www.icharlas.es/">iCharlas</a> hasta que me puse al día. En uno de ellos, hablaban del mantenimiento que necesita un Mac y comentaban el programa <a href="http://www.titanium.free.fr/">Onyx</a>, que utilicé mucho al principio de mi etapa de switcher, pero que había relegado un poco al olvido.</p>
+<p style="text-align: justify;">Pensando que no era mala idea el pasarle Onyx al HD del iMac, para ver su estado, comprobar el sistema de ficheros y con la esperanza de que el sistema se aligerase algo (mi iMac es una maravilla de ordenador, pero uno siempre quiere más :-)) me lancé y el resultado no fue muy bueno. Onyx me indicaba que arrancase con un disco externo y reparase el disco. Acostumbrado como estoy con Linux a que no es buena idea hacer un fsck (filesystem check) a un sistema de ficheros montado (AKA volumen en Mac OS X), me traje de casa de mi suegra el HD externo donde guardo un clon del iMac (<a href="/2010/10/03/mi-plan-de-backups/">si quieres saber cómo tengo organizadas mis copias de seguridad, puedes leerte este post</a>)</p>
+<p style="text-align: justify;">Conecté el disco con su cable FW800, directamente al iMac, encendí la máquina pulsando la tecla Opción (Alt) y me aparecieron los dos discos desde los que podía arrancar: el interno del iMac y el externo. Me moví al externo y pulsé Intro. ¡Catacrok!. Un <strong>kernel panic</strong> como un castillo, la versión UNIXera de las BSOD de Windows. El iMac no arrancaba desde el HD externo. ¿Cómo puede ser ésto? Si cada vez que hago la copia de seguridad completa compruebo el arranque. Pero parece que la versión de S.O. que tienes instalada importa, aunque no tiene mucho sentido para mi. El caso es que desde la última copia de seguridad había actualizado el iMac a la 10.6.5 y la que tenía en el HD externo era la 10.6.4. Sigo pensando que no tiene sentido, y que puedo tener diferentes copias con versiones distintas del S.O.; probablemente la última copia externa no la comprobé como es debido.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">
+<div id="attachment_1329" style="width: 810px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg"><img class="size-full wp-image-1329" title="Kernel Panic en OSX. Shit happens!" src="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg" alt="Kernel Panic en OSX. Shit happens!" width="800" height="532" srcset="/wp-content/uploads/2010/12/kernel_panic_macosx.jpg 800w, /wp-content/uploads/2010/12/kernel_panic_macosx-300x199.jpg 300w" sizes="(max-width: 800px) 100vw, 800px" /></a><p class="wp-caption-text">Kernel Panic en OSX. Shit happens!</p></div>
+<p style="text-align: justify;">No pudiendo arrancar desde el disco externo que tengo para arrancar en casos de emergencia (bravo por Murphy) pensé en hacerlo desde el DVD de Snow Leopard, arreglar el disco duro interno del iMac, reclonar el HD externo y listo. Así que cogí el DVD, lo puse en el lector, apagué, encendí con Opción pulsada y seleccioné el DVD. No arranca. ¡Pero qué pasa!. ¡Ah, claro!, es el DVD de Snow Leopard retail. Y este no arranca en el iMac. Necesito el que venía con el iMac, que está, está&#8230; ¡no me acuerdo!</p>
+<p style="text-align: justify;">A estas alturas empezaba ya a murmurar maldiciones y a estar bastante cabreado, conmigo mismo, con mis procedimientos, mi sistema de archivo, etc. Pero se me hizo la luz mental al recordar que los Macs pueden arrancar en modo <a href="http://en.wikipedia.org/wiki/Target_Disk_Mode">target firewire disk</a>. Puedes conectar un Mac a otro mediante un cable Firewire y hacer que el disco duro de uno se vea como un disco externo en otro. En mi caso, arranqué el iMac en modo Target Firewire disk y magia!, apareció en el escritorio de mi MBP</p>
+<div id="attachment_1324" style="width: 889px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/12/reparando-hd-imac.png"><img class="size-full wp-image-1324" title="El HD de mi iMac, ya reparado, en la Utilidad de Discos de mi MBP" src="/wp-content/uploads/2010/12/reparando-hd-imac.png" alt="El HD de mi iMac, ya reparado, en la Utilidad de Discos de mi MBP" width="879" height="721" srcset="/wp-content/uploads/2010/12/reparando-hd-imac.png 879w, /wp-content/uploads/2010/12/reparando-hd-imac-300x246.png 300w" sizes="(max-width: 879px) 100vw, 879px" /></a><p class="wp-caption-text">El HD de mi iMac, con errores, en la Utilidad de Discos de mi MBP</p></div>
+<p>Bueno, ahora era coser y cantar. Le di a reparar disco y a esperar. Al final, todo parece correcto. Volví a verificar el disco y ¡estupendo!. Ya tenemos arreglado el disco del iMac.</p>
+<p>Ya sólo me quedaba desmontar el disco del iMac del MBP, apagar el iMac, quitar el cable FW800, reiniciar el iMac, comprobar que todo estaba OK, conectar el HD externo Western Digital y actualizar la copia de seguridad de todo el iMac&#8230; vamos, lo que se dice una tarde entretenida&#8230;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Añadiendo un nuevo disco a mi Drobo</title>
+		<link>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/</link>
+		<comments>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/#comments</comments>
+		<pubDate>Sun, 12 Dec 2010 12:34:23 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Almacenamiento]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Drobo]]></category>
+
+		<guid isPermaLink="false">/?p=1315</guid>
+		<description><![CDATA[Mi Drobo 2ª generación (FW800/USB) tenía instalado hasta hace unos días tres discos duros: uno de 1,5 TB y dos de 500 GB. Todo fantástico, pero me quedaba una bahía libre en el Drobo y además, para llevar a cabo mi estrategia de copias de seguridad necesitaba bastante más espacio. Así que le he instalado [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Mi <a href="/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/">Drobo</a> 2ª generación (FW800/USB) tenía instalado hasta hace unos días tres discos duros: uno de 1,5 TB y dos de 500 GB. Todo fantástico, pero me quedaba una bahía libre en el Drobo y además, para llevar a cabo <a href="/2010/10/03/mi-plan-de-backups/">mi estrategia de copias de seguridad</a> necesitaba bastante más espacio. Así que le he instalado otro disco de 1,5 TB, llegando a algo más de 2,3 TB de almacenamiento protegido, suficiente de momento para mis necesidades <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">He aprovechado para grabar este vídeo y subirlo a <a href="http://www.youtube.com/dfreniche">mi canal de YouTube</a>. Espero que os guste.</p>
+<div class="wpv_videoc">
+<div class="wpv_self"><a href="http://www.skarcha.com/wp-plugins/wpvideo/">WPvideo 1.10</a></div>
+<div class="wpv_video"><object data="http://www.youtube.com/v/YKrvAjfKdoE" type="application/x-shockwave-flash" width="100%" height="100%"><param name="movie" value="http://www.youtube.com/v/YKrvAjfKdoE"></param></object></div>
+</div>
+]]></content:encoded>
+			<wfw:commentRss>/2010/12/12/anadiendo-un-nuevo-disco-a-mi-drobo/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Ojo con tus copias de seguridad de Time Machine</title>
+		<link>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/</link>
+		<comments>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/#comments</comments>
+		<pubDate>Thu, 28 Oct 2010 16:23:56 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Desastres]]></category>
+		<category><![CDATA[macbook]]></category>
+		<category><![CDATA[Time Capsule]]></category>
+
+		<guid isPermaLink="false">/?p=1160</guid>
+		<description><![CDATA[Hace no mucho comentaba mi Plan de Backups y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden presentar. Lógicamente, Murphy se ha dado una vuelta por estos lares para darme una cura de humildad, y de paso poder escribir así este post. La historia empieza cuando recuerdo un correo [&#8230;]]]></description>
+				<content:encoded><![CDATA[<div id="attachment_1185" style="width: 510px" class="wp-caption aligncenter"><img class="size-full wp-image-1185" title="FalloTimeMachine" src="/wp-content/uploads/2010/10/FalloTimeMachine.png" alt="Fallo al intentar reparar el disco de Time Machine" width="500" height="272" srcset="/wp-content/uploads/2010/10/FalloTimeMachine.png 500w, /wp-content/uploads/2010/10/FalloTimeMachine-300x163.png 300w" sizes="(max-width: 500px) 100vw, 500px" /><p class="wp-caption-text">Fallo al intentar reparar el disco de Time Machine</p></div>
+<p style="text-align: justify;">Hace no mucho comentaba <a href="/2010/10/03/mi-plan-de-backups/">mi Plan de Backups</a> y cómo estaba protegido (en teoría) frente a las distintas adversidades que se me pueden presentar. Lógicamente, Murphy se ha dado una vuelta por estos lares para darme una cura de humildad, y de paso poder escribir así este post.</p>
+<p style="text-align: justify;">La historia empieza cuando recuerdo un correo que me hace falta y no soy capaz de localizarlo en Mail.app. Venga a buscar y nada. Pero claro, <a href="/2010/09/17/shopping-spree/">el iMac es nuevo</a> y el <a href="/2010/10/01/el-proceso-de-instalacion-de-mi-macbook-pro/">MBP se ha reinstalado</a>. Así que me doy cuenta de que, al configurar de nuevo las cuentas de correo (que son IMAP) se han bajado las carpetas que están en el servidor, pero lógicamente no tengo las carpetas locales. Y el correo que busco está en una carpeta local.</p>
+<p style="text-align: justify;">«No pasa nada», pienso. «Ahora monto mi copia de seguridad de Time Machine, me voy donde Mail.app guarda las carpetas locales, las restauro en el iMac y listo».  Bien, el plan es bueno, salvo cuando le das doble click al archivo .sparsebundle que guarda la copia de seguridad y tras un rato, ves que no se monta. No sale una ventana que indique el error, nada. «No le habré dado bien». Le vuelvo a dar. Nada.</p>
+<p>Un poco mosqueado, abro la utilidad de discos y busco el volúmen en cuestión.</p>
+<div id="attachment_1190" style="width: 713px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/utilidad_de_discos.png"><img class="size-full wp-image-1190 " title="utilidad_de_discos" src="/wp-content/uploads/2010/10/utilidad_de_discos.png" alt="Utilidad de discos abierta mostrando mi copia de seguridad" width="703" height="577" srcset="/wp-content/uploads/2010/10/utilidad_de_discos.png 879w, /wp-content/uploads/2010/10/utilidad_de_discos-300x246.png 300w" sizes="(max-width: 703px) 100vw, 703px" /></a><p class="wp-caption-text">Utilidad de discos abierta mostrando mi copia de seguridad</p></div>
+<p>Lo intento montar y me salen las siguientes ventanas:</p>
+<div id="attachment_1191" style="width: 473px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/intento_montar.png"><img class="size-full wp-image-1191" title="intento_montar" src="/wp-content/uploads/2010/10/intento_montar.png" alt="Intentando montar la copia de seguridad. ¡Arráncalo, Carlos por Dios!" width="463" height="228" srcset="/wp-content/uploads/2010/10/intento_montar.png 463w, /wp-content/uploads/2010/10/intento_montar-300x147.png 300w" sizes="(max-width: 463px) 100vw, 463px" /></a><p class="wp-caption-text">Intentando montar la copia de seguridad. ¡Arráncalo, Carlos por Dios!</p></div>
+<p>y finalmente:</p>
+<div id="attachment_1192" style="width: 473px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2010/10/fallo_montar.png"><img class="size-full wp-image-1192" title="fallo_montar" src="/wp-content/uploads/2010/10/fallo_montar.png" alt="No hay suerte. Murphy me odia." width="463" height="228" srcset="/wp-content/uploads/2010/10/fallo_montar.png 463w, /wp-content/uploads/2010/10/fallo_montar-300x147.png 300w" sizes="(max-width: 463px) 100vw, 463px" /></a><p class="wp-caption-text">No hay suerte. Murphy me odia.</p></div>
+<p style="text-align: justify;">Un sudor frío me corre por la espalda. Un escalofrío me pone la carne de gallina. Escucho voces en las sombras. <em>Murphy me odia, es oficial</em>. Cabreado, pero no resignado, pulso el botón de «Verificar disco». Me da tropecientos errores. Pulso reparar disco. Repara algunos, pero me indica que hay otros con los que no puede. Vuelvo a intentar montar. Nada. Reparo. Monto. Nada. Reparo. Monto. Nad. Así varias veces. Hasta que, finalmente, aunque me indica que hay errores, veo que está montado en /Volumes/Time Machine Backups.</p>
+<p>Abro una terminal y me abalanzo sobre el directorio. Desde allí, y gracias al todopoderoso cp -r, copio las carpetas que buscaba al escritorio. ¡Buff!. Me he librado de ésta.</p>
+<p>Conclusiones:</p>
+<ol>
+<li>aunque tengas un buen sistema de copias de seguridad (por ej. usar Time Machine en una cabina con varios discos en RAID, como un Drobo) Murphy puede pasar a visitarte.</li>
+<li>no basta con hacer copias de seguridad. <strong>Hay que comprobarlas</strong>. Si te haces un disco de arranque con Carbon Copy Cloner, prueba a arrancar desde él, para que el día que te haga falta estés seguro de que va a funcionar.</li>
+<li>Si usas Time Machine, monta de vez en cuando el volumen de copias de seguridad (el fichero .sparsebundle) y comprueba que no hay errores. Si lo pillas a tiempo probablemente el desastre será menor.</li>
+<li>hay que ser como el que iba en un barco y no se fiaba de la mitad de la tripulación: eran un padre y un hijo.</li>
+</ol>
+<p>Esta vez he recuperado los datos. Pero ¿y la próxima?. ¿Experiencias personales? ¡Déjalas en los <strong>comentarios</strong>!</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/28/ojo-con-tus-copias-de-seguridad-de-time-machine/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Mi plan de backups</title>
+		<link>/2010/10/03/mi-plan-de-backups/</link>
+		<comments>/2010/10/03/mi-plan-de-backups/#comments</comments>
+		<pubDate>Sun, 03 Oct 2010 15:12:37 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[gadgets]]></category>
+		<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Hardware]]></category>
+
+		<guid isPermaLink="false">/?p=1127</guid>
+		<description><![CDATA[Ahora que mi infraestructura casera, tras la revisión nº 1001, ya va quedando más clara, he implantado el plan de backup de forma que todo lo importante quede bien cubierto. Quiero compartirlo por si a alguien le sirve. Pero como dice Joel Spolsky, mejor que hablar de backups, hablemos de restores, que después cuando se [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">
+<div style="width: 650px" class="wp-caption aligncenter"><a href="http://www.flickr.com/photos/purplemattfish/3188379971/"><img title="Discos duros machacados. Click para ver el autor." src="http://farm4.static.flickr.com/3334/3188379971_5d23187d23_z_d.jpg?zz=1" alt="Discos duros machacados. Click para ver el autor." width="640" height="427" /></a><p class="wp-caption-text">Discos duros machacados. Click para ver el autor.</p></div>
+<p style="text-align: justify;">Ahora que mi infraestructura casera, tras la revisión nº 1001, ya va quedando más clara, he implantado el plan de backup de forma que todo lo importante quede bien cubierto. Quiero compartirlo por si a alguien le sirve. Pero como dice Joel Spolsky, <a href="http://www.joelonsoftware.com/items/2009/12/14.html">mejor que hablar de backups, hablemos de restores</a>, que después cuando se estropea un disco vamos a intentar usar nuestro backup y el disco donde está no aparece, o está estropeado, o se grabó mal, o cualquier otro tormento que se le ocurra a Murphy <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Mi equipo principal de trabajo es el iMac 27&#8243;. Por eso, he decidido pasar a su disco de 1TB todo lo importante: documentos, código fuente, películas caseras de vídeo, fotografías, librería de iTunes, etc. De momento sólo uso medio disco. Es muy importante que, antes de empezar a realizar copias de seguridad, <strong>pienses si necesitas realmente hacer backup de todo</strong>. Yo, por ejemplo, tengo un disco externo de 750 GB conectado a la Time Capsule que contiene fundamentalmente películas descargadas de Internet. Si ese disco muere, vuelvo a tirar de Megaupload y listo. No es crítico perder esa información. Pero si pierdes las fotos de tu boda ¿cómo se lo explicas a tu mujer? ¿Lo vas comprendiendo ahora? <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p style="text-align: justify;">Conectado al iMac tengo un <a href="/2010/05/09/review-de-drobo-hardware-y-software-dashboard-en-espanol/">Drobo v2</a> (USB + Firewire, pero sin red) con tres discos de  momento (500GB + 500GB + 1.5TB) , lo que me deja unos 900 GB de espacio protegido, frente al fallo de un disco. El <a href="/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/">Drobo no te protege de tu propia estupidez si lo borras todo</a>, pero al menos sí que te permite reaccionar y que el fallo tonto de un disco, que cuesta menos de 80 Eur. no te cause un perjuicio económico y la pérdida de montones de cabello mediante la técnica de los tirones. Así que en el Drobo hago las copias de seguridad de Time Machine del iMac, y tengo alguna cosa importante, pero que no quiero tener en el iMac, como mi biblioteca de máquinas virtuales.</p>
+<p style="text-align: justify;">
+<p style="text-align: justify;">Como se da la feliz casualidad de que tengo un WD Mybook Studio 1TB firewire y coincide exactamente con el tamaño del disco duro interno del iMac, para mayor seguridad uso Carbon Copy Cloner y creo un clon arrancable del iMac. Así, si el disco del iMac falla, puedo hacer dos cosas: arrancar desde el DVD de Snow Leopard y restaurar la copia de Time Machine del Drobo o bien arrancar directamente desde firewire el WD y seguir trabajando (si fuera una urgencia). Esta copia la actualizo una vez al mes, y para hacer aún más hincapie en la paranoia de la pérdida de datos, duerme en casa de mi suegra. Así estoy cubierto frente a un robo o un incendio.</p>
+<p style="text-align: justify;">Mi Time Capsule (con un disco de 500 GB) ha quedado para hacer backup con Time Machine de los dos portátiles, mi MacBook Pro y el Macbook blanco de mi mujer. Quizá debería ampliar el disco interno de la Time Capsule, pero si se queda pequeña probablemente mueva una de las copias al Drobo y le añada otro disco.</p>
+<p style="text-align: justify;">Revisando mi política de backup, y pensando en los posibles desastres podemos ver que:</p>
+<ul>
+<li>cada portátil tiene los datos en su disco duro y en la Time Capsule. Si falla uno está el otro. Los datos imprescindibles del portátil están en Dropbox (en la nube) luego no siento la necesidad de un mayor nivel de seguridad con los portátiles.</li>
+<li>si el HD interno del iMac falla, dispongo de dos copias. Una muy actual, de Time Machine, guardada en el Drobo, y otra que arranca externamente en el WD y que como máximo será de hace un mes. Combinando ambas puedo rehacerme de un desastre razonablemente bien.</li>
+</ul>
+<p>Sólo falta una pieza aquí, y es contratar un servicio de backups offsite, como <a href="http://b3.crashplan.com/landing/index.html">CrashPlan</a>. O bien usar la cuenta de Megaupload para esos menesteres. Aunque viendo las velocidades de subida que sufrimos en España, esto parece aún ciencia ficción.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/10/03/mi-plan-de-backups/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>Cómo recuperar los datos tras un rm -rf en Mac OS X</title>
+		<link>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/</link>
+		<comments>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/#comments</comments>
+		<pubDate>Mon, 15 Mar 2010 13:05:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Linux]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Drobo]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Mac OS X]]></category>
+		<category><![CDATA[Seguridad]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=904</guid>
+		<description><![CDATA[O tras un rm -rf en Linux (p.ej. Ubuntu) o tras enviar algo a la papelera y vaciarla, ya sea en Windows o en Mac. Hola. Si has llegado a este post desde un buscador, desesperado por recuperar tus datos, sólo tres puntos a considerar: respira y relájate. El daño ya está hecho. Con la [&#8230;]]]></description>
+				<content:encoded><![CDATA[<address><a href="http://www.flickr.com/photos/32911813@N00/2305786359"><img class="aligncenter" title="Pulsa para ver el autor de la foto, en Flickr" src="http://farm4.static.flickr.com/3156/2305786359_ee9698e7b1.jpg" alt="" width="500" height="336" /></a></address>
+<address>O tras un rm -rf en Linux (p.ej. Ubuntu) o tras enviar algo a la papelera y vaciarla, ya sea en Windows o en Mac.</address>
+<p>Hola. Si has llegado a este post desde un buscador, desesperado por recuperar tus datos, sólo tres puntos a considerar:</p>
+<ul>
+<li><strong>respira y relájate</strong>. El daño ya está hecho. Con la cabeza en su sitio recuperarás lo que puedas sin ahondar aún más en el desastre</li>
+<li>no vayas a enfadarte conmigo si lo que aquí pongo no te funciona. Te puedo aclarar dudas, pero no hacer milagros. Recuerda que quien vació la papelera no fui yo <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>lee la receta que viene a continuación, aplícala, y si recuperas tus datos dame las gracias en un comentario, contándome tu experiencia. ¡Ánimo!</li>
+</ul>
+<p>Al resto, a los que (todavía) no habéis metido la pata, tras la receta contaré cómo metí la pata y mi historia de recuperación de datos. ¡Sí, otra batallita!</p>
+<h2>Cómo recuperar los datos tras el rm -rf</h2>
+<ol>
+<li style="text-align: justify;"><strong>No borres nada más, no toques el ordenador, no instales nada</strong>. Cuanto más utilices el disco duro, más datos se leerán de el, pero también se grabarán. Los ficheros que has borrado <em>están aún en tu disco duro</em> y probablemente los puedas recuperar. Pero si te pones a grabar cosas, la probabilidad de que uno de los bloques ocupados por tus archivos se sobreescriba crece y crece. <strong>Si puedes</strong> (y sabes que tu ordenador arrancará luego), <strong>apaga el ordenador y lee esto desde otro</strong>.</li>
+<li style="text-align: justify;">Si has borrado parte del S.O., apagar el ordenador es el menor de tus males. Siempre puedes arrancar con un disco live de Ubuntu (o un USB arrancable de Windows, p.ej. creado con BartPE o de Mac OS X), copiar los datos en un disco USB / Firewire externo y reinstalar. Voy a suponer que has perdido ficheros de datos, y que el S.O. está OK.</li>
+<li><strong>Herramientas</strong> que necesitas:
+<ol>
+<li><strong>Un disco externo</strong> donde guardar la información que vas a recuperar, con suficiente espacio libre. Si tienes uno lleno de películas bajadas de Internet, las borras que siempre podrás bajarlas de nuevo y haces sitio. Lo primero es lo primero.</li>
+<li>El <strong>excelente</strong> programa <a href="http://www.cgsecurity.org/wiki/PhotoRec">PhotoRec</a>, utilidad de recuperación de datos para Linux, Mac, Windows y casi cualquier S.O. moderno.</li>
+<li>Paciencia, muuuucha paciencia. Recuperar los datos es un proceso muy largo (dependiendo del tamaño de los discos). Para que calcules, 200 GB tardaron más de 24 h.</li>
+<li>Opcional. Un disco de arranque externo USB en el que puedas instalar PhotoRec, para hacer la recuperación desde ese disco, leyendo el interno en el que has borrado, y grabando en otro disco USB que pinches para recibir los datos rescatados.</li>
+<li>Opcional. Una SAI si el equipo no es un portátil. No quiero imaginarme lo divertido que debe ser estar en medio de la recuperación y que se vaya la luz&#8230;</li>
+</ol>
+</li>
+<li style="text-align: justify;">¿Ya lo tienes todo? Arranca con tu disco externo o instala PhotoRec en el sistema a salvar, y ejecútalo. Lo debes lanzar desde una consola, mejor si tienes privilegios de administrador: cmd.exe en Windows, Terminal en Mac OS X, Gnome Terminal en Linux, etc. En el caso concreto de Mac está en una carpeta llamada Darwin dentro de la carpeta que se descomprime al bajar el fichero.</li>
+<li>Si no tienes privilegios de administrador, en Ubuntu Linux y Mac OS X se obtienen escribiendo en la consola: sudo su e introduciendo tu clave de inicio de sesión.</li>
+<li>Sí, es muy feo, es el típico programa de MS-DOS que corría sólo con modo texto. Pero ¿para qué lo quieres bonito? Lo que quieres son tus datos. Y es GPL. Luego coste cero. Todo el programa se maneja con las teclas de cursor y el Enter. Aquí no hay ratón que valga.<a href="/wp-content/uploads/2010/03/photorec.png"><img class="size-medium wp-image-912 aligncenter" title="Photorec" src="/wp-content/uploads/2010/03/photorec-300x229.png" alt="" width="300" height="229" srcset="/wp-content/uploads/2010/03/photorec-300x229.png 300w, /wp-content/uploads/2010/03/photorec.png 587w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>
+<li>Escoge el disco donde están los datos perdidos. En Windows te aparecerán las letras de unidad.</li>
+<li>A continuación hay que indicarle el tipo de tabla de particiones que tenemos. Normalmente Intel funcionará con Linux y Windows, EFI GPT con los Macs nuevos (con procesadores no PowerPC) y Mac con los macs PowerPC.</li>
+<li>Ahora podemos pasarle opciones sobre los ficheros que queremos recuperar (p.ej., para que sólo busque fotos, o sólo archivos comprimidos, etc.)</li>
+<li>Finalmente le indicamos el disco destino de la recuperación. <strong>Muy importante</strong>: que no sea el mismo desde el que recuperas. Puedes sobreescribir datos que estás intentando recuperar.<img class="alignright size-medium wp-image-911" title="Carpetas recuperadas" src="/wp-content/uploads/2010/03/carpetas-recup-300x189.png" alt="" width="300" height="189" srcset="/wp-content/uploads/2010/03/carpetas-recup-300x189.png 300w, /wp-content/uploads/2010/03/carpetas-recup.png 832w" sizes="(max-width: 300px) 100vw, 300px" /></li>
+<li>Cuando termine la recuperación, tendrás un montón de carpetas, cada una con 500 ficheros. PhotoRec, va recuperando pero para no hacer los directorios muy largos, cuando llega a 500 para y crea una nueva carpeta. Los nombres de los ficheros se los va inventando.</li>
+<li>Ahora viene lo duro. Localizar tus ficheros. Yo te recomiendo que hagas búsquedas por tipo de fichero, por ejemplo, que busques todos los .MP3 que están en esas carpetas, o todos los .DOC, etc. Ir viendo una a una puede ser desesperante, ya que te encontrarás todo tipo de ficheros recuperados que probablemente sean basura para ti.</li>
+</ol>
+<h2>Mi experiencia (doble) con PhotoRec</h2>
+<p style="text-align: justify;">Por desgracia (o por suerte, nunca se sabe) he tenido que tratar con PhotoRec dos veces seguidas en un corto espacio de tiempo. La primera, tras lanzar un rm -rf donde no debía en Mac OS X y la segunda para recuperar las fotos de una tarjeta Memory Stick Pro Duo que no se podía leer. ¡Vamos con la primera experiencia!</p>
+<h3>Borrando donde no se debe en Mac OS X</h3>
+<p style="text-align: justify;">Mac OS X monta los volúmenes (particiones, discos externos, etc.) en una carpeta llamada /Volumes. En esta carpeta se monta, por ej., <a href="/2009/09/06/video-del-unboxing-de-mi-drobo-en-espanol/">mi Drobo</a>. Concretamente debe montarse en /Volumes/Drobo. Pero hay veces que se me olvida apagar el Drobo antes que el <a href="/2010/02/04/el-mapa-de-red-de-mi-casa/">PowerMac G5</a> al que está conectado y, por un fallo documentado esta carpeta no se borra. Resultado: en el siguiente arranque Drobo detecta que ya existe una carpeta con nombre Drobo y crea otra «Drobo 1». Y así hasta el infinito. Feo. No me gusta. Solución: borrar las carpetas «Drobo*» para que no se acumulen. Aquí en donde entra el rm -rf /Volumes/Drobo 1/, pero por causas que no acierto a concretar, escribí como rm -rf /Volumes/. Resultado: todos los discos conectados al Mac, preparados para ser exterminados. Todos. Los dos discos duros internos, los discos por red (Time Capsule). El Drobo no, porque antes de estas operaciones lo suelo apagar. Menos mal que fui rápido y sólo se borró el segundo disco duro interno del G5. Sólo. 200 GB a la basura.</p>
+<p>¿Y no tenías backup? Bueno, la mayoría del contenido era prescindible: cosas bajadas de Internet (que se vuelven a bajar). Pero había algunas películas de vídeo propias que no tenía pasadas a ningún sitio. ¡<em>Gosh</em>!. ¡La liamos!. Y aquí es donde ha entrado PhotoRec. He podido recuperar gran parte de los vídeos, que es lo que me interesaba. El resto ni lo he buscado. Y han aparecido fotos que habían estado en ese disco pero había borrado, MP3s, de todo. Es curioso cuando recuperas datos, las cosas que pueden llegar a aparecer.</p>
+<p>Al final la cosa no ha sido tan grave, pero necesito urgentemente un plan de backup (y probar los <a href="http://www.joelonsoftware.com/items/2009/12/14.html">restores</a>). A ver qué puedo organizar con lo que tengo (y, a lo mejor, ampliando un poco mi Drobo) y cuando lo tenga lo pondré por aquí.</p>
+<h3>Recuperar una tarjeta de memoria irrecuperable</h3>
+<p style="text-align: justify;">Una amiga me trajo una tarjeta, en teoría llena de fotos, pero que no era capaz de ver con la cámara. Le decía que debía formatearla. Un poco radical ¿no?. Así que decidí ayudarle: igual con mi PSP, o conectando la tarjeta al lector de MS Pro Duo de mi Dell Vostro 1510 la cosa mejorase. Pues no. No hay forma. No se puede leer la tarjeta. Varias máquinas, varios S.O. y misma respuesta.</p>
+<p style="text-align: justify;">¿Solución? Hacer lo que nos pide. Formatear la tarjeta y luego usar PhotoRec. A fin de cuentas, la mayoría de tarjetas de memoria vienen con formato FAT32, así que formatearlas no es más que escribir algunos bloques del inicio del disco. El resto se queda como está. De esta forma, PhotoRec (esta vez corriendo en Windows 7 Ultimate) recuperó un 1GB de fotos sin ningún problema.</p>
+<p><strong>¿Y tu experiencia? ¿Cómo te ha ido recuperando datos? ¿Qué herramientas has usado? ¡Compártelo en los comentarios!</strong></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/03/15/como-recuperar-los-datos-tras-un-rm-rf-en-mac-os-x/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+		</item>
+		<item>
+		<title>The back-up week</title>
+		<link>/2005/12/26/the-back-up-week/</link>
+		<pubDate>Mon, 26 Dec 2005 10:48:00 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Backup]]></category>
+		<category><![CDATA[Objetivos]]></category>
+
+		<guid isPermaLink="false">/2005/12/26/the-back-up-week/</guid>
+		<description><![CDATA[Hoy comienza oficialmente «The back-up week». Voy a intentar, en una semana, hacer copia de seguridad de todo, absolutamente de todo lo que he generado desde que me senté frente a un ordenador por primera vez en mi vida. ¿Ambicioso? Pues sí. Esto es como seguir una dieta: se intenta una y otra vez pero [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p class="bodytext" style="text-align: justify;">Hoy comienza oficialmente «The back-up week». Voy a intentar, en una semana, hacer copia de seguridad de todo, absolutamente de todo lo que he generado desde que me senté frente a un ordenador por primera vez en mi vida.</p>
+<p class="bodytext" style="text-align: justify;">¿Ambicioso? Pues sí. Esto es como seguir una dieta: se intenta una y otra vez pero siempre se falla. Cuando empezamos a hacer copia de seguridad estamos seguros, convencidos de la necesidad de hacer la copia. Pero a medida que vamos avanzando, nos vamos encontrando con aquel cartel que hicimos para un cumpleaños de hace 10 años, que usaba Printmaster plus (vetusto programa que funcionaba en MS-DOS, no en Windos 3.11, sólo en MS-DOS) y ¿no vamos a echarle un vistazo?. Pero claro, para verlo hay que instalar el PM+ y ahora ya no tenemos MS-DOS. Pero bueno, ¿para qué están las máquinas virtuales?. Con nuestro VMWare nos instalamos un PC con MS-DOS en un momento y ya podemos verlo, y &#8230;</p>
+<p class="bodytext" style="text-align: justify;">Y se pasa el día y estás jugando <em>sólo cinco minutos</em> a auqel juego con el que pasaste horas y horas hace un tiempo. O viendo las fotos de las navidades pasadas. O incluso intentando compilar aquel programa que era ANSI-C en Linux porque <em>seguro que funciona</em>.</p>
+<p class="bodytext" style="text-align: justify;">¿Cuál es la solución para los que tenemos el <a href="http://en.wikipedia.org/wiki/Attention-deficit_hyperactivity_disorder" target="_blank">síndrome de falta de atención</a> y empezamos una cosa sin ser capaz de <em>fascinarnos</em> por la siguiente? Hacernos un plan. Por escrito. Ya sea en un papel o en un documento de Word. En mi caso, este plan lo voy a anotar a continuación, por si a alguien le sirve:</p>
+<ol>
+<li>En primer lugar, voy a «aligerar» los discos duros con cosas que son fácilmente copiables: películas en DivX, música en MP3, fotos de la cámara digital, etc. Se tira todo a DVD (ordenados o no, da igual) y se continúa. Tentación a salvar: ordenar las fotos, categorizar la música, buscar las carátulas de las películas por Internet para que <em>quede más completo</em>. El objetivo es hacer copia de seguridad. Otro día se pondrá todo bonito.</li>
+<li>Subir todo al repositorio CVS y luego pasar el repositorio a un DVD. Yo utilizo CVS aunque otra gente prefiera Subversion o incluso Visual Source Safe.</li>
+<li>Hacer copia de seguridad de la configuración de mis equipos (las carpetas /etc) para salvaguardarlo todo por si hay un desastre.</li>
+<li>Comprimir las carpetas de correo y pasarlas a CD. Ya no perderemos ni uno sólo de esos preciados mensajes del estilo «compra Viiiaaagggrrraaa».</li>
+<li>Finalmente, cualquier otra cosa que haya bajado de Internet debe pasar a CD o DVD. El objetivo es poder formatear los discos duros y no perder ni un dato.</li>
+</ol>
+<p class="bodytext">Como se puede ver, hay que llevar el síndrome de Diógenes digital al extremo. Aunque en mi caso tiene explicación: quiero reinstalar ambos ordenadores (mi servidor y el portátil) y ya de paso aprovecho para las copias de seguridad.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>
