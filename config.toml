@@ -1,7 +1,8 @@
-baseurl = "https://dfreniche.github.io"
+baseurl = "https://dfreniche.github.io/"
 languageCode = "en-us"
 theme = "terminal"
-paginate = 10
+
+paginate = 50
 
 [params]
   # dir name of your blog content (default is `content/posts`)
