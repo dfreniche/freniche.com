@@ -14,13 +14,25 @@
 
 - Current location: 
 	- ☀️ El Saucejo, Seville (Spain)
-	- 🌍 Traveling sometimes
+	- 🌍 Traveling ~~sometimes~~ not much these days...
 
 ---
 
 ## Current Position
 
-### (Jan 2018 - ) __Senior Mobile developer at [Teamwork.com](https://www.teamwork.com)__. 
+## May 2021 __Realm Mobile Developer Advocate at MongoDB__
+
+- creating content for the Realm DevHub (blog posts, videos, streaming, etc.)
+- interacting with the community through Social Media (mainly Twitter/LinkedIn), trying to help people struggling with Realm.
+- speaking at conferences on Mobile Development topics.
+- advocating internally at MongoDB for Realm Developers, trying to create the best possible Developer Experience.
+- helping the team in anything needed, from content review to writing code.  
+
+---
+
+## Past experience
+
+### (Jan 2018 - May 2021) __Senior Mobile developer at [Teamwork.com](https://www.teamwork.com)__. 
 
 For two years I've been maintaining the existing Projects & Desk Mobile Apps, written in CoffeeScript / Titanium Appcelerator. Technologies used: 
 
@@ -30,21 +42,17 @@ For two years I've been maintaining the existing Projects & Desk Mobile Apps, wr
 - Swift / Java (for the native modules and extensions)
 - gulp, bash, Ruby for the tooling
 
-I've been helping with the native/Swift Chat App and currently I'm working on the new native iOS App for Teamwork, using:
+I've also been helping with the native/Swift Chat App. Last year at Teamwork I worked on the new native iOS App for Teamwork, using:
 
 - Xcode (of course)
 - clean architecture, several layers
 - tests with Quick/Nimble
 - RxSwift
-- Realm
+- Realm for local persistence
 - Cocoa Pods & SPM
 - Bitrise as CI
 - SwiftLint
 - Sourcery 
-
----
-
-## Past experience
 
 ### Mobile Developer at [Mobile Jazz](http://www.mobilejazz.com):
 	
@@ -117,6 +125,8 @@ September 1997 – August 1999 (2 years)
 - Speaker at the BCNDevCon conference, Dec 2012
 - Founder of the NSCoder Nights Seville meeting group of Cocoa developers
 - Regular appearances at the Spanish development podcast [We.Developers](http://wedevelopers.com)
+
+My [SlideShare](https://www.slideshare.net/dfreniche)
 
 ---
 
