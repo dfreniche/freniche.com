@@ -20,7 +20,7 @@
 
 ## Current Position
 
-## May 2021 __Realm Mobile Developer Advocate at MongoDB__
+## (May 2021 -) __Realm Mobile Developer Advocate at MongoDB__
 
 - creating content for the Realm DevHub (blog posts, videos, streaming, etc.)
 - interacting with the community through Social Media (mainly Twitter/LinkedIn), trying to help people struggling with Realm.

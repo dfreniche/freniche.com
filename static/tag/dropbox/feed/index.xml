@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dropbox &#8211; freniche.com</title>
+	<atom:link href="/tag/dropbox/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Another personal blog about everything tech-related</description>
+	<lastBuildDate>Sun, 30 Dec 2018 19:56:49 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.13</generator>
+	<item>
+		<title>Dejo Dropbox por Bittorrent Sync</title>
+		<link>/2013/08/07/dejo-dropbox-por-bittorrent-sync/</link>
+		<comments>/2013/08/07/dejo-dropbox-por-bittorrent-sync/#comments</comments>
+		<pubDate>Wed, 07 Aug 2013 06:28:12 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Bittorrent Sync]]></category>
+		<category><![CDATA[Dropbox]]></category>
+
+		<guid isPermaLink="false">/?p=1945</guid>
+		<description><![CDATA[Soy usuario de Dropbox desde hace muchos años. Y el último de ellos, he sido un usuario Pro, de los que pagan 100 USD por más almacenamiento. Concretamente, por 100 GB que se añadían a los 11,9 GB que tenía de forma gratuita. El 6 de Agosto di de baja la cuenta Pro en su [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Soy usuario de Dropbox desde hace muchos años. Y el último de ellos, he sido un usuario <em>Pro</em>, de los que pagan 100 USD por más almacenamiento. Concretamente, por 100 GB que se añadían a los 11,9 GB que tenía de forma gratuita. El 6 de Agosto di de baja la cuenta Pro en su vencimiento anual y cancelé la autorización de pagos automáticos a Dropbox en Paypal. Me cambio a Bittorrent Sync.</p>
+<h1>Dropbox y los 100 GB</h1>
+<p>Antes de seguir, ¿para qué necesito 115 GB en Dropbox?. La idea es simple: viajo mucho, y no siempre estoy trabajando en el mismo ordenador. Unas veces tengo que estar haciendo cosas en el MBP y otras puedo disfrutar de la pantalla del iMac y de la tranquilidad de mi oficina. Pero los proyectos son los mismos. Así que un sistema que me sincronice los ficheros, es casi imprescindible para mi.</p>
+<p>En un principio, pensé en crearme unas tareas periódicas, programadas en una cola de cron que usaran <a href="http://es.wikipedia.org/wiki/Rsync">rsync</a> para sincronizar mis carpetas. A fin de cuentas, Dropbox no es más que un rsync glorificado, que cuando detecta cambios en tus ficheros los sube a sus servidores. Y de ahí, a tus otros equipos. Cierto es que está muy optimizado, que dispone de una API pública que hace que muchos programas lo utilicen para poner ahí los datos «en la nube» y que tiene clientes móviles para todos los S.O. (iOS, Android, Windows Phone, BlackBerry 10). Pero la funcionalidad base sin la que no puedo pasar es la sincronización de ficheros. Ese es el meollo de la cuestión para mi.</p>
+<p>Y sí, necesitaba el espacio extra. Porque quiero tener en Dropbox todos los ficheros, de trabajo y personales, de forma que no tenga que complicarme la vida moviendo los proyectos activos dentro y fuera de Dropbox. Uniendo todos estos ficheros: de los cursos, con presentaciones, ejemplos de código fuente, documentos con ofertas e incluso los entornos de desarrollo Eclipse que utilizo necesitaba más que 12 GB. Concretamente estaba usando unos 60 GB. Y sí, es cierto, me sobraba espacio en el Dropbox Pro, pero no hay una opción de comprar 50 GB por 50 USD; la granularidad en precios nunca ha sido el fuerte de Dropbox.</p>
+<h1>BitTorrent Sync</h1>
+<div id="attachment_1955" style="width: 310px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/08/btsync-300x174.png" alt="Mis carpetas sincronizadas en BTSync" width="300" height="174" class="size-medium wp-image-1955" srcset="/wp-content/uploads/2013/08/btsync-300x174.png 300w, /wp-content/uploads/2013/08/btsync.png 852w" sizes="(max-width: 300px) 100vw, 300px" /><p class="wp-caption-text">Mis carpetas sincronizadas en BTSync</p></div>
+<p>He conocido BTSync y qué podía hacer gracias a Migue Terrón y su blog <a href="http://enteratec.com/2013/05/compartir-carpetas-y-datos-con-bittorrent-sync/">Enteratec</a>. La primera vez que le escuché hablar de BTSync, dado que estaba contento con Dropbox, no me planteé seriamente usar BTSync para nada. ¿Instalar otro servicio en mi ordenador, consumiendo CPU y memoria, <em>para qué</em>? ¿Qué es lo que hace BTSync para que sea especial?</p>
+<p>La idea de BTSync es sencilla. Crea una carpeta (o tantas como quieras) en tu ordenador de sobremesa. Llénalas de ficheros. Las añades a BTSync. El programa las recorre, las explora, y escanea todos los ficheros que hay en ellas. Desde ahora, cada cambio que hagas en esas carpetas está monitorizado por tu BTSync. Ahora, vete a tu portátil e instala BTSync. Para tener esas carpetas de tu escritorio, sincronizadas sin esfuerzo, no tienes más que añadir el identificador de cada carpeta. Este identificador es un hash (llamado <em>secret</em>) que viene a ser el típico «chorizo» que vemos en cualquier descarga de torrent. De esta manera, cuantos más ordenadores compartan las mismas carpetas, más rápido te irá la sincronización. Espacio disponible: tienes el de tu disco duro, no los 100 GB de Dropbox, todos los TB que quieras sincronizar. Esta sincronización se hace en la red local o a través de Internet. Y se hace encriptada. Tus datos nunca suben a los servidores de Bittorrent, lo único que se suben son esos identificadores que ayudan a localizar dónde están las carpetas cuando los ordenadores se mueven de red.</p>
+<h1>La migración</h1>
+<p>Esta parte parecía sencilla (a fin de cuentas era mover unos ficheros, ¿no?). Pues no. Cuando de pronto Dropbox detectó que le había «desaparecido» 40 GB y cientos de miles de ficheros, se puso a indexar y buscar lo que tenía y comparar con lo que le faltaba, y se atragantaba. La App de Dropbox se quedaba como colgada, indexando para siempre. No subía los cambios de las carpetas borradas, y no avanzaba. El icono estaba siempre sincronizando, pero no veía cambios en el número de ficheros pendientes. Así estuve varios días, dejándolo por la noche a ver qué tal. Pero no avanzaba.</p>
+<div id="attachment_1948" style="width: 306px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/08/dropbox-no-avanza.png" alt="Dropbox no avanza indexando" width="296" height="218" class="size-full wp-image-1948" /><p class="wp-caption-text">Dropbox no avanza indexando</p></div>
+<p>El problema es que Dropbox sigue una planificación <em>Shortest Job First</em> o similar. Si borras un par de ficheros, o subes una foto es casi instantáneo. El cambio se propaga a todos tus ordenadores casi instantáneamente. Pero cuando detecta un montón de cambios, se lo <em>toma con calma</em>. De todas formas, sabes que vas a tener que esperar, ¿no?.</p>
+<div id="attachment_1950" style="width: 310px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/08/cpu-a-tope-300x188.png" alt="La CPU al 100% con Dropbox" width="300" height="188" class="size-medium wp-image-1950" srcset="/wp-content/uploads/2013/08/cpu-a-tope-300x188.png 300w, /wp-content/uploads/2013/08/cpu-a-tope.png 942w" sizes="(max-width: 300px) 100vw, 300px" /><p class="wp-caption-text">La CPU al 100% con Dropbox</p></div>
+<p>Intenté de todo: borrar la carpeta .Dropbox que está en la carpeta de usuario con los índices de los distintos ficheros que tengo, desvincular y volver a vincular el ordenador, reinstalar Dropbox. Pero nada. No avanzaba. Así que para borrar los ficheros definitivamente tuve que ir al sitio web de Dropbox. Porque ese era el problema: al borrar de golpe tantos ficheros la App de escritorio se atragantaba y no era capaz de borrar en el servidor. En el portal web de Dropbox pude ir borrando, <strong>carpeta a carpeta</strong> todo lo que ya había copiado a mis carpetas de BTSync. Digo carpeta a carpeta, porque el portal web no es capaz de borrar de un golpe un gran número de ficheros, y te sugiere que para esas operaciones masivas uses la App de escritorio&#8230; que no funcionaba.</p>
+<div id="attachment_1953" style="width: 310px" class="wp-caption aligncenter"><img src="/wp-content/uploads/2013/08/eliminando-web-300x287.png" alt="Borrando carpetas en la web de Dropbox" width="300" height="287" class="size-medium wp-image-1953" srcset="/wp-content/uploads/2013/08/eliminando-web-300x287.png 300w, /wp-content/uploads/2013/08/eliminando-web-1024x980.png 1024w, /wp-content/uploads/2013/08/eliminando-web.png 1071w" sizes="(max-width: 300px) 100vw, 300px" /><p class="wp-caption-text">Borrando carpetas en la web de Dropbox</p></div>
+<p>Cuando conseguí borrarlo todo en la web, no había manera de hacer funcionar la app de escritorio. Tuve que borrar la carpeta Dropbox, revincular el ordenador y bajar los 12 GB que había dejado para que todo funcionase de nuevo. En mi MBP lo mismo.</p>
+<h1>¿Dropbox Fail?</h1>
+<p>Es decir, ¿es un <em>fail</em> Dropbox y no merece la pena? No. Es un servicio que funciona muy bien para sincronizar archivos de trabajo. El fallo que ha hecho a Dropbox saturarse es probablemente mío. He puesto en el Dropbox montones de ficheros de código fuente. Ficheros pequeños, pero que hay que indexar, tener presentes en memoria y sincronizar. Y se ve que ese 1.200.000 ficheros era demasiado. Es muy cómodo tener tus repos de código fuente en Dropbox. Así, si tocas por la mañana en un ordenador, por la tarde lo tienes en otro. Pero con tantos ficheros hay que pagar un precio por esa comodidad. Lo ideal es tener los proyectos en un repositorio de código fuente, y no sincronizar esa carpeta con Dropbox. Si quieres sincronizarla, se usa el DCVS de turno (Git / Hg) que para eso están.</p>
+<p>Ahora mismo he replicado el error anterior, pero usando BTSync. Es decir, que sigo sincronizando mis proyectos de código fuente, pero usando ahora BTSync. Poco a poco voy a ir migrando todo a Bitbucket, que me permite tener todos los repositorios (Git o Mercurial) que quiera, gratis. Esto es un esfuerzo, pero también me sirve para hacer limpieza de cosas antiguas. Ya he comenzado comprimiendo y borrando bastantes ficheros de proyectos finalizados.</p>
+<p>Y hasta ahora, BTSync, que es gratis (aunque me ha costado mi tiempo para configurarlo, claro) está funcionando sin problemas sincronizando los ficheros que necesito. Curiosamente con Dropbox pagaba, pero estaba contento de no tener que dedicar mi tiempo a hacerlo funcionar. Hasta ahora.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2013/08/07/dejo-dropbox-por-bittorrent-sync/feed/</wfw:commentRss>
+		<slash:comments>12</slash:comments>
+		</item>
+		<item>
+		<title>El sistema de control de versiones de Dropbox</title>
+		<link>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/</link>
+		<comments>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/#comments</comments>
+		<pubDate>Thu, 09 Sep 2010 17:26:20 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[herramientas]]></category>
+		<category><![CDATA[Trucos]]></category>
+
+		<guid isPermaLink="false">/?p=1072</guid>
+		<description><![CDATA[Que Dropbox es una maravilla y que me encanta no es nada nuevo. Es sorprendente que te den, gratis, hasta 8 GB sincronizados en la nube y poder acceder a ellos desde Windows, Mac, Linux, tu iPad o tu iPhone. Se ha convertido en una de mis herramientas básicas, de esas que instalas en una [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify;">Que <a href="https://www.dropbox.com/">Dropbox</a> es una maravilla <a href="/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/">y que me encanta</a> no es nada nuevo. Es sorprendente que te den, gratis, hasta 8 GB sincronizados en la nube y poder acceder a ellos desde Windows, Mac, Linux, tu iPad o tu iPhone. Se ha convertido en una de mis herramientas básicas, de esas que instalas en una máquina nueva en cuanto te la dan.</p>
+<p style="text-align: justify;">Y una de las características de Dropbox mejores, pero de las que extrañamente menos se habla, es su <strong>sistema de control de versiones integrado</strong> y automático. Si eres programador, estarás habituado a usar un <a href="http://en.wikipedia.org/wiki/Revision_control">SCM</a>, bien sea CVS, svn, git o Mercurial. Si no, voy a explicar con un ejemplo lo que supone tener ese sistema en Dropbox.</p>
+<p style="text-align: justify;">Supongamos que necesitas dibujar un nuevo icono para esa aplicación de iPhone que ya estás terminando. Abres tu programa de retoque fotográfico y dibujo favorito (en mi caso Pixelmator) y creas el nuevo icono en una carpeta de tu Dropbox. Inmediatamente ves que en el icono de tu Dropbox se activa la sincronización: Dropbox está subiendo esa primera versión de tu archivo (vacío y sin nada dibujado aún) a sus servidores. Dibujas, retocas y cambias cosas durante una hora, sin pulsar la combinación de teclas de grabar. Eso, desde luego, es una invitación al desastre: <em>no lo hagas</em>. Seguro que cuando tengas el icono, o el documento, o lo que sea en lo que estás trabajando se te cuelga el programa y no te deja grabar. <em>Así que graba más a menudo</em>. Bueno, pues al grabar antes de irte a por tu merecido café, Dropbox sube la versión tal y como está ahora: casi perfecta. Hay dos versiones de tu icono entonces, la primera que creaste y que está vacía, y esta segunda casi terminada de antes del café.</p>
+<p style="text-align: justify;">Tras el descanso y de discutir con tus compañeros (es <em>increíble</em> que la gente piense que Java es mejor que Objective C!), vuelves un poco enfadado y te pones a experimentar con un nuevo filtro que se carga tu icono, y «sin querer», grabas el icono. ¡Desastre!. En otro caso habrías perdido una mañana de trabajo. Pero ahora, Dropbox al rescate. Cierras tu programa de dibujo, para no liarla más, navegas hasta el fichero y pulsas con el botón derecho del ratón. Dentro del menú contextual de Dropbox, te encuentras con un pequeño menú como este:</p>
+<p style="text-align: justify;"><a href="/wp-content/uploads/2010/09/dropbox-menu1.png"><img class="aligncenter size-full wp-image-1077" title="dropbox-menu" src="/wp-content/uploads/2010/09/dropbox-menu1.png" alt="" width="279" height="80" /></a><a href="/wp-content/uploads/2010/09/dropbox-menu.png"><br />
+</a>Pulsando sobre la segunda opción (View Previous Versions) podremos consultar nuestro histórico de versiones para ese fichero, en la web de Dropbox. Y lo mejor, podemos convertir en la versión última (la que veremos en nuestra carpeta de Dropbox) cualquiera de esas. Así que nuestro sufrimiento se soluciona simplemente marcando la versión que grabamos antes del café y pulsando Restore. ¡Ya está!. Volvemos a tener la versión casi buena y podemos volver a estropearla las veces que sea necesario: siempre tendremos a Dropbox que vendrá pacientemente a nuestro rescate.</p>
+<p style="text-align: center;"><a href="/wp-content/uploads/2010/09/dropbox-versions.png"><img class="aligncenter size-full wp-image-1079" title="dropbox-versions" src="/wp-content/uploads/2010/09/dropbox-versions.png" alt="" width="544" height="199" srcset="/wp-content/uploads/2010/09/dropbox-versions.png 906w, /wp-content/uploads/2010/09/dropbox-versions-300x109.png 300w" sizes="(max-width: 544px) 100vw, 544px" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>/2010/09/09/el-sistema-de-control-de-versiones-de-dropbox/feed/</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+		</item>
+		<item>
+		<title>Sincronizar EasyTask en dos Macs con Dropbox</title>
+		<link>/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/</link>
+		<comments>/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/#comments</comments>
+		<pubDate>Sat, 05 Dec 2009 17:45:44 +0000</pubDate>
+		<dc:creator><![CDATA[dfreniche]]></dc:creator>
+				<category><![CDATA[Informática]]></category>
+		<category><![CDATA[Mac]]></category>
+		<category><![CDATA[Windows]]></category>
+		<category><![CDATA[Dropbox]]></category>
+		<category><![CDATA[GTD]]></category>
+		<category><![CDATA[iCharlas]]></category>
+		<category><![CDATA[iphone]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[productividad]]></category>
+
+		<guid isPermaLink="false">/?p=504</guid>
+		<description><![CDATA[Hace algún tiempo que vengo usando para organizar mis tareas EasyTask. Empecé a interesarme por el método GTD hace un par de años, como ya comenté, y he continuado leyendo y evolucionando en el método. A raíz de los post de Berto sobre productividad en Thinkwasabi y teniendo el iPhone en mis manos, empecé a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p style="text-align: justify; ">Hace algún tiempo que vengo usando para organizar mis tareas EasyTask. Empecé a interesarme por el método GTD hace un par de años, <a href="/2007/10/13/thinking-rock-rocks/" target="_self">como ya comenté</a>, y he continuado leyendo y evolucionando en el método. A raíz de los post de Berto sobre <a href="http://thinkwasabi.com/productividad/">productividad</a> en <a href="http://thinkwasabi.com/">Thinkwasabi</a> y teniendo el iPhone en mis manos, empecé a buscar un sistema GTD que fuera portable. Mucha gente en el mundo Mac usa <a href="http://culturedcode.com/things/">Things</a>. Yo no lo he probado pero, la verdad, me parecía caro: tienes que pagar por la versión de escritorio y luego por la versión iPhone. Mucha tela para mí.</p>
+<p style="text-align: justify; ">
+<div id="attachment_508" style="width: 330px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/12/todos.jpg"><img class="size-full wp-image-508" title="todos" src="/wp-content/uploads/2009/12/todos.jpg" alt="ToDo's: la clásica lista de cosas por hacer" width="320" height="480" srcset="/wp-content/uploads/2009/12/todos.jpg 320w, /wp-content/uploads/2009/12/todos-200x300.jpg 200w" sizes="(max-width: 320px) 100vw, 320px" /></a><p class="wp-caption-text">ToDo&#39;s: la clásica lista de cosas por hacer</p></div>
+<p style="text-align: justify; ">Comencé con ToDo&#8217;s, una pequeña lista de tareas que puedes ir tachando. Pero no tenía la potencia suficiente. Yo quería contextos, proyectos, etc. Vamos, lo mínimo para hacer GTD. Y me encontré en el iPhone con <a href="http://www.orionbelt.com/productMac.php">EasyTask</a>. La estuve usando unos meses (es gratis) y acabé pagando los 20 $ que cuesta la versión de escritorio. EasyTask, que está ahora en su versión 2.6 debe aún mejorar muchos pequeños problemas que tiene, tanto de usabilidad como bugs. He intercambiado algunos correos con la empresa y su desarrollador para informarle de los fallos. Están trabajando en ello (desde Septiembre), pero aún no hay nueva versión. Bueno, el caso es que la uso a diario, y me sirve para organizarme.</p>
+<p style="text-align: justify; ">El problema es que ahora utilizo dos ordenadores a la vez: mi MacBook Pro para programar con XCode, leer el correo, ver los Feeds, etc. y mi PowerMac G5 para iTunes, iPhoto, iMovie, ver películas, descargar cosas, etc. Y en ambos quería tener instalado EasyTask, lógicamente con las tareas sincronizadas. Y es aquí donde entra en juego <a href="https://www.dropbox.com/" target="_blank">Dropbox</a>.</p>
+<div id="attachment_507" style="width: 244px" class="wp-caption alignright"><a href="/wp-content/uploads/2009/12/dropbox.png"><img class="size-full wp-image-507" title="dropbox" src="/wp-content/uploads/2009/12/dropbox.png" alt="El menú de Dropbox en la barra de menús de mi Mac" width="234" height="236" srcset="/wp-content/uploads/2009/12/dropbox.png 234w, /wp-content/uploads/2009/12/dropbox-150x150.png 150w" sizes="(max-width: 234px) 100vw, 234px" /></a><p class="wp-caption-text">El menú de Dropbox en la barra de menús de mi Mac</p></div>
+<p style="text-align: justify; ">Por si alguien no lo conoce, Dropbox es un servicio que te permite tener gratis 2GB de ficheros subidos «en la nube». Funciona en Linux, Mac y Windows (hay que instalar un programa) y crea una carpeta llamada Dropbox en tu directorio de usuario. A partir de aquí, fichero que tires en tu Dropbox se sube a Internet y aparece en todos los ordenadores donde lo tengas instalado. Se acabaron las llaves USB. Pero Dropbox tiene muchos más usos. Ayer, escuchando el podcast iCharlas en <a href="http://www.icharlas.es/iCharlas_Podcast/iCharlas/Entradas/2009/11/25_iCharlas_Podcast_15__Los_mil_y_un_usos_de_Dropbox.html" target="_blank">un capítulo dedicado a Dropbox</a> se me ocurrió la idea para solucionar mi sincronización de EasyTask.</p>
+<p style="text-align: justify; ">La idea es sencilla: buscar la carpeta donde EasyTask guarda sus datos, moverla a Dropbox y luego crear un enlace simbólico que apunte a la nueva ubicación y que haga creer a EasyTask que todo sigue igual. Esto hay que hacerlo en todos aquellos equipos en los que quieras las sincronización. Lo explico paso a paso y luego hablamos del enlace simbólico.</p>
+<ul>
+<li>instala en todos los ordenadores la misma versión de EasyTask. Así estamos seguros de que no vamos a tener problemas con los formatos de los datos. En EasyTask en Help -&gt; Check for Upgrade nos indica la versión que tenemos.</li>
+<li>cierra todos los EasyTask. Que luego venimos con los problemas <img src="https://s.w.org/images/core/emoji/2.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></li>
+<li>te vas al primer equipo (en mi caso el MacBook Pro) y buscas la carpeta Library &gt; Application Support que está dentro de tu carpeta de usuario. Debe contener muchas carpetas con los datos de tus aplicaciones. Una de ellas será la de EasyTask.</li>
+<li>mueve esta carpeta EasyTask a tu carpeta Dropbox</li>
+<li>ahora, la carpeta EasyTask está en Dropbox, y no en Application Support. Abre la aplicación Terminal (lo más sencillo es con Spotlight, pulsas CMD+Espacio y escribes Terminal)</li>
+<li>Una vez en el terminal, hay que ir a la carpeta Application Support y crear el enlace a la carpeta EasyTask que, recordemos, está ahora en Dropbox. Para ello, escribe:</li>
+</ul>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Tesla:~ dfreniche$ cd Library/Application\ Support/</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Tesla:Application Support dfreniche$ ln -s /Users/dfreniche/Dropbox/EasyTask/ .</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">ln: ./: File exists</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Tesla:Application Support dfreniche$ ln -s /Users/dfreniche/Dropbox/EasyTask/ EasyTask</div>
+<div id="_mcePaste" style="position: absolute; left: -10000px; top: 283px; width: 1px; height: 1px; overflow-x: hidden; overflow-y: hidden;">Tesla:Application Support dfreniche$</div>
+<pre style="padding-left: 60px; ">$ cd Library/Application\ Support/</pre>
+<pre style="padding-left: 60px; ">$ ln -s /Users/dfreniche/Dropbox/EasyTask/ EasyTask</pre>
+<p>Bueno, ya tenemos el enlace creado en el primer equipo. Podemos comprobarlo mirando en el Finder la carpeta Library &gt; Application Support. Debe tener este aspecto:</p>
+<div id="attachment_510" style="width: 1015px" class="wp-caption aligncenter"><a href="/wp-content/uploads/2009/12/carpeta_easytask.png"><img class="size-full wp-image-510" title="carpeta_easytask" src="/wp-content/uploads/2009/12/carpeta_easytask.png" alt="Ahora EasyTask es un enlace simbólico" width="1005" height="539" srcset="/wp-content/uploads/2009/12/carpeta_easytask.png 1005w, /wp-content/uploads/2009/12/carpeta_easytask-300x160.png 300w" sizes="(max-width: 1005px) 100vw, 1005px" /></a><p class="wp-caption-text">Ahora EasyTask es un enlace simbólico</p></div>
+<p>Ya estamos terminando. Queda ahora abrir EasyTask y comprobar que todo funciona OK. Cambiamos de ordenador y la idea ahora es, en cada equipo en el que tengamos EasyTask + Dropbox instalado:</p>
+<ul>
+<li>borrar la carpeta EasyTask de Application Support</li>
+<li>crear un enlace a la nueva carpeta que debe aparecer en Dropbox</li>
+</ul>
+<p>Esto se consigue con un poco de Terminal:</p>
+<pre style="padding-left: 60px; ">$ cd Library/Application\ Support/
+$ rm -rf EasyTask/
+$ ln -s /Users/dfreniche/Dropbox/EasyTask/ EasyTask
+$ ls -l EasyTask
+lrwxr-xr-x  1 dfreniche  staff  34  4 dic 12:51 EasyTask -&gt; /Users/dfreniche/Dropbox/EasyTask/</pre>
+<p>Espero que os sirva este truco. Cuidado con lo que hacéis y, antes de empezar, copiad la carpeta EasyTask a otro lado «por si las moscas».</p>
+<p style="text-align: justify;">Antes de terminar, he quedado antes en explicar por encima qué es un enlace simbólico. Vamos a ello. Un enlace simbólico no es mas que un alias que le indica al S.O. que el fichero o carpeta que se busca no está ahí, sino en otro sitio. Es una forma perfecta de tener aparentemente duplicadas dos carpetas en el sistema de ficheros que están sincronizadas. Realmente sólo hay una y la otra carpeta es un enlace simbólico. Vienen de serie en todos los UNIX (Linux, Solaris, Mac OS X) y, sorprendentemente, <a href="/2005/10/20/¿existen-enlaces-simbolicos-en-windows/" target="_self">también en Windows</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2009/12/05/sincronizar-easytask-en-dos-macs-con-dropbox/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+		</item>
+	</channel>
+</rss>
